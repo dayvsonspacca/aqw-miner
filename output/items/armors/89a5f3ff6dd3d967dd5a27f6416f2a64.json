@@ -1,0 +1,18 @@
+{
+    "urlName": "maya-s-winter-gear",
+    "url": "http://aqwwiki.wikidot.com/maya-s-winter-gear",
+    "name": "Maya's Winter Gear",
+    "type": "armors",
+    "description": "It's a holly, jolly Frostval, and Maya wants to dress to commemorate the season. Now you can too!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/IvQBUqf.png",
+        "http://i.imgur.com/KGRCRKl.png",
+        "http://i.imgur.com/dajl7UR.png"
+    ],
+    "hash": "89a5f3ff6dd3d967dd5a27f6416f2a64"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-shadowcats-armor-legend",
+    "url": "http://aqwwiki.wikidot.com/legion-shadowcats-armor-legend",
+    "name": "Legion ShadowCats Armor (Legend)",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-shadowcats-armor-legend/LegionShadowcatsArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-shadowcats-armor-legend/LegionShadowcatsArmorF.png"
+    ],
+    "hash": "b491bb15885a7ea19008e2a53352613e"
+}

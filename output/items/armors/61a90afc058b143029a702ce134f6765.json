@@ -1,0 +1,17 @@
+{
+    "urlName": "timeless-dark-caster-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/timeless-dark-caster-armor-ac",
+    "name": "Timeless Dark Caster Armor (AC)",
+    "type": "armors",
+    "description": "You have mastered every form of the arcane. Even among the Dark Casters, you are a legend. Recommended enhancement: Wizard",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cg1j9f8.png",
+        "https://i.imgur.com/fTzFIGo.png"
+    ],
+    "hash": "61a90afc058b143029a702ce134f6765"
+}

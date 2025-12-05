@@ -1,0 +1,19 @@
+{
+    "urlName": "centroavante-armor",
+    "url": "http://aqwwiki.wikidot.com/centroavante-armor",
+    "name": "Centroavante Armor",
+    "type": "armors",
+    "description": "Obrigado for supporting AQWorlds through Paymentez!",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/centroavante-armor/CentroavanteArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/centroavante-armor/CentroavanteArmorF.png"
+    ],
+    "hash": "d727700518e70a6620c7fea1c6399f79"
+}

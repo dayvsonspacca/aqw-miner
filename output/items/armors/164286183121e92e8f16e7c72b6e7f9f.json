@@ -1,0 +1,17 @@
+{
+    "urlName": "novac-sal-pirate",
+    "url": "http://aqwwiki.wikidot.com/novac-sal-pirate",
+    "name": "Novac Sal Pirate",
+    "type": "armors",
+    "description": "\"New money\" pirates who set sail for gold on a whim. No one knows their flag or their names. It's sink or swim for these scallywags. Salt and chipped steel will toughen them into real pirates, or send them to depths.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GA7XLbA.png",
+        "https://i.imgur.com/isJBhzD.png"
+    ],
+    "hash": "164286183121e92e8f16e7c72b6e7f9f"
+}

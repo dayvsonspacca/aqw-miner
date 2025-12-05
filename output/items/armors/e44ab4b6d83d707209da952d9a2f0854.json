@@ -1,0 +1,23 @@
+{
+    "urlName": "undead-fighter-armor",
+    "url": "http://aqwwiki.wikidot.com/undead-fighter-armor",
+    "name": "Undead Fighter Armor",
+    "type": "armors",
+    "description": "Surprisingly strong for something that is just cartilage and calcium. Be careful, though; sticks and stones may break these bones!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/hoyfEN8.png",
+        "http://i.imgur.com/Wrs1kqm.png",
+        "http://i.imgur.com/czkJFXB.png",
+        "http://i.imgur.com/S8f0ic2.png",
+        "http://i.imgur.com/6BYhK68.png",
+        "http://i.imgur.com/0OhRxeo.png",
+        "http://i.imgur.com/y3uuHA6.png",
+        "https://i.imgur.com/cpVdCBo.png"
+    ],
+    "hash": "e44ab4b6d83d707209da952d9a2f0854"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "the-unholy-armor",
+    "url": "http://aqwwiki.wikidot.com/the-unholy-armor",
+    "name": "The Unholy Armor",
+    "type": "armors",
+    "description": "You embody all that is unholy and corrupt in the world!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/NCcBp6w.png",
+        "http://i.imgur.com/jzoJm2J.png"
+    ],
+    "hash": "497b0d5c2aadac9d4542886c949e1215"
+}

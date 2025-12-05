@@ -1,0 +1,16 @@
+{
+    "urlName": "elvish-yukata",
+    "url": "http://aqwwiki.wikidot.com/elvish-yukata",
+    "name": "Elvish Yukata",
+    "type": "armors",
+    "description": "A summer yukata that recalls the quiet dawn in a deep green forest. Dapples of sunlight seep through the leaves. Its a design is popular with Elven visitors, and reminds them of home.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/IVCqm9j.png",
+        "https://i.imgur.com/sGIJzLA.png"
+    ],
+    "hash": "98e3db959596e87982dde85faf565ec0"
+}

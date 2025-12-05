@@ -1,0 +1,18 @@
+{
+    "urlName": "casual-ilustrado",
+    "url": "http://aqwwiki.wikidot.com/casual-ilustrado",
+    "name": "Casual Ilustrado",
+    "type": "armors",
+    "description": "Whether leading an army in battle or planning your next adventure in Yulgar's Inn, you'll look like a hero.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Ln9KfGS.png",
+        "https://i.imgur.com/o4DREhU.png",
+        "https://i.imgur.com/JvoWFNH.png"
+    ],
+    "hash": "d717e61eeb5beb6ed8f6e0b60a3a410d"
+}

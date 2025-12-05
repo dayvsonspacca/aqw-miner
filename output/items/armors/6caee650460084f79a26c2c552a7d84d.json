@@ -1,0 +1,18 @@
+{
+    "urlName": "nascent-chronoweaver",
+    "url": "http://aqwwiki.wikidot.com/nascent-chronoweaver",
+    "name": "Nascent ChronoWeaver",
+    "type": "armors",
+    "description": "The Eternal Hero was destined to create and destroy in an endless cycle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yneDLgt.png",
+        "https://i.imgur.com/1e7nxLD.png",
+        "https://i.imgur.com/4hkZ9P5.png"
+    ],
+    "hash": "6caee650460084f79a26c2c552a7d84d"
+}

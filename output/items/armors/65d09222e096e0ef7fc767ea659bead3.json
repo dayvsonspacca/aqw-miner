@@ -1,0 +1,16 @@
+{
+    "urlName": "onyx-doomknight-armor",
+    "url": "http://aqwwiki.wikidot.com/onyx-doomknight-armor",
+    "name": "Onyx DoomKnight Armor",
+    "type": "armors",
+    "description": "This dark plated armor complements your ruthless soul: black, hollow, and undead. Darkness is your ally.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/LgL4PdB.png",
+        "http://i.imgur.com/0GXTmbh.png"
+    ],
+    "hash": "65d09222e096e0ef7fc767ea659bead3"
+}

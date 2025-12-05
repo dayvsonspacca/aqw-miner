@@ -1,0 +1,17 @@
+{
+    "urlName": "ancient-wanderer",
+    "url": "http://aqwwiki.wikidot.com/ancient-wanderer",
+    "name": "Ancient Wanderer",
+    "type": "armors",
+    "description": "This wanderer has traveled far from his home port in the Sandsea. How he ended up here, we may never know.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Q88rZoJ.png",
+        "https://i.imgur.com/TXSxra0.png",
+        "https://i.imgur.com/wm6IF29.png"
+    ],
+    "hash": "ef24ec672a232ea94c734b6e91d956e9"
+}

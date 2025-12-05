@@ -1,0 +1,17 @@
+{
+    "urlName": "neobattleon-runner",
+    "url": "http://aqwwiki.wikidot.com/neobattleon-runner",
+    "name": "NeoBattleon Runner",
+    "type": "armors",
+    "description": "In Battleon's distant future, the face of war and strife have changed. Metal and tech have drilled into both its soil and its people.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/IGVKSFB.png",
+        "https://imgur.com/d0n8buY.png"
+    ],
+    "hash": "9a7fefea4b8f40c48abe4277cf8f7839"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-reaper",
+    "url": "http://aqwwiki.wikidot.com/chaos-reaper",
+    "name": "Chaos Reaper",
+    "type": "armors",
+    "description": "There is nowhere for the sane mind to hide that the insane cannot find you. When a Chaos Reaper comes for you, there is nowhere to run.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-reaper/ChaosReaperM.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaos-reaper/ChaosReaperF.png"
+    ],
+    "hash": "8586b23d8cdcb8b8c729b282ee7795f2"
+}

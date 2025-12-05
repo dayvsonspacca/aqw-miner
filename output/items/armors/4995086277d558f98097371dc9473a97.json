@@ -1,0 +1,17 @@
+{
+    "urlName": "winter-hexer-ac",
+    "url": "http://aqwwiki.wikidot.com/winter-hexer-ac",
+    "name": "Winter Hexer (AC)",
+    "type": "armors",
+    "description": "Channel the power of blizzards and black ice to destroy your enemies!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/winter-hexer-ac/WinterHexerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/winter-hexer-ac/WinterHexerF.png"
+    ],
+    "hash": "4995086277d558f98097371dc9473a97"
+}

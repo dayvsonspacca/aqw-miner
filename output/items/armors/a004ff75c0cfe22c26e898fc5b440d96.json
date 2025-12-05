@@ -1,0 +1,16 @@
+{
+    "urlName": "hamster-server",
+    "url": "http://aqwwiki.wikidot.com/hamster-server",
+    "name": "Hamster Server",
+    "type": "armors",
+    "description": "This hamster will SERVE you up a whole new type of PAIN!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hamster-server/HamsterServer.png"
+    ],
+    "hash": "a004ff75c0cfe22c26e898fc5b440d96"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "gilded-cupid-s-toga",
+    "url": "http://aqwwiki.wikidot.com/gilded-cupid-s-toga",
+    "name": "Gilded Cupid's Toga",
+    "type": "armors",
+    "description": "Love is in the air\u2026 and in the coliseum\u2026 and the museum\u2026 love is everywhere!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gilded-cupid-s-toga/GildedCupidsTogaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/gilded-cupid-s-toga/GildedCupidsTogaMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/gilded-cupid-s-toga/GildedCupidsTogaF.png"
+    ],
+    "hash": "6cb67e898599da9f3723467c4f155710"
+}

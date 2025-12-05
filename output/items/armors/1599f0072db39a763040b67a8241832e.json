@@ -1,0 +1,16 @@
+{
+    "urlName": "wandering-knight",
+    "url": "http://aqwwiki.wikidot.com/wandering-knight",
+    "name": "Wandering Knight",
+    "type": "armors",
+    "description": "The Swordhaven Military Expeditionary Division (AKA: the Wandering Knights) is not just a bunch of loremasters in pith helmets. No, sometimes new frontiers have to be conquered, not studied.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/wlaeWQ0.png",
+        "https://i.imgur.com/EtKiZA2.png"
+    ],
+    "hash": "1599f0072db39a763040b67a8241832e"
+}

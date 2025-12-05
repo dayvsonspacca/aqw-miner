@@ -1,0 +1,18 @@
+{
+    "urlName": "blackserker-champion",
+    "url": "http://aqwwiki.wikidot.com/blackserker-champion",
+    "name": "Blackserker Champion",
+    "type": "armors",
+    "description": "These Berserkers have won countless battles and their thirst for combat is never ending. The mere sight of one of these juggernauts will strike fear in most cases send them running before the battle has begun!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/dOhAgII.png",
+        "http://i.imgur.com/H4fEEtt.png"
+    ],
+    "hash": "a541ba153fa9360d55cba1c7e48f7243"
+}

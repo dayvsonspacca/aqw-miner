@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-legion-warrior",
+    "url": "http://aqwwiki.wikidot.com/undead-legion-warrior",
+    "name": "Undead Legion Warrior",
+    "type": "armors",
+    "description": "The heart of an Undead Legion warrior is filled with courage and loyalty to the Undead Legion.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/02lOyBy.png",
+        "https://i.imgur.com/zDABP6s.png"
+    ],
+    "hash": "bec0faca7cb28eb20af2c870fe146694"
+}

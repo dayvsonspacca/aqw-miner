@@ -1,0 +1,17 @@
+{
+    "urlName": "the-fallen-mage",
+    "url": "http://aqwwiki.wikidot.com/the-fallen-mage",
+    "name": "The Fallen Mage",
+    "type": "armors",
+    "description": "The Fallen Mage robes match those of Karok the Fallen. For the discerning hero who does not have time to battle Karok to get his gear. Gives 15% more class points when equipped!",
+    "rarity": null,
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-fallen-mage/TheFallenMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-fallen-mage/TheFallenMageF.png"
+    ],
+    "hash": "8ba0a77cef4ca2003d190d9653b86cd5"
+}

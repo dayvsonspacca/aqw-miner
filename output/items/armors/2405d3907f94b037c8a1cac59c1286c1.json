@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-elven-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/glacial-elven-armor-ac",
+    "name": "Glacial Elven Armor (AC)",
+    "type": "armors",
+    "description": "The ancestors of the Ice Elves of the Northlands left when the golden city of Camlan became too small. The frost welcomed their presence and became their protection.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Tt6evJM.png",
+        "https://i.imgur.com/bM1WIvI.png"
+    ],
+    "hash": "2405d3907f94b037c8a1cac59c1286c1"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "ledgermayne-armor",
+    "url": "http://aqwwiki.wikidot.com/ledgermayne-armor",
+    "name": "Ledgermayne (Armor)",
+    "type": "armors",
+    "description": "Using some of the remains of Ledgermayne's uncontrollable magic, you created an illusion spell to turn yourself into it! Just be careful, those teeth can actually hurt, for some reason. I guess that's why it was \"uncontrollable.\"",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/UqOvdNv.png"
+    ],
+    "hash": "cf1784ebb46f8bc9c208abefecbe79a1"
+}

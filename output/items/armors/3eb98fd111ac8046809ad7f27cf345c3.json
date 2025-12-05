@@ -1,0 +1,17 @@
+{
+    "urlName": "pepto-zombie-villager",
+    "url": "http://aqwwiki.wikidot.com/pepto-zombie-villager",
+    "name": "Pepto Zombie Villager",
+    "type": "armors",
+    "description": "Just because your an innocent bystandards in the Zombie War doesn't mean you can't look stunning while your dead.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pepto-zombie-villager/PZVM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pepto-zombie-villager/PZVF.png"
+    ],
+    "hash": "3eb98fd111ac8046809ad7f27cf345c3"
+}

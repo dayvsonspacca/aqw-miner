@@ -1,0 +1,17 @@
+{
+    "urlName": "black-sun-ninja",
+    "url": "http://aqwwiki.wikidot.com/black-sun-ninja",
+    "name": "Black Sun Ninja",
+    "type": "armors",
+    "description": "So fast, people will swear the shadows themselves came to life.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/76eJPWS.png",
+        "https://i.imgur.com/TviHiSH.png"
+    ],
+    "hash": "586b1df64c7cc044c4f8f1d96e794bf4"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "pink-bellhop-minion",
+    "url": "http://aqwwiki.wikidot.com/pink-bellhop-minion",
+    "name": "Pink Bellhop Minion",
+    "type": "armors",
+    "description": "Bellhop uniforms are MUCH cuter in pink!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pink-bellhop-minion/PinkBellhopM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pink-bellhop-minion/PinkBellhopF.png"
+    ],
+    "hash": "6e1026b59c70cffadc3d31d6cee88620"
+}

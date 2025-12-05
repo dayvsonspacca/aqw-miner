@@ -1,0 +1,17 @@
+{
+    "urlName": "arcane-cryptkeeper-armor",
+    "url": "http://aqwwiki.wikidot.com/arcane-cryptkeeper-armor",
+    "name": "Arcane CryptKeeper (Armor)",
+    "type": "armors",
+    "description": "The keeper's black magic evolved and so does its knowledge of the catacombs it is charged to keep, but their humane feelings are nearly eroded by the corruption that is close to consuming their souls.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/arcane-cryptkeeper-armor/ArcaneCryptkeeperM.png",
+        "http://aqwwiki.wdfiles.com/local--files/arcane-cryptkeeper-armor/ArcaneCryptkeeperF.png"
+    ],
+    "hash": "f53af2d18ca7c79d7278b35d2f8c8c0a"
+}

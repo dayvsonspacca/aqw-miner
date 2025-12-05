@@ -1,0 +1,17 @@
+{
+    "urlName": "platinum-chevalier-0-ac",
+    "url": "http://aqwwiki.wikidot.com/platinum-chevalier-0-ac",
+    "name": "Platinum Chevalier (0 AC)",
+    "type": "armors",
+    "description": "On pure steeds, the Platinum Chevalier rides gallantly into battle. A new horn is awarded for each battle won.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Vhg9tvH.png",
+        "https://i.imgur.com/eUnJK55.png"
+    ],
+    "hash": "894f86aa7cc61c0dfa57429b0b810847"
+}

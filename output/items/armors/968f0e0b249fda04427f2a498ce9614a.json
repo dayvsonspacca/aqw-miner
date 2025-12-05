@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-archer-armor",
+    "url": "http://aqwwiki.wikidot.com/legion-archer-armor",
+    "name": "Legion Archer Armor",
+    "type": "armors",
+    "description": "Archers of the Legion are among the best equipped undead that serve under Dage. As such, not anyone can be accepted into this elite unit.",
+    "rarity": "Epic Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/rMaQRTa.png",
+        "https://i.imgur.com/Z4Qb4Lr.png",
+        "https://i.imgur.com/TSzkVth.png",
+        "https://i.imgur.com/URGPLAC.png"
+    ],
+    "hash": "968f0e0b249fda04427f2a498ce9614a"
+}

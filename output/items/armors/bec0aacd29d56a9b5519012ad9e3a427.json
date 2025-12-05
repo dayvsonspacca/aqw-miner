@@ -1,0 +1,17 @@
+{
+    "urlName": "galleon-crewmember",
+    "url": "http://aqwwiki.wikidot.com/galleon-crewmember",
+    "name": "Galleon Crewmember",
+    "type": "armors",
+    "description": "Man t' wheel as you and your hearties turn t' gears on your ship as you venture for treasure and adventure on t' open sea!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/galleon-crewmember/GalleonCrewmemberMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/galleon-crewmember/GalleonCrewmemberFemale.png"
+    ],
+    "hash": "bec0aacd29d56a9b5519012ad9e3a427"
+}

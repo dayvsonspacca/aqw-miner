@@ -1,0 +1,17 @@
+{
+    "urlName": "magelord",
+    "url": "http://aqwwiki.wikidot.com/magelord",
+    "name": "Magelord",
+    "type": "armors",
+    "description": "A set of regal robes that reflect your expertise in the ever-expanding field of magic. Only true magi have the honor of wearing such an armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fJvdO24.png",
+        "http://aqwwiki.wdfiles.com/local--files/magelord/MagelordM.png"
+    ],
+    "hash": "1d29f13e2e529b6cb5ca9c9efdcb739f"
+}

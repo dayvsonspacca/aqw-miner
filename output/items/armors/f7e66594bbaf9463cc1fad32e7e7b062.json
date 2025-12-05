@@ -1,0 +1,17 @@
+{
+    "urlName": "yami-no-samurai",
+    "url": "http://aqwwiki.wikidot.com/yami-no-samurai",
+    "name": "Yami no Samurai",
+    "type": "armors",
+    "description": "The dark warriors of Yokai Isle once served a mighty emperor but were driven out after the last dynasty ended. However their vigilance hasn't wavered.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8PznGPW.png",
+        "https://i.imgur.com/8mT1MCo.png"
+    ],
+    "hash": "f7e66594bbaf9463cc1fad32e7e7b062"
+}

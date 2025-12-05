@@ -1,0 +1,17 @@
+{
+    "urlName": "molten-monarch",
+    "url": "http://aqwwiki.wikidot.com/molten-monarch",
+    "name": "Molten Monarch",
+    "type": "armors",
+    "description": "You'll never fall victim to the head of the summer once you can control the flames!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yItWHDA.png",
+        "https://i.imgur.com/nA7dn47.png"
+    ],
+    "hash": "bbab76f04a407be2f2f876e9b554601b"
+}

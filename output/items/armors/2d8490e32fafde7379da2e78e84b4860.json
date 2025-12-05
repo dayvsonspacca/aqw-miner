@@ -1,0 +1,18 @@
+{
+    "urlName": "wolf-lord",
+    "url": "http://aqwwiki.wikidot.com/wolf-lord",
+    "name": "Wolf Lord",
+    "type": "armors",
+    "description": "The Wolf Lord stalks the Northlands, culling the herds and taking those past their prime. Bards still tell the tale of the battle between the Wolf Lord and the Rune Lord, and how the skies shook with their battle cries.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/mZFcjrg.png",
+        "https://i.imgur.com/VNfs3EM.png"
+    ],
+    "hash": "2d8490e32fafde7379da2e78e84b4860"
+}

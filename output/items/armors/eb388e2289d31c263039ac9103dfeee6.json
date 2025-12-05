@@ -1,0 +1,17 @@
+{
+    "urlName": "zardman-floaties-armor",
+    "url": "http://aqwwiki.wikidot.com/zardman-floaties-armor",
+    "name": "Zardman Floaties Armor",
+    "type": "armors",
+    "description": "Perfect for splashing around Burning Beach! These inflatable Zard floatie wings may not stop a Lava Guardian, but they'll keep you looking cool while you fight the heat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/RSduc8N.png",
+        "https://i.imgur.com/Qm8I0wm.png"
+    ],
+    "hash": "eb388e2289d31c263039ac9103dfeee6"
+}

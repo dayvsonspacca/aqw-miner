@@ -1,0 +1,17 @@
+{
+    "urlName": "lightscythe-ruler-ac",
+    "url": "http://aqwwiki.wikidot.com/lightscythe-ruler-ac",
+    "name": "LightScythe Ruler (AC)",
+    "type": "armors",
+    "description": "The Lightscythe and their allies will keep freedom and justice alive at all costs. Want to spend a day in Brightfall's throne? They'd be honored to receive your tutelage.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/K1MiIHA.png",
+        "https://i.imgur.com/LqK6yAZ.png"
+    ],
+    "hash": "467732ff4bda1559edc91912e6377307"
+}

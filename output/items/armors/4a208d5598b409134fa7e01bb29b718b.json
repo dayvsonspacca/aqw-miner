@@ -1,0 +1,17 @@
+{
+    "urlName": "chaotic-dragonknight",
+    "url": "http://aqwwiki.wikidot.com/chaotic-dragonknight",
+    "name": "Chaotic DragonKnight",
+    "type": "armors",
+    "description": "There are some who proctect the land from those that would like to cause nothing but chaos. These are the chaotic ones.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kJ2v6CU.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaotic-dragonknight/ChaoticDragonKnightMale.png"
+    ],
+    "hash": "4a208d5598b409134fa7e01bb29b718b"
+}

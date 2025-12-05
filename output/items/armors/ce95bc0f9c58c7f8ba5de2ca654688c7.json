@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-dragon-shinobi-armor",
+    "url": "http://aqwwiki.wikidot.com/shadow-dragon-shinobi-armor",
+    "name": "Shadow Dragon Shinobi Armor",
+    "type": "armors",
+    "description": "Ninjas are hailed for their dexterity. Dragons are praised for their strength. And when the Ninja trains in the way of the Dragon, they shall become the Dragon Shinobi, master of brutal warfare!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/O6i8NyQ.png",
+        "https://i.imgur.com/eoqM7b1.png"
+    ],
+    "hash": "ce95bc0f9c58c7f8ba5de2ca654688c7"
+}

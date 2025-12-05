@@ -1,0 +1,16 @@
+{
+    "urlName": "zombie-guardian",
+    "url": "http://aqwwiki.wikidot.com/zombie-guardian",
+    "name": "Zombie Guardian",
+    "type": "armors",
+    "description": "Most Guardians protected the land of Lore. Zombie Guardians don't care about any of that\u2014they just want to protect their fridges full of brains.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/CtxMIDJ.png",
+        "http://i.imgur.com/7CpgyDY.png"
+    ],
+    "hash": "7367fa073f64b074780de89bfbdcd65f"
+}

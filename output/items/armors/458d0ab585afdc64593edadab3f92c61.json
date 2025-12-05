@@ -1,0 +1,17 @@
+{
+    "urlName": "giftbox-armor-2020-quest",
+    "url": "http://aqwwiki.wikidot.com/giftbox-armor-2020-quest",
+    "name": "Giftbox Armor 2020 (Quest)",
+    "type": "armors",
+    "description": "Festive Frostval! These giftboxes will open on January 1st, 2021 to reveal your EPIC Frostval set!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/m13c0jH.png",
+        "https://i.imgur.com/kwE11YR.png"
+    ],
+    "hash": "458d0ab585afdc64593edadab3f92c61"
+}

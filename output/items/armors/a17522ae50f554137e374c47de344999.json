@@ -1,0 +1,17 @@
+{
+    "urlName": "performing-ubear",
+    "url": "http://aqwwiki.wikidot.com/performing-ubear",
+    "name": "Performing UBear",
+    "type": "armors",
+    "description": "Come one, come all, to a recreation of the greatest show in AdventureQuest! And bring along some bear-bait!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/performing-ubear/PerformingUBearM.png",
+        "http://aqwwiki.wdfiles.com/local--files/performing-ubear/PerformingUBearF.png"
+    ],
+    "hash": "a17522ae50f554137e374c47de344999"
+}

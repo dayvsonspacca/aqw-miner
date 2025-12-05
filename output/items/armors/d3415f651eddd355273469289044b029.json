@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-fiend-ac",
+    "url": "http://aqwwiki.wikidot.com/chaos-fiend-ac",
+    "name": "Chaos Fiend (AC)",
+    "type": "armors",
+    "description": "The fiends were not infected by Chaos. It grew from within. Wounds opened, and transformed into eyes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/dZFtlAT.png",
+        "https://i.imgur.com/ndDwknm.png"
+    ],
+    "hash": "d3415f651eddd355273469289044b029"
+}

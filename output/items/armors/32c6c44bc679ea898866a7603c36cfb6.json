@@ -1,0 +1,17 @@
+{
+    "urlName": "port-a-pwnzor",
+    "url": "http://aqwwiki.wikidot.com/port-a-pwnzor",
+    "name": "Port-A-Pwnzor",
+    "type": "armors",
+    "description": "World Toilet Day is November 19th! Now you are prepared to face whatever the world has to flush at you!",
+    "rarity": "Crazy Rarity",
+    "tags": [
+        "Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/port-a-pwnzor/Port-a-PwnzorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/port-a-pwnzor/Port-a-PwnzorF.png"
+    ],
+    "hash": "32c6c44bc679ea898866a7603c36cfb6"
+}

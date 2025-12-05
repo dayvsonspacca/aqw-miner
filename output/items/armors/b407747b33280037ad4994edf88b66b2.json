@@ -1,0 +1,17 @@
+{
+    "urlName": "abyssal-cryptkeeper-armor",
+    "url": "http://aqwwiki.wikidot.com/abyssal-cryptkeeper-armor",
+    "name": "Abyssal CryptKeeper (Armor)",
+    "type": "armors",
+    "description": "Trainees in the Eergcast Catacombs have retained humane feelings and reason, but a parasitic corruption eats away at their souls, fueling their desires to learn their captors-turned-masters.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/abyssal-cryptkeeper-armor/AbyssalCryptkeeperM.png",
+        "http://aqwwiki.wdfiles.com/local--files/abyssal-cryptkeeper-armor/AbyssalCryptkeeperF.png"
+    ],
+    "hash": "b407747b33280037ad4994edf88b66b2"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "fiend-mauler",
+    "url": "http://aqwwiki.wikidot.com/fiend-mauler",
+    "name": "Fiend Mauler",
+    "type": "armors",
+    "description": "You may think I am evil. I am not. I am the MOST EVIL.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VMfUllu.png",
+        "https://i.imgur.com/60hlATD.png"
+    ],
+    "hash": "5816db8653e5ff325ed7cc187e0d37ad"
+}

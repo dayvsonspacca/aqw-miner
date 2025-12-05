@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-asgardian-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-asgardian-ac",
+    "name": "Dark Asgardian (AC)",
+    "type": "armors",
+    "description": "Forged in the land of the underworld gods, this dark plate commands the fury and anger of the deities it was forged by. Every strike cracks with the intensity of lightning.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bK6eDw9.png",
+        "https://i.imgur.com/VM3jKuU.png"
+    ],
+    "hash": "6f59c54eb25df15e88fa5cc9cf1e87bb"
+}

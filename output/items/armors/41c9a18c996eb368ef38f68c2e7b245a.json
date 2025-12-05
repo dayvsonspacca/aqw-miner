@@ -1,0 +1,17 @@
+{
+    "urlName": "ice-symbiote-armor",
+    "url": "http://aqwwiki.wikidot.com/ice-symbiote-armor",
+    "name": "Ice Symbiote (Armor)",
+    "type": "armors",
+    "description": "What better way to survive the winter-long battles than to merge with the ice itself. Take in the cold, the frost, the bitter, biting winds and feel the cold seep into your spirit. Embrace the ice and become a formidable foe.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ice-symbiote-armor/ISM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ice-symbiote-armor/ISF.png"
+    ],
+    "hash": "41c9a18c996eb368ef38f68c2e7b245a"
+}

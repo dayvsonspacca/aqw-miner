@@ -1,0 +1,17 @@
+{
+    "urlName": "icy-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/icy-naval-commander",
+    "name": "Icy Naval Commander",
+    "type": "armors",
+    "description": "Shiver me timbers! It be thee Icy Naval Commander! A pirate cap'n this cool freezes over.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/icy-naval-commander/IcyNavalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/icy-naval-commander/IcyNavalCommanderF.png"
+    ],
+    "hash": "7b6899b7820f07a51c53947283c15687"
+}

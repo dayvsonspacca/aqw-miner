@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-mana-flame",
+    "url": "http://aqwwiki.wikidot.com/dark-mana-flame",
+    "name": "Dark Mana Flame",
+    "type": "armors",
+    "description": "The Elemental Avatars act through their Champions on Lore, prevented from connecting to the Mana Core that is the heart of our world. Should the flame of its power be extinguished, the spirit of our world itself would die out.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/poNHjLX.png",
+        "https://i.imgur.com/OlX1PnJ.png"
+    ],
+    "hash": "b782b53c9384bb12eec679558469b2bf"
+}

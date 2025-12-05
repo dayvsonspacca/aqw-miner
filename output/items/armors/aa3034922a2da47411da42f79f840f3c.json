@@ -1,0 +1,18 @@
+{
+    "urlName": "candycaster-armor",
+    "url": "http://aqwwiki.wikidot.com/candycaster-armor",
+    "name": "CandyCaster Armor",
+    "type": "armors",
+    "description": "The order of Candy Casters have used magic to harness the hidden potential of candy. Now you can draw the same power from this delightfully delicious outfit. Just don't crash once the sugar rush wears off!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/AnsGava.png",
+        "https://i.imgur.com/hNlcSeS.png"
+    ],
+    "hash": "aa3034922a2da47411da42f79f840f3c"
+}

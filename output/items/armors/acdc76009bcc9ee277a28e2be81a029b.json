@@ -1,0 +1,17 @@
+{
+    "urlName": "gatotkaca",
+    "url": "http://aqwwiki.wikidot.com/gatotkaca",
+    "name": "Gatotkaca",
+    "type": "armors",
+    "description": "Through your courage, strength, and humility, truth and justice will spread throughout the land.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Igo2PLc.png",
+        "https://i.imgur.com/uH2JlFu.png"
+    ],
+    "hash": "acdc76009bcc9ee277a28e2be81a029b"
+}

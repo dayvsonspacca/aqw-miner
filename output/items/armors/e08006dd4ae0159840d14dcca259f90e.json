@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-gladiator",
+    "url": "http://aqwwiki.wikidot.com/underworld-gladiator",
+    "name": "Underworld Gladiator",
+    "type": "armors",
+    "description": "This gladiator's will was SO strong, they did not even realize when they fell in battle and crossed over into death. Now, they stalk the Underworld looking for new opponents to prove their skill in combat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/f590wPv.png",
+        "https://i.imgur.com/jEe9ZMF.png"
+    ],
+    "hash": "e08006dd4ae0159840d14dcca259f90e"
+}

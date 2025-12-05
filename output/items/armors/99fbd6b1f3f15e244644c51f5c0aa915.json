@@ -1,0 +1,17 @@
+{
+    "urlName": "winter-uniform",
+    "url": "http://aqwwiki.wikidot.com/winter-uniform",
+    "name": "Winter Uniform",
+    "type": "armors",
+    "description": "A wise hero knows that no matter what season it is, there is always more to learn.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QpTB45F.png",
+        "https://i.imgur.com/C3DJkMy.png"
+    ],
+    "hash": "99fbd6b1f3f15e244644c51f5c0aa915"
+}

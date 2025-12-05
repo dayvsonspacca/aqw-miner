@@ -1,0 +1,15 @@
+{
+    "urlName": "dark-snuggle-bear",
+    "url": "http://aqwwiki.wikidot.com/dark-snuggle-bear",
+    "name": "Dark Snuggle Bear",
+    "type": "armors",
+    "description": "Bear it all in this fuzzy wuzzy Snuggle Bear Armor! Cuddly soft and oh-so warm, friend and foe alike will want to give you a great big hug.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-snuggle-bear/DarkSnuggleBear.png"
+    ],
+    "hash": "c93d0d824ae14408e1169b2bb133a9e3"
+}

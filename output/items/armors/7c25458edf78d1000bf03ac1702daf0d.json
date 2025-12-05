@@ -1,0 +1,17 @@
+{
+    "urlName": "red-dragon-destroyer",
+    "url": "http://aqwwiki.wikidot.com/red-dragon-destroyer",
+    "name": "Red Dragon Destroyer",
+    "type": "armors",
+    "description": "Slay the red dragon during the Spring Break Special Boss challenge and become the Red Dragon Destroyer! The armor is 0 ACs for free storage!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/red-dragon-destroyer/RDDM.png",
+        "http://aqwwiki.wdfiles.com/local--files/red-dragon-destroyer/RedDragonDestroyerF.png"
+    ],
+    "hash": "7c25458edf78d1000bf03ac1702daf0d"
+}

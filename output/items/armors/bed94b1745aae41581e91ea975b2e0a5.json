@@ -1,0 +1,17 @@
+{
+    "urlName": "kotamart-replica",
+    "url": "http://aqwwiki.wikidot.com/kotamart-replica",
+    "name": "KotaMart Replica",
+    "type": "armors",
+    "description": "KotaMart's 26th special edition gear! It hasn't even reached the shelves yet! I wonder how Kotaro managed to get his hands on-wait a minute\u2026",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/eLokE9o.png",
+        "https://i.imgur.com/RvT6TRI.png"
+    ],
+    "hash": "bed94b1745aae41581e91ea975b2e0a5"
+}

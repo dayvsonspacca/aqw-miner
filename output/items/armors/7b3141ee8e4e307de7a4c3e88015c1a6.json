@@ -1,0 +1,18 @@
+{
+    "urlName": "galactic-infantry",
+    "url": "http://aqwwiki.wikidot.com/galactic-infantry",
+    "name": "Galactic Infantry",
+    "type": "armors",
+    "description": "Everything in space is meant to eliminate life. Then the best way to survive is to adapt to your surroundings. Become as dangerous as the yawning void.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/vZV4NX7.png",
+        "https://i.imgur.com/OMOAhDg.png"
+    ],
+    "hash": "7b3141ee8e4e307de7a4c3e88015c1a6"
+}

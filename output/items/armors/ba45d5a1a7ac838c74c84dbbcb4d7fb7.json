@@ -1,0 +1,17 @@
+{
+    "urlName": "anseri-destroyer",
+    "url": "http://aqwwiki.wikidot.com/anseri-destroyer",
+    "name": "Anseri Destroyer",
+    "type": "armors",
+    "description": "Birds evolved from dinosaurs\u2026 that is magic in my book! Charge into battle on the back of one of Lore's fiercest creatures and demolish your opponents!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/anseri-destroyer/AnseriDestroyerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/anseri-destroyer/AnseriDestroyerF.png"
+    ],
+    "hash": "ba45d5a1a7ac838c74c84dbbcb4d7fb7"
+}

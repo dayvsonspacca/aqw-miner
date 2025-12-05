@@ -1,0 +1,16 @@
+{
+    "urlName": "earth-creeper-morph",
+    "url": "http://aqwwiki.wikidot.com/earth-creeper-morph",
+    "name": "Earth Creeper Morph",
+    "type": "armors",
+    "description": "You've morphed into an Earth Creeper. Although a distant cousin of the more terrifying Red and Dark Fiend, these creatures are peaceful by nature and like to avoid conflict. Their claws enable them to dig great holes in the ground where they live and hide.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/V9WuNAk.png",
+        "http://i.imgur.com/qz1zTia.png"
+    ],
+    "hash": "4bf28ab8f42c45b917ee5ef1e0fafbf7"
+}

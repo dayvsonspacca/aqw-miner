@@ -1,0 +1,16 @@
+{
+    "urlName": "void-sorcerer",
+    "url": "http://aqwwiki.wikidot.com/void-sorcerer",
+    "name": "Void Sorcerer",
+    "type": "armors",
+    "description": "The sorcerers of Nulgath's army channel a darker power than most mages will ever wield. They dedicate their lives and power to the glory of the ArchFiend!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/D4u31mO.png",
+        "https://imgur.com/Cw3cd14.png"
+    ],
+    "hash": "c49f8da8b34851e8791ae7f5b6bf6c7e"
+}

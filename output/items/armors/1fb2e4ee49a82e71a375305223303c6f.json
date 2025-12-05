@@ -1,0 +1,17 @@
+{
+    "urlName": "harpies-varsity-team",
+    "url": "http://aqwwiki.wikidot.com/harpies-varsity-team",
+    "name": "Harpies Varsity Team",
+    "type": "armors",
+    "description": "Rah rah rah! Go Harpies!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KI9sgPx.png",
+        "https://i.imgur.com/p5O6mgR.png"
+    ],
+    "hash": "1fb2e4ee49a82e71a375305223303c6f"
+}

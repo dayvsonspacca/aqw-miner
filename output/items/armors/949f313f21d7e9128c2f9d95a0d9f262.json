@@ -1,0 +1,17 @@
+{
+    "urlName": "titan-attendant",
+    "url": "http://aqwwiki.wikidot.com/titan-attendant",
+    "name": "Titan Attendant",
+    "type": "armors",
+    "description": "The Blood Titan cannot do many things for himself due to his large size. He requires an attendant\u2026 and YOU have been selected to help him!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/dyT1Hl2.png",
+        "http://i.imgur.com/fl7ieVS.png"
+    ],
+    "hash": "949f313f21d7e9128c2f9d95a0d9f262"
+}

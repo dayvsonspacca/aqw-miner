@@ -1,0 +1,17 @@
+{
+    "urlName": "one-eyed-warrior",
+    "url": "http://aqwwiki.wikidot.com/one-eyed-warrior",
+    "name": "One Eyed Warrior",
+    "type": "armors",
+    "description": "This punk rock warrior puts the \"battle\" in \"battle of the bands!\" This rare armor was uncovered during the live One-Eyed Doll event.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/one-eyed-warrior/One-EyedWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/one-eyed-warrior/One-EyedWarriorFemale.png"
+    ],
+    "hash": "02e41566b6f19f3d145862186ff3db03"
+}

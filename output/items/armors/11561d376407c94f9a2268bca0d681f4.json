@@ -1,0 +1,16 @@
+{
+    "urlName": "beach-bumdead-armor",
+    "url": "http://aqwwiki.wikidot.com/beach-bumdead-armor",
+    "name": "Beach Bumdead Armor",
+    "type": "armors",
+    "description": "You won't have to worry about getting sunburned.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/beach-bumdead-armor/BeachBumdead.png"
+    ],
+    "hash": "11561d376407c94f9a2268bca0d681f4"
+}

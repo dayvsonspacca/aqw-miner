@@ -1,0 +1,17 @@
+{
+    "urlName": "scurvyfins",
+    "url": "http://aqwwiki.wikidot.com/scurvyfins",
+    "name": "Scurvyfins",
+    "type": "armors",
+    "description": "So you think dressing up as Scurvyfins will keep you safe? Think again.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6EtMRWF.png",
+        "https://i.imgur.com/9Q6RsFm.png"
+    ],
+    "hash": "bd18962a30c1d3d282592b8dc7f5b9ec"
+}

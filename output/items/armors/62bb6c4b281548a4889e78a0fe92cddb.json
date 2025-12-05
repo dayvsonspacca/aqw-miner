@@ -1,0 +1,18 @@
+{
+    "urlName": "celestial-pirate-commander",
+    "url": "http://aqwwiki.wikidot.com/celestial-pirate-commander",
+    "name": "Celestial Pirate Commander",
+    "type": "armors",
+    "description": "Whether you sail the seas or the skies, victory is always within your reach.(Item does 30% more damage to all tagged monsters when equipped.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/4SWcY67.png",
+        "https://i.imgur.com/VbQNQA3.png",
+        "https://i.imgur.com/NRMMMkn.png"
+    ],
+    "hash": "62bb6c4b281548a4889e78a0fe92cddb"
+}

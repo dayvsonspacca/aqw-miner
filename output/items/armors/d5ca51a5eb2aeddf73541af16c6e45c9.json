@@ -1,0 +1,16 @@
+{
+    "urlName": "ironhide-plate",
+    "url": "http://aqwwiki.wikidot.com/ironhide-plate",
+    "name": "Ironhide Plate",
+    "type": "armors",
+    "description": "Only the most battle hardened veterans of Lore are able to fight in Ironhide Plate. A normal adventurer would collapse under the sheer weight of this armor. But it's said those that possess the strength to wear it become human tanks and are able to withstand massive damage.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/sBnbsVO.png",
+        "http://i.imgur.com/9DHZpBd.png"
+    ],
+    "hash": "d5ca51a5eb2aeddf73541af16c6e45c9"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "poisonous-candycaster",
+    "url": "http://aqwwiki.wikidot.com/poisonous-candycaster",
+    "name": "Poisonous CandyCaster",
+    "type": "armors",
+    "description": "The order of Candy Casters have used magic to harness the hidden potential of candy. Now you can draw the same power from this delightfully delicious outfit. Just don't crash once the sugar rush wears off!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Jx0rOCm.png",
+        "http://i.imgur.com/eQ34ibH.png"
+    ],
+    "hash": "534cdd6019a16fa054a2e9659eb8a741"
+}

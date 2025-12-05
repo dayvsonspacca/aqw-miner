@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-healer",
+    "url": "http://aqwwiki.wikidot.com/chaos-healer",
+    "name": "Chaos Healer",
+    "type": "armors",
+    "description": "Chaos Healers are servants of chaos who use their powers to effect the sick, weak, and injured and either heal or kill them. Their insane healing magic is often the difference between groups of victory or doom, but you can never tell which.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-healer/ChaosHealerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaos-healer/ChaosHealerF.png"
+    ],
+    "hash": "d9009c69a22abcaa332589d6e2289a01"
+}

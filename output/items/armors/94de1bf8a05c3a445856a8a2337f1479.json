@@ -1,0 +1,16 @@
+{
+    "urlName": "faken",
+    "url": "http://aqwwiki.wikidot.com/faken",
+    "name": "Faken",
+    "type": "armors",
+    "description": "There can only be ONE Laken, but it couldn't hurt to have an army of FAKENs running around slaying things. So here you go!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/faken/FakenM.png",
+        "http://aqwwiki.wdfiles.com/local--files/faken/FakenF.png"
+    ],
+    "hash": "94de1bf8a05c3a445856a8a2337f1479"
+}

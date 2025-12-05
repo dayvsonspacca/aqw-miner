@@ -1,0 +1,17 @@
+{
+    "urlName": "battletech-anarchist-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/battletech-anarchist-armor-ac",
+    "name": "Battletech Anarchist (Armor) (AC)",
+    "type": "armors",
+    "description": "A revolutionary who uses science and magic to shake the foundations of the world. Their ideas are genius\u2026if they can hear their own thoughts over the blasts of their guns.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lGl2ZCW.png",
+        "https://i.imgur.com/B0PK9jK.png"
+    ],
+    "hash": "80688ecbd7fba5bae9206a2bba25031d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "zeus-suit",
+    "url": "http://aqwwiki.wikidot.com/zeus-suit",
+    "name": "ZEUS Suit",
+    "type": "armors",
+    "description": "An emergency welding suit. Great for repairing holes while atop a speeding train, or chasing down thieving thieves.",
+    "rarity": "Secret Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/SdZAlYE.png",
+        "https://i.imgur.com/nXeANUa.png"
+    ],
+    "hash": "b81290fe4104b8273238ccbed8f59e85"
+}

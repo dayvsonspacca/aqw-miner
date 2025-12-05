@@ -1,0 +1,18 @@
+{
+    "urlName": "polar-permanence",
+    "url": "http://aqwwiki.wikidot.com/polar-permanence",
+    "name": "Polar Permanence",
+    "type": "armors",
+    "description": "Evening wear sewn by craftsmen from the Unseelie Winter Fae courts. They're given to mortal who impress their cruel sensibilities, and changelings raised in the frigid snow.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/gNNORhg.png",
+        "https://i.imgur.com/WCRalwk.png"
+    ],
+    "hash": "812861fc0aacddf176490e5c5775cd91"
+}

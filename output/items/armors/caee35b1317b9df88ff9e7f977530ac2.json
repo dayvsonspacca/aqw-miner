@@ -1,0 +1,17 @@
+{
+    "urlName": "master-punk",
+    "url": "http://aqwwiki.wikidot.com/master-punk",
+    "name": "Master Punk",
+    "type": "armors",
+    "description": "You'll lose yourself to dance in this snappy suit.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/master-punk/MasterPunkM.png",
+        "http://aqwwiki.wdfiles.com/local--files/master-punk/MasterPunkF.png"
+    ],
+    "hash": "caee35b1317b9df88ff9e7f977530ac2"
+}

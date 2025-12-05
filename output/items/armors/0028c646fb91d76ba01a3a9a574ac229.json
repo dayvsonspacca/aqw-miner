@@ -1,0 +1,17 @@
+{
+    "urlName": "seraphic-soulweaver",
+    "url": "http://aqwwiki.wikidot.com/seraphic-soulweaver",
+    "name": "Seraphic SoulWeaver",
+    "type": "armors",
+    "description": "Laken's Seraphic Paladins recruited many of Lore's greatest heroes. SoulWeavers are among the finest, able to bind and break the very spirits of their enemies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JK1xZn7.png",
+        "https://i.imgur.com/Q7IAgIs.png"
+    ],
+    "hash": "0028c646fb91d76ba01a3a9a574ac229"
+}

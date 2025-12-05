@@ -1,0 +1,16 @@
+{
+    "urlName": "rockstar",
+    "url": "http://aqwwiki.wikidot.com/rockstar",
+    "name": "Rockstar",
+    "type": "armors",
+    "description": "The beat was going strong. Playing my favorite song. I love rock and roll! (5% gold boost when equipped)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/n6wBwB3.png",
+        "http://i.imgur.com/qI1DOSu.png"
+    ],
+    "hash": "f82957ba75bafbf441bc523accc6e504"
+}

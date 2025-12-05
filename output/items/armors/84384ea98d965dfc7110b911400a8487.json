@@ -1,0 +1,16 @@
+{
+    "urlName": "recycled-armor",
+    "url": "http://aqwwiki.wikidot.com/recycled-armor",
+    "name": "Recycled Armor",
+    "type": "armors",
+    "description": "The mighty recycled knight armor. Net value: 45 cents worth of used soda cans.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/recycled-armor/RecycledArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/recycled-armor/RecycledArmorF.png"
+    ],
+    "hash": "84384ea98d965dfc7110b911400a8487"
+}

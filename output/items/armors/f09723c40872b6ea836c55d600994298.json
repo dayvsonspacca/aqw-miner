@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-thaumaturge",
+    "url": "http://aqwwiki.wikidot.com/nation-thaumaturge",
+    "name": "Nation Thaumaturge",
+    "type": "armors",
+    "description": "A member of the Nation that gave up their soul to become a Mage, Alchemist, and Soothsayer rolled into one. They mutate everything around them, not unlike the Fiend's Void.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/mEpimrD.png",
+        "https://i.imgur.com/lk4lC9l.png"
+    ],
+    "hash": "f09723c40872b6ea836c55d600994298"
+}

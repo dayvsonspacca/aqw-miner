@@ -1,0 +1,16 @@
+{
+    "urlName": "akiban-hanfu",
+    "url": "http://aqwwiki.wikidot.com/akiban-hanfu",
+    "name": "Akiban Hanfu",
+    "type": "armors",
+    "description": "Gong Xi Fa Cai! May your presence bring luck and prosperity when you don this suit!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Flamfke.png",
+        "https://i.imgur.com/l0PgtWv.png"
+    ],
+    "hash": "a0e3e1e74f2cb648040355871d96f397"
+}

@@ -1,0 +1,13 @@
+{
+    "urlName": "horc-grunt",
+    "url": "http://aqwwiki.wikidot.com/horc-grunt",
+    "name": "Horc Grunt",
+    "type": "armors",
+    "description": "The backbone of the Horc forces.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/UYMpmyp.png"
+    ],
+    "hash": "b42065b5e4f1ed5c99255e4c95b8919a"
+}

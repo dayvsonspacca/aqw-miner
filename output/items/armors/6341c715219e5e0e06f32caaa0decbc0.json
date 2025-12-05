@@ -1,0 +1,17 @@
+{
+    "urlName": "jester-outfit",
+    "url": "http://aqwwiki.wikidot.com/jester-outfit",
+    "name": "Jester Outfit",
+    "type": "armors",
+    "description": "April Fools! 2009.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/jester-outfit/JOM.png",
+        "http://aqwwiki.wdfiles.com/local--files/jester-outfit/JOF.png"
+    ],
+    "hash": "6341c715219e5e0e06f32caaa0decbc0"
+}

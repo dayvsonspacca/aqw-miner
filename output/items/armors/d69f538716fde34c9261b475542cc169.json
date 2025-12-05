@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-baron-sundae-armor",
+    "url": "http://aqwwiki.wikidot.com/undead-baron-sundae-armor",
+    "name": "Undead Baron Sundae Armor",
+    "type": "armors",
+    "description": "The deliciously menacing Baron Sundae with his magically sweet wares. Careful of the ice cream it might melt.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9AGC5Za.png",
+        "https://i.imgur.com/xdWvmVp.png"
+    ],
+    "hash": "d69f538716fde34c9261b475542cc169"
+}

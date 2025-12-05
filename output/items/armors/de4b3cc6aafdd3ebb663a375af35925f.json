@@ -1,0 +1,16 @@
+{
+    "urlName": "merchant-mariner",
+    "url": "http://aqwwiki.wikidot.com/merchant-mariner",
+    "name": "Merchant Mariner",
+    "type": "armors",
+    "description": "\ufeffThough Ashray itself is a quiet collection of wooden shacks, the villagers take pride in their home. Well-versed in trade and blade tricks, these mariners can go toe to toe with bloodthirsty pirates, all while carrying a tune.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/uZOWBhs.png",
+        "https://imgur.com/aZl0Rn0.png"
+    ],
+    "hash": "de4b3cc6aafdd3ebb663a375af35925f"
+}

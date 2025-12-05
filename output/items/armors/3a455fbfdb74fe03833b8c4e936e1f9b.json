@@ -1,0 +1,16 @@
+{
+    "urlName": "robe-of-the-arcane",
+    "url": "http://aqwwiki.wikidot.com/robe-of-the-arcane",
+    "name": "Robe of the Arcane",
+    "type": "armors",
+    "description": "Tapping into arcane energy is dangerous business indeed. Those that come close to mastering it are rewarded with unimaginable power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/hXhJUlI.png",
+        "https://i.imgur.com/9YWxOEq.png"
+    ],
+    "hash": "3a455fbfdb74fe03833b8c4e936e1f9b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "fiend-of-love",
+    "url": "http://aqwwiki.wikidot.com/fiend-of-love",
+    "name": "Fiend of Love",
+    "type": "armors",
+    "description": "Happy birthday to our favorite Pink Scribe, Beleen! May all your writings be cheerful.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fiend-of-love/FoLM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fiend-of-love/FoLF.png"
+    ],
+    "hash": "b1d4e2ea98c3cb42220a9030208d6f66"
+}

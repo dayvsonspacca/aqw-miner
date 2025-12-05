@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-ringmaster",
+    "url": "http://aqwwiki.wikidot.com/dark-ringmaster",
+    "name": "Dark Ringmaster",
+    "type": "armors",
+    "description": "Come one come all down to the unluckiest fair in all of Lore. This Ringmaster will be happy to take all your gold while you test your \"luck\".",
+    "rarity": "Seaonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9HBWTBR.png",
+        "https://i.imgur.com/Twx2suy.png",
+        "https://i.imgur.com/Gp0519u.png"
+    ],
+    "hash": "7e33239589b3a50e68c685bea3cbff3c"
+}

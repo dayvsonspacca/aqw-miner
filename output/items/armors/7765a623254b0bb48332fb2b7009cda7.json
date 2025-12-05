@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-mage",
+    "url": "http://aqwwiki.wikidot.com/dark-mage",
+    "name": "Dark Mage",
+    "type": "armors",
+    "description": "Cast a Black Friday spell to make sure you get all the best deals!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/dkLSyJt.png",
+        "https://i.imgur.com/Uc2Wsoq.png"
+    ],
+    "hash": "7765a623254b0bb48332fb2b7009cda7"
+}

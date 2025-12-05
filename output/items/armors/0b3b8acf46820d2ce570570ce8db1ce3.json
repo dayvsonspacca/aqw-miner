@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-blood-isles-corsair",
+    "url": "http://aqwwiki.wikidot.com/enchanted-blood-isles-corsair",
+    "name": "Enchanted Blood Isles Corsair",
+    "type": "armors",
+    "description": "Driven by hunger, the Blood Isles Corsairs have fallen for the song of the Isles. Gold and gems hold no value to them. They want to plunder your veins, and spill your insides into the sea.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mRtTCYa.png",
+        "https://i.imgur.com/lT5bWqR.png"
+    ],
+    "hash": "0b3b8acf46820d2ce570570ce8db1ce3"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "youngling-armor",
+    "url": "http://aqwwiki.wikidot.com/youngling-armor",
+    "name": "Youngling Armor",
+    "type": "armors",
+    "description": "You're well on your way to training in the Mogi way!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/youngling-armor/YounglingArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/youngling-armor/YounglingArmorF.png"
+    ],
+    "hash": "9bd6c50854bfed82a4a30d7dd162dcff"
+}

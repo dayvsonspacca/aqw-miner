@@ -1,0 +1,16 @@
+{
+    "urlName": "banisher-armor",
+    "url": "http://aqwwiki.wikidot.com/banisher-armor",
+    "name": "Banisher Armor",
+    "type": "armors",
+    "description": "A gilded armor for a golden hero, you'll outshine your enemies with this awesome plate designed by Blake Don.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/xFr9138.png",
+        "http://i.imgur.com/AxQz42o.png"
+    ],
+    "hash": "e7f6bcb7814bfcfb221a33e527387440"
+}

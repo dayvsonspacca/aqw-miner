@@ -1,0 +1,16 @@
+{
+    "urlName": "nugget-man-suit",
+    "url": "http://aqwwiki.wikidot.com/nugget-man-suit",
+    "name": "Nugget Man Suit",
+    "type": "armors",
+    "description": "Everyone knows you as the nugget man\u2026 or Woman! Avoid honey-mustard attacks at all costs.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nugget-man-suit/NuggetManSuitM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/nugget-man-suit/NuggetManSuitF.jpg"
+    ],
+    "hash": "11932e7b03750ee3e106d866772cd653"
+}

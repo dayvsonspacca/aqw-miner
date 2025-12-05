@@ -1,0 +1,17 @@
+{
+    "urlName": "werepyre-devotee-pirate",
+    "url": "http://aqwwiki.wikidot.com/werepyre-devotee-pirate",
+    "name": "Werepyre Devotee Pirate",
+    "type": "armors",
+    "description": "Bone-a-fide seadogs, loyal to their patchwork pack. They never flee from battle, and chase the drifting moon with their warships. Their nights never end.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/ZBONWiY.png",
+        "https://imgur.com/wcHZBEY.png"
+    ],
+    "hash": "f9f3b8d4b63f01148e4fd2fd49cb0943"
+}

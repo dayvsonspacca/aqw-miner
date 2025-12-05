@@ -1,0 +1,19 @@
+{
+    "urlName": "pastel-skyguard-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/pastel-skyguard-captain-ac",
+    "name": "Pastel Skyguard Captain (AC)",
+    "type": "armors",
+    "description": "This is what happens when Stratos is no longer in charge of the Skyguard.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/OPhmRcW.png",
+        "https://i.imgur.com/qqIqVIJ.png",
+        "http://aqwwiki.wdfiles.com/local--files/pastel-skyguard-captain-ac/PastelSkyguardCaptainM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pastel-skyguard-captain-ac/PastelSkyguardCaptainF.png"
+    ],
+    "hash": "2495565f87e8f75ed40714c5cd2bfb69"
+}

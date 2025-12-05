@@ -1,0 +1,16 @@
+{
+    "urlName": "white-stalker-armor",
+    "url": "http://aqwwiki.wikidot.com/white-stalker-armor",
+    "name": "White Stalker (Armor)",
+    "type": "armors",
+    "description": "Winter is coming and the White Stalkers are ready to take over the world!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/white-stalker-armor/WhiteStalker.png"
+    ],
+    "hash": "aecb4f7c34c1468049de5b1b0e7a8d33"
+}

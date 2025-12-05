@@ -1,0 +1,16 @@
+{
+    "urlName": "champion-of-order",
+    "url": "http://aqwwiki.wikidot.com/champion-of-order",
+    "name": "Champion Of Order",
+    "type": "armors",
+    "description": "On the fields of Battle On, at the fall of Chaos, where no adventurer or monster may fail to give an answer, a Hero will arise. Chaos must fall.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/champion-of-order/ChampionOfOrderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/champion-of-order/ChampionOfOrderF.png"
+    ],
+    "hash": "d83f323d34a74567292ccc0577a9ddec"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "void-knight-armor",
+    "url": "http://aqwwiki.wikidot.com/void-knight-armor",
+    "name": "Void Knight (Armor)",
+    "type": "armors",
+    "description": "Knights of the Void were once legendary warriors who fell in battle. Their spirits have been corrupted Void energy, but in return, they receive great power!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/jRmUd1m.png",
+        "http://i.imgur.com/HUrky9D.png"
+    ],
+    "hash": "2c7c7859cac63cdf31f502054c635836"
+}

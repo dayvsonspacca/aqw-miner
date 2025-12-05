@@ -1,0 +1,17 @@
+{
+    "urlName": "animancer",
+    "url": "http://aqwwiki.wikidot.com/animancer",
+    "name": "Animancer",
+    "type": "armors",
+    "description": "Honored masters of fate protect the fallen from the final touch of death. They take it upon themselves to bring heros back to life, dooming their souls to oblivion in exchange for giving the world just a little more justice.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/vPIHdvt.png",
+        "https://i.imgur.com/58oF7mV.png"
+    ],
+    "hash": "6a5116920353bad0f620095cca27850a"
+}

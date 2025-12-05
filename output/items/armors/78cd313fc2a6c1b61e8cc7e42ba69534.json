@@ -1,0 +1,16 @@
+{
+    "urlName": "void-witch-legend",
+    "url": "http://aqwwiki.wikidot.com/void-witch-legend",
+    "name": "Void Witch (Legend)",
+    "type": "armors",
+    "description": "Even in the Void witches find time to practice their craft.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/qqW51th.png"
+    ],
+    "hash": "78cd313fc2a6c1b61e8cc7e42ba69534"
+}

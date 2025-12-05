@@ -1,0 +1,17 @@
+{
+    "urlName": "wandering-rockstar",
+    "url": "http://aqwwiki.wikidot.com/wandering-rockstar",
+    "name": "Wandering Rockstar",
+    "type": "armors",
+    "description": "Rock was born on the road, rehearsed in empty cemeteries, and shredded metal so hard the audience thought it was fiendish. These Rockstars are musical wanderers, returning to their roots.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/TaeJsnQ.png",
+        "https://i.imgur.com/FXYXauY.png"
+    ],
+    "hash": "e2f007e3fea35387333b8fe5bcbe1e96"
+}

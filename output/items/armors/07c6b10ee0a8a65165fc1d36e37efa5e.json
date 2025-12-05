@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-slayer",
+    "url": "http://aqwwiki.wikidot.com/chaos-slayer",
+    "name": "Chaos Slayer",
+    "type": "armors",
+    "description": "This armor is covered in the remains of the monsters you have slain! With every step you take, you show chaos that you are the one to be feared!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/Qz8EJjb.png",
+        "http://i.imgur.com/1CbK9rt.png"
+    ],
+    "hash": "07c6b10ee0a8a65165fc1d36e37efa5e"
+}

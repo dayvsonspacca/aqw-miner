@@ -1,0 +1,17 @@
+{
+    "urlName": "voidfiend-symbiote-ac",
+    "url": "http://aqwwiki.wikidot.com/voidfiend-symbiote-ac",
+    "name": "Voidfiend Symbiote (AC)",
+    "type": "armors",
+    "description": "The swirling red-orange pattern that pulses through the thin, dark skin of the Voidfiend Symbiote is a sign that the symbiosis with Nulgath's dark energy is complete.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/IFMO0Gd.png",
+        "https://i.imgur.com/vaHnqG5.png"
+    ],
+    "hash": "0dd33b398576efb3f8f5ee0109344d6e"
+}

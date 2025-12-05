@@ -1,0 +1,17 @@
+{
+    "urlName": "noble-leo-scion",
+    "url": "http://aqwwiki.wikidot.com/noble-leo-scion",
+    "name": "Noble Leo Scion",
+    "type": "armors",
+    "description": "Lions are an admired symbol of nobility, courage, and valour. Few can live up to what it represents, and fewer can stomach how much blood the lion needs to roar.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/W28eKyg.png",
+        "https://imgur.com/1aby3xT.png"
+    ],
+    "hash": "eb48f2bf8c4851b1229cbeceae1200a1"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "the-loop-armor",
+    "url": "http://aqwwiki.wikidot.com/the-loop-armor",
+    "name": "The Loop Armor",
+    "type": "armors",
+    "description": "One week\u2026 one week\u2026 and it'll be the unluckiest week of your life!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-loop-armor/TheLoopArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-loop-armor/TheLoopArmorF.png"
+    ],
+    "hash": "ef12d58ca33d8d427471012d8f22f03f"
+}

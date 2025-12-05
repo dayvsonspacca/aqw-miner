@@ -1,0 +1,18 @@
+{
+    "urlName": "verde-forest-warrior",
+    "url": "http://aqwwiki.wikidot.com/verde-forest-warrior",
+    "name": "Verde Forest Warrior",
+    "type": "armors",
+    "description": "You unlocked this badge by purchasing an upgrade through Paymentez! Battle On!",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/verde-forest-warrior/VerdeForestWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/verde-forest-warrior/VerdeForestWarriorF.png"
+    ],
+    "hash": "6e820fcee86c5c10cafeb8f0d8630a9a"
+}

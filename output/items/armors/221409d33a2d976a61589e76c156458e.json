@@ -1,0 +1,18 @@
+{
+    "urlName": "jolly-frostval-caster",
+    "url": "http://aqwwiki.wikidot.com/jolly-frostval-caster",
+    "name": "Jolly Frostval Caster",
+    "type": "armors",
+    "description": "Mages who originated from the Northstar Village in Frostval, they are tasked to spread the spirit of giving and cheering regardless of friend and foe. After Garaja's defeat, these mages are now considered urban legends among Frostval.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/LED0oRe.png",
+        "https://i.imgur.com/yFwjNjq.png"
+    ],
+    "hash": "221409d33a2d976a61589e76c156458e"
+}

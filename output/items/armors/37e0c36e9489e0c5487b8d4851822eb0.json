@@ -1,0 +1,17 @@
+{
+    "urlName": "ceremonial-legion-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/ceremonial-legion-armor-ac",
+    "name": "Ceremonial Legion Armor (AC)",
+    "type": "armors",
+    "description": "The reflecting light that brightens the metallic silver that comprises this regal suit acts as a mirror, but what it reveals cannot be seen in plain mind, but rather by a sharp minded subconscious.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ceremonial-legion-armor-ac/CeremonialLegionM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ceremonial-legion-armor-ac/CeremonialLegionF.png"
+    ],
+    "hash": "37e0c36e9489e0c5487b8d4851822eb0"
+}

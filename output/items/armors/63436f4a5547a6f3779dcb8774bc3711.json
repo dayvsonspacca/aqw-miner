@@ -1,0 +1,16 @@
+{
+    "urlName": "magnetic-plate",
+    "url": "http://aqwwiki.wikidot.com/magnetic-plate",
+    "name": "Magnetic Plate",
+    "type": "armors",
+    "description": "In the near future, symbiotes forge their armor out of bits and pieces of magnetized scrap metal. This literal",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/oEdxgq4.png",
+        "https://i.imgur.com/gIz9E0n.png"
+    ],
+    "hash": "63436f4a5547a6f3779dcb8774bc3711"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "urban-assassin-ac",
+    "url": "http://aqwwiki.wikidot.com/urban-assassin-ac",
+    "name": "Urban Assassin (AC)",
+    "type": "armors",
+    "description": "Whoever said that assassins were restricted to long corridors and dark forests have never met these guys before.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/soRuwW3.png",
+        "https://i.imgur.com/2zHUd7U.png"
+    ],
+    "hash": "b616b0df1bc7f80a3c98e7425af907f3"
+}

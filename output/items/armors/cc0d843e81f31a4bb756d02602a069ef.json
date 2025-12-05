@@ -1,0 +1,16 @@
+{
+    "urlName": "weaver-mage",
+    "url": "http://aqwwiki.wikidot.com/weaver-mage",
+    "name": "Weaver Mage",
+    "type": "armors",
+    "description": "These Magi draw their power from the ChaosWeavers, they've sworn an oath to the Dark Queen, to protect her at all costs.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/UVqwgzQ.png",
+        "http://i.imgur.com/viqfay8.png"
+    ],
+    "hash": "cc0d843e81f31a4bb756d02602a069ef"
+}

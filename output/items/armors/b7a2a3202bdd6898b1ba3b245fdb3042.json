@@ -1,0 +1,20 @@
+{
+    "urlName": "dark-caster-x",
+    "url": "http://aqwwiki.wikidot.com/dark-caster-x",
+    "name": "Dark Caster X",
+    "type": "armors",
+    "description": "I AM THE UNHOLY ONE! At least I look the part!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-caster-x/DCXMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-caster-x/DCXMaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-caster-x/DCXMaleOlder.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-caster-x/DCXF.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-caster-x/DarkCasterXFemale.png"
+    ],
+    "hash": "b7a2a3202bdd6898b1ba3b245fdb3042"
+}

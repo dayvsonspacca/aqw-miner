@@ -1,0 +1,19 @@
+{
+    "urlName": "shadow-jester-1",
+    "url": "http://aqwwiki.wikidot.com/shadow-jester-1",
+    "name": "Shadow Jester (1)",
+    "type": "armors",
+    "description": "People better stay out of your way, or they'll find out that you're NOT so funny after all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-jester-1/ShadowJesterMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-jester-1/ShadowJesterMA.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-jester-1/ShadowJesterFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-jester-1/ShadowJesterFA.png"
+    ],
+    "hash": "14e937390b330ebc19df8be1dee2e294"
+}

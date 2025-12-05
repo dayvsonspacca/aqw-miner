@@ -1,0 +1,18 @@
+{
+    "urlName": "legendary-knight",
+    "url": "http://aqwwiki.wikidot.com/legendary-knight",
+    "name": "Legendary Knight",
+    "type": "armors",
+    "description": "These brave soldiers swear to defend King Alteon, Queen Lynaria and all of Swordhaven from any danger.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/fOZmQd6.png",
+        "https://i.imgur.com/q3qBQVQ.png",
+        "https://i.imgur.com/uIYASpW.png",
+        "https://i.imgur.com/fgICEcK.png"
+    ],
+    "hash": "02cdd3db7ed1a29a6ce97e306101f07a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-pirate-captain",
+    "url": "http://aqwwiki.wikidot.com/golden-pirate-captain",
+    "name": "Golden Pirate Captain",
+    "type": "armors",
+    "description": "This stylish uniform is made from melted gold by some pirates to cut down on excessive loot earned from their travels. It's still quite deadly, though.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-pirate-captain/GoldenPCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-pirate-captain/GoldenPCF.png"
+    ],
+    "hash": "03775063e457574009f5781e78af85ec"
+}

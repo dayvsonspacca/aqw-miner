@@ -1,0 +1,16 @@
+{
+    "urlName": "thermal-titan",
+    "url": "http://aqwwiki.wikidot.com/thermal-titan",
+    "name": "Thermal Titan",
+    "type": "armors",
+    "description": "This Armor is HOT!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/afX1ssL.png",
+        "http://i.imgur.com/wQbJY33.png"
+    ],
+    "hash": "e2894036f229512e3ea19bb4460bc540"
+}

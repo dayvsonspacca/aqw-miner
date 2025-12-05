@@ -1,0 +1,17 @@
+{
+    "urlName": "light-witch",
+    "url": "http://aqwwiki.wikidot.com/light-witch",
+    "name": "Light Witch",
+    "type": "armors",
+    "description": "Channel the power of the light and all shall know that you are a force to be reckoned with!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/light-witch/LightWitchM.png",
+        "http://aqwwiki.wdfiles.com/local--files/light-witch/LightWitchF.png"
+    ],
+    "hash": "39486dd4554abd6e3f8a87e3406f1547"
+}

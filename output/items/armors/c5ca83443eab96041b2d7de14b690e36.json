@@ -1,0 +1,17 @@
+{
+    "urlName": "pirate-ninja",
+    "url": "http://aqwwiki.wikidot.com/pirate-ninja",
+    "name": "Pirate Ninja",
+    "type": "armors",
+    "description": "Are you a pirate? Are you a ninja? Mostly I think you're just confused.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pirate-ninja/PNm.png",
+        "http://aqwwiki.wdfiles.com/local--files/pirate-ninja/PNf.png"
+    ],
+    "hash": "c5ca83443eab96041b2d7de14b690e36"
+}

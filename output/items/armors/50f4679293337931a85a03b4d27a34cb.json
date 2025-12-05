@@ -1,0 +1,17 @@
+{
+    "urlName": "pesugihan-boar-armor",
+    "url": "http://aqwwiki.wikidot.com/pesugihan-boar-armor",
+    "name": "Pesugihan Boar (Armor)",
+    "type": "armors",
+    "description": "A warrior tainted by greed and the sinister sorcery of Dukun, a type of mage or healer local to Wentira. To feed their hunger for gold, these warriors have taken on a beasty form to raid and pillage their victims.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/A9AaRYG.png",
+        "https://imgur.com/DCxkcXK.png"
+    ],
+    "hash": "50f4679293337931a85a03b4d27a34cb"
+}

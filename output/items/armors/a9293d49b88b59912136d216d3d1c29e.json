@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/chaos-naval-commander",
+    "name": "Chaos Naval Commander",
+    "type": "armors",
+    "description": "T' fury o' t' seven seas be no match for t' wrath o' Chaos!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-naval-commander/ChaosNavalCommanderMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaos-naval-commander/ChaosNavalCommanderFemale.png"
+    ],
+    "hash": "a9293d49b88b59912136d216d3d1c29e"
+}

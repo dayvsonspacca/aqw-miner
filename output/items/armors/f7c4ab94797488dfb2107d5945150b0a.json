@@ -1,0 +1,16 @@
+{
+    "urlName": "wretched-stalker",
+    "url": "http://aqwwiki.wikidot.com/wretched-stalker",
+    "name": "Wretched Stalker",
+    "type": "armors",
+    "description": "Those who hunt the elusive dullahan must be cunning, quick, and brave.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iQoz78E.png",
+        "https://i.imgur.com/oendZ2h.png"
+    ],
+    "hash": "f7c4ab94797488dfb2107d5945150b0a"
+}

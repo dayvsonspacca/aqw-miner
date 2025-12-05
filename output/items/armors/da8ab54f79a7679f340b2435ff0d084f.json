@@ -1,0 +1,16 @@
+{
+    "urlName": "obsessor-commander",
+    "url": "http://aqwwiki.wikidot.com/obsessor-commander",
+    "name": "Obsessor Commander",
+    "type": "armors",
+    "description": "The deep dark hides even more dangers. Eventually, they'll spill out like an overfilled goblet of smoke.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/fHvzHqL.png",
+        "https://i.imgur.com/llrB4E8.png"
+    ],
+    "hash": "da8ab54f79a7679f340b2435ff0d084f"
+}

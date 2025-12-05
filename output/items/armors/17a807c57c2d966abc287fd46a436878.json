@@ -1,0 +1,17 @@
+{
+    "urlName": "zombification",
+    "url": "http://aqwwiki.wikidot.com/zombification",
+    "name": "Zombification",
+    "type": "armors",
+    "description": "Everyone knew it would happen sooner or later. Better to just accept it and move on. Slowly. With a staggered pace. While chanting: BRAAAAIIINNNS!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/zombification/ZombificationM.png",
+        "http://aqwwiki.wdfiles.com/local--files/zombification/ZombificationF.png"
+    ],
+    "hash": "17a807c57c2d966abc287fd46a436878"
+}

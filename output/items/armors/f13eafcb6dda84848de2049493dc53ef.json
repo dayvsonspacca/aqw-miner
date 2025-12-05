@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-priest",
+    "url": "http://aqwwiki.wikidot.com/legion-priest",
+    "name": "Legion Priest",
+    "type": "armors",
+    "description": "Not the kind of priest that save souls, but they do want yours.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-priest/LegionPriestM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-priest/LegionPriestF.png"
+    ],
+    "hash": "f13eafcb6dda84848de2049493dc53ef"
+}

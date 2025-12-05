@@ -1,0 +1,17 @@
+{
+    "urlName": "blood-fiend-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/blood-fiend-of-nulgath",
+    "name": "Blood Fiend of Nulgath",
+    "type": "armors",
+    "description": "Nulgath has entered you into the ranks of the Blood Fiends, a barbaric group whose sole purpose is chaos.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-fiend-of-nulgath/BloodFiendofNulgathMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/blood-fiend-of-nulgath/BloodFiendofNulgathFemale.png"
+    ],
+    "hash": "1e8c3664aabc05fbc70a0dd544ce50b9"
+}

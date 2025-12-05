@@ -1,0 +1,17 @@
+{
+    "urlName": "permafrost-legionaire",
+    "url": "http://aqwwiki.wikidot.com/permafrost-legionaire",
+    "name": "PermaFrost Legionaire",
+    "type": "armors",
+    "description": "Take upon yourself the mantle of Permafrost Legionnaire. Join the ranks of the bitterly cold undead and freeze your enemy's blood with fear. Laugh in their faces as your undead breath freezes in midair.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/permafrost-legionaire/PermafrostLegionaireM.png",
+        "http://aqwwiki.wdfiles.com/local--files/permafrost-legionaire/PermafrostLegionaireF.png"
+    ],
+    "hash": "7f6c8b518770fbc76481b161b2363d22"
+}

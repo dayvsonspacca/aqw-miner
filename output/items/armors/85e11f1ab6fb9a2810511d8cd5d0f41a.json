@@ -1,0 +1,16 @@
+{
+    "urlName": "pirate-angler",
+    "url": "http://aqwwiki.wikidot.com/pirate-angler",
+    "name": "Pirate Angler",
+    "type": "armors",
+    "description": "OW! IT'S BITING ME! GET IT OFF!!!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pirate-angler/PirateAnglerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pirate-angler/PirateAnglerF.png"
+    ],
+    "hash": "85e11f1ab6fb9a2810511d8cd5d0f41a"
+}

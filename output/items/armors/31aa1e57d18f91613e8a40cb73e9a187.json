@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-archer",
+    "url": "http://aqwwiki.wikidot.com/underworld-archer",
+    "name": "Underworld Archer",
+    "type": "armors",
+    "description": "Underworld Archers are incredibly adept marksmen at night or in dim lighting conditions. That makes sense, though. Some of them are so decayed that they don't even have eyes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/underworld-archer/UnderworldArcherM.png",
+        "http://aqwwiki.wdfiles.com/local--files/underworld-archer/UnderworldArcherF.png"
+    ],
+    "hash": "31aa1e57d18f91613e8a40cb73e9a187"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "royal-suit",
+    "url": "http://aqwwiki.wikidot.com/royal-suit",
+    "name": "Royal Suit",
+    "type": "armors",
+    "description": "The good sometimes like to dress up for special occasions\u2026 like battling the forces of EVIL!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/cxsaA8A.png",
+        "https://i.imgur.com/bJWdujI.png"
+    ],
+    "hash": "df5b445d3e5debfd467aee6456fbd477"
+}

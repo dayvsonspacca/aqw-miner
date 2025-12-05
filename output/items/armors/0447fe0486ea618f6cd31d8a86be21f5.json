@@ -1,0 +1,17 @@
+{
+    "urlName": "emerald-earth-mage",
+    "url": "http://aqwwiki.wikidot.com/emerald-earth-mage",
+    "name": "Emerald Earth Mage",
+    "type": "armors",
+    "description": "These magi are one with the natural surroundings, gaining their mage from everything living creature.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/znMpgwy.png",
+        "http://i.imgur.com/q0IkVl0.png"
+    ],
+    "hash": "0447fe0486ea618f6cd31d8a86be21f5"
+}

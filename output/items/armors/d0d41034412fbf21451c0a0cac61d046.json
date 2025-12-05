@@ -1,0 +1,16 @@
+{
+    "urlName": "memeat-formalwear",
+    "url": "http://aqwwiki.wikidot.com/memeat-formalwear",
+    "name": "Memeat Formalwear",
+    "type": "armors",
+    "description": "Sure, it's a little uncomfortable. But on the plus side, it tastes good.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iQdkbtI.png",
+        "https://imgur.com/pxqGpMX.png"
+    ],
+    "hash": "d0d41034412fbf21451c0a0cac61d046"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "ancient-cryomancer",
+    "url": "http://aqwwiki.wikidot.com/ancient-cryomancer",
+    "name": "Ancient Cryomancer",
+    "type": "armors",
+    "description": "Before today's Cryomancer harnessed the power of Ice, Ancient Cryomancer already knew its power.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ancient-cryomancer/AncientCryomancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ancient-cryomancer/AncientCryomancerF.png"
+    ],
+    "hash": "3ba121212061f1b4c8e030d59613f13e"
+}

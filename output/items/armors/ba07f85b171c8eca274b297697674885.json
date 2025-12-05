@@ -1,0 +1,16 @@
+{
+    "urlName": "emerald-acolyte",
+    "url": "http://aqwwiki.wikidot.com/emerald-acolyte",
+    "name": "Emerald Acolyte",
+    "type": "armors",
+    "description": "This is the armor of the Acolytes of the Generals of the great Viridian Dynasty, the Emperor's most trusted defenders.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/dOxkJg6.png",
+        "http://i.imgur.com/zT2sxXT.png"
+    ],
+    "hash": "ba07f85b171c8eca274b297697674885"
+}

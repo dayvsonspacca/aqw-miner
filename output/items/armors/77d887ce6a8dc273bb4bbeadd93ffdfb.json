@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-diviner",
+    "url": "http://aqwwiki.wikidot.com/underworld-diviner",
+    "name": "Underworld Diviner",
+    "type": "armors",
+    "description": "Masters of the occult, prophecy, and fate. They gave their souls to the Legion to obtain knowledge only privy to the exalted dead. Kings and Queens desire and fear their visions and power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5svApVC.png",
+        "https://i.imgur.com/GNLdh1m.png"
+    ],
+    "hash": "77d887ce6a8dc273bb4bbeadd93ffdfb"
+}

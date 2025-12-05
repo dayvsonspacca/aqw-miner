@@ -1,0 +1,19 @@
+{
+    "urlName": "black-mirror-drakath",
+    "url": "http://aqwwiki.wikidot.com/black-mirror-drakath",
+    "name": "Black Mirror Drakath",
+    "type": "armors",
+    "description": "The mirror of Mirror Drakath is a dark and ominous armor! Only a select few are worthy enough to wear such a prestigious suit.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3mQD5hr.png",
+        "https://imgur.com/JkW5My8.png",
+        "https://i.imgur.com/sVp6lPK.png",
+        "https://i.imgur.com/zUoazhF.png"
+    ],
+    "hash": "4ebae9877a1a0e0a53c7bc424892700a"
+}

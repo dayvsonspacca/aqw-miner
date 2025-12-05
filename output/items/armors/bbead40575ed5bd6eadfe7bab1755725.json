@@ -1,0 +1,17 @@
+{
+    "urlName": "seri-gumum-slayer",
+    "url": "http://aqwwiki.wikidot.com/seri-gumum-slayer",
+    "name": "Seri Gumum Slayer",
+    "type": "armors",
+    "description": "From out of the depths, the Seri Gumum rises to attack! Only the fiercest heroes have ever managed to slay these dread beasts.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gprq25E.png",
+        "https://i.imgur.com/grxDX31.png"
+    ],
+    "hash": "bbead40575ed5bd6eadfe7bab1755725"
+}

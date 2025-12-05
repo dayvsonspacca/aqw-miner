@@ -1,0 +1,16 @@
+{
+    "urlName": "elemental-dissonance",
+    "url": "http://aqwwiki.wikidot.com/elemental-dissonance",
+    "name": "Elemental Dissonance",
+    "type": "armors",
+    "description": "Heavy laden and strategically crafted, this armor gives you everything you need to harness the elements and use them for your own bidding. Take advantage of all that they have to offer.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/W2uRqNE.png",
+        "http://i.imgur.com/9jBbYfw.png"
+    ],
+    "hash": "0bd992e80e437c38eef633f7f46e3425"
+}

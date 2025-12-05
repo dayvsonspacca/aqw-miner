@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-shadowslayer-z-0-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-shadowslayer-z-0-ac",
+    "name": "Dark ShadowSlayer Z (0 AC)",
+    "type": "armors",
+    "description": "Don these super-shady garments to sneak into your local inn shop and grab your anticipated items without paying a large piggy bank.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/vRBKBX8.png",
+        "https://i.imgur.com/6husm88.png"
+    ],
+    "hash": "ac1aa15b501820e65fe7771e1cbe83c9"
+}

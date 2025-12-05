@@ -1,0 +1,18 @@
+{
+    "urlName": "nocturan-acolyte",
+    "url": "http://aqwwiki.wikidot.com/nocturan-acolyte",
+    "name": "Nocturan Acolyte",
+    "type": "armors",
+    "description": "After the dusk settles, there are those who come out at night only to cause terror. the Nocturan will be there to protect and serve.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/6qRdO2B.png",
+        "http://i.imgur.com/PEbdQ8F.png",
+        "http://aqwwiki.wdfiles.com/local--files/nocturan-acolyte/NAfOld.png"
+    ],
+    "hash": "2ea6bf3360f0d66334dea988c60cdfa8"
+}

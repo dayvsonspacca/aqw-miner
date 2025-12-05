@@ -1,0 +1,17 @@
+{
+    "urlName": "tigers-varsity-team",
+    "url": "http://aqwwiki.wikidot.com/tigers-varsity-team",
+    "name": "Tigers Varsity Team",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ZeHBNjY.png",
+        "https://i.imgur.com/IYefR6z.png"
+    ],
+    "hash": "57e10b15f470ca49ff2186b5892061b1"
+}

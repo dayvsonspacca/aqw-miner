@@ -1,0 +1,16 @@
+{
+    "urlName": "void-entity",
+    "url": "http://aqwwiki.wikidot.com/void-entity",
+    "name": "Void Entity",
+    "type": "armors",
+    "description": "The element of Void does not exist in the world of Lore. Void Entities have only recently been sighted on incredibly rare occasions.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/GD5elM1.png",
+        "http://i.imgur.com/RtLqo3a.png"
+    ],
+    "hash": "a1b0ed0f2e2e8090042371678ebcc7a8"
+}

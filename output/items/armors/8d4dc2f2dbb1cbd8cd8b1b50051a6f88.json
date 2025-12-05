@@ -1,0 +1,18 @@
+{
+    "urlName": "amethyst-necromancer",
+    "url": "http://aqwwiki.wikidot.com/amethyst-necromancer",
+    "name": "Amethyst Necromancer",
+    "type": "armors",
+    "description": "Feeling a bit gloomy with a side of bitter and have no one to talk to? HEY! Your a Necromancer! You can just make your friends!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/7ytprRi.png",
+        "http://i.imgur.com/zzKYKRg.png",
+        "https://i.imgur.com/RADhK56.png",
+        "http://i.imgur.com/rZkodLh.png"
+    ],
+    "hash": "8d4dc2f2dbb1cbd8cd8b1b50051a6f88"
+}

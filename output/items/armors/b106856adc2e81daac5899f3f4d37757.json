@@ -1,0 +1,16 @@
+{
+    "urlName": "mage-of-cinders",
+    "url": "http://aqwwiki.wikidot.com/mage-of-cinders",
+    "name": "Mage of Cinders",
+    "type": "armors",
+    "description": "During the expedition to Fotia, new and fascinating ways to work with lava and magma were discovered. Cinder mages explore these new avenues of magic.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/x1JX6ET.png",
+        "http://i.imgur.com/XKtdkEY.png"
+    ],
+    "hash": "b106856adc2e81daac5899f3f4d37757"
+}

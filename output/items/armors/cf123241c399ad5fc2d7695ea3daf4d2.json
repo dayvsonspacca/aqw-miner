@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-bandit-non-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-bandit-non-ac",
+    "name": "Dark Bandit (Non-AC)",
+    "type": "armors",
+    "description": "A bandit is a thug no matter how well they dress. The black just hides the stains better.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gef4nKL.png",
+        "https://i.imgur.com/Ehmdnfc.png"
+    ],
+    "hash": "cf123241c399ad5fc2d7695ea3daf4d2"
+}

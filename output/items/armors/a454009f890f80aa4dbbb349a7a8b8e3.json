@@ -1,0 +1,16 @@
+{
+    "urlName": "void-pirate-armor",
+    "url": "http://aqwwiki.wikidot.com/void-pirate-armor",
+    "name": "Void Pirate (Armor)",
+    "type": "armors",
+    "description": "Whether they sail the Black Seas or the rivers of dark blood flowing through the underworld, the Void Pirates are feared by all.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/yqHTDLm.png",
+        "https://i.imgur.com/HAJxwmj.png"
+    ],
+    "hash": "a454009f890f80aa4dbbb349a7a8b8e3"
+}

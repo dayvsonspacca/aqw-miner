@@ -1,0 +1,16 @@
+{
+    "urlName": "tempest-void",
+    "url": "http://aqwwiki.wikidot.com/tempest-void",
+    "name": "Tempest Void",
+    "type": "armors",
+    "description": "The Tempest Voids are responsible for the countless storms blasting through Tercessuinotlim! A distant cousin to the Hex Voids, they are proven to be very resilient even in the worst environmental conditions.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/OJdiDpx.png",
+        "https://i.imgur.com/hgtA2dL.png"
+    ],
+    "hash": "9c7e03cd0299724421be511912a15d05"
+}

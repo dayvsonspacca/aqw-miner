@@ -1,0 +1,18 @@
+{
+    "urlName": "votari-warrior",
+    "url": "http://aqwwiki.wikidot.com/votari-warrior",
+    "name": "Votari Warrior",
+    "type": "armors",
+    "description": "A bright new day offer new possibilities for everyone, but only the courageous seize their moments in the sun.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Yk3EPEU.png",
+        "https://i.imgur.com/EDfTa4H.png"
+    ],
+    "hash": "d4b22b321ca8742dd58d0cbc4e957b9d"
+}

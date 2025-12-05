@@ -1,0 +1,17 @@
+{
+    "urlName": "mecha-gear-mediator-legend",
+    "url": "http://aqwwiki.wikidot.com/mecha-gear-mediator-legend",
+    "name": "Mecha Gear: Mediator (Legend)",
+    "type": "armors",
+    "description": "Mecha Gear, an integrated system linking man and machine together. The Mediator's sleek design boasts great speed. Arm yourself with this Mecha Gear, rise above physical limitations, and bring a swift end to all conflicts.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/IdcUkxo.png",
+        "https://i.imgur.com/f4DXJ5z.png"
+    ],
+    "hash": "4f54569551eac81caa8af75883e1aa59"
+}

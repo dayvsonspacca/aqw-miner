@@ -1,0 +1,16 @@
+{
+    "urlName": "blacksea-captain",
+    "url": "http://aqwwiki.wikidot.com/blacksea-captain",
+    "name": "Blacksea Captain",
+    "type": "armors",
+    "description": "Only the fiercest pirates sail the Blacksea and only the bravest become captains!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/6XE20gX.png",
+        "https://i.imgur.com/Z3od9vO.png"
+    ],
+    "hash": "e6ecf9b27651cfd69e8e192dec736d99"
+}

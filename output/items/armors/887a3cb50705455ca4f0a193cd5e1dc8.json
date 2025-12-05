@@ -1,0 +1,16 @@
+{
+    "urlName": "rainy-day-tour-guide",
+    "url": "http://aqwwiki.wikidot.com/rainy-day-tour-guide",
+    "name": "Rainy Day Tour Guide",
+    "type": "armors",
+    "description": "Eden City is home to many wonderous things, thanks to the exemplary planning and organization of the Crystallis Administration. As a tour guide, you'll chaperone visitors around and extoll their virtues.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/ifB4g8F.png",
+        "https://i.imgur.com/vUNcabw.png"
+    ],
+    "hash": "887a3cb50705455ca4f0a193cd5e1dc8"
+}

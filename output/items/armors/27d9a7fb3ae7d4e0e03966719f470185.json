@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-frostspawn-mage",
+    "url": "http://aqwwiki.wikidot.com/dark-frostspawn-mage",
+    "name": "Dark FrostSpawn Mage",
+    "type": "armors",
+    "description": "The Fallen Mage robes match those of Karok the Fallen. For the discerning hero who does not have time to battle Karok to get his gear.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/NfUFGwq.png",
+        "https://i.imgur.com/aJeCbhs.png"
+    ],
+    "hash": "27d9a7fb3ae7d4e0e03966719f470185"
+}

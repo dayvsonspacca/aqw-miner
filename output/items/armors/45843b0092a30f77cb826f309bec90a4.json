@@ -1,0 +1,16 @@
+{
+    "urlName": "reminiscence",
+    "url": "http://aqwwiki.wikidot.com/reminiscence",
+    "name": "Reminiscence",
+    "type": "armors",
+    "description": "Constructed by the infamous armor-crafter, Reki, your enemies will never forget you; in this life or the next.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/l91wdI5.png",
+        "http://i.imgur.com/sSG7ERK.png"
+    ],
+    "hash": "45843b0092a30f77cb826f309bec90a4"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-frost-ninja",
+    "url": "http://aqwwiki.wikidot.com/dark-frost-ninja",
+    "name": "Dark Frost Ninja",
+    "type": "armors",
+    "description": "This armor will chill your enemies to the bone!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-frost-ninja/DarkFrostNinjaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-frost-ninja/DarkFrostNinjaF.png"
+    ],
+    "hash": "20bb8bb560733b7099ab2e8622ae95d3"
+}

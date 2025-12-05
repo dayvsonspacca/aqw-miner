@@ -1,0 +1,16 @@
+{
+    "urlName": "falcon-ranger",
+    "url": "http://aqwwiki.wikidot.com/falcon-ranger",
+    "name": "Falcon Ranger",
+    "type": "armors",
+    "description": "Swift and precise, your prey won't know that you're circling them until it's too late.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/NKAK1qY.png",
+        "https://i.imgur.com/z6Xh3L8.png"
+    ],
+    "hash": "73eb9dd1c946b7f174e0a7836bb29dec"
+}

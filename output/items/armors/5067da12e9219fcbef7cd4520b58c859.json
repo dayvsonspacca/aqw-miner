@@ -1,0 +1,18 @@
+{
+    "urlName": "toil-armor",
+    "url": "http://aqwwiki.wikidot.com/toil-armor",
+    "name": "Toil Armor",
+    "type": "armors",
+    "description": "As the eldest of the Cauldron Siblings, Toil is resourceful and creative when it comes to attempting to add new flavors to her candy recipes. By \"borrowing\" the silk-woven apparel, hopefully you can tolerate spiders. They tend to burrow in the cloth.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/aLdlpOL.png",
+        "http://i.imgur.com/qMxuN7p.png"
+    ],
+    "hash": "5067da12e9219fcbef7cd4520b58c859"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "ninja-armor",
+    "url": "http://aqwwiki.wikidot.com/ninja-armor",
+    "name": "Ninja Armor",
+    "type": "armors",
+    "description": "Ninjas are masters of stealth and the deadly arts!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/8SHrViR.png",
+        "https://i.imgur.com/oEyLUuq.png"
+    ],
+    "hash": "dbf7488d8409ff571140192c1db07d44"
+}

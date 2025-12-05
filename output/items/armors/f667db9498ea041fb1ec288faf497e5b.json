@@ -1,0 +1,18 @@
+{
+    "urlName": "living-shadow-assassin",
+    "url": "http://aqwwiki.wikidot.com/living-shadow-assassin",
+    "name": "Living Shadow Assassin",
+    "type": "armors",
+    "description": "Only the most elite assassins may be a part of the Shadowscythe. Do not disappoint the Empress. Sneaky coat included. HAS SHADOW ANIMATION",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/living-shadow-assassin/LivingShadowAssassinM.png",
+        "http://aqwwiki.wdfiles.com/local--files/living-shadow-assassin/LivingShadowAssassinF.png",
+        "http://aqwwiki.wdfiles.com/local--files/living-shadow-assassin/LivingShadowAssassinA.png"
+    ],
+    "hash": "f667db9498ea041fb1ec288faf497e5b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "warden-of-hours",
+    "url": "http://aqwwiki.wikidot.com/warden-of-hours",
+    "name": "Warden of Hours",
+    "type": "armors",
+    "description": "The slightest hiccup in time could cause a cascade into calamity. The Warden of Hours jumps from one era to the next, quietly fixing destiny into place.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uwiDrUl.png",
+        "https://i.imgur.com/gn0byXt.png"
+    ],
+    "hash": "1038a33e006ef5f1c3cc413fb98d37ed"
+}

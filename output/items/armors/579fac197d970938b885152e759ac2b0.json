@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-raven-shifter",
+    "url": "http://aqwwiki.wikidot.com/dark-raven-shifter",
+    "name": "Dark Raven Shifter",
+    "type": "armors",
+    "description": "Once upon a midnight dreary\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-raven-shifter/DarkRavenShifterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-raven-shifter/DarkRavenShifterF.png"
+    ],
+    "hash": "579fac197d970938b885152e759ac2b0"
+}

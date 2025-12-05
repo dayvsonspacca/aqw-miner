@@ -1,0 +1,17 @@
+{
+    "urlName": "lavamancer-blaster",
+    "url": "http://aqwwiki.wikidot.com/lavamancer-blaster",
+    "name": "Lavamancer Blaster",
+    "type": "armors",
+    "description": "FIRE FROM ABOVE! Makin' it rain. Forecast for tonight? Meteor showers!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lavamancer-blaster/LavamancerBlasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lavamancer-blaster/LavamancerBlasterF.png"
+    ],
+    "hash": "a3feeec0c334c5c9b9115cac232e1ae4"
+}

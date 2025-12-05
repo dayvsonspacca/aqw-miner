@@ -1,0 +1,17 @@
+{
+    "urlName": "elegant-frost-suit",
+    "url": "http://aqwwiki.wikidot.com/elegant-frost-suit",
+    "name": "Elegant Frost Suit",
+    "type": "armors",
+    "description": "The frosty colors of Frostval have come together in this elegant set of formal wear.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BoP3Onp.png",
+        "https://i.imgur.com/tnRkCIf.png"
+    ],
+    "hash": "14e72be70e0ef7afda9cbeaa2ba7d805"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "celtic-cutthroat",
+    "url": "http://aqwwiki.wikidot.com/celtic-cutthroat",
+    "name": "Celtic Cutthroat",
+    "type": "armors",
+    "description": "You've got a heavy brogue, rogue. But you don't need to be understood when you have daggers to speak for you. Happy Lucky Day!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/vysRKNs.png",
+        "http://i.imgur.com/nltMCQ9.png"
+    ],
+    "hash": "580e00b39e19ca27888e396d31fe3057"
+}

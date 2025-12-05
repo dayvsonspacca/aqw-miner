@@ -1,0 +1,16 @@
+{
+    "urlName": "marauder-legionary",
+    "url": "http://aqwwiki.wikidot.com/marauder-legionary",
+    "name": "Marauder Legionary",
+    "type": "armors",
+    "description": "These former comrades of Kyron are heck bent on undermining his position as General and bringing havoc to the Steppes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/YfXIR5j.png",
+        "http://i.imgur.com/ErPDhJS.png"
+    ],
+    "hash": "b7c0b2f4473d38fdb7d42eb2ffd31852"
+}

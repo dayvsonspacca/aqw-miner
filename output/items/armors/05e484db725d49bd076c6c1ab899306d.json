@@ -1,0 +1,17 @@
+{
+    "urlName": "polar-bear-hoodie",
+    "url": "http://aqwwiki.wikidot.com/polar-bear-hoodie",
+    "name": "Polar Bear Hoodie",
+    "type": "armors",
+    "description": "This awesome hoodie helps keep you warm and cozy while fighting in the Northlands.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/qsBnQzf.png",
+        "https://i.imgur.com/klaNcXQ.png"
+    ],
+    "hash": "05e484db725d49bd076c6c1ab899306d"
+}

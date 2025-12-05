@@ -1,0 +1,20 @@
+{
+    "urlName": "sea-king-gravefang-armor",
+    "url": "http://aqwwiki.wikidot.com/sea-king-gravefang-armor",
+    "name": "Sea King Gravefang (Armor)",
+    "type": "armors",
+    "description": "The fiercest sea dogs sail in Sea King Gravefang's fleet. They prowl the seas to plunder blood instead of gold. The Abyssal Horde continues to grow, turning every ship they can find into one of their own.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7ZhQgam.png",
+        "https://i.imgur.com/SXArvgT.png",
+        "https://i.imgur.com/Gs3J1rl.png",
+        "https://i.imgur.com/nNXPz2o.png"
+    ],
+    "hash": "cdee1885601c9ede09bba792c3a9a83f"
+}

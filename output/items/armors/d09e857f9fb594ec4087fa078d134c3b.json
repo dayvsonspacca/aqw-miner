@@ -1,0 +1,16 @@
+{
+    "urlName": "gold-exalted-paladin",
+    "url": "http://aqwwiki.wikidot.com/gold-exalted-paladin",
+    "name": "Gold Exalted Paladin",
+    "type": "armors",
+    "description": "Had Trolle'din had the improved version of this armor, it is doubtful that he would have perished. Then again, this IS Trolle'din we are talking about. He probably would have fallen for the same trick. This item does 20% more damage to undead monsters, and provides 15% more gold when equipped.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/5iD65YP.png",
+        "https://i.imgur.com/YA40zzn.png"
+    ],
+    "hash": "d09e857f9fb594ec4087fa078d134c3b"
+}

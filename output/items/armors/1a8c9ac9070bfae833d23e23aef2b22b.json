@@ -1,0 +1,17 @@
+{
+    "urlName": "wanton-royal-weaver-armor",
+    "url": "http://aqwwiki.wikidot.com/wanton-royal-weaver-armor",
+    "name": "Wanton Royal Weaver Armor",
+    "type": "armors",
+    "description": "Regal and deadly. The look of the Chaos Weaver Queen demands respect. Only those who swear their unwavering alliance are granted such splendor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wanton-royal-weaver-armor/WantonRoyalWeaverM.png",
+        "http://aqwwiki.wdfiles.com/local--files/wanton-royal-weaver-armor/WantonRoyalWeaverF.png"
+    ],
+    "hash": "1a8c9ac9070bfae833d23e23aef2b22b"
+}

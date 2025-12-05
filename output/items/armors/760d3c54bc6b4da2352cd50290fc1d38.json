@@ -1,0 +1,17 @@
+{
+    "urlName": "magma-claw",
+    "url": "http://aqwwiki.wikidot.com/magma-claw",
+    "name": "Magma Claw",
+    "type": "armors",
+    "description": "When left to burn, those who have no where to turn\u2026turn on each other!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/magma-claw/MagmaClawM.png",
+        "http://aqwwiki.wdfiles.com/local--files/magma-claw/MagmaClawF.png"
+    ],
+    "hash": "760d3c54bc6b4da2352cd50290fc1d38"
+}

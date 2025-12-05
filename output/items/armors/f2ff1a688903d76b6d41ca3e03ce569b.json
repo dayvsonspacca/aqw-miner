@@ -1,0 +1,16 @@
+{
+    "urlName": "void-battlemage",
+    "url": "http://aqwwiki.wikidot.com/void-battlemage",
+    "name": "Void BattleMage",
+    "type": "armors",
+    "description": "In the depths of battle against their foes, these elite BattleMage's use dark magic to defeat their many enemies.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/XbvjzdX.png",
+        "https://imgur.com/INBOOCN.png"
+    ],
+    "hash": "f2ff1a688903d76b6d41ca3e03ce569b"
+}

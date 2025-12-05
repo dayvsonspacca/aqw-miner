@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-terror-armor",
+    "url": "http://aqwwiki.wikidot.com/undead-terror-armor",
+    "name": "Undead Terror Armor",
+    "type": "armors",
+    "description": "You're turned not only into the undead but an undead TERROR!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/CeeDZhI.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-terror-armor/UndeadTerrorArmorOld.png"
+    ],
+    "hash": "057b6fd5448a203a4f9be53811fb6b90"
+}

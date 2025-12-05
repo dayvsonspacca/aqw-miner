@@ -1,0 +1,17 @@
+{
+    "urlName": "igneus-assassin",
+    "url": "http://aqwwiki.wikidot.com/igneus-assassin",
+    "name": "Igneus Assassin",
+    "type": "armors",
+    "description": "You've got the eye of the tiger in this stealth assassin armor. Always on the prowl, the cat-like reflexes of the Igneus Assassin are those of legends.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/fbcMRD2.png",
+        "http://i.imgur.com/gRSH2x0.png"
+    ],
+    "hash": "a234b97580de0c4b66fa21c7cb7d5f68"
+}

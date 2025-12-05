@@ -1,0 +1,17 @@
+{
+    "urlName": "paintbender-battlemage",
+    "url": "http://aqwwiki.wikidot.com/paintbender-battlemage",
+    "name": "Paintbender Battlemage",
+    "type": "armors",
+    "description": "A powerful mage that uses paint as a medium to create new life and reality. Their imaginations are boundless, lending to their great power.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/uHd8Gm0.png",
+        "https://i.imgur.com/lFSCBLs.png"
+    ],
+    "hash": "f6a15928e85152d282d674a56f65314d"
+}

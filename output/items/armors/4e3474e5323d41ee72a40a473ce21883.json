@@ -1,0 +1,19 @@
+{
+    "urlName": "treasured-hero-of-gold",
+    "url": "http://aqwwiki.wikidot.com/treasured-hero-of-gold",
+    "name": "Treasured Hero of Gold",
+    "type": "armors",
+    "description": "This set is 100% gold. Literally. Made out of the many gold coins you've saved up while adventuring. Talk about a status symbol!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mSIr7vv.png",
+        "https://i.imgur.com/XHKAgrn.png",
+        "https://i.imgur.com/IKE3fnT.png",
+        "https://i.imgur.com/zCJRy8Z.png"
+    ],
+    "hash": "4e3474e5323d41ee72a40a473ce21883"
+}

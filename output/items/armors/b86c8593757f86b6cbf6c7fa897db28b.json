@@ -1,0 +1,17 @@
+{
+    "urlName": "tombstone-armor",
+    "url": "http://aqwwiki.wikidot.com/tombstone-armor",
+    "name": "Tombstone Armor",
+    "type": "armors",
+    "description": "So\u2026 what do you want on your tombstone? What,there's no pizza in the Wild West,you lily-livered bullet-dodger! Grab your gun and get ready to face off,because my finger's just itching to pull the trigger!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tombstone-armor/TombstoneArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/tombstone-armor/TombstoneArmorF.png"
+    ],
+    "hash": "b86c8593757f86b6cbf6c7fa897db28b"
+}

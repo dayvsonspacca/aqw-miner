@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-gatekeeper",
+    "url": "http://aqwwiki.wikidot.com/underworld-gatekeeper",
+    "name": "Underworld Gatekeeper",
+    "type": "armors",
+    "description": "The depths of the Underworld are Endless, and some corners are even forbidden to its Lord. Gatekeepers were forged by Dage himself to act as keys that unlocks all paths, and unbreakable seals.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/LE5mN84.png",
+        "https://i.imgur.com/P0fCwrh.png"
+    ],
+    "hash": "1082963b3af83928514b8469cf17ae45"
+}

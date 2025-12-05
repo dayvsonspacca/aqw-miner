@@ -1,0 +1,18 @@
+{
+    "urlName": "chaos-wolfy",
+    "url": "http://aqwwiki.wikidot.com/chaos-wolfy",
+    "name": "Chaos Wolfy",
+    "type": "armors",
+    "description": "A life of a teenage wolf is Chaos\u2026when in high school!!! BAH HA HA!!!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-wolfy/ChaosWolfyMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaos-wolfy/ChaosWolfyFemale.png"
+    ],
+    "hash": "3b7f56e322949dda584c009b66fb97f0"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "jiangshi",
+    "url": "http://aqwwiki.wikidot.com/jiangshi",
+    "name": "Jiangshi",
+    "type": "armors",
+    "description": "Little is known about these ancient undead, said to only exist before Wuji's era of eternity. Legends say that these rise feed on qi, angered that part of their soul was barred from the afterlife. (Necklace CC to Accessory)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gnVvjGk.pngl",
+        "https://i.imgur.com/pi4kGTV.png"
+    ],
+    "hash": "a7b4d1368213d494ae89258128868f0a"
+}

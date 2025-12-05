@@ -1,0 +1,17 @@
+{
+    "urlName": "violet-cruise-captain",
+    "url": "http://aqwwiki.wikidot.com/violet-cruise-captain",
+    "name": "Violet Cruise Captain",
+    "type": "armors",
+    "description": "I'm on a boat! I'm on boat! Wait..wait\u2026 I'M A CAPTAIN OF A BOAT!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/violet-cruise-captain/VioletCruiseCaptainM.png",
+        "http://aqwwiki.wdfiles.com/local--files/violet-cruise-captain/VioletCruiseCaptainF.png"
+    ],
+    "hash": "dfd29003f289844eb53594014cbff881"
+}

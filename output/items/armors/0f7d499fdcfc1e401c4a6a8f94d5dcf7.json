@@ -1,0 +1,19 @@
+{
+    "urlName": "undead-paladinslayer-ac",
+    "url": "http://aqwwiki.wikidot.com/undead-paladinslayer-ac",
+    "name": "Undead Paladinslayer (AC)",
+    "type": "armors",
+    "description": "Grim, grimy, and graven\u2026 this Undead Paladinslayer is out to slay ALL who have wronged them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-paladinslayer-ac/UndeadPaladinslayerMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-paladinslayer-ac/UndeadPaladinslayerMA.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-paladinslayer-ac/UndeadPaladinslayerFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-paladinslayer-ac/UndeadPaladinslayerFA.png"
+    ],
+    "hash": "0f7d499fdcfc1e401c4a6a8f94d5dcf7"
+}

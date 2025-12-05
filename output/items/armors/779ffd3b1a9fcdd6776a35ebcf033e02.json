@@ -1,0 +1,16 @@
+{
+    "urlName": "flamedragon-knight",
+    "url": "http://aqwwiki.wikidot.com/flamedragon-knight",
+    "name": "FlameDragon Knight",
+    "type": "armors",
+    "description": "Through fire and flames, these Knights burn with the power of the dragons.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/QK8h75O.png",
+        "https://i.imgur.com/z40857A.png"
+    ],
+    "hash": "779ffd3b1a9fcdd6776a35ebcf033e02"
+}

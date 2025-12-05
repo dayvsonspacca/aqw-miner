@@ -1,0 +1,17 @@
+{
+    "urlName": "rare-deathhunter-armor-legend",
+    "url": "http://aqwwiki.wikidot.com/rare-deathhunter-armor-legend",
+    "name": "Rare DeathHunter Armor (Legend)",
+    "type": "armors",
+    "description": "When Death comes calling, you can be sure his DeathHunter minions won't be far behind.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Ivzf78u.png",
+        "https://i.imgur.com/A35otdi.png"
+    ],
+    "hash": "a3bee3369c077742f8ce565291fd3627"
+}

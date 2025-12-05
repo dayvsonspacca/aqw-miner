@@ -1,0 +1,17 @@
+{
+    "urlName": "ice-king",
+    "url": "http://aqwwiki.wikidot.com/ice-king",
+    "name": "Ice King",
+    "type": "armors",
+    "description": "A high-ranking soldier in the ranks of Queen Aisha's army if that soldier is actually human, but there's little to worry about for her. The bright ice actually contains a fraction of her power that causes the user to be distant from others until they succumb to her unquestioned loyalty.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ice-king/IceKingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ice-king/IceKingF.png"
+    ],
+    "hash": "d3cb265049d5e691e47a7132f7defa06"
+}

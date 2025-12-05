@@ -1,0 +1,16 @@
+{
+    "urlName": "high-crusader",
+    "url": "http://aqwwiki.wikidot.com/high-crusader",
+    "name": "High Crusader",
+    "type": "armors",
+    "description": "Crusaders are the next up the Good rank! You're moving your way towards the Light!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/0OF1w39.png",
+        "https://i.imgur.com/BFwB2kC.png"
+    ],
+    "hash": "d195c853bbc3738312b86c6f91a67644"
+}

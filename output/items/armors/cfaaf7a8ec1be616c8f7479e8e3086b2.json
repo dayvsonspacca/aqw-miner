@@ -1,0 +1,17 @@
+{
+    "urlName": "passaro-de-fogo",
+    "url": "http://aqwwiki.wikidot.com/passaro-de-fogo",
+    "name": "Passaro de Fogo",
+    "type": "armors",
+    "description": "This amazing outfit mimics a bird with wings of fire!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/4Sp1y4B.png",
+        "https://i.imgur.com/YxSimIz.png"
+    ],
+    "hash": "cfaaf7a8ec1be616c8f7479e8e3086b2"
+}

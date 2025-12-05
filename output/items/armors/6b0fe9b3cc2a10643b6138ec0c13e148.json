@@ -1,0 +1,16 @@
+{
+    "urlName": "living-ice-armor",
+    "url": "http://aqwwiki.wikidot.com/living-ice-armor",
+    "name": "Living Ice (Armor)",
+    "type": "armors",
+    "description": "This armor is actually a symbiotic ice elemental. Once bonded to its host, it forms a protective ice layer between them and the dangerous world outside.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/dz5WIxX.png",
+        "https://i.imgur.com/zK4vpwt.png"
+    ],
+    "hash": "6b0fe9b3cc2a10643b6138ec0c13e148"
+}

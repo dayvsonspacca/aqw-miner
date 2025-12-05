@@ -1,0 +1,17 @@
+{
+    "urlName": "iceten-space-armor",
+    "url": "http://aqwwiki.wikidot.com/iceten-space-armor",
+    "name": "IceTen Space Armor",
+    "type": "armors",
+    "description": "After that last job, you did say something about wanting more office space\u2026 Why not a whole galaxy?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/iceten-space-armor/IceTenSpaceArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/iceten-space-armor/IceTenSpaceArmorF.png"
+    ],
+    "hash": "375a4b08d16d92ddb1cac4a4a55c060f"
+}

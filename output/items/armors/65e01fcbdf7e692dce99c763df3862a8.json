@@ -1,0 +1,17 @@
+{
+    "urlName": "thorn-of-nulgath-legend",
+    "url": "http://aqwwiki.wikidot.com/thorn-of-nulgath-legend",
+    "name": "Thorn of Nulgath (Legend)",
+    "type": "armors",
+    "description": "The Thorns of Nulgath are a silent, deadly, almost invisible corps of elite assassins. You do not know they are hunting you until you feel their blade pierce through your side.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/3bcpZkd.png",
+        "https://imgur.com/NyD4xYs.png"
+    ],
+    "hash": "65e01fcbdf7e692dce99c763df3862a8"
+}

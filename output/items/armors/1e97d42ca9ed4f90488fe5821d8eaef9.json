@@ -1,0 +1,16 @@
+{
+    "urlName": "geomancer-armor",
+    "url": "http://aqwwiki.wikidot.com/geomancer-armor",
+    "name": "Geomancer Armor",
+    "type": "armors",
+    "description": "Druids say that there is power in the very land - in all living things. As a Geomancer, you can use that power to keep the world safe.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/nDN6jxW.png",
+        "https://imgur.com/HjtpPLm.png"
+    ],
+    "hash": "1e97d42ca9ed4f90488fe5821d8eaef9"
+}

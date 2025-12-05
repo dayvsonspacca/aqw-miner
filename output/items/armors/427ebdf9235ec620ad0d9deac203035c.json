@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-skyguard-rifleman-legend",
+    "url": "http://aqwwiki.wikidot.com/dark-skyguard-rifleman-legend",
+    "name": "Dark SkyGuard Rifleman (Legend)",
+    "type": "armors",
+    "description": "All you have to do is show up and everyone quickly disperses. Rifleman are notoriously good at what they do and when one doesn't miss the target, he or she becomes legendary. Be legendary.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/AtimCfO.png",
+        "https://i.imgur.com/FyZs7tA.png"
+    ],
+    "hash": "427ebdf9235ec620ad0d9deac203035c"
+}

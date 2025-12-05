@@ -1,0 +1,18 @@
+{
+    "urlName": "hero-hunter-special",
+    "url": "http://aqwwiki.wikidot.com/hero-hunter-special",
+    "name": "Hero Hunter (Special)",
+    "type": "armors",
+    "description": "The heroes of Lore are out in force. The Hunt is on and your prey is near\u2026 but if you aren't careful, you just might become the hunted!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/H59utwV.png",
+        "https://i.imgur.com/jx30cck.png"
+    ],
+    "hash": "42469c94324d15863c98914be5d3f731"
+}

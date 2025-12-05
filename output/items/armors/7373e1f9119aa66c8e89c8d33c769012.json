@@ -1,0 +1,19 @@
+{
+    "urlName": "legendary-member-armor",
+    "url": "http://aqwwiki.wikidot.com/legendary-member-armor",
+    "name": "Legendary Member Armor",
+    "type": "armors",
+    "description": "This item, featuring the Membership symbol, will show the world that you have supported AdventureQuest Worlds. Thank you for being legendary!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/rHcUGBP.png",
+        "https://i.imgur.com/5LtAbwI.png",
+        "https://i.imgur.com/PyKlJaT.png",
+        "https://i.imgur.com/ySdDT1d.png"
+    ],
+    "hash": "7373e1f9119aa66c8e89c8d33c769012"
+}

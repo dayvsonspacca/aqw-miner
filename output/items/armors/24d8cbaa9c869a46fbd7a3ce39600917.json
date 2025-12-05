@@ -1,0 +1,16 @@
+{
+    "urlName": "pacv-mach-2-0",
+    "url": "http://aqwwiki.wikidot.com/pacv-mach-2-0",
+    "name": "PACV Mach 2.0",
+    "type": "armors",
+    "description": "Executive Order 11.23.22: Any unauthorized observation, analyzation, or utilization of Prototype Accelerator Containment Vessel Mach 2.0 will result in immediate termination. - Chairman Platinum",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BqCcyBH.png"
+    ],
+    "hash": "24d8cbaa9c869a46fbd7a3ce39600917"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "galactic-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/galactic-naval-commander",
+    "name": "Galactic Naval Commander",
+    "type": "armors",
+    "description": "Ye always be sayin' how pirates be out of this world\u2026 'n now ye can shoot for the stars 'n plunder the planets as the Galactic Naval Commander!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/galactic-naval-commander/GalacticNavalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/galactic-naval-commander/GalacticNavalCommanderF.png"
+    ],
+    "hash": "f34ed0f512a248c5fee57f386809017d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "night-masquerade",
+    "url": "http://aqwwiki.wikidot.com/night-masquerade",
+    "name": "Night Masquerade",
+    "type": "armors",
+    "description": "After the hunt, it's traditional to celebrate with a masquerade ball.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/d4MsUnz.png",
+        "http://i.imgur.com/t5DMS21.png",
+        "http://i.imgur.com/v2oJiDZ.png"
+    ],
+    "hash": "3047195b35fb4ceda188929cbcb71d46"
+}

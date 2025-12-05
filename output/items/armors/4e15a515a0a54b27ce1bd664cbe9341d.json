@@ -1,0 +1,17 @@
+{
+    "urlName": "quantum-centurion",
+    "url": "http://aqwwiki.wikidot.com/quantum-centurion",
+    "name": "Quantum Centurion",
+    "type": "armors",
+    "description": "Once in a lifetime heroes plucked from the timeline to safeguard their century. Ascending to legend, they were meant to stand together as an army against interdimensional threats.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fpx3apY.png",
+        "https://i.imgur.com/uAKmdkb.png"
+    ],
+    "hash": "4e15a515a0a54b27ce1bd664cbe9341d"
+}

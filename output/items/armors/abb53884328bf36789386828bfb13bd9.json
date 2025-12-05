@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-wolf-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-wolf-ac",
+    "name": "Legion Wolf (AC)",
+    "type": "armors",
+    "description": "Even wolves want to be members of Dage's Legion.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/zicVRzk.png",
+        "https://i.imgur.com/qqJUNeT.png"
+    ],
+    "hash": "abb53884328bf36789386828bfb13bd9"
+}

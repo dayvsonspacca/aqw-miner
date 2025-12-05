@@ -1,0 +1,17 @@
+{
+    "urlName": "fall-scarecrow",
+    "url": "http://aqwwiki.wikidot.com/fall-scarecrow",
+    "name": "Fall ScareCrow",
+    "type": "armors",
+    "description": "The best way to sneak up on your enemy is to blend in with your environment. During Harvest, what better camouflage than as a scarecrow?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0XwIJow.png",
+        "https://i.imgur.com/qRnFkKx.png"
+    ],
+    "hash": "309766b6e607a585d761e0dd720305d4"
+}

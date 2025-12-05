@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-shogun-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-shogun-armor",
+    "name": "Dark Shogun (Armor)",
+    "type": "armors",
+    "description": "These former rulers aren't ready to concede yet. Their undying pledge to defend their lands goes beyond life itself.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/4reJGI3.png",
+        "https://i.imgur.com/ISWBt3M.png"
+    ],
+    "hash": "e89ba0a14b3ad99d3191b3e7173f378e"
+}

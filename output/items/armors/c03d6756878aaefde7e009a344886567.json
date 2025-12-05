@@ -1,0 +1,17 @@
+{
+    "urlName": "necromancer-fiend-ac",
+    "url": "http://aqwwiki.wikidot.com/necromancer-fiend-ac",
+    "name": "Necromancer Fiend (AC)",
+    "type": "armors",
+    "description": "When Nulgath takes souls the bodies are left to the Necromancer Fiends. Just what they do with the bodies remains a mystery.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necromancer-fiend-ac/NecromancerFiendM.png",
+        "http://aqwwiki.wdfiles.com/local--files/necromancer-fiend-ac/NecromancerFiendF.png"
+    ],
+    "hash": "c03d6756878aaefde7e009a344886567"
+}

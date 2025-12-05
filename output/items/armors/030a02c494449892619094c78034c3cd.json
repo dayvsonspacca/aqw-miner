@@ -1,0 +1,19 @@
+{
+    "urlName": "shadow-blade-shinobi",
+    "url": "http://aqwwiki.wikidot.com/shadow-blade-shinobi",
+    "name": "Shadow Blade Shinobi",
+    "type": "armors",
+    "description": "Sneaking around shrouded in black, it's never been easier to be a ninja.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-blade-shinobi/SBSm.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-blade-shinobi/SBSmAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-blade-shinobi/SBSf.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-blade-shinobi/SBSfAnim.png"
+    ],
+    "hash": "030a02c494449892619094c78034c3cd"
+}

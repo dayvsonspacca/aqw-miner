@@ -1,0 +1,19 @@
+{
+    "urlName": "dainty-alchemist",
+    "url": "http://aqwwiki.wikidot.com/dainty-alchemist",
+    "name": "Dainty Alchemist",
+    "type": "armors",
+    "description": "Recruited by Big Daddy, these alchemists are entrusted to brew handmade love potions.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kPB1BGC.png",
+        "https://i.imgur.com/ydR157D.png",
+        "https://i.imgur.com/LgxbKcG.png",
+        "https://i.imgur.com/H57MtwA.png"
+    ],
+    "hash": "ad1501ad2bb0439b2901b30f0d746c21"
+}

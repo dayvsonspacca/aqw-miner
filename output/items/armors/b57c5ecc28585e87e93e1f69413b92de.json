@@ -1,0 +1,17 @@
+{
+    "urlName": "satyrs-varsity-team",
+    "url": "http://aqwwiki.wikidot.com/satyrs-varsity-team",
+    "name": "Satyrs Varsity Team",
+    "type": "armors",
+    "description": "Rah rah rah! Go Satyrs!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yUTV4zy.png",
+        "https://i.imgur.com/Dts8ds8.png"
+    ],
+    "hash": "b57c5ecc28585e87e93e1f69413b92de"
+}

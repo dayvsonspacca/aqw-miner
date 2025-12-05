@@ -1,0 +1,17 @@
+{
+    "urlName": "vaden-knight",
+    "url": "http://aqwwiki.wikidot.com/vaden-knight",
+    "name": "Vaden Knight",
+    "type": "armors",
+    "description": "Some serve their masters for all eternity, whether they're given the option or not.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vaden-knight/VKm.png",
+        "http://aqwwiki.wdfiles.com/local--files/vaden-knight/VKf.png"
+    ],
+    "hash": "7c359c5ae6d0b7a114d9691ec0e71b2c"
+}

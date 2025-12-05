@@ -1,0 +1,16 @@
+{
+    "urlName": "nightwyvern-armor",
+    "url": "http://aqwwiki.wikidot.com/nightwyvern-armor",
+    "name": "Nightwyvern (Armor)",
+    "type": "armors",
+    "description": "This armor has all sorts of clever little compartments. And the utility belt! OH the utility belt!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/haIrzkX.png",
+        "https://i.imgur.com/vZAChno.png"
+    ],
+    "hash": "1237a5ed4529875a621ca1f688ee8c5c"
+}

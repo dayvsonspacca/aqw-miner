@@ -1,0 +1,14 @@
+{
+    "urlName": "shadow-cleric",
+    "url": "http://aqwwiki.wikidot.com/shadow-cleric",
+    "name": "Shadow Cleric",
+    "type": "armors",
+    "description": "It may seem strange but shadow energy can be used to heal as well as destroy.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/O47oMf4.png",
+        "http://i.imgur.com/mxmQ3qn.png"
+    ],
+    "hash": "af58df4c8ea92bff5ca251f77e46f7af"
+}

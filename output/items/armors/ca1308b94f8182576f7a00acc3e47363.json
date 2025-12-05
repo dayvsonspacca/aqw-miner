@@ -1,0 +1,16 @@
+{
+    "urlName": "void-skinwalker-fiend",
+    "url": "http://aqwwiki.wikidot.com/void-skinwalker-fiend",
+    "name": "Void SkinWalker Fiend",
+    "type": "armors",
+    "description": "With the ability to turn into any animal at all, SkinWalkers have been around for thousands of years, lurking in the shadows of the forest. However it appears some have met a certain ArchFiend.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/SVDkp3M.png",
+        "https://i.imgur.com/fdoHQLR.png"
+    ],
+    "hash": "ca1308b94f8182576f7a00acc3e47363"
+}

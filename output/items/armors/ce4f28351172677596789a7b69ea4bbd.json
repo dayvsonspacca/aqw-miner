@@ -1,0 +1,16 @@
+{
+    "urlName": "thanatos-armor",
+    "url": "http://aqwwiki.wikidot.com/thanatos-armor",
+    "name": "Thanatos (Armor)",
+    "type": "armors",
+    "description": "Not many have seen Thanatos\u2026 and even fewer have lived to tell the tale. Only those with an undying (and somewhat insane) dedication to the Undead Legion are worthy of becoming Thanatos. Does 50% more damage to humans",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/thanatos-armor/Thanatos.png"
+    ],
+    "hash": "ce4f28351172677596789a7b69ea4bbd"
+}

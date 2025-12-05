@@ -1,0 +1,17 @@
+{
+    "urlName": "caecalian-defender",
+    "url": "http://aqwwiki.wikidot.com/caecalian-defender",
+    "name": "Caecalian Defender",
+    "type": "armors",
+    "description": "Sworn to protect the treasures that hunter come to claim for themselves, these warriors of the deep will fight to the end.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/didQ8Rt.png",
+        "https://i.imgur.com/CfyyUVx.png"
+    ],
+    "hash": "f53cec36ded975ed65243e67312580fc"
+}

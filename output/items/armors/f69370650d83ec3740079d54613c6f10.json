@@ -1,0 +1,17 @@
+{
+    "urlName": "flameheart-warrior",
+    "url": "http://aqwwiki.wikidot.com/flameheart-warrior",
+    "name": "FlameHeart Warrior",
+    "type": "armors",
+    "description": "Try to keep warm by wearing sculpted flame while celebrating the Bright Lights Festival.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AJrYhRQ.png",
+        "https://i.imgur.com/vH8TYvV.png"
+    ],
+    "hash": "f69370650d83ec3740079d54613c6f10"
+}

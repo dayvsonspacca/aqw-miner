@@ -1,0 +1,17 @@
+{
+    "urlName": "meanest-bully",
+    "url": "http://aqwwiki.wikidot.com/meanest-bully",
+    "name": "Meanest Bully",
+    "type": "armors",
+    "description": "On Wednesdays we wear pink. On Thursdays, Fridays, Saturdays, Sundays, Mondays, and Tuesdays, we wear WHATEVER ELSE WE WANT. Who's going to stop us? YOU? Pffft. As if.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yrYvHlT.png",
+        "https://i.imgur.com/XKmaBND.png"
+    ],
+    "hash": "26d3996e44e109901fe486bd46bcf4ec"
+}

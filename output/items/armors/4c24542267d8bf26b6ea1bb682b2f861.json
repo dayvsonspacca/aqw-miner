@@ -1,0 +1,17 @@
+{
+    "urlName": "interfector-deorum",
+    "url": "http://aqwwiki.wikidot.com/interfector-deorum",
+    "name": "Interfector Deorum",
+    "type": "armors",
+    "description": "Join Forces with Knave1, King Alteon's personal Undeadslayer, to battle across Lore! Knave1 is the winner of the final I Can Has Mod contest, and YOU kept your final Cheezburger! Everyone wins!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/interfector-deorum/IDM.png",
+        "http://aqwwiki.wdfiles.com/local--files/interfector-deorum/IDF.png"
+    ],
+    "hash": "4c24542267d8bf26b6ea1bb682b2f861"
+}

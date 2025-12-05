@@ -1,0 +1,17 @@
+{
+    "urlName": "minotaur-slayer",
+    "url": "http://aqwwiki.wikidot.com/minotaur-slayer",
+    "name": "Minotaur Slayer",
+    "type": "armors",
+    "description": "Defeat the Beast, then wear this trophy armor to prove YOU are the Minotaur Slayer! Victory is yours!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/minotaur-slayer/MinotaurSlayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/minotaur-slayer/MinotaurSlayerF.png"
+    ],
+    "hash": "be8d30a2334fcc96bd6b32d860706306"
+}

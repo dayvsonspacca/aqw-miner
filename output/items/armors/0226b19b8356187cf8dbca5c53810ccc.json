@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-phoenix-rising",
+    "url": "http://aqwwiki.wikidot.com/dark-phoenix-rising",
+    "name": "Dark Phoenix Rising",
+    "type": "armors",
+    "description": "Rise anew from the ashes! The power of the Dark Phoenix envelopes you as you take flight into battle.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-phoenix-rising/DarkPhoenixRisingMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-phoenix-rising/DarkPhoenixRisingFemale.png"
+    ],
+    "hash": "0226b19b8356187cf8dbca5c53810ccc"
+}

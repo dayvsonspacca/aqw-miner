@@ -1,0 +1,20 @@
+{
+    "urlName": "dark-metal-necromancer",
+    "url": "http://aqwwiki.wikidot.com/dark-metal-necromancer",
+    "name": "Dark Metal Necromancer",
+    "type": "armors",
+    "description": "What's more metal than a rock concert full of head-banging undead? A necromancer who can bind their spirits and control them. FOREVER.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/OPKJOYs.png",
+        "https://i.imgur.com/FiCAxCb.png",
+        "https://i.imgur.com/XkbY6m3.png",
+        "https://i.imgur.com/1S57dED.png"
+    ],
+    "hash": "ac4ece4b954c6148ff68bd928dfacaa1"
+}

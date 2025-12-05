@@ -1,0 +1,17 @@
+{
+    "urlName": "giftbox-armor-2021-ac",
+    "url": "http://aqwwiki.wikidot.com/giftbox-armor-2021-ac",
+    "name": "Giftbox Armor 2021 (AC)",
+    "type": "armors",
+    "description": "Happy Frostval 2021! These giftboxes will NOT open.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/yTLPMi1.png",
+        "https://i.imgur.com/08fUf3Q.png"
+    ],
+    "hash": "a2c5fbace1df2e2477cfc79f0379f8b6"
+}

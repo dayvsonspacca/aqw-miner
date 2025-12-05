@@ -1,0 +1,18 @@
+{
+    "urlName": "galaxy-hunters",
+    "url": "http://aqwwiki.wikidot.com/galaxy-hunters",
+    "name": "Galaxy Hunters",
+    "type": "armors",
+    "description": "No bounty is to small for you to capitalize on. There's no dark corner of the galaxy that you won't visit to hunt for your bounties.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/agiHzQQ.png",
+        "http://i.imgur.com/FIaspny.png",
+        "http://i.imgur.com/aih1V3E.png",
+        "http://i.imgur.com/O5aDLDO.png"
+    ],
+    "hash": "a1ded419f6663f0686a8f2bac676eee7"
+}

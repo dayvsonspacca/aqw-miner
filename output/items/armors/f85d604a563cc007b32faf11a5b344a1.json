@@ -1,0 +1,18 @@
+{
+    "urlName": "golden-plate",
+    "url": "http://aqwwiki.wikidot.com/golden-plate",
+    "name": "Golden Plate",
+    "type": "armors",
+    "description": "Forged from the gold acquired in battles and journeys, only those who don this armor decide to show off their wealth on their gauntlets.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-plate/GoldenPlateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-plate/GoldenPlateF.png"
+    ],
+    "hash": "f85d604a563cc007b32faf11a5b344a1"
+}

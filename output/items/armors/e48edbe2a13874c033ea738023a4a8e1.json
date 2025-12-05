@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-infernal-mage-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-infernal-mage-armor",
+    "name": "Dark Infernal Mage Armor",
+    "type": "armors",
+    "description": "Once worn by an Abyssal Mage, this armor pulses with the darker power that runs through the Infernal Realm. You won this by defeating an Infernal Mage in direct combat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/s4cVIv1.png",
+        "https://i.imgur.com/WUxVg17.png"
+    ],
+    "hash": "e48edbe2a13874c033ea738023a4a8e1"
+}

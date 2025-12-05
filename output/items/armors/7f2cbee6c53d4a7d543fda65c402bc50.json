@@ -1,0 +1,16 @@
+{
+    "urlName": "champion-of-the-north",
+    "url": "http://aqwwiki.wikidot.com/champion-of-the-north",
+    "name": "Champion of the North",
+    "type": "armors",
+    "description": "It takes a great warrior to survive the harsh environment of the Frozen Northlands. Your spirit, your body, and your armor now reflects the ferocity of winter.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/YV0gNl8.png",
+        "http://imgur.com/NGgCp3i.png"
+    ],
+    "hash": "7f2cbee6c53d4a7d543fda65c402bc50"
+}

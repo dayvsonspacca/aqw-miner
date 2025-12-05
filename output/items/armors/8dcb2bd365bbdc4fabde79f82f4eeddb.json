@@ -1,0 +1,19 @@
+{
+    "urlName": "tarandus-battle-armor",
+    "url": "http://aqwwiki.wikidot.com/tarandus-battle-armor",
+    "name": "Tarandus Battle Armor",
+    "type": "armors",
+    "description": "The Tarandus are a race of reindeer people rumored to exist in the coldest, most remote parts of Lore. Their existence is still unconfirmed. Do you believe?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/61ZqBoz.png",
+        "http://i.imgur.com/8bk6JO4.png"
+    ],
+    "hash": "8dcb2bd365bbdc4fabde79f82f4eeddb"
+}

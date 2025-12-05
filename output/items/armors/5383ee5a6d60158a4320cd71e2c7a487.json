@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-trophyhunter-ac",
+    "url": "http://aqwwiki.wikidot.com/undead-trophyhunter-ac",
+    "name": "Undead Trophyhunter (AC)",
+    "type": "armors",
+    "description": "The Evil Undead are coming\u2026 and for any undead trophyhunters out there, this is the BEST TIME EVER! Collect ALL the bony trophies!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-trophyhunter-ac/UTMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-trophyhunter-ac/UTFemale.png"
+    ],
+    "hash": "5383ee5a6d60158a4320cd71e2c7a487"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "rotting-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/rotting-naval-commander",
+    "name": "Rotting Naval Commander",
+    "type": "armors",
+    "description": "Dead men tell no tales. Except in this case, where it seems you have managed to escape Davy Jones' Locker. Yaaar!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rotting-naval-commander/RottingNavalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/rotting-naval-commander/RottingNavalCommanderF.png"
+    ],
+    "hash": "90602dc25e1bf17341a2ef05689b491c"
+}

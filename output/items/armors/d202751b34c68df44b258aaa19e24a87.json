@@ -1,0 +1,18 @@
+{
+    "urlName": "force-guardian",
+    "url": "http://aqwwiki.wikidot.com/force-guardian",
+    "name": "Force Guardian",
+    "type": "armors",
+    "description": "A true Force Guardian feels the everything flow through them while keeping their emotions in check.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/P9bwqQp.png",
+        "https://i.imgur.com/59uzfte.png",
+        "https://i.imgur.com/nYEmbo5.png"
+    ],
+    "hash": "d202751b34c68df44b258aaa19e24a87"
+}

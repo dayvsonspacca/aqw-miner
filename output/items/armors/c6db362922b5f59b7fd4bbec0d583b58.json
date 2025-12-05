@@ -1,0 +1,17 @@
+{
+    "urlName": "technomancer-armor",
+    "url": "http://aqwwiki.wikidot.com/technomancer-armor",
+    "name": "Technomancer Armor",
+    "type": "armors",
+    "description": "Threads of recreated samples obtained from the Lord of DragonFable, the Technomancers possess the ability to control machines. Ah, wouldn't life be so much easier if we didn't have to manually flick a switch?",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/technomancer-armor/TechnomancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/technomancer-armor/TechnomancerF.png"
+    ],
+    "hash": "c6db362922b5f59b7fd4bbec0d583b58"
+}

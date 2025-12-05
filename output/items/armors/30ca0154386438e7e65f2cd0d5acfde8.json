@@ -1,0 +1,16 @@
+{
+    "urlName": "battle-oracle",
+    "url": "http://aqwwiki.wikidot.com/battle-oracle",
+    "name": "Battle Oracle",
+    "type": "armors",
+    "description": "Oracles are strong healers and can see into everyone's future, past and present, even if they don't know it! They are excellent at maintaining the health and status of their friends. They can also notify their friends of their opponents weaknesses and strengths, making them the perfect ones to accept a party invite from.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/LwLCQXc.png",
+        "http://i.imgur.com/AxTcbb9.png"
+    ],
+    "hash": "30ca0154386438e7e65f2cd0d5acfde8"
+}

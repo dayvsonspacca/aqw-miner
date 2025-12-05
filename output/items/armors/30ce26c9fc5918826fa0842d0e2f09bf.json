@@ -1,0 +1,17 @@
+{
+    "urlName": "trollish-high-mage",
+    "url": "http://aqwwiki.wikidot.com/trollish-high-mage",
+    "name": "Trollish High Mage",
+    "type": "armors",
+    "description": "As a troll, magic comes naturally. It's second nature to you, helping to define your clairvoyant charm. You have mastered the magical arts and have earned the right to adorn yourself in High Mage battle robes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/trollish-high-mage/TrollishHighMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/trollish-high-mage/TrollishHighMageF.png"
+    ],
+    "hash": "30ce26c9fc5918826fa0842d0e2f09bf"
+}

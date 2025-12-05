@@ -1,0 +1,17 @@
+{
+    "urlName": "amethyst-universe-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/amethyst-universe-armor-ac",
+    "name": "Amethyst Universe Armor (AC)",
+    "type": "armors",
+    "description": "When you equip this armor, you'll find it's easy to be kind to smaller men.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mQ2i3cl.png",
+        "https://i.imgur.com/DlJzwTm.png"
+    ],
+    "hash": "cb870ad3ec02fa81b46a1cadd31e3000"
+}

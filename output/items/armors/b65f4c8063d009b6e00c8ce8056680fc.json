@@ -1,0 +1,16 @@
+{
+    "urlName": "hollowborn-centaur",
+    "url": "http://aqwwiki.wikidot.com/hollowborn-centaur",
+    "name": "Hollowborn Centaur",
+    "type": "armors",
+    "description": "A Hollowborn warrior, part of a fallen branch of Darkblood ancestry. Their progenitor committed a grave sin, and as a result, Darkbloods who walk on four legs are rarely ever seen.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/cESG88z.png",
+        "https://i.imgur.com/m7rWGvu.png"
+    ],
+    "hash": "b65f4c8063d009b6e00c8ce8056680fc"
+}

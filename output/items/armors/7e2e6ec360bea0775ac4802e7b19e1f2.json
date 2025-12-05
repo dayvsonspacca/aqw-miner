@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-corsair",
+    "url": "http://aqwwiki.wikidot.com/enchanted-corsair",
+    "name": "Enchanted Corsair",
+    "type": "armors",
+    "description": "YARRRR! Ye an' yer crew rule the Dark Seas, an' all who are cursed enough to cross yer path will rue th' day\u2026 assumin' they survive it. (This item is color customizable to Accessory.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KYWav9z.png",
+        "https://i.imgur.com/dFkoKx6.png"
+    ],
+    "hash": "7e2e6ec360bea0775ac4802e7b19e1f2"
+}

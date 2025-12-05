@@ -1,0 +1,20 @@
+{
+    "urlName": "magentity",
+    "url": "http://aqwwiki.wikidot.com/magentity",
+    "name": "Magentity",
+    "type": "armors",
+    "description": "Raw mana has taken on the form of the human body in love, completely encompassing you in a self-existing para-elemental plane of hug magic. (This item requires a Pink Potion + the Astral Entity armor)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/tqpVpIA.png",
+        "http://i.imgur.com/UFRK0Q5.png",
+        "https://i.imgur.com/oMnY1Nd.png",
+        "https://i.imgur.com/mzwVaNe.png"
+    ],
+    "hash": "ec0fd832b1dc1f6548007ef3cf212561"
+}

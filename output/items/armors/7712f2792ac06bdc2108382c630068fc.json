@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-dragonlord-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/golden-dragonlord-naval-commander-ac",
+    "name": "Golden DragonLord Naval Commander (AC)",
+    "type": "armors",
+    "description": "Yarrrr! Most landlubbers never hear of th' fleet o' ships the DragonLords command. But with their dragon companions, they be fearsome fighters, on land, sea, AND air.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/anigb1L.png",
+        "https://i.imgur.com/dCN1diS.png"
+    ],
+    "hash": "7712f2792ac06bdc2108382c630068fc"
+}

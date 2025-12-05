@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-legion-vampire",
+    "url": "http://aqwwiki.wikidot.com/dark-legion-vampire",
+    "name": "Dark Legion Vampire",
+    "type": "armors",
+    "description": "Dage wasn't happy with just regular Legion Vampires so he took it to the next step.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-legion-vampire/DarkLegionVampireM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-legion-vampire/DarkLegionVampireF.png"
+    ],
+    "hash": "4abb6197eafd80f7274ece88c6c9be5d"
+}

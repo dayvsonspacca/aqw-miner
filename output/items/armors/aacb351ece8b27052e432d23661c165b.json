@@ -1,0 +1,18 @@
+{
+    "urlName": "holiday-archpaladin",
+    "url": "http://aqwwiki.wikidot.com/holiday-archpaladin",
+    "name": "Holiday ArchPaladin",
+    "type": "armors",
+    "description": "Artix the UndeadSlaying Paladin is getting into the Frostval Spirit, and the BEST way he can do is free any last spirits trapped inside Vordred the Paladin Slayer.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YrrfOdB.png",
+        "https://i.imgur.com/HOVBIVK.png",
+        "http://aqwwiki.wdfiles.com/local--files/holiday-archpaladin/HolidayArchPaladinMO.png"
+    ],
+    "hash": "aacb351ece8b27052e432d23661c165b"
+}

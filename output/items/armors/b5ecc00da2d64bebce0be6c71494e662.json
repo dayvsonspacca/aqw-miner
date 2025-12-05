@@ -1,0 +1,17 @@
+{
+    "urlName": "academy-tracksuit",
+    "url": "http://aqwwiki.wikidot.com/academy-tracksuit",
+    "name": "Academy Tracksuit",
+    "type": "armors",
+    "description": "To be the best, you have to work hard and train harder. A hero NEVER stops; Battle On!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/N1jCL3c.png",
+        "https://i.imgur.com/iAMcNGw.png"
+    ],
+    "hash": "b5ecc00da2d64bebce0be6c71494e662"
+}

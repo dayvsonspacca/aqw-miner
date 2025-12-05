@@ -1,0 +1,17 @@
+{
+    "urlName": "seraphic-surveillance-agent",
+    "url": "http://aqwwiki.wikidot.com/seraphic-surveillance-agent",
+    "name": "Seraphic Surveillance Agent",
+    "type": "armors",
+    "description": "Seraphic Surveillance Agents are charged with eternal vigilance. \"Quis custodiet ipsos custodes? Facimus.\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Dznl3I3.png",
+        "https://i.imgur.com/FMgPilS.png"
+    ],
+    "hash": "8c7325d0fe446de4f38b4c80336521b1"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-pyromancer-armor",
+    "url": "http://aqwwiki.wikidot.com/legion-pyromancer-armor",
+    "name": "Legion Pyromancer (Armor)",
+    "type": "armors",
+    "description": "Legion Pyromancers don't play around with normal fire. Their blue flames come deep with the underworld.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Tm8UNRY.png",
+        "https://i.imgur.com/FvWzPXN.png"
+    ],
+    "hash": "44854815151131f6552da91d49adae93"
+}

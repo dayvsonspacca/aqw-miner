@@ -1,0 +1,14 @@
+{
+    "urlName": "legion-judge",
+    "url": "http://aqwwiki.wikidot.com/legion-judge",
+    "name": "Legion Judge",
+    "type": "armors",
+    "description": "The time for judgement has come. The Legion Judge will determine the fate of those who cower beneath its harrowing reverence.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/pukSOZ0.png",
+        "http://i.imgur.com/4f0wA60.png"
+    ],
+    "hash": "d25d813f07cb1253fac81aa05462021d"
+}

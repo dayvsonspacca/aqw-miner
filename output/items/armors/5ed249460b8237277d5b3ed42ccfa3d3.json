@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-fancy-suit",
+    "url": "http://aqwwiki.wikidot.com/enchanted-fancy-suit",
+    "name": "Enchanted Fancy Suit",
+    "type": "armors",
+    "description": "Colorful formalwear for all your fanciest Mogloween parties.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/pmK53HV.png",
+        "https://i.imgur.com/BgGPF5N.png"
+    ],
+    "hash": "5ed249460b8237277d5b3ed42ccfa3d3"
+}

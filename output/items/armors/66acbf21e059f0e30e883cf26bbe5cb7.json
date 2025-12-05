@@ -1,0 +1,17 @@
+{
+    "urlName": "noble-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/noble-naval-commander-ac",
+    "name": "Noble Naval Commander (AC)",
+    "type": "armors",
+    "description": "A seafarer with blood as blue as the sea. The Noble Naval Commander sails and conquers in the name of a crown, which is the only thing that separates them from pirates.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/ypu5C2T.png",
+        "https://imgur.com/mMq7saM.png"
+    ],
+    "hash": "66acbf21e059f0e30e883cf26bbe5cb7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "wishbone-armor",
+    "url": "http://aqwwiki.wikidot.com/wishbone-armor",
+    "name": "Wishbone (Armor)",
+    "type": "armors",
+    "description": "The only wish I have is to break your bones and feast on the battlefield!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/SkHIUhl.png",
+        "http://i.imgur.com/TZXaMGX.png"
+    ],
+    "hash": "f0c78a74e7c576c9814c2683728994a8"
+}

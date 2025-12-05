@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-shirt",
+    "url": "http://aqwwiki.wikidot.com/chaos-shirt",
+    "name": "Chaos Shirt",
+    "type": "armors",
+    "description": "Are you a fan of Chaos? Wear this shirt with pride and represent your favorite faction!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/lyC98nn.png",
+        "http://i.imgur.com/tyjIwoL.png"
+    ],
+    "hash": "149c11c9199aeb90a76ce36d467559be"
+}

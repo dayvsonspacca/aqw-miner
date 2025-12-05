@@ -1,0 +1,18 @@
+{
+    "urlName": "jade-samurai-armor",
+    "url": "http://aqwwiki.wikidot.com/jade-samurai-armor",
+    "name": "Jade Samurai (Armor)",
+    "type": "armors",
+    "description": "An upper echelon of the warrior class, the Jade Samurai defends the land from evil in the name of honor. When crossing the path of the Samurai, you first must cross paths with their blade.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/jade-samurai-armor/JadeSamuraiMale.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/jade-samurai-armor/JadeSamuraiFemale.png"
+    ],
+    "hash": "9f297a314609f750f7e0c7933606d47b"
+}

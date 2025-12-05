@@ -1,0 +1,19 @@
+{
+    "urlName": "golden-fiend-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/golden-fiend-warrior-ac",
+    "name": "Golden Fiend Warrior (AC)",
+    "type": "armors",
+    "description": "Even the evillest Fiend takes a moment to shine his brightest armor to celebrate the holidays.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fSManyq.png",
+        "https://i.imgur.com/7rN8ag6.png",
+        "https://i.imgur.com/JAHraoa.png",
+        "https://i.imgur.com/G59Liuf.png"
+    ],
+    "hash": "08fe73ccb800c1f27e397c846874c6b5"
+}

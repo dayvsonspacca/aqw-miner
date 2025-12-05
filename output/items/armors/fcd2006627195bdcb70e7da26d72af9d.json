@@ -1,0 +1,17 @@
+{
+    "urlName": "magical-mariner",
+    "url": "http://aqwwiki.wikidot.com/magical-mariner",
+    "name": "Magical Mariner",
+    "type": "armors",
+    "description": "Fighting evil in sunlight,",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/magical-mariner/MagicalMarinerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/magical-mariner/MagicalMarinerFemale.png"
+    ],
+    "hash": "fcd2006627195bdcb70e7da26d72af9d"
+}

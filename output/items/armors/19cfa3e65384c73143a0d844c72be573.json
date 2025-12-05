@@ -1,0 +1,14 @@
+{
+    "urlName": "beast-hunter",
+    "url": "http://aqwwiki.wikidot.com/beast-hunter",
+    "name": "Beast Hunter",
+    "type": "armors",
+    "description": "As you rack up the kills, your armor evolves into an intimidating, yet strangely compelling display of your trophies.",
+    "rarity": "Epic Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/OwwPOPr.png",
+        "http://i.imgur.com/gU04MgM.png"
+    ],
+    "hash": "19cfa3e65384c73143a0d844c72be573"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "seahorcs-team-legend",
+    "url": "http://aqwwiki.wikidot.com/seahorcs-team-legend",
+    "name": "Seahorcs Team (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/seahorcs-team-legend/SeahorcsTeamM.png",
+        "http://aqwwiki.wdfiles.com/local--files/seahorcs-team-legend/SeahorcsTeamF.png"
+    ],
+    "hash": "03fc4792f74d46f6f10af6b46d123f72"
+}

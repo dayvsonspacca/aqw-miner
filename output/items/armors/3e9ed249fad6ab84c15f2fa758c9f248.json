@@ -1,0 +1,18 @@
+{
+    "urlName": "golf-suit",
+    "url": "http://aqwwiki.wikidot.com/golf-suit",
+    "name": "Golf Suit",
+    "type": "armors",
+    "description": "The motive behind golf attire remains a mystery. Regardless, those pants are pretty rad!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/u8G9ZiQ.png",
+        "https://i.imgur.com/9NqBWOf.png"
+    ],
+    "hash": "3e9ed249fad6ab84c15f2fa758c9f248"
+}

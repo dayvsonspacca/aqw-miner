@@ -1,0 +1,14 @@
+{
+    "urlName": "monster-hunter",
+    "url": "http://aqwwiki.wikidot.com/monster-hunter",
+    "name": "Monster Hunter",
+    "type": "armors",
+    "description": "Nothing is so dangerous that it can't be conquered and controlled.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/azl8W6R.png",
+        "http://i.imgur.com/k07Wksk.png"
+    ],
+    "hash": "822cea225d37d5a385d9fb27abea5942"
+}

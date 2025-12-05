@@ -1,0 +1,17 @@
+{
+    "urlName": "ice-warrior",
+    "url": "http://aqwwiki.wikidot.com/ice-warrior",
+    "name": "Ice Warrior",
+    "type": "armors",
+    "description": "Embrace the ice and become a formidable foe!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ice-warrior/IWM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ice-warrior/IWF.png"
+    ],
+    "hash": "99b1c5ffdef93efff157781c56952502"
+}

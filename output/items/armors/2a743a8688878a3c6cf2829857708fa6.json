@@ -1,0 +1,16 @@
+{
+    "urlName": "heavyblader",
+    "url": "http://aqwwiki.wikidot.com/heavyblader",
+    "name": "HeavyBlader",
+    "type": "armors",
+    "description": "Every party needs a tank. And in this armor, you won't be anything but!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/4TKIHbC.png",
+        "http://i.imgur.com/kHMpOE6.png"
+    ],
+    "hash": "2a743a8688878a3c6cf2829857708fa6"
+}

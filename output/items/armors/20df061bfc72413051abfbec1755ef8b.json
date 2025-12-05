@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-varsity-team",
+    "url": "http://aqwwiki.wikidot.com/chaos-varsity-team",
+    "name": "Chaos Varsity Team",
+    "type": "armors",
+    "description": "Rah rah rah! #Team Chaos! (Requires Rank 10 Chaos)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/NbgieHF.png",
+        "https://i.imgur.com/drF5SjF.png"
+    ],
+    "hash": "20df061bfc72413051abfbec1755ef8b"
+}

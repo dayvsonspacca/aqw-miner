@@ -1,0 +1,16 @@
+{
+    "urlName": "intergalactic-harvester",
+    "url": "http://aqwwiki.wikidot.com/intergalactic-harvester",
+    "name": "Intergalactic Harvester",
+    "type": "armors",
+    "description": "Hired by the Furbles, these mercenaries follow them from world to world picking over what the Furbles leave behind.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cgoCbgB.png",
+        "https://i.imgur.com/hUZNxdt.png"
+    ],
+    "hash": "85ca76674fae3ffe39471eb73c169133"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "lightning-emperor",
+    "url": "http://aqwwiki.wikidot.com/lightning-emperor",
+    "name": "Lightning Emperor",
+    "type": "armors",
+    "description": "Command the lightning and summon thunder to terrify your foes when you ascend to the throne of the Lightning Emperor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightning-emperor/LightningEmperorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lightning-emperor/LightningEmperorF.png"
+    ],
+    "hash": "3b53823a7dae478935d97c41ea6c1c11"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-warrior-of-flame",
+    "url": "http://aqwwiki.wikidot.com/golden-warrior-of-flame",
+    "name": "Golden Warrior of Flame",
+    "type": "armors",
+    "description": "Burning with the intensity of a thousand suns, these warriors fight for Tyndarius and the Queen. Their loyalty shines as brightly as they do.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-warrior-of-flame/GoldenWarriorofFlameM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-warrior-of-flame/GoldenWarriorofFlameF.png"
+    ],
+    "hash": "92d43c25ec0d29b365fdf130a7212545"
+}

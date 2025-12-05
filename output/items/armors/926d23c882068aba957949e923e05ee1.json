@@ -1,0 +1,17 @@
+{
+    "urlName": "battlescarred-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/battlescarred-dragonslayer",
+    "name": "Battlescarred DragonSlayer",
+    "type": "armors",
+    "description": "This battlescarred armor is worn by only the loyalest Dragonslayers! Crafted in honor of Galanoth the DragonSlayers lifelong battle against dragons.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/f3w0f8Q.png",
+        "http://i.imgur.com/nPg3XMm.png"
+    ],
+    "hash": "926d23c882068aba957949e923e05ee1"
+}

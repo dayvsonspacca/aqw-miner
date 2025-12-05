@@ -1,0 +1,18 @@
+{
+    "urlName": "jouster",
+    "url": "http://aqwwiki.wikidot.com/jouster",
+    "name": "Jouster",
+    "type": "armors",
+    "description": "Crash into battle on your clockwork steed! Find the quest to unlock MechaJouster Class in /airstorm!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/LWpBwkF.png",
+        "http://i.imgur.com/TiAVPJg.png",
+        "http://i.imgur.com/gHFsuEF.png",
+        "http://i.imgur.com/EMRQzaV.png"
+    ],
+    "hash": "be6708aba385d50c1f5870bfe5e89e68"
+}

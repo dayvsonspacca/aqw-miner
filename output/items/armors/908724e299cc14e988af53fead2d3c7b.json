@@ -1,0 +1,16 @@
+{
+    "urlName": "mage-of-time",
+    "url": "http://aqwwiki.wikidot.com/mage-of-time",
+    "name": "Mage of Time",
+    "type": "armors",
+    "description": "Mages emerged from the unceasing rivers of time. They peer into the endless altemates to study and ponder different forms of magic. Some say, the Dragon that gave them this power once walked alongside mortals.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/Tfyb1WE.png",
+        "https://imgur.com/owRV0ZM.png"
+    ],
+    "hash": "908724e299cc14e988af53fead2d3c7b"
+}

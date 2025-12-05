@@ -1,0 +1,17 @@
+{
+    "urlName": "honor-battle-guard",
+    "url": "http://aqwwiki.wikidot.com/honor-battle-guard",
+    "name": "Honor Battle Guard",
+    "type": "armors",
+    "description": "I fight the never ending battle for truth, justice, and the loreican way!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/honor-battle-guard/HonorBattleGuardMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/honor-battle-guard/HonorBattleGuardFemale.png"
+    ],
+    "hash": "310fd02e7e17a145b886ba943d6ca308"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "living-blademaster",
+    "url": "http://aqwwiki.wikidot.com/living-blademaster",
+    "name": "Living BladeMaster",
+    "type": "armors",
+    "description": "Once in a while Dage finds a living with the inhuman skill, speed and stealth to serve as a Living BladeMaster.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/living-blademaster/LivingBlademasterMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/living-blademaster/LivingBlademasterMA.png",
+        "http://aqwwiki.wdfiles.com/local--files/living-blademaster/LivingBlademasterFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/living-blademaster/LivingBlademasterFA.png"
+    ],
+    "hash": "9ad95cc8dd6edd095383037a4355388a"
+}

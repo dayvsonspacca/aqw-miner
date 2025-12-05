@@ -1,0 +1,16 @@
+{
+    "urlName": "mad-doctor",
+    "url": "http://aqwwiki.wikidot.com/mad-doctor",
+    "name": "Mad Doctor",
+    "type": "armors",
+    "description": "They have an M.D. in member dismemberment!",
+    "rarity": "Common Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/VNknsgS.png",
+        "https://i.imgur.com/z7BNtZU.png"
+    ],
+    "hash": "f31ae5e75a606f45e894537a174bbb91"
+}

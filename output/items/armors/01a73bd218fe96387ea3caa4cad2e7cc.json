@@ -1,0 +1,17 @@
+{
+    "urlName": "peptocorp-agent",
+    "url": "http://aqwwiki.wikidot.com/peptocorp-agent",
+    "name": "PeptoCorp Agent",
+    "type": "armors",
+    "description": "Mission #666.D \u2014 Chairman Platinum has ordered you to follow Target EVotS. Objective: observe only. Report all activities.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/b7dnvKy.pngl",
+        "https://i.imgur.com/oWYlHc2.png"
+    ],
+    "hash": "01a73bd218fe96387ea3caa4cad2e7cc"
+}

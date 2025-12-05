@@ -1,0 +1,17 @@
+{
+    "urlName": "thermal-lorekeeper-of-the-sun",
+    "url": "http://aqwwiki.wikidot.com/thermal-lorekeeper-of-the-sun",
+    "name": "Thermal Lorekeeper of the Sun",
+    "type": "armors",
+    "description": "Because seriously, when you live in the snowy mountains of Dwarfhold, your legs can get really cold!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/thermal-lorekeeper-of-the-sun/ThermalLorekeeperoftheSunM.png",
+        "http://aqwwiki.wdfiles.com/local--files/thermal-lorekeeper-of-the-sun/ThermalLorekeeperoftheSunF.png"
+    ],
+    "hash": "a4bf8d36e2d36c3883d9eb07a94bb709"
+}

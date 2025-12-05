@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-mage-armor",
+    "url": "http://aqwwiki.wikidot.com/shadow-mage-armor",
+    "name": "Shadow Mage (Armor)",
+    "type": "armors",
+    "description": "Modeled after samples obtained from the Lore of DragonFable, the Shadow Mages conjure shadows and use them to vanquish their enemies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/O3m8Dyp.png",
+        "http://i.imgur.com/LUUorsR.png"
+    ],
+    "hash": "bfc4e4e15bb1baaec6b46d1323ed253b"
+}

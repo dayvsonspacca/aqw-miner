@@ -1,0 +1,17 @@
+{
+    "urlName": "ultra-fiendhunter",
+    "url": "http://aqwwiki.wikidot.com/ultra-fiendhunter",
+    "name": "Ultra FiendHunter",
+    "type": "armors",
+    "description": "The armor of one of the most prolific dissidents of the Undead Legion, in its perfected form.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fY3B122.png",
+        "https://i.imgur.com/3XbVwcr.png"
+    ],
+    "hash": "ec43e0e94731e7288e4d060e9d8ad2b5"
+}

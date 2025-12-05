@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-breaker",
+    "url": "http://aqwwiki.wikidot.com/chaos-breaker",
+    "name": "Chaos Breaker",
+    "type": "armors",
+    "description": "Fighting for the cause of Order, you are the ultimate enemy of Chaos.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/kEusWqX.png",
+        "http://i.imgur.com/T7RFYwm.png"
+    ],
+    "hash": "62ed48bfabc8da18061a0468a43ee780"
+}

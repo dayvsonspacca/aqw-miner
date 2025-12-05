@@ -1,0 +1,17 @@
+{
+    "urlName": "the-shade-of-humanity",
+    "url": "http://aqwwiki.wikidot.com/the-shade-of-humanity",
+    "name": "The Shade of Humanity",
+    "type": "armors",
+    "description": "There is a darkness in all of us, these are just the people who have embraced it.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-shade-of-humanity/TheShadeofHumanityM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-shade-of-humanity/TheShadeofHumanityF.png"
+    ],
+    "hash": "8348bf2c690f323bc953ce0c8c73df5e"
+}

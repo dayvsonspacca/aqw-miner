@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-phoenix-plate-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-phoenix-plate-ac",
+    "name": "Dark Phoenix Plate (AC)",
+    "type": "armors",
+    "description": "Thok originally got this on sale but decided he wanted something a bit more colorful.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-phoenix-plate-ac/DarkPhoenixPlateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-phoenix-plate-ac/DarkPhoenixPlateF.png"
+    ],
+    "hash": "66cbd47e1be8873424f696f1de0eda72"
+}

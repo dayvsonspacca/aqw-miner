@@ -1,0 +1,16 @@
+{
+    "urlName": "ornate-emerald-suit",
+    "url": "http://aqwwiki.wikidot.com/ornate-emerald-suit",
+    "name": "Ornate Emerald Suit",
+    "type": "armors",
+    "description": "You'll be feelin' lucky and lookin' GOOD in this ornate emerald suit!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/tb5uTau.png",
+        "https://imgur.com/fkFgMtq.png"
+    ],
+    "hash": "5261a35b85e3e43b9d4a2a84d5966bcf"
+}

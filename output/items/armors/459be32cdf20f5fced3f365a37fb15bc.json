@@ -1,0 +1,17 @@
+{
+    "urlName": "blazing-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/blazing-naval-commander",
+    "name": "Blazing Naval Commander",
+    "type": "armors",
+    "description": "You will be settin' t' seas ablaze while leadin' your crew t' glorious booty!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blazing-naval-commander/BlazingNavalCommanderMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/blazing-naval-commander/BlazingNavalCommanderFemale.png"
+    ],
+    "hash": "459be32cdf20f5fced3f365a37fb15bc"
+}

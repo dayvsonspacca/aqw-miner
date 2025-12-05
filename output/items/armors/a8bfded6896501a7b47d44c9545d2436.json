@@ -1,0 +1,17 @@
+{
+    "urlName": "warrior-ablaze",
+    "url": "http://aqwwiki.wikidot.com/warrior-ablaze",
+    "name": "Warrior Ablaze",
+    "type": "armors",
+    "description": "As the leaves start to turn, so will your foes in the graves. There's a fire in your eyes that can't be contained. Lore will burn in the wake of your destruction.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warrior-ablaze/WarriorAblazeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/warrior-ablaze/WarriorAblazeF.png"
+    ],
+    "hash": "a8bfded6896501a7b47d44c9545d2436"
+}

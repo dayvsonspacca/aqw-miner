@@ -1,0 +1,17 @@
+{
+    "urlName": "void-beastmaster-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/void-beastmaster-of-nulgath",
+    "name": "Void Beastmaster Of Nulgath",
+    "type": "armors",
+    "description": "The Beastmaster controls of all Nulgath's creatures. All of his ferocious creatures.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-beastmaster-of-nulgath/VBoNM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-beastmaster-of-nulgath/VBoNF.png"
+    ],
+    "hash": "3186de0ba93a5453ab7354fa2e8050de"
+}

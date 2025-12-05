@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-assault-infantry",
+    "url": "http://aqwwiki.wikidot.com/undead-assault-infantry",
+    "name": "Undead Assault Infantry",
+    "type": "armors",
+    "description": "Any undead that cross your path will be\u2026 wait for it\u2026 BONED! Released in honor of Artix Entertainment's new mobile game \"Undead Assault\"",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-assault-infantry/UndeadAssaultInfantryM.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-assault-infantry/UndeadAssaultInfantryF.png"
+    ],
+    "hash": "9444ece08834c19d5eb3b588658e508e"
+}

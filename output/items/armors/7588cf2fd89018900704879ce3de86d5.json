@@ -1,0 +1,16 @@
+{
+    "urlName": "firewalker",
+    "url": "http://aqwwiki.wikidot.com/firewalker",
+    "name": "Firewalker",
+    "type": "armors",
+    "description": "Check Your gauges, rev your engines, and get to work, guys and gals. This armor takes everything steampunkish and puts it at your fingertips. Stomp the opposition and dominate the scene now.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/bGOIvOq.png",
+        "http://i.imgur.com/159okIu.png"
+    ],
+    "hash": "7588cf2fd89018900704879ce3de86d5"
+}

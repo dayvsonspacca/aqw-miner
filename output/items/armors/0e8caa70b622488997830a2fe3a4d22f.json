@@ -1,0 +1,17 @@
+{
+    "urlName": "sandsea-enchanter-ac",
+    "url": "http://aqwwiki.wikidot.com/sandsea-enchanter-ac",
+    "name": "Sandsea Enchanter (AC)",
+    "type": "armors",
+    "description": "These sleek sorcerer's of the Sandsea will cast a spell on you using their enchantments.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/N5n63Sk.png",
+        "https://imgur.com/YZtaQyl.png",
+        "https://i.imgur.com/E3H5X7m.png"
+    ],
+    "hash": "0e8caa70b622488997830a2fe3a4d22f"
+}

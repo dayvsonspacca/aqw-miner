@@ -1,0 +1,17 @@
+{
+    "urlName": "troll-marksman",
+    "url": "http://aqwwiki.wikidot.com/troll-marksman",
+    "name": "Troll Marksman",
+    "type": "armors",
+    "description": "Besides being strategists beyond compare, you'll find that many Trolls are also excellent marksmen!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/troll-marksman/TrollMarksmanM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/troll-marksman/TrollMarksmanF.png"
+    ],
+    "hash": "dd53b85a9b1a59f093d50e90b9ca1c17"
+}

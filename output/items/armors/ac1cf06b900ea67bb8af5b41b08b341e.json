@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-spellcaster",
+    "url": "http://aqwwiki.wikidot.com/legion-spellcaster",
+    "name": "Legion Spellcaster",
+    "type": "armors",
+    "description": "These casters aide the Legion by summoning ower and keeping the minions energized during battles.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/RM2Jaao.png*",
+        "https://i.imgur.com/Svnj4DH.png*"
+    ],
+    "hash": "ac1cf06b900ea67bb8af5b41b08b341e"
+}

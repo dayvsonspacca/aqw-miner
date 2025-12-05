@@ -1,0 +1,16 @@
+{
+    "urlName": "mighty-warlord-armor",
+    "url": "http://aqwwiki.wikidot.com/mighty-warlord-armor",
+    "name": "Mighty Warlord Armor",
+    "type": "armors",
+    "description": "War has sharpened your battle skills but also made you merciless. This is so much more mighty than the Savage Warlord Armor. 10% more damage to Humans (plus +5 gold and +5 exp!).",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/EYZA3Or.jpg",
+        "https://i.imgur.com/c9c7o52.jpg"
+    ],
+    "hash": "bac973f1d222a82b71058fbfd7fc6dc6"
+}

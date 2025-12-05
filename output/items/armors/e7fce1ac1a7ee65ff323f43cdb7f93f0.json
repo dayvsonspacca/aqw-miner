@@ -1,0 +1,17 @@
+{
+    "urlName": "kathool-adept",
+    "url": "http://aqwwiki.wikidot.com/kathool-adept",
+    "name": "Kathool Adept",
+    "type": "armors",
+    "description": "A recreating of an armor found in Cysero's Superstore of Savings, that MAY make you go mad. But before it does, you'll have access to a wide range of Water Darkness, and Evil skills with which to annihilate your enemies!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kathool-adept/KAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/kathool-adept/KAF.png"
+    ],
+    "hash": "e7fce1ac1a7ee65ff323f43cdb7f93f0"
+}

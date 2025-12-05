@@ -1,0 +1,18 @@
+{
+    "urlName": "robe-of-knowledge",
+    "url": "http://aqwwiki.wikidot.com/robe-of-knowledge",
+    "name": "Robe of Knowledge",
+    "type": "armors",
+    "description": "This robe makes you look so smart. It's because you ARE so smart! +10 to Intelligence IRL. (Color customizable)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/nt9K2jp.png",
+        "http://i.imgur.com/oUjhPcV.png"
+    ],
+    "hash": "f9033a022cba3b00225290a808b45f9f"
+}

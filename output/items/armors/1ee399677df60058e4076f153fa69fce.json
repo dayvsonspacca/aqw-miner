@@ -1,0 +1,16 @@
+{
+    "urlName": "new-minion-armor",
+    "url": "http://aqwwiki.wikidot.com/new-minion-armor",
+    "name": "New Minion Armor",
+    "type": "armors",
+    "description": "You need guts to serve the Shadow Lich Lord, thankfully yours are showing.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Xyw6T84.png"
+    ],
+    "hash": "1ee399677df60058e4076f153fa69fce"
+}

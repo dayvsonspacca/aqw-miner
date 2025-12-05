@@ -1,0 +1,17 @@
+{
+    "urlName": "chaosweaver-hunter",
+    "url": "http://aqwwiki.wikidot.com/chaosweaver-hunter",
+    "name": "ChaosWeaver Hunter",
+    "type": "armors",
+    "description": "You've lost count of how many ChaosWeavers you slew to create THIS gear!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaosweaver-hunter/CWHM.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaosweaver-hunter/CWHF.png"
+    ],
+    "hash": "f59e0008b7d44805e63d56487f7a8790"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "timekeeper-armor",
+    "url": "http://aqwwiki.wikidot.com/timekeeper-armor",
+    "name": "TimeKeeper Armor",
+    "type": "armors",
+    "description": "On the battlefield, you give a new meaning to killing time. What time is it? Killing Time! When is it? Always!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/fGihWKU.png",
+        "https://i.imgur.com/BdENYJd.png"
+    ],
+    "hash": "b96494c4894bb45746a241e4ea1a476d"
+}

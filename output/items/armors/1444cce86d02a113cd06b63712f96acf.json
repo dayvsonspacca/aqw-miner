@@ -1,0 +1,16 @@
+{
+    "urlName": "makeshift-mage",
+    "url": "http://aqwwiki.wikidot.com/makeshift-mage",
+    "name": "Makeshift Mage",
+    "type": "armors",
+    "description": "Hey, tuition can be hard to pay sometimes! Thankfully, talent shows itself at the Wizard University, no matter what sort of means you come from.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/qx4oHHd.png",
+        "http://i.imgur.com/oc6ogEu.png"
+    ],
+    "hash": "1444cce86d02a113cd06b63712f96acf"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "serpent-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/serpent-warrior-armor",
+    "name": "Serpent Warrior (Armor)",
+    "type": "armors",
+    "description": "Even in the year of the Water Snake, red is still the color of luck! May this armor bring you luck on the battledfield.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/serpent-warrior-armor/SerpentWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/serpent-warrior-armor/SerpentWarriorF.png"
+    ],
+    "hash": "435bcc844607048e9ada98f20d58b8b4"
+}

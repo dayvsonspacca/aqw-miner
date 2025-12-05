@@ -1,0 +1,16 @@
+{
+    "urlName": "camo-paintball-uniform",
+    "url": "http://aqwwiki.wikidot.com/camo-paintball-uniform",
+    "name": "Camo Paintball Uniform",
+    "type": "armors",
+    "description": "Paint the town red! (And blue, green, yellow, purple, pink, black\u2026) this April Fool's Day! Show those bland corporate suits that they can't take away AQW's color!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/T0B38xv.png",
+        "http://aqwwiki.wdfiles.com/local--files/camo-paintball-uniform/CamoPaintballUniformF.png"
+    ],
+    "hash": "ef260e0eaacf360e8967154793a26d2a"
+}

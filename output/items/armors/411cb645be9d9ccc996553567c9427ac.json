@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-electromage",
+    "url": "http://aqwwiki.wikidot.com/underworld-electromage",
+    "name": "Underworld ElectroMage",
+    "type": "armors",
+    "description": "Cyber Magic flows through the veins of ElectroMages. Mastering their power is vital; the energy even an untrained mage can produce could level an entire city.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/FcBzscs.png",
+        "https://i.imgur.com/biypa6s.png"
+    ],
+    "hash": "411cb645be9d9ccc996553567c9427ac"
+}

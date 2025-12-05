@@ -1,0 +1,17 @@
+{
+    "urlName": "berserker-bunny",
+    "url": "http://aqwwiki.wikidot.com/berserker-bunny",
+    "name": "Berserker Bunny",
+    "type": "armors",
+    "description": "These mysterious beasts seem to have traveled here from another dimension.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/2wxLLLN.png",
+        "http://i.imgur.com/vqV6uRl.png"
+    ],
+    "hash": "77728d8f070f76abb14ded5fdc4f10ba"
+}

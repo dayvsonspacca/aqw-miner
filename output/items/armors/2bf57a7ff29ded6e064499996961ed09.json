@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-magus-ac",
+    "url": "http://aqwwiki.wikidot.com/shadow-magus-ac",
+    "name": "Shadow Magus (AC)",
+    "type": "armors",
+    "description": "Magus are spellswords, who's specialties lie in crafting and enchanting armor and weaponry. A Magus is bound by a strict code that they themselves write. They almost never deviate from this code.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/TlIvPwE.png",
+        "https://i.imgur.com/Uh1uYuz.png"
+    ],
+    "hash": "2bf57a7ff29ded6e064499996961ed09"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "dark-dragonguard-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-dragonguard-armor",
+    "name": "Dark DragonGuard (Armor)",
+    "type": "armors",
+    "description": "The horror that Tyrath wrought was so profound that some who weren't frightened of him were intrigued. After taking the form of draconians and donning this pointed armor, they became Tyrath's followers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/b6wxNw5.png",
+        "http://i.imgur.com/5CW6LdL.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dragonguard-armor/DDold.png"
+    ],
+    "hash": "e29d5ca60ca04fdca0dd64882954db21"
+}

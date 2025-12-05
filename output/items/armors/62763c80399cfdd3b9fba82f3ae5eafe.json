@@ -1,0 +1,17 @@
+{
+    "urlName": "daring-victorian-garb",
+    "url": "http://aqwwiki.wikidot.com/daring-victorian-garb",
+    "name": "Daring Victorian Garb",
+    "type": "armors",
+    "description": "This is truly a bold color choise. A WISE decision when one as attractive and heroic as you are!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/daring-victorian-garb/DaringVictorianGarbMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/daring-victorian-garb/DaringVictorianGarbFemale.png"
+    ],
+    "hash": "62763c80399cfdd3b9fba82f3ae5eafe"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "earth-weilder",
+    "url": "http://aqwwiki.wikidot.com/earth-weilder",
+    "name": "Earth Weilder",
+    "type": "armors",
+    "description": "A cyborg of combined dwakel and dwarven design, the Earth Wielder can brave the deep, dark underearth without fear of being caught in a magmaflow or cave-in.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/earth-weilder/EarthWielderMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/earth-weilder/EarthWielderFemale.png"
+    ],
+    "hash": "d492f97d7557ec87382dbe08ea2930a7"
+}

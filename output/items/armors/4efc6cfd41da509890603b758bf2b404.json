@@ -1,0 +1,16 @@
+{
+    "urlName": "gl-24k-armor",
+    "url": "http://aqwwiki.wikidot.com/gl-24k-armor",
+    "name": "GL-24K (Armor)",
+    "type": "armors",
+    "description": "Fashioned with a gilded chassis, these droids are the perfect attendants and bodyguards. Some even grow an ego and strike out on their own.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/DIGNpAq.png"
+    ],
+    "hash": "4efc6cfd41da509890603b758bf2b404"
+}

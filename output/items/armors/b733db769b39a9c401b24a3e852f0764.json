@@ -1,0 +1,17 @@
+{
+    "urlName": "retro-spectro",
+    "url": "http://aqwwiki.wikidot.com/retro-spectro",
+    "name": "Retro Spectro",
+    "type": "armors",
+    "description": "Some kind of cat got a hold of this brand new band shirt, but when a band is about to play, shirt scratches are rad. Who needs formality?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/retro-spectro/RetroSpectroM.png",
+        "http://aqwwiki.wdfiles.com/local--files/retro-spectro/RetroSpectroF.png"
+    ],
+    "hash": "b733db769b39a9c401b24a3e852f0764"
+}

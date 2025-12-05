@@ -1,0 +1,14 @@
+{
+    "urlName": "win-hero",
+    "url": "http://aqwwiki.wikidot.com/win-hero",
+    "name": "WIN Hero",
+    "type": "armors",
+    "description": "This is THE hottest console on Lore right now. It's in the name. We WIN!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/mIpn6N1.png",
+        "https://i.imgur.com/sD3gDBV.png"
+    ],
+    "hash": "642db5426ddf46ceae72163d78d58b94"
+}

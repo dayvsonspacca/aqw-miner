@@ -1,0 +1,16 @@
+{
+    "urlName": "meatlab-worker",
+    "url": "http://aqwwiki.wikidot.com/meatlab-worker",
+    "name": "Meatlab Worker",
+    "type": "armors",
+    "description": "So, you want to work for Memet, do you? I'd be careful if I were you, who KNOWS what she will ask you to do.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/hYwEtC3.png",
+        "https://imgur.com/7d3HxzC.png"
+    ],
+    "hash": "21a6eddaa70e7c557fb2ac3982ddc20e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "reign-gate-keeper",
+    "url": "http://aqwwiki.wikidot.com/reign-gate-keeper",
+    "name": "Reign Gate Keeper",
+    "type": "armors",
+    "description": "The hybrid armor, recreated from samples obtained from the Lore of AdventureQuest is a cross between the Reign Plate and the Shadow Cloak. Tread quietly through the battlefield, while picking of your foes one by one.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/yz42g18.png",
+        "http://i.imgur.com/AiTRX93.png"
+    ],
+    "hash": "3ed05f2edf1aca5c0d09b9deaf8222bf"
+}

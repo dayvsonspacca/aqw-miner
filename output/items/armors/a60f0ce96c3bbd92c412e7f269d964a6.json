@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-lionfang-armor",
+    "url": "http://aqwwiki.wikidot.com/chaos-lionfang-armor",
+    "name": "Chaos Lionfang Armor",
+    "type": "armors",
+    "description": "This trophy armor is proof that you've vanquished Chaoslord Lionfang in combat! Thunderforge has been saved, and Chaos has been dealt another blow!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/Nq1vPZV.png",
+        "http://i.imgur.com/fWfLgXE.png"
+    ],
+    "hash": "a60f0ce96c3bbd92c412e7f269d964a6"
+}

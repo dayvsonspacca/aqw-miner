@@ -1,0 +1,17 @@
+{
+    "urlName": "galactic-pirate-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/galactic-pirate-commander-armor",
+    "name": "Galactic Pirate Commander (Armor)",
+    "type": "armors",
+    "description": "Sail to the ends of the universe. Stop at the restaurant or pillage it. You're a galactic pirate go where the solar winds take you.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/yDljdp5.png",
+        "https://i.imgur.com/PBEzQc1.png"
+    ],
+    "hash": "8a20985221da0c250eb2258939c3dec8"
+}

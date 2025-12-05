@@ -1,0 +1,17 @@
+{
+    "urlName": "scream-o-mancer",
+    "url": "http://aqwwiki.wikidot.com/scream-o-mancer",
+    "name": "Scream-o-mancer",
+    "type": "armors",
+    "description": "There are certain times of year when the need to SCREAM (and make others do it too) is totally ok!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/fQPWjY8.png",
+        "https://imgur.com/hJazWFC.png"
+    ],
+    "hash": "123ac085283c902465520e2119df4b21"
+}

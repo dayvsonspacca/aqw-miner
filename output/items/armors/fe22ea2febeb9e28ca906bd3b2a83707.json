@@ -1,0 +1,16 @@
+{
+    "urlName": "celtic-warrior",
+    "url": "http://aqwwiki.wikidot.com/celtic-warrior",
+    "name": "Celtic Warrior",
+    "type": "armors",
+    "description": "Celtics are raised to be warriors from childhood. Some tribes would paint their bodies before running into battle.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/FF4boKM.png",
+        "http://i.imgur.com/7JYu0zN.png"
+    ],
+    "hash": "fe22ea2febeb9e28ca906bd3b2a83707"
+}

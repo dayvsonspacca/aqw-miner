@@ -1,0 +1,16 @@
+{
+    "urlName": "hollow-zerker",
+    "url": "http://aqwwiki.wikidot.com/hollow-zerker",
+    "name": "Hollow Zerker",
+    "type": "armors",
+    "description": "According to legend, Hollowsoul Castle was so large that even the bravest Knights got lost and died within its walls. The only thing found \"living\" in the Hollow Halls were Hollow Zerkers, half knight and half wraith.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/wuiqPP5.png",
+        "http://imgur.com/OlQmVKW.png"
+    ],
+    "hash": "f6f08d8e879d5568f104cc1e1549a544"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "glacial-troll-armor",
+    "url": "http://aqwwiki.wikidot.com/glacial-troll-armor",
+    "name": "Glacial Troll Armor",
+    "type": "armors",
+    "description": "Roaming in the frozen north lands, Glacial Trolls blend in well with their surroundings making them hard to spot and even harder to slay.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/5KEbXQs.png",
+        "http://i.imgur.com/WuRzp6m.png"
+    ],
+    "hash": "4b97ae6c99021850afe8dc4b7296df9a"
+}

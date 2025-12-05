@@ -1,0 +1,18 @@
+{
+    "urlName": "celtic-caster",
+    "url": "http://aqwwiki.wikidot.com/celtic-caster",
+    "name": "Celtic Caster",
+    "type": "armors",
+    "description": "You'll be clothed in the magic of the forest when you don this Celtic caster's garb. Happy Lucky Day!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/8JkZ6Zr.png",
+        "https://i.imgur.com/HIaVM4Z.png"
+    ],
+    "hash": "498abd1556fef7f79bc7e713951446f2"
+}

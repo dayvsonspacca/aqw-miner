@@ -1,0 +1,16 @@
+{
+    "urlName": "violet-tech-suit",
+    "url": "http://aqwwiki.wikidot.com/violet-tech-suit",
+    "name": "Violet Tech Suit",
+    "type": "armors",
+    "description": "This suit is airtight, space-tight, and lightweight. And purple!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/violet-tech-suit/VioletTechSuitM.png",
+        "http://aqwwiki.wdfiles.com/local--files/violet-tech-suit/VioletTechSuitF.png"
+    ],
+    "hash": "7403417a3d74e70c4b878c6705339378"
+}

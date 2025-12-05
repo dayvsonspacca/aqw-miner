@@ -1,0 +1,18 @@
+{
+    "urlName": "shadey-cowboy",
+    "url": "http://aqwwiki.wikidot.com/shadey-cowboy",
+    "name": "Shadey Cowboy",
+    "type": "armors",
+    "description": "Ghost towns are overpopulated these days, but there's aalways room for more.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wb7qbPZ.png",
+        "https://i.imgur.com/u5Cy6sz.png"
+    ],
+    "hash": "345857eb7030687e98073cb28e9ea3c7"
+}

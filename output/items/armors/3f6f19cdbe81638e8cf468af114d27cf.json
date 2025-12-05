@@ -1,0 +1,17 @@
+{
+    "urlName": "ravenous-reaver-legend",
+    "url": "http://aqwwiki.wikidot.com/ravenous-reaver-legend",
+    "name": "Ravenous Reaver (Legend)",
+    "type": "armors",
+    "description": "Reavers eat anything and everything in an attempt to fill the gaping void in their lives (and chest).",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/8gQeqTf.png",
+        "http://i.imgur.com/qlalHJo.png"
+    ],
+    "hash": "3f6f19cdbe81638e8cf468af114d27cf"
+}

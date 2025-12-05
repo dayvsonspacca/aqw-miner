@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-mage-armor",
+    "url": "http://aqwwiki.wikidot.com/undead-mage-armor",
+    "name": "Undead Mage Armor",
+    "type": "armors",
+    "description": "Feel stylish in your new undead mage armor. Color custom!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/cgiifTF.png"
+    ],
+    "hash": "e1342fd72d8763bea9b887921e601eb2"
+}

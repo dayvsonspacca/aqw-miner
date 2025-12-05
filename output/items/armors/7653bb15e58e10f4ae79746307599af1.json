@@ -1,0 +1,16 @@
+{
+    "urlName": "battlemage-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/battlemage-armor-ac",
+    "name": "BattleMage Armor (AC)",
+    "type": "armors",
+    "description": "Battlemages focus on taking down their opponents as quickly as possible. They are capable of focusing greater amounts of mana into each spell for the maximum effect. They specialize in wearing heavy armor for defense in order to spend all of their mana on offensive spells.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/CsxyPny.png",
+        "http://i.imgur.com/UgPo9EF.png"
+    ],
+    "hash": "7653bb15e58e10f4ae79746307599af1"
+}

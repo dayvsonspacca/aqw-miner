@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-magus",
+    "url": "http://aqwwiki.wikidot.com/chaos-magus",
+    "name": "Chaos Magus",
+    "type": "armors",
+    "description": "When Magus' fall, they fall harder than anything else. Chaotic power is a dangerous thing to bestow on an already powerful battlemage.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-magus/ChaosMagusMale.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/chaos-magus/ChaosMagusFemale.png"
+    ],
+    "hash": "257a9be5a04f32ddaa390396dabe2b8c"
+}

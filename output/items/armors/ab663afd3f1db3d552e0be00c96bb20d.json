@@ -1,0 +1,17 @@
+{
+    "urlName": "northlands-monk-armor-merge",
+    "url": "http://aqwwiki.wikidot.com/northlands-monk-armor-merge",
+    "name": "Northlands Monk (Armor) (Merge)",
+    "type": "armors",
+    "description": "Deep in the frozen mountains of the Northlands live a sect of Monks who derive all their power from the ice around them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/U6YRQ3r.png",
+        "https://i.imgur.com/UqLdcQQ.png"
+    ],
+    "hash": "ab663afd3f1db3d552e0be00c96bb20d"
+}

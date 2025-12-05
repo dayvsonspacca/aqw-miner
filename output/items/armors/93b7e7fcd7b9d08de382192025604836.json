@@ -1,0 +1,19 @@
+{
+    "urlName": "heartbeat-festa-dancer",
+    "url": "http://aqwwiki.wikidot.com/heartbeat-festa-dancer",
+    "name": "Heartbeat Festa Dancer",
+    "type": "armors",
+    "description": "The theme of this year's Carnaval was about true love, reunion, and the fight to defy all the odds! Get your heart racing and dance it out on the promenade! (Click on Shoulders)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/H16c9FF.png",
+        "https://i.imgur.com/xqTBgEv.png",
+        "https://i.imgur.com/q8mZWyu.png",
+        "https://i.imgur.com/qcMJcQY.png"
+    ],
+    "hash": "93b7e7fcd7b9d08de382192025604836"
+}

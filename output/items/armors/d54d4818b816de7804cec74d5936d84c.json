@@ -1,0 +1,18 @@
+{
+    "urlName": "monochromancer",
+    "url": "http://aqwwiki.wikidot.com/monochromancer",
+    "name": "Monochromancer",
+    "type": "armors",
+    "description": "Paint the town red! (And blue, green, yellow, purple, pink, black\u2026) this is April Fool's Day! Show these bland corporate suits that they can't take away AQW's color!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/monochromancer/MMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/monochromancer/MM.png",
+        "http://aqwwiki.wdfiles.com/local--files/monochromancer/MFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/monochromancer/MF.png"
+    ],
+    "hash": "d54d4818b816de7804cec74d5936d84c"
+}

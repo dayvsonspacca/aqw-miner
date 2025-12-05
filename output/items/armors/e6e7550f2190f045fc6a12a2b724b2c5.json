@@ -1,0 +1,21 @@
+{
+    "urlName": "nation-phalanx-ac",
+    "url": "http://aqwwiki.wikidot.com/nation-phalanx-ac",
+    "name": "Nation Phalanx (AC)",
+    "type": "armors",
+    "description": "There is an unspoken need for defense and a steady hand. The Phalanx is a full platoon in one, with enough experience to reign in the reckless and foolish of the newer recruits.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fkRcSiy.png",
+        "https://i.imgur.com/FPKi7Ul.png",
+        "https://i.imgur.com/e8m6YQY.png",
+        "https://i.imgur.com/KHBzLOo.png",
+        "https://i.imgur.com/9x4VJOo.png",
+        "https://i.imgur.com/cj364pg.png"
+    ],
+    "hash": "e6e7550f2190f045fc6a12a2b724b2c5"
+}

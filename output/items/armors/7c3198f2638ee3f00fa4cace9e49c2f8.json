@@ -1,0 +1,17 @@
+{
+    "urlName": "vaunted-warrior",
+    "url": "http://aqwwiki.wikidot.com/vaunted-warrior",
+    "name": "Vaunted Warrior",
+    "type": "armors",
+    "description": "The heart of a Warrior is filled with courage and strength. Your skill with weapons in close combat make you a powerful force on the battlefield.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/7DkBJmO.png",
+        "https://i.imgur.com/2l6D3l1.png"
+    ],
+    "hash": "7c3198f2638ee3f00fa4cace9e49c2f8"
+}

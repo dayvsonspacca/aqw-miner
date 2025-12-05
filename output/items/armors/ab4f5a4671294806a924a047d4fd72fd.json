@@ -1,0 +1,17 @@
+{
+    "urlName": "scorpion-warriors",
+    "url": "http://aqwwiki.wikidot.com/scorpion-warriors",
+    "name": "Scorpion Warriors",
+    "type": "armors",
+    "description": "As members of the Cult of the Scorpions, these warriors are bred for one thing\u2026. DESTRUCTION!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/CA4mwly.png",
+        "http://aqwwiki.wdfiles.com/local--files/scorpion-warriors/ScorpionWarriorsF.png"
+    ],
+    "hash": "ab4f5a4671294806a924a047d4fd72fd"
+}

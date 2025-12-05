@@ -1,0 +1,17 @@
+{
+    "urlName": "vampire-lord-incubus",
+    "url": "http://aqwwiki.wikidot.com/vampire-lord-incubus",
+    "name": "Vampire Lord Incubus",
+    "type": "armors",
+    "description": "Looks like you took one too many bites from the Vampire Lord. Kimberly had it right all along-you're a vampire!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vampire-lord-incubus/VampireLordIncubusM.png",
+        "http://aqwwiki.wdfiles.com/local--files/vampire-lord-incubus/VampireLordIncubusF.png"
+    ],
+    "hash": "0c10f3e875be3c93e2107a3df2bf4ed8"
+}

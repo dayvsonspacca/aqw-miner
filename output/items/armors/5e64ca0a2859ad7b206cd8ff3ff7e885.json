@@ -1,0 +1,17 @@
+{
+    "urlName": "galactic-mage",
+    "url": "http://aqwwiki.wikidot.com/galactic-mage",
+    "name": "Galactic Mage",
+    "type": "armors",
+    "description": "The stars and nebulas that coat the underside the robes are spitting images of a more peaceful part of the galaxy. Aranx must've done a lot of space traveling and amethyst hunting to get this to become the latest space fashion friend.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/galactic-mage/GalacticMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/galactic-mage/GalacticMageF.png"
+    ],
+    "hash": "5e64ca0a2859ad7b206cd8ff3ff7e885"
+}

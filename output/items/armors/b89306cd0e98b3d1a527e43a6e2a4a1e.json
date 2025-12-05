@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-forge-spawn",
+    "url": "http://aqwwiki.wikidot.com/legion-forge-spawn",
+    "name": "Legion Forge Spawn",
+    "type": "armors",
+    "description": "This item does 25% more damage to all monsters when equipped. Unbreakable walking armors filled with thousands of human, monster, evil, and even cursed souls. All merged together as one only consciousness. Loyal to Dage the Evil, they will show no mercy.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/pWRNfFD.png",
+        "https://i.imgur.com/EGxcgzr.png"
+    ],
+    "hash": "b89306cd0e98b3d1a527e43a6e2a4a1e"
+}

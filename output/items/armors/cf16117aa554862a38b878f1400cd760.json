@@ -1,0 +1,16 @@
+{
+    "urlName": "lich-armor",
+    "url": "http://aqwwiki.wikidot.com/lich-armor",
+    "name": "Lich (Armor)",
+    "type": "armors",
+    "description": "Have you been dieting? It seems as though you have transformed into an undead Lich!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lich-armor/Lich.png"
+    ],
+    "hash": "cf16117aa554862a38b878f1400cd760"
+}

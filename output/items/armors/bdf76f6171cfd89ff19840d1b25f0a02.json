@@ -1,0 +1,17 @@
+{
+    "urlName": "insanity",
+    "url": "http://aqwwiki.wikidot.com/insanity",
+    "name": "Insanity",
+    "type": "armors",
+    "description": "You don't suffer from insanity, you enjoy every minute of it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/insanity/InsanityM.png",
+        "http://aqwwiki.wdfiles.com/local--files/insanity/InsanityF.png"
+    ],
+    "hash": "bdf76f6171cfd89ff19840d1b25f0a02"
+}

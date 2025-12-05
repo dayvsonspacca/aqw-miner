@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-sea-fleet-captain",
+    "url": "http://aqwwiki.wikidot.com/dark-sea-fleet-captain",
+    "name": "Dark Sea Fleet Captain",
+    "type": "armors",
+    "description": "Tempted by the lure of wealth, power, and more loot than in Swordhaven's treasure house, you agreed to conquer the Dark Seas in Malgor the ShadowFlame's name.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/4mX4w9m.png",
+        "https://i.imgur.com/hXANGjV.png"
+    ],
+    "hash": "082f60b6a53e6ea1a479a85c53fa4f00"
+}

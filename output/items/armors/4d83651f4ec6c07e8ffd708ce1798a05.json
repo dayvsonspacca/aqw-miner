@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-octopirate",
+    "url": "http://aqwwiki.wikidot.com/undead-octopirate",
+    "name": "Undead Octopirate",
+    "type": "armors",
+    "description": "Arr, matey. I been sleepin' down in Davey Jones' Locker. Got mollusks in me blowhole. Ye scurvy dog.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-octopirate/UndeadOctopirateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-octopirate/UndeadOctopirateF.png"
+    ],
+    "hash": "4d83651f4ec6c07e8ffd708ce1798a05"
+}

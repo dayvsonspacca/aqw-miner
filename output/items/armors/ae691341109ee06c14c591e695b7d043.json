@@ -1,0 +1,17 @@
+{
+    "urlName": "electromage-armor-0-ac",
+    "url": "http://aqwwiki.wikidot.com/electromage-armor-0-ac",
+    "name": "ElectroMage Armor (0 AC)",
+    "type": "armors",
+    "description": "Cyber Magic flows through the veins of ElectroMages. Mastering their power is vital; the energy even an untrained mage can produce could leven an entire city.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/2rEQQp9.png",
+        "https://imgur.com/RaqEpKn.png"
+    ],
+    "hash": "ae691341109ee06c14c591e695b7d043"
+}

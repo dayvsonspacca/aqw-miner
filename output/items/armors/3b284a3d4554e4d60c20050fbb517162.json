@@ -1,0 +1,16 @@
+{
+    "urlName": "wintry-minstrel",
+    "url": "http://aqwwiki.wikidot.com/wintry-minstrel",
+    "name": "Wintry Minstrel",
+    "type": "armors",
+    "description": "Hark! Do ye have a festive song for us?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/SLL5kjO.png",
+        "http://i.imgur.com/c1ax7jU.png"
+    ],
+    "hash": "3b284a3d4554e4d60c20050fbb517162"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "royal-swordhaven-guard",
+    "url": "http://aqwwiki.wikidot.com/royal-swordhaven-guard",
+    "name": "Royal Swordhaven Guard",
+    "type": "armors",
+    "description": "The Royal Guard of Swordhaven swear only one vow: to protect the royal family with their swords, shields, and lives. It is an honor to serve Good.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/bliWRYQ.png",
+        "https://i.imgur.com/i6GGhJd.png"
+    ],
+    "hash": "e411aab1153341f54fe195fc84b5b9f3"
+}

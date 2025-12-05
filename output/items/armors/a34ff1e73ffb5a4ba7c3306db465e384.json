@@ -1,0 +1,16 @@
+{
+    "urlName": "abyssal-frost",
+    "url": "http://aqwwiki.wikidot.com/abyssal-frost",
+    "name": "Abyssal Frost",
+    "type": "armors",
+    "description": "The garb of those who wander the cold Underworld, serving no master but themselves. Even with the Lord of the Underworld, blood is drawn and frozen by them as part of a transaction.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/WqzyPiz.png",
+        "https://i.imgur.com/MJ2cHSc.png"
+    ],
+    "hash": "a34ff1e73ffb5a4ba7c3306db465e384"
+}

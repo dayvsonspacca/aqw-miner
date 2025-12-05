@@ -1,0 +1,17 @@
+{
+    "urlName": "maizelord",
+    "url": "http://aqwwiki.wikidot.com/maizelord",
+    "name": "Maizelord",
+    "type": "armors",
+    "description": "My Lord, your husk is too tough. You vibe is too corny. Your maize is too bad. They'll butter you up and kill you!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UuQSqnu.png",
+        "https://i.imgur.com/JC5rdgV.png"
+    ],
+    "hash": "95798d09fdb087550564bba245a22825"
+}

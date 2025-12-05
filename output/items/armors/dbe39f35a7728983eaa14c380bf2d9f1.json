@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-healer",
+    "url": "http://aqwwiki.wikidot.com/dark-healer",
+    "name": "Dark Healer",
+    "type": "armors",
+    "description": "After a particularly nasty day at the mall, you may need to cast some heal spells.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/l6WUPWK.png",
+        "https://i.imgur.com/z46YTqf.png"
+    ],
+    "hash": "dbe39f35a7728983eaa14c380bf2d9f1"
+}

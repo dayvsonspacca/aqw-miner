@@ -1,0 +1,17 @@
+{
+    "urlName": "fallen-frostspawn-warrior",
+    "url": "http://aqwwiki.wikidot.com/fallen-frostspawn-warrior",
+    "name": "Fallen Frostspawn Warrior",
+    "type": "armors",
+    "description": "Glacera is a harsh land, twisting those who chosse into monstrous shadows of their former selves.",
+    "rarity": null,
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-frostspawn-warrior/FallenFrostspawnWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fallen-frostspawn-warrior/FallenFrostspawnWarriorF.png"
+    ],
+    "hash": "d8487c14d426795b4e85ae151c3f4b10"
+}

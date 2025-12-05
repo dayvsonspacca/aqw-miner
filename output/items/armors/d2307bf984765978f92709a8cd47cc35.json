@@ -1,0 +1,17 @@
+{
+    "urlName": "rougeweaver",
+    "url": "http://aqwwiki.wikidot.com/rougeweaver",
+    "name": "Rougeweaver",
+    "type": "armors",
+    "description": "This type of soulstealer does not hoard any souls for his/herself. They color them pink so they look like a \"black sheep\" in the afterlife. After all, pink is the new black. (Suggested by Zee)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rougeweaver/RougeweaverM.png",
+        "http://aqwwiki.wdfiles.com/local--files/rougeweaver/RougeweaverF.png"
+    ],
+    "hash": "d2307bf984765978f92709a8cd47cc35"
+}

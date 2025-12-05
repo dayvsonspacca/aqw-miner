@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-dreadhaven-general-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-dreadhaven-general-ac",
+    "name": "Dark Dreadhaven General (AC)",
+    "type": "armors",
+    "description": "No one will mess with you on Black Friday.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-dreadhaven-general-ac/DarkDreadhavenGeneralM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dreadhaven-general-ac/DarkDreadhavenGeneralF.png"
+    ],
+    "hash": "d220e031e594dbd283b33ab060b7d248"
+}

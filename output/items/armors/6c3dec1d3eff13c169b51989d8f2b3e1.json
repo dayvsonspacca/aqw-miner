@@ -1,0 +1,16 @@
+{
+    "urlName": "terror-lord",
+    "url": "http://aqwwiki.wikidot.com/terror-lord",
+    "name": "Terror Lord",
+    "type": "armors",
+    "description": "Donning this armor designed by RazzleDazzle gives you an insatiable appetite for the stuff of nightmares. You become what everyone fears, and this pleases you. You are now a TerrorLord, and terror is just what you'll bring!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/D1iUNqz.png",
+        "http://i.imgur.com/4lLhgJ1.png"
+    ],
+    "hash": "6c3dec1d3eff13c169b51989d8f2b3e1"
+}

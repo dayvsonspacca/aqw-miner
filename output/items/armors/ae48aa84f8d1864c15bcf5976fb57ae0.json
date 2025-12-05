@@ -1,0 +1,17 @@
+{
+    "urlName": "lightwielder-s-plate",
+    "url": "http://aqwwiki.wikidot.com/lightwielder-s-plate",
+    "name": "Lightwielder's Plate",
+    "type": "armors",
+    "description": "Don the holy armor of the Lightwielders, an elite order of Zombie slayers.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightwielder-s-plate/Lightwielder'sPlateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lightwielder-s-plate/Lightwielder'sPlateF.png"
+    ],
+    "hash": "ae48aa84f8d1864c15bcf5976fb57ae0"
+}

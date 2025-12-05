@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-survivor",
+    "url": "http://aqwwiki.wikidot.com/undead-survivor",
+    "name": "Undead Survivor",
+    "type": "armors",
+    "description": "You survived the Evil Undead invasion! You should think about joining King Alteon's guards. You've got (survival) skills!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-survivor/UndeadSurvivorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-survivor/UndeadSurvivorF.png"
+    ],
+    "hash": "309ba5da55063f77562004adb6b56503"
+}

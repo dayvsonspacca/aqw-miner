@@ -1,0 +1,17 @@
+{
+    "urlName": "elk-clan-warrior",
+    "url": "http://aqwwiki.wikidot.com/elk-clan-warrior",
+    "name": "Elk Clan Warrior",
+    "type": "armors",
+    "description": "Take the form of a Greenguard Druid and help the Elk Clan fight the invading void forces!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elk-clan-warrior/ElkClanWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/elk-clan-warrior/ElkClanWarriorFemale.png"
+    ],
+    "hash": "7e7626758ff9b2256ffd8058cf0ee5da"
+}

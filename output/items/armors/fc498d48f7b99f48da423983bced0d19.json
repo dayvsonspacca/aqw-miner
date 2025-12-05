@@ -1,0 +1,17 @@
+{
+    "urlName": "omniramis-wingmaster",
+    "url": "http://aqwwiki.wikidot.com/omniramis-wingmaster",
+    "name": "Omniramis WingMaster",
+    "type": "armors",
+    "description": "You've gone beyond and mastered the everything needed to become a warrior.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/qFbfUkq.png",
+        "https://i.imgur.com/CyDvJD9.png"
+    ],
+    "hash": "fc498d48f7b99f48da423983bced0d19"
+}

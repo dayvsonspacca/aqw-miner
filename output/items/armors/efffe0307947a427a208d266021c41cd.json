@@ -1,0 +1,17 @@
+{
+    "urlName": "warpforce-heavygunner-armor",
+    "url": "http://aqwwiki.wikidot.com/warpforce-heavygunner-armor",
+    "name": "WarpForce Heavygunner Armor",
+    "type": "armors",
+    "description": "This is the type of armor worn by the Heavy Gunner class in AdventureQuest WarpForce!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warpforce-heavygunner-armor/WarpforceHeavygunnerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/warpforce-heavygunner-armor/WarpforceHeavygunnerF.png"
+    ],
+    "hash": "efffe0307947a427a208d266021c41cd"
+}

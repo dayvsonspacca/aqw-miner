@@ -1,0 +1,17 @@
+{
+    "urlName": "werejaguar",
+    "url": "http://aqwwiki.wikidot.com/werejaguar",
+    "name": "Werejaguar",
+    "type": "armors",
+    "description": "Become one with the Werejaguar! The ancient tribe of Werejaguars, once believed to be extinct, hail from a secret jungle that only Mido can find. Hone in on your Werejaguar instincts and perhaps one day you too will find the elusive Werejaguar clan!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/oLJEoA0.png",
+        "https://i.imgur.com/SlKIbUO.png",
+        "https://i.imgur.com/A0bnmHM.png"
+    ],
+    "hash": "0726b3a7360aaa37d1ce43594feac32d"
+}

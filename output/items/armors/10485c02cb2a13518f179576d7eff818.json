@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-cryptraiser-legend",
+    "url": "http://aqwwiki.wikidot.com/dark-cryptraiser-legend",
+    "name": "Dark CryptRaiser (Legend)",
+    "type": "armors",
+    "description": "For Darkness, fly the black flag!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/faz2sJH.png",
+        "https://i.imgur.com/WTGZ4vk.png"
+    ],
+    "hash": "10485c02cb2a13518f179576d7eff818"
+}

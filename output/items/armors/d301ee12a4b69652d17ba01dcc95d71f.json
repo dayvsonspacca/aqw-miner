@@ -1,0 +1,16 @@
+{
+    "urlName": "metal-mog",
+    "url": "http://aqwwiki.wikidot.com/metal-mog",
+    "name": "Metal Mog",
+    "type": "armors",
+    "description": "It's reported that spending 1 night with this equipped will give you some\u2026 interesting visions. Violent visions. Spend any longer than 5 nights and you begin to lose your memory of who you are\u2026 Only the urges to extinguish life.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/jbbaEvi.png",
+        "http://i.imgur.com/mryPlTa.png"
+    ],
+    "hash": "d301ee12a4b69652d17ba01dcc95d71f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-elf-aristocrat",
+    "url": "http://aqwwiki.wikidot.com/dark-elf-aristocrat",
+    "name": "Dark Elf Aristocrat",
+    "type": "armors",
+    "description": "Even in civilizations that are under the earth, there will be those who find new ways to look down on people.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-elf-aristocrat/DarkElfAristocratM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-elf-aristocrat/DarkElfAristocratF.png"
+    ],
+    "hash": "a4861af16760eff86444e2d4afbc4528"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "rocker-hoodie",
+    "url": "http://aqwwiki.wikidot.com/rocker-hoodie",
+    "name": "Rocker Hoodie",
+    "type": "armors",
+    "description": "Get ready to mosh!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3waIoNa.png",
+        "https://i.imgur.com/tzDFfc8.png"
+    ],
+    "hash": "cc40abc70ca05c08443062871742c126"
+}

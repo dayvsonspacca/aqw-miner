@@ -1,0 +1,17 @@
+{
+    "urlName": "cake-armor",
+    "url": "http://aqwwiki.wikidot.com/cake-armor",
+    "name": "Cake Armor",
+    "type": "armors",
+    "description": "This armor really is the frosting on the cake. Gives a new meaning to \"fast food\". A present given on AQW's 1st Birthday!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cake-armor/CakeArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/cake-armor/CakeArmorFemale.png"
+    ],
+    "hash": "d357d886e11d42ff4271034af1990026"
+}

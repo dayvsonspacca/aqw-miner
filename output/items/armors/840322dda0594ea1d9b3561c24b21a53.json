@@ -1,0 +1,17 @@
+{
+    "urlName": "iron-paladin",
+    "url": "http://aqwwiki.wikidot.com/iron-paladin",
+    "name": "Iron Paladin",
+    "type": "armors",
+    "description": "For purchasing the Ironman shirt from Heromart you've been upgraded to the IRON Paladin.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/9zHyhwd.png",
+        "http://i.imgur.com/0Bk14Uy.png"
+    ],
+    "hash": "840322dda0594ea1d9b3561c24b21a53"
+}

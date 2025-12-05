@@ -1,0 +1,17 @@
+{
+    "urlName": "bat-vigilante",
+    "url": "http://aqwwiki.wikidot.com/bat-vigilante",
+    "name": "Bat Vigilante",
+    "type": "armors",
+    "description": "What makes a night-happy cowboy a little odd is the fact they are attired as if they were soldiers. They treat unsuspecting abductions as a sport and are most active every new moon when the night covers almost every victim's surroundings, making their \"game\" easier to play.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bat-vigilante/BatVigilanteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bat-vigilante/BatVigilanteF.png"
+    ],
+    "hash": "97a429666d63d637067ff4d6d3043449"
+}

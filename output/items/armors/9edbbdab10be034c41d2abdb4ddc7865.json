@@ -1,0 +1,17 @@
+{
+    "urlName": "elven-mystique",
+    "url": "http://aqwwiki.wikidot.com/elven-mystique",
+    "name": "Elven Mystique",
+    "type": "armors",
+    "description": "Earthy tones, the smell of loamy soil, the anonymity of nature's bounty\u2026 Wrap yourself in the naturalistic energies and qualities of they very earth you walk upon. Use its solidarity and steafastness as your defense against the numerous enemies you have to battle.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elven-mystique/ElvenMystiqueM.png",
+        "http://aqwwiki.wdfiles.com/local--files/elven-mystique/ElvenMystiqueF.png"
+    ],
+    "hash": "9edbbdab10be034c41d2abdb4ddc7865"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-pyromancer",
+    "url": "http://aqwwiki.wikidot.com/celestial-pyromancer",
+    "name": "Celestial Pyromancer",
+    "type": "armors",
+    "description": "The blood and magical power of Celestial Pyromancers burn in their veins, a force that very few mortals can oppose.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/wo2jJH1.png",
+        "https://i.imgur.com/6xWUWaW.png"
+    ],
+    "hash": "0560adfeec2d680c3ec2ed1139d65f63"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "chaotic-fleet",
+    "url": "http://aqwwiki.wikidot.com/chaotic-fleet",
+    "name": "Chaotic Fleet",
+    "type": "armors",
+    "description": "And just when you thought the skies were safe! Smells like Chaos in the air!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/kBKEd4t.png",
+        "https://i.imgur.com/RPZ2qTg.png"
+    ],
+    "hash": "2c871f320d23744495ad8ca37774ad70"
+}

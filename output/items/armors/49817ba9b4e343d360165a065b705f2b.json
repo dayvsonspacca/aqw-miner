@@ -1,0 +1,17 @@
+{
+    "urlName": "chaonslaught-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/chaonslaught-warrior-armor",
+    "name": "Chaonslaught Warrior (Armor)",
+    "type": "armors",
+    "description": "What happens when you mix Chaos and modern technology? How about the greatest killing machine to come along since the T-1000.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaonslaught-warrior-armor/ChaonslaughtWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaonslaught-warrior-armor/ChaonslaughtWarriorFemale.png"
+    ],
+    "hash": "49817ba9b4e343d360165a065b705f2b"
+}

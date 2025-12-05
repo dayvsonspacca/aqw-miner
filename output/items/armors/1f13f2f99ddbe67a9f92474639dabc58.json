@@ -1,0 +1,17 @@
+{
+    "urlName": "blazebeard-armor",
+    "url": "http://aqwwiki.wikidot.com/blazebeard-armor",
+    "name": "Blazebeard (Armor)",
+    "type": "armors",
+    "description": "Blazebeard was a pirate ever since he was young, is the most notorious and deadly pirate around, and known as \"the dread pirate of Drakonus\".",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/uAaBuOB.png",
+        "http://i.imgur.com/39lh1dt.png"
+    ],
+    "hash": "1f13f2f99ddbe67a9f92474639dabc58"
+}

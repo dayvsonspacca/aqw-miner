@@ -1,0 +1,17 @@
+{
+    "urlName": "noble-courtier",
+    "url": "http://aqwwiki.wikidot.com/noble-courtier",
+    "name": "Noble Courtier",
+    "type": "armors",
+    "description": "Frilly clothes, shiny shoes, condescending smile\u2026 Yep, you're nobility, alright. You were made to wield a silver tongue, but no one says you can't be just as adept at wielding a blade.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/noble-courtier/NobleCourtierM.png",
+        "http://aqwwiki.wdfiles.com/local--files/noble-courtier/NobleCourtierF.png"
+    ],
+    "hash": "b70dbf2bf1b459709b9e3352cb5dfb10"
+}

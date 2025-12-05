@@ -1,0 +1,19 @@
+{
+    "urlName": "lightning-pirate",
+    "url": "http://aqwwiki.wikidot.com/lightning-pirate",
+    "name": "Lightning Pirate",
+    "type": "armors",
+    "description": "When ye sail the seas, ye get the storms. Lightnin' crashes and suddenly yer electric!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YDUCQKN.png",
+        "https://i.imgur.com/zCSrgZN.png",
+        "https://i.imgur.com/OJCJHJN.png",
+        "https://i.imgur.com/p29FNOC.png"
+    ],
+    "hash": "be8700a6b0f575e5a480ce6426d633db"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "mahorc-uraga",
+    "url": "http://aqwwiki.wikidot.com/mahorc-uraga",
+    "name": "Mahorc-Uraga",
+    "type": "armors",
+    "description": "Legends from far flung Horc wanderers tell of a peerless warrior, who will only serve those who pass ten dark trials. No one has ever won their cursed respect.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/x5OxYqz.png",
+        "https://i.imgur.com/b19tWGc.png"
+    ],
+    "hash": "a5dce06e8bb67d43ec595b0a46f9d84a"
+}

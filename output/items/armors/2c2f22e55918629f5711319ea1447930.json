@@ -1,0 +1,17 @@
+{
+    "urlName": "ugly-christmas-sweater",
+    "url": "http://aqwwiki.wikidot.com/ugly-christmas-sweater",
+    "name": "Ugly Christmas Sweater",
+    "type": "armors",
+    "description": "What better way to stay warm this holiday season than with an UGLY Christmas sweater!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://imgur.com/3zemGLa.png",
+        "http://imgur.com/tGb4nQk.png"
+    ],
+    "hash": "2c2f22e55918629f5711319ea1447930"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "j6-space-commander",
+    "url": "http://aqwwiki.wikidot.com/j6-space-commander",
+    "name": "J6 Space Commander",
+    "type": "armors",
+    "description": "Take command of the stars! The distinctive black stripe marks you as a legendary Space Commander! J6 says \"thank you\" for helping him to get one step closer to his dream of visiting space!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/j6-space-commander/JSCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/j6-space-commander/JSCF.png"
+    ],
+    "hash": "6d5a7986388c8d7f580b6b3324da3ec0"
+}

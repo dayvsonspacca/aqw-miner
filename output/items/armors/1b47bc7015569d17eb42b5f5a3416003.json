@@ -1,0 +1,16 @@
+{
+    "urlName": "void-star-eater",
+    "url": "http://aqwwiki.wikidot.com/void-star-eater",
+    "name": "Void Star-Eater",
+    "type": "armors",
+    "description": "A mass of living darkmatter and bone, an embodiment of hunger alone.They emerge from the Void of space, starving for the Sun and stars.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/09h1wjt.png"
+    ],
+    "hash": "1b47bc7015569d17eb42b5f5a3416003"
+}

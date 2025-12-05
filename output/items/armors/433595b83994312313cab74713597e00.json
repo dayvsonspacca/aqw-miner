@@ -1,0 +1,16 @@
+{
+    "urlName": "iaste-armor",
+    "url": "http://aqwwiki.wikidot.com/iaste-armor",
+    "name": "Iaste Armor",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Yfb9RBc.png",
+        "https://i.imgur.com/V7XorxI.png"
+    ],
+    "hash": "433595b83994312313cab74713597e00"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "inquisitor-of-the-light",
+    "url": "http://aqwwiki.wikidot.com/inquisitor-of-the-light",
+    "name": "Inquisitor of the Light",
+    "type": "armors",
+    "description": "The highest honor one can be bestowed upon, the Inquisitors are the very definition of Good.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/QtjHMJx.png",
+        "https://i.imgur.com/RCvXCKw.png"
+    ],
+    "hash": "eced097a26e42edb139ef039ff831ebd"
+}

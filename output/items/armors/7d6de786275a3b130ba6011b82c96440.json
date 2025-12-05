@@ -1,0 +1,16 @@
+{
+    "urlName": "black-silent-sentinel",
+    "url": "http://aqwwiki.wikidot.com/black-silent-sentinel",
+    "name": "Black Silent Sentinel",
+    "type": "armors",
+    "description": "Dark and mysterious, silent and strong, this armor doesn't just look formidable, by some strange magic, it will make you feel more formidable. Confidence will pour forth from your steely stare as you stand ready for battle.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/8aFfFzw.png",
+        "http://i.imgur.com/WZXqI1W.png"
+    ],
+    "hash": "7d6de786275a3b130ba6011b82c96440"
+}

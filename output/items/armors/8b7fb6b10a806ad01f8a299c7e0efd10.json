@@ -1,0 +1,17 @@
+{
+    "urlName": "leprechaun-armor",
+    "url": "http://aqwwiki.wikidot.com/leprechaun-armor",
+    "name": "Leprechaun Armor",
+    "type": "armors",
+    "description": "The Leprechaun suit is the luckiest armor. It has earned many awards including the blue diamond, the purple horseshoes\u2026 Irish you a Happy Lucky Day!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3O9JAxX.png",
+        "https://i.imgur.com/iPfaGbT.png"
+    ],
+    "hash": "8b7fb6b10a806ad01f8a299c7e0efd10"
+}

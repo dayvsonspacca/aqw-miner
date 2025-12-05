@@ -1,0 +1,17 @@
+{
+    "urlName": "infernal-warrior-armor-1",
+    "url": "http://aqwwiki.wikidot.com/infernal-warrior-armor-1",
+    "name": "Infernal Warrior (Armor) (1)",
+    "type": "armors",
+    "description": "Dage the Evil, in his dark wisdom, has allowed you to acquire the Infernal Warrior armor set from the Wheel of Doom!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/infernal-warrior-armor-1/InfernalWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/infernal-warrior-armor-1/InfernalWarriorF.png"
+    ],
+    "hash": "dd8920e13324e0d8af9b7de508f44678"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "elegant-vampire",
+    "url": "http://aqwwiki.wikidot.com/elegant-vampire",
+    "name": "Elegant Vampire",
+    "type": "armors",
+    "description": "Followers of The Unseeing, these Vampires love to hang around and listen to Alice in Chains.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fT23izN.png",
+        "https://i.imgur.com/PNcp5JH.png*"
+    ],
+    "hash": "adda2fa418ab4224b282460a0acd365e"
+}

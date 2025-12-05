@@ -1,0 +1,18 @@
+{
+    "urlName": "faraday-suit",
+    "url": "http://aqwwiki.wikidot.com/faraday-suit",
+    "name": "Faraday Suit",
+    "type": "armors",
+    "description": "Become one with the LIGHTNING! (Faraday suit is one size fits all.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/faraday-suit/FaradaySuitM.png",
+        "http://aqwwiki.wdfiles.com/local--files/faraday-suit/FaradaySuitFNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/faraday-suit/FaradaySuitF.png"
+    ],
+    "hash": "eb5ac40a6a0a83430d95c0afa2df82c9"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "holiday-courier-ac",
+    "url": "http://aqwwiki.wikidot.com/holiday-courier-ac",
+    "name": "Holiday Courier (AC)",
+    "type": "armors",
+    "description": "In the crisp hours of the morning, packages of holiday cheer are delivered to each doorstep. Thick green jackets and red boots are suited to escort gifts from far off friends.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/AtAf7ij.png",
+        "https://i.imgur.com/oHauxcf.png"
+    ],
+    "hash": "6b8999cdbf72ec2c42ae1f10a0ca392d"
+}

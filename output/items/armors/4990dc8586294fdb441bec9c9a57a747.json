@@ -1,0 +1,18 @@
+{
+    "urlName": "trophy-hunter-1",
+    "url": "http://aqwwiki.wikidot.com/trophy-hunter-1",
+    "name": "Trophy Hunter (1)",
+    "type": "armors",
+    "description": "Roam the land hunting and exploring. Discover hidden realms and bring back the evidence of your journeys. Take ALL the trophies!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/trophy-hunter-1/TrophyHunterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/trophy-hunter-1/TrophyHunterF.png"
+    ],
+    "hash": "4990dc8586294fdb441bec9c9a57a747"
+}

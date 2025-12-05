@@ -1,0 +1,17 @@
+{
+    "urlName": "battle-track-suit",
+    "url": "http://aqwwiki.wikidot.com/battle-track-suit",
+    "name": "Battle Track Suit",
+    "type": "armors",
+    "description": "In this gear, you can outrun any enemy, but why would you?",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Xd5ip93.png",
+        "http://aqwwiki.wdfiles.com/local--files/battle-track-suit/BattleTrackSuitFemale.png"
+    ],
+    "hash": "c4587887222fcca93ae4ff503805b632"
+}

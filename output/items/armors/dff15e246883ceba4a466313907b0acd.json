@@ -1,0 +1,16 @@
+{
+    "urlName": "academic-attitude",
+    "url": "http://aqwwiki.wikidot.com/academic-attitude",
+    "name": "Academic Attitude",
+    "type": "armors",
+    "description": "If you're going to survive the challenge ahead of you --",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wSt4o7H.png",
+        "https://i.imgur.com/GoZ9R4u.png"
+    ],
+    "hash": "dff15e246883ceba4a466313907b0acd"
+}

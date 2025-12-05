@@ -1,0 +1,16 @@
+{
+    "urlName": "fallen-minion",
+    "url": "http://aqwwiki.wikidot.com/fallen-minion",
+    "name": "Fallen Minion",
+    "type": "armors",
+    "description": "Beasts of the lower Infernal Realm, destined for a life of suffering.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/9KVdG9w.png",
+        "http://i.imgur.com/3kwLIoe.png"
+    ],
+    "hash": "452343052c50dc8ba7bf432a644fac62"
+}

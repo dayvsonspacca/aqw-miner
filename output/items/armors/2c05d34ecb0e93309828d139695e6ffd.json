@@ -1,0 +1,17 @@
+{
+    "urlName": "livyatan-mer-unit",
+    "url": "http://aqwwiki.wikidot.com/livyatan-mer-unit",
+    "name": "Livyatan Mer-Unit",
+    "type": "armors",
+    "description": "Marine tech designed to help you cut through the deep seas. It's deceptively light, allowing for sharp evasive movements, yet durable enough to withstand a shark's bite.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vtjOlPE.png",
+        "https://i.imgur.com/dPrWCqo.png"
+    ],
+    "hash": "2c05d34ecb0e93309828d139695e6ffd"
+}

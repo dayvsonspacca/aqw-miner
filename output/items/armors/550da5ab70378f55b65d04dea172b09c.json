@@ -1,0 +1,19 @@
+{
+    "urlName": "sandsea-guardian",
+    "url": "http://aqwwiki.wikidot.com/sandsea-guardian",
+    "name": "SandSea Guardian",
+    "type": "armors",
+    "description": "The Sandsea Guardian is a member of the elite Oasis Defense Force. Their armor helms",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/acApvAR.png",
+        "http://i.imgur.com/21LeRsS.png",
+        "http://aqwwiki.wdfiles.com/local--files/sandsea-guardian/SGuardianMold.png",
+        "http://aqwwiki.wdfiles.com/local--files/sandsea-guardian/SGuardianFold.png"
+    ],
+    "hash": "550da5ab70378f55b65d04dea172b09c"
+}

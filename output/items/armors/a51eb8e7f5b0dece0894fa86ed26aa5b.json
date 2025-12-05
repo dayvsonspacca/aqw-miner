@@ -1,0 +1,16 @@
+{
+    "urlName": "salek-lifeform",
+    "url": "http://aqwwiki.wikidot.com/salek-lifeform",
+    "name": "Salek Lifeform",
+    "type": "armors",
+    "description": "The doctor doesn't know what's causing it, but your blood pressure's through the roof!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/pqL5jLX.png"
+    ],
+    "hash": "a51eb8e7f5b0dece0894fa86ed26aa5b"
+}

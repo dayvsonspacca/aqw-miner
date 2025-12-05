@@ -1,0 +1,17 @@
+{
+    "urlName": "miners-varsity-team",
+    "url": "http://aqwwiki.wikidot.com/miners-varsity-team",
+    "name": "Miners Varsity Team",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football Players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/p75yukw.png",
+        "https://i.imgur.com/WSogxQe.png"
+    ],
+    "hash": "1a8c0dd24b757a8541c2558822026e36"
+}

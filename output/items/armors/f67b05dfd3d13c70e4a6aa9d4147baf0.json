@@ -1,0 +1,16 @@
+{
+    "urlName": "adept-of-awe",
+    "url": "http://aqwwiki.wikidot.com/adept-of-awe",
+    "name": "Adept of Awe",
+    "type": "armors",
+    "description": "Armor that is awarded to notable contributors of Lore's Conservators. This item does 10% more damage to all tagged monsters when equipped.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/7pkwSZJ.png",
+        "https://i.imgur.com/6Z3kb6F.png"
+    ],
+    "hash": "f67b05dfd3d13c70e4a6aa9d4147baf0"
+}

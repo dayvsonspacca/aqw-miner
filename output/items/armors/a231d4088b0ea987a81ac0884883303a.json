@@ -1,0 +1,17 @@
+{
+    "urlName": "northlands-necromancer-ac",
+    "url": "http://aqwwiki.wikidot.com/northlands-necromancer-ac",
+    "name": "Northlands Necromancer (AC)",
+    "type": "armors",
+    "description": "The Northlands are littered with frozen bones, just waiting for an ambitious necromancer to come along and make use of them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/yPhfsEU.png",
+        "https://i.imgur.com/0o1BQXQ.png"
+    ],
+    "hash": "a231d4088b0ea987a81ac0884883303a"
+}

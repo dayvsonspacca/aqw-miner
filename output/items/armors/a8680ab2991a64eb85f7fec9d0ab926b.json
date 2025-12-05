@@ -1,0 +1,16 @@
+{
+    "urlName": "eclipse-emperor",
+    "url": "http://aqwwiki.wikidot.com/eclipse-emperor",
+    "name": "Eclipse Emperor",
+    "type": "armors",
+    "description": "The armor of the Eclipse Emperor. It is believed that this armor was a gift from the Avatars themselves.",
+    "rarity": "Secret Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/OPmZ43j.png",
+        "https://i.imgur.com/IvnuEbQ.png"
+    ],
+    "hash": "a8680ab2991a64eb85f7fec9d0ab926b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "naval-guard",
+    "url": "http://aqwwiki.wikidot.com/naval-guard",
+    "name": "Naval Guard",
+    "type": "armors",
+    "description": "YARRR! It's more fun to be a pirate than to join th' navy\u2026 but ye'll be more successful at inflitratin' other crews if'n they think ye're a legit Naval Guard.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gW9vzdo.png",
+        "https://i.imgur.com/yLOUigb.png"
+    ],
+    "hash": "2af9513aea3d1167da638a5b95fe7995"
+}

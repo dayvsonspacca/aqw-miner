@@ -1,0 +1,17 @@
+{
+    "urlName": "whitetiger-onmyoji",
+    "url": "http://aqwwiki.wikidot.com/whitetiger-onmyoji",
+    "name": "WhiteTiger Onmyoji",
+    "type": "armors",
+    "description": "You possess a rare power - the ability to summon and control a White Tiger Shikigami! It will serve you loyaly as long as your intent is honorable and your heart pure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/6r1UQ29.png",
+        "https://i.imgur.com/gEFAS0w.png"
+    ],
+    "hash": "c1bd7f543d5fac68c400122c82053189"
+}

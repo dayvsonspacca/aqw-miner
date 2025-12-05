@@ -1,0 +1,16 @@
+{
+    "urlName": "youkono",
+    "url": "http://aqwwiki.wikidot.com/youkono",
+    "name": "Youkono",
+    "type": "armors",
+    "description": "An ancient Yokai spirit made famous for its fox-like appearance and shape-shifting abilities. (color custom: skin)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/f6djqD7.png",
+        "http://i.imgur.com/4djK5x9.png"
+    ],
+    "hash": "4302a9cc70b5c48c16996d22b52f3eb5"
+}

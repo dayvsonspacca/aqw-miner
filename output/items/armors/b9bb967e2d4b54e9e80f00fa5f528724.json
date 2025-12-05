@@ -1,0 +1,17 @@
+{
+    "urlName": "tacomancer",
+    "url": "http://aqwwiki.wikidot.com/tacomancer",
+    "name": "Tacomancer",
+    "type": "armors",
+    "description": "You are what you eat. And if you eat tacos\u2026 you are a Tacomancer! May the fates (and arteries) have mercy on us all!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/BPKFOjN.png",
+        "http://i.imgur.com/Zc1JqLo.png"
+    ],
+    "hash": "b9bb967e2d4b54e9e80f00fa5f528724"
+}

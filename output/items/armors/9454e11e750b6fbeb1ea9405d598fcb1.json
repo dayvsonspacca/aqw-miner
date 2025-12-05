@@ -1,0 +1,17 @@
+{
+    "urlName": "fenrir-legion-armor",
+    "url": "http://aqwwiki.wikidot.com/fenrir-legion-armor",
+    "name": "Fenrir Legion Armor",
+    "type": "armors",
+    "description": "You are the top dogs when it comes to Legion rankings!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fenrir-legion-armor/FLAN.png",
+        "http://aqwwiki.wdfiles.com/local--files/fenrir-legion-armor/FLAO.png",
+        "http://aqwwiki.wdfiles.com/local--files/fenrir-legion-armor/FLAOlder.jpg"
+    ],
+    "hash": "9454e11e750b6fbeb1ea9405d598fcb1"
+}

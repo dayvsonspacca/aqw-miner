@@ -1,0 +1,16 @@
+{
+    "urlName": "northlands-lightcaster",
+    "url": "http://aqwwiki.wikidot.com/northlands-lightcaster",
+    "name": "Northlands LightCaster",
+    "type": "armors",
+    "description": "Pursuing the auroras of the north, these LightCasters risk their lives to save those lost in the cold dark. They are a beacon in the frozen wastes, and a lure to those that would prey on the pure.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/uss5C2P.png",
+        "https://i.imgur.com/Lu3GlM0.png"
+    ],
+    "hash": "029b5e7c1e0db6204ef46449c351afc3"
+}

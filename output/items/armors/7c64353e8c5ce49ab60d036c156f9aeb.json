@@ -1,0 +1,17 @@
+{
+    "urlName": "dalang-sinden",
+    "url": "http://aqwwiki.wikidot.com/dalang-sinden",
+    "name": "Dalang Sinden",
+    "type": "armors",
+    "description": "A great Dalang and his melodious Sindens once told a tale that became real. Who knows what mythical power remains within its threads? (Item does 25% more damage to all monsters when equipped.)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/4xGjMaB.png",
+        "https://imgur.com/Xu0BJqL.png"
+    ],
+    "hash": "7c64353e8c5ce49ab60d036c156f9aeb"
+}

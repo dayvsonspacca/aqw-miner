@@ -1,0 +1,17 @@
+{
+    "urlName": "plate-of-hope",
+    "url": "http://aqwwiki.wikidot.com/plate-of-hope",
+    "name": "Plate Of Hope",
+    "type": "armors",
+    "description": "Someone once said that hope was a thing with feathers. In these troubled times, hope would probably do better with some good old-fashioned steel.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/plate-of-hope/PlateofHopeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/plate-of-hope/PlateofHopeF.png"
+    ],
+    "hash": "01dc41042974abd5ef06af51bb9323d1"
+}

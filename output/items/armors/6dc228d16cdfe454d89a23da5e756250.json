@@ -1,0 +1,17 @@
+{
+    "urlName": "toxic-houndmaster",
+    "url": "http://aqwwiki.wikidot.com/toxic-houndmaster",
+    "name": "Toxic Houndmaster",
+    "type": "armors",
+    "description": "\ufeffA peerless hunter and tracker. Though they used to walk amongst brigands and bandits, their experience and skills in taming hounds ready for the hunt found them in the employ of royalty.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/vIbFXIh.png",
+        "https://imgur.com/r0QyFZy.png"
+    ],
+    "hash": "6dc228d16cdfe454d89a23da5e756250"
+}

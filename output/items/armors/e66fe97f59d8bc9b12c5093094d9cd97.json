@@ -1,0 +1,17 @@
+{
+    "urlName": "oceanic-symphony-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/oceanic-symphony-armor-ac",
+    "name": "Oceanic Symphony Armor (AC)",
+    "type": "armors",
+    "description": "Still waters run deep, but those who chance to adventure below will find a world of magic, mystery, and beauty.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1lITOfe.png",
+        "https://i.imgur.com/ki4O6n6.png"
+    ],
+    "hash": "e66fe97f59d8bc9b12c5093094d9cd97"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "chaotic-rugby-armor",
+    "url": "http://aqwwiki.wikidot.com/chaotic-rugby-armor",
+    "name": "Chaotic Rugby Armor",
+    "type": "armors",
+    "description": "You'll be on the ball when you /equip this AUS-some rugby armor! Crowds of your /party members will /cheer as your crit-ically score against your enemies!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/J9ADmOO.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaotic-rugby-armor/ChaoticRugbyArmorMale.png"
+    ],
+    "hash": "0813e42e96f9da62fd9aa134747d921c"
+}

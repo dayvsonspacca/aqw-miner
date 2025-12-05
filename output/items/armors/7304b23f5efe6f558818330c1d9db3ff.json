@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-pirate-caster-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-pirate-caster-ac",
+    "name": "Underworld Pirate Caster (AC)",
+    "type": "armors",
+    "description": "So ye be wantin' to join Dage's crew? Better not plunder the Dark Lord's treasure or he be makin' you walk the plank!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/favPE0U.png",
+        "https://i.imgur.com/cWMmWQ7.png"
+    ],
+    "hash": "7304b23f5efe6f558818330c1d9db3ff"
+}

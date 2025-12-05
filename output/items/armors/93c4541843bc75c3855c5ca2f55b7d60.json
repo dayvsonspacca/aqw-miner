@@ -1,0 +1,18 @@
+{
+    "urlName": "wolfhound-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/wolfhound-warrior-armor",
+    "name": "Wolfhound Warrior (Armor)",
+    "type": "armors",
+    "description": "Wolfhounds are the most loyal warriors in the kingdom. Wearing the Wolf's Head sigil shows that you can be trusted above all else.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wolfhound-warrior-armor/WolfhoundWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/wolfhound-warrior-armor/WolfhoundWarriorF.png"
+    ],
+    "hash": "93c4541843bc75c3855c5ca2f55b7d60"
+}

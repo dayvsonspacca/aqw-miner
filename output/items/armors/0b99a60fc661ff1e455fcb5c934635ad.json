@@ -1,0 +1,18 @@
+{
+    "urlName": "nocturan-adept",
+    "url": "http://aqwwiki.wikidot.com/nocturan-adept",
+    "name": "Nocturan Adept",
+    "type": "armors",
+    "description": "After the dusk settles, there are those who come out at night only to cause terror. The Nocturan will be there to protect and serve.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/6F9IuBn.png",
+        "http://i.imgur.com/UQ6xMPQ.png"
+    ],
+    "hash": "0b99a60fc661ff1e455fcb5c934635ad"
+}

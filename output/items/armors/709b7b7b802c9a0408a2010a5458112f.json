@@ -1,0 +1,17 @@
+{
+    "urlName": "rainha-do-carnaval",
+    "url": "http://aqwwiki.wikidot.com/rainha-do-carnaval",
+    "name": "Rainha do Carnaval",
+    "type": "armors",
+    "description": "The kings and queens of Carnaval request your presence at this years party!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mYTPASH.png",
+        "https://i.imgur.com/Yl76zi9.png"
+    ],
+    "hash": "709b7b7b802c9a0408a2010a5458112f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "flamescourge-mage",
+    "url": "http://aqwwiki.wikidot.com/flamescourge-mage",
+    "name": "FlameScourge Mage",
+    "type": "armors",
+    "description": "Scourges that have trained in the art of pyromancy capable of purging corruption from a target, cleansing it back to its original state.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/XlN32VH.png",
+        "http://i.imgur.com/wxR5n6N.png"
+    ],
+    "hash": "4e156b385e6ed03dd7469a66df21a153"
+}

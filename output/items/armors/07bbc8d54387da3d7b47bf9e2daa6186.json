@@ -1,0 +1,17 @@
+{
+    "urlName": "rockscar",
+    "url": "http://aqwwiki.wikidot.com/rockscar",
+    "name": "RockScar",
+    "type": "armors",
+    "description": "The age of metal is upon us! Thou shall rise and mosh! We will only stop once the music stops!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rockscar/RockScarM.png",
+        "http://aqwwiki.wdfiles.com/local--files/rockscar/RockScarF.png"
+    ],
+    "hash": "07bbc8d54387da3d7b47bf9e2daa6186"
+}

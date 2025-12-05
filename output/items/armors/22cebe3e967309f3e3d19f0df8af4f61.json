@@ -1,0 +1,17 @@
+{
+    "urlName": "badger-brigade-armor",
+    "url": "http://aqwwiki.wikidot.com/badger-brigade-armor",
+    "name": "Badger Brigade Armor",
+    "type": "armors",
+    "description": "Badger us for a fight! We dare you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/06t94vT.png",
+        "https://i.imgur.com/dP4fjWx.png"
+    ],
+    "hash": "22cebe3e967309f3e3d19f0df8af4f61"
+}

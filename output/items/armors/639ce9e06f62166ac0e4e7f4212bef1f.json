@@ -1,0 +1,18 @@
+{
+    "urlName": "ebil-dragon-rider",
+    "url": "http://aqwwiki.wikidot.com/ebil-dragon-rider",
+    "name": "Ebil Dragon Rider",
+    "type": "armors",
+    "description": "After several experiments on captured dragons in lore, EbilCorp developec a line of evil robotic dragons and unleashed them on the local townspeople. No one is safe as EbilCorp's takeover is imminent!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1RoYjrv.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebil-dragon-rider/EbilDragonRiderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebil-dragon-rider/EbilDragonRiderF.png"
+    ],
+    "hash": "639ce9e06f62166ac0e4e7f4212bef1f"
+}

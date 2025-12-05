@@ -1,0 +1,16 @@
+{
+    "urlName": "zombie-pirate",
+    "url": "http://aqwwiki.wikidot.com/zombie-pirate",
+    "name": "Zombie Pirate",
+    "type": "armors",
+    "description": "Blimey! I be a scallywag in search of BRAINS!!!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/wMLhxLb.png",
+        "http://i.imgur.com/60pCcbP.png"
+    ],
+    "hash": "1c46294cc87deaf0bae64afd11a530f1"
+}

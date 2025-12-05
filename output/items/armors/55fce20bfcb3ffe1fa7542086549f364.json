@@ -1,0 +1,17 @@
+{
+    "urlName": "2013-sun-warrior",
+    "url": "http://aqwwiki.wikidot.com/2013-sun-warrior",
+    "name": "2013 Sun Warrior",
+    "type": "armors",
+    "description": "This first sun of 2013 rises, heralding the dawn of a new year\u2026 and many more battles!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/2013-sun-warrior/2013SunWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/2013-sun-warrior/2013SunWarriorFemale.png"
+    ],
+    "hash": "55fce20bfcb3ffe1fa7542086549f364"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "void-guardian-armor",
+    "url": "http://aqwwiki.wikidot.com/void-guardian-armor",
+    "name": "Void Guardian (Armor)",
+    "type": "armors",
+    "description": "Deep in the heart of the Void live creatures that should NEVER enter our world! It's up to the Void Guardians to ensure our safety.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/EWa6EaB.png",
+        "http://i.imgur.com/iTcQgsY.png"
+    ],
+    "hash": "9c3528c342f040de2da0a0bb0d36a64b"
+}

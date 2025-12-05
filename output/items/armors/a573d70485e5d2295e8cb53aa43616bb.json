@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-legion-guard-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-legion-guard-ac",
+    "name": "Dark Legion Guard (AC)",
+    "type": "armors",
+    "description": "Dark Legion Guards can never leave their post. Ever.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-legion-guard-ac/DarkLegionGuard.png"
+    ],
+    "hash": "a573d70485e5d2295e8cb53aa43616bb"
+}

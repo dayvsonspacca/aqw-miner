@@ -1,0 +1,17 @@
+{
+    "urlName": "baron-sundae-armor",
+    "url": "http://aqwwiki.wikidot.com/baron-sundae-armor",
+    "name": "Baron Sundae Armor",
+    "type": "armors",
+    "description": "The deliciously menacing Baron Sundae with his magically sweet wares. Careful of the ice cream it might melt.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1beUpSU.png",
+        "https://i.imgur.com/PbnN9v4.png"
+    ],
+    "hash": "84f469cfd84292303cbeb3bd646195f2"
+}

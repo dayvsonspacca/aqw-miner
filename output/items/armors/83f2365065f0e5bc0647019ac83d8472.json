@@ -1,0 +1,17 @@
+{
+    "urlName": "lawful-good-hero",
+    "url": "http://aqwwiki.wikidot.com/lawful-good-hero",
+    "name": "Lawful Good Hero",
+    "type": "armors",
+    "description": "Lawful Good heroes will always be guided by what is right and just and fair. They are the saviors, and stand between the common people of Lore and the dark and deadly evils of the world.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/D7NMbGO.png",
+        "https://i.imgur.com/ZM0OG9W.png"
+    ],
+    "hash": "83f2365065f0e5bc0647019ac83d8472"
+}

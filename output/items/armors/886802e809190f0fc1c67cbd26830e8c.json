@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-sandknight",
+    "url": "http://aqwwiki.wikidot.com/celestial-sandknight",
+    "name": "Celestial Sandknight",
+    "type": "armors",
+    "description": "The Sandknights are those who devote themselves to the desert and all the life it supports. They maintain order in the lawless desert. Taking up the mantle, you now serve to protect all those who call the Sandsea home.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/celestial-sandknight/CelestialSandknightMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/celestial-sandknight/CelestialSandknightFemale.png"
+    ],
+    "hash": "886802e809190f0fc1c67cbd26830e8c"
+}

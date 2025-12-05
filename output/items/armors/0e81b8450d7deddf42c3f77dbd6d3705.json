@@ -1,0 +1,17 @@
+{
+    "urlName": "elegant-victorian-garb",
+    "url": "http://aqwwiki.wikidot.com/elegant-victorian-garb",
+    "name": "Elegant Victorian Garb",
+    "type": "armors",
+    "description": "What a SMASHING outfit! Fit for presentation at Court, if I do say so myself.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elegant-victorian-garb/ElegantVictorianGarbM.png",
+        "http://aqwwiki.wdfiles.com/local--files/elegant-victorian-garb/ElegantVictorianGarbF.png"
+    ],
+    "hash": "0e81b8450d7deddf42c3f77dbd6d3705"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "justicar",
+    "url": "http://aqwwiki.wikidot.com/justicar",
+    "name": "Justicar",
+    "type": "armors",
+    "description": "The Justicars of Doomwood ensure that justice is received by ALL who seek it!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/justicar/JusticarM.png",
+        "http://aqwwiki.wdfiles.com/local--files/justicar/JusticarF.png"
+    ],
+    "hash": "62d368e52e3f786cc79b30ab041f693d"
+}

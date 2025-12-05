@@ -1,0 +1,17 @@
+{
+    "urlName": "omega-pirate-armor",
+    "url": "http://aqwwiki.wikidot.com/omega-pirate-armor",
+    "name": "Omega Pirate (Armor)",
+    "type": "armors",
+    "description": "During Omega testing, infamous skypirate Captain Rhubarb will accidentally change everyone's name to his own. This armor predicts that day.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/omega-pirate-armor/OmegaPirateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/omega-pirate-armor/OmegaPirateF.png"
+    ],
+    "hash": "a9a6df82d29a99ec564de9fe4d083bb2"
+}

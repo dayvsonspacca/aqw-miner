@@ -1,0 +1,16 @@
+{
+    "urlName": "blaze-binder-armor",
+    "url": "http://aqwwiki.wikidot.com/blaze-binder-armor",
+    "name": "Blaze Binder Armor",
+    "type": "armors",
+    "description": "Blazebinder is the number 1 tier-2 powerhouse that's ready to leave some third-degree burns.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/yIrEyCI.png",
+        "http://i.imgur.com/AXOlilU.png"
+    ],
+    "hash": "b7e6cf2ba4ee1b4d929785931aafb70a"
+}

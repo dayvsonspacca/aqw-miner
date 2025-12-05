@@ -1,0 +1,17 @@
+{
+    "urlName": "netherworld-comedian",
+    "url": "http://aqwwiki.wikidot.com/netherworld-comedian",
+    "name": "Netherworld Comedian",
+    "type": "armors",
+    "description": "The Nether's least favorite surprise celebrity guest. Even thinking about their name too much invites their grody jokes in.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JjbTYbi.png",
+        "https://i.imgur.com/HCwLFnV.png"
+    ],
+    "hash": "9779a2a5cff615411bccf10481fc44d2"
+}

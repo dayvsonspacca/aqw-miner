@@ -1,0 +1,16 @@
+{
+    "urlName": "the-dryad",
+    "url": "http://aqwwiki.wikidot.com/the-dryad",
+    "name": "The Dryad",
+    "type": "armors",
+    "description": "As tree nymph, The Dryad is able to communicate with the spirits of the forest. As the forest's protecter, The Dryad will do whatever it takes to stop anyone from harming her home.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-dryad/TheDryad.png"
+    ],
+    "hash": "954f76117c432ce81164e4e5e5e683e6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "universe-armor",
+    "url": "http://aqwwiki.wikidot.com/universe-armor",
+    "name": "Universe Armor",
+    "type": "armors",
+    "description": "When you equip this armor, you'll find it's easy to be kind to smaller men.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/universe-armor/UniverseArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/universe-armor/UniverseArmorF.png"
+    ],
+    "hash": "c2b15b2d0d5faed062306057193758a3"
+}

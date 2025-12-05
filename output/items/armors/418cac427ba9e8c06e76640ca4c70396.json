@@ -1,0 +1,16 @@
+{
+    "urlName": "platinum-pirate-mage",
+    "url": "http://aqwwiki.wikidot.com/platinum-pirate-mage",
+    "name": "Platinum Pirate Mage",
+    "type": "armors",
+    "description": "Pirates or privateers that practice magic in their daily lives fare slightly better out in the sea than those who do not. They carry elegant platinum tomes that contain every spell they need to effectively survive anything from raging storms to Kathool Adepts.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/B4TmYRV.png",
+        "http://i.imgur.com/puKTtB2.png"
+    ],
+    "hash": "418cac427ba9e8c06e76640ca4c70396"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-firestorm-knight",
+    "url": "http://aqwwiki.wikidot.com/golden-firestorm-knight",
+    "name": "Golden Firestorm Knight",
+    "type": "armors",
+    "description": "Firestorm Knights! Ready your breakfast and eat hearty\u2026 For tonight, we dine at Yulgars!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-firestorm-knight/GoldenFirestormKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-firestorm-knight/GoldenFirestormKnightF.png"
+    ],
+    "hash": "b0a05fbed8e843be6a379d2af664e60c"
+}

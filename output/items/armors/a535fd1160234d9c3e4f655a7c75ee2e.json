@@ -1,0 +1,17 @@
+{
+    "urlName": "galactic-battlemage-ac",
+    "url": "http://aqwwiki.wikidot.com/galactic-battlemage-ac",
+    "name": "Galactic BattleMage (AC)",
+    "type": "armors",
+    "description": "You've wandered the stars in search of new spells and fighting techniques. Your adventurers have made you a master of manipulating space and time. The future is yours!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/UByfrB0.png",
+        "https://i.imgur.com/L1FdhOq.png"
+    ],
+    "hash": "a535fd1160234d9c3e4f655a7c75ee2e"
+}

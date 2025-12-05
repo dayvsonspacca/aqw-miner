@@ -1,0 +1,15 @@
+{
+    "urlName": "battleon-destroyer",
+    "url": "http://aqwwiki.wikidot.com/battleon-destroyer",
+    "name": "BattleOn Destroyer",
+    "type": "armors",
+    "description": "BattleOn has seen much strife over the years. It has always persevered. Help destroy that record they've fought so hard to maintain.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/R9Gw62q.png",
+        "http://i.imgur.com/0UVTjQS.png",
+        "http://i.imgur.com/re8qm7v.png"
+    ],
+    "hash": "98c956114113c5840cf0ae491f798800"
+}

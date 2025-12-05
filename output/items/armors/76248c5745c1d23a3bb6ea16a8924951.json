@@ -1,0 +1,17 @@
+{
+    "urlName": "risk-taker",
+    "url": "http://aqwwiki.wikidot.com/risk-taker",
+    "name": "Risk Taker",
+    "type": "armors",
+    "description": "You feel an urge to make risky decisions while wearing this armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/4LJDe5M.png",
+        "https://imgur.com/xBalcFy.png"
+    ],
+    "hash": "76248c5745c1d23a3bb6ea16a8924951"
+}

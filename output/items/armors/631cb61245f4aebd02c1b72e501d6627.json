@@ -1,0 +1,18 @@
+{
+    "urlName": "celtic-destroyer",
+    "url": "http://aqwwiki.wikidot.com/celtic-destroyer",
+    "name": "Celtic Destroyer",
+    "type": "armors",
+    "description": "Strike fear into the hearts of your enemies as you rain destruction down upon them. Bloodcurdling cries and a stylish plaid kilt only up the intimidation factor.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/6IYf63I.png",
+        "http://i.imgur.com/LOLBZ0W.png"
+    ],
+    "hash": "631cb61245f4aebd02c1b72e501d6627"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "golden-gladiator",
+    "url": "http://aqwwiki.wikidot.com/golden-gladiator",
+    "name": "Golden Gladiator",
+    "type": "armors",
+    "description": "If intervening in important battles was an olympic sport, Golden Gladiators would win the gold meddle.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/Q5L1iPr.png",
+        "http://i.imgur.com/ZnnXxW1.png"
+    ],
+    "hash": "fbdf81ded825a80fe4b2ce89189fa3c6"
+}

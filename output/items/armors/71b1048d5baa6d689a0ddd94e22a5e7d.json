@@ -1,0 +1,18 @@
+{
+    "urlName": "midnight-archmage",
+    "url": "http://aqwwiki.wikidot.com/midnight-archmage",
+    "name": "Midnight Archmage",
+    "type": "armors",
+    "description": "Control the night, control the world!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/W778fTn.png",
+        "https://i.imgur.com/F601nTE.png",
+        "http://aqwwiki.wdfiles.com/local--files/midnight-archmage/MidnightArchmageFOld.png"
+    ],
+    "hash": "71b1048d5baa6d689a0ddd94e22a5e7d"
+}

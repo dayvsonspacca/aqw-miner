@@ -1,0 +1,14 @@
+{
+    "urlName": "battle-berserker",
+    "url": "http://aqwwiki.wikidot.com/battle-berserker",
+    "name": "Battle Berserker",
+    "type": "armors",
+    "description": "The Berserker is one of the most feared of all warriors. They romp through all enemies without a thought to their own welfare, taking down innumerable foes.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/sDhq2rv.png",
+        "https://i.imgur.com/RRJA2iR.png"
+    ],
+    "hash": "9c566a90149e3e13c553971c9fa40197"
+}

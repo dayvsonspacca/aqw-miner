@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-inbunche-legend",
+    "url": "http://aqwwiki.wikidot.com/shadow-inbunche-legend",
+    "name": "Shadow Inbunche (Legend)",
+    "type": "armors",
+    "description": "The Inbunche is a stange, horrific beast commonly found guarding the cave of warlocks and various dark magi. Although no one is sure where the Inbunche originated from, no one dares to ever find out.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gcc59kF.png",
+        "https://i.imgur.com/YR77pJv.png"
+    ],
+    "hash": "f29849f2d39218b8cf42acabb0ae93ea"
+}

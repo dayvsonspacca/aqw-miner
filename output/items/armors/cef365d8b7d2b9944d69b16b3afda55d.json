@@ -1,0 +1,18 @@
+{
+    "urlName": "paladin-highlord-armor",
+    "url": "http://aqwwiki.wikidot.com/paladin-highlord-armor",
+    "name": "Paladin Highlord Armor",
+    "type": "armors",
+    "description": "This is the armor of a leader of the Paladin Order. It shows not only rank and power but also shows the world your unshakable faith that the light will never be defeated by the darkness.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/3DU4W8E.png",
+        "https://i.imgur.com/zNtYwaE.png"
+    ],
+    "hash": "cef365d8b7d2b9944d69b16b3afda55d"
+}

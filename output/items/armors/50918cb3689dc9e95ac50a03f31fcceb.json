@@ -1,0 +1,15 @@
+{
+    "urlName": "bellhop-minion",
+    "url": "http://aqwwiki.wikidot.com/bellhop-minion",
+    "name": "Bellhop Minion",
+    "type": "armors",
+    "description": "Unless you can defeat my bellhops!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/ElgGw5W.png",
+        "http://i.imgur.com/NkLSajM.png",
+        "https://i.imgur.com/pfoSd7G.png"
+    ],
+    "hash": "50918cb3689dc9e95ac50a03f31fcceb"
+}

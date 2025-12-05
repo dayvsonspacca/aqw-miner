@@ -1,0 +1,17 @@
+{
+    "urlName": "pink-zombie-villager",
+    "url": "http://aqwwiki.wikidot.com/pink-zombie-villager",
+    "name": "Pink Zombie Villager",
+    "type": "armors",
+    "description": "Just because your an innocent bystandards in the Zombie War doesn't mean you can't look stunning while your dead.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pink-zombie-villager/PZVM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pink-zombie-villager/PZVF.png"
+    ],
+    "hash": "73ff8b68a5320ec6d651eb1b7ba2f548"
+}

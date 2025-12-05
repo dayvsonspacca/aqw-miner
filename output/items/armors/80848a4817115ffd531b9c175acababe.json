@@ -1,0 +1,19 @@
+{
+    "urlName": "lightcaster-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/lightcaster-armor-ac",
+    "name": "LightCaster (Armor) (AC)",
+    "type": "armors",
+    "description": "The Order of the LightCasters formed to support the Champion of Light, and need every mage available to fight the battle against Chaos!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightcaster-armor-ac/LightCasterMaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/lightcaster-armor-ac/LightCasterMaleA.png",
+        "http://aqwwiki.wdfiles.com/local--files/lightcaster-armor-ac/LightCasterFemaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/lightcaster-armor-ac/LightCasterFemaleA.png"
+    ],
+    "hash": "80848a4817115ffd531b9c175acababe"
+}

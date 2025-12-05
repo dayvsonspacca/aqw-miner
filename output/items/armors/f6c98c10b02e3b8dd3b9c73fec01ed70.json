@@ -1,0 +1,17 @@
+{
+    "urlName": "magmamancer",
+    "url": "http://aqwwiki.wikidot.com/magmamancer",
+    "name": "Magmamancer",
+    "type": "armors",
+    "description": "A specially trained mage who has seamlessly woven their knowledge of elemental earth magic and elemental fire magic together to control the molten rock flowing beneath the planet's crust.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/magmamancer/MagmamancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/magmamancer/MagmamancerF.png"
+    ],
+    "hash": "f6c98c10b02e3b8dd3b9c73fec01ed70"
+}

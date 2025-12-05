@@ -1,0 +1,16 @@
+{
+    "urlName": "daemon-kin-plate",
+    "url": "http://aqwwiki.wikidot.com/daemon-kin-plate",
+    "name": "Daemon Kin Plate",
+    "type": "armors",
+    "description": "You would not mess with someone who is wearing the Daemon Kin Horns if they were also wearing the Daemon Kin Plate! Smart thinking and design Hero Demon.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/OPSVPHp.png",
+        "http://i.imgur.com/evcWZ57.png"
+    ],
+    "hash": "09433a3a7987d642c9a7e952e3e5d288"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "pepto-spectro",
+    "url": "http://aqwwiki.wikidot.com/pepto-spectro",
+    "name": "Pepto Spectro",
+    "type": "armors",
+    "description": "This armor is like so totally pink, like radical man.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pepto-spectro/PeptoSpectroM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pepto-spectro/PeptoSpectroF.png"
+    ],
+    "hash": "6c14e39e087b660dbc965c0d0d580526"
+}

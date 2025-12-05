@@ -1,0 +1,17 @@
+{
+    "urlName": "samarian",
+    "url": "http://aqwwiki.wikidot.com/samarian",
+    "name": "Samarian",
+    "type": "armors",
+    "description": "Krom! These barbarians work as mercenaries and look to create their own kingdom. Their loyalties lie with no one but their own.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/8YNnuL9.png",
+        "https://i.imgur.com/aonwGNT.png",
+        "http://aqwwiki.wdfiles.com/local--files/samarian/SamarianFOld.png"
+    ],
+    "hash": "d7834d3e501ebd494edd9a7fc3a3c010"
+}

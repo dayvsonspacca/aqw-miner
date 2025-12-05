@@ -1,0 +1,18 @@
+{
+    "urlName": "terno-encantado",
+    "url": "http://aqwwiki.wikidot.com/terno-encantado",
+    "name": "Terno Encantado",
+    "type": "armors",
+    "description": "Todos na cidade v\u00e3o admir\u00e1-lo quando voc\u00ea usar isso. (Everyone in town will admire you when you wear this.) (This item is color customizable.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/J7xXypM.png",
+        "https://i.imgur.com/oqRpHfl.png"
+    ],
+    "hash": "31938347bdfe097b225f5878424073d2"
+}

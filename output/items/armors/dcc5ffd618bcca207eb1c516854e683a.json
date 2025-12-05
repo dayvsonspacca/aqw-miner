@@ -1,0 +1,18 @@
+{
+    "urlName": "pilgrim-warrior",
+    "url": "http://aqwwiki.wikidot.com/pilgrim-warrior",
+    "name": "Pilgrim Warrior",
+    "type": "armors",
+    "description": "Pilgrim Warriors defended their settlements fiercely. They have instilled this determination, and their armor, on you.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/PckrEj6.png",
+        "http://i.imgur.com/uvxIjf0.png"
+    ],
+    "hash": "dcc5ffd618bcca207eb1c516854e683a"
+}

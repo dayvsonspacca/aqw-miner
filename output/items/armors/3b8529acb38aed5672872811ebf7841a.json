@@ -1,0 +1,17 @@
+{
+    "urlName": "sand-golem",
+    "url": "http://aqwwiki.wikidot.com/sand-golem",
+    "name": "Sand Golem",
+    "type": "armors",
+    "description": "Formed from the essence of your dreams, the Sand Golem has come to life to inhabit your waking world.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/sM9uz1N.png",
+        "https://i.imgur.com/2bHwB8Q.png"
+    ],
+    "hash": "3b8529acb38aed5672872811ebf7841a"
+}

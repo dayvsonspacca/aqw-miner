@@ -1,0 +1,18 @@
+{
+    "urlName": "infernal-cyber-doomknight",
+    "url": "http://aqwwiki.wikidot.com/infernal-cyber-doomknight",
+    "name": "Infernal Cyber Doomknight",
+    "type": "armors",
+    "description": "Sometimes neon lighting and the microscopic cybernetics can cause a DoomKnight to become more threatening than they appear. The radiant bright colors are a subtle, but severe warning to one who is unfortunate enough to encounter them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/FdTJbgY.png",
+        "http://aqwwiki.wdfiles.com/local--files/infernal-cyber-doomknight/ICDKm.png",
+        "http://aqwwiki.wdfiles.com/local--files/infernal-cyber-doomknight/ICDKf.png"
+    ],
+    "hash": "8d4558350f7dbb4316b681f55f1a907d"
+}

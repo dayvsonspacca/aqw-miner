@@ -1,0 +1,16 @@
+{
+    "urlName": "nerdly-royalty",
+    "url": "http://aqwwiki.wikidot.com/nerdly-royalty",
+    "name": "Nerdly Royalty",
+    "type": "armors",
+    "description": "Wear the armor of Zach Storch to show your support for him as he competes to become King of the Nerds!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nerdly-royalty/NerdlyRoyaltyM.png",
+        "http://aqwwiki.wdfiles.com/local--files/nerdly-royalty/NerdlyRoyaltyF.png"
+    ],
+    "hash": "0e56629b48e5ea88dd03e358fe8ebcca"
+}

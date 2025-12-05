@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-leprechaun",
+    "url": "http://aqwwiki.wikidot.com/golden-leprechaun",
+    "name": "Golden Leprechaun",
+    "type": "armors",
+    "description": "Ye may not be a true Leprechaun there, lads and lassies but ye still be lucky today!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uWibLrZ.png",
+        "https://i.imgur.com/bX7eIIK.png"
+    ],
+    "hash": "695ec3da3fd5120e72adaa34a084d7e5"
+}

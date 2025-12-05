@@ -1,0 +1,18 @@
+{
+    "urlName": "the-ol-fishin-garb",
+    "url": "http://aqwwiki.wikidot.com/the-ol-fishin-garb",
+    "name": "The Ol Fishin' Garb",
+    "type": "armors",
+    "description": "How many fisherman do you see wearing a full suit of chain mail? I rest my case. Grab your Fishin' Rod and favorite hat and let's catch some grub!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ok5Jk1e.png",
+        "http://i.imgur.com/VdOxf4K.png"
+    ],
+    "hash": "9bfb567301b8655bfaf4782f59521cd1"
+}

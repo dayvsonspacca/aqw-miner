@@ -1,0 +1,16 @@
+{
+    "urlName": "noxus-psychophant",
+    "url": "http://aqwwiki.wikidot.com/noxus-psychophant",
+    "name": "Noxus Psychophant",
+    "type": "armors",
+    "description": "Of Noxus' students, only the most fanatical can be considered Psychophants. They've mastered everything their mentor had to offer, and secretly aim to take everything else he has for themselves.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/MXCSyU8.png",
+        "https://i.imgur.com/YQXMskC.png"
+    ],
+    "hash": "0ccb6e7356972b14a29a927218c57c83"
+}

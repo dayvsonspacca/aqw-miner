@@ -1,0 +1,16 @@
+{
+    "urlName": "paintbender-legend",
+    "url": "http://aqwwiki.wikidot.com/paintbender-legend",
+    "name": "PaintBender (Legend)",
+    "type": "armors",
+    "description": "As Firebenders animate the flames that burn around them, PaintBenders use the colors of the world around them to create new life from ideas only they can see.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/OQICioj.png",
+        "https://i.imgur.com/URDPfEw.png"
+    ],
+    "hash": "c8abc3f6fae96952ee705564b316c482"
+}

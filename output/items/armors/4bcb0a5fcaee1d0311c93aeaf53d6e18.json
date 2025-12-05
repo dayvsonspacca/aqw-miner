@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-destroyer",
+    "url": "http://aqwwiki.wikidot.com/glacial-destroyer",
+    "name": "Glacial Destroyer",
+    "type": "armors",
+    "description": "We shall make angels in the snow and use the icy coldness as our armor!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glacial-destroyer/GlacialDestroyerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/glacial-destroyer/GlacialDestroyerF.png"
+    ],
+    "hash": "4bcb0a5fcaee1d0311c93aeaf53d6e18"
+}

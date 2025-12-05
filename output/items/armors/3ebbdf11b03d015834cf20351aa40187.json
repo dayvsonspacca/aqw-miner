@@ -1,0 +1,16 @@
+{
+    "urlName": "magma-protector",
+    "url": "http://aqwwiki.wikidot.com/magma-protector",
+    "name": "Magma Protector",
+    "type": "armors",
+    "description": "\u201cForged from fire and fury, those righteous in the sight of the Frozen Flame will rise up and banish the darkness with the light of their blaze.\u201d \u2013 Ancient Fotian Chant",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/s49gowK.png",
+        "https://i.imgur.com/mJXyPEF.png"
+    ],
+    "hash": "3ebbdf11b03d015834cf20351aa40187"
+}

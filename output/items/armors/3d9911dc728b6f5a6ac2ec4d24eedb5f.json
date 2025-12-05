@@ -1,0 +1,16 @@
+{
+    "urlName": "thin-guy",
+    "url": "http://aqwwiki.wikidot.com/thin-guy",
+    "name": "Thin Guy",
+    "type": "armors",
+    "description": "The notes are a trick, you know. No matter what you do, he takes you.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/kpHdMxD.png",
+        "http://i.imgur.com/PJKYbmz.png"
+    ],
+    "hash": "3d9911dc728b6f5a6ac2ec4d24eedb5f"
+}

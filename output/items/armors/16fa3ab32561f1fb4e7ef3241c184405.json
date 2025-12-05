@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-warrior-armor-1",
+    "url": "http://aqwwiki.wikidot.com/golden-warrior-armor-1",
+    "name": "Golden Warrior (Armor) (1)",
+    "type": "armors",
+    "description": "These warriors are merciless guardians and wielders of light. Evil and Good alike must beware their wrath!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-warrior-armor-1/GoldenWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-warrior-armor-1/GoldenWarriorF.png"
+    ],
+    "hash": "16fa3ab32561f1fb4e7ef3241c184405"
+}

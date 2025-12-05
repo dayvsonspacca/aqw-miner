@@ -1,0 +1,17 @@
+{
+    "urlName": "2082-armor",
+    "url": "http://aqwwiki.wikidot.com/2082-armor",
+    "name": "2082 Armor",
+    "type": "armors",
+    "description": "In space, no one can hear you scream, but when you equip this armor, the monsters you face will running away shrieking in fear!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/2082-armor/2082ArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/2082-armor/2082ArmorFemale.png"
+    ],
+    "hash": "3162755e7cbd80cbae492cb8ceff70c8"
+}

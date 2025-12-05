@@ -1,0 +1,17 @@
+{
+    "urlName": "amazon-warrior",
+    "url": "http://aqwwiki.wikidot.com/amazon-warrior",
+    "name": "Amazon Warrior",
+    "type": "armors",
+    "description": "It's a jungle out there, and one of the best weapons to help you in battle is knowledge of your enemy! Study their tactics, learn their movements, and stories will be written about your victories for centuries to come!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/bAgbKSu.png",
+        "http://i.imgur.com/ZDWQwpM.png"
+    ],
+    "hash": "f73483e58784d015fd1c8c0df5b32c56"
+}

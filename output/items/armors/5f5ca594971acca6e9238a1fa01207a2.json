@@ -1,0 +1,17 @@
+{
+    "urlName": "roaming-spacer",
+    "url": "http://aqwwiki.wikidot.com/roaming-spacer",
+    "name": "Roaming Spacer",
+    "type": "armors",
+    "description": "Surely you've heard of me.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/roaming-spacer/RoamingSpacerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/roaming-spacer/RoamingSpacerF.png"
+    ],
+    "hash": "5f5ca594971acca6e9238a1fa01207a2"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "horc-deathmonger",
+    "url": "http://aqwwiki.wikidot.com/horc-deathmonger",
+    "name": "Horc Deathmonger",
+    "type": "armors",
+    "description": "Horc Deathmongers show no mercy. The Horcs' unforgiving and ruthless fighting style dominate the battlefield while being protected with intricate battle armor forged from obsidian stone.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/horc-deathmonger/HorcDeathmongerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/horc-deathmonger/HorcDeathmongerF.png"
+    ],
+    "hash": "c3c841f6666915fbf5861fea0882b2c1"
+}

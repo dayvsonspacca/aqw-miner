@@ -1,0 +1,17 @@
+{
+    "urlName": "aegis-of-the-golden-garuda",
+    "url": "http://aqwwiki.wikidot.com/aegis-of-the-golden-garuda",
+    "name": "Aegis of the Golden Garuda",
+    "type": "armors",
+    "description": "Clad in gilded armor inspired by the mighty Garuda, you stand as a living emblem of courage, pride, and unity.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/R8IJiF8.png",
+        "https://i.imgur.com/CsGDlIr.png"
+    ],
+    "hash": "df3250658718c25727ce8a8f72d3beb1"
+}

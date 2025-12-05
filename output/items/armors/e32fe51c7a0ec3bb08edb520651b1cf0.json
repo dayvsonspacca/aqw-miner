@@ -1,0 +1,16 @@
+{
+    "urlName": "jus-divinum-lieutenant",
+    "url": "http://aqwwiki.wikidot.com/jus-divinum-lieutenant",
+    "name": "Jus Divinum Lieutenant",
+    "type": "armors",
+    "description": "Once a member of the secretive Jus Divinum Order has proven their valor in battle and their tactical prowess in the war-room, they may be promoted to the rank of Lieutenant.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/nKyihAV.png",
+        "https://i.imgur.com/iD39oww.png"
+    ],
+    "hash": "e32fe51c7a0ec3bb08edb520651b1cf0"
+}

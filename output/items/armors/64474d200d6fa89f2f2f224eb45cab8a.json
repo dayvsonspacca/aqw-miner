@@ -1,0 +1,16 @@
+{
+    "urlName": "acolyte-armor",
+    "url": "http://aqwwiki.wikidot.com/acolyte-armor",
+    "name": "Acolyte Armor",
+    "type": "armors",
+    "description": "Healer base upgrade!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/iH9n44M.png",
+        "http://i.imgur.com/BleLWPE.png"
+    ],
+    "hash": "64474d200d6fa89f2f2f224eb45cab8a"
+}

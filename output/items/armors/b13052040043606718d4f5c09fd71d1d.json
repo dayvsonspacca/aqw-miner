@@ -1,0 +1,16 @@
+{
+    "urlName": "leonine-storm",
+    "url": "http://aqwwiki.wikidot.com/leonine-storm",
+    "name": "Leonine Storm",
+    "type": "armors",
+    "description": "Lions rage and lions roar as the storm breaks overhead! Join them in screaming your defiance of nature!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/opLsaxM.png",
+        "https://i.imgur.com/k4RQ4hS.png"
+    ],
+    "hash": "b13052040043606718d4f5c09fd71d1d"
+}

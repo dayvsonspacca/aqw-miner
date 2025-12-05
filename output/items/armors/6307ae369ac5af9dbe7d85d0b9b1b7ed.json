@@ -1,0 +1,17 @@
+{
+    "urlName": "onyx-cleric-of-time",
+    "url": "http://aqwwiki.wikidot.com/onyx-cleric-of-time",
+    "name": "Onyx Cleric Of Time",
+    "type": "armors",
+    "description": "It's said \"Time heals all wounds\", wise words for a Cleric.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/onyx-cleric-of-time/OnyxClericOfTimeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/onyx-cleric-of-time/OnyxClericOfTimeF.png"
+    ],
+    "hash": "6307ae369ac5af9dbe7d85d0b9b1b7ed"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "ceremonial-legion-armor-legend",
+    "url": "http://aqwwiki.wikidot.com/ceremonial-legion-armor-legend",
+    "name": "Ceremonial Legion Armor (Legend)",
+    "type": "armors",
+    "description": "The reflecting light that brightens the metallic silver that comprises this regal suit acts as a mirror, but what it reveals cannot be seen in plain mind, but rather by a sharp minded subconscious.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ceremonial-legion-armor-legend/CeremonialLegion.png"
+    ],
+    "hash": "5e35e2cfcf83c335357942c1e53005b0"
+}

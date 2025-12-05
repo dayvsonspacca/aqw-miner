@@ -1,0 +1,16 @@
+{
+    "urlName": "teen-slasher",
+    "url": "http://aqwwiki.wikidot.com/teen-slasher",
+    "name": "Teen Slasher",
+    "type": "armors",
+    "description": "Sometimes you have to turn the tables on the monsters.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/ZjLMQdI.png",
+        "https://imgur.com/aI0kFgh.png"
+    ],
+    "hash": "c7318d51aebf8e94e667364575f50761"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "aero-armor",
+    "url": "http://aqwwiki.wikidot.com/aero-armor",
+    "name": "Aero Armor",
+    "type": "armors",
+    "description": "Worn by the High Command's body guards, this armor was made from the finest minerals found in the clouds!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/VvfMWCK.png",
+        "http://i.imgur.com/mJvwGyf.png"
+    ],
+    "hash": "ef30af4c3a6dc3b3052665883022c641"
+}

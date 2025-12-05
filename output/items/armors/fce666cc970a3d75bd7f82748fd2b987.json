@@ -1,0 +1,17 @@
+{
+    "urlName": "moglitech-ac",
+    "url": "http://aqwwiki.wikidot.com/moglitech-ac",
+    "name": "MogliTech (AC)",
+    "type": "armors",
+    "description": "Battlenator 7: Rise of the MOGBOTs.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/xDd8oVw.png",
+        "https://i.imgur.com/Y29hZp8.png"
+    ],
+    "hash": "fce666cc970a3d75bd7f82748fd2b987"
+}

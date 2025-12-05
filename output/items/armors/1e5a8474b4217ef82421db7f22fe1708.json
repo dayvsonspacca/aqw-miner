@@ -1,0 +1,17 @@
+{
+    "urlName": "sandstalker-armor",
+    "url": "http://aqwwiki.wikidot.com/sandstalker-armor",
+    "name": "SandStalker (Armor)",
+    "type": "armors",
+    "description": "Become one of the SandStalkers \u2013 ferocious warriors of the Desert.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sandstalker-armor/SSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sandstalker-armor/SSF.png"
+    ],
+    "hash": "1e5a8474b4217ef82421db7f22fe1708"
+}

@@ -1,0 +1,20 @@
+{
+    "urlName": "heretic",
+    "url": "http://aqwwiki.wikidot.com/heretic",
+    "name": "Heretic",
+    "type": "armors",
+    "description": "Because of your strength and power, most of lore views you as a threat. Can you convince them you are fighting FOR them, and not against them?",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/heretic/HereticM.png",
+        "http://aqwwiki.wdfiles.com/local--files/heretic/HereticMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/heretic/HereticF.png",
+        "http://aqwwiki.wdfiles.com/local--files/heretic/HereticFO.png"
+    ],
+    "hash": "a6a71c0ada5bc20c0ab70a99ac686ffb"
+}

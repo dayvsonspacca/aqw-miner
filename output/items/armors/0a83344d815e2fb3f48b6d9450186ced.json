@@ -1,0 +1,17 @@
+{
+    "urlName": "larosa-toga",
+    "url": "http://aqwwiki.wikidot.com/larosa-toga",
+    "name": "LaRosa Toga",
+    "type": "armors",
+    "description": "This isn't madness, this is PINKNESS!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/larosa-toga/LaRosaTogaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/larosa-toga/LaRosaTogaF.png"
+    ],
+    "hash": "0a83344d815e2fb3f48b6d9450186ced"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "water-ring",
+    "url": "http://aqwwiki.wikidot.com/water-ring",
+    "name": "Water Ring",
+    "type": "armors",
+    "description": "Make a splash on the battlefield! Wash away those horrendous heathens and drown your enemies with a torrential downpour of power!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/water-ring/WaterRingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/water-ring/WaterRingF.png"
+    ],
+    "hash": "f0f64851def5e1e1c845abf851d17538"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "top-speed-racer",
+    "url": "http://aqwwiki.wikidot.com/top-speed-racer",
+    "name": "Top Speed Racer",
+    "type": "armors",
+    "description": "You're on a ride that packs a hundred horsepower, and takes up way less space than a stable.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/agGdH8m.png",
+        "https://i.imgur.com/K8EyeSg.png"
+    ],
+    "hash": "93ace289770477eae79bc362c061b2d9"
+}

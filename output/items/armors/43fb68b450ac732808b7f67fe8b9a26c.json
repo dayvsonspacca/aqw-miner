@@ -1,0 +1,17 @@
+{
+    "urlName": "northlands-defender",
+    "url": "http://aqwwiki.wikidot.com/northlands-defender",
+    "name": "Northlands Defender",
+    "type": "armors",
+    "description": "A breed of crystalline ice elemental golems that oftentimes keep to themselves, but anytime rising temperatures threaten the Northlands, they band together to keep their region's temperatures freezing but refreshing.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5FTvGzk.png",
+        "https://i.imgur.com/CnMErq9.png"
+    ],
+    "hash": "43fb68b450ac732808b7f67fe8b9a26c"
+}

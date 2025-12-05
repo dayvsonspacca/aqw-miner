@@ -1,0 +1,19 @@
+{
+    "urlName": "holiday-jester",
+    "url": "http://aqwwiki.wikidot.com/holiday-jester",
+    "name": "Holiday Jester",
+    "type": "armors",
+    "description": "Happy Frostval! Now you can jingle while you battle!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Vzyf5y0.png",
+        "http://i.imgur.com/x0Mzh5P.png",
+        "http://aqwwiki.wdfiles.com/local--files/holiday-jester/HolidayJesterMaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/holiday-jester/HolidayJesterFemaleOld.png"
+    ],
+    "hash": "b8d763c36f971d759e2a6d3f3cb62064"
+}

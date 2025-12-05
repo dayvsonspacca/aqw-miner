@@ -1,0 +1,17 @@
+{
+    "urlName": "the-judged",
+    "url": "http://aqwwiki.wikidot.com/the-judged",
+    "name": "The Judged",
+    "type": "armors",
+    "description": "The three judges of the underworld have been at their posts for quite some time. The underworld is ridden with those who have come up short in their eyes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-judged/TheJudgedM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-judged/TheJudgedF.png"
+    ],
+    "hash": "c71787c2713b2d9f3ede7ff66622ac45"
+}

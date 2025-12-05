@@ -1,0 +1,16 @@
+{
+    "urlName": "flamethrower-suit",
+    "url": "http://aqwwiki.wikidot.com/flamethrower-suit",
+    "name": "FlameThrower Suit",
+    "type": "armors",
+    "description": "If you can't stand the heat, then suit up and walk right in guns blazing!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/rZ09rkG.png",
+        "http://i.imgur.com/PqC9h4r.png"
+    ],
+    "hash": "a3e2d20d94367613aa51f8672cdf9054"
+}

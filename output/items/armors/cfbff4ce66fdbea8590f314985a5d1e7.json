@@ -1,0 +1,17 @@
+{
+    "urlName": "elegant-werewolf-armor",
+    "url": "http://aqwwiki.wikidot.com/elegant-werewolf-armor",
+    "name": "Elegant Werewolf Armor",
+    "type": "armors",
+    "description": "I just hope you didn't have to lick your coat to keep it looking prim and proper.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elegant-werewolf-armor/ElegantWerewolfArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/elegant-werewolf-armor/ElegantWerewolfArmorF.png"
+    ],
+    "hash": "cfbff4ce66fdbea8590f314985a5d1e7"
+}

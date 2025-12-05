@@ -1,0 +1,17 @@
+{
+    "urlName": "the-dark-sun",
+    "url": "http://aqwwiki.wikidot.com/the-dark-sun",
+    "name": "The Dark Sun",
+    "type": "armors",
+    "description": "Though the sun gives strength and vitality to most, there are those who wish to harness its power for pure evil!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-dark-sun/TheDarkSunM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-dark-sun/TheDarkSunF.png"
+    ],
+    "hash": "f721d8181ebc25969a6d766f3563205f"
+}

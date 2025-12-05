@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-druid-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-druid-armor",
+    "name": "Dark Druid Armor",
+    "type": "armors",
+    "description": "For every living animal in the forest, there are hundreds of animals that are dead and gone. The Dark Druids commune with and even command these undead creatures.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-druid-armor/DarkDruidArmor.png"
+    ],
+    "hash": "b8e91327dab43555495a87d8dc84660b"
+}

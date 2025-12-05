@@ -1,0 +1,17 @@
+{
+    "urlName": "yokai-jutsu-summoner",
+    "url": "http://aqwwiki.wikidot.com/yokai-jutsu-summoner",
+    "name": "Yokai Jutsu Summoner",
+    "type": "armors",
+    "description": "A Yokai Summoner most be careful when using their power. Spirits may look harmless at times but only an experienced Summoner may exorcise them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fsmAHor.png",
+        "https://i.imgur.com/wiCnzBF.png"
+    ],
+    "hash": "676c8f03243422c99754c76597428b17"
+}

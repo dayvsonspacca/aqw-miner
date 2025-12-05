@@ -1,0 +1,16 @@
+{
+    "urlName": "hobo-highlord-armor",
+    "url": "http://aqwwiki.wikidot.com/hobo-highlord-armor",
+    "name": "Hobo Highlord (Armor)",
+    "type": "armors",
+    "description": "Comes with a sign that says ''Will work for souls''.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JaLFnNw.png",
+        "https://i.imgur.com/YTAqTMH.png"
+    ],
+    "hash": "59fb3643d70a375b96bf6bc4d036fe05"
+}

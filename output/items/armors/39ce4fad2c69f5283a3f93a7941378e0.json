@@ -1,0 +1,19 @@
+{
+    "urlName": "ultimate-adventurecoin-armor",
+    "url": "http://aqwwiki.wikidot.com/ultimate-adventurecoin-armor",
+    "name": "Ultimate AdventureCoin Armor",
+    "type": "armors",
+    "description": "This item, featuring the AdventureCoin symbol, will show the world that you have supported AdventureQuest Worlds. With your help, we are able to make AQWorlds free for all heroes to play!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/VK7gtoN.png",
+        "https://i.imgur.com/t6v6B2k.png",
+        "https://i.imgur.com/mvhPgk4.png",
+        "https://i.imgur.com/i2gho8P.png"
+    ],
+    "hash": "39ce4fad2c69f5283a3f93a7941378e0"
+}

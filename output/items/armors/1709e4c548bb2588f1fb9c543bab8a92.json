@@ -1,0 +1,17 @@
+{
+    "urlName": "pinkites-symbiote",
+    "url": "http://aqwwiki.wikidot.com/pinkites-symbiote",
+    "name": "Pinkites Symbiote",
+    "type": "armors",
+    "description": "A fashion statement to some; a death sentence to others. Only those brave enough to accept the awesomeness of PINK may heed the call of the Pinkites.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pinkites-symbiote/PinkitesSymbioteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pinkites-symbiote/PinkitesSymbioteF.png"
+    ],
+    "hash": "1709e4c548bb2588f1fb9c543bab8a92"
+}

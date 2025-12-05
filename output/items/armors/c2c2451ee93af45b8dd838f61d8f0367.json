@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-symbiote",
+    "url": "http://aqwwiki.wikidot.com/celestial-symbiote",
+    "name": "Celestial Symbiote",
+    "type": "armors",
+    "description": "The Bright One has taken a mortal body, and planted a Celestial seed in their chest. It fills them with ethereal light and a great purpose.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EEMeb2j.png",
+        "https://i.imgur.com/EO8DgFx.png"
+    ],
+    "hash": "c2c2451ee93af45b8dd838f61d8f0367"
+}

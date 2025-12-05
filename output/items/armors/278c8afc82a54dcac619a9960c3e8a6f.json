@@ -1,0 +1,16 @@
+{
+    "urlName": "blazerun-tank",
+    "url": "http://aqwwiki.wikidot.com/blazerun-tank",
+    "name": "Blazerun Tank",
+    "type": "armors",
+    "description": "Enough fury to fuel a furnace. ERUPT in a fiery rage no creature can forget!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/ygVLH1g.png",
+        "http://i.imgur.com/sq7JcVw.png"
+    ],
+    "hash": "278c8afc82a54dcac619a9960c3e8a6f"
+}

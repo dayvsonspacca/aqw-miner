@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-cryptic",
+    "url": "http://aqwwiki.wikidot.com/enchanted-cryptic",
+    "name": "Enchanted Cryptic",
+    "type": "armors",
+    "description": "Cryptics are Atealan illusionists whose minds are their most powerful weapons. The only limit to their abilities is their imagination.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/TCGzRJs.png",
+        "https://i.imgur.com/kVPpttk.png"
+    ],
+    "hash": "a6df5ec49909c5553be138fa7022b618"
+}

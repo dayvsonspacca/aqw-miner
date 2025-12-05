@@ -1,0 +1,17 @@
+{
+    "urlName": "titan-slayer",
+    "url": "http://aqwwiki.wikidot.com/titan-slayer",
+    "name": "Titan Slayer",
+    "type": "armors",
+    "description": "Titans will lay down their arms upon seeing you. Giants will fall before you. The Destroyer of Worlds will tremble at your approach. You ARE the TitanSlayer.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/titan-slayer/TitanSlayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/titan-slayer/TitanSlayerF.png"
+    ],
+    "hash": "ab9fc7363bf7f628babfbdeb389ac1fb"
+}

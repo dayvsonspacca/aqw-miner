@@ -1,0 +1,17 @@
+{
+    "urlName": "techtronic-biker-ac",
+    "url": "http://aqwwiki.wikidot.com/techtronic-biker-ac",
+    "name": "Techtronic Biker (AC)",
+    "type": "armors",
+    "description": "They haven't built a circuit that could hold you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/techtronic-biker-ac/TechtronicBikerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/techtronic-biker-ac/TechtronicBikerF.png"
+    ],
+    "hash": "c10939ac4797f1bbc46de1ffef239356"
+}

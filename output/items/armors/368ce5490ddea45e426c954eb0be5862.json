@@ -1,0 +1,17 @@
+{
+    "urlName": "first-mate-1",
+    "url": "http://aqwwiki.wikidot.com/first-mate-1",
+    "name": "First Mate (1)",
+    "type": "armors",
+    "description": "Aye as the Cap'n second in command ye better have yer ship ready for sailin'",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ccoyiEN.png",
+        "https://i.imgur.com/GfnXb8D.png"
+    ],
+    "hash": "368ce5490ddea45e426c954eb0be5862"
+}

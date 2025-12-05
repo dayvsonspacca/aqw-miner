@@ -1,0 +1,17 @@
+{
+    "urlName": "barong-outfit",
+    "url": "http://aqwwiki.wikidot.com/barong-outfit",
+    "name": "Barong Outfit",
+    "type": "armors",
+    "description": "Maligayang Araw ng Kalayaan sa lahat ng manlalaro sa Pilipinas.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/zfSY6g3.png",
+        "https://i.imgur.com/1H3qkcy.png"
+    ],
+    "hash": "f3e675ac0870bab3db2f867ccf633f2e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "honorbound-darkblood",
+    "url": "http://aqwwiki.wikidot.com/honorbound-darkblood",
+    "name": "Honorbound Darkblood",
+    "type": "armors",
+    "description": "Bound by the truth. Bound by the righteous. Bound by honor. They fight for Lore. Parts of this armor are color custom.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/honorbound-darkblood/HonorboundDarkbloodM.png",
+        "http://aqwwiki.wdfiles.com/local--files/honorbound-darkblood/HonorboundDarkbloodF.png"
+    ],
+    "hash": "8837145f0d35b3208325a0008417ab13"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "master-phoenix-hunter",
+    "url": "http://aqwwiki.wikidot.com/master-phoenix-hunter",
+    "name": "Master Phoenix Hunter",
+    "type": "armors",
+    "description": "Horc's give Hero armor for helping. Free and Strong. Do not taint it with Troll stink.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/kqkxLzp.png",
+        "http://i.imgur.com/DYK1qHC.png"
+    ],
+    "hash": "df3a97156111b2c25519778f127c7173"
+}

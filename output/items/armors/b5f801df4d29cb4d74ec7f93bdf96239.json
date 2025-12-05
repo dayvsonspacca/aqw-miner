@@ -1,0 +1,19 @@
+{
+    "urlName": "gilded-bounty-hunter",
+    "url": "http://aqwwiki.wikidot.com/gilded-bounty-hunter",
+    "name": "Gilded Bounty Hunter",
+    "type": "armors",
+    "description": "The real wild west is out in Doomwood and Darkovia, where silver's a need instead of a luxury. These gunslingers ride after the dead, with the dead, until they're dead.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/UyXprKM.png",
+        "https://i.imgur.com/c1DsR8f.png",
+        "https://i.imgur.com/Y440fli.png",
+        "https://i.imgur.com/1BjZSXh.png"
+    ],
+    "hash": "b5f801df4d29cb4d74ec7f93bdf96239"
+}

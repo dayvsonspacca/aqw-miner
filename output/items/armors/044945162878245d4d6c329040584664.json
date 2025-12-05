@@ -1,0 +1,16 @@
+{
+    "urlName": "sage-armor",
+    "url": "http://aqwwiki.wikidot.com/sage-armor",
+    "name": "Sage Armor",
+    "type": "armors",
+    "description": "Threads that have recreated from samples obtained from the Lore of Adventure Quest. A color customizable robe, this outfit was once worn by Sage Uldor, a blind swindler whose tactics and treachery are infamous throughout the Lore of AQ.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/db8IU2u.png",
+        "http://i.imgur.com/3EBCqYf.png"
+    ],
+    "hash": "044945162878245d4d6c329040584664"
+}

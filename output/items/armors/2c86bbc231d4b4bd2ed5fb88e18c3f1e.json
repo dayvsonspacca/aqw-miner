@@ -1,0 +1,18 @@
+{
+    "urlName": "lord-of-bones",
+    "url": "http://aqwwiki.wikidot.com/lord-of-bones",
+    "name": "Lord of Bones",
+    "type": "armors",
+    "description": "Crafted by barbarians from darkened minerals as cold as ice, Dage provided countless shadow elementals these old armors to give them a physical form and to use them to chase after \"special\" targets.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lord-of-bones/LBm.png",
+        "http://aqwwiki.wdfiles.com/local--files/lord-of-bones/LBf.png"
+    ],
+    "hash": "2c86bbc231d4b4bd2ed5fb88e18c3f1e"
+}

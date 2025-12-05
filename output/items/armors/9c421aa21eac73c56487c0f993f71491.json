@@ -1,0 +1,17 @@
+{
+    "urlName": "wolfslayer-frostlorn-rogue",
+    "url": "http://aqwwiki.wikidot.com/wolfslayer-frostlorn-rogue",
+    "name": "Wolfslayer Frostlorn Rogue",
+    "type": "armors",
+    "description": "The half-wrap and hip armor of the Frostlorn Rogue are worked into the hearty arctic wolf leather.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/leVoonZ.png",
+        "https://imgur.com/ae2frmH.png"
+    ],
+    "hash": "9c421aa21eac73c56487c0f993f71491"
+}

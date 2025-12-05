@@ -1,0 +1,17 @@
+{
+    "urlName": "holiday-caster",
+    "url": "http://aqwwiki.wikidot.com/holiday-caster",
+    "name": "Holiday Caster",
+    "type": "armors",
+    "description": "Frostval is the most magical time of the year. Harness that power and put it to good use!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://imgur.com/50qcqA2.png",
+        "https://i.imgur.com/avgHVU4.png"
+    ],
+    "hash": "adfc0a0a7f8db2f6837391bdceb87177"
+}

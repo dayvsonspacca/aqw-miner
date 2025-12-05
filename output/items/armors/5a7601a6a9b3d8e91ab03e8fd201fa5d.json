@@ -1,0 +1,16 @@
+{
+    "urlName": "martial-artist-armor",
+    "url": "http://aqwwiki.wikidot.com/martial-artist-armor",
+    "name": "Martial Artist Armor",
+    "type": "armors",
+    "description": "A master of the martial arts, whose punches and kicks fly with the force of the land's greatest beasts. They drift across land and sea, honing their skills to perfection, and bow to no one but their own code of honor.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/RjfHPrz.png",
+        "https://i.imgur.com/hAGfh18.png"
+    ],
+    "hash": "5a7601a6a9b3d8e91ab03e8fd201fa5d"
+}

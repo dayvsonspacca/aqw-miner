@@ -1,0 +1,16 @@
+{
+    "urlName": "carnival-worker",
+    "url": "http://aqwwiki.wikidot.com/carnival-worker",
+    "name": "Carnival Worker",
+    "type": "armors",
+    "description": "Not only do you look super flashy and colorful. But you feel pretty. Pretty ready to stab any monsters that even sneeze wrong at you. See these bedazzled fists? Yeah. I'm coming for you, random sneezy monster.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/2gqrChQ.png",
+        "http://i.imgur.com/ApnMPPM.png"
+    ],
+    "hash": "d560812af0913cec38305c1c50639357"
+}

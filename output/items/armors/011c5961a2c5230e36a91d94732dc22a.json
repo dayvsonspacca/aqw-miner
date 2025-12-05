@@ -1,0 +1,17 @@
+{
+    "urlName": "fire-lord",
+    "url": "http://aqwwiki.wikidot.com/fire-lord",
+    "name": "Fire Lord",
+    "type": "armors",
+    "description": "If everything is catching fire right at your fingertips,then chances are you might be a Fire Lord. Fire it Up\u2014and burn it down!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fire-lord/FireLordM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fire-lord/FireLordF.png"
+    ],
+    "hash": "011c5961a2c5230e36a91d94732dc22a"
+}

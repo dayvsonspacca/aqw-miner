@@ -1,0 +1,16 @@
+{
+    "urlName": "rouge-armor",
+    "url": "http://aqwwiki.wikidot.com/rouge-armor",
+    "name": "Rouge Armor",
+    "type": "armors",
+    "description": "\"Rouge\" Definition: any of various red cosmetics for coloring the cheeks or lips",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rouge-armor/RougeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/rouge-armor/RougeF.png"
+    ],
+    "hash": "211ff6cd33134c10c36a3c2ca8bb2884"
+}

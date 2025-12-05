@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-astravian-soldier",
+    "url": "http://aqwwiki.wikidot.com/dark-astravian-soldier",
+    "name": "Dark Astravian Soldier",
+    "type": "armors",
+    "description": "The only way an aspiring Astravian can get closer to the stars is by joining the army. They start as a lowly foot soldier, but as their martial powers grow, so do their egos.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/AfUeoUe.png",
+        "https://imgur.com/i70GeCA.png"
+    ],
+    "hash": "f7fc2620d066c0edbe9888a11b4e11b9"
+}

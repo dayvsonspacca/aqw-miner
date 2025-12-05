@@ -1,0 +1,16 @@
+{
+    "urlName": "pink-data-runner",
+    "url": "http://aqwwiki.wikidot.com/pink-data-runner",
+    "name": "Pink Data Runner",
+    "type": "armors",
+    "description": "This sleek elec-Tron-ic suits screams fashion even in the brutalist brawls. Slay both enemies and critics around you! (Suggested by Envy)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pink-data-runner/PinkDataRunnerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pink-data-runner/PinkDataRunnerF.png"
+    ],
+    "hash": "516a1deaa3cb457f328ebfa53b28d485"
+}

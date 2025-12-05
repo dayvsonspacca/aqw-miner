@@ -1,0 +1,18 @@
+{
+    "urlName": "witch-armor-armor",
+    "url": "http://aqwwiki.wikidot.com/witch-armor-armor",
+    "name": "Witch Armor (Armor)",
+    "type": "armors",
+    "description": "Witches and Warlocks\u2014oh my! You will melt if you get rained on. Happy Mogloween!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/xS4jHpL.png",
+        "http://i.imgur.com/GOsfN87.png"
+    ],
+    "hash": "fb6c8d55d3ab81dcf1bd4f35f906864c"
+}

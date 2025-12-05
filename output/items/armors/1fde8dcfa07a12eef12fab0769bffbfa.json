@@ -1,0 +1,16 @@
+{
+    "urlName": "jus-divinum-major",
+    "url": "http://aqwwiki.wikidot.com/jus-divinum-major",
+    "name": "Jus Divinum Major",
+    "type": "armors",
+    "description": "This armor once belonged to a high ranking member of the secret Jus Divinum.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/4XVDalo.png",
+        "https://i.imgur.com/k2pyqr1.png"
+    ],
+    "hash": "1fde8dcfa07a12eef12fab0769bffbfa"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "nautican-knight",
+    "url": "http://aqwwiki.wikidot.com/nautican-knight",
+    "name": "Nautican Knight",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/UQ7m6qi.png",
+        "http://i.imgur.com/PfzquCx.png"
+    ],
+    "hash": "a89b37cd95a44df83960b23876411ee2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "wicked-pumpkin-caster",
+    "url": "http://aqwwiki.wikidot.com/wicked-pumpkin-caster",
+    "name": "Wicked Pumpkin Caster",
+    "type": "armors",
+    "description": "Your spells are made with sugar and Pumpkin Spice! Be careful!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/jXA0Pid.png",
+        "http://i.imgur.com/rjN7JyD.png"
+    ],
+    "hash": "6d0c8024dbcd69c63e414cd59f4ae4f1"
+}

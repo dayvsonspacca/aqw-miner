@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-summoner",
+    "url": "http://aqwwiki.wikidot.com/dark-summoner",
+    "name": "Dark Summoner",
+    "type": "armors",
+    "description": "Laced with lethal threads-Blood Summoners don't bend the elements, they bend the will of foes surrounding them.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/T5iWmXO.png",
+        "http://i.imgur.com/i68SVaC.png"
+    ],
+    "hash": "44c717d8784ef3705edc84de64f3c38f"
+}

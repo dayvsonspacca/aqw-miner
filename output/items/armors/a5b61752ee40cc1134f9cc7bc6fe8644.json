@@ -1,0 +1,16 @@
+{
+    "urlName": "saci-s-human-form",
+    "url": "http://aqwwiki.wikidot.com/saci-s-human-form",
+    "name": "Saci's Human Form",
+    "type": "armors",
+    "description": "Usually seen as a one-legged human or within a tornado, Saci is a trickster who usually targets farms.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/R45qaDh.png",
+        "https://i.imgur.com/6eFlqFT.png"
+    ],
+    "hash": "a5b61752ee40cc1134f9cc7bc6fe8644"
+}

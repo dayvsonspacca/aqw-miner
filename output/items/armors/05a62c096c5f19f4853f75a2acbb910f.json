@@ -1,0 +1,16 @@
+{
+    "urlName": "royal-fang-armor",
+    "url": "http://aqwwiki.wikidot.com/royal-fang-armor",
+    "name": "Royal Fang Armor",
+    "type": "armors",
+    "description": "This regal armor embodies the savage ferocity of the wolves that roam Lore. Forged by Royal Knight, the Royal Fang Armor offers great protection while giving your enemies something to howl about!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/fIDIInF.png",
+        "http://i.imgur.com/spbrdNF.png"
+    ],
+    "hash": "05a62c096c5f19f4853f75a2acbb910f"
+}

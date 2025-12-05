@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-hunter-suit",
+    "url": "http://aqwwiki.wikidot.com/shadow-hunter-suit",
+    "name": "Shadow Hunter Suit",
+    "type": "armors",
+    "description": "Taking the fight straight into heart of the darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-hunter-suit/ShadowHunterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-hunter-suit/ShadowHunterF.png"
+    ],
+    "hash": "a6172309cbb05bd79cc4f57313616baf"
+}

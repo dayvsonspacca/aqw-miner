@@ -1,0 +1,18 @@
+{
+    "urlName": "elven-duelist",
+    "url": "http://aqwwiki.wikidot.com/elven-duelist",
+    "name": "Elven Duelist",
+    "type": "armors",
+    "description": "The only way prove one's honor is to duel\u2026 and duel we shall!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elven-duelist/ElvenDuelistM.png",
+        "http://aqwwiki.wdfiles.com/local--files/elven-duelist/ElvenDuelistF.png"
+    ],
+    "hash": "a38b777d8084e430c488b0a068aa34dd"
+}

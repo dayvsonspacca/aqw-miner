@@ -1,0 +1,17 @@
+{
+    "urlName": "sapphire-knight-and-shield",
+    "url": "http://aqwwiki.wikidot.com/sapphire-knight-and-shield",
+    "name": "Sapphire Knight and Shield",
+    "type": "armors",
+    "description": "Sapphire Knights do not fear, nor pain, nor defeat. They will fight as long blood flows in them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sapphire-knight-and-shield/SKSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sapphire-knight-and-shield/SKSF.png"
+    ],
+    "hash": "37a3cad2d665a5df7c4b14ffd77863c8"
+}

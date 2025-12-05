@@ -1,0 +1,16 @@
+{
+    "urlName": "mariachi-hero",
+    "url": "http://aqwwiki.wikidot.com/mariachi-hero",
+    "name": "Mariachi Hero",
+    "type": "armors",
+    "description": "All I wanted was to be a nightmare, like my ancestors. But the dream I thought would bring me luck, brought only a curse. I lost my moglin, my mustache, and my maracas.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/pBErMHb.png",
+        "https://i.imgur.com/O67D9Ii.png"
+    ],
+    "hash": "a9dd9a75b32fa22dcd855567f8a00b94"
+}

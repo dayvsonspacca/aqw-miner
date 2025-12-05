@@ -1,0 +1,14 @@
+{
+    "urlName": "chaosweaver-cleric-armor",
+    "url": "http://aqwwiki.wikidot.com/chaosweaver-cleric-armor",
+    "name": "ChaosWeaver Cleric (Armor)",
+    "type": "armors",
+    "description": "Those who have mastered the special type of ChaosWeaver magic wielded by its clerics are almost unstoppable!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/PNzoZSn.png",
+        "https://i.imgur.com/LGmczyH.png"
+    ],
+    "hash": "ca5ff06b05b1f3aa1b7a57c6faa4eaac"
+}

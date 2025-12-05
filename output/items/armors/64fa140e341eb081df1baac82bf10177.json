@@ -1,0 +1,16 @@
+{
+    "urlName": "void-pirate-destroyer",
+    "url": "http://aqwwiki.wikidot.com/void-pirate-destroyer",
+    "name": "Void Pirate Destroyer",
+    "type": "armors",
+    "description": "Void Pirate Destroyers only have one goal: to find and slay the Void Pirates that sail wherever darkness reigns.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/8EcaMwK.png",
+        "https://i.imgur.com/XRdzeaF.png"
+    ],
+    "hash": "64fa140e341eb081df1baac82bf10177"
+}

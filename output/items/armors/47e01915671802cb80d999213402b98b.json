@@ -1,0 +1,17 @@
+{
+    "urlName": "sea-king-pirate-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/sea-king-pirate-captain-ac",
+    "name": "Sea King Pirate Captain (AC)",
+    "type": "armors",
+    "description": "Avast! These pillaging Captains raid the sea for its vast bounty. The more decorated their swag be, the more treasure they've plundered!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Zo7hFZG.png",
+        "https://i.imgur.com/AWQnKJH.png"
+    ],
+    "hash": "47e01915671802cb80d999213402b98b"
+}

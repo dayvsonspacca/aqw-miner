@@ -1,0 +1,17 @@
+{
+    "urlName": "rigor-mortis-repo-agent",
+    "url": "http://aqwwiki.wikidot.com/rigor-mortis-repo-agent",
+    "name": "Rigor Mortis Repo Agent",
+    "type": "armors",
+    "description": "Under the cover of Darkness, the Rigor Mortis Repo Agents steal into graveyards and\u2026 repossess resources for aspiring Necromancers throughout DoomWood. They are crafty corps. Working outside the law, they know they will be hunted whenever they are discovered.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rigor-mortis-repo-agent/RigorMortisRepoAgentM.png",
+        "http://aqwwiki.wdfiles.com/local--files/rigor-mortis-repo-agent/RigorMortisRepoAgentF.png"
+    ],
+    "hash": "2fae85f105959bc0ed8015750909f3da"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "fall-fighter",
+    "url": "http://aqwwiki.wikidot.com/fall-fighter",
+    "name": "Fall Fighter",
+    "type": "armors",
+    "description": "Ward off brittle oak leaves! Equip heavy cloth armor and boots! Prepare your palate for a sugary buttery overload! Fall has arrived, and the time has come for you to become a Fall Fighter!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/CS1jg1V.png",
+        "http://i.imgur.com/scQBDR7.png"
+    ],
+    "hash": "82969e1a340e85f82d60a1b529d1a717"
+}

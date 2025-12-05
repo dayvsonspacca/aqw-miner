@@ -1,0 +1,17 @@
+{
+    "urlName": "hollowborn-evoker-ac",
+    "url": "http://aqwwiki.wikidot.com/hollowborn-evoker-ac",
+    "name": "HollowBorn Evoker (AC)",
+    "type": "armors",
+    "description": "Deep inside the shadowrealm, there is a place where strong warriors and powerful wizards live. Fallen heroes and villains called the name of the Shadow Fiend, and now they all ascended once again as HollowBorns!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GDGRKwl.png",
+        "https://i.imgur.com/dkg1RF1.png"
+    ],
+    "hash": "4c9587d599295370d644976f20803354"
+}

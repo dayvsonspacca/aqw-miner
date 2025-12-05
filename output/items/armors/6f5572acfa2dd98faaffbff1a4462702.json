@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-samurai-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-samurai-ac",
+    "name": "Underworld Samurai (AC)",
+    "type": "armors",
+    "description": "The Underworld Samurai are warriors who refuse to relinquish their blades, even in death. They hunt for even greater battles in the realm of the dead.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/jUmMyLy.png",
+        "https://i.imgur.com/Q7iuDp3.png"
+    ],
+    "hash": "6f5572acfa2dd98faaffbff1a4462702"
+}

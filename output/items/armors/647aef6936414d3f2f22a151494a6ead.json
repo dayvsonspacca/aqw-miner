@@ -1,0 +1,16 @@
+{
+    "urlName": "black-dragon-pjs",
+    "url": "http://aqwwiki.wikidot.com/black-dragon-pjs",
+    "name": "Black Dragon PJs",
+    "type": "armors",
+    "description": "Fight like a Dragon, and sleep like one too.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/152v1gi.png",
+        "https://i.imgur.com/84sC6Yr.png"
+    ],
+    "hash": "647aef6936414d3f2f22a151494a6ead"
+}

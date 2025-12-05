@@ -1,0 +1,17 @@
+{
+    "urlName": "the-giant-red-dwarf",
+    "url": "http://aqwwiki.wikidot.com/the-giant-red-dwarf",
+    "name": "The Giant Red Dwarf",
+    "type": "armors",
+    "description": "You'd rather be lying on a beach, shipwrecked and comatose drinking fresh mango juice\u2026 but you live under a mountain.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-giant-red-dwarf/TheGiantRedDwarfM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-giant-red-dwarf/TheGiantRedDwarfF.png"
+    ],
+    "hash": "f9499993f47a5b3d41e3e0bf3124f718"
+}

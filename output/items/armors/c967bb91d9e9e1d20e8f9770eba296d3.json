@@ -1,0 +1,16 @@
+{
+    "urlName": "elven-heritage-guardian",
+    "url": "http://aqwwiki.wikidot.com/elven-heritage-guardian",
+    "name": "Elven Heritage Guardian",
+    "type": "armors",
+    "description": "Countless elven clans and courts are divided, spread across the far reaches of Lore. The Elven Guardian holds no affiliation, always read with sword in hand to rescue kin in need of aid.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/HpCRzLJ.png",
+        "https://i.imgur.com/DoT03F2.png"
+    ],
+    "hash": "c967bb91d9e9e1d20e8f9770eba296d3"
+}

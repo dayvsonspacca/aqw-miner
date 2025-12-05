@@ -1,0 +1,18 @@
+{
+    "urlName": "zombie-caesar",
+    "url": "http://aqwwiki.wikidot.com/zombie-caesar",
+    "name": "Zombie Caesar",
+    "type": "armors",
+    "description": "Worn by an infamously deceased general, this toga was stolen from the grave on his 2,055th birthday! His spirit and military prowess will be with you as you lead the shambling army of walking undead to victory!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/zombie-caesar/ZCm.png",
+        "http://aqwwiki.wdfiles.com/local--files/zombie-caesar/ZombieCaesarMold.png",
+        "http://aqwwiki.wdfiles.com/local--files/zombie-caesar/ZombieCaesarF.png"
+    ],
+    "hash": "21b81da01f4b06762164ef3a67ec979c"
+}

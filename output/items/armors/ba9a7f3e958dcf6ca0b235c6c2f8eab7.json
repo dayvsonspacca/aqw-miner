@@ -1,0 +1,16 @@
+{
+    "urlName": "red-fiend-morph",
+    "url": "http://aqwwiki.wikidot.com/red-fiend-morph",
+    "name": "Red Fiend Morph",
+    "type": "armors",
+    "description": "You've morphed into a sinister Red Beast Fiend, able to tear your enemies apart with your razor sharp teeth.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/9GJUGiZ.png",
+        "http://i.imgur.com/lkJkWc8.png"
+    ],
+    "hash": "ba9a7f3e958dcf6ca0b235c6c2f8eab7"
+}

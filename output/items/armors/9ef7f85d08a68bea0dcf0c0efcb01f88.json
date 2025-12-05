@@ -1,0 +1,16 @@
+{
+    "urlName": "empowered-undead-champion",
+    "url": "http://aqwwiki.wikidot.com/empowered-undead-champion",
+    "name": "Empowered Undead Champion",
+    "type": "armors",
+    "description": "This item does 50% more damage to Undead monsters when equipped. Unaffected by emotions and impervious to remorse, Champions pledge their full allegiance to the Undead Legion. Showing mercy is a sign of weakness, and weakness is not tolerated.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/9gSlmFt.png",
+        "http://i.imgur.com/6YJuVs4.png"
+    ],
+    "hash": "9ef7f85d08a68bea0dcf0c0efcb01f88"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "samurai-armor",
+    "url": "http://aqwwiki.wikidot.com/samurai-armor",
+    "name": "Samurai Armor",
+    "type": "armors",
+    "description": "This is the armor of a legendary warrior, whose faith, dedication and honor changed the way a whole nation thinks. Armor design inspired by RedWolf EADS.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/N1y0mgz.png",
+        "http://i.imgur.com/U0ApkzW.png"
+    ],
+    "hash": "f615e0925f3e9f26446111c46d9c7e98"
+}

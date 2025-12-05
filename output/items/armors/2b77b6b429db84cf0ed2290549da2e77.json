@@ -1,0 +1,17 @@
+{
+    "urlName": "zombie-leperchaun",
+    "url": "http://aqwwiki.wikidot.com/zombie-leperchaun",
+    "name": "Zombie Leperchaun",
+    "type": "armors",
+    "description": "There's lucky, there's unlucky and then there's un-dead-ky. You're the third. (Only available during Friday the 13th / Lucky Day crossover events)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6DuKoHD.png",
+        "https://i.imgur.com/grxTMxa.png"
+    ],
+    "hash": "2b77b6b429db84cf0ed2290549da2e77"
+}

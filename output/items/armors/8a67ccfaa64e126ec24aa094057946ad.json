@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-avenger-armor",
+    "url": "http://aqwwiki.wikidot.com/chaos-avenger-armor",
+    "name": "Chaos Avenger Armor",
+    "type": "armors",
+    "description": "In one timeline, The Hero managed to defeat Drakath and get a hold of their Chaos Amulet. Instead of becoming the Slayer who tried to destroy Lore, The Hero became the Avenger that saved it.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/vnp2Qf7.png",
+        "https://i.imgur.com/P3fyUb2.png"
+    ],
+    "hash": "8a67ccfaa64e126ec24aa094057946ad"
+}

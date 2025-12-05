@@ -1,0 +1,16 @@
+{
+    "urlName": "magistral-aeromancer",
+    "url": "http://aqwwiki.wikidot.com/magistral-aeromancer",
+    "name": "Magistral Aeromancer",
+    "type": "armors",
+    "description": "These Aeromancers gain power from the very air around them. Wind power!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/AUqQjgE.png",
+        "https://imgur.com/UEIhMME.png"
+    ],
+    "hash": "5a1081e4309601fdcfda6ce5970c51ee"
+}

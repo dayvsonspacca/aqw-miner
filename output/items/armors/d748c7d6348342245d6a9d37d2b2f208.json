@@ -1,0 +1,16 @@
+{
+    "urlName": "samurai-seraph",
+    "url": "http://aqwwiki.wikidot.com/samurai-seraph",
+    "name": "Samurai Seraph",
+    "type": "armors",
+    "description": "These sword bearing warriors of the Seraph both honor and respect Laken to the end.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/sh6O0Pf.png",
+        "https://i.imgur.com/M4BrNd1.png"
+    ],
+    "hash": "d748c7d6348342245d6a9d37d2b2f208"
+}

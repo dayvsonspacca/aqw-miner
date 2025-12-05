@@ -1,0 +1,16 @@
+{
+    "urlName": "red-pirate-costume",
+    "url": "http://aqwwiki.wikidot.com/red-pirate-costume",
+    "name": "Red Pirate Costume",
+    "type": "armors",
+    "description": "Avast! This loot be inspired by Adventure Quest's red pirate.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/red-pirate-costume/RedPirateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/red-pirate-costume/RedPirateF.png"
+    ],
+    "hash": "5bfa6d6bf4d11ec2c79164ee767b395e"
+}

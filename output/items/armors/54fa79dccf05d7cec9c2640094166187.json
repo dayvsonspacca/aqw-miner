@@ -1,0 +1,16 @@
+{
+    "urlName": "merwarrior",
+    "url": "http://aqwwiki.wikidot.com/merwarrior",
+    "name": "MerWarrior",
+    "type": "armors",
+    "description": "The spirit of battle runs deep, almost as deep as Davey Jones' locker. Suit up, grab a weapon, and ready yourself for battle. Wet or dry, you are going to cause a few headaches. Hmmm, maybe your battle spirit does run deeper than Jones' locker.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/TSU6JT6.png",
+        "https://i.imgur.com/gZQTPjB.png"
+    ],
+    "hash": "54fa79dccf05d7cec9c2640094166187"
+}

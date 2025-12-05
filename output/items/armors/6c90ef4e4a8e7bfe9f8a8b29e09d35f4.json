@@ -1,0 +1,17 @@
+{
+    "urlName": "savior-of-lore",
+    "url": "http://aqwwiki.wikidot.com/savior-of-lore",
+    "name": "Savior of Lore",
+    "type": "armors",
+    "description": "A hero will be called on to save Lore from Chairman Platinum and his EbilCorp. In 7 days, Lore as you know it will cease to exists. Will you adhere to the cause? Will you be the HERO that Lore desperately cries out for?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/savior-of-lore/SaviorofLoreM.png",
+        "http://aqwwiki.wdfiles.com/local--files/savior-of-lore/SaviorofLoreF.png"
+    ],
+    "hash": "6c90ef4e4a8e7bfe9f8a8b29e09d35f4"
+}

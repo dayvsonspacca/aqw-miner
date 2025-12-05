@@ -1,0 +1,16 @@
+{
+    "urlName": "void-cowboy",
+    "url": "http://aqwwiki.wikidot.com/void-cowboy",
+    "name": "Void Cowboy",
+    "type": "armors",
+    "description": "YEEHAW! Yippee-ki-yay, Minons!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/eLqhbvW.png",
+        "https://i.imgur.com/0lvlWbO.png"
+    ],
+    "hash": "95e8362d7e02ef3c8d70f56881ddae81"
+}

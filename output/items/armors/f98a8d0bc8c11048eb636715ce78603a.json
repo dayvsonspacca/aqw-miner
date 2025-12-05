@@ -1,0 +1,15 @@
+{
+    "urlName": "ancient-shogun-armor",
+    "url": "http://aqwwiki.wikidot.com/ancient-shogun-armor",
+    "name": "Ancient Shogun Armor",
+    "type": "armors",
+    "description": "A samurai should always be prepared for death - whether his own or someone else's. (Item does 40% more damage to human tagged monsters when equipped.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/MT4BtuU.png"
+    ],
+    "hash": "f98a8d0bc8c11048eb636715ce78603a"
+}

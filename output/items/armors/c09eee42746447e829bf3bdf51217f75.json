@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-rogue-armor",
+    "url": "http://aqwwiki.wikidot.com/chaos-rogue-armor",
+    "name": "Chaos Rogue Armor",
+    "type": "armors",
+    "description": "You can be chaotic and still hide in the shadows, like every other rogue!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/LnstoS4.png",
+        "http://i.imgur.com/MJft1YD.png"
+    ],
+    "hash": "c09eee42746447e829bf3bdf51217f75"
+}

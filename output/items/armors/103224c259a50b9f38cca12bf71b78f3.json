@@ -1,0 +1,17 @@
+{
+    "urlName": "black-tailcoat-ac",
+    "url": "http://aqwwiki.wikidot.com/black-tailcoat-ac",
+    "name": "Black Tailcoat (AC)",
+    "type": "armors",
+    "description": "Nothing on this planet says class like a tailcoat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-tailcoat-ac/BlackTailcoatMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/black-tailcoat-ac/BlackTailcoatFemale.png"
+    ],
+    "hash": "103224c259a50b9f38cca12bf71b78f3"
+}

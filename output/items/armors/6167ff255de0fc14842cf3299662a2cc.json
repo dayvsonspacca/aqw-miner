@@ -1,0 +1,16 @@
+{
+    "urlName": "trophy-hunter-advanced",
+    "url": "http://aqwwiki.wikidot.com/trophy-hunter-advanced",
+    "name": "Trophy Hunter Advanced",
+    "type": "armors",
+    "description": "As you rack up the kills, your armor evolves into an intimidating, yet strangely compelling display of your trophies.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/RYqwgGX.png",
+        "http://i.imgur.com/NlDkKBz.png"
+    ],
+    "hash": "6167ff255de0fc14842cf3299662a2cc"
+}

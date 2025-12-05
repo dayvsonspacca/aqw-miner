@@ -1,0 +1,17 @@
+{
+    "urlName": "infiltrator",
+    "url": "http://aqwwiki.wikidot.com/infiltrator",
+    "name": "Infiltrator",
+    "type": "armors",
+    "description": "Covert and stealthy, Infiltrators are precise and agile. Once you've lost something to their objective, it can never be found again.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kHQzkIK.png.png",
+        "http://aqwwiki.wdfiles.com/local--files/infiltrator/IF.png"
+    ],
+    "hash": "20d5d572ca9073521c432b09122dd66f"
+}

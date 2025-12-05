@@ -1,0 +1,18 @@
+{
+    "urlName": "warlord-of-bones",
+    "url": "http://aqwwiki.wikidot.com/warlord-of-bones",
+    "name": "WarLord of Bones",
+    "type": "armors",
+    "description": "Crafted by barbarians from darkened minerals as cold as ice, Dage provided countless shadow elementals these old armors to give them a physical form and to use them to chase after \"special\" targets.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warlord-of-bones/WBm.png",
+        "http://aqwwiki.wdfiles.com/local--files/warlord-of-bones/WBf.png"
+    ],
+    "hash": "82e599591a553c0179ee0cf22787521f"
+}

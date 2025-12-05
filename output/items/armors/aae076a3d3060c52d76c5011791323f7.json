@@ -1,0 +1,17 @@
+{
+    "urlName": "phantom-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/phantom-naval-commander-ac",
+    "name": "Phantom Naval Commander (AC)",
+    "type": "armors",
+    "description": "A Naval Commander who conquers the sea with necromancy. They wield ghosts, refusing to let go of their stormy past.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/mWP6ZNG.png",
+        "https://imgur.com/1pTFhLe.png"
+    ],
+    "hash": "aae076a3d3060c52d76c5011791323f7"
+}

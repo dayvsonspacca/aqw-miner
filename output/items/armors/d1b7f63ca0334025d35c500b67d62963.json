@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-grim-necromancer-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-grim-necromancer-ac",
+    "name": "Underworld Grim Necromancer (AC)",
+    "type": "armors",
+    "description": "Per tradition, when a Necromancer achieves the deepest depths of control over the dead, they can be called \"Grim.\" There's a tendency to eliminate one's peers to make these ranks even more exclusive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/TriuKFw.png",
+        "https://i.imgur.com/KvyfYv7.png"
+    ],
+    "hash": "d1b7f63ca0334025d35c500b67d62963"
+}

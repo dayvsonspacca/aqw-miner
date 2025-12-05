@@ -1,0 +1,17 @@
+{
+    "urlName": "urban-underworld-gear",
+    "url": "http://aqwwiki.wikidot.com/urban-underworld-gear",
+    "name": "Urban Underworld Gear",
+    "type": "armors",
+    "description": "Outside of battle and conquest the Legionnaires continue to sport the symbols of their Lord. A great way to convey their deep disatisfaction with idealized life. Necromancy has always been counter culture.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QWaUZ1E.png",
+        "https://i.imgur.com/T89F77y.png"
+    ],
+    "hash": "85adad36403ea4bc2e8139be44840641"
+}

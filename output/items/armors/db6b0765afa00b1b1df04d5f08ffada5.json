@@ -1,0 +1,17 @@
+{
+    "urlName": "raptor-rider-armor",
+    "url": "http://aqwwiki.wikidot.com/raptor-rider-armor",
+    "name": "Raptor Rider (Armor)",
+    "type": "armors",
+    "description": "WOOOO YEAAAH! Ride that Raptor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/rbEn7fN.png",
+        "http://aqwwiki.wdfiles.com/local--files/raptor-rider-armor/RaptorRiderM.png"
+    ],
+    "hash": "db6b0765afa00b1b1df04d5f08ffada5"
+}

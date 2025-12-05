@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-hunter-2",
+    "url": "http://aqwwiki.wikidot.com/chaos-hunter-2",
+    "name": "Chaos Hunter (2)",
+    "type": "armors",
+    "description": "You've had enough of Drakath and his Minions. Time to take back Lore from Chaos!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-hunter-2/ChaosHunterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaos-hunter-2/ChaosHunterF.png"
+    ],
+    "hash": "916faf9afea6c3b0e0850f0f62985d43"
+}

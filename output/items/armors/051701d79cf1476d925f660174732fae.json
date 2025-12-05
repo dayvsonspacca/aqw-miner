@@ -1,0 +1,16 @@
+{
+    "urlName": "yaomo-armor",
+    "url": "http://aqwwiki.wikidot.com/yaomo-armor",
+    "name": "Yaomo Armor",
+    "type": "armors",
+    "description": "You've beaten this terrible beast so many times, now you can take its form!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/OA0fuK7.png"
+    ],
+    "hash": "051701d79cf1476d925f660174732fae"
+}

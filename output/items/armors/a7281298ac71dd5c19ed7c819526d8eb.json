@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-dragonmaster-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-dragonmaster-armor",
+    "name": "Dark DragonMaster (Armor)",
+    "type": "armors",
+    "description": "Dragon's aren't the easiest creatures to master, consider yourself lucky you're not burnt to a crisp.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-dragonmaster-armor/DarkDragonMasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dragonmaster-armor/DarkDragonMasterF.png"
+    ],
+    "hash": "a7281298ac71dd5c19ed7c819526d8eb"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "fall-forest-traveler",
+    "url": "http://aqwwiki.wikidot.com/fall-forest-traveler",
+    "name": "Fall Forest Traveler",
+    "type": "armors",
+    "description": "A cozy ensemble designed for fall foragers. Charmed strings are laced into this outfit to protect you from the dangers lurking in the crisp chill and vibrant leaves. Go mushroom and cranberry picking to your heart's content.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/EWnwcLs.png",
+        "https://i.imgur.com/HzAywoQ.png"
+    ],
+    "hash": "90d1ec150364a32aefaf25a0c65b10b5"
+}

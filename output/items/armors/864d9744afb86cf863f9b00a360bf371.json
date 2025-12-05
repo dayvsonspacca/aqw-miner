@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-stalker-2",
+    "url": "http://aqwwiki.wikidot.com/dark-stalker-2",
+    "name": "Dark Stalker (2)",
+    "type": "armors",
+    "description": "Winter is coming and the Dark Stalkers are ready to take over the world!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-stalker-2/DarkStalker.png"
+    ],
+    "hash": "864d9744afb86cf863f9b00a360bf371"
+}

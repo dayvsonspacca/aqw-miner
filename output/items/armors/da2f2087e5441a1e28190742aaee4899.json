@@ -1,0 +1,17 @@
+{
+    "urlName": "timeseeker-legend",
+    "url": "http://aqwwiki.wikidot.com/timeseeker-legend",
+    "name": "Timeseeker (Legend)",
+    "type": "armors",
+    "description": "Only the most skilled Treasurehunters become Timeseekers, questing across the timestreams that make up the fabric of our universe.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tfQPw7i.png",
+        "https://i.imgur.com/090cWVW.png"
+    ],
+    "hash": "da2f2087e5441a1e28190742aaee4899"
+}

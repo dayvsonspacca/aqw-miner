@@ -1,0 +1,16 @@
+{
+    "urlName": "battleon-warlord",
+    "url": "http://aqwwiki.wikidot.com/battleon-warlord",
+    "name": "Battleon Warlord",
+    "type": "armors",
+    "description": "The warbeasts of Battleon welcome all foes to their humble home. In a town at the crossroads of strife and shadow, the best find joy charging straight into danger, and smashing skulls.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/LP7EUse.png",
+        "https://i.imgur.com/NVWhR59.png"
+    ],
+    "hash": "5e6a7979ebe5e45e0c37df1d67111407"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-varsity-uniform",
+    "url": "http://aqwwiki.wikidot.com/legion-varsity-uniform",
+    "name": "Legion Varsity Uniform",
+    "type": "armors",
+    "description": "Rah rah rah! #Team Legion! (Requires Rank 10 Evil)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KMVzqHo.png",
+        "https://i.imgur.com/1oZsJfX.png"
+    ],
+    "hash": "0492efa5d390a234b32c90fb97af3ca3"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "blacksea-pirate-armor",
+    "url": "http://aqwwiki.wikidot.com/blacksea-pirate-armor",
+    "name": "Blacksea Pirate (Armor)",
+    "type": "armors",
+    "description": "Only the fiercest pirates sail the Blacksea.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/sM5JBKt.png",
+        "https://i.imgur.com/uHbYji0.png"
+    ],
+    "hash": "06fa1c3aa45acfd238ecb61f1c589e8e"
+}

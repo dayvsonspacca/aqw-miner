@@ -1,0 +1,16 @@
+{
+    "urlName": "warfury-general-s-armor",
+    "url": "http://aqwwiki.wikidot.com/warfury-general-s-armor",
+    "name": "WarFury General's Armor",
+    "type": "armors",
+    "description": "The highest rank of the Warfury army, the General's armor has no equal.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/PJULzFd.png",
+        "https://i.imgur.com/EupKXSv.png"
+    ],
+    "hash": "d66c7e63c2eff194d517c155f6eeba1f"
+}

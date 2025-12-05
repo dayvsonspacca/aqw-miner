@@ -1,0 +1,17 @@
+{
+    "urlName": "eldritch-creature",
+    "url": "http://aqwwiki.wikidot.com/eldritch-creature",
+    "name": "Eldritch Creature",
+    "type": "armors",
+    "description": "From out of the depths, a sinister new army rises. They herald the dawn of a darker, deadlier elder deity. BEWARE. (CC to Trim)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/buRiWsb.png",
+        "https://i.imgur.com/u4kADrb.png"
+    ],
+    "hash": "b0e9aaa2e0201fd5249e36acac2e2101"
+}

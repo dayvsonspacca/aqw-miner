@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-raven",
+    "url": "http://aqwwiki.wikidot.com/legion-raven",
+    "name": "Legion Raven",
+    "type": "armors",
+    "description": "The Legion Raven roams the halls, scavenging and feeding off of the lost souls left in Pandinus Insane Asylum.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-raven/LegionRavenM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-raven/LegionRavenF.png"
+    ],
+    "hash": "7da730246b98138c4ef838334356023e"
+}

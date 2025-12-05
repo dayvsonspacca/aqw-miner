@@ -1,0 +1,17 @@
+{
+    "urlName": "royal-dancer",
+    "url": "http://aqwwiki.wikidot.com/royal-dancer",
+    "name": "Royal Dancer",
+    "type": "armors",
+    "description": "A disciplined and collected entertainer that treats dancing as a tool of expression and charm. Their hidden smiles and eagerness to please an audience can tame even a power-hungry dragon.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/tSalnWI.png",
+        "http://i.imgur.com/X17CCWp.png"
+    ],
+    "hash": "638acd3c5cd6275b30a99743b91204b6"
+}

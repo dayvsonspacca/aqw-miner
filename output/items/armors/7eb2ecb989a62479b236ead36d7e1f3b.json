@@ -1,0 +1,17 @@
+{
+    "urlName": "phoenix-arcanist",
+    "url": "http://aqwwiki.wikidot.com/phoenix-arcanist",
+    "name": "Phoenix Arcanist",
+    "type": "armors",
+    "description": "What's the mana with you?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/phoenix-arcanist/PhoenixArcanistM.png",
+        "http://aqwwiki.wdfiles.com/local--files/phoenix-arcanist/PhoenixArcanistF.png"
+    ],
+    "hash": "7eb2ecb989a62479b236ead36d7e1f3b"
+}

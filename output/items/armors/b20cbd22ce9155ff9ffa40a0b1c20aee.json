@@ -1,0 +1,17 @@
+{
+    "urlName": "tempest-armor",
+    "url": "http://aqwwiki.wikidot.com/tempest-armor",
+    "name": "Tempest Armor",
+    "type": "armors",
+    "description": "The power of the great spring storms has been woven into this armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tempest-armor/TempestM.png",
+        "http://aqwwiki.wdfiles.com/local--files/tempest-armor/TempestF.png"
+    ],
+    "hash": "b20cbd22ce9155ff9ffa40a0b1c20aee"
+}

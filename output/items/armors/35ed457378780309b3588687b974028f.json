@@ -1,0 +1,16 @@
+{
+    "urlName": "ghastly-avenger",
+    "url": "http://aqwwiki.wikidot.com/ghastly-avenger",
+    "name": "Ghastly Avenger",
+    "type": "armors",
+    "description": "Why aren't you just the coolest ghoul around?",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/xPEhflM.png",
+        "http://i.imgur.com/fhK5f3p.png"
+    ],
+    "hash": "35ed457378780309b3588687b974028f"
+}

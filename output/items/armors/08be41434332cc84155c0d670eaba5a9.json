@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-conqueror-armor",
+    "url": "http://aqwwiki.wikidot.com/chaos-conqueror-armor",
+    "name": "Chaos Conqueror (Armor)",
+    "type": "armors",
+    "description": "Good good, let the purple flow through you. You were once the learner but now you are the master of Chaos.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-conqueror-armor/ChaosConquerorM.png"
+    ],
+    "hash": "08be41434332cc84155c0d670eaba5a9"
+}

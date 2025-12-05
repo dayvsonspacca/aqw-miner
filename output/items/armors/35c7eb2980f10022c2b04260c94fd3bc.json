@@ -1,0 +1,17 @@
+{
+    "urlName": "void-warlord",
+    "url": "http://aqwwiki.wikidot.com/void-warlord",
+    "name": "Void Warlord",
+    "type": "armors",
+    "description": "Those who gave parts of their soul to Nulgath will be handsomely rewarded. Warlords rank among the highest of his followers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-warlord/VWoNM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-warlord/VWoNF.png"
+    ],
+    "hash": "35c7eb2980f10022c2b04260c94fd3bc"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "territorial-lion",
+    "url": "http://aqwwiki.wikidot.com/territorial-lion",
+    "name": "Territorial Lion",
+    "type": "armors",
+    "description": "Grrrrrrroaar! You are one territorial lion who does not know the meaning of 'cowardice'.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/wZZhqup.png",
+        "https://imgur.com/ATSuEF7.png"
+    ],
+    "hash": "50c8273d5d49a26e54739a8d4d067a72"
+}

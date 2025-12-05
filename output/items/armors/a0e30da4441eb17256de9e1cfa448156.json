@@ -1,0 +1,17 @@
+{
+    "urlName": "ebilnet-operator",
+    "url": "http://aqwwiki.wikidot.com/ebilnet-operator",
+    "name": "EbilNet Operator",
+    "type": "armors",
+    "description": "EbilCorp's agents are partially made out of code. This lets them sneak into netspace and snoop through your search history.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/FMssfL6.png",
+        "https://imgur.com/prwDROv.png"
+    ],
+    "hash": "a0e30da4441eb17256de9e1cfa448156"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "lich-general",
+    "url": "http://aqwwiki.wikidot.com/lich-general",
+    "name": "Lich General",
+    "type": "armors",
+    "description": "Armed to the teeth with a taste for revenge, a Lich General knows no concept of personal casualties, only victory and defeat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lich-general/LichGeneralM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lich-general/LichGeneralF.png"
+    ],
+    "hash": "3591e72b70375da8af337329c0da29ef"
+}

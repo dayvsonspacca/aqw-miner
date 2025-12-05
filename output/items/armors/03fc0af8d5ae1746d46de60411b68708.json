@@ -1,0 +1,17 @@
+{
+    "urlName": "pocong-prankster",
+    "url": "http://aqwwiki.wikidot.com/pocong-prankster",
+    "name": "Pocong Prankster",
+    "type": "armors",
+    "description": "Beware of the pocong; some of them are just friends playing pranks or random gymbros, but if you're unlucky enough, you might find the real ones!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5DRLnLQ.png",
+        "https://i.imgur.com/qqhedhH.png"
+    ],
+    "hash": "03fc0af8d5ae1746d46de60411b68708"
+}

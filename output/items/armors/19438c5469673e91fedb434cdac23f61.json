@@ -1,0 +1,17 @@
+{
+    "urlName": "the-light-seekers",
+    "url": "http://aqwwiki.wikidot.com/the-light-seekers",
+    "name": "The Light Seekers",
+    "type": "armors",
+    "description": "We bask in the glory of the light it shall give us strength and lead us against the dark forces. If we shall perish, it will calm us as we embrace Death's cold hand. Only the light holds the power of true redemption!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-light-seekers/TheLightSeekersM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-light-seekers/TheLightSeekersF.png"
+    ],
+    "hash": "19438c5469673e91fedb434cdac23f61"
+}

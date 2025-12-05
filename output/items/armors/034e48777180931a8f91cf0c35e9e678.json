@@ -1,0 +1,17 @@
+{
+    "urlName": "cabaret",
+    "url": "http://aqwwiki.wikidot.com/cabaret",
+    "name": "Cabaret",
+    "type": "armors",
+    "description": "No one can judge you for singing while you beat them up if you beat them up fast enough and in temp with the song. Fly free, my summer bird.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cabaret/CabaretM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cabaret/CabaretF.png"
+    ],
+    "hash": "034e48777180931a8f91cf0c35e9e678"
+}

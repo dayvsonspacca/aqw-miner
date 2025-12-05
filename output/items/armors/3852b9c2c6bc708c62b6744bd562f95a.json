@@ -1,0 +1,16 @@
+{
+    "urlName": "reclamation-armor",
+    "url": "http://aqwwiki.wikidot.com/reclamation-armor",
+    "name": "Reclamation Armor",
+    "type": "armors",
+    "description": "Carry a reminder of all that Escherion did and the blood, sweat and anguish it cost you to help Hodan reclaim and begin to rebuild his family's city, as you wear this fascinating armor. And just as Hodan intends to strengthen his city and the Alliance, so shall this strengthen you, protecting you from your enemies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/qE6KO8Q.png",
+        "https://i.imgur.com/XkoQm6M.png"
+    ],
+    "hash": "3852b9c2c6bc708c62b6744bd562f95a"
+}

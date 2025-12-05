@@ -1,0 +1,16 @@
+{
+    "urlName": "tog-slayer",
+    "url": "http://aqwwiki.wikidot.com/tog-slayer",
+    "name": "Tog Slayer",
+    "type": "armors",
+    "description": "A recreation of an armor, from the Lore of DragonFable, that has been passed down by Rolith and given to those who are good at what they do, and what they do isn't very nice, SLAYING TOGS!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/UOmC4PL.png",
+        "http://i.imgur.com/HD34esN.png"
+    ],
+    "hash": "c995040a02407d613a4d6cd8e262b1b4"
+}

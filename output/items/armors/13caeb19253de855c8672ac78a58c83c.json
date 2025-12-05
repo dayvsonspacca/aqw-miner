@@ -1,0 +1,18 @@
+{
+    "urlName": "horselord-guardian",
+    "url": "http://aqwwiki.wikidot.com/horselord-guardian",
+    "name": "Horselord Guardian",
+    "type": "armors",
+    "description": "Centaur warriors have long been some of Lore's fiercest and fastest fighters. With 4 hooves and as many blades as they can carry, they are a force to be reckoned with.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/horselord-guardian/HorselordGuardianM.png",
+        "http://aqwwiki.wdfiles.com/local--files/horselord-guardian/HorselordGuardianF.png"
+    ],
+    "hash": "13caeb19253de855c8672ac78a58c83c"
+}

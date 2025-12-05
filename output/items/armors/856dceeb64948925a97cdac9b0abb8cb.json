@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-sled-racer",
+    "url": "http://aqwwiki.wikidot.com/festive-sled-racer",
+    "name": "Festive Sled Racer",
+    "type": "armors",
+    "description": "Warm garb worn by sled racers for the traditional yearly race. The red colors aren't just festive. They're easy to spot if you happen to get lost in an avalanche.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/f63born.png",
+        "https://i.imgur.com/sWNM7um.png"
+    ],
+    "hash": "856dceeb64948925a97cdac9b0abb8cb"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "iara-s-armor",
+    "url": "http://aqwwiki.wikidot.com/iara-s-armor",
+    "name": "Iara's Armor",
+    "type": "armors",
+    "description": "Your will was tested, and you prevailed. You can prove it to any who ask by wearing a version of Iara's armor.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/SbkZjVv.png",
+        "https://imgur.com/8BE5gU6.png"
+    ],
+    "hash": "885aec5358f416d2b8454ccf37584de2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "cannonblast-gunner",
+    "url": "http://aqwwiki.wikidot.com/cannonblast-gunner",
+    "name": "Cannonblast Gunner",
+    "type": "armors",
+    "description": "Fire in the hole! Or fire anywhere you want to go. It takes an expert handler to hoist a canon on their shoulder, pack the gunpowder, and not explode with their foes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/I0trmKf.png",
+        "https://imgur.com/ieGBLOI.png"
+    ],
+    "hash": "4efbf6c3b814cbf9560af43e6b57a3ca"
+}

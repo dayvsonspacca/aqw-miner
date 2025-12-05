@@ -1,0 +1,17 @@
+{
+    "urlName": "elementary-student-uniform",
+    "url": "http://aqwwiki.wikidot.com/elementary-student-uniform",
+    "name": "Elementary Student Uniform",
+    "type": "armors",
+    "description": "This uniform is worn by elementary school age students in Swordhaven's Hero Academy when they aren't in combat training.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/myocDMn.png",
+        "https://i.imgur.com/3k0ulDh.png"
+    ],
+    "hash": "4ab0cca277ddb02c40eada611d0065a1"
+}

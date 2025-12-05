@@ -1,0 +1,16 @@
+{
+    "urlName": "vindicator-captain",
+    "url": "http://aqwwiki.wikidot.com/vindicator-captain",
+    "name": "Vindicator Captain",
+    "type": "armors",
+    "description": "Captains lead their own teams of Dawn Vindicators. The more evil they destroy, the higher they and their warriors rise in rank, until they earn the honor of basking in their Leader's light at his side.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/eB9MZjk.png",
+        "https://i.imgur.com/9I5Ws1m.png"
+    ],
+    "hash": "066fbfa6c030bbc0d8d5f3c8d6fa2016"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "formal-vampire-emissary",
+    "url": "http://aqwwiki.wikidot.com/formal-vampire-emissary",
+    "name": "Formal Vampire Emissary",
+    "type": "armors",
+    "description": "The trust and respect of an ancient Vampire clan is priceless. Your eternal loyalty, gratitude, and service to them is the price.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/g2nJHmL.png",
+        "https://i.imgur.com/SKYMapy.png"
+    ],
+    "hash": "a1b9c2e3edc48c4f3464f2cb9167f804"
+}

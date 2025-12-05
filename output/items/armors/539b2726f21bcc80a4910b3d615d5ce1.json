@@ -1,0 +1,17 @@
+{
+    "urlName": "void-oni-samurai-ac",
+    "url": "http://aqwwiki.wikidot.com/void-oni-samurai-ac",
+    "name": "Void Oni Samurai (AC)",
+    "type": "armors",
+    "description": "The samurai who have sworn themselves to the Archfiend were once pureblooded Oni. Their bloodthirst and greed increased tenfold. No matter their origins, the Fiend Void takes them all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7VSgNXJ.png",
+        "https://i.imgur.com/SyQnXSs.png"
+    ],
+    "hash": "539b2726f21bcc80a4910b3d615d5ce1"
+}

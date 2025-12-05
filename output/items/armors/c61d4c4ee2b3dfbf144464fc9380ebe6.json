@@ -1,0 +1,17 @@
+{
+    "urlName": "forest-rogue",
+    "url": "http://aqwwiki.wikidot.com/forest-rogue",
+    "name": "Forest Rogue",
+    "type": "armors",
+    "description": "With your bow and arrow, you patrol the forest taking from the rich and defending the poor. The villagers are so thankful you are near.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KKjRcfM.png",
+        "https://i.imgur.com/K0noMdk.png"
+    ],
+    "hash": "c61d4c4ee2b3dfbf144464fc9380ebe6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "unleashed-dragon-armor",
+    "url": "http://aqwwiki.wikidot.com/unleashed-dragon-armor",
+    "name": "Unleashed Dragon Armor",
+    "type": "armors",
+    "description": "Protect the skies over the lost city of Atlanta during the convention of Dragons!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/unleashed-dragon-armor/UnleashedDragonArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/unleashed-dragon-armor/UnleashedDragonArmorF.png"
+    ],
+    "hash": "7758cf276c8d1f20617e26a85821bb73"
+}

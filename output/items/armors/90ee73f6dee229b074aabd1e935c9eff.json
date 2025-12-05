@@ -1,0 +1,17 @@
+{
+    "urlName": "mega-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/mega-warrior-ac",
+    "name": "Mega Warrior (AC)",
+    "type": "armors",
+    "description": "This armor is a return to the roots, grown brand new at the start of another grand adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5xNEoTg.png",
+        "https://i.imgur.com/gWQtEva.png"
+    ],
+    "hash": "90ee73f6dee229b074aabd1e935c9eff"
+}

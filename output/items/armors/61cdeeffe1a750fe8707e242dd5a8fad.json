@@ -1,0 +1,17 @@
+{
+    "urlName": "onyx-masquerade",
+    "url": "http://aqwwiki.wikidot.com/onyx-masquerade",
+    "name": "Onyx Masquerade",
+    "type": "armors",
+    "description": "The Sheevra Masquerade party is the BEST excuse for dressing up.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/NHaqL3b.png",
+        "https://i.imgur.com/z88pF5q.png"
+    ],
+    "hash": "61cdeeffe1a750fe8707e242dd5a8fad"
+}

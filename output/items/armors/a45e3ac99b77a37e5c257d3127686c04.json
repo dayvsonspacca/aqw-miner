@@ -1,0 +1,16 @@
+{
+    "urlName": "harlequint",
+    "url": "http://aqwwiki.wikidot.com/harlequint",
+    "name": "HarleQuint",
+    "type": "armors",
+    "description": "Want to be the life of the party without dancing in a bikini? Dress like a HarleQuint!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/harlequint/HQM.png",
+        "http://aqwwiki.wdfiles.com/local--files/harlequint/HQF.png"
+    ],
+    "hash": "a45e3ac99b77a37e5c257d3127686c04"
+}

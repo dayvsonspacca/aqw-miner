@@ -1,0 +1,17 @@
+{
+    "urlName": "nightstalker",
+    "url": "http://aqwwiki.wikidot.com/nightstalker",
+    "name": "Nightstalker",
+    "type": "armors",
+    "description": "Stalk the night to rule the light! Those who never know you're near will still be made to run in fear.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nightstalker/NM.png",
+        "http://aqwwiki.wdfiles.com/local--files/nightstalker/NF.png"
+    ],
+    "hash": "62219f22d71c9a44199fb1cf52911462"
+}

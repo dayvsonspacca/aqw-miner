@@ -1,0 +1,18 @@
+{
+    "urlName": "battleon-formal-garb",
+    "url": "http://aqwwiki.wikidot.com/battleon-formal-garb",
+    "name": "Battleon Formal Garb",
+    "type": "armors",
+    "description": "Battleon celebrates their continued survival and victories year by year. The sun sets and snow falls on a battle-torn land, but our heroes will always see tomorrow.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ZbYxIAk.png",
+        "https://i.imgur.com/d6nAdrX.png"
+    ],
+    "hash": "90d54a53f4cae96e710f56d01b41899c"
+}

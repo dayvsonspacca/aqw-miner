@@ -1,0 +1,17 @@
+{
+    "urlName": "bears-jersey",
+    "url": "http://aqwwiki.wikidot.com/bears-jersey",
+    "name": "Bears Jersey",
+    "type": "armors",
+    "description": "Take to the ice as a bear takes to a stream full of delicious salmon! Skate and slapshot your way to victory with one of the Bears jerseys!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bears-jersey/BearsJerseyMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/bears-jersey/BearsJerseyFemale.png"
+    ],
+    "hash": "6442f82650e62422b43c26eed35e014d"
+}

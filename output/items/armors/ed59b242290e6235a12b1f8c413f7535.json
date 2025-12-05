@@ -1,0 +1,16 @@
+{
+    "urlName": "heroic-horror",
+    "url": "http://aqwwiki.wikidot.com/heroic-horror",
+    "name": "Heroic Horror",
+    "type": "armors",
+    "description": "A mad doctor's creation rises in the night!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/53fLxbq.png",
+        "https://i.imgur.com/dESPbgX.png"
+    ],
+    "hash": "ed59b242290e6235a12b1f8c413f7535"
+}

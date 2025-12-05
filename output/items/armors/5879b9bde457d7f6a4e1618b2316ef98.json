@@ -1,0 +1,17 @@
+{
+    "urlName": "temporal-aurora",
+    "url": "http://aqwwiki.wikidot.com/temporal-aurora",
+    "name": "Temporal Aurora",
+    "type": "armors",
+    "description": "Crafted from chunks of frozen Aurora Borealis mined by Astromancers in the far Northlands, if you look deep into the blue-green material, you may become transfixed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/NSa3dvh.png",
+        "https://i.imgur.com/z8haBXw.png"
+    ],
+    "hash": "5879b9bde457d7f6a4e1618b2316ef98"
+}

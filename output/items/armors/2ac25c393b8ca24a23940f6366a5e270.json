@@ -1,0 +1,20 @@
+{
+    "urlName": "plume-of-paradise",
+    "url": "http://aqwwiki.wikidot.com/plume-of-paradise",
+    "name": "Plume of Paradise",
+    "type": "armors",
+    "description": "Transform yourself during Carnival! Show off your samba dance moves in beautiful Terra da Festa! Sellback price raised to match original buy price due to art change.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/CYUN7vg.png",
+        "http://i.imgur.com/G0C2cgb.png",
+        "http://aqwwiki.wdfiles.com/local--files/plume-of-paradise/PoPFemaleOld.png"
+    ],
+    "hash": "2ac25c393b8ca24a23940f6366a5e270"
+}

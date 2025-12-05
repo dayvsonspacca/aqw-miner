@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-flamemaster-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-flamemaster-ac",
+    "name": "Underworld FlameMaster (AC)",
+    "type": "armors",
+    "description": "Legend says that a sect of Flame Masters were caught in the underworld during a period of upheaval. With the lack of fire, they pulled the power of the Underworld itself into their bodies. And thus, the Underworld FlameMasters were born.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/dDsA0QR.png",
+        "https://imgur.com/Gu1c9aX.png"
+    ],
+    "hash": "c64fadfaa46b411b2e0020b00ee25388"
+}

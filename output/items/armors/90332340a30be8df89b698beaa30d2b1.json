@@ -1,0 +1,17 @@
+{
+    "urlName": "goth-musician",
+    "url": "http://aqwwiki.wikidot.com/goth-musician",
+    "name": "Goth Musician",
+    "type": "armors",
+    "description": "Smells like scene spirit.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2oGPUrc.png",
+        "https://i.imgur.com/qoKYDbx.png"
+    ],
+    "hash": "90332340a30be8df89b698beaa30d2b1"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "leospire-royalty",
+    "url": "http://aqwwiki.wikidot.com/leospire-royalty",
+    "name": "LeoSpire Royalty",
+    "type": "armors",
+    "description": "The lion symbolises three of LeoSpire's greatest national values: courage, excellence and strength. May you always embody these as you battle through Lore!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yGFZHPb.png",
+        "https://i.imgur.com/0rJKsSY.png"
+    ],
+    "hash": "a17a0d361480263d46c3f623802e1bfd"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "falconlord-armor",
+    "url": "http://aqwwiki.wikidot.com/falconlord-armor",
+    "name": "FalconLord Armor",
+    "type": "armors",
+    "description": "The FalconLord Guardians that protect the tower are among Falconreach's fiercest, most skilled warriors. (This item is color customizable.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/cSiCE2y.png",
+        "https://i.imgur.com/XVK673R.png"
+    ],
+    "hash": "bbe931b639201043b5045cbe6cca2a93"
+}

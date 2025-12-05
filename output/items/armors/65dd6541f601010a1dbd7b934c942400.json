@@ -1,0 +1,16 @@
+{
+    "urlName": "galatea-mech-legend",
+    "url": "http://aqwwiki.wikidot.com/galatea-mech-legend",
+    "name": "Galatea Mech (Legend)",
+    "type": "armors",
+    "description": "Galatea's formidable mech. What are you waiting for? Go! Go! Fight the power!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/wcZ951n.png",
+        "http://i.imgur.com/7dqK9te.png"
+    ],
+    "hash": "65dd6541f601010a1dbd7b934c942400"
+}

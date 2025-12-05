@@ -1,0 +1,18 @@
+{
+    "urlName": "tigers-team-legend",
+    "url": "http://aqwwiki.wikidot.com/tigers-team-legend",
+    "name": "Tigers Team (Legend)",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fbQmCul.png",
+        "https://i.imgur.com/bM7Nh1X.png",
+        "https://i.imgur.com/Q3gHo8f.png"
+    ],
+    "hash": "f9f9e20f39ddc7948ca5d108e842b8ed"
+}

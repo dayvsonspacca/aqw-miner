@@ -1,0 +1,21 @@
+{
+    "urlName": "festive-symbiote",
+    "url": "http://aqwwiki.wikidot.com/festive-symbiote",
+    "name": "Festive Symbiote",
+    "type": "armors",
+    "description": "Even a parasite can get into the holiday spirit right? Behold the power of Frostval!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/festive-symbiote/FestiveSymbioteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/festive-symbiote/FestiveSymbioteMAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/festive-symbiote/FestiveSymbioteOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/festive-symbiote/FestiveSymbioteOldAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/festive-symbiote/FestiveSymbioteF.png",
+        "http://aqwwiki.wdfiles.com/local--files/festive-symbiote/FestiveSymbioteFAnim.png"
+    ],
+    "hash": "7ce2114309cc9dbe973c0f40e74ca57c"
+}

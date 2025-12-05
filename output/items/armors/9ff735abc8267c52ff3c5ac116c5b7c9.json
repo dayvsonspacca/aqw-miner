@@ -1,0 +1,17 @@
+{
+    "urlName": "gi-j6-armor",
+    "url": "http://aqwwiki.wikidot.com/gi-j6-armor",
+    "name": "GI J6 (Armor)",
+    "type": "armors",
+    "description": "GI J6: The Real AQWorlds Hero!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/T6e2mN5.png",
+        "https://i.imgur.com/Ct7Lbiv.png"
+    ],
+    "hash": "9ff735abc8267c52ff3c5ac116c5b7c9"
+}

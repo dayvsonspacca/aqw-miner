@@ -1,0 +1,17 @@
+{
+    "urlName": "kahn-of-dragons-barbarian",
+    "url": "http://aqwwiki.wikidot.com/kahn-of-dragons-barbarian",
+    "name": "Kahn of Dragons Barbarian",
+    "type": "armors",
+    "description": "This armor will protect you while hunting for fire-breathing beasts that roam the skies!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kahn-of-dragons-barbarian/KahnofDragonsBarbarianMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/kahn-of-dragons-barbarian/KahnofDragonsBarbarianFemale.png"
+    ],
+    "hash": "3afc20386333e6fbbd1aeee68dc95648"
+}

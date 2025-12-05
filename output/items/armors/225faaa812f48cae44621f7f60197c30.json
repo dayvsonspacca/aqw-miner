@@ -1,0 +1,17 @@
+{
+    "urlName": "justice-warrior",
+    "url": "http://aqwwiki.wikidot.com/justice-warrior",
+    "name": "Justice Warrior",
+    "type": "armors",
+    "description": "Fight for truth, justice, and equality!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/justice-warrior/JWM.png",
+        "http://aqwwiki.wdfiles.com/local--files/justice-warrior/JWF.jpg"
+    ],
+    "hash": "225faaa812f48cae44621f7f60197c30"
+}

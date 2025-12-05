@@ -1,0 +1,17 @@
+{
+    "urlName": "ionized-armor",
+    "url": "http://aqwwiki.wikidot.com/ionized-armor",
+    "name": "Ionized Armor",
+    "type": "armors",
+    "description": "Your skeleton has been ionized. Your very BONES have become electric!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/SXbZ8LV.png",
+        "http://aqwwiki.wdfiles.com/local--files/ionized-armor/IonizedArmorF.png"
+    ],
+    "hash": "4fe50481432105cd990344af99ecf93c"
+}

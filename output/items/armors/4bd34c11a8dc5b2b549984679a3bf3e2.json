@@ -1,0 +1,17 @@
+{
+    "urlName": "lightning-clawsuit-ac",
+    "url": "http://aqwwiki.wikidot.com/lightning-clawsuit-ac",
+    "name": "Lightning ClawSuit (AC)",
+    "type": "armors",
+    "description": "When you want to shine as bright as the Frostval star but also need to rip apart your enemies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightning-clawsuit-ac/LightningClawsuitM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lightning-clawsuit-ac/LightningClawsuitF.png"
+    ],
+    "hash": "4bd34c11a8dc5b2b549984679a3bf3e2"
+}

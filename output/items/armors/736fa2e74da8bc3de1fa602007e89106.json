@@ -1,0 +1,17 @@
+{
+    "urlName": "celestine-armor",
+    "url": "http://aqwwiki.wikidot.com/celestine-armor",
+    "name": "Celestine Armor",
+    "type": "armors",
+    "description": "A divine look for a supernatural hero.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/celestine-armor/CelestineM.png",
+        "http://aqwwiki.wdfiles.com/local--files/celestine-armor/CelestineF.png"
+    ],
+    "hash": "736fa2e74da8bc3de1fa602007e89106"
+}

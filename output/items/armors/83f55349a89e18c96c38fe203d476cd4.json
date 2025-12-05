@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-lionfang",
+    "url": "http://aqwwiki.wikidot.com/dark-lionfang",
+    "name": "Dark Lionfang",
+    "type": "armors",
+    "description": "Once a general in the king's service, Lionfang has struck out against the forces of Good.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/0ExmIi8.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-lionfang/DarkLionfangMale.png"
+    ],
+    "hash": "83f55349a89e18c96c38fe203d476cd4"
+}

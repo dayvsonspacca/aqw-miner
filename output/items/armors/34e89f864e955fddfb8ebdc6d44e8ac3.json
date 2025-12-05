@@ -1,0 +1,16 @@
+{
+    "urlName": "witchblade",
+    "url": "http://aqwwiki.wikidot.com/witchblade",
+    "name": "WitchBlade",
+    "type": "armors",
+    "description": "The covens only hold you back. There's more potential and enchantment to be found in a blade you sharpen yourself.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mIclmxe.png"
+    ],
+    "hash": "34e89f864e955fddfb8ebdc6d44e8ac3"
+}

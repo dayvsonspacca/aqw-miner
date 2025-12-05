@@ -1,0 +1,14 @@
+{
+    "urlName": "aegis-guardian",
+    "url": "http://aqwwiki.wikidot.com/aegis-guardian",
+    "name": "Aegis Guardian",
+    "type": "armors",
+    "description": "Wardens of the Celestial Realm, these bright warriors willingly give their lives to defend their people and home.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/jDjhs1Y.png",
+        "http://i.imgur.com/pppZVNR.png"
+    ],
+    "hash": "68bddf4e7ee04e85cc8246af8d2d36f7"
+}

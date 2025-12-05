@@ -1,0 +1,16 @@
+{
+    "urlName": "night-hunter",
+    "url": "http://aqwwiki.wikidot.com/night-hunter",
+    "name": "Night Hunter",
+    "type": "armors",
+    "description": "Feel honored, you have proven yourself to be one of the elite Night Hunter. The hunters were created though samples of the Shadowslayer from the Lore in Adventure Quest.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/eXJXkMg.png",
+        "https://i.imgur.com/CgCyBAs.png"
+    ],
+    "hash": "1ca1fdbaf340b30ec3fc56fd95e03028"
+}

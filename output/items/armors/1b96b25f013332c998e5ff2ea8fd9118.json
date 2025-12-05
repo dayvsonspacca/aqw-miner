@@ -1,0 +1,17 @@
+{
+    "urlName": "master-of-memes",
+    "url": "http://aqwwiki.wikidot.com/master-of-memes",
+    "name": "Master Of Memes",
+    "type": "armors",
+    "description": "You think the meme is your ally? You merely equipped it. I was born into it, molded by it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Cho3Mcq.png",
+        "https://i.imgur.com/WlKckxv.png"
+    ],
+    "hash": "1b96b25f013332c998e5ff2ea8fd9118"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "northern-warlord",
+    "url": "http://aqwwiki.wikidot.com/northern-warlord",
+    "name": "Northern Warlord",
+    "type": "armors",
+    "description": "A legendary warlord of steel and iron. They served no crown or throne. Their loyalty laid with the thrill of battle. A warrior like that can't have been human, or stayed human after lifetimes of bloodshed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/UEiqY3x.png",
+        "https://i.imgur.com/6wf2uWV.png"
+    ],
+    "hash": "e7e254d4dd97b6587761a5aafd521ec6"
+}

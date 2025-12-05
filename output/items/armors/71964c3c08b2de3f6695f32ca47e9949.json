@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-soulstealer",
+    "url": "http://aqwwiki.wikidot.com/nation-soulstealer",
+    "name": "Nation Soulstealer",
+    "type": "armors",
+    "description": "Soulstealer's with affinity to the Nulgath Nation can weave more than just souls. They can bend them into raw thread, eradicating the soul's existence entirely and fueling their black hearts.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/6o0WAoM.png",
+        "http://i.imgur.com/5JoxWWC.png"
+    ],
+    "hash": "71964c3c08b2de3f6695f32ca47e9949"
+}

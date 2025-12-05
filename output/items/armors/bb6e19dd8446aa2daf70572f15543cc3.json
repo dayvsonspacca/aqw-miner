@@ -1,0 +1,18 @@
+{
+    "urlName": "yokai-street-wear-ac",
+    "url": "http://aqwwiki.wikidot.com/yokai-street-wear-ac",
+    "name": "Yokai Street Wear (AC)",
+    "type": "armors",
+    "description": "Straight outta Yokai island.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/3u7oLHZ.png",
+        "https://i.imgur.com/2gm6UTX.png",
+        "https://i.imgur.com/DrxEWR9.png"
+    ],
+    "hash": "bb6e19dd8446aa2daf70572f15543cc3"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "banished-brawler",
+    "url": "http://aqwwiki.wikidot.com/banished-brawler",
+    "name": "Banished Brawler",
+    "type": "armors",
+    "description": "Banished, but not beaten. You walk. Searching for your purpose. For your place and time. And also, for things to stab with your sweet armblades.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/F8uzaPi.png",
+        "http://i.imgur.com/qzcUuNB.png"
+    ],
+    "hash": "765d1d40ea412f58ff60ed840fe63b1a"
+}

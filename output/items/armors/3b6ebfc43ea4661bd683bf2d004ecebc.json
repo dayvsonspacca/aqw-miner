@@ -1,0 +1,16 @@
+{
+    "urlName": "emerald-fairy",
+    "url": "http://aqwwiki.wikidot.com/emerald-fairy",
+    "name": "Emerald Fairy",
+    "type": "armors",
+    "description": "During Lucky Day all of the Fairies come out to celebrate with their friends. The Emerald Fairies enjoy the woods, and can often be found in forests.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7aEW8kh.png",
+        "https://i.imgur.com/QAsdnEY.png"
+    ],
+    "hash": "3b6ebfc43ea4661bd683bf2d004ecebc"
+}

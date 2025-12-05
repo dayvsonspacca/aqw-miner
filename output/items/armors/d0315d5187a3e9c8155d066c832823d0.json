@@ -1,0 +1,16 @@
+{
+    "urlName": "warfury-elite-s-armor",
+    "url": "http://aqwwiki.wikidot.com/warfury-elite-s-armor",
+    "name": "WarFury Elite's Armor",
+    "type": "armors",
+    "description": "As you rise through the ranks of the Warfury your armor reflects your rank.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/XP2YdGj.png",
+        "https://imgur.com/QI8xGTQ.png"
+    ],
+    "hash": "d0315d5187a3e9c8155d066c832823d0"
+}

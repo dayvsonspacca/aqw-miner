@@ -1,0 +1,17 @@
+{
+    "urlName": "warok-warlord",
+    "url": "http://aqwwiki.wikidot.com/warok-warlord",
+    "name": "Warok Warlord",
+    "type": "armors",
+    "description": "Forged in discipline and draped in tradition, this garb channels the unyielding spirit of the Warok leaders who stood at the heart of every Reog performance.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/eoihxAt.png",
+        "https://i.imgur.com/bVIfpt4.png"
+    ],
+    "hash": "9003c0585c54013c7ac8467856ec1fb9"
+}

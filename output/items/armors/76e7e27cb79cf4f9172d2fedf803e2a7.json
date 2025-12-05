@@ -1,0 +1,16 @@
+{
+    "urlName": "unlucky-farmer",
+    "url": "http://aqwwiki.wikidot.com/unlucky-farmer",
+    "name": "Unlucky Farmer",
+    "type": "armors",
+    "description": "Don't worry about all those screams in the next field over. You just keep farming for that new reward you're after. YOU'LL BE FINE.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/nx3AGkM.png",
+        "https://i.imgur.com/y5PA3EX.png"
+    ],
+    "hash": "76e7e27cb79cf4f9172d2fedf803e2a7"
+}

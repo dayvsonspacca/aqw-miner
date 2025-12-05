@@ -1,0 +1,16 @@
+{
+    "urlName": "empowered-evolved-hex",
+    "url": "http://aqwwiki.wikidot.com/empowered-evolved-hex",
+    "name": "Empowered Evolved Hex",
+    "type": "armors",
+    "description": "This item does 35% more damage to all monsters and gives 25% more gold/exp/rep/cp when equipped. Courtesy of Zee, Nulgath has empowered his oldest and most devoted Fiend's to further shape his very image. There is no purity left in their veins.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/KwQMY4y.png",
+        "https://i.imgur.com/VhTwVav.png"
+    ],
+    "hash": "fcfe7907ce651349b409a457c61cf129"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "heroic-zombieslayer-armor",
+    "url": "http://aqwwiki.wikidot.com/heroic-zombieslayer-armor",
+    "name": "Heroic ZombieSlayer Armor",
+    "type": "armors",
+    "description": "The undead walk the land slain and reborn by Sepulchure's toxic fog. It is up to you to save the innocent, rescue the weak, and slay those who would tear down the home you have defended so valiantly. You are the Zombie Killer!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/heroic-zombieslayer-armor/HeroicZombieSlayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/heroic-zombieslayer-armor/HeroicZombieSlayerF.png"
+    ],
+    "hash": "9a2868d963699daa31acf3d9d440310b"
+}

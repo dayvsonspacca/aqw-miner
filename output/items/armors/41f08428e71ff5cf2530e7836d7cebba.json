@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-fiend-morph",
+    "url": "http://aqwwiki.wikidot.com/dark-fiend-morph",
+    "name": "Dark Fiend Morph",
+    "type": "armors",
+    "description": "You've morphed into a Dark Fiend, able to rip your opponents limb from limb with your claws. (eyes color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/BNCZl6s.png",
+        "http://i.imgur.com/fmjOv8K.png"
+    ],
+    "hash": "41f08428e71ff5cf2530e7836d7cebba"
+}

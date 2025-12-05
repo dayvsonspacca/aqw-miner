@@ -1,0 +1,17 @@
+{
+    "urlName": "tempest-armor-2",
+    "url": "http://aqwwiki.wikidot.com/tempest-armor-2",
+    "name": "Tempest (Armor)",
+    "type": "armors",
+    "description": "Unleash the unforgiving force of weather on your foes, they'll be blown away.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tempest-armor-2/TempestM.png",
+        "http://aqwwiki.wdfiles.com/local--files/tempest-armor-2/TempestF.png"
+    ],
+    "hash": "35acd52d63d1f068ad90920022401481"
+}

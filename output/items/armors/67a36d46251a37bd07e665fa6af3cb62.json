@@ -1,0 +1,18 @@
+{
+    "urlName": "black-renegade",
+    "url": "http://aqwwiki.wikidot.com/black-renegade",
+    "name": "Black Renegade",
+    "type": "armors",
+    "description": "Similar to the upgrade to the base rogue class armor but black.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/t7zWZWg.png",
+        "http://i.imgur.com/USr7rhx.png"
+    ],
+    "hash": "67a36d46251a37bd07e665fa6af3cb62"
+}

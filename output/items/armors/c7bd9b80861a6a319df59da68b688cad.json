@@ -1,0 +1,17 @@
+{
+    "urlName": "penance-armor",
+    "url": "http://aqwwiki.wikidot.com/penance-armor",
+    "name": "Penance (Armor)",
+    "type": "armors",
+    "description": "Much more comfortable than sackcloth and ashes. More stylish too!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/z4kZdc0.png",
+        "https://i.imgur.com/jxv0unj.png"
+    ],
+    "hash": "c7bd9b80861a6a319df59da68b688cad"
+}

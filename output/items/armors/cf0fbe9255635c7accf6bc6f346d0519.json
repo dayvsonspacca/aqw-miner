@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-rogue-1",
+    "url": "http://aqwwiki.wikidot.com/chaos-rogue-1",
+    "name": "Chaos Rogue (1)",
+    "type": "armors",
+    "description": "Chaos Rogues follow their own set of rules. with a combination of stealth, madness and chaoruption, you take your enemies by surprise.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/HNZSqnQ.png",
+        "https://i.imgur.com/Bozj9aB.png"
+    ],
+    "hash": "cf0fbe9255635c7accf6bc6f346d0519"
+}

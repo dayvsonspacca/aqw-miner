@@ -1,0 +1,19 @@
+{
+    "urlName": "mad-scientist-armor",
+    "url": "http://aqwwiki.wikidot.com/mad-scientist-armor",
+    "name": "Mad Scientist (Armor)",
+    "type": "armors",
+    "description": "AHAHAHAHAHA! SCIENCE!!!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mad-scientist-armor/MadScientistMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/mad-scientist-armor/MadScientistMA.png",
+        "http://aqwwiki.wdfiles.com/local--files/mad-scientist-armor/MadScientistFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/mad-scientist-armor/MadScientistFA.png"
+    ],
+    "hash": "c3109c764a070edee02227c16e1e8106"
+}

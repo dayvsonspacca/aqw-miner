@@ -1,0 +1,17 @@
+{
+    "urlName": "immortal-crusader",
+    "url": "http://aqwwiki.wikidot.com/immortal-crusader",
+    "name": "Immortal Crusader",
+    "type": "armors",
+    "description": "As long as you stand together with your compatriots, you will NEVER be defeated! Your motto: Libertad O Muerte!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BsAOZcX.png",
+        "https://i.imgur.com/DlU0KlH.png"
+    ],
+    "hash": "5f4db3ea4ee4cc200bd385508dfacc38"
+}

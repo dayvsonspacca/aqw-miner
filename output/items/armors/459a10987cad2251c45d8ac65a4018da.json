@@ -1,0 +1,17 @@
+{
+    "urlName": "chaotic-astral-star-captain",
+    "url": "http://aqwwiki.wikidot.com/chaotic-astral-star-captain",
+    "name": "Chaotic Astral Star Captain",
+    "type": "armors",
+    "description": "I will travel across the space, causing chaos far and wide. To destroy those is my real cause to start mutiny.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaotic-astral-star-captain/ChaoticAstralStarCaptainMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaotic-astral-star-captain/ChaoticAstralStarCaptainFemale.png"
+    ],
+    "hash": "459a10987cad2251c45d8ac65a4018da"
+}

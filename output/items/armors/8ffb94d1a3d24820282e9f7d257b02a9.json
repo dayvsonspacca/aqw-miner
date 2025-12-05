@@ -1,0 +1,16 @@
+{
+    "urlName": "celestial-nomad",
+    "url": "http://aqwwiki.wikidot.com/celestial-nomad",
+    "name": "Celestial Nomad",
+    "type": "armors",
+    "description": "The Bright One was born from a miracle, and gives pieces of itself to make more. The Celestial Wanderers are on a pilgrimage to find and recieve these blessings to better the world.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/ZPTqe1O.png",
+        "https://i.imgur.com/Cs1gWWA.png"
+    ],
+    "hash": "8ffb94d1a3d24820282e9f7d257b02a9"
+}

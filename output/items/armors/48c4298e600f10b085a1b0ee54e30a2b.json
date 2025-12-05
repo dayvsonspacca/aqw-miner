@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-lorekeeper",
+    "url": "http://aqwwiki.wikidot.com/underworld-lorekeeper",
+    "name": "Underworld Lorekeeper",
+    "type": "armors",
+    "description": "The Legion's Lorekeepers have shadowed their Lord since the march's earliest days. Dedicated to chronicling its past and present, they reach into the future as Soothsayers to reveal dark fates.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/fSN1iRJ.png",
+        "https://i.imgur.com/fsWli00.png"
+    ],
+    "hash": "48c4298e600f10b085a1b0ee54e30a2b"
+}

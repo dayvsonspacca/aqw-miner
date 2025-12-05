@@ -1,0 +1,16 @@
+{
+    "urlName": "earth-shaman",
+    "url": "http://aqwwiki.wikidot.com/earth-shaman",
+    "name": "Earth Shaman",
+    "type": "armors",
+    "description": "Earth Shamen commune with the spirits of the stones and earth around them. They are often as steadfast as the stones they speak with.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/mZp6KU0.png",
+        "http://i.imgur.com/v7pG5M8.png"
+    ],
+    "hash": "13acf786b0c59497bfb3bbf5e8aec00c"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "zorbak-shirt-armor",
+    "url": "http://aqwwiki.wikidot.com/zorbak-shirt-armor",
+    "name": "Zorbak Shirt (Armor)",
+    "type": "armors",
+    "description": "103% Cotton-poly blend Artix Ent shirts will NOT protect you from rainbows, unicorns or tutorial Moglins. They WILL protect you from lack of style and bad fashion choices.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/zorbak-shirt-armor/ZorbakShirtM.png",
+        "http://aqwwiki.wdfiles.com/local--files/zorbak-shirt-armor/ZorbakShirtF.png"
+    ],
+    "hash": "094468def1ed1f5ed4c339ccc6a90287"
+}

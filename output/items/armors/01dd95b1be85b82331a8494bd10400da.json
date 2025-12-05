@@ -1,0 +1,18 @@
+{
+    "urlName": "northlands-ranger",
+    "url": "http://aqwwiki.wikidot.com/northlands-ranger",
+    "name": "Northlands Ranger",
+    "type": "armors",
+    "description": "The Northlands Ranger travel the frozen wastes in search of Good heroes to reward with silver, gold, and treasure beyond compare\u2026 ensuring a most joyful winter season!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/northlands-ranger/NRMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/northlands-ranger/NRFemale.png"
+    ],
+    "hash": "01dd95b1be85b82331a8494bd10400da"
+}

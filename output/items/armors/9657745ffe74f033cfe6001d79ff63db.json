@@ -1,0 +1,17 @@
+{
+    "urlName": "honorable-ninja",
+    "url": "http://aqwwiki.wikidot.com/honorable-ninja",
+    "name": "Honorable Ninja",
+    "type": "armors",
+    "description": "When one follows the code of the ninja, one must sacrifice everything for the greated good, only then can you achieve this level of honor.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/FutKx3R.png",
+        "https://i.imgur.com/4YOfHvt.png"
+    ],
+    "hash": "9657745ffe74f033cfe6001d79ff63db"
+}

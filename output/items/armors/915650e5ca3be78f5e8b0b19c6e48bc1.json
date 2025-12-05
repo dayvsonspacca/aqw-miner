@@ -1,0 +1,16 @@
+{
+    "urlName": "barista-armor",
+    "url": "http://aqwwiki.wikidot.com/barista-armor",
+    "name": "Barista (Armor)",
+    "type": "armors",
+    "description": "Air-breathers need coffee to live, and the dead need coffee to feel some semblance of being alive. Baristas are an essential professional service.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/KjOEwdc.png",
+        "https://i.imgur.com/QQl9hOa.png"
+    ],
+    "hash": "915650e5ca3be78f5e8b0b19c6e48bc1"
+}

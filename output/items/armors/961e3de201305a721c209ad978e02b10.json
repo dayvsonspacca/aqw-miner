@@ -1,0 +1,16 @@
+{
+    "urlName": "8-bit-warrior",
+    "url": "http://aqwwiki.wikidot.com/8-bit-warrior",
+    "name": "8-Bit Warrior",
+    "type": "armors",
+    "description": "The bit and the byte and the binary numbers merged to form\u2026 the 8-bit Warrior. Battle On!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/8-bit-warrior/8-BitWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/8-bit-warrior/8-BitWarriorF.png"
+    ],
+    "hash": "961e3de201305a721c209ad978e02b10"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "rift-warden",
+    "url": "http://aqwwiki.wikidot.com/rift-warden",
+    "name": "Rift Warden",
+    "type": "armors",
+    "description": "The armor of the Rift Wardens - Those who guard any holes between the fabrics of reality.",
+    "rarity": "5% Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/tadWSth.png",
+        "https://i.imgur.com/wdoFPwe.png"
+    ],
+    "hash": "73c0527dec36b54db453faf341d2e708"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "navel-commander",
+    "url": "http://aqwwiki.wikidot.com/navel-commander",
+    "name": "Navel Commander",
+    "type": "armors",
+    "description": "I told them that shirts that show off your navel could be hot\u2026 I think they misunderstood.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/50DWR1Z.png",
+        "http://aqwwiki.wdfiles.com/local--files/navel-commander/NavelCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/navel-commander/NavelCommanderF.png"
+    ],
+    "hash": "0f03e2fe4a90de89ddf1890f98529ca4"
+}

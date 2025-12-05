@@ -1,0 +1,14 @@
+{
+    "urlName": "tournament-champion",
+    "url": "http://aqwwiki.wikidot.com/tournament-champion",
+    "name": "Tournament Champion",
+    "type": "armors",
+    "description": "Be a Champion in a league all your own.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/AquC0nA.png",
+        "http://i.imgur.com/fcQUTsB.png"
+    ],
+    "hash": "3a9e131a4dd068a03b1e007053b6fde5"
+}

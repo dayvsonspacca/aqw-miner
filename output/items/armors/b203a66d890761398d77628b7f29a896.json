@@ -1,0 +1,17 @@
+{
+    "urlName": "gilded-champion",
+    "url": "http://aqwwiki.wikidot.com/gilded-champion",
+    "name": "Gilded Champion",
+    "type": "armors",
+    "description": "Pretty decoration does not always equal combat readiness. With this armor, you can have both.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gilded-champion/GildedChampionM.png",
+        "http://aqwwiki.wdfiles.com/local--files/gilded-champion/GildedChampionF.png"
+    ],
+    "hash": "b203a66d890761398d77628b7f29a896"
+}

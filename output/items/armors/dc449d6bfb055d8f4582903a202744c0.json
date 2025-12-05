@@ -1,0 +1,17 @@
+{
+    "urlName": "mage-disciple-armor",
+    "url": "http://aqwwiki.wikidot.com/mage-disciple-armor",
+    "name": "Mage Disciple Armor",
+    "type": "armors",
+    "description": "Show your love of mages!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/f5bL4ND.png",
+        "https://i.imgur.com/A54s7xc.png"
+    ],
+    "hash": "dc449d6bfb055d8f4582903a202744c0"
+}

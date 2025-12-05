@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-adept-ac",
+    "url": "http://aqwwiki.wikidot.com/undead-adept-ac",
+    "name": "Undead Adept (AC)",
+    "type": "armors",
+    "description": "Death is only the end for the weak. The Adept follows no master, and rose through its own might. Ambition, vengeance, or even pure spite impels them to prey on the living.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/npPKC4g.png",
+        "https://imgur.com/zyfnRBO.png"
+    ],
+    "hash": "4caf3cea60ad15e5049bf9a60b0e3b2e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "fallen-amadis",
+    "url": "http://aqwwiki.wikidot.com/fallen-amadis",
+    "name": "Fallen Amadis",
+    "type": "armors",
+    "description": "When the wings of the archangel are ripped from his back and he plummets from the heavens, the darkness that is the Underworld consumes his being, transforming him into the Fallen Amadis.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-amadis/FAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fallen-amadis/FAF.png"
+    ],
+    "hash": "59c581a6fdcb9a6271828b315463a055"
+}

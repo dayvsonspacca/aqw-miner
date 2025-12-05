@@ -1,0 +1,17 @@
+{
+    "urlName": "onyx-shinobi-ac",
+    "url": "http://aqwwiki.wikidot.com/onyx-shinobi-ac",
+    "name": "Onyx Shinobi (AC)",
+    "type": "armors",
+    "description": "Ninjas are hailed for their dexterity. Dragons are praised for their strength. And when the Ninja trains in the way of the Dragon, they shall become a master of brutal warfare!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/oisfcoX.png",
+        "https://i.imgur.com/V6ag1TK.png"
+    ],
+    "hash": "1e443503a429f1fe02bc88ebae16574b"
+}

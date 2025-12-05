@@ -1,0 +1,17 @@
+{
+    "urlName": "pink-ninja",
+    "url": "http://aqwwiki.wikidot.com/pink-ninja",
+    "name": "Pink Ninja",
+    "type": "armors",
+    "description": "This clan of ninja are known for their ability to blend into the shadows\u2026 if shadows were pink. But who would want to blend in when you're THIS stylish?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/KRreVOo.png",
+        "http://i.imgur.com/MjVYqxV.png"
+    ],
+    "hash": "46ebdd21db46cef46ec0ee59826659eb"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "black-hole-of-despair",
+    "url": "http://aqwwiki.wikidot.com/black-hole-of-despair",
+    "name": "Black Hole of Despair",
+    "type": "armors",
+    "description": "Despair eats away your very existence.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-hole-of-despair/BlackHoleofDespairM.png",
+        "http://aqwwiki.wdfiles.com/local--files/black-hole-of-despair/BlackHoleofDespairF.png"
+    ],
+    "hash": "f99b036138786d6eb27f8d4b88dcb313"
+}

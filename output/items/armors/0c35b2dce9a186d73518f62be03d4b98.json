@@ -1,0 +1,17 @@
+{
+    "urlName": "ebilcorp-prometheus-ac",
+    "url": "http://aqwwiki.wikidot.com/ebilcorp-prometheus-ac",
+    "name": "EbilCorp Prometheus (AC)",
+    "type": "armors",
+    "description": "Energy crackles all around you. Power radiates from within. You've become a massive force of unstoppable power. Will you use it to protect those you love, or will you become the next force of evil? The choice is yours.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/maSETRI.png",
+        "https://i.imgur.com/gLr5PoM.png"
+    ],
+    "hash": "0c35b2dce9a186d73518f62be03d4b98"
+}

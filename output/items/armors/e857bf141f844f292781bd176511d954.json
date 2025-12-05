@@ -1,0 +1,17 @@
+{
+    "urlName": "gifthunter",
+    "url": "http://aqwwiki.wikidot.com/gifthunter",
+    "name": "GiftHunter",
+    "type": "armors",
+    "description": "Dashing through the snow, giving gifts to one and all.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AOPSwaB.png",
+        "https://i.imgur.com/WWzTM8i.png"
+    ],
+    "hash": "e857bf141f844f292781bd176511d954"
+}

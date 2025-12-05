@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-paragon-armor",
+    "url": "http://aqwwiki.wikidot.com/chaos-paragon-armor",
+    "name": "Chaos Paragon (Armor)",
+    "type": "armors",
+    "description": "For those who wish to be chaotic but know the one true ruler is Dage, not Drakath.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-paragon-armor/CPnew.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaos-paragon-armor/ChaosParagon.png"
+    ],
+    "hash": "e4728a36afac22f28535afc9600efa84"
+}

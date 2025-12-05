@@ -1,0 +1,21 @@
+{
+    "urlName": "icestorm-warlord-ac",
+    "url": "http://aqwwiki.wikidot.com/icestorm-warlord-ac",
+    "name": "Icestorm Warlord (AC)",
+    "type": "armors",
+    "description": "The frozen Northlands builds the fiercest warriors. No amount of cold will stop these generals from conquering.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/SulOpTt.png",
+        "https://i.imgur.com/rg6fDnv.png",
+        "https://i.imgur.com/Cjex7wI.png",
+        "https://i.imgur.com/gGZW5S2.png",
+        "https://imgur.com/DCwlAl3.png",
+        "https://i.imgur.com/400XEpo.png"
+    ],
+    "hash": "4b6edcaf3055bc723d84f10de6aa2bda"
+}

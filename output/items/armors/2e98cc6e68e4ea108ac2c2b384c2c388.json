@@ -1,0 +1,17 @@
+{
+    "urlName": "obsidian-centurion-0-ac",
+    "url": "http://aqwwiki.wikidot.com/obsidian-centurion-0-ac",
+    "name": "Obsidian Centurion (0 AC)",
+    "type": "armors",
+    "description": "The Obsidian Centurions are soldiers from a fabled sunken city. This never before seen armor has been in many battles.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ghPrxZh.png",
+        "https://i.imgur.com/4aqR3a5.png"
+    ],
+    "hash": "2e98cc6e68e4ea108ac2c2b384c2c388"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "void-dragon-defender-ac",
+    "url": "http://aqwwiki.wikidot.com/void-dragon-defender-ac",
+    "name": "Void Dragon Defender (AC)",
+    "type": "armors",
+    "description": "Warriors of the Void Dragon do not know fear as the Void shows no mercy to those who are faint of heart.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-dragon-defender-ac/VoidDragonDefenderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-dragon-defender-ac/VoidDragonDefenderF.png"
+    ],
+    "hash": "e3bf5668672b2a4b8c489cf9363ee01f"
+}

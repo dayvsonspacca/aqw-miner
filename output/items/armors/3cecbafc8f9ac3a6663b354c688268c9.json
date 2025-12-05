@@ -1,0 +1,17 @@
+{
+    "urlName": "magistrate-armor",
+    "url": "http://aqwwiki.wikidot.com/magistrate-armor",
+    "name": "Magistrate Armor",
+    "type": "armors",
+    "description": "When people need help from the law, they come to you. A magistrate is a master of law.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/magistrate-armor/MagistrateArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/magistrate-armor/MagistrateArmorF.png"
+    ],
+    "hash": "3cecbafc8f9ac3a6663b354c688268c9"
+}

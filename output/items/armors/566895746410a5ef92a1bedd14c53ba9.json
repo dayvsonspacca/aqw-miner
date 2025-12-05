@@ -1,0 +1,16 @@
+{
+    "urlName": "gold-parade-costume",
+    "url": "http://aqwwiki.wikidot.com/gold-parade-costume",
+    "name": "Gold Parade Costume",
+    "type": "armors",
+    "description": "Pick your favorite color and join the New Year parade!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gkDm8rD.png",
+        "https://i.imgur.com/aZKs1QX.png"
+    ],
+    "hash": "566895746410a5ef92a1bedd14c53ba9"
+}

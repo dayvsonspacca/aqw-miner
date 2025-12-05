@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-blacksmith-armor",
+    "url": "http://aqwwiki.wikidot.com/legion-blacksmith-armor",
+    "name": "Legion Blacksmith (Armor)",
+    "type": "armors",
+    "description": "Dage worked this poor blacksmith to death, then reanimated them to continue working.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-blacksmith-armor/LegionBlacksmithM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-blacksmith-armor/LegionBlacksmithF.png"
+    ],
+    "hash": "12427859cbc1f06528cd73b47a9890a7"
+}

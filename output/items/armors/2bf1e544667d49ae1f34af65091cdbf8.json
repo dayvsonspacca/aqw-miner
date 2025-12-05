@@ -1,0 +1,18 @@
+{
+    "urlName": "festive-party-outfit",
+    "url": "http://aqwwiki.wikidot.com/festive-party-outfit",
+    "name": "Festive Party Outfit",
+    "type": "armors",
+    "description": "A fun party outfit in which to celebrate the Bright Lights Festival! (Color Custom)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Jze3oOY.png",
+        "https://i.imgur.com/24rksP2.png",
+        "https://i.imgur.com/2u3CrlM.png"
+    ],
+    "hash": "2bf1e544667d49ae1f34af65091cdbf8"
+}

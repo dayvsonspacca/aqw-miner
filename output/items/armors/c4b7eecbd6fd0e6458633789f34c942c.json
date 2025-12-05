@@ -1,0 +1,16 @@
+{
+    "urlName": "phoenix-hunter",
+    "url": "http://aqwwiki.wikidot.com/phoenix-hunter",
+    "name": "Phoenix Hunter",
+    "type": "armors",
+    "description": "Going after Imps, Cyclops, and Hydras are you? Well you'll need an armor suitable for the terrain.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/1h3ND4E.png",
+        "http://i.imgur.com/ysuavT5.png"
+    ],
+    "hash": "c4b7eecbd6fd0e6458633789f34c942c"
+}

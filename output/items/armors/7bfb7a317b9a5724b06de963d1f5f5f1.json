@@ -1,0 +1,14 @@
+{
+    "urlName": "tainted-druid",
+    "url": "http://aqwwiki.wikidot.com/tainted-druid",
+    "name": "Tainted Druid",
+    "type": "armors",
+    "description": "These Druids once served Brightoak, but now they've been corrupted and wish to see it's destruction.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/790I3SX.png",
+        "http://i.imgur.com/8zuEFZN.png"
+    ],
+    "hash": "7bfb7a317b9a5724b06de963d1f5f5f1"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-soulstealer",
+    "url": "http://aqwwiki.wikidot.com/legion-soulstealer",
+    "name": "Legion Soulstealer",
+    "type": "armors",
+    "description": "Soulstealer's with affinity to the Undead Legion can weave more than just souls. They can freeze their hearts and any emotion without remorse, rendering these souls as empty as their bodies. This is done to make recruiting easier.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/BDx6Mna.png",
+        "http://i.imgur.com/m5nfHXN.png"
+    ],
+    "hash": "30a1255294358af64809379145baa5d1"
+}

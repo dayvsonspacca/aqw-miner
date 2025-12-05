@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-healer",
+    "url": "http://aqwwiki.wikidot.com/golden-healer",
+    "name": "Golden Healer",
+    "type": "armors",
+    "description": "The heroes of Battleon will ALWAYS be where they are needed. Some fight for gold. Some fight for glory. But ALL will emerge victorious when we fight together.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kn4HoiC.png",
+        "https://i.imgur.com/NbhtFgE.png"
+    ],
+    "hash": "862197228c1a344dca346de32c9a7075"
+}

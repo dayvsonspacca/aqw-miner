@@ -1,0 +1,17 @@
+{
+    "urlName": "battleon-celebration-garb",
+    "url": "http://aqwwiki.wikidot.com/battleon-celebration-garb",
+    "name": "Battleon Celebration Garb",
+    "type": "armors",
+    "description": "Battleon celebrates their continued survival and victories year by year. The sun sets and snow falls on a battle-torn land, but our heroes will always see tomorrow. The butterflies represent their continued growth.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fPzRqdO.png",
+        "https://i.imgur.com/S9Es4Na.png"
+    ],
+    "hash": "6b5c035c37e100802a59cf3d3af9fc90"
+}

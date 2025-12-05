@@ -1,0 +1,16 @@
+{
+    "urlName": "troll-guardian-armor",
+    "url": "http://aqwwiki.wikidot.com/troll-guardian-armor",
+    "name": "Troll Guardian Armor",
+    "type": "armors",
+    "description": "Join the elite Troll Guardian Fortess!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/trb4xXu.png",
+        "http://i.imgur.com/siA6fFO.png"
+    ],
+    "hash": "ab20407286e918a3ca0cdf302299a4bf"
+}

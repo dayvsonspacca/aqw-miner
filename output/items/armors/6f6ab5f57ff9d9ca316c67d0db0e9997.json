@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-walker",
+    "url": "http://aqwwiki.wikidot.com/glacial-walker",
+    "name": "Glacial Walker",
+    "type": "armors",
+    "description": "Once a refugee fleeing the chaos on the mainland, you've fallen to the FrostSpawn Horde. Will you serve the Queen of Monsters and Karok the Fallen?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/dxPyQZa.png",
+        "http://i.imgur.com/VcRqimA.png"
+    ],
+    "hash": "6f6ab5f57ff9d9ca316c67d0db0e9997"
+}

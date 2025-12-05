@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-oni",
+    "url": "http://aqwwiki.wikidot.com/underworld-oni",
+    "name": "Underworld Oni",
+    "type": "armors",
+    "description": "The Underworld Oni emerges from its dark realm to hunt down and punish the wicked.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/TfYP0PN.png",
+        "https://i.imgur.com/MybBu0F.png"
+    ],
+    "hash": "6b62a5df417ba5b05889ca466c583eea"
+}

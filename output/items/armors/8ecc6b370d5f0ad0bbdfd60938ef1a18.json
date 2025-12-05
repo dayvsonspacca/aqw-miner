@@ -1,0 +1,23 @@
+{
+    "urlName": "dark-dracomancer-morph",
+    "url": "http://aqwwiki.wikidot.com/dark-dracomancer-morph",
+    "name": "Dark Dracomancer Morph",
+    "type": "armors",
+    "description": "Press on the different parts of this color customizable armor to change your appearance from human to half-dragon dracomancer!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-dracomancer-morph/DDMMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dracomancer-morph/DDMMAC.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dracomancer-morph/DDMMHC.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dracomancer-morph/DDMMCC.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dracomancer-morph/DDMFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dracomancer-morph/DDMFAC.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dracomancer-morph/DDMFHC.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-dracomancer-morph/DDMFCC.png"
+    ],
+    "hash": "8ecc6b370d5f0ad0bbdfd60938ef1a18"
+}

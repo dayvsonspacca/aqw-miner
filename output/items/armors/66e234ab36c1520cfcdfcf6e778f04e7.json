@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-archfiend-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-archfiend-ac",
+    "name": "Underworld ArchFiend (AC)",
+    "type": "armors",
+    "description": "The visage of Dage the Evil as he bided his time in the shadow of his teacher.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bbzvVeW.png",
+        "https://i.imgur.com/IfX9EYq.png"
+    ],
+    "hash": "66e234ab36c1520cfcdfcf6e778f04e7"
+}

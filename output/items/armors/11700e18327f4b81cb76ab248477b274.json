@@ -1,0 +1,15 @@
+{
+    "urlName": "alchemage-armor",
+    "url": "http://aqwwiki.wikidot.com/alchemage-armor",
+    "name": "Alchemage Armor",
+    "type": "armors",
+    "description": "You are a mage, tried and true to your spellcasting. But don't let the spell books fool you as you are not scared to wield a sword.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/4Ot1ZLm.png",
+        "https://i.imgur.com/yZWJVJu.png",
+        "http://i.imgur.com/QCCc4iO.png"
+    ],
+    "hash": "11700e18327f4b81cb76ab248477b274"
+}

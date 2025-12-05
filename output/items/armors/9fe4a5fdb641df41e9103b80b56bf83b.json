@@ -1,0 +1,17 @@
+{
+    "urlName": "the-butcher-armor",
+    "url": "http://aqwwiki.wikidot.com/the-butcher-armor",
+    "name": "The Butcher (Armor)",
+    "type": "armors",
+    "description": "At midnight the butcher will rise! Hopefully your not the next bodies draining on his hooks!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-butcher-armor/TheButcherM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-butcher-armor/TheButcherF.png"
+    ],
+    "hash": "9fe4a5fdb641df41e9103b80b56bf83b"
+}

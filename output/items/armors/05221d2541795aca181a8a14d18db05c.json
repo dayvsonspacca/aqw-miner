@@ -1,0 +1,16 @@
+{
+    "urlName": "blade-warrior",
+    "url": "http://aqwwiki.wikidot.com/blade-warrior",
+    "name": "Blade Warrior",
+    "type": "armors",
+    "description": "Summoned from the future, Dage The Evil brought these mechanical leviathans to aid him in his conflict against Nulgath and his followers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blade-warrior/BladeWarrior.png"
+    ],
+    "hash": "05221d2541795aca181a8a14d18db05c"
+}

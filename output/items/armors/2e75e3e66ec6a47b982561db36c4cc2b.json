@@ -1,0 +1,17 @@
+{
+    "urlName": "mistfall-lich-ac",
+    "url": "http://aqwwiki.wikidot.com/mistfall-lich-ac",
+    "name": "Mistfall Lich (AC)",
+    "type": "armors",
+    "description": "Burdened by an impossible mission, a great warrior and their army was sent into an endless blizzard to die. They were raised by vengeful kin to march on corrupt ground.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/34uJWGQ.png",
+        "https://i.imgur.com/xtoG2r4.png"
+    ],
+    "hash": "2e75e3e66ec6a47b982561db36c4cc2b"
+}

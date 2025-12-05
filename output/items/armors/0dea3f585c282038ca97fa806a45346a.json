@@ -1,0 +1,18 @@
+{
+    "urlName": "native-turkey-hunter",
+    "url": "http://aqwwiki.wikidot.com/native-turkey-hunter",
+    "name": "Native Turkey Hunter",
+    "type": "armors",
+    "description": "You are a hunter by nature. And of nature. Hunt the elusive turkey and bring pride\u2014and a feast! \u2014to your family.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Q3TyoO5.png",
+        "http://i.imgur.com/7Rl5taj.png"
+    ],
+    "hash": "0dea3f585c282038ca97fa806a45346a"
+}

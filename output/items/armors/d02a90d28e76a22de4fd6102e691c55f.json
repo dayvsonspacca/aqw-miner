@@ -1,0 +1,16 @@
+{
+    "urlName": "white-knight",
+    "url": "http://aqwwiki.wikidot.com/white-knight",
+    "name": "White Knight",
+    "type": "armors",
+    "description": "While often cast as a hero, Knights are just another enchanted piece on the board. Their irregular patterns of movement make them a terror on the field.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/yPSr8Z5.png",
+        "http://i.imgur.com/5cWYS1H.png"
+    ],
+    "hash": "d02a90d28e76a22de4fd6102e691c55f"
+}

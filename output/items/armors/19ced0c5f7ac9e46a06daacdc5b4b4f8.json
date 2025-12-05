@@ -1,0 +1,17 @@
+{
+    "urlName": "ec-mach-6-soldier-armor",
+    "url": "http://aqwwiki.wikidot.com/ec-mach-6-soldier-armor",
+    "name": "EC Mach 6 Soldier Armor",
+    "type": "armors",
+    "description": "You look like a drone, you act like a drone\u2026 but only to get to the front of the line!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wEMYB1L.png",
+        "https://i.imgur.com/jLetb6S.png"
+    ],
+    "hash": "19ced0c5f7ac9e46a06daacdc5b4b4f8"
+}

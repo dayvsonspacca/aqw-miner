@@ -1,0 +1,19 @@
+{
+    "urlName": "plasma-pyro-ac",
+    "url": "http://aqwwiki.wikidot.com/plasma-pyro-ac",
+    "name": "Plasma Pyro (AC)",
+    "type": "armors",
+    "description": "Plasma Pyros were born from rediscovered ancient technology. They rely on consistent feed of oxygen and shadows, and will stop at nothing to fuel their rage.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/IcEuMpN.png",
+        "https://imgur.com/vViSeAX.png",
+        "http://aqwwiki.wdfiles.com/local--files/plasma-pyro-ac/PlasmaPyroM.png",
+        "http://aqwwiki.wdfiles.com/local--files/plasma-pyro-ac/PlasmaPyroF.png"
+    ],
+    "hash": "73d713b4015fdae89bd77d8267743f7c"
+}

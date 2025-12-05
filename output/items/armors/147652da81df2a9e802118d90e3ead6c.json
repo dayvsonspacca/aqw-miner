@@ -1,0 +1,16 @@
+{
+    "urlName": "wandering-onryo-armor",
+    "url": "http://aqwwiki.wikidot.com/wandering-onryo-armor",
+    "name": "Wandering Onryo (Armor)",
+    "type": "armors",
+    "description": "The Wandering Onryo may have been sent by Malgor, but you now have their gear!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/IcuvDeU.png",
+        "https://i.imgur.com/QadhuIq.png"
+    ],
+    "hash": "147652da81df2a9e802118d90e3ead6c"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "eldritch-hypnotist",
+    "url": "http://aqwwiki.wikidot.com/eldritch-hypnotist",
+    "name": "Eldritch Hypnotist",
+    "type": "armors",
+    "description": "Sometimes dressing up for Mogloween just means really dressing up. To the nines.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7B60osA.png",
+        "https://i.imgur.com/XGEqPt8.png",
+        "https://i.imgur.com/QFJY8os.png",
+        "https://i.imgur.com/eqPSziu.png"
+    ],
+    "hash": "f93f728331810b7d7b5eee3fe86c2973"
+}

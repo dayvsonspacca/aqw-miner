@@ -1,0 +1,16 @@
+{
+    "urlName": "timereaper",
+    "url": "http://aqwwiki.wikidot.com/timereaper",
+    "name": "TimeReaper",
+    "type": "armors",
+    "description": "Where Drakath goes the TimeReapers follow. Have to help keep the timelines clean!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Kv1DHAs.png",
+        "https://i.imgur.com/0IoLvmF.png"
+    ],
+    "hash": "36b035a4eb56cd4dfbd529a89c82e588"
+}

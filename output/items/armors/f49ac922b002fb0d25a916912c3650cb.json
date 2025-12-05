@@ -1,0 +1,16 @@
+{
+    "urlName": "vladic-knight",
+    "url": "http://aqwwiki.wikidot.com/vladic-knight",
+    "name": "Vladic Knight",
+    "type": "armors",
+    "description": "A recreation of an armor worn by Piotr Darkspyre's champion, the Vladic Knight, from the Lore of MechQuest. Why would anyone want to recreate this champion's dreadful armor.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/SkS8XUJ.png",
+        "http://i.imgur.com/LvUR7vA.png"
+    ],
+    "hash": "f49ac922b002fb0d25a916912c3650cb"
+}

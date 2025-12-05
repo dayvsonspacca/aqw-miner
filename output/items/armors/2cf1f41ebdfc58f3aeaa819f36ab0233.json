@@ -1,0 +1,17 @@
+{
+    "urlName": "flamemaster",
+    "url": "http://aqwwiki.wikidot.com/flamemaster",
+    "name": "FlameMaster",
+    "type": "armors",
+    "description": "Only the strongest summoners can channel their rage to summon a Firelord from deep within the heart of its Elemental Plane.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/4P03Dpk.png",
+        "https://i.imgur.com/q19SKi4.png"
+    ],
+    "hash": "2cf1f41ebdfc58f3aeaa819f36ab0233"
+}

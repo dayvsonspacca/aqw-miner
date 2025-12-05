@@ -1,0 +1,17 @@
+{
+    "urlName": "alchemist-s-body-armor",
+    "url": "http://aqwwiki.wikidot.com/alchemist-s-body-armor",
+    "name": "Alchemist's Body Armor",
+    "type": "armors",
+    "description": "This body armor will protect you from all the explosions while finding your next award winning potion.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/mNXgC7l.png",
+        "http://i.imgur.com/xL2VFsX.png"
+    ],
+    "hash": "8f74cfa5de3d7bc470cd5ce185b4b83a"
+}

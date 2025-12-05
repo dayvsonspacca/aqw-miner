@@ -1,0 +1,17 @@
+{
+    "urlName": "first-mate-o-awe",
+    "url": "http://aqwwiki.wikidot.com/first-mate-o-awe",
+    "name": "First Mate o' Awe",
+    "type": "armors",
+    "description": "That's an awe-fully weighty name to call yourself. Who are these awe-some pirates of legend? Are they even real? Some sailors spend their entire lives searching for them, only to find sunlight glinting off of empty sea.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Z3NjNuY.png",
+        "https://i.imgur.com/66YUFaP.png"
+    ],
+    "hash": "8e7eb34124604827ca462d1569ac11fb"
+}

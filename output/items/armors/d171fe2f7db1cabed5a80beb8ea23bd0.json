@@ -1,0 +1,16 @@
+{
+    "urlName": "phoenix-plate",
+    "url": "http://aqwwiki.wikidot.com/phoenix-plate",
+    "name": "Phoenix Plate",
+    "type": "armors",
+    "description": "The Swordhaven elite veteran warriors are given the Phoenix Plate when they have shown acts of heroism time and time again.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/zNF1hIM.png",
+        "https://i.imgur.com/fzodpW1.png"
+    ],
+    "hash": "d171fe2f7db1cabed5a80beb8ea23bd0"
+}

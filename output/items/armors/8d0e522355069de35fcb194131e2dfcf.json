@@ -1,0 +1,17 @@
+{
+    "urlName": "moglitech-legend",
+    "url": "http://aqwwiki.wikidot.com/moglitech-legend",
+    "name": "MogliTech (Legend)",
+    "type": "armors",
+    "description": "Battlenator 7: Rise of the MOGBOTs.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/xDd8oVw.png",
+        "https://i.imgur.com/Y29hZp8.png"
+    ],
+    "hash": "8d0e522355069de35fcb194131e2dfcf"
+}

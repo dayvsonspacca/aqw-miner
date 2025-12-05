@@ -1,0 +1,18 @@
+{
+    "urlName": "lightninglord",
+    "url": "http://aqwwiki.wikidot.com/lightninglord",
+    "name": "LightningLord",
+    "type": "armors",
+    "description": "LightningLords collect the power of lightning, and store it in special gems scattered across their robes for use in battle. ZZZap!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/ybx790R.png",
+        "https://imgur.com/DRyuBso.png",
+        "https://imgur.com/azoV9fn.png",
+        "https://imgur.com/RLdgbn6.png"
+    ],
+    "hash": "30f0d1f09cabe4569c7bd3ada1b06df3"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "xmas-cutie-armor",
+    "url": "http://aqwwiki.wikidot.com/xmas-cutie-armor",
+    "name": "Xmas Cutie Armor",
+    "type": "armors",
+    "description": "Now you're ready for the Frostval spirit!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/p1KFyQv.png",
+        "https://i.imgur.com/QeomPG3.png",
+        "https://i.imgur.com/eCXFeb4.png"
+    ],
+    "hash": "a679e72d1e7cbdbd02b3f8af52ad627d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "formal-void-warrior",
+    "url": "http://aqwwiki.wikidot.com/formal-void-warrior",
+    "name": "Formal Void Warrior",
+    "type": "armors",
+    "description": "True warriors never avoid battles. Especially if they reign from the Void.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/JypLX72.png",
+        "http://aqwwiki.wdfiles.com/local--files/formal-void-warrior/FVWF.png"
+    ],
+    "hash": "7799d42f5cea944e092113f8b3289cf9"
+}

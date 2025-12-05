@@ -1,0 +1,17 @@
+{
+    "urlName": "light-chronoweaver",
+    "url": "http://aqwwiki.wikidot.com/light-chronoweaver",
+    "name": "Light ChronoWeaver",
+    "type": "armors",
+    "description": "The Eternal Hero was destined to create and destroy in an endless cycle. Their impact on our universe will shine forevermore.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/PNYku4p.png",
+        "https://i.imgur.com/XLTac6U.png"
+    ],
+    "hash": "165f12e6a175613d541545d83a96e19d"
+}

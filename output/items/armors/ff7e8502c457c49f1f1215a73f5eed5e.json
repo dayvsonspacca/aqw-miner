@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-arcanist-ac",
+    "url": "http://aqwwiki.wikidot.com/shadow-arcanist-ac",
+    "name": "Shadow Arcanist (AC)",
+    "type": "armors",
+    "description": "Mages who specialize in arcane magics truly understand the power bestowed within this ancient art. These robes were tailored by your fellow player, Trydeth!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/TwyjhtP.png",
+        "https://i.imgur.com/p62KFSe.png"
+    ],
+    "hash": "ff7e8502c457c49f1f1215a73f5eed5e"
+}

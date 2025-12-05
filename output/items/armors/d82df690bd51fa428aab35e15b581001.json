@@ -1,0 +1,16 @@
+{
+    "urlName": "sand-bandit",
+    "url": "http://aqwwiki.wikidot.com/sand-bandit",
+    "name": "Sand Bandit",
+    "type": "armors",
+    "description": "The bandits roaming the endless dunes of the Sandsea desert are fierce, deadly, and mortal enemies of the SandSea Guardians!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/0p3tF14.png",
+        "http://i.imgur.com/sato4wZ.png"
+    ],
+    "hash": "d82df690bd51fa428aab35e15b581001"
+}

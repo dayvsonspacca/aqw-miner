@@ -1,0 +1,16 @@
+{
+    "urlName": "void-ripper",
+    "url": "http://aqwwiki.wikidot.com/void-ripper",
+    "name": "Void Ripper",
+    "type": "armors",
+    "description": "Those who serve the will of the Archfiend will always be rewarded.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/P0b3Kv3.png",
+        "https://i.imgur.com/vn04glv.png"
+    ],
+    "hash": "723236ba509efa30b3a15994279b8b50"
+}

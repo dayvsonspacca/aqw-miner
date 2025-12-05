@@ -1,0 +1,17 @@
+{
+    "urlName": "nightwatch-samurai-ac",
+    "url": "http://aqwwiki.wikidot.com/nightwatch-samurai-ac",
+    "name": "Nightwatch Samurai (AC)",
+    "type": "armors",
+    "description": "Samurai are those who serve in close attendance to the nobility.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/1edWe73.png",
+        "https://imgur.com/kui7dG6.png"
+    ],
+    "hash": "f7b10ef53b294eb24efe2a50350e174e"
+}

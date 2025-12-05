@@ -1,0 +1,17 @@
+{
+    "urlName": "faerie-grove-sentinel",
+    "url": "http://aqwwiki.wikidot.com/faerie-grove-sentinel",
+    "name": "Faerie Grove Sentinel",
+    "type": "armors",
+    "description": "This magical guardian's garb is woven from enchanted moonlight and faerie wings, worn by the sworn protectcors of Chiral Valley's harmony.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kDhkn42.png",
+        "https://i.imgur.com/bxWmEO5.png"
+    ],
+    "hash": "861fc0fccfc86f758ec9dcdd554c4ea2"
+}

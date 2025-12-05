@@ -1,0 +1,17 @@
+{
+    "urlName": "pony-maul",
+    "url": "http://aqwwiki.wikidot.com/pony-maul",
+    "name": "Pony Maul",
+    "type": "armors",
+    "description": "Pink is rare on the Outer Rim. Rare, but oh, so powerful.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pony-maul/PonyMaulM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pony-maul/PonyMaulF.png"
+    ],
+    "hash": "4c0c43345710a2f6565f65c01e7e72fc"
+}

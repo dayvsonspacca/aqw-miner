@@ -1,0 +1,17 @@
+{
+    "urlName": "a-hunter-on-the-rise",
+    "url": "http://aqwwiki.wikidot.com/a-hunter-on-the-rise",
+    "name": "A Hunter on the Rise",
+    "type": "armors",
+    "description": "While you might not be the most notorious and feared bounty hunter in the galaxy, you have to remember that J6 had to start somewhere as well.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/a-hunter-on-the-rise/AHunterontheRiseMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/a-hunter-on-the-rise/AHunterontheRiseFemale.png"
+    ],
+    "hash": "dec24ae5120d979706251a6f6fb20933"
+}

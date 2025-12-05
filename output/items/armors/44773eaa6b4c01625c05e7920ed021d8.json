@@ -1,0 +1,16 @@
+{
+    "urlName": "necro-battlemage",
+    "url": "http://aqwwiki.wikidot.com/necro-battlemage",
+    "name": "Necro Battlemage",
+    "type": "armors",
+    "description": "Not quite a lich but that doesn't mean you won't jump at the chance to command an army of undead.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/FzCuUSC.png",
+        "http://i.imgur.com/8j9D4bM.png"
+    ],
+    "hash": "44773eaa6b4c01625c05e7920ed021d8"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "efreet-armor",
+    "url": "http://aqwwiki.wikidot.com/efreet-armor",
+    "name": "Efreet (Armor)",
+    "type": "armors",
+    "description": "Now you, too, can exude the intimidation and inspire the respect and awe that the Efreet, King of the Djinn, commands!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/HKdo8yw.png",
+        "http://i.imgur.com/GE6iOF3.png",
+        "http://i.imgur.com/NybRWO7.png",
+        "http://i.imgur.com/xwrDue2.png"
+    ],
+    "hash": "cc0aaaa8c1fb142d0fdc1969f2ff06ef"
+}

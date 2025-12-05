@@ -1,0 +1,17 @@
+{
+    "urlName": "j6-astronaut-mk-ii",
+    "url": "http://aqwwiki.wikidot.com/j6-astronaut-mk-ii",
+    "name": "J6 Astronaut MK II",
+    "type": "armors",
+    "description": "Take command of the stars! This all-black suit is exclusive to those who mine the metal-rich asteroids. J6 says \"thank you\" for helping him get one step closer to his dream of visiting space!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/j6-astronaut-mk-ii/JAMKM.png",
+        "http://aqwwiki.wdfiles.com/local--files/j6-astronaut-mk-ii/JAMKF.png"
+    ],
+    "hash": "f24cdced0a7e78638813795c2c610dc4"
+}

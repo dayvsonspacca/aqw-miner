@@ -1,0 +1,19 @@
+{
+    "urlName": "legionator-armor",
+    "url": "http://aqwwiki.wikidot.com/legionator-armor",
+    "name": "Legionator (Armor)",
+    "type": "armors",
+    "description": "These part-undead, part-robot monstrosities are a part of a task force created by Dage the Evil to hunt down and finish off dissidents in the Legion, incuding those that he currently wants, but could not have.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/SkvU4iz.png",
+        "https://i.imgur.com/dBDs1nr.png",
+        "https://i.imgur.com/i504xi7.png",
+        "https://i.imgur.com/gyD0PvW.png"
+    ],
+    "hash": "635f9a6994deccc3688b464d7378e672"
+}

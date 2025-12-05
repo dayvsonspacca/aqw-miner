@@ -1,0 +1,16 @@
+{
+    "urlName": "hollowborn-gatekeeper",
+    "url": "http://aqwwiki.wikidot.com/hollowborn-gatekeeper",
+    "name": "Hollowborn GateKeeper",
+    "type": "armors",
+    "description": "You're certainly gifted, and your efforts have been recognized. The Gatekeeper title is not entrusted to ordinary beings, and you are no exception, Hollowborn.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/35dfnZP.png",
+        "https://i.imgur.com/DPrK1M2.png"
+    ],
+    "hash": "ec1376679021aac4d3fbceaa387c4d33"
+}

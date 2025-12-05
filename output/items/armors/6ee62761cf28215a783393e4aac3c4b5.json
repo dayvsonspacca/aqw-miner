@@ -1,0 +1,17 @@
+{
+    "urlName": "gilded-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/gilded-naval-commander-ac",
+    "name": "Gilded Naval Commander (AC)",
+    "type": "armors",
+    "description": "Don't get yourself caught in this commander's web, it'll be the last thing ye ever do!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/SPXJ5MB.png",
+        "https://i.imgur.com/74RvgWI.png"
+    ],
+    "hash": "6ee62761cf28215a783393e4aac3c4b5"
+}

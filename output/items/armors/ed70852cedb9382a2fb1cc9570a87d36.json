@@ -1,0 +1,17 @@
+{
+    "urlName": "zeph-gorog-armor",
+    "url": "http://aqwwiki.wikidot.com/zeph-gorog-armor",
+    "name": "Zeph'gorog Armor",
+    "type": "armors",
+    "description": "The spirit of Zeph'gorog has infused this armor - it is so strong that all who equip it look the same!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8tKhuwQ.png"
+    ],
+    "hash": "ed70852cedb9382a2fb1cc9570a87d36"
+}

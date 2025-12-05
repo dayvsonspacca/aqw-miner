@@ -1,0 +1,19 @@
+{
+    "urlName": "emo-shocker-legend",
+    "url": "http://aqwwiki.wikidot.com/emo-shocker-legend",
+    "name": "Emo Shocker (Legend)",
+    "type": "armors",
+    "description": "I heart 'lectricity, so put a few more hertz in the generator, baby! I heart 'lectricity, so come equip this armor and shock out with me!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VQpv4ZB.png",
+        "https://i.imgur.com/F7oshRg.png",
+        "https://i.imgur.com/pZrLZcs.png",
+        "https://i.imgur.com/cvwB1jH.png"
+    ],
+    "hash": "38a259250cf4b3dc833c7086116a9958"
+}

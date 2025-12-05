@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-romantic",
+    "url": "http://aqwwiki.wikidot.com/dark-romantic",
+    "name": "Dark Romantic",
+    "type": "armors",
+    "description": "Svelte and serious, make an impression on an enemy today. Show a darker side to love while wielding your weapon of choice. AE is not liable for random spouting of Shakespeare.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-romantic/DarkRomanticMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-romantic/DarkRomanticFemale.png"
+    ],
+    "hash": "78dc39a8cf8ed2638fefe53eec9c7b93"
+}

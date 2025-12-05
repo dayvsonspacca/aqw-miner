@@ -1,0 +1,16 @@
+{
+    "urlName": "leviathan-warrior",
+    "url": "http://aqwwiki.wikidot.com/leviathan-warrior",
+    "name": "Leviathan Warrior",
+    "type": "armors",
+    "description": "These leviathan patrol the deeps making sure that none enter their most sacred spaces.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/aMtPGAi.png",
+        "https://i.imgur.com/jGYNMOC.png"
+    ],
+    "hash": "d2ac420145ef7702b4fea628e7498673"
+}

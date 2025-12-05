@@ -1,0 +1,17 @@
+{
+    "urlName": "knight-of-roses",
+    "url": "http://aqwwiki.wikidot.com/knight-of-roses",
+    "name": "Knight of Roses",
+    "type": "armors",
+    "description": "To protect beauty, love, and passion - the Knights of Roses aim to uphold chivalry and heroism. They'll come to the rescue, even if you don't need them to!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/PTgdk2c.png",
+        "https://imgur.com/EKyLr2n.png"
+    ],
+    "hash": "817b3b19881e7f7644849aa8b3581cd8"
+}

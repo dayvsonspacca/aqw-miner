@@ -1,0 +1,17 @@
+{
+    "urlName": "glorified-spellsword-of-light",
+    "url": "http://aqwwiki.wikidot.com/glorified-spellsword-of-light",
+    "name": "Glorified Spellsword of Light",
+    "type": "armors",
+    "description": "After serving for quite some time, a Spellsword is granted the ability to choose his own banner and armor color to set himself apart from the rabble.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glorified-spellsword-of-light/GlorifiedSpellswordM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/glorified-spellsword-of-light/GlorifiedSpellswordF.png"
+    ],
+    "hash": "2e4eb8561bde574efad479f4cedacfe8"
+}

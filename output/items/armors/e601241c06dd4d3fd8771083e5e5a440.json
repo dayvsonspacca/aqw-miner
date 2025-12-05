@@ -1,0 +1,17 @@
+{
+    "urlName": "garth-maul",
+    "url": "http://aqwwiki.wikidot.com/garth-maul",
+    "name": "Garth Maul",
+    "type": "armors",
+    "description": "When the thunder /rolls, and the lightning strikes (critically), Garth Maul is to blame, for all the sleepless knights.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/garth-maul/GarthMaulM.png",
+        "http://aqwwiki.wdfiles.com/local--files/garth-maul/GarthMaulF.png"
+    ],
+    "hash": "e601241c06dd4d3fd8771083e5e5a440"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "ancient-explorer",
+    "url": "http://aqwwiki.wikidot.com/ancient-explorer",
+    "name": "Ancient Explorer",
+    "type": "armors",
+    "description": "Once worn by temple priests in the northern Sandsea, frequent mishaps by mischievous spirits forced them to abandon their sacred values to tame them. They have been slaying spirits since, but their gilded attire is all that remain of who they once were.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/AjjjrtL.png",
+        "http://i.imgur.com/7SxOi7G.png"
+    ],
+    "hash": "aa4ce427f5daddc4010ad1cd40d37c7c"
+}

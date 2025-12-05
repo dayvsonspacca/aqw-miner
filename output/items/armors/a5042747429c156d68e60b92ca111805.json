@@ -1,0 +1,16 @@
+{
+    "urlName": "ebilcorp-agent",
+    "url": "http://aqwwiki.wikidot.com/ebilcorp-agent",
+    "name": "EbilCorp Agent",
+    "type": "armors",
+    "description": "Mission #666.D --",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/0hWShf7.png",
+        "https://i.imgur.com/QtB8U7s.png"
+    ],
+    "hash": "a5042747429c156d68e60b92ca111805"
+}

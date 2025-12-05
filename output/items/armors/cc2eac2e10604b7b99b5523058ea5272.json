@@ -1,0 +1,17 @@
+{
+    "urlName": "ancient-cryptkeeper-armor",
+    "url": "http://aqwwiki.wikidot.com/ancient-cryptkeeper-armor",
+    "name": "Ancient CryptKeeper (Armor)",
+    "type": "armors",
+    "description": "There is no further need to train a keeper as it is now given its own territory in the Eergcast Catacombs and their right to be called a master. All humane feelings and reasoning have now washed away to make room for endless knowledge of black magic and a craving for souls of the recently deceased.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ancient-cryptkeeper-armor/AncientCryptkeeperM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ancient-cryptkeeper-armor/AncientCryptkeeperF.png"
+    ],
+    "hash": "cc2eac2e10604b7b99b5523058ea5272"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "undead-berserker-armor",
+    "url": "http://aqwwiki.wikidot.com/undead-berserker-armor",
+    "name": "Undead Berserker (Armor)",
+    "type": "armors",
+    "description": "Even in undeath they are berserk! (eyes color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/jfDwk43.png",
+        "http://i.imgur.com/8j20jZ9.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-berserker-armor/MaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-berserker-armor/FemaleOld.jpg"
+    ],
+    "hash": "171038640f2d979fe36b2ee073340869"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "beast-from-below",
+    "url": "http://aqwwiki.wikidot.com/beast-from-below",
+    "name": "Beast from Below",
+    "type": "armors",
+    "description": "The monster hiding in Oishii's oven.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/beast-from-below/BeastfromBelowM.png",
+        "http://aqwwiki.wdfiles.com/local--files/beast-from-below/BeastfromBelowF.png"
+    ],
+    "hash": "c00fe72b4712568c01d76e7975ab322d"
+}

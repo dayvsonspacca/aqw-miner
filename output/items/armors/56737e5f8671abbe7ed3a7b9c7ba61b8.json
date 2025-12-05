@@ -1,0 +1,18 @@
+{
+    "urlName": "undeadites",
+    "url": "http://aqwwiki.wikidot.com/undeadites",
+    "name": "Undeadites",
+    "type": "armors",
+    "description": "Join the ranks of the Evil undead as a deadite and you'll never go hungry again! (Because there are so many heroes to feast on!)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undeadites/UMaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/undeadites/UMaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/undeadites/UFemaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/undeadites/UFemaleOld.png"
+    ],
+    "hash": "56737e5f8671abbe7ed3a7b9c7ba61b8"
+}

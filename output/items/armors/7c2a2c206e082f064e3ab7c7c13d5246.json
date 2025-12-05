@@ -1,0 +1,18 @@
+{
+    "urlName": "imperial-lightscythe",
+    "url": "http://aqwwiki.wikidot.com/imperial-lightscythe",
+    "name": "Imperial Lightscythe",
+    "type": "armors",
+    "description": "The glorious armor of the leader of the Lightscythe Army, based in Brightfall.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/a1PYHR0.png",
+        "https://i.imgur.com/c0pYH5R.png",
+        "http://aqwwiki.wdfiles.com/local--files/imperial-lightscythe/ImperialLightscytheFO.png"
+    ],
+    "hash": "7c2a2c206e082f064e3ab7c7c13d5246"
+}

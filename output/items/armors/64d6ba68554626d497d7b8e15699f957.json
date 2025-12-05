@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-heretic-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-heretic-ac",
+    "name": "Underworld Heretic (AC)",
+    "type": "armors",
+    "description": "They may follow Nulgath, but they don't believe in everything he does.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1LxabK8.png",
+        "https://imgur.com/H89ih6y.png"
+    ],
+    "hash": "64d6ba68554626d497d7b8e15699f957"
+}

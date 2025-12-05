@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-masquerade",
+    "url": "http://aqwwiki.wikidot.com/dark-masquerade",
+    "name": "Dark Masquerade",
+    "type": "armors",
+    "description": "A blood red, in-style outfit handpicked to guarantee that any vampire can be the belle or dude of the ball.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-masquerade/DMm.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-masquerade/DMmO.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-masquerade/DMf.png"
+    ],
+    "hash": "4eb7e1d4949733511d96b0f212b12fab"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "agility-racer",
+    "url": "http://aqwwiki.wikidot.com/agility-racer",
+    "name": "Agility Racer",
+    "type": "armors",
+    "description": "Go, go, go! Go Agility Racer! Race across the sands in an armor that's built for speed and built to last.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/agility-racer/AgilityRacerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/agility-racer/AgilityRacerFemale.png"
+    ],
+    "hash": "b7f9c9a11c656995828a06a7665d2676"
+}

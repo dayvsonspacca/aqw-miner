@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-devourer",
+    "url": "http://aqwwiki.wikidot.com/dark-devourer",
+    "name": "Dark Devourer",
+    "type": "armors",
+    "description": "Ready to give over your soul to the Devourer? It's not like you have any choice in the matter.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/WouV1NJ.png",
+        "https://i.imgur.com/3rsyncx.png"
+    ],
+    "hash": "6f9278f826bf479c5faf802ac8839506"
+}

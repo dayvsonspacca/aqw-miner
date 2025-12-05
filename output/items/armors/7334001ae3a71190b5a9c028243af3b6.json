@@ -1,0 +1,16 @@
+{
+    "urlName": "manticore-trainer",
+    "url": "http://aqwwiki.wikidot.com/manticore-trainer",
+    "name": "Manticore Trainer",
+    "type": "armors",
+    "description": "The mad prince of the Venom Vaults once wore this garb to train his pet manticores.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/taqXbzp.png",
+        "http://i.imgur.com/r0UEUWt.png"
+    ],
+    "hash": "7334001ae3a71190b5a9c028243af3b6"
+}

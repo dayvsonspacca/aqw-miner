@@ -1,0 +1,16 @@
+{
+    "urlName": "iron-bones",
+    "url": "http://aqwwiki.wikidot.com/iron-bones",
+    "name": "Iron Bones",
+    "type": "armors",
+    "description": "What's worse than facing the undead? How about an undead clad in heavy iron armor! ( eyes color custom )",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/CN3PCjb.png",
+        "http://i.imgur.com/5nO5IIK.png"
+    ],
+    "hash": "6e40a53bade643a72e38b3165f68f27c"
+}

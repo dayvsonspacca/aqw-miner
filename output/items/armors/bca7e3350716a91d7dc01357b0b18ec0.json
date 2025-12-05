@@ -1,0 +1,17 @@
+{
+    "urlName": "seraph-armor",
+    "url": "http://aqwwiki.wikidot.com/seraph-armor",
+    "name": "Seraph Armor",
+    "type": "armors",
+    "description": "Warriors who swear to fight for Laken are bestowed this armor. It is an honor to serve and a privilege to bear it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/V1M1nL1.png",
+        "https://i.imgur.com/klcBXK4.png"
+    ],
+    "hash": "bca7e3350716a91d7dc01357b0b18ec0"
+}

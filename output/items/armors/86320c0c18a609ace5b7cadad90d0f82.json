@@ -1,0 +1,18 @@
+{
+    "urlName": "maximillian-arctic-armor",
+    "url": "http://aqwwiki.wikidot.com/maximillian-arctic-armor",
+    "name": "Maximillian Arctic Armor",
+    "type": "armors",
+    "description": "The leader of the Golden Onslaught had this artic garb crafted for leading his insane crusade in frozen climates. Thanks to you, he'll never get the chance to wear it.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/rS0xIxp.png",
+        "http://i.imgur.com/dwb3c3Q.png"
+    ],
+    "hash": "86320c0c18a609ace5b7cadad90d0f82"
+}

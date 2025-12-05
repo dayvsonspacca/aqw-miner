@@ -1,0 +1,18 @@
+{
+    "urlName": "fire-dancer-armor",
+    "url": "http://aqwwiki.wikidot.com/fire-dancer-armor",
+    "name": "Fire Dancer (Armor)",
+    "type": "armors",
+    "description": "The heat of the Summer sun drives a Fire Dancer to battle-frenzy! Equip this armor to feel your blood boil as your blades flashes in the sunlight!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fire-dancer-armor/FDM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fire-dancer-armor/FDFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/fire-dancer-armor/FDF.png"
+    ],
+    "hash": "221e2e61f923b429f5c847649913d34b"
+}

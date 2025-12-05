@@ -1,0 +1,17 @@
+{
+    "urlName": "icy-claws-suit-ac",
+    "url": "http://aqwwiki.wikidot.com/icy-claws-suit-ac",
+    "name": "Icy Claws Suit (AC)",
+    "type": "armors",
+    "description": "You must have been very, very cold this year\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/icy-claws-suit-ac/IcyClawsSuitM.png",
+        "http://aqwwiki.wdfiles.com/local--files/icy-claws-suit-ac/IcyClawsSuitF.png"
+    ],
+    "hash": "9f9a2505bbae3d51b24512c79e2be835"
+}

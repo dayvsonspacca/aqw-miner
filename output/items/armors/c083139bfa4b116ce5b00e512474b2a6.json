@@ -1,0 +1,17 @@
+{
+    "urlName": "paul",
+    "url": "http://aqwwiki.wikidot.com/paul",
+    "name": "Paul",
+    "type": "armors",
+    "description": "The very same outfit worn by the Inter-dimensional bard of the Multiverse, Paul! But\u2026 if you are wearing his clothes\u2026 what is he wearing\u2026?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paul/PaulM.png",
+        "http://aqwwiki.wdfiles.com/local--files/paul/PaulF.png"
+    ],
+    "hash": "c083139bfa4b116ce5b00e512474b2a6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "nightstalker-s-guise",
+    "url": "http://aqwwiki.wikidot.com/nightstalker-s-guise",
+    "name": "NightStalker's Guise",
+    "type": "armors",
+    "description": "Stalking the shadows of the Black Labyrinth, the NightStalker is one of the terrors that waits to prey on those foolish enough to believe they can come out alive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bctHH7n.png",
+        "https://i.imgur.com/ex4pX4L.png"
+    ],
+    "hash": "59d4245e792fa0294dd6b42d1a3fafca"
+}

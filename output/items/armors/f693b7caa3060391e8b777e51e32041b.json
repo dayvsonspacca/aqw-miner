@@ -1,0 +1,17 @@
+{
+    "urlName": "nax-s-robes",
+    "url": "http://aqwwiki.wikidot.com/nax-s-robes",
+    "name": "Nax's Robes",
+    "type": "armors",
+    "description": "These are the enchanted, frost-resistant robes worn by the very sane cryomancer himself.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nax-s-robes/Nax'sRobesM.png",
+        "http://aqwwiki.wdfiles.com/local--files/nax-s-robes/Nax'sRobesF.png"
+    ],
+    "hash": "f693b7caa3060391e8b777e51e32041b"
+}

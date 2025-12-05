@@ -1,0 +1,19 @@
+{
+    "urlName": "hockey-star-captain",
+    "url": "http://aqwwiki.wikidot.com/hockey-star-captain",
+    "name": "Hockey Star Captain",
+    "type": "armors",
+    "description": "\"Great moments are born from great opportunities.\" - the legendary hockey hero, Herb Brooks. Hit the ice and slam the puck home, then celebrate your victory in the Icestorm Cup finals!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/oigRVMk.png",
+        "https://i.imgur.com/xk3du4q.png",
+        "https://i.imgur.com/c7dly0V.png",
+        "https://i.imgur.com/QTIDKm6.png"
+    ],
+    "hash": "1d39cda71df57092918a74995e470618"
+}

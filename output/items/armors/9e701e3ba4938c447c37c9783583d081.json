@@ -1,0 +1,17 @@
+{
+    "urlName": "romantic-heart",
+    "url": "http://aqwwiki.wikidot.com/romantic-heart",
+    "name": "Romantic Heart",
+    "type": "armors",
+    "description": "Smart and focused, this armor will serve you well, protecting your heart and the heart of he or she that you admire. Guaranteed to keep the enemy at bay, this armor will leave a lasting impression.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/romantic-heart/RomanticHeartM.png",
+        "http://aqwwiki.wdfiles.com/local--files/romantic-heart/RomanticHeartF.png"
+    ],
+    "hash": "9e701e3ba4938c447c37c9783583d081"
+}

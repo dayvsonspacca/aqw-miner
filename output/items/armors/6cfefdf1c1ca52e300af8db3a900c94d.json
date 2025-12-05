@@ -1,0 +1,16 @@
+{
+    "urlName": "rags-of-awe",
+    "url": "http://aqwwiki.wikidot.com/rags-of-awe",
+    "name": "Rags of Awe",
+    "type": "armors",
+    "description": "This slightly-used but still AWE-some armor is for adventurers who haven't quiiiite finished their quests to create all of the Items of Awe.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Giw5fKe.png",
+        "https://i.imgur.com/mYrFSm1.png"
+    ],
+    "hash": "6cfefdf1c1ca52e300af8db3a900c94d"
+}

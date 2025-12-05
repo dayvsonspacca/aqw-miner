@@ -1,0 +1,17 @@
+{
+    "urlName": "viridian-tech-suit",
+    "url": "http://aqwwiki.wikidot.com/viridian-tech-suit",
+    "name": "Viridian Tech Suit",
+    "type": "armors",
+    "description": "This suit is airtight, space-tight, and lightweight. And green!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/viridian-tech-suit/ViridianTechSuitM.png",
+        "http://aqwwiki.wdfiles.com/local--files/viridian-tech-suit/ViridianTechSuitF.png"
+    ],
+    "hash": "1244dc2be4a1366b9d7bfb0baff196f3"
+}

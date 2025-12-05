@@ -1,0 +1,17 @@
+{
+    "urlName": "agent-of-chaos",
+    "url": "http://aqwwiki.wikidot.com/agent-of-chaos",
+    "name": "Agent of Chaos",
+    "type": "armors",
+    "description": "As a 00 agent of Chaos, your sole desire is to serve the darkness and made sure that no one is left to stand in your way!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/agent-of-chaos/AgentofChaosMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/agent-of-chaos/AgentofChaosFemale.png"
+    ],
+    "hash": "b37673a510eaba36d31be01d62051479"
+}

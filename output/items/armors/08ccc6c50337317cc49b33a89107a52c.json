@@ -1,0 +1,17 @@
+{
+    "urlName": "pink-healer-robes",
+    "url": "http://aqwwiki.wikidot.com/pink-healer-robes",
+    "name": "Pink Healer Robes",
+    "type": "armors",
+    "description": "Your prayers have finally been answered--",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/IRX8jV0.png",
+        "http://i.imgur.com/zM1rDhM.png"
+    ],
+    "hash": "08ccc6c50337317cc49b33a89107a52c"
+}

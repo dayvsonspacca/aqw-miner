@@ -1,0 +1,19 @@
+{
+    "urlName": "void-defender-armor",
+    "url": "http://aqwwiki.wikidot.com/void-defender-armor",
+    "name": "Void Defender Armor",
+    "type": "armors",
+    "description": "The Darkness Dragon has waited long enough to return to Za'nar. However he did not count on the Magi and the Hero battling to keep from regaining his power. So he has dropped his armor in defeat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-defender-armor/VoidDefenderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-defender-armor/VoidDefenderMAnimated.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-defender-armor/VoidDefenderF.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-defender-armor/VoidDefenderFAnimated.png"
+    ],
+    "hash": "abbab2108005ccb5c023e1668d2fcc98"
+}

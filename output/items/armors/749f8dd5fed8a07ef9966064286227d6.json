@@ -1,0 +1,17 @@
+{
+    "urlName": "northlands-beasthunter",
+    "url": "http://aqwwiki.wikidot.com/northlands-beasthunter",
+    "name": "Northlands BeastHunter",
+    "type": "armors",
+    "description": "Northlands BeastHunters are rarely seen in town; they are too focused on the vital task of patrolling the snowy plains and valleys. Ever watchful, they defend their homes and people.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/USMzkA1.png",
+        "https://i.imgur.com/yLCjJqY.png"
+    ],
+    "hash": "749f8dd5fed8a07ef9966064286227d6"
+}

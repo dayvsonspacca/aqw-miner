@@ -1,0 +1,14 @@
+{
+    "urlName": "fighter",
+    "url": "http://aqwwiki.wikidot.com/fighter",
+    "name": "Fighter",
+    "type": "armors",
+    "description": "Skilled with weapons of every type, Fighters love meeting their foes face to face on the battlefield.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/IrSPwSW.png",
+        "http://i.imgur.com/DHBscgw.png"
+    ],
+    "hash": "bdc22b8d21d1a9e87c1c71a4a8925292"
+}

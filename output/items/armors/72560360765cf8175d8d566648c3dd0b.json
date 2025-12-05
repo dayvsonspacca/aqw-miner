@@ -1,0 +1,17 @@
+{
+    "urlName": "the-dracoplate",
+    "url": "http://aqwwiki.wikidot.com/the-dracoplate",
+    "name": "The DracoPlate",
+    "type": "armors",
+    "description": "It's rumored to have been created from the breastplate of an undead male dragon under the control of Dage the Evil.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-dracoplate/TheDracoPlateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-dracoplate/TheDracoPlateF.png"
+    ],
+    "hash": "72560360765cf8175d8d566648c3dd0b"
+}

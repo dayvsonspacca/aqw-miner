@@ -1,0 +1,17 @@
+{
+    "urlName": "masque-of-red-death-ac",
+    "url": "http://aqwwiki.wikidot.com/masque-of-red-death-ac",
+    "name": "Masque of Red Death (AC)",
+    "type": "armors",
+    "description": "Your armor is dabbled in blood and besprinkled with the scarlet horror",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/masque-of-red-death-ac/MasqueofRedDeathM.png",
+        "http://aqwwiki.wdfiles.com/local--files/masque-of-red-death-ac/MasqueofRedDeathF.png"
+    ],
+    "hash": "19022d9d090e5f7e5b0381841efdf554"
+}

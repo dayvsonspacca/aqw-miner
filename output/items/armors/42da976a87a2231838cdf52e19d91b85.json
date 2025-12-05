@@ -1,0 +1,17 @@
+{
+    "urlName": "scrooged-warrior",
+    "url": "http://aqwwiki.wikidot.com/scrooged-warrior",
+    "name": "Scrooged Warrior",
+    "type": "armors",
+    "description": "NO ONE will receive a gift I was deemed \"naughty\" by some overweight frosted jerk!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/scrooged-warrior/ScroogedWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/scrooged-warrior/ScroogedWarriorF.png"
+    ],
+    "hash": "42da976a87a2231838cdf52e19d91b85"
+}

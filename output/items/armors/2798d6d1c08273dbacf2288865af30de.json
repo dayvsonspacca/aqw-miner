@@ -1,0 +1,19 @@
+{
+    "urlName": "nulgath-s-void-rider",
+    "url": "http://aqwwiki.wikidot.com/nulgath-s-void-rider",
+    "name": "Nulgath's Void Rider",
+    "type": "armors",
+    "description": "Nulgath voided his check to pay for this bad boy. An Archfiend doesn't buy what he can steal.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nulgath-s-void-rider/Nulgath'sVoidRiderMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/nulgath-s-void-rider/Nulgath'sVoidRiderMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/nulgath-s-void-rider/Nulgath'sVoidRiderFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/nulgath-s-void-rider/Nulgath'sVoidRiderFO.png"
+    ],
+    "hash": "2798d6d1c08273dbacf2288865af30de"
+}

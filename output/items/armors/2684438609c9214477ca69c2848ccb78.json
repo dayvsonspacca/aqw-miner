@@ -1,0 +1,16 @@
+{
+    "urlName": "blightslayer",
+    "url": "http://aqwwiki.wikidot.com/blightslayer",
+    "name": "BlightSlayer",
+    "type": "armors",
+    "description": "Winter has come and thankfully you're dressed for it. The Blight King and his army won't stand a chance.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/1dFAtdd.png",
+        "https://i.imgur.com/3PBE3tv.png"
+    ],
+    "hash": "2684438609c9214477ca69c2848ccb78"
+}

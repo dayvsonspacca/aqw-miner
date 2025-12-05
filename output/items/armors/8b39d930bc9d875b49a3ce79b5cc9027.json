@@ -1,0 +1,17 @@
+{
+    "urlName": "mirror-drakath-armor",
+    "url": "http://aqwwiki.wikidot.com/mirror-drakath-armor",
+    "name": "Mirror Drakath (Armor)",
+    "type": "armors",
+    "description": "As the Champion of Order, Drakath in the Mirror Realm stands for everything righteous and good. Only a select few are worthy enough to wear such a prestigious suit of armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mirror-drakath-armor/MDM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mirror-drakath-armor/MDF.png"
+    ],
+    "hash": "8b39d930bc9d875b49a3ce79b5cc9027"
+}

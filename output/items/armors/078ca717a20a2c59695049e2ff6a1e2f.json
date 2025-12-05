@@ -1,0 +1,16 @@
+{
+    "urlName": "battleon-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/battleon-dragonslayer",
+    "name": "Battleon DragonSlayer",
+    "type": "armors",
+    "description": "An updated version of the DragonSlayer armor. Go kick some Dragon butt!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/gcxMgfS.png",
+        "https://i.imgur.com/uOojqOE.png"
+    ],
+    "hash": "078ca717a20a2c59695049e2ff6a1e2f"
+}

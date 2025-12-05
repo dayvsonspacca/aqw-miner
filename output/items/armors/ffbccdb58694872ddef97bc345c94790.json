@@ -1,0 +1,17 @@
+{
+    "urlName": "red-kirin-parade-costume",
+    "url": "http://aqwwiki.wikidot.com/red-kirin-parade-costume",
+    "name": "Red Kirin Parade Costume",
+    "type": "armors",
+    "description": "Your head may be covered by a gigantic kirin mask, but there's no reason the rest of you can't be looking your best!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/red-kirin-parade-costume/RKPCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/red-kirin-parade-costume/RKPCF.png"
+    ],
+    "hash": "ffbccdb58694872ddef97bc345c94790"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "paintbender-ac",
+    "url": "http://aqwwiki.wikidot.com/paintbender-ac",
+    "name": "PaintBender (AC)",
+    "type": "armors",
+    "description": "As Firebenders animate the flames that burn around them, PaintBenders use the colors of the world around them to create new life from ideas only they can see.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/OQICioj.png",
+        "https://i.imgur.com/URDPfEw.png"
+    ],
+    "hash": "c58ce9593c58863590b3e14c8be2a651"
+}

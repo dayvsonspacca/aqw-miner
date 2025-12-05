@@ -1,0 +1,18 @@
+{
+    "urlName": "black-ninja",
+    "url": "http://aqwwiki.wikidot.com/black-ninja",
+    "name": "Black Ninja",
+    "type": "armors",
+    "description": "This clan of ninja are known for their ability to blend into the shadows.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/jbgQaS0.png",
+        "http://i.imgur.com/Gn8Eqzv.jpg"
+    ],
+    "hash": "87f4a4261ee913d74fbe0b759f11982a"
+}

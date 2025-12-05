@@ -1,0 +1,17 @@
+{
+    "urlName": "blizzard-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/blizzard-naval-commander-ac",
+    "name": "Blizzard Naval Commander (AC)",
+    "type": "armors",
+    "description": "Only the heartiest heroes are BRRRR-ave enough to sail the frozen seas that border the Northlands!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mqOTvX5.png",
+        "https://i.imgur.com/QNQsaSh.png"
+    ],
+    "hash": "797050b0b859bab36cbbacc973b4a13d"
+}

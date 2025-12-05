@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-knight",
+    "url": "http://aqwwiki.wikidot.com/glacial-knight",
+    "name": "Glacial Knight",
+    "type": "armors",
+    "description": "These knights sparkle and shine under the glow of the New Years ball when it drops.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xer6qEU.png",
+        "https://i.imgur.com/89J1XK4.png"
+    ],
+    "hash": "0160426fcb9966c76d73d61391bab002"
+}

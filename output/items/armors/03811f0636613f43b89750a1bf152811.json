@@ -1,0 +1,16 @@
+{
+    "urlName": "jaan-sentinel-ac",
+    "url": "http://aqwwiki.wikidot.com/jaan-sentinel-ac",
+    "name": "Jaan Sentinel (AC)",
+    "type": "armors",
+    "description": "The Jaan serve as the guardian spirits of the Djinn Realm. If you want to proceed you must pass their trials.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/T8NGULy.png",
+        "https://i.imgur.com/Vdb3iUm.png"
+    ],
+    "hash": "03811f0636613f43b89750a1bf152811"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-evoker",
+    "url": "http://aqwwiki.wikidot.com/underworld-evoker",
+    "name": "Underworld Evoker",
+    "type": "armors",
+    "description": "Just because you've entered the Underworld doesn't mean you have to sacrifice your epic fashion sense.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/QHNiUM0.png",
+        "https://imgur.com/tWf1ow3.png"
+    ],
+    "hash": "49b1b3d7050de373822143557fd86c38"
+}

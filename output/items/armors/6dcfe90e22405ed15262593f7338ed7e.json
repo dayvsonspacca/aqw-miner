@@ -1,0 +1,17 @@
+{
+    "urlName": "plasma-pyro-legend",
+    "url": "http://aqwwiki.wikidot.com/plasma-pyro-legend",
+    "name": "Plasma Pyro (Legend)",
+    "type": "armors",
+    "description": "Plasma Pyros were born from rediscovered ancient technology. They rely on consistent feed of oxygen and shadows, and will stop at nothing to fuel their rage.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/IcEuMpN.png",
+        "https://imgur.com/vViSeAX.png"
+    ],
+    "hash": "6dcfe90e22405ed15262593f7338ed7e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "zombie-platinum-knight",
+    "url": "http://aqwwiki.wikidot.com/zombie-platinum-knight",
+    "name": "Zombie Platinum Knight",
+    "type": "armors",
+    "description": "Reserved for the highest rank of undead, the Platinum Armor is an outward symbol of your shambling, vaguely smelly half-sentience.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/Arsm5kC.png",
+        "https://i.imgur.com/3US06sZ.png"
+    ],
+    "hash": "b418aba6d56c7b60fbad80f5b5be33b2"
+}

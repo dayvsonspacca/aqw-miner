@@ -1,0 +1,14 @@
+{
+    "urlName": "zephyr-armor",
+    "url": "http://aqwwiki.wikidot.com/zephyr-armor",
+    "name": "Zephyr (Armor)",
+    "type": "armors",
+    "description": "These cloudy grey flowing robes are used to clad air elementalists. Rolling clouds trim this robe and the power of the four winds are infused within.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/7XzE50a.png",
+        "http://i.imgur.com/l1mSl0n.png"
+    ],
+    "hash": "9d75ded5025b4e984ec8dcce052d8d6f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "infernal-symbiote",
+    "url": "http://aqwwiki.wikidot.com/infernal-symbiote",
+    "name": "Infernal Symbiote",
+    "type": "armors",
+    "description": "Infernal blood sets your veins ablaze. It seeps into your flesh, holding you like a grudge.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/px06ATX.png",
+        "https://i.imgur.com/1fz0CXq.png"
+    ],
+    "hash": "0be5c417918296b98a8a041932d09b9c"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "academy-uniform",
+    "url": "http://aqwwiki.wikidot.com/academy-uniform",
+    "name": "Academy Uniform",
+    "type": "armors",
+    "description": "Ranked as a top student at the Academy, you find it hard to express your feelings.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/23uCK0s.png",
+        "https://i.imgur.com/BBCImad.png"
+    ],
+    "hash": "79c952521c8c97c352c65f0f548ef7fb"
+}

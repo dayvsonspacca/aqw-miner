@@ -1,0 +1,17 @@
+{
+    "urlName": "mennacing-armor",
+    "url": "http://aqwwiki.wikidot.com/mennacing-armor",
+    "name": "Mennacing Armor",
+    "type": "armors",
+    "description": "When you /equip this armor, everyone will flee in the face of your Mennacing aura. Aura's intensity is lessened if you acquire cake or gummy were-bears.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mennacing-armor/MennacingArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mennacing-armor/MennacingArmorF.png"
+    ],
+    "hash": "eed16bda9eaa80239dffaaf2dd2aef7d"
+}

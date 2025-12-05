@@ -1,0 +1,16 @@
+{
+    "urlName": "noble-garb",
+    "url": "http://aqwwiki.wikidot.com/noble-garb",
+    "name": "Noble Garb",
+    "type": "armors",
+    "description": "Welcome to the 1%! First order of business: gather all of you're money in a single swimming pool and dive in. Proceed to bemoan how lazy poor people are. You are now truly a noble.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/eWQBNvr.png",
+        "https://i.imgur.com/bdZKAPq.png"
+    ],
+    "hash": "3d97a4a318d1c1658affaa55c089196f"
+}

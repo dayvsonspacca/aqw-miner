@@ -1,0 +1,16 @@
+{
+    "urlName": "elemental-battlemage",
+    "url": "http://aqwwiki.wikidot.com/elemental-battlemage",
+    "name": "Elemental Battlemage",
+    "type": "armors",
+    "description": "The elements are yours to manipulate and control. You weave them together and against one another.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/oPQ3i6h.png",
+        "http://i.imgur.com/mzkNHje.png"
+    ],
+    "hash": "44e4f0148a0607157c0bfcbb6cade58d"
+}

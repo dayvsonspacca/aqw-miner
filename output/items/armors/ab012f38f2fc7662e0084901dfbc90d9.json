@@ -1,0 +1,17 @@
+{
+    "urlName": "toga",
+    "url": "http://aqwwiki.wikidot.com/toga",
+    "name": "Toga",
+    "type": "armors",
+    "description": "Ideal for parties, formal speeches, or ruling an empire.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/toga/TogaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/toga/TogaFNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/toga/TogaFOld.png"
+    ],
+    "hash": "ab012f38f2fc7662e0084901dfbc90d9"
+}

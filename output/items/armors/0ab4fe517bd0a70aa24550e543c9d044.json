@@ -1,0 +1,20 @@
+{
+    "urlName": "renegade-shadowslayer",
+    "url": "http://aqwwiki.wikidot.com/renegade-shadowslayer",
+    "name": "Renegade ShadowSlayer",
+    "type": "armors",
+    "description": "Don these shady garments to sneak into your local inn shop and grab your anticipated items without paying a large piggy bank.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/y9Rb3jN.png",
+        "https://i.imgur.com/GYeVk5q.png",
+        "https://i.imgur.com/VMP8ta0.png",
+        "https://i.imgur.com/t0FlFVf.png",
+        "https://i.imgur.com/DjZeezK.png"
+    ],
+    "hash": "0ab4fe517bd0a70aa24550e543c9d044"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "os-founder-knight",
+    "url": "http://aqwwiki.wikidot.com/os-founder-knight",
+    "name": "OS Founder Knight",
+    "type": "armors",
+    "description": "Founder Knights are the foundation and balancing factor in the land of Oversoul. They are an ancient order of Knights revered by their allies and feared by their enemies for the immense power they hold.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/os-founder-knight/OSFounderKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/os-founder-knight/OSFounderKnightF.png"
+    ],
+    "hash": "fc7535fbe8d6a8bec93f96e7591a8777"
+}

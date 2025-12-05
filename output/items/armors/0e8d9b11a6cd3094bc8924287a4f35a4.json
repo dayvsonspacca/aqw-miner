@@ -1,0 +1,17 @@
+{
+    "urlName": "high-mage",
+    "url": "http://aqwwiki.wikidot.com/high-mage",
+    "name": "High Mage",
+    "type": "armors",
+    "description": "The Troll High Magi have taught you well. Strict discipline and earnest passion towards the magical arts sets you apart from the others\u2014you have earned the right to call yourself a High Mage.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/high-mage/HighMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/high-mage/HighMageF.png"
+    ],
+    "hash": "0e8d9b11a6cd3094bc8924287a4f35a4"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-curse",
+    "url": "http://aqwwiki.wikidot.com/undead-curse",
+    "name": "Undead Curse",
+    "type": "armors",
+    "description": "You've been turned into a skeletal undead! Happy Mogloween!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/RZAwX86.png"
+    ],
+    "hash": "398060880d6266a6e600456e41c46abf"
+}

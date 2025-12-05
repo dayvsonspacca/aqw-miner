@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-corsair",
+    "url": "http://aqwwiki.wikidot.com/dark-corsair",
+    "name": "Dark Corsair",
+    "type": "armors",
+    "description": "These buccaneer's",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/qkhrw1z.png",
+        "https://i.imgur.com/rhKsCTg.png"
+    ],
+    "hash": "f0d89872b4bf01177d779293a8dacc84"
+}

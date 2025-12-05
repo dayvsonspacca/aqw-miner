@@ -1,0 +1,16 @@
+{
+    "urlName": "vivid-rugby-armor",
+    "url": "http://aqwwiki.wikidot.com/vivid-rugby-armor",
+    "name": "Vivid Rugby Armor",
+    "type": "armors",
+    "description": "You'll be on the ball when you /equip this AUS-some rugby armor! Crowds of your /party members will /cheer as your crit-ically score against your enemies!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vivid-rugby-armor/VividRugbyArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/vivid-rugby-armor/VividRugbyArmorF.png"
+    ],
+    "hash": "4151816272d271673d360a0f787321a0"
+}

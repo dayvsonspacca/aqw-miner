@@ -1,0 +1,16 @@
+{
+    "urlName": "renegade-armor",
+    "url": "http://aqwwiki.wikidot.com/renegade-armor",
+    "name": "Renegade Armor",
+    "type": "armors",
+    "description": "Sometimes you just feel like a Renegade.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/uN3Ib2P.png",
+        "https://i.imgur.com/kUhdoPS.png"
+    ],
+    "hash": "a159e6d3ced27c9b24950443be790fa1"
+}

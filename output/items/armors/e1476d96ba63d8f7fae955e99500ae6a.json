@@ -1,0 +1,16 @@
+{
+    "urlName": "trickster-s-apprentice",
+    "url": "http://aqwwiki.wikidot.com/trickster-s-apprentice",
+    "name": "Trickster's Apprentice",
+    "type": "armors",
+    "description": "This wandering magician can change one's fortune in the blink of an eye. Their deck plays with souls and fate, even if darker entities think they've won control of them.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/0u0nxjj.png",
+        "https://i.imgur.com/QwqwA0B.png"
+    ],
+    "hash": "e1476d96ba63d8f7fae955e99500ae6a"
+}

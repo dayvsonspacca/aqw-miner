@@ -1,0 +1,16 @@
+{
+    "urlName": "fairy-leprechaun",
+    "url": "http://aqwwiki.wikidot.com/fairy-leprechaun",
+    "name": "Fairy Leprechaun",
+    "type": "armors",
+    "description": "Feeling the Lucky Day fun in this festive fairy armor!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5Lp8p3e.png",
+        "https://i.imgur.com/pp4P4yP.png"
+    ],
+    "hash": "c7b50d8160e1c3cba982a6652acc8bcf"
+}

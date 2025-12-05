@@ -1,0 +1,19 @@
+{
+    "urlName": "neveromancer",
+    "url": "http://aqwwiki.wikidot.com/neveromancer",
+    "name": "NEVERomancer",
+    "type": "armors",
+    "description": "Death cannot stop our true love. All it can do is delay it for a while.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7mKysRS.png",
+        "https://i.imgur.com/JuTyrmv.png",
+        "https://i.imgur.com/WdUerGw.png",
+        "https://i.imgur.com/KLkwLRe.png"
+    ],
+    "hash": "fabfe5d0a7db318b5c85ec5da061aaec"
+}

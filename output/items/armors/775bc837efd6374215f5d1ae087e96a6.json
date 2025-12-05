@@ -1,0 +1,19 @@
+{
+    "urlName": "warrior-of-the-star",
+    "url": "http://aqwwiki.wikidot.com/warrior-of-the-star",
+    "name": "Warrior of the Star",
+    "type": "armors",
+    "description": "May the stars guide you on your way to victory in battle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/qUkxqte.png",
+        "http://i.imgur.com/2VCi1al.png"
+    ],
+    "hash": "775bc837efd6374215f5d1ae087e96a6"
+}

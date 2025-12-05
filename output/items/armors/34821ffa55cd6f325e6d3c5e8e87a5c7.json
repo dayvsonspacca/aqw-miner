@@ -1,0 +1,17 @@
+{
+    "urlName": "empyrean-void-ac",
+    "url": "http://aqwwiki.wikidot.com/empyrean-void-ac",
+    "name": "Empyrean Void (AC)",
+    "type": "armors",
+    "description": "The Empyrean Voids are among the most highly-revered of Nulgath's Nation. To ascend to their ranks, one must prove their worth in battle and blood for centuries.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/nYQYw1I.png",
+        "https://i.imgur.com/9oQj9R7.png"
+    ],
+    "hash": "34821ffa55cd6f325e6d3c5e8e87a5c7"
+}

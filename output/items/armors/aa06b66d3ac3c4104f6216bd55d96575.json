@@ -1,0 +1,17 @@
+{
+    "urlName": "j6-motorcycle",
+    "url": "http://aqwwiki.wikidot.com/j6-motorcycle",
+    "name": "J6 Motorcycle",
+    "type": "armors",
+    "description": "It might not do the Kessel run in 12 parsecs but it'll get you to where you need to go.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/j6-motorcycle/J6MotorcycleM.png",
+        "http://aqwwiki.wdfiles.com/local--files/j6-motorcycle/J6MotorcycleF.png"
+    ],
+    "hash": "aa06b66d3ac3c4104f6216bd55d96575"
+}

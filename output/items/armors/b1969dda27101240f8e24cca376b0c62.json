@@ -1,0 +1,19 @@
+{
+    "urlName": "black-necromancer",
+    "url": "http://aqwwiki.wikidot.com/black-necromancer",
+    "name": "Black Necromancer",
+    "type": "armors",
+    "description": "Embrace the Blackness that lies within you. Channel it to control the Undead that surround you. The blackest Power can be yours!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ZvJ6JxO.png",
+        "http://i.imgur.com/cixq9G9.png",
+        "https://i.imgur.com/wuyo2DH.png",
+        "http://i.imgur.com/wYmgsw3.png"
+    ],
+    "hash": "b1969dda27101240f8e24cca376b0c62"
+}

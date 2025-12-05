@@ -1,0 +1,16 @@
+{
+    "urlName": "zhu-ronin",
+    "url": "http://aqwwiki.wikidot.com/zhu-ronin",
+    "name": "Zhu Ronin",
+    "type": "armors",
+    "description": "A ronin is a samurai with no master but these follow the ancient ways of the Zhu.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xOdzPeO.png",
+        "https://imgur.com/6gv0YgZ.png"
+    ],
+    "hash": "78b90dcdea7720aa53ec728324413905"
+}

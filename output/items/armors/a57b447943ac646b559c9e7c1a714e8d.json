@@ -1,0 +1,17 @@
+{
+    "urlName": "sakura-kimono",
+    "url": "http://aqwwiki.wikidot.com/sakura-kimono",
+    "name": "Sakura Kimono",
+    "type": "armors",
+    "description": "Float on the wind like the sakura blossom\u2026 drift into the hearts of your enemies as gently as the breeze. Then slay them when they aren't looking!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sakura-kimono/SakuraKimonoM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/sakura-kimono/SakuraKimonoF.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/sakura-kimono/SakuraKimonoOld.png"
+    ],
+    "hash": "a57b447943ac646b559c9e7c1a714e8d"
+}

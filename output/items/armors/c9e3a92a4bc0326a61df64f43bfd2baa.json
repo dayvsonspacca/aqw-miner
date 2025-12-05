@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-emperor",
+    "url": "http://aqwwiki.wikidot.com/shadow-emperor",
+    "name": "Shadow Emperor",
+    "type": "armors",
+    "description": "The Shadows have coalesced into an entire society, including the Ruler - the Shadow Emperor.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/txvzfvC.png",
+        "https://i.imgur.com/xfrCBVM.png"
+    ],
+    "hash": "c9e3a92a4bc0326a61df64f43bfd2baa"
+}

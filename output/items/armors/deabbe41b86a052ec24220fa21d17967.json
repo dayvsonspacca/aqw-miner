@@ -1,0 +1,16 @@
+{
+    "urlName": "risu-shinobi",
+    "url": "http://aqwwiki.wikidot.com/risu-shinobi",
+    "name": "Risu Shinobi",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/risu-shinobi/RisuShinobiM.png",
+        "http://aqwwiki.wdfiles.com/local--files/risu-shinobi/RisuShinobiF.png"
+    ],
+    "hash": "deabbe41b86a052ec24220fa21d17967"
+}

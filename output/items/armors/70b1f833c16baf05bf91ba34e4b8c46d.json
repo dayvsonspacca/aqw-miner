@@ -1,0 +1,14 @@
+{
+    "urlName": "noble-falconer",
+    "url": "http://aqwwiki.wikidot.com/noble-falconer",
+    "name": "Noble Falconer",
+    "type": "armors",
+    "description": "A popular sport amongst Swordhaven's nobility, these skilled hunters bring down their prey with trained falcons.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/GPKJ4aL.png",
+        "https://i.imgur.com/beQnGgY.png"
+    ],
+    "hash": "70b1f833c16baf05bf91ba34e4b8c46d"
+}

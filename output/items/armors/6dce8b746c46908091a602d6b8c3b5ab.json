@@ -1,0 +1,17 @@
+{
+    "urlName": "valkyric-glory-armor",
+    "url": "http://aqwwiki.wikidot.com/valkyric-glory-armor",
+    "name": "Valkyric Glory Armor",
+    "type": "armors",
+    "description": "This color custom armor will show your enemies on battlefield just who reigns supreme. Will you be the one to decide who lives and dies in battle?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/valkyric-glory-armor/ValkyricGloryArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/valkyric-glory-armor/ValkyricGloryArmorF.png"
+    ],
+    "hash": "6dce8b746c46908091a602d6b8c3b5ab"
+}

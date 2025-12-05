@@ -1,0 +1,17 @@
+{
+    "urlName": "horccraft-commander",
+    "url": "http://aqwwiki.wikidot.com/horccraft-commander",
+    "name": "HorcCraft Commander",
+    "type": "armors",
+    "description": "An elite version of a breed of Horcs discovered after Bloodtusk Ravine was scarred by chaos. They are more abrasive and protective of their tribes. And it's always for the Horcs!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/horccraft-commander/HorccraftCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/horccraft-commander/HorccraftCommanderF.png"
+    ],
+    "hash": "5019e69dba4f59ace1fd4e4eb533e290"
+}

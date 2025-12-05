@@ -1,0 +1,16 @@
+{
+    "urlName": "necrolock",
+    "url": "http://aqwwiki.wikidot.com/necrolock",
+    "name": "Necrolock",
+    "type": "armors",
+    "description": "Terrify your foes, but try not to scare your own pet too much with this dark and sinister armor.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/4zlh0k9.png",
+        "https://i.imgur.com/zRBErjo.png"
+    ],
+    "hash": "e98c602d507ed3f41d5385202b3f5d66"
+}

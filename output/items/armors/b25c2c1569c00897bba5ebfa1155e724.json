@@ -1,0 +1,17 @@
+{
+    "urlName": "yokai-summoner",
+    "url": "http://aqwwiki.wikidot.com/yokai-summoner",
+    "name": "Yokai Summoner",
+    "type": "armors",
+    "description": "A Yokai Summoner most be careful when using their power. Spirits may look harmless at times but only an experienced Summoner may exorcise them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/inT5goc.png",
+        "https://i.imgur.com/Z5ciUP6.png"
+    ],
+    "hash": "b25c2c1569c00897bba5ebfa1155e724"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "chaotic-healer",
+    "url": "http://aqwwiki.wikidot.com/chaotic-healer",
+    "name": "Chaotic Healer",
+    "type": "armors",
+    "description": "For clerics of Chaos who wish to wield its power.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/mxuWwP1.png",
+        "http://i.imgur.com/U0n506h.png"
+    ],
+    "hash": "2f20527fb80fa8840e451abc25e65817"
+}

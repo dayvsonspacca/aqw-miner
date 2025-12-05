@@ -1,0 +1,17 @@
+{
+    "urlName": "tiger-skin",
+    "url": "http://aqwwiki.wikidot.com/tiger-skin",
+    "name": "Tiger Skin",
+    "type": "armors",
+    "description": "And the last known survivor stalks his prey in the night / And he's watchin' us all in the armor of the tiger.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tiger-skin/TigerSkinM.png",
+        "http://aqwwiki.wdfiles.com/local--files/tiger-skin/TigerSkinF.png"
+    ],
+    "hash": "c092427ade6cab8a812cecb80d1f0a27"
+}

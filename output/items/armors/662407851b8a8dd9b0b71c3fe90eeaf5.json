@@ -1,0 +1,17 @@
+{
+    "urlName": "onyx-mage-robes-ac",
+    "url": "http://aqwwiki.wikidot.com/onyx-mage-robes-ac",
+    "name": "Onyx Mage Robes (AC)",
+    "type": "armors",
+    "description": "You can't help but smile when you wear it. You don't know why. Everyone also stares at you like something's in your teeth.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/dwFkj2V.png",
+        "https://i.imgur.com/YeaPX0y.png"
+    ],
+    "hash": "662407851b8a8dd9b0b71c3fe90eeaf5"
+}

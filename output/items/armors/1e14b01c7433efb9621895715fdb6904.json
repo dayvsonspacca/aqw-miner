@@ -1,0 +1,17 @@
+{
+    "urlName": "carbon-iron-warrior",
+    "url": "http://aqwwiki.wikidot.com/carbon-iron-warrior",
+    "name": "Carbon Iron Warrior",
+    "type": "armors",
+    "description": "Remember: in a fantasy game, it's always a good idea to bring a Blaster Beam to a blade fight, so become the Iron Warrior you never expected to be!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/carbon-iron-warrior/CarbonIronWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/carbon-iron-warrior/CarbonIronWarriorF.png"
+    ],
+    "hash": "1e14b01c7433efb9621895715fdb6904"
+}

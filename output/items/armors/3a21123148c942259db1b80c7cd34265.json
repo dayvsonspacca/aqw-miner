@@ -1,0 +1,16 @@
+{
+    "urlName": "sakura-sorceress",
+    "url": "http://aqwwiki.wikidot.com/sakura-sorceress",
+    "name": "Sakura Sorceress",
+    "type": "armors",
+    "description": "So scarlet red isn't your color? Well thankfully the Sorceress had some other colors made.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sakura-sorceress/SakuraSorc.png"
+    ],
+    "hash": "3a21123148c942259db1b80c7cd34265"
+}

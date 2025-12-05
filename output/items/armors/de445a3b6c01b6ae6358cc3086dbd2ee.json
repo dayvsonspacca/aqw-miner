@@ -1,0 +1,16 @@
+{
+    "urlName": "northpointe-shadowmage",
+    "url": "http://aqwwiki.wikidot.com/northpointe-shadowmage",
+    "name": "Northpointe Shadowmage",
+    "type": "armors",
+    "description": "Northpointe Magi must choose between the Light and the Dark. Both must work together. As a Shadow Mage sometimes to keep from failure you must walk in Darkness.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/p1mT86M.png",
+        "http://i.imgur.com/kLGqQAE.png"
+    ],
+    "hash": "de445a3b6c01b6ae6358cc3086dbd2ee"
+}

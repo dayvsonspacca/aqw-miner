@@ -1,0 +1,17 @@
+{
+    "urlName": "holly-jolly-elf",
+    "url": "http://aqwwiki.wikidot.com/holly-jolly-elf",
+    "name": "Holly Jolly Elf",
+    "type": "armors",
+    "description": "No one throughout Lore has more holiday spirit than you! Great job not letting the weather bring you down as you shared holiday cheer throughout Lore 12 days in a row!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/holly-jolly-elf/HollyJollyElfMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/holly-jolly-elf/HollyJollyElfFemale.png"
+    ],
+    "hash": "223dcf3cbc1dc85642cd8016363fab2b"
+}

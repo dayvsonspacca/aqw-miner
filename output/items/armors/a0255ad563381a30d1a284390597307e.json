@@ -1,0 +1,17 @@
+{
+    "urlName": "savage-glaceran-warlord-armor",
+    "url": "http://aqwwiki.wikidot.com/savage-glaceran-warlord-armor",
+    "name": "Savage Glaceran Warlord (Armor)",
+    "type": "armors",
+    "description": "Conquerors from Glacera, an unforgiving planet of ice and bloodshed. Warlords are born to fight until only one remains. This is their meaning of life - the only reason to exist.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/MNGdQt4.png",
+        "https://i.imgur.com/avCWbG0.png"
+    ],
+    "hash": "a0255ad563381a30d1a284390597307e"
+}

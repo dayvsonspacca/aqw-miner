@@ -1,0 +1,16 @@
+{
+    "urlName": "riftwalker",
+    "url": "http://aqwwiki.wikidot.com/riftwalker",
+    "name": "Riftwalker",
+    "type": "armors",
+    "description": "Riftwalkers are Atealan warriors who can cut reality with a single slash, and shatter dimensions with a single punch. Powerful Riftwalkers can flash through reality with a single swing of their blade.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/o5TbTFO.png",
+        "https://i.imgur.com/sjNStls.png"
+    ],
+    "hash": "4ed5aa4d2ebadaae08a937513894416b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-snowman",
+    "url": "http://aqwwiki.wikidot.com/festive-snowman",
+    "name": "Festive Snowman",
+    "type": "armors",
+    "description": "Don't worry about the summer sun melting this snowman!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/SNRvgJp.png",
+        "https://i.imgur.com/WMWcPOP.png"
+    ],
+    "hash": "ae92d610c32d4a85b7e5fa8f636122a6"
+}

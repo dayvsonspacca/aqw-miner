@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-made",
+    "url": "http://aqwwiki.wikidot.com/shadow-made",
+    "name": "Shadow Made",
+    "type": "armors",
+    "description": "Born in the darkness of the shadows, you are the last members of the Shade clan.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-made/ShadowMadeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-made/ShadowMadeF.png"
+    ],
+    "hash": "deae65a6b77e7f09b297c7e3b4a44350"
+}

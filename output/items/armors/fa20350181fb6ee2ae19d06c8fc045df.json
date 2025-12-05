@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-loremaster",
+    "url": "http://aqwwiki.wikidot.com/legion-loremaster",
+    "name": "Legion Loremaster",
+    "type": "armors",
+    "description": "The Legion\u2019s Lorekeepers have shadowed their Lord since the march\u2019s earliest days. Dedicated to chronicling its past and present, they reach into the future as Soothsayers to reveal dark fates.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/tZdu0Mq.png",
+        "https://i.imgur.com/cImthJb.png"
+    ],
+    "hash": "fa20350181fb6ee2ae19d06c8fc045df"
+}

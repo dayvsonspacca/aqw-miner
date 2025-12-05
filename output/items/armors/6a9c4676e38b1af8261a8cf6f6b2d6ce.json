@@ -1,0 +1,17 @@
+{
+    "urlName": "reanimancer",
+    "url": "http://aqwwiki.wikidot.com/reanimancer",
+    "name": "Reanimancer",
+    "type": "armors",
+    "description": "Through Undeath, the Reanimancers pursue life. Their ultimate goal is to upend the finality of the end. The lost and the fallen will be granted eternity in a bright paradise.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/t5qdngg.png",
+        "https://i.imgur.com/x8RLeji.png"
+    ],
+    "hash": "6a9c4676e38b1af8261a8cf6f6b2d6ce"
+}

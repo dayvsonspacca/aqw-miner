@@ -1,0 +1,17 @@
+{
+    "urlName": "icebreaker-warrior",
+    "url": "http://aqwwiki.wikidot.com/icebreaker-warrior",
+    "name": "IceBreaker Warrior",
+    "type": "armors",
+    "description": "On the frozen battlefield, a warrior will rise up and set a blaze to those who wish to do harm. You shall know this warrior's bitter wrath!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/LgmUwM4.png",
+        "http://aqwwiki.wdfiles.com/local--files/icebreaker-warrior/IWM.png"
+    ],
+    "hash": "ecdd0ca2ed261fca369a2d6e8d48906a"
+}

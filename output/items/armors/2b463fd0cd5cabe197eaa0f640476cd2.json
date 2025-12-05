@@ -1,0 +1,19 @@
+{
+    "urlName": "daimon-armor",
+    "url": "http://aqwwiki.wikidot.com/daimon-armor",
+    "name": "Daimon Armor",
+    "type": "armors",
+    "description": "You have honed your psychic abilities to work in unison with your weaponry, but understand that working in tandem with allies can make the difference between victory and defeat.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/ucOmtGn.png",
+        "http://imgur.com/Sx3qDDU.png",
+        "http://i.imgur.com/6yls1DU.png",
+        "http://imgur.com/DS6Ks38.png"
+    ],
+    "hash": "2b463fd0cd5cabe197eaa0f640476cd2"
+}

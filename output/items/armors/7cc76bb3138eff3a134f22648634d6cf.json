@@ -1,0 +1,17 @@
+{
+    "urlName": "permafrost-enchanter-ac",
+    "url": "http://aqwwiki.wikidot.com/permafrost-enchanter-ac",
+    "name": "PermaFrost Enchanter (AC)",
+    "type": "armors",
+    "description": "The rimeblossom outlasts the the heat of the sun. Its colors reflect the sky at the end of day. The enchanter's roots are embedded deep in ancient and fearsome ice.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EHNl2fS.png",
+        "https://i.imgur.com/SJdU5Bh.png"
+    ],
+    "hash": "7cc76bb3138eff3a134f22648634d6cf"
+}

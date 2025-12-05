@@ -1,0 +1,16 @@
+{
+    "urlName": "mazumi-armor",
+    "url": "http://aqwwiki.wikidot.com/mazumi-armor",
+    "name": "Mazumi (Armor)",
+    "type": "armors",
+    "description": "Lore's own Ninja trainer!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/M7oqedI.png",
+        "https://i.imgur.com/2pJzBuU.png"
+    ],
+    "hash": "daa46c27f3efdeda56a64b8e12bc6fb3"
+}

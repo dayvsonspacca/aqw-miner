@@ -1,0 +1,18 @@
+{
+    "urlName": "golden-falcon-commander",
+    "url": "http://aqwwiki.wikidot.com/golden-falcon-commander",
+    "name": "Golden Falcon Commander",
+    "type": "armors",
+    "description": "Much like a falcon, those that uphold the brightest, positive aspect of this predator are wise, honest, resilient, and unafraid to get into the spirit of fighting for one's freedom if need be.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-falcon-commander/GoldenFalconCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-falcon-commander/GoldenFalconCommanderF.png"
+    ],
+    "hash": "e5b2d1fd3230f49d2e6ad3e429496053"
+}

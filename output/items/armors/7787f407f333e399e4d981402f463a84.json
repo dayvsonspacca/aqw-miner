@@ -1,0 +1,17 @@
+{
+    "urlName": "kalayaan-warrior",
+    "url": "http://aqwwiki.wikidot.com/kalayaan-warrior",
+    "name": "Kalayaan Warrior",
+    "type": "armors",
+    "description": "Maligayang Araw ng Kalayaan sa lahat ng manlalaro sa Pilipinas.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Fx1MwgF.png",
+        "https://i.imgur.com/2b3rz7l.png"
+    ],
+    "hash": "7787f407f333e399e4d981402f463a84"
+}

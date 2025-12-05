@@ -1,0 +1,17 @@
+{
+    "urlName": "onyx-zombieslayer-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/onyx-zombieslayer-armor-ac",
+    "name": "Onyx ZombieSlayer Armor (AC)",
+    "type": "armors",
+    "description": "The undead walk the land, slain and reborn by Sepulchure's toxic fog. It is up to you to save the innocent, rescue the weak, and slay those who would tear down the home you have defended so valiantly. You are the Zombie Killer!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Jp9mBjF.png",
+        "https://i.imgur.com/8vSkKsJ.png"
+    ],
+    "hash": "bf6423f2443b4e673f8bdf4b48831c5d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "volutari-hunter",
+    "url": "http://aqwwiki.wikidot.com/volutari-hunter",
+    "name": "Volutari Hunter",
+    "type": "armors",
+    "description": "What you seek, all desire, But YOU are the only hunter brave enough to reach out and TAKE it!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/volutari-hunter/VolutariHunterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/volutari-hunter/VolutariHunterF.png"
+    ],
+    "hash": "025209788669905df92ec95787f96933"
+}

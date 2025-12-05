@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-acolyte",
+    "url": "http://aqwwiki.wikidot.com/dark-acolyte",
+    "name": "Dark Acolyte",
+    "type": "armors",
+    "description": "These Acolytes prefer the Dark side of things. Like good and bad, one cannot exist without the other.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/QMtyIvd.png",
+        "http://i.imgur.com/k8h5vOT.png"
+    ],
+    "hash": "aab71b94a4e3f57dfedfe40964230315"
+}

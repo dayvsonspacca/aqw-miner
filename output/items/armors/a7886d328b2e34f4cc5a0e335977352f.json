@@ -1,0 +1,18 @@
+{
+    "urlName": "toxic-fiend-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/toxic-fiend-of-nulgath",
+    "name": "Toxic Fiend of Nulgath",
+    "type": "armors",
+    "description": "A general in Nulgath's army, the Infernalfiend is willing to do WHATEVER it takes to please his master and lead his armies to victory! (Talk to Swindle in /tercessuinotlim to quest for the helm)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/K595bAC.png",
+        "http://aqwwiki.wdfiles.com/local--files/toxic-fiend-of-nulgath/ToxicFiendofNulgathM.png",
+        "http://aqwwiki.wdfiles.com/local--files/toxic-fiend-of-nulgath/ToxicFiendofNulgathF.png"
+    ],
+    "hash": "a7886d328b2e34f4cc5a0e335977352f"
+}

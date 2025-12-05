@@ -1,0 +1,17 @@
+{
+    "urlName": "laken-the-evil-ac",
+    "url": "http://aqwwiki.wikidot.com/laken-the-evil-ac",
+    "name": "Laken the Evil (AC)",
+    "type": "armors",
+    "description": "There can only be one Laken, but he may have TWO different states. This is the Evil version of the Laken the Good NPC.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/laken-the-evil-ac/LakentheEvilM.png",
+        "http://aqwwiki.wdfiles.com/local--files/laken-the-evil-ac/LakentheEvilF.png"
+    ],
+    "hash": "16e501bc5a312b3176fd2bcef4233e4f"
+}

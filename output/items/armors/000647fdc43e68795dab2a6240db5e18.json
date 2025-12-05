@@ -1,0 +1,17 @@
+{
+    "urlName": "infernal-slayer",
+    "url": "http://aqwwiki.wikidot.com/infernal-slayer",
+    "name": "Infernal Slayer",
+    "type": "armors",
+    "description": "Charged by the Light, these warriors start a never ending quest to rid the world of evil and all its beings",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/dLtclA1.png",
+        "https://i.imgur.com/9vPisrU.png",
+        "https://i.imgur.com/Cu4r69w.png"
+    ],
+    "hash": "000647fdc43e68795dab2a6240db5e18"
+}

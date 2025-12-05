@@ -1,0 +1,16 @@
+{
+    "urlName": "kat-burglar",
+    "url": "http://aqwwiki.wikidot.com/kat-burglar",
+    "name": "Kat Burglar",
+    "type": "armors",
+    "description": "You've heard of cat burglars\u2026 but not the Kat Burglar! Sleek and stealthy, able to jump to high places - and fall from them (without getting hurt) too!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/477Q0ls.png",
+        "http://i.imgur.com/OHmlnV1.png"
+    ],
+    "hash": "0efa828cfb39d5e4df6df893a5d81c78"
+}

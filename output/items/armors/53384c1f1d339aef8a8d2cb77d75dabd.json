@@ -1,0 +1,17 @@
+{
+    "urlName": "heart-of-fire",
+    "url": "http://aqwwiki.wikidot.com/heart-of-fire",
+    "name": "Heart of Fire",
+    "type": "armors",
+    "description": "The heart of fire gives these beings their power. Their everlasting heat will burn down their enemies.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/IbqrWay.png",
+        "https://i.imgur.com/jF4s54q.png"
+    ],
+    "hash": "53384c1f1d339aef8a8d2cb77d75dabd"
+}

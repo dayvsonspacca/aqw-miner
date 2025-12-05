@@ -1,0 +1,16 @@
+{
+    "urlName": "white-rook",
+    "url": "http://aqwwiki.wikidot.com/white-rook",
+    "name": "White Rook",
+    "type": "armors",
+    "description": "Rooks take many forms in this ancient game. Sometimes they were depicted as berserkers. Sometimes, castles. But whatever they're incarnation, they are meant to seem unstoppable.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/zmXHmBN.png",
+        "http://i.imgur.com/SeuahHh.png"
+    ],
+    "hash": "1891b38417165219cd8e2bdfb12ba610"
+}

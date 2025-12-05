@@ -1,0 +1,17 @@
+{
+    "urlName": "phantom-elegance",
+    "url": "http://aqwwiki.wikidot.com/phantom-elegance",
+    "name": "Phantom Elegance",
+    "type": "armors",
+    "description": "The festivities for Heroes Heart Day have just begun, get ready to have some holiday fun!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/l3nGnnR.png",
+        "https://i.imgur.com/jVW6vEy.png"
+    ],
+    "hash": "94e686702d1b4f46c9bb010f4a80b9d7"
+}

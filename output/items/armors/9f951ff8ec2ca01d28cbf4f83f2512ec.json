@@ -1,0 +1,18 @@
+{
+    "urlName": "battleon-swag-drop-armor",
+    "url": "http://aqwwiki.wikidot.com/battleon-swag-drop-armor",
+    "name": "Battleon Swag Drop Armor",
+    "type": "armors",
+    "description": "\"Hero will never have drop.\" OH YEAH? WHAT'S THIS?!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/GM9npJF.png",
+        "https://i.imgur.com/g2ZGifr.png"
+    ],
+    "hash": "9f951ff8ec2ca01d28cbf4f83f2512ec"
+}

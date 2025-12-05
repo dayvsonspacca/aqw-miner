@@ -1,0 +1,16 @@
+{
+    "urlName": "thunderborn-battlegear",
+    "url": "http://aqwwiki.wikidot.com/thunderborn-battlegear",
+    "name": "Thunderborn Battlegear",
+    "type": "armors",
+    "description": "You'd think that combining lightning and water would be dangerous. Not for the Thunderborn!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/A88em8b.png",
+        "https://i.imgur.com/oZAQ4ie.png",
+        "https://i.imgur.com/OkLvQsz.png",
+        "https://i.imgur.com/YS0qBeL.png"
+    ],
+    "hash": "32ebfb25edbff397203fc51efe1b6f7a"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "necrotic-shadowflame-warrior",
+    "url": "http://aqwwiki.wikidot.com/necrotic-shadowflame-warrior",
+    "name": "Necrotic ShadowFlame Warrior",
+    "type": "armors",
+    "description": "The ShadowFlame is known to consume all who are willing to give their lives for it. Are you bold enough to join in their ranks?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necrotic-shadowflame-warrior/NecroticShadowflameWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/necrotic-shadowflame-warrior/NecroticShadowflameWarriorF.png"
+    ],
+    "hash": "7b8bada27cd620ee7cfa2c4e11c93e2e"
+}

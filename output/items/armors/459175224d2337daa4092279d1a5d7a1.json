@@ -1,0 +1,17 @@
+{
+    "urlName": "nechotech",
+    "url": "http://aqwwiki.wikidot.com/nechotech",
+    "name": "NechoTech",
+    "type": "armors",
+    "description": "The nanotechnology that flourish on the fabric causes improved dexterity and heightened awareness of an object's trajectory. Once the suit is equipped, these enhanced abilities transfer over to you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nechotech/NechoTechM.png",
+        "http://aqwwiki.wdfiles.com/local--files/nechotech/NechoTechF.png"
+    ],
+    "hash": "459175224d2337daa4092279d1a5d7a1"
+}

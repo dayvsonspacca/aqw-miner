@@ -1,0 +1,16 @@
+{
+    "urlName": "vindicator-scout",
+    "url": "http://aqwwiki.wikidot.com/vindicator-scout",
+    "name": "Vindicator Scout",
+    "type": "armors",
+    "description": "Scouts of the Dawn Vindicators have only just began their service to Gramiel and justice. As they strike down evil and spread Gramiel's glory, red will stain their gold and white.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/uhqWYa0.png",
+        "https://i.imgur.com/nBRk0FD.png"
+    ],
+    "hash": "cff90bff594e794df542c08c83d07fee"
+}

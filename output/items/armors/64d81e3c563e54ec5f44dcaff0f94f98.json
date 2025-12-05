@@ -1,0 +1,18 @@
+{
+    "urlName": "scrooge-mcluck",
+    "url": "http://aqwwiki.wikidot.com/scrooge-mcluck",
+    "name": "Scrooge Mcluck",
+    "type": "armors",
+    "description": "Dressed up and everywhere to be, this dapper armor will not only make you feel important, but look the part as you dismantle every enemy that comes your way. Who said you can't look good while fighting?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/EaAxRD8.png",
+        "http://i.imgur.com/5eovyV1.png"
+    ],
+    "hash": "64d81e3c563e54ec5f44dcaff0f94f98"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "vip",
+    "url": "http://aqwwiki.wikidot.com/vip",
+    "name": "VIP",
+    "type": "armors",
+    "description": "Only the most SUPER of Heroes are eligible to equip this armor! BattleOn! Awarded to anyone who has supported AQW with a 12 month membership since July 21st, 2011 or had an active year membership at the time.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/hqN987D.png",
+        "http://i.imgur.com/NpQizlq.png"
+    ],
+    "hash": "9b156f9d88ba58a34f6e1daf60c0e61d"
+}

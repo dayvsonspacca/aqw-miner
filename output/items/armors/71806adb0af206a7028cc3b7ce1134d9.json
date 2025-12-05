@@ -1,0 +1,17 @@
+{
+    "urlName": "obsidia-necromancer-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/obsidia-necromancer-armor-ac",
+    "name": "Obsidia Necromancer (Armor) (AC)",
+    "type": "armors",
+    "description": "The quarrels of men only fuel your fire. Let their fallen build your empire.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/obsidia-necromancer-armor-ac/ObsidiaNecromancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/obsidia-necromancer-armor-ac/ObsidiaNecromancerF.png"
+    ],
+    "hash": "71806adb0af206a7028cc3b7ce1134d9"
+}

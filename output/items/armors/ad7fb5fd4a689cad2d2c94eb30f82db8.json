@@ -1,0 +1,15 @@
+{
+    "urlName": "lady-lua-armor",
+    "url": "http://aqwwiki.wikidot.com/lady-lua-armor",
+    "name": "Lady Lua (Armor)",
+    "type": "armors",
+    "description": "Lady Lua hails from a region of Yokai Isle famed for its white tigers and black bamboo. She rules her ancestral lands with a blend of wisdom and tigerish ferocity. (Female art only.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hqraCnA.png"
+    ],
+    "hash": "ad7fb5fd4a689cad2d2c94eb30f82db8"
+}

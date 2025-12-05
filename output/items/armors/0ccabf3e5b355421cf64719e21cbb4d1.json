@@ -1,0 +1,17 @@
+{
+    "urlName": "iron-fang-warlord-ac",
+    "url": "http://aqwwiki.wikidot.com/iron-fang-warlord-ac",
+    "name": "Iron Fang Warlord (AC)",
+    "type": "armors",
+    "description": "Descended from the bloodline of great hunters and legendary predators, the Iron Fang are hungry for greater and greater battles.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8WJeaSo.png",
+        "https://i.imgur.com/rVcCDME.png"
+    ],
+    "hash": "0ccabf3e5b355421cf64719e21cbb4d1"
+}

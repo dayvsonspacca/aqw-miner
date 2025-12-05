@@ -1,0 +1,17 @@
+{
+    "urlName": "licorice-twist-armor",
+    "url": "http://aqwwiki.wikidot.com/licorice-twist-armor",
+    "name": "Licorice Twist (Armor)",
+    "type": "armors",
+    "description": "Do the twist, the spearmint twist!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/licorice-twist-armor/LicoriceTwistM.png",
+        "http://aqwwiki.wdfiles.com/local--files/licorice-twist-armor/LicoriceTwistF.png"
+    ],
+    "hash": "1a1cc9d33afcebe3c15a76863af86738"
+}

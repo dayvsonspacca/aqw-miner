@@ -1,0 +1,16 @@
+{
+    "urlName": "alliance-elite",
+    "url": "http://aqwwiki.wikidot.com/alliance-elite",
+    "name": "Alliance Elite",
+    "type": "armors",
+    "description": "This armor is reserved for the most elite soldiers in the Alliance. Chaos don't stand a chance when these heavily armored champions enter the field.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/b630WYS.png",
+        "http://i.imgur.com/XXqnfPE.png"
+    ],
+    "hash": "5c5e5387ca6324c2633d571f8bab9754"
+}

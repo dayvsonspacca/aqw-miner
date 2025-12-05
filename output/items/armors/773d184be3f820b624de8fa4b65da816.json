@@ -1,0 +1,18 @@
+{
+    "urlName": "platinum-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/platinum-naval-commander",
+    "name": "Platinum Naval Commander",
+    "type": "armors",
+    "description": "As a high ranking officer at the Royal navy, your job is to hunt down treasure seeking pirates, but if you WEAR the treasure then the pirates will come to you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/platinum-naval-commander/PlatinumNavalCommanderMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/platinum-naval-commander/PlatinumNavalCommanderMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/platinum-naval-commander/PlatinumNavalCommanderF.png"
+    ],
+    "hash": "773d184be3f820b624de8fa4b65da816"
+}

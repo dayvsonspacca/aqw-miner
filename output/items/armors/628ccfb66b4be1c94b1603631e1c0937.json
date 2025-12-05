@@ -1,0 +1,17 @@
+{
+    "urlName": "light-battlemage",
+    "url": "http://aqwwiki.wikidot.com/light-battlemage",
+    "name": "Light BattleMage",
+    "type": "armors",
+    "description": "A certain sect of Mages have blood ties to Celestial Light trains in secrecy. All are fated to fall, and their successors are tasked with dispelling the shadows they became.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Gj66el5.png",
+        "https://i.imgur.com/WQh3xXB.png"
+    ],
+    "hash": "628ccfb66b4be1c94b1603631e1c0937"
+}

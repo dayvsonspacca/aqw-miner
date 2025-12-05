@@ -1,0 +1,17 @@
+{
+    "urlName": "candy-corn-crusher",
+    "url": "http://aqwwiki.wikidot.com/candy-corn-crusher",
+    "name": "Candy Corn Crusher",
+    "type": "armors",
+    "description": "The spines taste of honey and vanilla, but the armor's made of tougher stuff. Beasts expecting a snack are going to get a bitter pill to swallow.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ZAyuCOD.png",
+        "https://i.imgur.com/1Na4zjZ.png"
+    ],
+    "hash": "b4d15003c472432b4610c2d663e7b940"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "gilded-draco-knight",
+    "url": "http://aqwwiki.wikidot.com/gilded-draco-knight",
+    "name": "Gilded Draco Knight",
+    "type": "armors",
+    "description": "A Knight blessed with the magic of Dragons and golden armor. Wielding fire and might, they're proof of the deep connection between Human and Dragonkind.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BiHyWOW.png",
+        "https://i.imgur.com/C5XUuAC.png",
+        "https://i.imgur.com/xd4xgqm.png",
+        "https://i.imgur.com/FTsWeci.png"
+    ],
+    "hash": "095e6b4ecde4e1c82850439a9cfa6c22"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "blood-collector",
+    "url": "http://aqwwiki.wikidot.com/blood-collector",
+    "name": "Blood Collector",
+    "type": "armors",
+    "description": "Given the define task of collecting blood to repair weapons, the magic they harness is not fully understood.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/IEYcbkL.png",
+        "https://i.imgur.com/btIrbuT.png"
+    ],
+    "hash": "caf68994fa665936d2d715864373477e"
+}

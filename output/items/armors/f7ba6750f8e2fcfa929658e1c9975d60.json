@@ -1,0 +1,17 @@
+{
+    "urlName": "noxious-symbiote",
+    "url": "http://aqwwiki.wikidot.com/noxious-symbiote",
+    "name": "Noxious Symbiote",
+    "type": "armors",
+    "description": "It's not easy being green. Especially when you're noxious as well. Which is why you're NOT. You're orange. (Gives 20% rep and 10% class points boost when equipped)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/EKY1gjT.png",
+        "http://i.imgur.com/4oXvxkr.png"
+    ],
+    "hash": "f7ba6750f8e2fcfa929658e1c9975d60"
+}

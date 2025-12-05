@@ -1,0 +1,17 @@
+{
+    "urlName": "tribal-mummy",
+    "url": "http://aqwwiki.wikidot.com/tribal-mummy",
+    "name": "Tribal Mummy",
+    "type": "armors",
+    "description": "Not what I'd want to meet in the middle of a pyramid in the middle of the night.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/V11Bk0H.png",
+        "http://i.imgur.com/2111Yjf.png"
+    ],
+    "hash": "f74bb9e418311059f51481d82c5f3d21"
+}

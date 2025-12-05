@@ -1,0 +1,17 @@
+{
+    "urlName": "ceremonial-attire",
+    "url": "http://aqwwiki.wikidot.com/ceremonial-attire",
+    "name": "Ceremonial Attire",
+    "type": "armors",
+    "description": "Whether leading an army in battle or planning your next adventure in Yulgar's Inn, you'll look like a hero.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Xsl4nll.png",
+        "https://i.imgur.com/rUguaTx.png"
+    ],
+    "hash": "1524d9eb567e26d4db552d6f9b0bb704"
+}

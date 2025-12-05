@@ -1,0 +1,17 @@
+{
+    "urlName": "lightbringer-armor",
+    "url": "http://aqwwiki.wikidot.com/lightbringer-armor",
+    "name": "Lightbringer Armor",
+    "type": "armors",
+    "description": "\"And Lo, the Void, the Great Outside, grew jealous of Mother Gaia and her children. And as the Void spawn crept onto Gaia, who rose to meet them but the Lightbringers!\" -Book of Light, 1st chapter, lines 5-7",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightbringer-armor/LightbringerArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lightbringer-armor/LightbringerArmorF.png"
+    ],
+    "hash": "077395d97032dd5d2d22c430109f89fa"
+}

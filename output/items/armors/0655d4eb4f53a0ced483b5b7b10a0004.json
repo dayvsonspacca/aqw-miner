@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-kaiju-cannoneer",
+    "url": "http://aqwwiki.wikidot.com/shadow-kaiju-cannoneer",
+    "name": "Shadow Kaiju Cannoneer",
+    "type": "armors",
+    "description": "Pirates are opportunistic rogues and treasure hunters of the sea. Combat might not always go their way but they will do the best they can to make the most of any combat situation.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QaBeFa4.png",
+        "https://i.imgur.com/3oejkOy.png"
+    ],
+    "hash": "0655d4eb4f53a0ced483b5b7b10a0004"
+}

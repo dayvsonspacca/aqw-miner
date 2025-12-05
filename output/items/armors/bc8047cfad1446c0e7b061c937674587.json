@@ -1,0 +1,16 @@
+{
+    "urlName": "ecto-enforcer",
+    "url": "http://aqwwiki.wikidot.com/ecto-enforcer",
+    "name": "Ecto Enforcer",
+    "type": "armors",
+    "description": "Enforcers exist for the sole purpose of removing all leftover magic there is. But one of them seems a bit different\u2026",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/mXOUawU.png",
+        "https://imgur.com/zaeCjbg.png"
+    ],
+    "hash": "bc8047cfad1446c0e7b061c937674587"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "champion-of-light-armor",
+    "url": "http://aqwwiki.wikidot.com/champion-of-light-armor",
+    "name": "Champion Of Light (Armor)",
+    "type": "armors",
+    "description": "Even a speck of light can be found in the pitch black shadows and someone unexpected was chosen to carry it. In earning her gratitude, Gravelyn presents a replica of her gleaming platinum armor to you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/champion-of-light-armor/CoLM.png",
+        "http://aqwwiki.wdfiles.com/local--files/champion-of-light-armor/CoLF.png"
+    ],
+    "hash": "06b6b45bd54d5828aa3ab2521b42ffe3"
+}

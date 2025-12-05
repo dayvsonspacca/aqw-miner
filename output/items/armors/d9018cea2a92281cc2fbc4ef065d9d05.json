@@ -1,0 +1,16 @@
+{
+    "urlName": "empowered-evolved-blood",
+    "url": "http://aqwwiki.wikidot.com/empowered-evolved-blood",
+    "name": "Empowered Evolved Blood",
+    "type": "armors",
+    "description": "This item does 35% more damage to all monsters and gives 25% more gold/exp/rep/cp when equipped. Courtesy of Zee, Nulgath has empowered his oldest and most devoted Fiend's to further shape his very image. There is no purity left in their veins.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/gYQZqdQ.png",
+        "http://i.imgur.com/WUyeIvm.png"
+    ],
+    "hash": "d9018cea2a92281cc2fbc4ef065d9d05"
+}

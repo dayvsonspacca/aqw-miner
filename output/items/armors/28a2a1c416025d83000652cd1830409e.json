@@ -1,0 +1,17 @@
+{
+    "urlName": "rainbowtheus-armor",
+    "url": "http://aqwwiki.wikidot.com/rainbowtheus-armor",
+    "name": "Rainbowtheus Armor",
+    "type": "armors",
+    "description": "Rainbowtheus has wandered over from OverSoul to paint the town so everything is ready for Lucky Day.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/RSWFLy5.png",
+        "https://i.imgur.com/S1EqrMj.png"
+    ],
+    "hash": "28a2a1c416025d83000652cd1830409e"
+}

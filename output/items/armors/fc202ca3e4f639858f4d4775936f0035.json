@@ -1,0 +1,16 @@
+{
+    "urlName": "firestorm-corporal-armor",
+    "url": "http://aqwwiki.wikidot.com/firestorm-corporal-armor",
+    "name": "Firestorm Corporal (Armor)",
+    "type": "armors",
+    "description": "Moving up the ranks of the Firestorm army. Soon they will know your name and your mission.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/ZqUebac.png",
+        "http://i.imgur.com/cgWXFRi.png"
+    ],
+    "hash": "fc202ca3e4f639858f4d4775936f0035"
+}

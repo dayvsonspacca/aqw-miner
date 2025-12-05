@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-cheers-sweater",
+    "url": "http://aqwwiki.wikidot.com/festive-cheers-sweater",
+    "name": "Festive Cheers Sweater",
+    "type": "armors",
+    "description": "Clink your mugs of hot cocoa and dive into the holiday spirit!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/VilTNSd.png",
+        "https://imgur.com/oUbRZ2E.png"
+    ],
+    "hash": "bdc9a05ba8cfdaaf49de25d00c23c4f0"
+}

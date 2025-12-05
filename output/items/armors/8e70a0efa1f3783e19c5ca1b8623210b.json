@@ -1,0 +1,16 @@
+{
+    "urlName": "tempest-soldier-armor",
+    "url": "http://aqwwiki.wikidot.com/tempest-soldier-armor",
+    "name": "Tempest Soldier (Armor)",
+    "type": "armors",
+    "description": "Huge fans of cookies, the Tempest Soldier will follow any orders given just to get more of them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/PMHZmYK.png",
+        "https://imgur.com/SjdgzHj.png"
+    ],
+    "hash": "8e70a0efa1f3783e19c5ca1b8623210b"
+}

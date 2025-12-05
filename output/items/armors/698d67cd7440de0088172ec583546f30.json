@@ -1,0 +1,17 @@
+{
+    "urlName": "the-matchmaker",
+    "url": "http://aqwwiki.wikidot.com/the-matchmaker",
+    "name": "The MatchMaker",
+    "type": "armors",
+    "description": "No hero will be able to resist your matchmaking machinations when invite them to join you on your next adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/q8qx5gC.png",
+        "https://i.imgur.com/SNuORiE.png"
+    ],
+    "hash": "698d67cd7440de0088172ec583546f30"
+}

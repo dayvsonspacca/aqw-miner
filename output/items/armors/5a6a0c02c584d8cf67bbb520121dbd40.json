@@ -1,0 +1,17 @@
+{
+    "urlName": "fallen-champion",
+    "url": "http://aqwwiki.wikidot.com/fallen-champion",
+    "name": "Fallen Champion",
+    "type": "armors",
+    "description": "What happens when a champion of good goes bad? Well, there's only one way to find out.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-champion/FCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fallen-champion/FCF.png"
+    ],
+    "hash": "5a6a0c02c584d8cf67bbb520121dbd40"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "battle-swimwear",
+    "url": "http://aqwwiki.wikidot.com/battle-swimwear",
+    "name": "Battle Swimwear",
+    "type": "armors",
+    "description": "Combined with SPF 9000 this armor will protect you during oh so dangerous missions to the beaches outside Xan's Volcanic Fortress.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/AEWNG6a.png",
+        "http://i.imgur.com/s0QDVks.png"
+    ],
+    "hash": "cf870314d3d0faa9805000ed3770a5d5"
+}

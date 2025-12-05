@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-moglin-suit",
+    "url": "http://aqwwiki.wikidot.com/golden-moglin-suit",
+    "name": "Golden Moglin Suit",
+    "type": "armors",
+    "description": "Morph into the spirit of Frostval and become a moglin of gold!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/vcoIaSX.png"
+    ],
+    "hash": "f4ea69a1da6a9005e7bc58a626b0c770"
+}

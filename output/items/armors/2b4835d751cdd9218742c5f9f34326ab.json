@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-minion-rebel",
+    "url": "http://aqwwiki.wikidot.com/undead-minion-rebel",
+    "name": "Undead Minion Rebel",
+    "type": "armors",
+    "description": "Stick and stones will not break your bones while wearing this armor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-minion-rebel/UndeadMinionRebelM.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-minion-rebel/UndeadMinionRebelF.png"
+    ],
+    "hash": "2b4835d751cdd9218742c5f9f34326ab"
+}

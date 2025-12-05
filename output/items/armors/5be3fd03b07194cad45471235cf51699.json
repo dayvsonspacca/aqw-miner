@@ -1,0 +1,18 @@
+{
+    "urlName": "gjappy-s-celestial-armor",
+    "url": "http://aqwwiki.wikidot.com/gjappy-s-celestial-armor",
+    "name": "Gjappy's Celestial Armor",
+    "type": "armors",
+    "description": "Founded by Bido and Seth Juron, then blessed by Gjappy, those who wear this celestial armor are forever the loyal supporter of paladins.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gjappy-s-celestial-armor/GjappyArmorMnew.png",
+        "http://aqwwiki.wdfiles.com/local--files/gjappy-s-celestial-armor/GjappyArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/gjappy-s-celestial-armor/GjappyArmorFnew.png",
+        "http://aqwwiki.wdfiles.com/local--files/gjappy-s-celestial-armor/GjappyArmorF.png"
+    ],
+    "hash": "5be3fd03b07194cad45471235cf51699"
+}

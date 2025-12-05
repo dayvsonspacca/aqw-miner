@@ -1,0 +1,16 @@
+{
+    "urlName": "magma-armor",
+    "url": "http://aqwwiki.wikidot.com/magma-armor",
+    "name": "Magma Armor",
+    "type": "armors",
+    "description": "Not many mortals live to tell the tale of their misfortunes on Mount Mafic. Third degree burns are the newest fashion statement.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/h2GcDxe.png",
+        "http://i.imgur.com/auPMjpQ.png"
+    ],
+    "hash": "6a4b5bf0fff4a7911eb8707f1051e410"
+}

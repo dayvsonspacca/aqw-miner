@@ -1,0 +1,17 @@
+{
+    "urlName": "obsidian-sorceress",
+    "url": "http://aqwwiki.wikidot.com/obsidian-sorceress",
+    "name": "Obsidian Sorceress",
+    "type": "armors",
+    "description": "So scarlet red isn't your color? Well thankfully the Sorceress had some other colors made.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/obsidian-sorceress/ObsidianSorc.png",
+        "http://aqwwiki.wdfiles.com/local--files/obsidian-sorceress/ObsidianSorcOld.png"
+    ],
+    "hash": "793f0f20d8c7734ff1c96d01831e5849"
+}

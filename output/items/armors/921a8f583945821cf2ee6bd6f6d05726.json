@@ -1,0 +1,19 @@
+{
+    "urlName": "undead-infantry-armor-1",
+    "url": "http://aqwwiki.wikidot.com/undead-infantry-armor-1",
+    "name": "Undead Infantry (Armor)",
+    "type": "armors",
+    "description": "As a member of Dage the Evil's undead army, your only goal is to serve your master.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-infantry-armor-1/UIMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-infantry-armor-1/UndeadInfantryM.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-infantry-armor-1/UIFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-infantry-armor-1/UndeadInfantryF.png"
+    ],
+    "hash": "921a8f583945821cf2ee6bd6f6d05726"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "emo-shocker-ac",
+    "url": "http://aqwwiki.wikidot.com/emo-shocker-ac",
+    "name": "Emo Shocker (AC)",
+    "type": "armors",
+    "description": "I heart 'lectricity, so put a few more hertz in the generator, baby! I heart 'lectricity, so come equip this armor and shock out with me!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VQpv4ZB.png",
+        "https://i.imgur.com/F7oshRg.png",
+        "https://i.imgur.com/pZrLZcs.png",
+        "https://i.imgur.com/cvwB1jH.png"
+    ],
+    "hash": "decd539b26186d62fa304ead0a2196ee"
+}

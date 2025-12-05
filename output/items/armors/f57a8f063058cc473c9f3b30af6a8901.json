@@ -1,0 +1,17 @@
+{
+    "urlName": "geodic-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/geodic-warrior-ac",
+    "name": "Geodic Warrior (AC)",
+    "type": "armors",
+    "description": "By the strength of the stones that shape their bones, Geodic Warriors are bound to server the Avatar of Earth.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3p7dwd5.png",
+        "https://i.imgur.com/ubhbzhD.png"
+    ],
+    "hash": "f57a8f063058cc473c9f3b30af6a8901"
+}

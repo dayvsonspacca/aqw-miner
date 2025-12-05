@@ -1,0 +1,17 @@
+{
+    "urlName": "undeadslayer-armor",
+    "url": "http://aqwwiki.wikidot.com/undeadslayer-armor",
+    "name": "UndeadSlayer Armor",
+    "type": "armors",
+    "description": "Wield the Light to save those trapped by the Darkness! Face down your foes, knowing that you have the power of Light, Might, and Right on your side!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/AtzGEq8.png",
+        "http://i.imgur.com/tMvrr7z.png"
+    ],
+    "hash": "7c139c819de65b570a9a1cd0cb8920f3"
+}

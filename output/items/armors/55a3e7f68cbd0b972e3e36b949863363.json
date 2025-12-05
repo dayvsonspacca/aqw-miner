@@ -1,0 +1,17 @@
+{
+    "urlName": "x-zilla",
+    "url": "http://aqwwiki.wikidot.com/x-zilla",
+    "name": "X-Zilla",
+    "type": "armors",
+    "description": "You might be the King of all Monster but have a breath mint! (This item has a low chance to play an animation when you use a skill AND do more damage against human enemies.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/x-zilla/X-Zilla.png",
+        "http://aqwwiki.wdfiles.com/local--files/x-zilla/X-ZillaAnimation.png"
+    ],
+    "hash": "55a3e7f68cbd0b972e3e36b949863363"
+}

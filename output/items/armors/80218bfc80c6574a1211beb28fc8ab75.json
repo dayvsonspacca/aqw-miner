@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-malevolence-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-malevolence-ac",
+    "name": "Underworld Malevolence (AC)",
+    "type": "armors",
+    "description": "Equipping this ancient, magically-crafted artifact will ensure that you will be fueled in battle by a malevolent fury strong enough to last beyond death.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ou7rFI6.png",
+        "https://i.imgur.com/pwPcXj4.png"
+    ],
+    "hash": "80218bfc80c6574a1211beb28fc8ab75"
+}

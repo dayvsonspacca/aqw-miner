@@ -1,0 +1,17 @@
+{
+    "urlName": "eerie-underworld-general-armor",
+    "url": "http://aqwwiki.wikidot.com/eerie-underworld-general-armor",
+    "name": "Eerie Underworld General (Armor)",
+    "type": "armors",
+    "description": "Down in the deepest depths of the Underworld are warriors so feral and fiendish, those foolish enough to battle them are never seen again.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/n44O7FU.png",
+        "https://i.imgur.com/KRYMEkp.png"
+    ],
+    "hash": "b75512f334bf3105b1af723bdf4ebe21"
+}

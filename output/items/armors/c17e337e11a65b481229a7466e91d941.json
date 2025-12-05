@@ -1,0 +1,16 @@
+{
+    "urlName": "sapphire-fairy",
+    "url": "http://aqwwiki.wikidot.com/sapphire-fairy",
+    "name": "Sapphire Fairy",
+    "type": "armors",
+    "description": "During Lucky Day all of the Fairies come out to celebrate with their friends. The Sapphire Fairies enjoy the water, and can often be found by lakes and rivers.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/LW6eMzw.png",
+        "https://i.imgur.com/WyiQ3Jt.png"
+    ],
+    "hash": "c17e337e11a65b481229a7466e91d941"
+}

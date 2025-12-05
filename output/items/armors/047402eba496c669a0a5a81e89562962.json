@@ -1,0 +1,17 @@
+{
+    "urlName": "ebil-company",
+    "url": "http://aqwwiki.wikidot.com/ebil-company",
+    "name": "Ebil Company",
+    "type": "armors",
+    "description": "A subsidiary of EbilCorp that sends workers out to salvage materials for their labs. Don't worry about the people living in the houses you're 'scavenging' from. Who's going to miss a puzzle cube that badly?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/rimFnML.png",
+        "https://imgur.com/1F7Xjcb.png"
+    ],
+    "hash": "047402eba496c669a0a5a81e89562962"
+}

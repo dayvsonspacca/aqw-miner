@@ -1,0 +1,16 @@
+{
+    "urlName": "j5-motorcycle",
+    "url": "http://aqwwiki.wikidot.com/j5-motorcycle",
+    "name": "J5 Motorcycle",
+    "type": "armors",
+    "description": "It might not do the Kessel run in 12 parsecs but it'll get you to where you need to go.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WdhW9We.png",
+        "https://i.imgur.com/7kVW2cE.png"
+    ],
+    "hash": "b36a1005aa5ed4efc6987721f10c81cf"
+}

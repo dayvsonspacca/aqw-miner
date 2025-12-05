@@ -1,0 +1,17 @@
+{
+    "urlName": "aerodux-warmage-legend",
+    "url": "http://aqwwiki.wikidot.com/aerodux-warmage-legend",
+    "name": "Aerodux WarMage (Legend)",
+    "type": "armors",
+    "description": "For you to master the art of Air, one must feel free of any restrictions armor imposes on them. This armor is made of the lightest feathers on Lore. The golden parts are for the little extra protection one needs.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/nUAFsUu.png",
+        "http://i.imgur.com/2JerKlj.png"
+    ],
+    "hash": "9eb5e730896ec41f1743d4b3559fefd4"
+}

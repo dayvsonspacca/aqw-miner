@@ -1,0 +1,15 @@
+{
+    "urlName": "monster-blademaster-armor",
+    "url": "http://aqwwiki.wikidot.com/monster-blademaster-armor",
+    "name": "Monster BladeMaster Armor",
+    "type": "armors",
+    "description": "One of the most featured creatures in the land, and because of its beautiful face. No, more like its uncanny skill with a blade",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/monster-blademaster-armor/MonsterBlademaster.png"
+    ],
+    "hash": "bb850bcf76ef443d37588c17eeb6a5bb"
+}

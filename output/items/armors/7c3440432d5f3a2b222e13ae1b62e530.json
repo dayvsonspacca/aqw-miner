@@ -1,0 +1,16 @@
+{
+    "urlName": "garaja-armor",
+    "url": "http://aqwwiki.wikidot.com/garaja-armor",
+    "name": "Garaja Armor",
+    "type": "armors",
+    "description": "The garb worn by the ice mage Garaja. Mastery over the art of snowglobe crafting is rare indeed.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/1N6awgP.png",
+        "https://i.imgur.com/lsNzaPs.png"
+    ],
+    "hash": "7c3440432d5f3a2b222e13ae1b62e530"
+}

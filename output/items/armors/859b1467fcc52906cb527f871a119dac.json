@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-frostval-elf",
+    "url": "http://aqwwiki.wikidot.com/festive-frostval-elf",
+    "name": "Festive Frostval Elf",
+    "type": "armors",
+    "description": "Poor Elf! Who knows how long the outfits have been stuck inside Giefurious!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UERzFij.png",
+        "https://i.imgur.com/xlapYzI.png"
+    ],
+    "hash": "859b1467fcc52906cb527f871a119dac"
+}

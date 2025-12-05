@@ -1,0 +1,17 @@
+{
+    "urlName": "fancy-awards-show-tux",
+    "url": "http://aqwwiki.wikidot.com/fancy-awards-show-tux",
+    "name": "Fancy Awards Show Tux",
+    "type": "armors",
+    "description": "Walk the red carpet in this stylish frock while rocking to the Zardile Rock!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/epdDDMa.png",
+        "https://i.imgur.com/LtN5YMp.png"
+    ],
+    "hash": "e4abd23f2bc118f187505482e7af3eff"
+}

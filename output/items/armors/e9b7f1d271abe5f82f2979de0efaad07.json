@@ -1,0 +1,14 @@
+{
+    "urlName": "battletech-mech",
+    "url": "http://aqwwiki.wikidot.com/battletech-mech",
+    "name": "BattleTech Mech",
+    "type": "armors",
+    "description": "When jumping from time to time, you never know what might get on your threads. Protect yourself from stains and other foreign objects when wearing this suit.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/JoVdjM4.png",
+        "http://i.imgur.com/5Yg2oQQ.png"
+    ],
+    "hash": "e9b7f1d271abe5f82f2979de0efaad07"
+}

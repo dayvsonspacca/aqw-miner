@@ -1,0 +1,19 @@
+{
+    "urlName": "legion-deathfiend",
+    "url": "http://aqwwiki.wikidot.com/legion-deathfiend",
+    "name": "Legion DeathFiend",
+    "type": "armors",
+    "description": "Legion DeathFiends are sworn body and soul to Dage the Evil's Undead Legion. They stalk the edges of the Underworld looking for unwary victims. (Click shoulder to activate animation)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7cocXIr.png",
+        "https://i.imgur.com/t6Htd6v.png",
+        "https://i.imgur.com/jwOTmnS.png",
+        "https://i.imgur.com/dHegQbr.png"
+    ],
+    "hash": "3f8fb41231e872c243c963441a12bd98"
+}

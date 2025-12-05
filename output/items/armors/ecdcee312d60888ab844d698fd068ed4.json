@@ -1,0 +1,17 @@
+{
+    "urlName": "beastbane-battlemage",
+    "url": "http://aqwwiki.wikidot.com/beastbane-battlemage",
+    "name": "Beastbane Battlemage",
+    "type": "armors",
+    "description": "Ruthless as the beasts whose hides they've taken for their own, these battlemages hunt apex predators and legends. The more they devour, the more powerful their magic grows.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/LOUcP9s.png",
+        "https://i.imgur.com/YSrxvPI.png"
+    ],
+    "hash": "ecdcee312d60888ab844d698fd068ed4"
+}

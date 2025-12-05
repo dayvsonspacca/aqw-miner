@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-summoner",
+    "url": "http://aqwwiki.wikidot.com/glacial-summoner",
+    "name": "Glacial Summoner",
+    "type": "armors",
+    "description": "With snow comes new beginnings. Those who are lost, search for a fresh start, visit the Glacial Summoners, who cover up their past mistakes and lead them into the light of spring.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glacial-summoner/GlacialSummonerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/glacial-summoner/GlacialSummonerF.png"
+    ],
+    "hash": "357c51b9077d004b85a39770b4db81bd"
+}

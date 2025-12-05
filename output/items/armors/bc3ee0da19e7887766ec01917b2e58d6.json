@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-evocatus-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-evocatus-ac",
+    "name": "Legion Evocatus (AC)",
+    "type": "armors",
+    "description": "The Evocatus are loyal Legionnaires who voluntarily choose to serve Lord Darge after the end of their mortal lives. Eternal servitude to their lord is the greatest honor in undeath.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/DYuUsPb.png",
+        "https://imgur.com/JZnaUvI.png"
+    ],
+    "hash": "bc3ee0da19e7887766ec01917b2e58d6"
+}

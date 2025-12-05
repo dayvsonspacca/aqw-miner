@@ -1,0 +1,17 @@
+{
+    "urlName": "unlucky-knifewielder",
+    "url": "http://aqwwiki.wikidot.com/unlucky-knifewielder",
+    "name": "Unlucky Knifewielder",
+    "type": "armors",
+    "description": "What a classy outfit! Be a shame to get it messy!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/unlucky-knifewielder/UnluckyKnifewielderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/unlucky-knifewielder/UnluckyKnifewielderF.png"
+    ],
+    "hash": "1a20a0c4ea1e20094d6fdaa39ca8e430"
+}

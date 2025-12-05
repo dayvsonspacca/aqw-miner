@@ -1,0 +1,16 @@
+{
+    "urlName": "hollowsoul-ghoul",
+    "url": "http://aqwwiki.wikidot.com/hollowsoul-ghoul",
+    "name": "Hollowsoul Ghoul",
+    "type": "armors",
+    "description": "The Hollowsoul Ghouls roam the halls of Hollowsoul Castle, but lately have been spotted roaming the shadows of MystCroft. It is too early to tell what kind of omen this may be.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/OXU9QB3.png",
+        "https://imgur.com/Z1M8MAP.png"
+    ],
+    "hash": "7318fbaad354016638e366d90d6495c6"
+}

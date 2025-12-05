@@ -1,0 +1,16 @@
+{
+    "urlName": "underhammer-armor",
+    "url": "http://aqwwiki.wikidot.com/underhammer-armor",
+    "name": "UnderHammer Armor",
+    "type": "armors",
+    "description": "The UnderHammers were once and elite dwarven fighting force, sworn to defent Dwarfhold from any invading forces. Eventually, their numbers dwindled until they were home but with the threat of Chaos Lord Vath looming, they were reborn.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/U8CLKHJ.png",
+        "http://i.imgur.com/svYLbpI.png"
+    ],
+    "hash": "b5a9a25147bb7863dbbf240ed622e6d1"
+}

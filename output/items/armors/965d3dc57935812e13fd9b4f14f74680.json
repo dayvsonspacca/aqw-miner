@@ -1,0 +1,17 @@
+{
+    "urlName": "immortal-summoner-ac",
+    "url": "http://aqwwiki.wikidot.com/immortal-summoner-ac",
+    "name": "Immortal Summoner (AC)",
+    "type": "armors",
+    "description": "Practicing necromancy for so long eroded their flesh and bones. What remains is purely a conduit to summon abominations from the Underworld.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/h5LB4Dk.png",
+        "https://i.imgur.com/G4aIeqZ.png"
+    ],
+    "hash": "965d3dc57935812e13fd9b4f14f74680"
+}

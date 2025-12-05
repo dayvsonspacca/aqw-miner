@@ -1,0 +1,17 @@
+{
+    "urlName": "oni-hatamoto",
+    "url": "http://aqwwiki.wikidot.com/oni-hatamoto",
+    "name": "Oni Hatamoto",
+    "type": "armors",
+    "description": "In the tradition of Yokai Isles warriors, the Hakamoto are bannerman that are expected to lay their lives down for their Lords and people. Even the yokai themselves will protect any and all that call the Isles their home.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/JTd42YS.png",
+        "https://i.imgur.com/R3zimFy.png"
+    ],
+    "hash": "0aa2ce64c8b74f9d54868d836438b1fd"
+}

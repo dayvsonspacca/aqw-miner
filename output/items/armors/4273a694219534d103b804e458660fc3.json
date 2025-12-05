@@ -1,0 +1,17 @@
+{
+    "urlName": "battletech-alchemist-0-ac",
+    "url": "http://aqwwiki.wikidot.com/battletech-alchemist-0-ac",
+    "name": "Battletech Alchemist (0 AC)",
+    "type": "armors",
+    "description": "A revolutionary who uses science and magic to shake the foundations of the world. Their ideas are genius\u2026if they can hear their own thoughts over the blasts of their guns.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/95OXQAX.png",
+        "https://i.imgur.com/iJckwnj.png"
+    ],
+    "hash": "4273a694219534d103b804e458660fc3"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "baron-sunday-armor",
+    "url": "http://aqwwiki.wikidot.com/baron-sunday-armor",
+    "name": "Baron Sunday (Armor)",
+    "type": "armors",
+    "description": "Party like an undead voodoo dude!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/baron-sunday-armor/BSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/baron-sunday-armor/BSF.png"
+    ],
+    "hash": "1d53de8481dae6987974d87619bc67c6"
+}

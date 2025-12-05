@@ -1,0 +1,16 @@
+{
+    "urlName": "laken-adherent",
+    "url": "http://aqwwiki.wikidot.com/laken-adherent",
+    "name": "Laken Adherent",
+    "type": "armors",
+    "description": "You will follow Laken the Good\u2026 or else.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/laken-adherent/LakenAdherentM.png",
+        "http://aqwwiki.wdfiles.com/local--files/laken-adherent/LakenAdherentF.png"
+    ],
+    "hash": "f4459736397b497edd17d4be8d79d0c3"
+}

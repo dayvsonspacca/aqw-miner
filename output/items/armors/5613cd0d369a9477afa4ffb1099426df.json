@@ -1,0 +1,17 @@
+{
+    "urlName": "ra-armor",
+    "url": "http://aqwwiki.wikidot.com/ra-armor",
+    "name": "Ra Armor",
+    "type": "armors",
+    "description": "According to Sandsea mythos, the deity RA symbolized the sun shed across the land. Representing light, warmth, and growth, RA was a very important part in ancient Sandsea rituals since the sun was seen as the almighty ruler.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ra-armor/RaArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ra-armor/RaArmorF.png"
+    ],
+    "hash": "5613cd0d369a9477afa4ffb1099426df"
+}

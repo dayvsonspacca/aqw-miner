@@ -1,0 +1,16 @@
+{
+    "urlName": "yeti-warrior",
+    "url": "http://aqwwiki.wikidot.com/yeti-warrior",
+    "name": "Yeti Warrior",
+    "type": "armors",
+    "description": "We wish you a Yeti New Year!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/61p7GBG.png",
+        "https://i.imgur.com/zK74MsN.png"
+    ],
+    "hash": "af3866dacac1ba84d0227d3aa24c090e"
+}

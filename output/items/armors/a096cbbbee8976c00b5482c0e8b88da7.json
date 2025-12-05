@@ -1,0 +1,16 @@
+{
+    "urlName": "void-beetle-general",
+    "url": "http://aqwwiki.wikidot.com/void-beetle-general",
+    "name": "Void Beetle General",
+    "type": "armors",
+    "description": "The inpenetrable exoskeleton hides the unspeakable horrors of the void within.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/UDzpwiZ.png",
+        "https://i.imgur.com/LLlkKWO.png"
+    ],
+    "hash": "a096cbbbee8976c00b5482c0e8b88da7"
+}

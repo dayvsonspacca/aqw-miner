@@ -1,0 +1,17 @@
+{
+    "urlName": "gearslinger",
+    "url": "http://aqwwiki.wikidot.com/gearslinger",
+    "name": "Gearslinger",
+    "type": "armors",
+    "description": "Bullets, lasers, jetpacks, you've got it all!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gearslinger/GearslingerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/gearslinger/GearslingerF.png"
+    ],
+    "hash": "26c2899b6bd26a223aa053f634ef05e3"
+}

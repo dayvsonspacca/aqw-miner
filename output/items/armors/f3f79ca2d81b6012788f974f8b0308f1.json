@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-grim-dungeon-master",
+    "url": "http://aqwwiki.wikidot.com/enchanted-grim-dungeon-master",
+    "name": "Enchanted Grim Dungeon Master",
+    "type": "armors",
+    "description": "The fell and grim are infesting every cave and crevice in Lore. Those who follow in Grimskulls few footsteps branched out to build their own dungeons of terror.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/zgfxX7N.png",
+        "https://i.imgur.com/QAfFZKx.png"
+    ],
+    "hash": "f3f79ca2d81b6012788f974f8b0308f1"
+}

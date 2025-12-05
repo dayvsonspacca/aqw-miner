@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-monkey-king-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-monkey-king-ac",
+    "name": "Dark Monkey King (AC)",
+    "type": "armors",
+    "description": "A warrior who honed their martial arts in the harsh depths of the Fiend's Void. Prideful and arrogant, they spread destruction and havoc wherever they wander.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MmSLk6k.png",
+        "https://i.imgur.com/Bzcwig3.png"
+    ],
+    "hash": "709ce461c8daa1d5f3202bb3acf74c85"
+}

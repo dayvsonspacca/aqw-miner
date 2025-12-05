@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-ringmaster",
+    "url": "http://aqwwiki.wikidot.com/undead-ringmaster",
+    "name": "Undead Ringmaster",
+    "type": "armors",
+    "description": "Even in death, you will still follow your passion. You can NEVER escape the center ring under the Big Top.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/zmK8v6T.png",
+        "https://i.imgur.com/EBR8Awb.png"
+    ],
+    "hash": "a945d7331e09e5aa98fb8963e0683517"
+}

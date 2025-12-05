@@ -1,0 +1,17 @@
+{
+    "urlName": "pony-vader",
+    "url": "http://aqwwiki.wikidot.com/pony-vader",
+    "name": "Pony Vader",
+    "type": "armors",
+    "description": "Darth Pony! Gallop to the Dark Side. We have carrots.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pony-vader/PonyVaderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pony-vader/PonyVaderF.png"
+    ],
+    "hash": "e88429d012a03a3ca15c2bb29d247df9"
+}

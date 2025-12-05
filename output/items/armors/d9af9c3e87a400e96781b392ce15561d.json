@@ -1,0 +1,17 @@
+{
+    "urlName": "arcane-lightcaster-ac",
+    "url": "http://aqwwiki.wikidot.com/arcane-lightcaster-ac",
+    "name": "Arcane LightCaster (AC)",
+    "type": "armors",
+    "description": "The Order of the LightCasters was formed to support the Champion of Light. Only those who dedicate themselves to the study of the deepest mysteries become Arcane LightCasters.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/IxfO1yD.png",
+        "https://i.imgur.com/s74xmX2.png"
+    ],
+    "hash": "d9af9c3e87a400e96781b392ce15561d"
+}

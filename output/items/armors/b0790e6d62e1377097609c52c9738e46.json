@@ -1,0 +1,17 @@
+{
+    "urlName": "battlelord-of-ravens-armor",
+    "url": "http://aqwwiki.wikidot.com/battlelord-of-ravens-armor",
+    "name": "BattleLord of Ravens (Armor)",
+    "type": "armors",
+    "description": "The lord of many names, he who calls the warriors home \u2014 the Ravenlord rules from the Final Battlefield in the North.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battlelord-of-ravens-armor/BLRm.png",
+        "http://aqwwiki.wdfiles.com/local--files/battlelord-of-ravens-armor/BLRf.png"
+    ],
+    "hash": "b0790e6d62e1377097609c52c9738e46"
+}

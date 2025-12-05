@@ -1,0 +1,17 @@
+{
+    "urlName": "watchers-of-the-dark",
+    "url": "http://aqwwiki.wikidot.com/watchers-of-the-dark",
+    "name": "Watchers of the Dark",
+    "type": "armors",
+    "description": "The only thing to be afraid of are the terrors can't see in the night!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/aWJLOXi.png",
+        "http://aqwwiki.wdfiles.com/local--files/watchers-of-the-dark/WatchersoftheDarkF.png"
+    ],
+    "hash": "d505d36db05be35dd245c9a7a6cf1c55"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "minion-of-skudly",
+    "url": "http://aqwwiki.wikidot.com/minion-of-skudly",
+    "name": "Minion of Skudly",
+    "type": "armors",
+    "description": "When you're fighting the villain but you gotta be at the opera by 7pm.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/HPjD5Cy.png",
+        "http://i.imgur.com/mciv5JY.png"
+    ],
+    "hash": "e046eaa154a1c96369e9eb58e15d16be"
+}

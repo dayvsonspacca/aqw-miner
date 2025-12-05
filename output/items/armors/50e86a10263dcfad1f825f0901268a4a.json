@@ -1,0 +1,16 @@
+{
+    "urlName": "godmode-gamerarmor",
+    "url": "http://aqwwiki.wikidot.com/godmode-gamerarmor",
+    "name": "Godmode GamerArmor",
+    "type": "armors",
+    "description": "An armor made out of all your favorite game consoles. You'd be a hit at parties. I hope you have enough controllers for everyone.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/godmode-gamerarmor/GodmodeGamerArmor.png"
+    ],
+    "hash": "50e86a10263dcfad1f825f0901268a4a"
+}

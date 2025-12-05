@@ -1,0 +1,16 @@
+{
+    "urlName": "bad-romancer",
+    "url": "http://aqwwiki.wikidot.com/bad-romancer",
+    "name": "Bad Romancer",
+    "type": "armors",
+    "description": "I want your mauve, I want your cerise, I want your fuchsia, pretty pretty please. (Suggested by the pink-loving Hero, Hancok!)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bad-romancer/BadRomancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bad-romancer/BadRomancerF.png"
+    ],
+    "hash": "756ec303b273498f6d7d231159b98028"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "obsidian-demon-samurai",
+    "url": "http://aqwwiki.wikidot.com/obsidian-demon-samurai",
+    "name": "Obsidian Demon Samurai",
+    "type": "armors",
+    "description": "These samurai lost their souls thousands of years ago to a vengeful Maou who enslaved them for his mazoku army.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/48gB3mN.png",
+        "https://i.imgur.com/pVZBgHa.png"
+    ],
+    "hash": "f0819d2cdf0e4893937e9984c0a53235"
+}

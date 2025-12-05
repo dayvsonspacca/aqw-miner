@@ -1,0 +1,17 @@
+{
+    "urlName": "mockingslayer-ac",
+    "url": "http://aqwwiki.wikidot.com/mockingslayer-ac",
+    "name": "MockingSlayer (AC)",
+    "type": "armors",
+    "description": "The citizens of Lore need a symbol. It is your job to keep hope alive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mockingslayer-ac/MockingslayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mockingslayer-ac/MockingslayerF.png"
+    ],
+    "hash": "c73c3a6fdf81509b72c09456c5d16a92"
+}

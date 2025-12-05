@@ -1,0 +1,18 @@
+{
+    "urlName": "pilgrim-wizard",
+    "url": "http://aqwwiki.wikidot.com/pilgrim-wizard",
+    "name": "Pilgrim Wizard",
+    "type": "armors",
+    "description": "Magic has always existed and,even though their methods may be a bit crude by today's standards,old-fashioned magi are still as dangerous as their modern-day counterparts.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/drcWKBk.png",
+        "https://i.imgur.com/ghpOIbp.png"
+    ],
+    "hash": "f14858fcee54ea59760bd6199765dddf"
+}

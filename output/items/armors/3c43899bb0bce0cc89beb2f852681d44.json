@@ -1,0 +1,17 @@
+{
+    "urlName": "malevolent-marauder",
+    "url": "http://aqwwiki.wikidot.com/malevolent-marauder",
+    "name": "Malevolent Marauder",
+    "type": "armors",
+    "description": "Under a black flag we sail and the sea shall be our empire! No ship be safe from our guns, an' glory an' gold be the treasure we seek.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Dfv0T8A.png",
+        "https://i.imgur.com/0tjTT4D.png"
+    ],
+    "hash": "3c43899bb0bce0cc89beb2f852681d44"
+}

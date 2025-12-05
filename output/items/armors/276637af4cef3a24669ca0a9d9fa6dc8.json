@@ -1,0 +1,16 @@
+{
+    "urlName": "capwn-armor",
+    "url": "http://aqwwiki.wikidot.com/capwn-armor",
+    "name": "CaPwn Armor",
+    "type": "armors",
+    "description": "I'm gonna make you an armor you can't refuse.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/pZNaroB.png",
+        "http://imgur.com/Ij0KoSc.png"
+    ],
+    "hash": "276637af4cef3a24669ca0a9d9fa6dc8"
+}

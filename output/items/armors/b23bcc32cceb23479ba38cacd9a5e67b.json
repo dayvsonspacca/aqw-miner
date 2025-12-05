@@ -1,0 +1,15 @@
+{
+    "urlName": "void-warlock",
+    "url": "http://aqwwiki.wikidot.com/void-warlock",
+    "name": "Void Warlock",
+    "type": "armors",
+    "description": "Powerful fiend's of magic, nothing will stop these Warlock's from helping their Archfiend conquer his foes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/taeiwYJ.png"
+    ],
+    "hash": "b23bcc32cceb23479ba38cacd9a5e67b"
+}

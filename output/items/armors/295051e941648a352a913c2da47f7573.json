@@ -1,0 +1,15 @@
+{
+    "urlName": "undead-dreadspider",
+    "url": "http://aqwwiki.wikidot.com/undead-dreadspider",
+    "name": "Undead Dreadspider",
+    "type": "armors",
+    "description": "A monstrosity born from Arachnomancy and Necromancy, serving as a nest for a horde of undead spiders. It is a mindless beast of pure violence that cannibalizes its own arachnid brethren.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/uxVCll8.png"
+    ],
+    "hash": "295051e941648a352a913c2da47f7573"
+}

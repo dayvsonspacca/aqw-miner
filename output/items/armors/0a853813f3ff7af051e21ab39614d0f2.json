@@ -1,0 +1,18 @@
+{
+    "urlName": "arbor-armor",
+    "url": "http://aqwwiki.wikidot.com/arbor-armor",
+    "name": "Arbor Armor",
+    "type": "armors",
+    "description": "Your bark is worse than your\u2026 bark! You might have to stand very still for a very long time for this armor to take shape. Plant a tree this Earth Day and dress up as one, too!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/J8d2ZTB.png",
+        "http://i.imgur.com/mJGswYY.png"
+    ],
+    "hash": "0a853813f3ff7af051e21ab39614d0f2"
+}

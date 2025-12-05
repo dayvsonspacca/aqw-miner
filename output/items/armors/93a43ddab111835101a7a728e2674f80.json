@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-archer-legend",
+    "url": "http://aqwwiki.wikidot.com/festive-archer-legend",
+    "name": "Festive Archer (Legend)",
+    "type": "armors",
+    "description": "The merriest of the merry men (and women) of Greenguard Forest!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1gUj5hC.png",
+        "https://imgur.com/ezWvh0J.png"
+    ],
+    "hash": "93a43ddab111835101a7a728e2674f80"
+}

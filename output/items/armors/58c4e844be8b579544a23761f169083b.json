@@ -1,0 +1,17 @@
+{
+    "urlName": "emerald-druid",
+    "url": "http://aqwwiki.wikidot.com/emerald-druid",
+    "name": "Emerald Druid",
+    "type": "armors",
+    "description": "The beautiful greens of Nature re-appear when pollution is defeated!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/0yPW08d.png",
+        "https://imgur.com/gayYEXe.png"
+    ],
+    "hash": "58c4e844be8b579544a23761f169083b"
+}

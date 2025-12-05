@@ -1,0 +1,18 @@
+{
+    "urlName": "hollowborn-tester",
+    "url": "http://aqwwiki.wikidot.com/hollowborn-tester",
+    "name": "Hollowborn Tester",
+    "type": "armors",
+    "description": "No Hollowborn Class got enough Grace like that. That's rare.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EBFx1u7.png",
+        "https://i.imgur.com/m6sFKTG.png"
+    ],
+    "hash": "30a22115668fc667ad3fa9b5f605b3ed"
+}

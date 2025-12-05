@@ -1,0 +1,17 @@
+{
+    "urlName": "midnight-hanzo-void-ac",
+    "url": "http://aqwwiki.wikidot.com/midnight-hanzo-void-ac",
+    "name": "Midnight Hanzo Void (AC)",
+    "type": "armors",
+    "description": "Midnight signals the dawn of a new day. You decide who gets to be apart of it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/midnight-hanzo-void-ac/MidnightHanzoVoidM.png",
+        "http://aqwwiki.wdfiles.com/local--files/midnight-hanzo-void-ac/MidnightHanzoVoidF.png"
+    ],
+    "hash": "5682da8393dad3d3f0324ab8322aeba4"
+}

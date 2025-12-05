@@ -1,0 +1,16 @@
+{
+    "urlName": "celestial-wanderer",
+    "url": "http://aqwwiki.wikidot.com/celestial-wanderer",
+    "name": "Celestial Wanderer",
+    "type": "armors",
+    "description": "The bright power emanating from this armor soothes your spirit and renews your flagging energy. It is a testament to your many victories in the Infernal Arena.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/FulG19H.png",
+        "https://imgur.com/F4RG9nz.png"
+    ],
+    "hash": "dda15b7a3cfab49854843404e38ed4b3"
+}

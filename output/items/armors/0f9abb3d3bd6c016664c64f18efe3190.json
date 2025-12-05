@@ -1,0 +1,16 @@
+{
+    "urlName": "red-dwarf-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/red-dwarf-warrior-armor",
+    "name": "Red Dwarf Warrior Armor",
+    "type": "armors",
+    "description": "The scent of vindaloo hangs heavy in the air around you\u2026",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/red-dwarf-warrior-armor/RedDwarfWarriorArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/red-dwarf-warrior-armor/RedDwarfWarriorArmorF.png"
+    ],
+    "hash": "0f9abb3d3bd6c016664c64f18efe3190"
+}

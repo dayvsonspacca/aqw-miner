@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-symbiote",
+    "url": "http://aqwwiki.wikidot.com/golden-symbiote",
+    "name": "Golden Symbiote",
+    "type": "armors",
+    "description": "You have become the dark and the light. You embody King Alteon's choice to ally with Empress Gravelyn to form the Alliance against Chaos!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-symbiote/GoldenSymbioteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-symbiote/GoldenSymbioteF.png"
+    ],
+    "hash": "8f08cac22abc44765555c7ff5b070a49"
+}

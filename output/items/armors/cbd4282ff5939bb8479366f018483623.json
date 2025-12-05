@@ -1,0 +1,17 @@
+{
+    "urlName": "elegant-gothika",
+    "url": "http://aqwwiki.wikidot.com/elegant-gothika",
+    "name": "Elegant Gothika",
+    "type": "armors",
+    "description": "OH MY GOTH! We're undead! Undeader than dead!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elegant-gothika/ElegantGothikaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/elegant-gothika/ElegantGothikaF.png"
+    ],
+    "hash": "cbd4282ff5939bb8479366f018483623"
+}

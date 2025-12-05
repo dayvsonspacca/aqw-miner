@@ -1,0 +1,16 @@
+{
+    "urlName": "poisonmaker-s-apprentice",
+    "url": "http://aqwwiki.wikidot.com/poisonmaker-s-apprentice",
+    "name": "Poisonmaker's Apprentice",
+    "type": "armors",
+    "description": "You wish to understand the diabolical powers behind alchemy. And training under a skilled Poisonmaker is going to be a challenge - but you're up for the challenge.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/JuaQ0pQ.png",
+        "https://i.imgur.com/6g888Ac.png"
+    ],
+    "hash": "1b357dfc78cf56d8efdfbd3ca47c2a79"
+}

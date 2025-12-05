@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/legion-naval-commander",
+    "name": "Legion Naval Commander",
+    "type": "armors",
+    "description": "Teal Naval Commanders be Cap'n Dage's faithful pirate crew. Ye be in real teal trouble if ye be messin' wit' these here Naval Commanders, matey.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-naval-commander/LegionNavalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-naval-commander/LegionNavalCommanderF.png"
+    ],
+    "hash": "778209c36381a60c8ab19f5d1f8057b7"
+}

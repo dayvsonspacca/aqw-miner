@@ -1,0 +1,16 @@
+{
+    "urlName": "vindicator-priest-armor",
+    "url": "http://aqwwiki.wikidot.com/vindicator-priest-armor",
+    "name": "Vindicator Priest (Armor)",
+    "type": "armors",
+    "description": "A high ranking commander of the Dawn Vindicators, as well as the bearer of Gramiel's word. Every Vindicator-alligned fortress is assigned to one, and they hold the Grace of their compatriots in their hands.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/CTAq5Sh.png",
+        "https://imgur.com/9HSmCxb.png"
+    ],
+    "hash": "926e7296c8ad41fecb3a982a6985b865"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "red-rose-armor",
+    "url": "http://aqwwiki.wikidot.com/red-rose-armor",
+    "name": "Red Rose (Armor)",
+    "type": "armors",
+    "description": "The elegant Red Rose is fine attire for my Valentine's day outing.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Y2X9RvO.png",
+        "https://i.imgur.com/kN3uYwW.png"
+    ],
+    "hash": "3f33dd006261c7663afaeeae8a3ef2b0"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "empowered-forge-spawn",
+    "url": "http://aqwwiki.wikidot.com/empowered-forge-spawn",
+    "name": "Empowered Forge Spawn",
+    "type": "armors",
+    "description": "This item does 35% more damage to all monsters and gives 25% more gold/exp/rep/cp when equipped. Unbreakable walking armors filled with thousands of human, monster, evil, and even cursed souls. All merged together as one only consciousness. Loyal to Dage the Evil, they will show no mercy.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/pWRNfFD.png",
+        "https://i.imgur.com/EGxcgzr.png"
+    ],
+    "hash": "7f1cfb66352fbfef712003eaf49dcb96"
+}

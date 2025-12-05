@@ -1,0 +1,17 @@
+{
+    "urlName": "forest-destroyer",
+    "url": "http://aqwwiki.wikidot.com/forest-destroyer",
+    "name": "Forest Destroyer",
+    "type": "armors",
+    "description": "The power of a burning forest was used to shape this armor, giving it the blazing colors of fire and the deep greens of the trees.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/forest-destroyer/FDM.png",
+        "http://aqwwiki.wdfiles.com/local--files/forest-destroyer/FDF.png"
+    ],
+    "hash": "331bcd224a7f153c2316fd0607484a5c"
+}

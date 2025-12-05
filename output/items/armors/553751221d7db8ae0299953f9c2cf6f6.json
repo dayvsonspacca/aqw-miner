@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-necromancer",
+    "url": "http://aqwwiki.wikidot.com/legion-necromancer",
+    "name": "Legion Necromancer",
+    "type": "armors",
+    "description": "The most ambitious of the Legion seek to follow in their Lord's footsteps. Necromancers, through lifetimes of service and study, can earn a peek at Dage the Evil's knowledge. It allows them control over their fellow Legionnaires.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/j7jlDK2.png",
+        "https://i.imgur.com/pR9D6pX.png"
+    ],
+    "hash": "553751221d7db8ae0299953f9c2cf6f6"
+}

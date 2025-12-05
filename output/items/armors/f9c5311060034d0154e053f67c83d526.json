@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-conquest",
+    "url": "http://aqwwiki.wikidot.com/shadow-conquest",
+    "name": "Shadow Conquest",
+    "type": "armors",
+    "description": "The spirit of the Horsemen of Conquest has corrupted you; granting you immense strength and power in exchange for your very being.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-conquest/ShadowConquestM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-conquest/ShadowConquestF.png"
+    ],
+    "hash": "f9c5311060034d0154e053f67c83d526"
+}

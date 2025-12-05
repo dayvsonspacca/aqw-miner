@@ -1,0 +1,17 @@
+{
+    "urlName": "firestorm-knight-armor",
+    "url": "http://aqwwiki.wikidot.com/firestorm-knight-armor",
+    "name": "Firestorm Knight (Armor)",
+    "type": "armors",
+    "description": "Firestorm Knights! Ready your breakfast and eat hearty\u2026 For tonight, we dine at Yulgars!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/firestorm-knight-armor/FirestormKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/firestorm-knight-armor/FirestormKnightF.png"
+    ],
+    "hash": "71d6c8e4376a540c256a9391e55b3818"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "lightning-dragonsworn-warrior",
+    "url": "http://aqwwiki.wikidot.com/lightning-dragonsworn-warrior",
+    "name": "Lightning Dragonsworn Warrior",
+    "type": "armors",
+    "description": "Warriors of the Dragonsworn defend and protect the ancient dragons. Those who serve Krenos were gifted with thisearmor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightning-dragonsworn-warrior/LightningDragonswornWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lightning-dragonsworn-warrior/LightningDragonswornWarriorF.png"
+    ],
+    "hash": "fe86680eb10d7708510f325d9453d629"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "naval-reaper-armor",
+    "url": "http://aqwwiki.wikidot.com/naval-reaper-armor",
+    "name": "Naval Reaper (Armor)",
+    "type": "armors",
+    "description": "Avast! The seven seas need plunderin' and set sail from Lolosia and fight the mighty kraken while searchin' for treasure!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/SxGCPXn.png",
+        "https://i.imgur.com/ur6JGE5.png"
+    ],
+    "hash": "59d0a7cbc5105bfa22f4109dabd39b86"
+}

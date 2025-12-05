@@ -1,0 +1,17 @@
+{
+    "urlName": "elder-druid-ac",
+    "url": "http://aqwwiki.wikidot.com/elder-druid-ac",
+    "name": "Elder Druid (AC)",
+    "type": "armors",
+    "description": "Take the form of a Greenguard Druid and help the Elk Clan fight the invading void forces!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elder-druid-ac/ElderDruidMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/elder-druid-ac/ElderDruidFemale.png"
+    ],
+    "hash": "3f7b6edf4d6181c62e543b20a8703ab7"
+}

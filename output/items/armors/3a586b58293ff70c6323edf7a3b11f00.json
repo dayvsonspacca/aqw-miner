@@ -1,0 +1,17 @@
+{
+    "urlName": "woolly-wonder",
+    "url": "http://aqwwiki.wikidot.com/woolly-wonder",
+    "name": "Woolly Wonder",
+    "type": "armors",
+    "description": "Fleece as white as snow, how you would look so cute with little red bows. This soft and adorable outfit, you'll blend right in with the flock. Just steer clear of petting zoos.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/HsHzAkP.png",
+        "https://i.imgur.com/Qvvk1I3.png"
+    ],
+    "hash": "3a586b58293ff70c6323edf7a3b11f00"
+}

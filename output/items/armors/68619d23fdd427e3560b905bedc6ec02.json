@@ -1,0 +1,17 @@
+{
+    "urlName": "ravager-armor",
+    "url": "http://aqwwiki.wikidot.com/ravager-armor",
+    "name": "Ravager Armor",
+    "type": "armors",
+    "description": "Like the name, its armor has been ravaged throughout the years from battles.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ravager-armor/RavagerArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ravager-armor/RavagerArmorF.png"
+    ],
+    "hash": "68619d23fdd427e3560b905bedc6ec02"
+}

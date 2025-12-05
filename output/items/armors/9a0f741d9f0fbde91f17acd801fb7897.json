@@ -1,0 +1,16 @@
+{
+    "urlName": "wolfwing-armor",
+    "url": "http://aqwwiki.wikidot.com/wolfwing-armor",
+    "name": "Wolfwing Armor",
+    "type": "armors",
+    "description": "Charroupted werepyres don't have fleas, right? Lets",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/w1VlIxy.png",
+        "https://i.imgur.com/0NoWbMd.png"
+    ],
+    "hash": "9a0f741d9f0fbde91f17acd801fb7897"
+}

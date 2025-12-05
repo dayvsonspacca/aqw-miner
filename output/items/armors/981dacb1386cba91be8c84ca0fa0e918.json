@@ -1,0 +1,17 @@
+{
+    "urlName": "pinkscar-rocker",
+    "url": "http://aqwwiki.wikidot.com/pinkscar-rocker",
+    "name": "PinkScar Rocker",
+    "type": "armors",
+    "description": "A little twitter birdie told Beleen that you wanted a Pink version of the RockScar armor. You have great taste in fashion AND fighting style! Rock it out as you Battle On! xoxo Beleen",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pinkscar-rocker/PinkScarRockerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pinkscar-rocker/PinkScarRockerF.png"
+    ],
+    "hash": "981dacb1386cba91be8c84ca0fa0e918"
+}

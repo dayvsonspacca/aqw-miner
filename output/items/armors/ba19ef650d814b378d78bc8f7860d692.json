@@ -1,0 +1,17 @@
+{
+    "urlName": "m4trix-skyguard-uniform-ac",
+    "url": "http://aqwwiki.wikidot.com/m4trix-skyguard-uniform-ac",
+    "name": "M4trix SkyGuard Uniform (AC)",
+    "type": "armors",
+    "description": "Patrolling the skies above the kingdom of Swordhaven, the Skyguard are elite members of King Alteon's flying army. Much more than just a job, the Skyguard is a life-long commitment.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0B7W7Z8.png",
+        "https://i.imgur.com/5lwBYLA.png"
+    ],
+    "hash": "ba19ef650d814b378d78bc8f7860d692"
+}

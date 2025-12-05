@@ -1,0 +1,18 @@
+{
+    "urlName": "legion-doomknight-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-doomknight-armor-ac",
+    "name": "Legion DoomKnight Armor (AC)",
+    "type": "armors",
+    "description": "Even DoomKnights swear their service to, or are made to serve Dage. Their soul's have been claimed by both Dage and Doom. (Has a chance to do the Shadowburst animation when equipped)",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": {
+        "0": "http://i.imgur.com/PVSEyfY.png",
+        "1": "http://i.imgur.com/Gt1u6hJ.png",
+        "3": "http://i.imgur.com/meGMADv.png"
+    },
+    "hash": "211f3e186e99cb2148ef2c41ade457ff"
+}

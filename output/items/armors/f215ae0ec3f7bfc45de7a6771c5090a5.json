@@ -1,0 +1,17 @@
+{
+    "urlName": "honor-guard",
+    "url": "http://aqwwiki.wikidot.com/honor-guard",
+    "name": "Honor Guard",
+    "type": "armors",
+    "description": "I fight the never ending battle for truth, justice, and the Loreican way!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/honor-guard/HonorGuardMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/honor-guard/HonorGuardFemale.png"
+    ],
+    "hash": "f215ae0ec3f7bfc45de7a6771c5090a5"
+}

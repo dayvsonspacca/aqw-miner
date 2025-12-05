@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-dandy-legend",
+    "url": "http://aqwwiki.wikidot.com/dark-dandy-legend",
+    "name": "Dark Dandy (Legend)",
+    "type": "armors",
+    "description": "A stylish, textile coat that is fit for a sophisticated Friday the 13th event.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/kl4P6Jm.png",
+        "http://i.imgur.com/hMHPJt2.png"
+    ],
+    "hash": "533db4fabe4c0b80932e25a36fd3fbe6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "bittercrystal-mage-robes",
+    "url": "http://aqwwiki.wikidot.com/bittercrystal-mage-robes",
+    "name": "BitterCrystal Mage Robes",
+    "type": "armors",
+    "description": "Your enemies will freeze in fear when you step onto the battlefield!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bittercrystal-mage-robes/BCMRm.png",
+        "http://aqwwiki.wdfiles.com/local--files/bittercrystal-mage-robes/BCMRf.png"
+    ],
+    "hash": "a47a5994a914512b2135e0df322afdc6"
+}

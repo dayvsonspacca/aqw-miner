@@ -1,0 +1,17 @@
+{
+    "urlName": "mascarada-de-muertos",
+    "url": "http://aqwwiki.wikidot.com/mascarada-de-muertos",
+    "name": "Mascarada de Muertos",
+    "type": "armors",
+    "description": "Celebrate the feast of the dead! You really should too, you look like you could use something to eat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/Ssh2ew9.png",
+        "http://i.imgur.com/R72saQZ.png"
+    ],
+    "hash": "a8c462134f58399bb45d1618d041814a"
+}

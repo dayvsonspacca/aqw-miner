@@ -1,0 +1,17 @@
+{
+    "urlName": "berserker-armor",
+    "url": "http://aqwwiki.wikidot.com/berserker-armor",
+    "name": "Berserker Armor",
+    "type": "armors",
+    "description": "Mad with rage, a Berserker is a warrior fueled by fury!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/IBKHoiO.png",
+        "https://i.imgur.com/l6Ny4lA.png"
+    ],
+    "hash": "4d5bb83ba526849fe55ced7c50359d41"
+}

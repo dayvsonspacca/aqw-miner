@@ -1,0 +1,17 @@
+{
+    "urlName": "legacy-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/legacy-of-nulgath",
+    "name": "Legacy of Nulgath",
+    "type": "armors",
+    "description": "No one knows who this armor belonged to before Nulgath came into power. But it still holds a sinister aura! Given to his loyal followers for victory in the Summer of Evil war! (Color custom)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legacy-of-nulgath/LegacyofNulgathM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legacy-of-nulgath/LegacyofNulgathF.png"
+    ],
+    "hash": "6bbe19b7cc272f8cf3095ab853174b2b"
+}

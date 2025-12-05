@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-marauder",
+    "url": "http://aqwwiki.wikidot.com/legion-marauder",
+    "name": "Legion Marauder",
+    "type": "armors",
+    "description": "The first in line to bash through and ask questions later.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gYgvPLR.png",
+        "https://i.imgur.com/oDW2aap.png"
+    ],
+    "hash": "66f0c2a4a2282dcd4426d1ae513f1d56"
+}

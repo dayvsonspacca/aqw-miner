@@ -1,0 +1,17 @@
+{
+    "urlName": "kaiju-cannoneer-armor",
+    "url": "http://aqwwiki.wikidot.com/kaiju-cannoneer-armor",
+    "name": "Kaiju Cannoneer (Armor)",
+    "type": "armors",
+    "description": "Kaiju cannoneers follow the call of Klashex.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8waGewO.png",
+        "https://i.imgur.com/77FkBKx.png"
+    ],
+    "hash": "bc4b6f96aa57c18cc217be7a57083760"
+}

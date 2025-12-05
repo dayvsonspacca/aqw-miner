@@ -1,0 +1,17 @@
+{
+    "urlName": "fairytale-wedding",
+    "url": "http://aqwwiki.wikidot.com/fairytale-wedding",
+    "name": "FairyTale Wedding",
+    "type": "armors",
+    "description": "Be our guest and celebrate Stryche and Amarelle's fairytale wedding!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ek75hqu.png",
+        "https://i.imgur.com/iwX838s.png"
+    ],
+    "hash": "365b111bf6811c4350c9f3c0682e13fa"
+}

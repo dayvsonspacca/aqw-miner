@@ -1,0 +1,16 @@
+{
+    "urlName": "alpha-lycan",
+    "url": "http://aqwwiki.wikidot.com/alpha-lycan",
+    "name": "Alpha Lycan",
+    "type": "armors",
+    "description": "Rule your pack with the utmost authority. Gather two of your Lycan friends and give a great big howl to the moon!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/IjMzwqw.png",
+        "http://i.imgur.com/priduZS.png"
+    ],
+    "hash": "97e042140468f8f70156306418f7bd1f"
+}

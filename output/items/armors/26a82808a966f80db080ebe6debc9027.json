@@ -1,0 +1,17 @@
+{
+    "urlName": "toxica-armor",
+    "url": "http://aqwwiki.wikidot.com/toxica-armor",
+    "name": "Toxica Armor",
+    "type": "armors",
+    "description": "Poisons can be very useful in the right hands. Toxic, deadly, but VERY useful. As a practitioner of poisoning, this noxious armor is perfect for you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/toxica-armor/ToxicaArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/toxica-armor/ToxicaArmorF.png"
+    ],
+    "hash": "26a82808a966f80db080ebe6debc9027"
+}

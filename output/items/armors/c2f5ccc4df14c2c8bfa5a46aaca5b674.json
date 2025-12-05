@@ -1,0 +1,17 @@
+{
+    "urlName": "paragon-fiend",
+    "url": "http://aqwwiki.wikidot.com/paragon-fiend",
+    "name": "Paragon Fiend",
+    "type": "armors",
+    "description": "When the minions harvest souls for Dage, not all are used. The Paragon fiends feed on the some of the discarded to gain more strength and power.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/bJHWusj.png",
+        "https://i.imgur.com/jy7RltN.png"
+    ],
+    "hash": "c2f5ccc4df14c2c8bfa5a46aaca5b674"
+}

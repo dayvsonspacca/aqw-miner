@@ -1,0 +1,17 @@
+{
+    "urlName": "mirrored-wellmet-baron-and-baroness",
+    "url": "http://aqwwiki.wikidot.com/mirrored-wellmet-baron-and-baroness",
+    "name": "Mirrored Wellmet Baron and Baroness",
+    "type": "armors",
+    "description": "Only the finest barons and baronesses of Wellmet can afford to wear mirroed finery to the Duchess' court! It changes according to their will.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mirrored-wellmet-baron-and-baroness/MWB.png",
+        "http://aqwwiki.wdfiles.com/local--files/mirrored-wellmet-baron-and-baroness/MWBess.png"
+    ],
+    "hash": "c7666d174f413ac1eb06d5ce713cf493"
+}

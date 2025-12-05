@@ -1,0 +1,16 @@
+{
+    "urlName": "ronin-hunter",
+    "url": "http://aqwwiki.wikidot.com/ronin-hunter",
+    "name": "Ronin Hunter",
+    "type": "armors",
+    "description": "For glory! For honor! And for hoards of glorious gold! Trained in the way of the Samurai, Ronin Hunters are quick-witted quick swordsmen who can camouflage into nature using their Color Custom abilities while relying on their agility to land the final blow.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/CscJEwY.png",
+        "https://i.imgur.com/eErnJux.png"
+    ],
+    "hash": "a864c25e845b2dd30baf4e8b11022934"
+}

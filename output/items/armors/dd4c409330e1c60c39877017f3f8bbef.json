@@ -1,0 +1,17 @@
+{
+    "urlName": "the-unhinged",
+    "url": "http://aqwwiki.wikidot.com/the-unhinged",
+    "name": "The Unhinged",
+    "type": "armors",
+    "description": "Inside of the Pandinus Insane Asylum, the Unhinged are just one of the many who contain the delusions of grandeur. They might have once been the hero or villain, but now they are the trapped within their own thoughts, waiting to escape\u2026. THAT TIME IS NOW!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-unhinged/TheUnhingedM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-unhinged/TheUnhingedF.png"
+    ],
+    "hash": "dd4c409330e1c60c39877017f3f8bbef"
+}

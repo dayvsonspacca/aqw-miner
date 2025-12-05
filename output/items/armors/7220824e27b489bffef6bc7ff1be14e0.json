@@ -1,0 +1,18 @@
+{
+    "urlName": "legion-pumpkinlord",
+    "url": "http://aqwwiki.wikidot.com/legion-pumpkinlord",
+    "name": "Legion PumpkinLord",
+    "type": "armors",
+    "description": "Pumpkin lords are evil magical pumpkins that are a lot more menacing than the name suggests, and even more after they've joined Dage's Legion.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/iz35CZG.png",
+        "http://i.imgur.com/DxFDLXR.png"
+    ],
+    "hash": "7220824e27b489bffef6bc7ff1be14e0"
+}

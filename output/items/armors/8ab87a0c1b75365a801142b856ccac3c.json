@@ -1,0 +1,16 @@
+{
+    "urlName": "parodian-guard",
+    "url": "http://aqwwiki.wikidot.com/parodian-guard",
+    "name": "Parodian Guard",
+    "type": "armors",
+    "description": "The elite unit of the Shadowscythe Army, used most for guarding VIPs or putting down rebellions.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/XAgzipU.png",
+        "https://i.imgur.com/OiBO3L2.png"
+    ],
+    "hash": "8ab87a0c1b75365a801142b856ccac3c"
+}

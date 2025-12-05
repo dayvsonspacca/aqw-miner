@@ -1,0 +1,17 @@
+{
+    "urlName": "rainha-da-bateria",
+    "url": "http://aqwwiki.wikidot.com/rainha-da-bateria",
+    "name": "Rainha da Bateria",
+    "type": "armors",
+    "description": "Celebrate Carnaval in style!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Hu2ugrZ.png",
+        "https://i.imgur.com/YlqDAzJ.png"
+    ],
+    "hash": "335c665b1530ba12aa65f89089d9f2fb"
+}

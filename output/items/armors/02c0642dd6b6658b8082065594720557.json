@@ -1,0 +1,19 @@
+{
+    "urlName": "warlock-adept-armor",
+    "url": "http://aqwwiki.wikidot.com/warlock-adept-armor",
+    "name": "Warlock Adept (Armor)",
+    "type": "armors",
+    "description": "Embrace the power of the Darkness, then go beyond! CONTROL the darkness, the Dragons, and the WORLD, for YOU are a Warlock Adept!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warlock-adept-armor/WarlockAdeptM.png",
+        "http://aqwwiki.wdfiles.com/local--files/warlock-adept-armor/WarlockAdeptF.png",
+        "http://aqwwiki.wdfiles.com/local--files/warlock-adept-armor/WarlockAdeptC.png"
+    ],
+    "hash": "02c0642dd6b6658b8082065594720557"
+}

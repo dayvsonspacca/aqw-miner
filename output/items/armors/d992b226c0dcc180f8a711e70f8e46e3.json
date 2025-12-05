@@ -1,0 +1,17 @@
+{
+    "urlName": "absolute-ebil",
+    "url": "http://aqwwiki.wikidot.com/absolute-ebil",
+    "name": "Absolute Ebil",
+    "type": "armors",
+    "description": "Ebil is served.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ysfLMIx.png",
+        "https://i.imgur.com/wq0dYcL.png"
+    ],
+    "hash": "d992b226c0dcc180f8a711e70f8e46e3"
+}

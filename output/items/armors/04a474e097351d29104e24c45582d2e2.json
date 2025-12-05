@@ -1,0 +1,18 @@
+{
+    "urlName": "black-rogue-armor",
+    "url": "http://aqwwiki.wikidot.com/black-rogue-armor",
+    "name": "Black Rogue Armor",
+    "type": "armors",
+    "description": "A rogue dressed in black? What a novel concept!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/5iqHByF.png",
+        "http://i.imgur.com/4IC3Pon.png"
+    ],
+    "hash": "04a474e097351d29104e24c45582d2e2"
+}

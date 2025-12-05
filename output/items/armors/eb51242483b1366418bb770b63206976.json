@@ -1,0 +1,16 @@
+{
+    "urlName": "void-nation-caster",
+    "url": "http://aqwwiki.wikidot.com/void-nation-caster",
+    "name": "Void Nation Caster",
+    "type": "armors",
+    "description": "The arcane practices of the Nation are impossible to master in one lifetime. The Ritualists circumvent this obstacle by engraving spells into their very being. They exchange individuality for magnificent power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/9SP2Bp3.png",
+        "https://i.imgur.com/rF4f53B.png"
+    ],
+    "hash": "eb51242483b1366418bb770b63206976"
+}

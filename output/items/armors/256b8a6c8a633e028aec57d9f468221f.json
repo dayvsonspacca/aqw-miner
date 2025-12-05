@@ -1,0 +1,16 @@
+{
+    "urlName": "rare-warrior",
+    "url": "http://aqwwiki.wikidot.com/rare-warrior",
+    "name": "Rare Warrior",
+    "type": "armors",
+    "description": "Literal.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/24laQ4S.png",
+        "https://i.imgur.com/zxKyxSZ.png"
+    ],
+    "hash": "256b8a6c8a633e028aec57d9f468221f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-healer",
+    "url": "http://aqwwiki.wikidot.com/celestial-healer",
+    "name": "Celestial Healer",
+    "type": "armors",
+    "description": "By channeling the bright power that courses through the ley lines that weave through the Celestial Realm, these healers are able to work almost miraculous feats of medical magic.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/vBgL29u.png",
+        "https://i.imgur.com/LInJAXO.png"
+    ],
+    "hash": "92c9e4e25f375ac108cb4f28f22634fe"
+}

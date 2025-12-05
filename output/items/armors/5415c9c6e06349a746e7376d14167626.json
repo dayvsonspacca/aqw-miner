@@ -1,0 +1,17 @@
+{
+    "urlName": "celtic-luck-weaver",
+    "url": "http://aqwwiki.wikidot.com/celtic-luck-weaver",
+    "name": "Celtic Luck Weaver",
+    "type": "armors",
+    "description": "May the wind be always at your back, may the sun shine warm upon your face, the rains fall soft upon your fields and until we meet again, may all your adventures prove lucky!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/eXECTGk.png",
+        "https://i.imgur.com/2H0bnF7.png"
+    ],
+    "hash": "5415c9c6e06349a746e7376d14167626"
+}

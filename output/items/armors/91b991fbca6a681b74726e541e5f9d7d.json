@@ -1,0 +1,19 @@
+{
+    "urlName": "lethe-of-vokun",
+    "url": "http://aqwwiki.wikidot.com/lethe-of-vokun",
+    "name": "Lethe Of Vokun",
+    "type": "armors",
+    "description": "Covered in rusty chains that slash and ensnare their foes, these deadly minions of Vokun send anyone who crosses them to oblivion.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/epBkEg6.png",
+        "http://aqwwiki.wdfiles.com/local--files/lethe-of-vokun/LetheofVokunM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lethe-of-vokun/LetheofVokunF.png",
+        "http://aqwwiki.wdfiles.com/local--files/lethe-of-vokun/LetheofVokunA.png"
+    ],
+    "hash": "91b991fbca6a681b74726e541e5f9d7d"
+}

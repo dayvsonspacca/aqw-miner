@@ -1,0 +1,17 @@
+{
+    "urlName": "00-x-dungeoneer",
+    "url": "http://aqwwiki.wikidot.com/00-x-dungeoneer",
+    "name": "00-X Dungeoneer",
+    "type": "armors",
+    "description": "An avant garde artist that seeks out dangerous canvases. Paint on the walls of great cities and the deepest dungeons carry their vision and messages.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/rCvSVPF.png",
+        "https://i.imgur.com/yf6wN9E.png"
+    ],
+    "hash": "d3ac26fe2e1ee2eabb194ac01fe0ac0c"
+}

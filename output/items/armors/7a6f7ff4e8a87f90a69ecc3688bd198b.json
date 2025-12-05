@@ -1,0 +1,16 @@
+{
+    "urlName": "obsidian-underguard",
+    "url": "http://aqwwiki.wikidot.com/obsidian-underguard",
+    "name": "Obsidian Underguard",
+    "type": "armors",
+    "description": "Empowered by the energy of collected souls, the Underguard ensure that no one enters the Underworld without their permission.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/h0Fm2jg.png",
+        "http://i.imgur.com/tQeLKvx.png"
+    ],
+    "hash": "7a6f7ff4e8a87f90a69ecc3688bd198b"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-ranger",
+    "url": "http://aqwwiki.wikidot.com/dark-ranger",
+    "name": "Dark Ranger",
+    "type": "armors",
+    "description": "",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/64Avg8c.png",
+        "http://i.imgur.com/8qcmrPO.png",
+        "http://i.imgur.com/3BgeU96.png",
+        "http://i.imgur.com/vcpQv6l.png"
+    ],
+    "hash": "d5c8e982d48919fc73d18bee8b6c7f2c"
+}

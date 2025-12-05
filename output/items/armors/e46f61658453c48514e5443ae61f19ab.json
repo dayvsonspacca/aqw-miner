@@ -1,0 +1,17 @@
+{
+    "urlName": "alpha-hunter",
+    "url": "http://aqwwiki.wikidot.com/alpha-hunter",
+    "name": "Alpha Hunter",
+    "type": "armors",
+    "description": "No better outfit to wear while rebelling against the rampant consumerism of the approaching holiday season!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QmPmJSK.png",
+        "https://i.imgur.com/4dZyFEU.png"
+    ],
+    "hash": "e46f61658453c48514e5443ae61f19ab"
+}

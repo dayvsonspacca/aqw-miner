@@ -1,0 +1,17 @@
+{
+    "urlName": "nulgath-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/nulgath-armor-ac",
+    "name": "Nulgath (Armor) (AC)",
+    "type": "armors",
+    "description": "The Archfiend is ready to reshape you to be better\u2026 stronger\u2026 EVILLER! Are you ready?!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nulgath-armor-ac/NulgathM.png",
+        "http://aqwwiki.wdfiles.com/local--files/nulgath-armor-ac/NulgathF.png"
+    ],
+    "hash": "563da69c9a51ca9b74d40c167cdbef8e"
+}

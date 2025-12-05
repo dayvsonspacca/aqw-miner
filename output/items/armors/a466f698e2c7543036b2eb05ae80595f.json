@@ -1,0 +1,17 @@
+{
+    "urlName": "root-of-chaos",
+    "url": "http://aqwwiki.wikidot.com/root-of-chaos",
+    "name": "Root of Chaos",
+    "type": "armors",
+    "description": "The root of all that is evil starts with a little Chaos!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/root-of-chaos/RoCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/root-of-chaos/RoCF.png"
+    ],
+    "hash": "a466f698e2c7543036b2eb05ae80595f"
+}

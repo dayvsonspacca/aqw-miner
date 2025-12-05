@@ -1,0 +1,18 @@
+{
+    "urlName": "undead-pirate-curse",
+    "url": "http://aqwwiki.wikidot.com/undead-pirate-curse",
+    "name": "Undead Pirate Curse",
+    "type": "armors",
+    "description": "An undead pirate's life for me!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-pirate-curse/UndeadPirateCurse1.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-pirate-curse/UndeadPirateCurse2.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-pirate-curse/UndeadPirateCurse3.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-pirate-curse/UndeadPirateCurse4.png"
+    ],
+    "hash": "421562b96ee4d9951662e5f9cde27911"
+}

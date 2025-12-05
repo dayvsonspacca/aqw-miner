@@ -1,0 +1,17 @@
+{
+    "urlName": "game-on-referee",
+    "url": "http://aqwwiki.wikidot.com/game-on-referee",
+    "name": "Game On Referee",
+    "type": "armors",
+    "description": "It's your game, and your call. Make the right one, Hero!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/8gftBCG.png",
+        "http://i.imgur.com/Fx0dsjy.png",
+        "http://i.imgur.com/gZ8F4um.png"
+    ],
+    "hash": "af987e2b026ccaf3a4dfbdc2aec879db"
+}

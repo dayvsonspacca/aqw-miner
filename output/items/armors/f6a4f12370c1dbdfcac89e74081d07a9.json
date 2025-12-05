@@ -1,0 +1,15 @@
+{
+    "urlName": "empowered-lich-king",
+    "url": "http://aqwwiki.wikidot.com/empowered-lich-king",
+    "name": "Empowered Lich King",
+    "type": "armors",
+    "description": "This item does 35% more damage to all monsters and gives 25% more gold/exp/rep/cp when equipped. Being the ultimate lich king is no easy task. You need to work your way up from lich peasant, this can take a while.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/5bRL1cx.png"
+    ],
+    "hash": "f6a4f12370c1dbdfcac89e74081d07a9"
+}

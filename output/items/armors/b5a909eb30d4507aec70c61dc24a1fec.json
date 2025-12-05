@@ -1,0 +1,17 @@
+{
+    "urlName": "paladin-disciple-armor",
+    "url": "http://aqwwiki.wikidot.com/paladin-disciple-armor",
+    "name": "Paladin Disciple Armor",
+    "type": "armors",
+    "description": "Favored by fans of the hit Paladin Order rock group, Blinded of the Light!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1xicIiF.png",
+        "https://i.imgur.com/OWDGT1u.png"
+    ],
+    "hash": "b5a909eb30d4507aec70c61dc24a1fec"
+}

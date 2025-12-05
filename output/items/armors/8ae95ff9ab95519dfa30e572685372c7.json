@@ -1,0 +1,19 @@
+{
+    "urlName": "paragon-plate",
+    "url": "http://aqwwiki.wikidot.com/paragon-plate",
+    "name": "Paragon Plate",
+    "type": "armors",
+    "description": "This armor is riddled with the faces of it's last victims. If you listen closely, you can still hear their cries of those slain in the Dage vs Nulgath war. Now that Nulgath has left the Underworld to Dage, what will the Evil One do?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": {
+        "0": "http://aqwwiki.wdfiles.com/local--files/paragon-plate/ParagonPlateM.png",
+        "2": "http://aqwwiki.wdfiles.com/local--files/paragon-plate/ParagonPlateO.png",
+        "3": "http://aqwwiki.wdfiles.com/local--files/paragon-plate/ParagonPlateF.png",
+        "4": "http://aqwwiki.wdfiles.com/local--files/paragon-plate/ParagonPlateFOld.png"
+    },
+    "hash": "8ae95ff9ab95519dfa30e572685372c7"
+}

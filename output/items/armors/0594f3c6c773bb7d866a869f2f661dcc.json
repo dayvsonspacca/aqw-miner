@@ -1,0 +1,17 @@
+{
+    "urlName": "ice-rogue",
+    "url": "http://aqwwiki.wikidot.com/ice-rogue",
+    "name": "Ice Rogue",
+    "type": "armors",
+    "description": "Some of the refugees cursed by the cold-blooded Queen were restored to normal over the course of the year, but not completely. They can still deliver a chilling scratch that can freeze the body of their targets.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ice-rogue/IceRogueM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ice-rogue/IceRogueF.png"
+    ],
+    "hash": "0594f3c6c773bb7d866a869f2f661dcc"
+}

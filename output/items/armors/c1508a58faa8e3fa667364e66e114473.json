@@ -1,0 +1,17 @@
+{
+    "urlName": "rockstar-rogue",
+    "url": "http://aqwwiki.wikidot.com/rockstar-rogue",
+    "name": "Rockstar Rogue",
+    "type": "armors",
+    "description": "Rock was born on the road, rehearsed in empty cemeteries, and shredded metal so hard the audience thought it was fiendish. These Rockstars are musical wanderers, returning to their roots.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JLrmWAQ.png",
+        "https://i.imgur.com/g2gl4N1.png"
+    ],
+    "hash": "c1508a58faa8e3fa667364e66e114473"
+}

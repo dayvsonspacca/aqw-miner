@@ -1,0 +1,16 @@
+{
+    "urlName": "poisonous-rogue",
+    "url": "http://aqwwiki.wikidot.com/poisonous-rogue",
+    "name": "Poisonous Rogue",
+    "type": "armors",
+    "description": "Hemlock, Nightshade, Larkspur, and many other legacy titles are hard sought after by these Poisonous Rogues. They and their namesakes are gifts from Nature, and a bane on those who take advantage of its generosity.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/wuSqa5A.png",
+        "https://imgur.com/4EzkTkQ.png"
+    ],
+    "hash": "56c3d689a6e374f75116b1a088e86f70"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "void-walker-ac",
+    "url": "http://aqwwiki.wikidot.com/void-walker-ac",
+    "name": "Void Walker (AC)",
+    "type": "armors",
+    "description": "To travel between the Void and the real world isn't easy. The Void is filled with treacherous beings awaiting prey.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0xsW1oN.png",
+        "https://i.imgur.com/Sqm2oUa.png"
+    ],
+    "hash": "dbbbefef59c4a44f1b269646d1e51a55"
+}

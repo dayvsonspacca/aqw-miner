@@ -1,0 +1,19 @@
+{
+    "urlName": "eden-high-formal",
+    "url": "http://aqwwiki.wikidot.com/eden-high-formal",
+    "name": "Eden High Formal",
+    "type": "armors",
+    "description": "Life in Eden is idyllic for the citizens of the Crystallis Administration, and pleasant distractions abound. High Formal events are held regularly for the elite. Should you be invited, you will require a Protocol Master's assistance.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Tsyi6QS.png",
+        "https://i.imgur.com/Og2iZa9.png",
+        "https://i.imgur.com/VikeZ7f.png",
+        "https://i.imgur.com/RRphHza.png"
+    ],
+    "hash": "0264acab8e926f585b62db363f8ff982"
+}

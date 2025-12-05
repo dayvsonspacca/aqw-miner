@@ -1,0 +1,16 @@
+{
+    "urlName": "celtic-disaster",
+    "url": "http://aqwwiki.wikidot.com/celtic-disaster",
+    "name": "Celtic Disaster",
+    "type": "armors",
+    "description": "Yikes! They weren't kidding, this is a disaster, Happy Unlucky Day 2015, you're going to need it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/celtic-disaster/CelticDisasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/celtic-disaster/CelticDisasterF.png"
+    ],
+    "hash": "1fa4c35771772782267ac5693d56d4b9"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "pirut-slayr",
+    "url": "http://aqwwiki.wikidot.com/pirut-slayr",
+    "name": "Pirut SlayR",
+    "type": "armors",
+    "description": "For the lawful good swashbucklers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pirut-slayr/PirutSlayrM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pirut-slayr/PirutSlayrF.png"
+    ],
+    "hash": "fb8ec279e2f2608649a40f1f8f98cad9"
+}

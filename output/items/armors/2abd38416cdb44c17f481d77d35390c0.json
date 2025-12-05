@@ -1,0 +1,17 @@
+{
+    "urlName": "glacier-lord",
+    "url": "http://aqwwiki.wikidot.com/glacier-lord",
+    "name": "Glacier Lord",
+    "type": "armors",
+    "description": "Ice runs through your veins with this bone-chilling armor. Perfect for hunting in the Northlands, enemies will not stand a chance against your frigid attack.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glacier-lord/GlacierLordM.png",
+        "http://aqwwiki.wdfiles.com/local--files/glacier-lord/GlacierLordF.png"
+    ],
+    "hash": "2abd38416cdb44c17f481d77d35390c0"
+}

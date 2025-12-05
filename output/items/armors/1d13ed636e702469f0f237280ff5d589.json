@@ -1,0 +1,16 @@
+{
+    "urlName": "capoeirista",
+    "url": "http://aqwwiki.wikidot.com/capoeirista",
+    "name": "Capoeirista",
+    "type": "armors",
+    "description": "Capoeira is a game, it is dance, it is fight, it is of war and it is of peace, it is of culture, of music, it is a portion of things. - Mestre Suassuna the Wise",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/MJ4IMju.png",
+        "https://i.imgur.com/JbIvf49.png"
+    ],
+    "hash": "1d13ed636e702469f0f237280ff5d589"
+}

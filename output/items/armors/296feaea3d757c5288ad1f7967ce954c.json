@@ -1,0 +1,17 @@
+{
+    "urlName": "akiban-shogun",
+    "url": "http://aqwwiki.wikidot.com/akiban-shogun",
+    "name": "Akiban Shogun",
+    "type": "armors",
+    "description": "Elaborate armor worn by only the highest level of Akiban defenders. Rank is denoted by the symbols on your chest.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/fw02u8n.png",
+        "https://i.imgur.com/F1LIasb.png"
+    ],
+    "hash": "296feaea3d757c5288ad1f7967ce954c"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "horc-peacekeeper",
+    "url": "http://aqwwiki.wikidot.com/horc-peacekeeper",
+    "name": "Horc Peacekeeper",
+    "type": "armors",
+    "description": "Trolls say Horcs savage. Peacekeepers use strength to keep fighting at minimum.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/9T8Q4G0.png",
+        "https://imgur.com/3Xr8vVJ.png",
+        "http://i.imgur.com/i5iAymG.png"
+    ],
+    "hash": "f53738df670f66960454d5b6ddd67cad"
+}

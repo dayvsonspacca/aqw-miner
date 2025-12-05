@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-gryphon-rider",
+    "url": "http://aqwwiki.wikidot.com/shadow-gryphon-rider",
+    "name": "Shadow Gryphon Rider",
+    "type": "armors",
+    "description": "These majestic Gryphons are the perfect ride for any ShadowScythe.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-gryphon-rider/ShadowGryphonRiderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-gryphon-rider/ShadowGryphonRiderF.png"
+    ],
+    "hash": "0e21f888b70bfd9d846b082a7cd1f6cf"
+}

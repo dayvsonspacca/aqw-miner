@@ -1,0 +1,15 @@
+{
+    "urlName": "master-trainer",
+    "url": "http://aqwwiki.wikidot.com/master-trainer",
+    "name": "Master Trainer",
+    "type": "armors",
+    "description": "After defeating the esteemed Training Golem, you've earned the right to call yourself a\u2026 Master Trainer! Enjoy your reward. (This item gives 25% more gold/exp/rep/cp when equipped.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/xt2Y4cm.png"
+    ],
+    "hash": "6cf2f02e330b078a6c0fc6caa2af056e"
+}

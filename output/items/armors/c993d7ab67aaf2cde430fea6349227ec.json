@@ -1,0 +1,17 @@
+{
+    "urlName": "floatin-bananaboater-ac",
+    "url": "http://aqwwiki.wikidot.com/floatin-bananaboater-ac",
+    "name": "Floatin' Bananaboater (AC)",
+    "type": "armors",
+    "description": "Slip into Summer with this beachin' Banana Boater floating armor. It's got a real a-PEEL.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/p8dF844.png",
+        "https://i.imgur.com/m9mgPHY.png"
+    ],
+    "hash": "c993d7ab67aaf2cde430fea6349227ec"
+}

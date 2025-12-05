@@ -1,0 +1,16 @@
+{
+    "urlName": "harvest-hunter",
+    "url": "http://aqwwiki.wikidot.com/harvest-hunter",
+    "name": "Harvest Hunter",
+    "type": "armors",
+    "description": "Brings the phrase scrounging for food to a whole new level. These Hunters explore Greenguard for food.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/O7iwlpd.png",
+        "https://i.imgur.com/BbkXEXe.png"
+    ],
+    "hash": "c09e6ab9b594f5c3355b0751f2adb716"
+}

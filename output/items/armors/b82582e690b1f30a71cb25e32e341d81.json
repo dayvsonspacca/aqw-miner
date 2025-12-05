@@ -1,0 +1,20 @@
+{
+    "urlName": "sanctified-armor",
+    "url": "http://aqwwiki.wikidot.com/sanctified-armor",
+    "name": "Sanctified Armor",
+    "type": "armors",
+    "description": "This armor has fallen from the gilded sky kingdoms.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/P0VFUaV.png",
+        "http://imgur.com/LJpx0PD.png",
+        "https://i.imgur.com/AMUFxRL.png",
+        "https://i.imgur.com/5dmzWS9.png",
+        "http://imgur.com/YFaPAvU.png",
+        "http://imgur.com/Kw9mhql.png"
+    ],
+    "hash": "b82582e690b1f30a71cb25e32e341d81"
+}

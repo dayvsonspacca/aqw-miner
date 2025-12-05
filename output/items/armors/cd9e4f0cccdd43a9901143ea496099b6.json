@@ -1,0 +1,16 @@
+{
+    "urlName": "festive-punk-elf",
+    "url": "http://aqwwiki.wikidot.com/festive-punk-elf",
+    "name": "Festive Punk Elf",
+    "type": "armors",
+    "description": "It's a punk rock Frostval, and the Frostval trees are decorated with safety pins.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ZT8VNZg.png",
+        "https://i.imgur.com/mvCippu.png"
+    ],
+    "hash": "cd9e4f0cccdd43a9901143ea496099b6"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "toxic-scavenger",
+    "url": "http://aqwwiki.wikidot.com/toxic-scavenger",
+    "name": "Toxic Scavenger",
+    "type": "armors",
+    "description": "During the quarterly renewal ceremonies that the Brightoak Druids perform, this creature appears. Sadly this one got scared and ran into Extriki's toxins which ended in it getting tainted.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/rmUXFQ7.png",
+        "http://i.imgur.com/sbMun9E.png"
+    ],
+    "hash": "65ba8df415a904728b969e3c27b5c6b8"
+}

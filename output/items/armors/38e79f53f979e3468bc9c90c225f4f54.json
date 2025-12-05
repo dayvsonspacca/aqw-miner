@@ -1,0 +1,21 @@
+{
+    "urlName": "void-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/void-naval-commander",
+    "name": "Void Naval Commander",
+    "type": "armors",
+    "description": "Aye, even the Archfiend has his own fleet! No landlubbers allowed, Nulgath only wants the souls of the best Buccaneers in Lore. Savvy?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-naval-commander/VNCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-naval-commander/VNCMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-naval-commander/VNCMOlder.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-naval-commander/VNCMOldest.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-naval-commander/VNCFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-naval-commander/VNCFO.png"
+    ],
+    "hash": "38e79f53f979e3468bc9c90c225f4f54"
+}

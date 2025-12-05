@@ -1,0 +1,17 @@
+{
+    "urlName": "onyx-doomfire-warlord-ac",
+    "url": "http://aqwwiki.wikidot.com/onyx-doomfire-warlord-ac",
+    "name": "Onyx DOOMFire Warlord (AC)",
+    "type": "armors",
+    "description": "Those sworn to protect the Empress are held in elite status in Shadowfall, they've given their own soul to the Shadowscythe.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/onyx-doomfire-warlord-ac/ODWm.png",
+        "http://aqwwiki.wdfiles.com/local--files/onyx-doomfire-warlord-ac/ODWf.png"
+    ],
+    "hash": "7a0a185fc2b4d40da64318f8ff8164d8"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "naval-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/naval-commander-armor",
+    "name": "Naval Commander (Armor)",
+    "type": "armors",
+    "description": "The highest ranking captain of all. Take control of the helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/naval-commander-armor/NavalCommanderMnew.png",
+        "http://aqwwiki.wdfiles.com/local--files/naval-commander-armor/NavalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/naval-commander-armor/NavalCommanderF.png"
+    ],
+    "hash": "f8137b2546ec8862dee230b2f2ced4f9"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "void-pyromancer",
+    "url": "http://aqwwiki.wikidot.com/void-pyromancer",
+    "name": "Void Pyromancer",
+    "type": "armors",
+    "description": "The Void, or any Void that lurks between the folds of space, is but a kiln. These Pyromancers spark flames in its depths, creating twisted art from destruction.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7TCQZzZ.png",
+        "https://i.imgur.com/YfmlSn2.png"
+    ],
+    "hash": "b32e1f2a5d080473a1dc5ca5966c911f"
+}

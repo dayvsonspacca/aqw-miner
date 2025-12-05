@@ -1,0 +1,17 @@
+{
+    "urlName": "rhapsodic-bandmaster",
+    "url": "http://aqwwiki.wikidot.com/rhapsodic-bandmaster",
+    "name": "Rhapsodic Bandmaster",
+    "type": "armors",
+    "description": "\ufeff\ufeffBandmasters that lend their talents to the court and armies of the Shadowscythe Empire. As they march with instruments in hand, they destroy the morale of the enemy and wrench rebellious soldiers back into formation.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/mHno5cW.png",
+        "https://imgur.com/YS3z39v.png"
+    ],
+    "hash": "eb3f6a150005172effbbe8bf842e40cc"
+}

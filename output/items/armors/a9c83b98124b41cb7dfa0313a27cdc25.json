@@ -1,0 +1,17 @@
+{
+    "urlName": "king-klunk-follower",
+    "url": "http://aqwwiki.wikidot.com/king-klunk-follower",
+    "name": "King Klunk Follower",
+    "type": "armors",
+    "description": "Only those who address themselves in the 3rd person can appreciate Klunk's use of language. King Klunk, the Word Smith.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/king-klunk-follower/KKFM.png",
+        "http://aqwwiki.wdfiles.com/local--files/king-klunk-follower/KKFF.png"
+    ],
+    "hash": "a9c83b98124b41cb7dfa0313a27cdc25"
+}

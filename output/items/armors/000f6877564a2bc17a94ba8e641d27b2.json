@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-frostscythe",
+    "url": "http://aqwwiki.wikidot.com/glacial-frostscythe",
+    "name": "Glacial FrostScythe",
+    "type": "armors",
+    "description": "Even the worst ice and snow is no match for these warriors!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ONmJ4qg.png",
+        "https://i.imgur.com/iqDahY6.png"
+    ],
+    "hash": "000f6877564a2bc17a94ba8e641d27b2"
+}

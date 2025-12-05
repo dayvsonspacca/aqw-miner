@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-pumpkin-caster",
+    "url": "http://aqwwiki.wikidot.com/dark-pumpkin-caster",
+    "name": "Dark Pumpkin Caster",
+    "type": "armors",
+    "description": "Your spells are made with sugar and Pumpkin Spice! Be careful!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/OVepf4c.png",
+        "http://i.imgur.com/okl6gpn.png"
+    ],
+    "hash": "2efbaed78bb120c3b6975d7fca3f71b5"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "royal-battle-herald",
+    "url": "http://aqwwiki.wikidot.com/royal-battle-herald",
+    "name": "Royal Battle Herald",
+    "type": "armors",
+    "description": "Wear this armor proudly as a herald of Swordhaven.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/BAXouZT.png",
+        "http://i.imgur.com/EIZv0Qh.png"
+    ],
+    "hash": "e03534f97d8593b75876a72f2689e699"
+}

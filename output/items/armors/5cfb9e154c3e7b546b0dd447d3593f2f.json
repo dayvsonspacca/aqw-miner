@@ -1,0 +1,17 @@
+{
+    "urlName": "oathbreaker-pirate",
+    "url": "http://aqwwiki.wikidot.com/oathbreaker-pirate",
+    "name": "Oathbreaker Pirate",
+    "type": "armors",
+    "description": "Some of the fiercest and deadliest pirates to sail the straights of Lore. You do not want to fall onto their bad side, those who have took a long walk off a shod plank.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/00Aoe33.png",
+        "https://i.imgur.com/Yn6qrkI.png"
+    ],
+    "hash": "5cfb9e154c3e7b546b0dd447d3593f2f"
+}

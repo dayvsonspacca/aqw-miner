@@ -1,0 +1,17 @@
+{
+    "urlName": "penitent-underworld-keeper",
+    "url": "http://aqwwiki.wikidot.com/penitent-underworld-keeper",
+    "name": "Penitent Underworld Keeper",
+    "type": "armors",
+    "description": "The Underworld's River Lethe is flooded with regrets. Its dangerous waters attract monsters that wish to forget their crimes. The Keepers guard their secrets, preventing opportunistic eyes from stealing forbidden knowledge.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TYfqHRH.png",
+        "https://i.imgur.com/NRmVlvn.png"
+    ],
+    "hash": "2d19f8326073d51a1fb6d062168ed888"
+}

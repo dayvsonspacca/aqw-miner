@@ -1,0 +1,17 @@
+{
+    "urlName": "revontheus-legacy-ac",
+    "url": "http://aqwwiki.wikidot.com/revontheus-legacy-ac",
+    "name": "Revontheus Legacy (AC)",
+    "type": "armors",
+    "description": "As faitful subordinates to Nulgath, the Revonlheus don't see themselves as slaves but rather loyal to their master!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/qaCOdHy.png",
+        "https://i.imgur.com/t6Yg75W.png"
+    ],
+    "hash": "092d9e278a0ea9ee229a8192a63f5f24"
+}

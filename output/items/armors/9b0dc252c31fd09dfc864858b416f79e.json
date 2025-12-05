@@ -1,0 +1,17 @@
+{
+    "urlName": "knight-of-the-leviasea",
+    "url": "http://aqwwiki.wikidot.com/knight-of-the-leviasea",
+    "name": "Knight of the Leviasea",
+    "type": "armors",
+    "description": "They say that the Leviasea is the greatest mystery on the face of Lore. Unable to be seen, but undeniable in its power, only those few chosen humans who have been blessed by it can truly comprehend its gifts.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/knight-of-the-leviasea/KotLM.png",
+        "http://aqwwiki.wdfiles.com/local--files/knight-of-the-leviasea/KotLF.png"
+    ],
+    "hash": "9b0dc252c31fd09dfc864858b416f79e"
+}

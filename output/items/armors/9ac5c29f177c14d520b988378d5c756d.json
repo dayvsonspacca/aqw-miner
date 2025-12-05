@@ -1,0 +1,16 @@
+{
+    "urlName": "inbunche-armor",
+    "url": "http://aqwwiki.wikidot.com/inbunche-armor",
+    "name": "Inbunche (Armor)",
+    "type": "armors",
+    "description": "The Inbunche is a stange, horrific beast commonly found guarding the cave of warlocks and various dark magi. Although no one is sure where the Inbunche originated from no one dares to ever find out.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/aVWHMCl.png",
+        "http://i.imgur.com/pSVdSQa.png"
+    ],
+    "hash": "9ac5c29f177c14d520b988378d5c756d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "scholar-of-the-nether",
+    "url": "http://aqwwiki.wikidot.com/scholar-of-the-nether",
+    "name": "Scholar of the Nether",
+    "type": "armors",
+    "description": "The robes belonging to a necromancer that graduated at the top of their class at Dragonrune Hall. As with many who came before them, they struck out too far into the nether.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YtnEof5.png"
+    ],
+    "hash": "b2cc9d3576a6ecf8fda43c9adceddbc5"
+}

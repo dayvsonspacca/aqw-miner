@@ -1,0 +1,16 @@
+{
+    "urlName": "sacred-forest-dragon",
+    "url": "http://aqwwiki.wikidot.com/sacred-forest-dragon",
+    "name": "Sacred Forest Dragon",
+    "type": "armors",
+    "description": "This is a humanoid form taken by Sacred Forest Dragons to communicate with druids and promising adventurers. They bestow blessings of abundance on those who respect and revere Nature.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/J9hQmGP.png",
+        "https://i.imgur.com/GyXpGv0.png"
+    ],
+    "hash": "e64efe0a124d1a998c22c92f0a5d3c2f"
+}

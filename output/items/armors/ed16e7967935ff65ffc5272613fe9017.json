@@ -1,0 +1,17 @@
+{
+    "urlName": "vampiric-noble",
+    "url": "http://aqwwiki.wikidot.com/vampiric-noble",
+    "name": "Vampiric Noble",
+    "type": "armors",
+    "description": "You rule all who enter your domain; their blood, breath, and bones all belong to YOU. And should any choose to challenge you\u2026 well, you can always use a new ghoul or two to serve you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VRxTBQY.png",
+        "https://i.imgur.com/39kkbn8.png"
+    ],
+    "hash": "ed16e7967935ff65ffc5272613fe9017"
+}

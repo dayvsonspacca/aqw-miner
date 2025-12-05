@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-ritualist",
+    "url": "http://aqwwiki.wikidot.com/nation-ritualist",
+    "name": "Nation Ritualist",
+    "type": "armors",
+    "description": "The arcane practices of the Nation are impossible to master in one lifetime. The Ritualists circumvent this obstacle by engraving spells into their very being. They exchange individuality for magnificent power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/bkqtDJU.png",
+        "https://i.imgur.com/zlz7miv.png"
+    ],
+    "hash": "555563dec0fa7597ff8a6ce3bd69e02b"
+}

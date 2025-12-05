@@ -1,0 +1,20 @@
+{
+    "urlName": "yokai-onislayer",
+    "url": "http://aqwwiki.wikidot.com/yokai-onislayer",
+    "name": "Yokai OniSlayer",
+    "type": "armors",
+    "description": "Oni are bloodthirsty man eaters. Violence and depravity are in their nature. The OniSlayers are warriors trusted to hunt these monsters. But, one day, Oni blood will seep into their veins, and make them indistinguishable from their prey.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/rTuQc1m.png",
+        "https://i.imgur.com/vZIZdYC.png",
+        "https://i.imgur.com/lfqj1iP.png",
+        "https://i.imgur.com/nEk92C0.png"
+    ],
+    "hash": "d29b971efd13076add98d325cf4b1360"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "magical-deepsea-star-pirate",
+    "url": "http://aqwwiki.wikidot.com/magical-deepsea-star-pirate",
+    "name": "Magical DeepSea Star Pirate",
+    "type": "armors",
+    "description": "DeepSea Star Pirates study the creatures found only in the brightest seas and the darkest of abyssal waters. They vow to use their power to protect all of the creatures that make the trenches their home. (Item is CC to Base)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/K07n806.png",
+        "https://i.imgur.com/nXYnnTj.png"
+    ],
+    "hash": "d88f67bf0ef74d8c03bb8a5dfd3fad94"
+}

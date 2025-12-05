@@ -1,0 +1,17 @@
+{
+    "urlName": "kanga-onesie",
+    "url": "http://aqwwiki.wikidot.com/kanga-onesie",
+    "name": "Kanga Onesie",
+    "type": "armors",
+    "description": "Aussie Aussie Aussie, Oi Oi Oi! (Ok, this is not the best thing to shout before bed. You'll scatter the sheep you need to count.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vyeeYJm.png",
+        "https://i.imgur.com/Q44Y6lX.png"
+    ],
+    "hash": "5ed91018ffd9c503d7b8e227b17ffb85"
+}

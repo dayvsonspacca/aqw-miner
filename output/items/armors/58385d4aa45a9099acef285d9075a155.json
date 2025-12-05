@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-cryomancer-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-cryomancer-ac",
+    "name": "Underworld Cryomancer (AC)",
+    "type": "armors",
+    "description": "Cold as ice, silent as death, the Underworld Cryomancers can freeze your heart and shatter your bones with the touch of a single frosty finger.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/SVIGtJ7.png",
+        "https://i.imgur.com/p5JbCwC.png"
+    ],
+    "hash": "58385d4aa45a9099acef285d9075a155"
+}

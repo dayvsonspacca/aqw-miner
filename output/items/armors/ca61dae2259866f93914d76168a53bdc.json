@@ -1,0 +1,18 @@
+{
+    "urlName": "sandsea-blaster-bandit",
+    "url": "http://aqwwiki.wikidot.com/sandsea-blaster-bandit",
+    "name": "Sandsea Blaster Bandit",
+    "type": "armors",
+    "description": "You fight when the necessity arises. No matter the mood, the monster, or mission.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/67lLeNb.png",
+        "https://i.imgur.com/3DoX7ie.png"
+    ],
+    "hash": "ca61dae2259866f93914d76168a53bdc"
+}

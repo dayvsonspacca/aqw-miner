@@ -1,0 +1,17 @@
+{
+    "urlName": "fire-ring",
+    "url": "http://aqwwiki.wikidot.com/fire-ring",
+    "name": "Fire Ring",
+    "type": "armors",
+    "description": "I battled on in a burning armor of fire",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fire-ring/FireRingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fire-ring/FireRingF.png"
+    ],
+    "hash": "db61e99962fb2f82f3e19fd522f8f39a"
+}

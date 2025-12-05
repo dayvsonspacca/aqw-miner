@@ -1,0 +1,18 @@
+{
+    "urlName": "pirate-captain-armor",
+    "url": "http://aqwwiki.wikidot.com/pirate-captain-armor",
+    "name": "Pirate Captain (Armor)",
+    "type": "armors",
+    "description": "Arrrrrrrr\u2026 you be the captain of this here ship!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pirate-captain-armor/PirateCaptainM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pirate-captain-armor/PirateCaptainOld.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/pirate-captain-armor/PirateCaptainF.png"
+    ],
+    "hash": "b4ccf2e53aaebf74415f05faa916b1aa"
+}

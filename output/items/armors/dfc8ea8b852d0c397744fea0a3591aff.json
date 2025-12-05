@@ -1,0 +1,17 @@
+{
+    "urlName": "zard-rider",
+    "url": "http://aqwwiki.wikidot.com/zard-rider",
+    "name": "Zard Rider",
+    "type": "armors",
+    "description": "You're on a zard, you're on a zard, everybody look at you 'cause you're riding on a zard. WHAT!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/zard-rider/ZardRiderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/zard-rider/ZardRiderF.png"
+    ],
+    "hash": "dfc8ea8b852d0c397744fea0a3591aff"
+}

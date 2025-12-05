@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-assassin-commander",
+    "url": "http://aqwwiki.wikidot.com/dark-assassin-commander",
+    "name": "Dark Assassin Commander",
+    "type": "armors",
+    "description": "To eliminate the competition or figurehead, this leather getup must be prepared for inclement weather or blown covers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-assassin-commander/DarkAssassinCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-assassin-commander/DarkAssassinCommanderF.png"
+    ],
+    "hash": "5081a3f41e16a68251caa0254ccf1c72"
+}

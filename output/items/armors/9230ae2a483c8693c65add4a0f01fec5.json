@@ -1,0 +1,17 @@
+{
+    "urlName": "mage-of-chaos",
+    "url": "http://aqwwiki.wikidot.com/mage-of-chaos",
+    "name": "Mage of Chaos",
+    "type": "armors",
+    "description": "Do you wish to ally with Chaos? Can you wield mana as easily as others do a blade? Then perhaps YOU will choose to become a Mage of Chaos!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mage-of-chaos/MageofChaosM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mage-of-chaos/MageofChaosF.png"
+    ],
+    "hash": "9230ae2a483c8693c65add4a0f01fec5"
+}

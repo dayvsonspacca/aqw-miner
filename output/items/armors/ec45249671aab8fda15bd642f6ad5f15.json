@@ -1,0 +1,16 @@
+{
+    "urlName": "bard-armor",
+    "url": "http://aqwwiki.wikidot.com/bard-armor",
+    "name": "Bard (Armor)",
+    "type": "armors",
+    "description": "Music rocks your world, and the battlefield. Your special abilities allow you to stay in tune with those around you, whether your powers are used to heal or to hurt.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/g7peUMK.png",
+        "http://i.imgur.com/aJmAM77.png"
+    ],
+    "hash": "ec45249671aab8fda15bd642f6ad5f15"
+}

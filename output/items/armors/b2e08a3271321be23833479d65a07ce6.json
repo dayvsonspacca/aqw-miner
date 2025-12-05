@@ -1,0 +1,17 @@
+{
+    "urlName": "toxic-alchemist",
+    "url": "http://aqwwiki.wikidot.com/toxic-alchemist",
+    "name": "Toxic Alchemist",
+    "type": "armors",
+    "description": "Bido's loyal followers don these robes for they are the alchemists who specialize in creating something from nothing. Give them a bit of sand and after awhile they will turn it into gold (We promise).",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/rvN079i.png",
+        "https://i.imgur.com/4uv4Vpg.png"
+    ],
+    "hash": "b2e08a3271321be23833479d65a07ce6"
+}

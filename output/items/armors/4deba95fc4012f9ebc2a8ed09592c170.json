@@ -1,0 +1,17 @@
+{
+    "urlName": "umbral-fiend",
+    "url": "http://aqwwiki.wikidot.com/umbral-fiend",
+    "name": "Umbral Fiend",
+    "type": "armors",
+    "description": "Animated demonfire, these fiends want nothing more than to destroy all Celestial beings.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/5C2tiPO.png",
+        "http://i.imgur.com/ZOeUAUo.png"
+    ],
+    "hash": "4deba95fc4012f9ebc2a8ed09592c170"
+}

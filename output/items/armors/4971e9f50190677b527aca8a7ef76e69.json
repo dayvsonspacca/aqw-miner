@@ -1,0 +1,16 @@
+{
+    "urlName": "warlord-armor",
+    "url": "http://aqwwiki.wikidot.com/warlord-armor",
+    "name": "Warlord Armor",
+    "type": "armors",
+    "description": "The armor version of the Warrior base class upgrade.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/OoEoKGo.png",
+        "https://i.imgur.com/OSPhTpr.png"
+    ],
+    "hash": "4971e9f50190677b527aca8a7ef76e69"
+}

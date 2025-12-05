@@ -1,0 +1,17 @@
+{
+    "urlName": "obsidian-samurai-ac",
+    "url": "http://aqwwiki.wikidot.com/obsidian-samurai-ac",
+    "name": "Obsidian Samurai (AC)",
+    "type": "armors",
+    "description": "Yokai's Royal family has had a long time of samurai warriors to defend and protect them in times of battle.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QKIl7Lv.png",
+        "https://imgur.com/8G3rcZw.png"
+    ],
+    "hash": "0e66f4e5b532bb4489a4fe91e05a1dd9"
+}

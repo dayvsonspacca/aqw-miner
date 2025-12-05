@@ -1,0 +1,20 @@
+{
+    "urlName": "underworld-cryocaster",
+    "url": "http://aqwwiki.wikidot.com/underworld-cryocaster",
+    "name": "Underworld CryoCaster",
+    "type": "armors",
+    "description": "These casters are tasked with the duty of capturing and binding traitors with frigid chains. Their power increases the louder the river shrieks. (This item is color-customizable.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/T1UZ0x7.png",
+        "https://imgur.com/HKCOucG.png",
+        "https://imgur.com/04T9Kof.png",
+        "https://imgur.com/tNL7haZ.png",
+        "https://imgur.com/hJHDvsk.png",
+        "https://imgur.com/VlefhYM.png"
+    ],
+    "hash": "3556066dc6953882f7da5ffb0e79da1d"
+}

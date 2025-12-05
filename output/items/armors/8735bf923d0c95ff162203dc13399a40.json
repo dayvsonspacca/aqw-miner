@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-archer-ac",
+    "url": "http://aqwwiki.wikidot.com/festive-archer-ac",
+    "name": "Festive Archer (AC)",
+    "type": "armors",
+    "description": "The merriest of the merry men (and women) of Greenguard Forest!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1gUj5hC.png",
+        "https://imgur.com/ezWvh0J.png"
+    ],
+    "hash": "8735bf923d0c95ff162203dc13399a40"
+}

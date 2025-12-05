@@ -1,0 +1,16 @@
+{
+    "urlName": "kathool-acolyte",
+    "url": "http://aqwwiki.wikidot.com/kathool-acolyte",
+    "name": "Kathool Acolyte",
+    "type": "armors",
+    "description": "The Acolyte is only just beginning to learn and transform. Those tendrils clinging to their bodies will begin to fuse with their flesh as their knowledge of the forbidden deepens in the depths.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/9LYlYn8.png",
+        "https://i.imgur.com/bQWgIz5.png"
+    ],
+    "hash": "4c06b16f67fe765893ef9c250410cf9e"
+}

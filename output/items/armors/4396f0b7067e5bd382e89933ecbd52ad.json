@@ -1,0 +1,16 @@
+{
+    "urlName": "werewolf-hunter",
+    "url": "http://aqwwiki.wikidot.com/werewolf-hunter",
+    "name": "Werewolf Hunter",
+    "type": "armors",
+    "description": "You're the Alpha Hunter, time to pack from silver and bag some furbags.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/rV3FrsE.png",
+        "http://i.imgur.com/2drCyNR.png"
+    ],
+    "hash": "4396f0b7067e5bd382e89933ecbd52ad"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "pink-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/pink-warrior-armor",
+    "name": "Pink Warrior Armor",
+    "type": "armors",
+    "description": "Think pink! Now you can finally slay monsters in eye-popping style.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/LZbCKVn.png",
+        "http://i.imgur.com/KiZ9szc.png"
+    ],
+    "hash": "3d0aa7dedb2dbb93f3ed06545dc16ec5"
+}

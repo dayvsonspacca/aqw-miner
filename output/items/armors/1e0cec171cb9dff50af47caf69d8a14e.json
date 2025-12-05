@@ -1,0 +1,16 @@
+{
+    "urlName": "necronaut-armor",
+    "url": "http://aqwwiki.wikidot.com/necronaut-armor",
+    "name": "Necronaut (Armor)",
+    "type": "armors",
+    "description": "The armor of a Necronaut is the only thing that protects them from the ravages of being alive in the afterlife\u2026 it does its job. Sometimes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necronaut-armor/Necronaut.png"
+    ],
+    "hash": "1e0cec171cb9dff50af47caf69d8a14e"
+}

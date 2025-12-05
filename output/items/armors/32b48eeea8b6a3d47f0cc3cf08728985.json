@@ -1,0 +1,17 @@
+{
+    "urlName": "ebilcorporate-office-drone",
+    "url": "http://aqwwiki.wikidot.com/ebilcorporate-office-drone",
+    "name": "EbilCorporate Office Drone",
+    "type": "armors",
+    "description": "You belong to EbilCorp now.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorporate-office-drone/EbilCorpOfficeDroneMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorporate-office-drone/EbilCorpOfficeDroneFemale.png"
+    ],
+    "hash": "32b48eeea8b6a3d47f0cc3cf08728985"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "banana-suit",
+    "url": "http://aqwwiki.wikidot.com/banana-suit",
+    "name": "Banana Suit",
+    "type": "armors",
+    "description": "Peanut Butter Jelly Time! This is one classic costume. Happy Mogloween!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/zblj6oQ.png",
+        "http://i.imgur.com/xIHSY3g.png"
+    ],
+    "hash": "f65893f4571eb9ad6a437172780a2235"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-mime",
+    "url": "http://aqwwiki.wikidot.com/dark-mime",
+    "name": "Dark Mime",
+    "type": "armors",
+    "description": "You'll be the life of all undead parties with your trapped in a box routine.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Mw54egx.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-mime/DarkMimeM.png"
+    ],
+    "hash": "1cd1e9ba2946378d02560a78723718ee"
+}

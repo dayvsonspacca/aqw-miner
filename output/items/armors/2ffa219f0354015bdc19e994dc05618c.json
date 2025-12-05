@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-leader-ac",
+    "url": "http://aqwwiki.wikidot.com/undead-leader-ac",
+    "name": "Undead Leader (AC)",
+    "type": "armors",
+    "description": "The dead don't sleep. They await the day a worthy and creatively cruel leader beckons them to wake.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Fla5Xi7.png",
+        "https://i.imgur.com/y0LhHu5.png"
+    ],
+    "hash": "2ffa219f0354015bdc19e994dc05618c"
+}

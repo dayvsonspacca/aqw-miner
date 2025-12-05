@@ -1,0 +1,17 @@
+{
+    "urlName": "rampage-blademaster-ac",
+    "url": "http://aqwwiki.wikidot.com/rampage-blademaster-ac",
+    "name": "Rampage Blademaster (AC)",
+    "type": "armors",
+    "description": "Enemies will be seeing 5 stars when you're through with them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rampage-blademaster-ac/RampageBlademasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/rampage-blademaster-ac/RampageBlademasterF.png"
+    ],
+    "hash": "07fcfe726726c5d74c2a5f5ac3ac980d"
+}

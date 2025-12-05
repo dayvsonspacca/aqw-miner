@@ -1,0 +1,16 @@
+{
+    "urlName": "lifeguard",
+    "url": "http://aqwwiki.wikidot.com/lifeguard",
+    "name": "LifeGuard",
+    "type": "armors",
+    "description": "When you hang out by the beach, it's always safest when the LifeGuard are around!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/IYh5mt1.png",
+        "https://i.imgur.com/U4JeIf4.png"
+    ],
+    "hash": "5855162613be8f9362369ca9557a438d"
+}

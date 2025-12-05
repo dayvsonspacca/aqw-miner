@@ -1,0 +1,13 @@
+{
+    "urlName": "golem-skin",
+    "url": "http://aqwwiki.wikidot.com/golem-skin",
+    "name": "Golem Skin",
+    "type": "armors",
+    "description": "You can now wear the stone skin of the golem you just defeated.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/7J0Q1WK.png"
+    ],
+    "hash": "3d805e25e83b66e5c0ca3c2461041119"
+}

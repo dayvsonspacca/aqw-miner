@@ -1,0 +1,16 @@
+{
+    "urlName": "la-forlorna",
+    "url": "http://aqwwiki.wikidot.com/la-forlorna",
+    "name": "La Forlorna",
+    "type": "armors",
+    "description": "Beware of La Forlorna, for misfortune follows all who see this spirit.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/TTLAsNa.png",
+        "http://i.imgur.com/7b21kFN.png"
+    ],
+    "hash": "84b0e9cce3f17cac8037bec74ae891a3"
+}

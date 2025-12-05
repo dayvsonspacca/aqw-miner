@@ -1,0 +1,18 @@
+{
+    "urlName": "moglin-defender",
+    "url": "http://aqwwiki.wikidot.com/moglin-defender",
+    "name": "Moglin Defender",
+    "type": "armors",
+    "description": "Harness the power of the moglin! Moglin Defenders are a select sect of skilled warriors who have dedicated themselves to protecting lore and her inhabitants.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Ke4d4me.png",
+        "http://imgur.com/cD2vyTy.png",
+        "http://aqwwiki.wdfiles.com/local--files/moglin-defender/MoglinDefenderF.png"
+    ],
+    "hash": "d4c92487d7c9f8f6cb99f86825361358"
+}

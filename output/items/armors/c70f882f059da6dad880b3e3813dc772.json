@@ -1,0 +1,17 @@
+{
+    "urlName": "toxic-diviner",
+    "url": "http://aqwwiki.wikidot.com/toxic-diviner",
+    "name": "Toxic Diviner",
+    "type": "armors",
+    "description": "Bido's loyal Diviners don these robes for they are the warlocks who protect the strange relics that Bido has stashed away.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/X4SG343.png",
+        "https://i.imgur.com/tKo5yzt.png"
+    ],
+    "hash": "c70f882f059da6dad880b3e3813dc772"
+}

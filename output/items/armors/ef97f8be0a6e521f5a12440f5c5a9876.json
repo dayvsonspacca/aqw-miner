@@ -1,0 +1,16 @@
+{
+    "urlName": "iced-jester",
+    "url": "http://aqwwiki.wikidot.com/iced-jester",
+    "name": "Iced Jester",
+    "type": "armors",
+    "description": "Just because it is cold outside, doesn't mean that we can't have a laugh or two. Of course, that laughter is at the expense of the enemies you take down in this armor.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/iced-jester/IJM.png",
+        "http://aqwwiki.wdfiles.com/local--files/iced-jester/IJF.png"
+    ],
+    "hash": "ef97f8be0a6e521f5a12440f5c5a9876"
+}

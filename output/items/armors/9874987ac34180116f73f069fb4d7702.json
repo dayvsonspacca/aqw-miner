@@ -1,0 +1,16 @@
+{
+    "urlName": "beast-hunter-advanced",
+    "url": "http://aqwwiki.wikidot.com/beast-hunter-advanced",
+    "name": "Beast Hunter Advanced",
+    "type": "armors",
+    "description": "As you rack up the kills, your armor evolves into an intimidating, yet strangely compelling display of your trophies.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/08xOKiX.png",
+        "http://i.imgur.com/iNK8P2f.png"
+    ],
+    "hash": "9874987ac34180116f73f069fb4d7702"
+}

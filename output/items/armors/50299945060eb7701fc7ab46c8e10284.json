@@ -1,0 +1,17 @@
+{
+    "urlName": "ninja-disciple-armor",
+    "url": "http://aqwwiki.wikidot.com/ninja-disciple-armor",
+    "name": "Ninja Disciple Armor",
+    "type": "armors",
+    "description": "Favored by fans of the Shadow of the Wind Village rock group, BloodMetal Ninjas!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VZaf75u.png",
+        "https://i.imgur.com/KzVdTwd.png"
+    ],
+    "hash": "50299945060eb7701fc7ab46c8e10284"
+}

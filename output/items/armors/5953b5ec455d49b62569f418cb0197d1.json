@@ -1,0 +1,17 @@
+{
+    "urlName": "elemental-walker",
+    "url": "http://aqwwiki.wikidot.com/elemental-walker",
+    "name": "Elemental Walker",
+    "type": "armors",
+    "description": "When you take the elements into yourself, when you BECOME the elements, then - and only then - can you walk amongst them without fear.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elemental-walker/ElementalWalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/elemental-walker/ElementalWalkerF.png"
+    ],
+    "hash": "5953b5ec455d49b62569f418cb0197d1"
+}

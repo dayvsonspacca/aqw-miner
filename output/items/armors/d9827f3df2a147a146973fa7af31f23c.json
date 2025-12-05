@@ -1,0 +1,17 @@
+{
+    "urlName": "pony-trooper-rainbow",
+    "url": "http://aqwwiki.wikidot.com/pony-trooper-rainbow",
+    "name": "Pony Trooper Rainbow",
+    "type": "armors",
+    "description": "Tough and colorful. Rainbow Troopers beat them all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pony-trooper-rainbow/PonyTrooperRainbowM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pony-trooper-rainbow/PonyTrooperRainbowF.png"
+    ],
+    "hash": "d9827f3df2a147a146973fa7af31f23c"
+}

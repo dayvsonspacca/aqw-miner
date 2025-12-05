@@ -1,0 +1,16 @@
+{
+    "urlName": "taurean-defender",
+    "url": "http://aqwwiki.wikidot.com/taurean-defender",
+    "name": "Taurean Defender",
+    "type": "armors",
+    "description": "The armor worn by heroic and compassionate warlord Lu Niu, who protects his people by unleashing his unbridled violence towards enemies.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yEZDDpq.png",
+        "https://i.imgur.com/qAukGiA.png"
+    ],
+    "hash": "ce8d486e4a986312ea337872d058b6f9"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-ripper",
+    "url": "http://aqwwiki.wikidot.com/dark-ripper",
+    "name": "Dark Ripper",
+    "type": "armors",
+    "description": "Those who serve the will of the Archfiend will always be rewarded.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/wjT6uxZ.png",
+        "https://i.imgur.com/KGdRO8O.jpg"
+    ],
+    "hash": "db5265dc9b19c7b66f5893c598656a34"
+}

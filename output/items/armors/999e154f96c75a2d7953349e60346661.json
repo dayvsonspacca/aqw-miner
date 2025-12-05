@@ -1,0 +1,14 @@
+{
+    "urlName": "shadow-brawler",
+    "url": "http://aqwwiki.wikidot.com/shadow-brawler",
+    "name": "Shadow Brawler",
+    "type": "armors",
+    "description": "You are a warrior specializing in close quarters combat hidden under the veil of night.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/elMetAo.png",
+        "http://i.imgur.com/JpdfOEs.png"
+    ],
+    "hash": "999e154f96c75a2d7953349e60346661"
+}

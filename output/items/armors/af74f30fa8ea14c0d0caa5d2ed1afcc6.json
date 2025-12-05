@@ -1,0 +1,16 @@
+{
+    "urlName": "rogue-leather",
+    "url": "http://aqwwiki.wikidot.com/rogue-leather",
+    "name": "Rogue Leather",
+    "type": "armors",
+    "description": "Rogue fighters prefer leather armor because it provides moderate protection without restricting their movement the way plate armor might.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/LNCoia0.png",
+        "http://i.imgur.com/5FCm4Z1.png"
+    ],
+    "hash": "af74f30fa8ea14c0d0caa5d2ed1afcc6"
+}

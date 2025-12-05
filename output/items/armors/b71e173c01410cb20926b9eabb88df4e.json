@@ -1,0 +1,17 @@
+{
+    "urlName": "manticore-assassin",
+    "url": "http://aqwwiki.wikidot.com/manticore-assassin",
+    "name": "Manticore Assassin",
+    "type": "armors",
+    "description": "Much can be learned from the manticore\u2019s hunting styles. Nature\u2019s perfect assassin.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/manticore-assassin/ManticoreAssassinM.png",
+        "http://aqwwiki.wdfiles.com/local--files/manticore-assassin/ManticoreAssassinF.png"
+    ],
+    "hash": "b71e173c01410cb20926b9eabb88df4e"
+}

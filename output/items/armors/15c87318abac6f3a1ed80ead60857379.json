@@ -1,0 +1,17 @@
+{
+    "urlName": "urban-underworld-outfit",
+    "url": "http://aqwwiki.wikidot.com/urban-underworld-outfit",
+    "name": "Urban Underworld Outfit",
+    "type": "armors",
+    "description": "Blades for combat that are also used to prep bones and marrow to use as reagents or new mindless minions. Magic is quicker and more efficient, but deeper control can be forged with skilled hands.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8yz4p3Q.png",
+        "https://i.imgur.com/ul6nqQT.png"
+    ],
+    "hash": "15c87318abac6f3a1ed80ead60857379"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "wind-ring",
+    "url": "http://aqwwiki.wikidot.com/wind-ring",
+    "name": "Wind Ring",
+    "type": "armors",
+    "description": "You know how to break wind\u2026 literally! Smell the sweet scents of VICTORY!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wind-ring/WindRingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/wind-ring/WindRingF.png"
+    ],
+    "hash": "adff9f234af52746e53f79151b44e7d1"
+}

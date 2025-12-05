@@ -1,0 +1,14 @@
+{
+    "urlName": "barber-armor",
+    "url": "http://aqwwiki.wikidot.com/barber-armor",
+    "name": "Barber Armor",
+    "type": "armors",
+    "description": "Hair today, gone tomorrow! Be a barber and control the destiny of your friends and neighbors.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/AiBGm3N.png",
+        "https://i.imgur.com/NKrHC77.png"
+    ],
+    "hash": "42c51984ab07177bf4ddb74bdb4e9e79"
+}

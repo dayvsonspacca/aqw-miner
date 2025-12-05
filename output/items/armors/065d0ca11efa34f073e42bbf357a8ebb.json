@@ -1,0 +1,18 @@
+{
+    "urlName": "icewild-hunter",
+    "url": "http://aqwwiki.wikidot.com/icewild-hunter",
+    "name": "Icewild Hunter",
+    "type": "armors",
+    "description": "Headstrong ice harvesters in the Cryostorm Tundra, the growing threat of the Queen of Monsters have caused the hunters to take on taming ice elementals. Therefore, they began to wear frost-covered clothing to adapt to harsher winters during their voyages.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/icewild-hunter/IHMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/icewild-hunter/IHFemale.png"
+    ],
+    "hash": "065d0ca11efa34f073e42bbf357a8ebb"
+}

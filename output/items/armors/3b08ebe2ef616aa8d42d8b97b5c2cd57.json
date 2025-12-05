@@ -1,0 +1,17 @@
+{
+    "urlName": "amethyst-half-elf",
+    "url": "http://aqwwiki.wikidot.com/amethyst-half-elf",
+    "name": "Amethyst Half-Elf",
+    "type": "armors",
+    "description": "Remember to stay close to your spirit while you traverse the forest.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/0LGV5TU.png",
+        "https://i.imgur.com/ZCbQ1Br.png"
+    ],
+    "hash": "3b08ebe2ef616aa8d42d8b97b5c2cd57"
+}

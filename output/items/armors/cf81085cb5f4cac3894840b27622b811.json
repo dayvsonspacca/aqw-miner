@@ -1,0 +1,17 @@
+{
+    "urlName": "black-leopard-skinwalker",
+    "url": "http://aqwwiki.wikidot.com/black-leopard-skinwalker",
+    "name": "Black Leopard Skinwalker",
+    "type": "armors",
+    "description": "Wear the hides of the beasts you've slain to channel their fierce spirits.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-leopard-skinwalker/BlackLeopardSkinwalkerM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/black-leopard-skinwalker/BlackLeopardSkinwalkerF.png"
+    ],
+    "hash": "cf81085cb5f4cac3894840b27622b811"
+}

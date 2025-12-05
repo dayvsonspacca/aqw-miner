@@ -1,0 +1,21 @@
+{
+    "urlName": "nation-phalanx-legend",
+    "url": "http://aqwwiki.wikidot.com/nation-phalanx-legend",
+    "name": "Nation Phalanx (Legend)",
+    "type": "armors",
+    "description": "There is an unspoken need for defense and a steady hand. The Phalanx is a full platoon in one, with enough experience to reign in the reckless and foolish of the newer recruits.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fkRcSiy.png",
+        "https://i.imgur.com/FPKi7Ul.png",
+        "https://i.imgur.com/e8m6YQY.png",
+        "https://i.imgur.com/KHBzLOo.png",
+        "https://i.imgur.com/9x4VJOo.png",
+        "https://i.imgur.com/cj364pg.png"
+    ],
+    "hash": "511adfc1ed4bdfbbf581bbb68de79d11"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chaotic-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/chaotic-naval-commander-ac",
+    "name": "Chaotic Naval Commander (AC)",
+    "type": "armors",
+    "description": "Have you ever wondered what Drakath would have been like had he turned to piracy? Well, wonder no more!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/0WzZZBq.png",
+        "https://i.imgur.com/vPQOHWT.png"
+    ],
+    "hash": "601b48d9898631a771f091e20afc0e22"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-nightmare",
+    "url": "http://aqwwiki.wikidot.com/legion-nightmare",
+    "name": "Legion Nightmare",
+    "type": "armors",
+    "description": "Legion Nightmares stalk the earth, carving fear into the hearts of men.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/8G1AaR9.png",
+        "http://i.imgur.com/M0Ann34.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-nightmare/LegionNightmareO.png"
+    ],
+    "hash": "f90ee6dea2f4ccc1316349cbfb8f8ecf"
+}

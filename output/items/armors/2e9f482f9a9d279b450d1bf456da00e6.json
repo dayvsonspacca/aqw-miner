@@ -1,0 +1,18 @@
+{
+    "urlName": "ancient-time-voyager",
+    "url": "http://aqwwiki.wikidot.com/ancient-time-voyager",
+    "name": "Ancient Time Voyager",
+    "type": "armors",
+    "description": "Throughout time, they have seen civilizations rise and fall. As one falls, a new one rises from the ashes. Now they're here to watch the end of Lore. What will become of its ashes?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/LsHXj5Y.png",
+        "http://i.imgur.com/trGtQpq.png"
+    ],
+    "hash": "2e9f482f9a9d279b450d1bf456da00e6"
+}

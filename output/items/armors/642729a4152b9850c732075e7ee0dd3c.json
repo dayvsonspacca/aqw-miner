@@ -1,0 +1,17 @@
+{
+    "urlName": "hollowborn-raven-ac",
+    "url": "http://aqwwiki.wikidot.com/hollowborn-raven-ac",
+    "name": "Hollowborn Raven (AC)",
+    "type": "armors",
+    "description": "Once the companions of frost, these infamous rogues roam frigid wastes of their own accord. Where they linger, those who face death are given a second chance.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/yYlx7iG.png",
+        "https://i.imgur.com/kBb6Pmg.png"
+    ],
+    "hash": "642729a4152b9850c732075e7ee0dd3c"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-battle-armor",
+    "url": "http://aqwwiki.wikidot.com/arcane-battle-armor",
+    "name": "Arcane Battle Armor",
+    "type": "armors",
+    "description": "Magi who have excelled in the way of the Arcane seek to broaden their combative intellect. Only those who have mastered Magic can call themselves Battle Magi.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/HazyF2D.png",
+        "http://i.imgur.com/TEsb4TY.png"
+    ],
+    "hash": "0e3b7192af6126402cbdbee4364e4033"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "paladin-ascendant-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/paladin-ascendant-armor-ac",
+    "name": "Paladin Ascendant (Armor) (AC)",
+    "type": "armors",
+    "description": "The duty of a Paladin is to protect the lives of the living, and save the souls of the lost.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/k0D1t21.png",
+        "https://i.imgur.com/eQWG31B.png"
+    ],
+    "hash": "c2c106f5a73435d8f9fe18da3c7eae98"
+}

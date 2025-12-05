@@ -1,0 +1,16 @@
+{
+    "urlName": "fiend-carapace-armor",
+    "url": "http://aqwwiki.wikidot.com/fiend-carapace-armor",
+    "name": "Fiend Carapace Armor",
+    "type": "armors",
+    "description": "You've fashioned armor out of discarded Fiend skin. Ewwww\u2026 but kind of cool.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/K1g13JH.png",
+        "http://i.imgur.com/ceB9yh2.png"
+    ],
+    "hash": "199d53e18b3465ccc2ba321b08d88e67"
+}

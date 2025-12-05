@@ -1,0 +1,16 @@
+{
+    "urlName": "hybrid-manticore",
+    "url": "http://aqwwiki.wikidot.com/hybrid-manticore",
+    "name": "Hybrid Manticore",
+    "type": "armors",
+    "description": "The deadly poison of the manticore mixed with the unpredictable nature of chaos has transformed you into a manticore hydrid!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/2czT5U8.png",
+        "http://i.imgur.com/tusHcTa.png"
+    ],
+    "hash": "0bec743a1dbd1a1efbd08b8d62baec59"
+}

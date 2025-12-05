@@ -1,0 +1,17 @@
+{
+    "urlName": "dage-deathknight",
+    "url": "http://aqwwiki.wikidot.com/dage-deathknight",
+    "name": "Dage DeathKnight",
+    "type": "armors",
+    "description": "Now you can own Dage's personal armor. You are now Dage's Death Knight!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dage-deathknight/DageDeathKnightMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dage-deathknight/DageDeathKnightFemale.png"
+    ],
+    "hash": "a53b21a4fa367ddf78b654e84ace3aa8"
+}

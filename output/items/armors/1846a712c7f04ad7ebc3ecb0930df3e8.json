@@ -1,0 +1,16 @@
+{
+    "urlName": "the-harvester",
+    "url": "http://aqwwiki.wikidot.com/the-harvester",
+    "name": "The Harvester",
+    "type": "armors",
+    "description": "You roam the Black Labyrinth, harvesting the bodies of fallen creatures for any loot you can find. Some day, your debt will be paid.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/iifEug2.png",
+        "https://i.imgur.com/nFenLu8.png"
+    ],
+    "hash": "1846a712c7f04ad7ebc3ecb0930df3e8"
+}

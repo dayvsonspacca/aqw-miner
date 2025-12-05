@@ -1,0 +1,16 @@
+{
+    "urlName": "ragnarok-cavalier",
+    "url": "http://aqwwiki.wikidot.com/ragnarok-cavalier",
+    "name": "Ragnarok Cavalier",
+    "type": "armors",
+    "description": "These warriors have an iron clad will which makes them impenetrable to the snow and ice of the Northlands.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xtIWK6V.png",
+        "https://i.imgur.com/JxcsFaA.png"
+    ],
+    "hash": "c139f0c137b3091b40e052b3c9aca9ee"
+}

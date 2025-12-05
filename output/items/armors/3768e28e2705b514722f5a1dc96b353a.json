@@ -1,0 +1,16 @@
+{
+    "urlName": "will-armor",
+    "url": "http://aqwwiki.wikidot.com/will-armor",
+    "name": "Will Armor",
+    "type": "armors",
+    "description": "Whoa dudes, this armor is most excellent.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/m9Rxv17.png",
+        "http://i.imgur.com/DAk8O2X.png"
+    ],
+    "hash": "3768e28e2705b514722f5a1dc96b353a"
+}

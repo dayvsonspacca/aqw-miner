@@ -1,0 +1,18 @@
+{
+    "urlName": "golden-moglin-brawler",
+    "url": "http://aqwwiki.wikidot.com/golden-moglin-brawler",
+    "name": "Golden Moglin Brawler",
+    "type": "armors",
+    "description": "'Twas the Knight before Frostval, a Hero so brawn was clad in new gold armor, and cried out, \"Battle On!\"",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/4IQzuf1.png",
+        "http://i.imgur.com/aiClJGX.png"
+    ],
+    "hash": "37301bb5c19c5489e7d2e3afe6d80e4c"
+}

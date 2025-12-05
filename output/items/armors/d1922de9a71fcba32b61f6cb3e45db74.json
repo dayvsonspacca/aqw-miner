@@ -1,0 +1,17 @@
+{
+    "urlName": "black-peasant-rags",
+    "url": "http://aqwwiki.wikidot.com/black-peasant-rags",
+    "name": "Black Peasant Rags",
+    "type": "armors",
+    "description": "This is what you'll see all the merchants wearing when you're nabbing all those Black Friday deals!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/rah1lrk.png",
+        "http://i.imgur.com/jHhqjQj.png"
+    ],
+    "hash": "d1922de9a71fcba32b61f6cb3e45db74"
+}

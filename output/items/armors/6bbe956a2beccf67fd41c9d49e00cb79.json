@@ -1,0 +1,16 @@
+{
+    "urlName": "indigo-paladin",
+    "url": "http://aqwwiki.wikidot.com/indigo-paladin",
+    "name": "Indigo Paladin",
+    "type": "armors",
+    "description": "\"By land or sea, I will protect thee.\"",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/jSr4hXX.png",
+        "http://i.imgur.com/woywAE5.png"
+    ],
+    "hash": "6bbe956a2beccf67fd41c9d49e00cb79"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "glacial-berserker-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/glacial-berserker-armor-ac",
+    "name": "Glacial Berserker (Armor) (AC)",
+    "type": "armors",
+    "description": "Tranquility and rambunctious behavior don't mix in berserkers, but the psyche of a Glacial Berserker is cool enough to balance both conflicting qualities. They are one \"chill\" group of warriors.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/vTCbIa3.png",
+        "http://i.imgur.com/B9iPdNp.png"
+    ],
+    "hash": "087964f95c60780ccedb889b6c6c3f5d"
+}

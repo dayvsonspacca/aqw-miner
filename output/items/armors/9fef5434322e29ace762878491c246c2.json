@@ -1,0 +1,17 @@
+{
+    "urlName": "black-sheep",
+    "url": "http://aqwwiki.wikidot.com/black-sheep",
+    "name": "Black Sheep",
+    "type": "armors",
+    "description": "BAA. Get your own wool. Peasant.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/0jxX9go.png",
+        "https://i.imgur.com/AT9XHNf.png"
+    ],
+    "hash": "9fef5434322e29ace762878491c246c2"
+}

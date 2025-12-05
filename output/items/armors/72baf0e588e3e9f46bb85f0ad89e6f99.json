@@ -1,0 +1,18 @@
+{
+    "urlName": "gloomcaster",
+    "url": "http://aqwwiki.wikidot.com/gloomcaster",
+    "name": "Gloomcaster",
+    "type": "armors",
+    "description": "On, Mogloween, the tricksters come out to play. The Gloomcasters keep the ghouls and evil creatures at bay. Their magic wielding skills are far beyond any that has been seen before on Lore.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Z4f4uLO.png",
+        "https://i.imgur.com/PXnH2rc.png"
+    ],
+    "hash": "72baf0e588e3e9f46bb85f0ad89e6f99"
+}

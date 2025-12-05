@@ -1,0 +1,16 @@
+{
+    "urlName": "red-dragon-pjs",
+    "url": "http://aqwwiki.wikidot.com/red-dragon-pjs",
+    "name": "Red Dragon PJs",
+    "type": "armors",
+    "description": "Fight like a Dragon, and sleep like one too.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/y73FRNH.png",
+        "https://i.imgur.com/DCWRne4.png"
+    ],
+    "hash": "5cfffe080d8fae62137c0962e84867f3"
+}

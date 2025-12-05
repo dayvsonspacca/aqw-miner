@@ -1,0 +1,17 @@
+{
+    "urlName": "blessed-knight",
+    "url": "http://aqwwiki.wikidot.com/blessed-knight",
+    "name": "Blessed Knight",
+    "type": "armors",
+    "description": "These rare Knights are affliated with the Order of Paladins, but channel a special type of light magic which melds with their armor, hair, and weapons over time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blessed-knight/BlessedKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/blessed-knight/BlessedKnightF.png"
+    ],
+    "hash": "d6b20aaad7ec74588ff61b749aab3281"
+}

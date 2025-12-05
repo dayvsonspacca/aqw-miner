@@ -1,0 +1,17 @@
+{
+    "urlName": "vampiric-gentlefolk",
+    "url": "http://aqwwiki.wikidot.com/vampiric-gentlefolk",
+    "name": "Vampiric Gentlefolk",
+    "type": "armors",
+    "description": "Far from noble or gentle, these vampires have given themselves new titles in light of their banishment from Darkovia. They give the gift of the eternal night without restraint.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/52XYLwR.png",
+        "https://imgur.com/lYvrKID.png"
+    ],
+    "hash": "6096578aca8b76e2eff04908c95056bc"
+}

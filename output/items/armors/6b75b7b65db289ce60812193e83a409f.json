@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-noble-garb",
+    "url": "http://aqwwiki.wikidot.com/dark-noble-garb",
+    "name": "Dark Noble Garb",
+    "type": "armors",
+    "description": "This dark evening garb will serve you well no matter how fancy the royal ball you're attending!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/0dQ9mQA.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-noble-garb/DNGM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-noble-garb/DNGF.png"
+    ],
+    "hash": "6b75b7b65db289ce60812193e83a409f"
+}

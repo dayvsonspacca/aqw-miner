@@ -1,0 +1,16 @@
+{
+    "urlName": "castle-crusher",
+    "url": "http://aqwwiki.wikidot.com/castle-crusher",
+    "name": "Castle Crusher",
+    "type": "armors",
+    "description": "No kingdom can withstand your wrath!",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/hi8zmiJ.png",
+        "http://i.imgur.com/Mw2nl8i.png"
+    ],
+    "hash": "80c9d8ba1419b47b20574108d54360fd"
+}

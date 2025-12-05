@@ -1,0 +1,17 @@
+{
+    "urlName": "sapphire-knight",
+    "url": "http://aqwwiki.wikidot.com/sapphire-knight",
+    "name": "Sapphire Knight",
+    "type": "armors",
+    "description": "Sapphire Knights do not fear, nor pain, nor defeat. They will fight as long blood flows in them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sapphire-knight/SKM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sapphire-knight/SKF.png"
+    ],
+    "hash": "6a7e6ff1410fb67fb0d7cde9fc7974f3"
+}

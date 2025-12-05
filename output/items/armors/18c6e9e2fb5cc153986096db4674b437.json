@@ -1,0 +1,14 @@
+{
+    "urlName": "warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/warrior-armor",
+    "name": "Warrior Armor",
+    "type": "armors",
+    "description": "The heart of a warrior is filled with courage and strength. Your skills with weapons in close combat makes you a powerful force on the battlefield.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/Ynr9fv6.png",
+        "http://i.imgur.com/sxf1pmH.png"
+    ],
+    "hash": "18c6e9e2fb5cc153986096db4674b437"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "inferno-dragon-warrior",
+    "url": "http://aqwwiki.wikidot.com/inferno-dragon-warrior",
+    "name": "Inferno Dragon Warrior",
+    "type": "armors",
+    "description": "These warriors will always rise up from the ashes to fight!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/inferno-dragon-warrior/InfernoDragonWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/inferno-dragon-warrior/InfernoDragonWarriorF.png"
+    ],
+    "hash": "07979c2977506cec8782364f8cb72d18"
+}

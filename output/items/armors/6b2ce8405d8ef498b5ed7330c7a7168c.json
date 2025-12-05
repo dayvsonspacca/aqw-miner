@@ -1,0 +1,16 @@
+{
+    "urlName": "j6-pirate",
+    "url": "http://aqwwiki.wikidot.com/j6-pirate",
+    "name": "J6 - Pirate",
+    "type": "armors",
+    "description": "J6's pirate disguise during his adventures at sea.",
+    "rarity": "Secret Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/i15FE27.png",
+        "http://i.imgur.com/Ij1B2ak.png"
+    ],
+    "hash": "6b2ce8405d8ef498b5ed7330c7a7168c"
+}

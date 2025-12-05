@@ -1,0 +1,17 @@
+{
+    "urlName": "tiki-fun",
+    "url": "http://aqwwiki.wikidot.com/tiki-fun",
+    "name": "Tiki Fun",
+    "type": "armors",
+    "description": "Stylish and nightmarish, you'll be the best looking surfer at the party.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tiki-fun/TKm.png",
+        "http://aqwwiki.wdfiles.com/local--files/tiki-fun/TKf.png"
+    ],
+    "hash": "9644a6bf27e63e5bed6a59360f96d667"
+}

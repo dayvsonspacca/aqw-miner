@@ -1,0 +1,16 @@
+{
+    "urlName": "wraith-of-darkness",
+    "url": "http://aqwwiki.wikidot.com/wraith-of-darkness",
+    "name": "Wraith of Darkness",
+    "type": "armors",
+    "description": "From the darkness you came, and to the darkness you shall return. For the Longest Night approaches, and the undead roam the streets of Mystcroft.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/MqVxp7e.png",
+        "https://i.imgur.com/w96Wq3a.png"
+    ],
+    "hash": "c7291bc76e1f98aa0ae45f0bb8a9ca03"
+}

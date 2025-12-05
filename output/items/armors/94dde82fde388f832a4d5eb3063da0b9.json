@@ -1,0 +1,16 @@
+{
+    "urlName": "mage-armor",
+    "url": "http://aqwwiki.wikidot.com/mage-armor",
+    "name": "Mage Armor",
+    "type": "armors",
+    "description": "Magic courses through your veins. Your arcane powers enable you to cast powerful spells.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/sLCvSbz.png",
+        "https://i.imgur.com/CZXLPCk.png",
+        "https://i.imgur.com/ycybTDW.png",
+        "https://i.imgur.com/Yh35B3l.png"
+    ],
+    "hash": "94dde82fde388f832a4d5eb3063da0b9"
+}

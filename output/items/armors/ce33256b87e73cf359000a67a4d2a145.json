@@ -1,0 +1,17 @@
+{
+    "urlName": "icestorm-eagle-rider-ac",
+    "url": "http://aqwwiki.wikidot.com/icestorm-eagle-rider-ac",
+    "name": "IceStorm Eagle Rider (AC)",
+    "type": "armors",
+    "description": "Adapted to the cold and snow of the North, these riders will face any adversary.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EDQOVJY.png",
+        "https://i.imgur.com/Opkt1Lt.png"
+    ],
+    "hash": "ce33256b87e73cf359000a67a4d2a145"
+}

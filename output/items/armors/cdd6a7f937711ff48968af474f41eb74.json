@@ -1,0 +1,16 @@
+{
+    "urlName": "light-void-reverent",
+    "url": "http://aqwwiki.wikidot.com/light-void-reverent",
+    "name": "Light Void Reverent",
+    "type": "armors",
+    "description": "The Light was consumed by a Void, giving form to a new and rare species of Fiend. Their mission is to grow brighter - to devour light until they can outshine the sun and stars that made them. (Item is color-custom to Eye.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/fMFs0Fs.png",
+        "https://i.imgur.com/jK1RFXA.png"
+    ],
+    "hash": "cdd6a7f937711ff48968af474f41eb74"
+}

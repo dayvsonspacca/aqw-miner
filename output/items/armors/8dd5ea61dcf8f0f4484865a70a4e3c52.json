@@ -1,0 +1,16 @@
+{
+    "urlName": "wolf-legend",
+    "url": "http://aqwwiki.wikidot.com/wolf-legend",
+    "name": "Wolf Legend",
+    "type": "armors",
+    "description": "Worn by Wolf, a guardian of the gates in the DragonFable timeline, this armor is perfect for rapid-action attacks in battle. Strap a dagger on and get ready to go!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/SBWcXZ8.png",
+        "http://i.imgur.com/Dz7BgEB.png"
+    ],
+    "hash": "8dd5ea61dcf8f0f4484865a70a4e3c52"
+}

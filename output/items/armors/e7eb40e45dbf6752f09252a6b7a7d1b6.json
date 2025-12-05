@@ -1,0 +1,17 @@
+{
+    "urlName": "northlands-paladin",
+    "url": "http://aqwwiki.wikidot.com/northlands-paladin",
+    "name": "Northlands Paladin",
+    "type": "armors",
+    "description": "Battling undead through the frozen wastes, you draw strength from the otherworldly, shimmering light of the aurora borealis.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wsClNrY.png",
+        "https://i.imgur.com/WCpt9hc.png"
+    ],
+    "hash": "e7eb40e45dbf6752f09252a6b7a7d1b6"
+}

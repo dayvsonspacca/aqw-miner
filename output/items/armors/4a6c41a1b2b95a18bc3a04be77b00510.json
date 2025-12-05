@@ -1,0 +1,16 @@
+{
+    "urlName": "zombie-light-warrior",
+    "url": "http://aqwwiki.wikidot.com/zombie-light-warrior",
+    "name": "Zombie Light Warrior",
+    "type": "armors",
+    "description": "The order of Paladins is famous for its righteous hatred of the undead. As a result, Zombie Paladins are not known for high self-esteem.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/bwZ7ivN.png",
+        "https://i.imgur.com/Rmp7T8r.png"
+    ],
+    "hash": "4a6c41a1b2b95a18bc3a04be77b00510"
+}

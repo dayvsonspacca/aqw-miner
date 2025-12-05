@@ -1,0 +1,17 @@
+{
+    "urlName": "kitsune-commander-0-ac",
+    "url": "http://aqwwiki.wikidot.com/kitsune-commander-0-ac",
+    "name": "Kitsune Commander (0 AC)",
+    "type": "armors",
+    "description": "The fox spirit guides these pirates to riches beyond the shores of Yokai island",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/c2zxPej.png",
+        "https://i.imgur.com/V3IrxMH.png"
+    ],
+    "hash": "92939dac06ff509272bb53d99e7a370f"
+}

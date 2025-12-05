@@ -1,0 +1,16 @@
+{
+    "urlName": "urban-samurai",
+    "url": "http://aqwwiki.wikidot.com/urban-samurai",
+    "name": "Urban Samurai",
+    "type": "armors",
+    "description": "Keeping the traditions of old doesn't mean you can't look fly.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/LEPfOSi.png",
+        "https://imgur.com/czRRdmB.png"
+    ],
+    "hash": "7869f7552b5cdc976a3099abf0468e6e"
+}

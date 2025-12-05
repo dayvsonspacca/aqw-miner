@@ -1,0 +1,17 @@
+{
+    "urlName": "orochi-blademaster",
+    "url": "http://aqwwiki.wikidot.com/orochi-blademaster",
+    "name": "Orochi Blademaster",
+    "type": "armors",
+    "description": "The Orochi Blademaster strike as fast and are as deadly as their namesake. Scorned by all of Yokai for embodying Orochi in its darkest form, they themselves have become monsters even the oldest of the ayakashi fear.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/LtQBNFd.png",
+        "https://i.imgur.com/Ivf91sk.png"
+    ],
+    "hash": "55dddc72109f3a0b8be2f9b17aad8bcc"
+}

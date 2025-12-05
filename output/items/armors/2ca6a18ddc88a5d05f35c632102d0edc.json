@@ -1,0 +1,17 @@
+{
+    "urlName": "satria-nusantara",
+    "url": "http://aqwwiki.wikidot.com/satria-nusantara",
+    "name": "Satria Nusantara",
+    "type": "armors",
+    "description": "The attire of Nusantaran noble warriors who believe it is their duty to serve and protect their people.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/ZPqPKLl.png",
+        "https://imgur.com/mU2jFOm.png"
+    ],
+    "hash": "2ca6a18ddc88a5d05f35c632102d0edc"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "kabasaran",
+    "url": "http://aqwwiki.wikidot.com/kabasaran",
+    "name": "Kabasaran",
+    "type": "armors",
+    "description": "Warriors adorned in red, masters of their own unique martial art, swords, spears, and war dances. Their red garb invokes the crimson birds that that duel through the seasons for honor.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/OtMjXJC.png",
+        "https://imgur.com/36fwDSR.png"
+    ],
+    "hash": "cb05822039c963dc651f8c59bec525df"
+}

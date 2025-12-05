@@ -1,0 +1,17 @@
+{
+    "urlName": "necho-tech-v2",
+    "url": "http://aqwwiki.wikidot.com/necho-tech-v2",
+    "name": "Necho Tech V2",
+    "type": "armors",
+    "description": "Necho Tech gear is a fusion of paladinum and Zorba's patented VantaBak metallic coating. It is strong enough to withstand any force\u2026 or fourth.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/JQ60tl8.png",
+        "https://i.imgur.com/jUMp4TP.png"
+    ],
+    "hash": "2ea96023c47ac899045036b5e7962f09"
+}

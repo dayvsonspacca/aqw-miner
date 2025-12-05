@@ -1,0 +1,16 @@
+{
+    "urlName": "unfortunate-ringmaster",
+    "url": "http://aqwwiki.wikidot.com/unfortunate-ringmaster",
+    "name": "Unfortunate RingMaster",
+    "type": "armors",
+    "description": "Come one come all down to the unluckiest fair in all of Lore. This Ringmaster will be happy to take all your gold while you test your \"luck\".",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/lOnnSL5.png",
+        "https://i.imgur.com/gtJAYnN.png"
+    ],
+    "hash": "1844b5b40616873041ec184be0caa9e6"
+}

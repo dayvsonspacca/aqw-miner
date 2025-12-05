@@ -1,0 +1,18 @@
+{
+    "urlName": "red-voltabolt-coat",
+    "url": "http://aqwwiki.wikidot.com/red-voltabolt-coat",
+    "name": "Red Voltabolt Coat",
+    "type": "armors",
+    "description": "Ze red coat of ze mad zcientissst and dentissst, Dr. Voltabolt! I vonder vhat havoc u vill cauze!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/UYnVybd.png",
+        "http://i.imgur.com/Qg98iMn.png"
+    ],
+    "hash": "d20ee8eec34acfa963929be784501148"
+}

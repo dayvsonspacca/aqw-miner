@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-hanzo-void",
+    "url": "http://aqwwiki.wikidot.com/shadow-hanzo-void",
+    "name": "Shadow Hanzo Void",
+    "type": "armors",
+    "description": "You are devoid of all emotion. You are silence, the shadow of night. Go forth and serve your master.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-hanzo-void/ShadowHanzoVoidM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-hanzo-void/ShadowHanzoVoidF.png"
+    ],
+    "hash": "f5680b6a8130e2db2f067d42bbf4c3f7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "v-for-vampire",
+    "url": "http://aqwwiki.wikidot.com/v-for-vampire",
+    "name": "V for Vampire",
+    "type": "armors",
+    "description": "Remember, remember, before it's November",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/v-for-vampire/VFVM.png",
+        "http://aqwwiki.wdfiles.com/local--files/v-for-vampire/VFVF.png"
+    ],
+    "hash": "4c683e2b04b1513ca465329d8f579475"
+}

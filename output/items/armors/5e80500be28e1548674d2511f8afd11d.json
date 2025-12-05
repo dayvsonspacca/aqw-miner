@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-knight-commander",
+    "url": "http://aqwwiki.wikidot.com/dark-knight-commander",
+    "name": "Dark Knight Commander",
+    "type": "armors",
+    "description": "As night falls, a valiant group of warriors take up their arms to defend all who require it. The famed Dark Knight Commanders rise to any challenge, their reputation is known to all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-knight-commander/DarkKnightCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-knight-commander/DarkKnightCommanderF.png"
+    ],
+    "hash": "5e80500be28e1548674d2511f8afd11d"
+}

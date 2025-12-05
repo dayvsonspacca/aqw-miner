@@ -1,0 +1,20 @@
+{
+    "urlName": "golden-fury-armor",
+    "url": "http://aqwwiki.wikidot.com/golden-fury-armor",
+    "name": "Golden Fury (Armor)",
+    "type": "armors",
+    "description": "Channel the fury inside you to control ANY enemy who opposes you! Rule over the other heroes, warlords, and adventurers who battle though Lore!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/ANzLbw5.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-fury-armor/GoldenFuryM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-fury-armor/GFO.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-fury-armor/GoldenFuryF.png"
+    ],
+    "hash": "14932b528cc955f7cb74f77361d1960a"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "necrotech-knight-armor",
+    "url": "http://aqwwiki.wikidot.com/necrotech-knight-armor",
+    "name": "NecroTech Knight (Armor)",
+    "type": "armors",
+    "description": "Using Shadowscythe technology, defeated allies are converted into mindless undead cyborgs. Defiance is futile; supremacy is inevitable. (Shadow series gen 1)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/W8wpuGi.png",
+        "https://i.imgur.com/1kFjCDO.png",
+        "https://i.imgur.com/0kdQJEj.png",
+        "https://i.imgur.com/S6mAr64.png"
+    ],
+    "hash": "dd16a04073697cd72acd05aa16d1aba0"
+}

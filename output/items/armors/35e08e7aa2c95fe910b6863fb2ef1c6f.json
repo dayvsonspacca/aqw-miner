@@ -1,0 +1,16 @@
+{
+    "urlName": "fiend-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/fiend-of-nulgath",
+    "name": "Fiend of Nulgath",
+    "type": "armors",
+    "description": "Nulgath says, \"Perhaps a more straight forward but powerful approach is more your style. Naturally armored, Fiends Voids are savage breed in my army. They are primal beasts that have no fear. Charging into the front lines of the enemy, they can thrash the ranks into disarray.\"",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fiend-of-nulgath/FoNM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fiend-of-nulgath/FoNF.png"
+    ],
+    "hash": "35e08e7aa2c95fe910b6863fb2ef1c6f"
+}

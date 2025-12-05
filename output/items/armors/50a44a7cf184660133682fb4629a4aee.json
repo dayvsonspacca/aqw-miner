@@ -1,0 +1,16 @@
+{
+    "urlName": "molten-dragon-plate",
+    "url": "http://aqwwiki.wikidot.com/molten-dragon-plate",
+    "name": "Molten Dragon Plate",
+    "type": "armors",
+    "description": "Dragonscale Plate Armor is one of the toughest armors known but THIS is crafted with Lava Dragon Scales, making it more heavy but nearly twice as heavy as standard Dragonscale Plate.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/bOaZg2g.png",
+        "https://i.imgur.com/dBrT6oN.png"
+    ],
+    "hash": "50a44a7cf184660133682fb4629a4aee"
+}

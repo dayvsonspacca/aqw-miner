@@ -1,0 +1,17 @@
+{
+    "urlName": "havoc-sage-ac",
+    "url": "http://aqwwiki.wikidot.com/havoc-sage-ac",
+    "name": "Havoc Sage (AC)",
+    "type": "armors",
+    "description": "After ages of rigorous training and meditation, these Sages are enlightened in the art of war. All who oppose the Legion are swiftly incapacitated by these skilled masters.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/jH1h31F.png",
+        "https://imgur.com/vffkcgP.png"
+    ],
+    "hash": "23abb9e91a3ed450e1e32f69503e30c7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-knight-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-knight-ac",
+    "name": "Underworld Knight (AC)",
+    "type": "armors",
+    "description": "Underworld Knights are among the most feared warriors in all seven circles of heck. Cross them at your peril.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/t53K27H.png",
+        "https://i.imgur.com/5LwrcuR.png"
+    ],
+    "hash": "a4b685426312a7a4acc3b45e0973381d"
+}

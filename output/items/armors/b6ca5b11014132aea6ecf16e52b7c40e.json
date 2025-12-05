@@ -1,0 +1,17 @@
+{
+    "urlName": "alchemist-by-trade",
+    "url": "http://aqwwiki.wikidot.com/alchemist-by-trade",
+    "name": "Alchemist by Trade",
+    "type": "armors",
+    "description": "This outfit is commonly worn by alchemist during their travels through villages and forests while searching for supplies for their next creation. Wow you're a nerd with your handy-dandy vile pocket protector.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/arVACml.png",
+        "http://i.imgur.com/wvFuA3I.png"
+    ],
+    "hash": "b6ca5b11014132aea6ecf16e52b7c40e"
+}

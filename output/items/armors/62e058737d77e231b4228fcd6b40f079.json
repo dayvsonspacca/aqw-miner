@@ -1,0 +1,16 @@
+{
+    "urlName": "alteon-s-reforged-armor",
+    "url": "http://aqwwiki.wikidot.com/alteon-s-reforged-armor",
+    "name": "Alteon's Reforged Armor",
+    "type": "armors",
+    "description": "A memory of the man who became a Legend of Hope. The people called upon a King to lead them, and that man was none other than Alden Alteon.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/zpLhEl4.png",
+        "https://i.imgur.com/20DpeXY.png"
+    ],
+    "hash": "62e058737d77e231b4228fcd6b40f079"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "necrotic-caster",
+    "url": "http://aqwwiki.wikidot.com/necrotic-caster",
+    "name": "Necrotic Caster",
+    "type": "armors",
+    "description": "Rising from the depths of graveyards, these unholy caster's help their Lich masters with ceremonies of the dead and decaying.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/gtiWjjS.png",
+        "https://i.imgur.com/S3RVgpS.png"
+    ],
+    "hash": "d0a19aecd2e006a91ab41e65b3386dd4"
+}

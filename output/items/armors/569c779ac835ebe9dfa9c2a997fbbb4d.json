@@ -1,0 +1,17 @@
+{
+    "urlName": "earth-ring",
+    "url": "http://aqwwiki.wikidot.com/earth-ring",
+    "name": "Earth Ring",
+    "type": "armors",
+    "description": "Just like the element Earth, you are strong, persistent, and enduring, able to take a punch and deliver one back tenfold.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/earth-ring/EarthRingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/earth-ring/EarthRingF.png"
+    ],
+    "hash": "569c779ac835ebe9dfa9c2a997fbbb4d"
+}

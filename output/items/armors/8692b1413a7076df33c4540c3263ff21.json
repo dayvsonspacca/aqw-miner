@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-anjou-knight",
+    "url": "http://aqwwiki.wikidot.com/golden-anjou-knight",
+    "name": "Golden Anjou Knight",
+    "type": "armors",
+    "description": "Named after the crest of House Vaughn, these Knights protect Chiral Valley. They're said to be nigh-invincible like their Lord, and can only be defeated if you destroy their head.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/eTEHoKE.png",
+        "https://i.imgur.com/zSlNuW1.png",
+        "https://i.imgur.com/E7JtRiA.png"
+    ],
+    "hash": "8692b1413a7076df33c4540c3263ff21"
+}

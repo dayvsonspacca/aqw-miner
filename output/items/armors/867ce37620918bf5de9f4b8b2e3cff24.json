@@ -1,0 +1,17 @@
+{
+    "urlName": "abyssal-magus-ac",
+    "url": "http://aqwwiki.wikidot.com/abyssal-magus-ac",
+    "name": "Abyssal Magus (AC)",
+    "type": "armors",
+    "description": "Named so for their ability to instantly turn day into night, but they don't control time. They call on the Void, tearing space open to plunge the battlefied into darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lrCo207.png",
+        "https://i.imgur.com/lIVxmAC.png"
+    ],
+    "hash": "867ce37620918bf5de9f4b8b2e3cff24"
+}

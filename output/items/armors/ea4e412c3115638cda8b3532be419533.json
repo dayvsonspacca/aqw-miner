@@ -1,0 +1,16 @@
+{
+    "urlName": "vampire-slayer",
+    "url": "http://aqwwiki.wikidot.com/vampire-slayer",
+    "name": "Vampire Slayer",
+    "type": "armors",
+    "description": "A good slayer doesn't just stake the sparkly ones, they go after all vampire kind. You're not just some crazy person, you're the slayer!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/qY3QfU8.png",
+        "http://i.imgur.com/BCB8cV7.png"
+    ],
+    "hash": "ea4e412c3115638cda8b3532be419533"
+}

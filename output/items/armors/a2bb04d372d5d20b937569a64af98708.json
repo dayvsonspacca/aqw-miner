@@ -1,0 +1,17 @@
+{
+    "urlName": "terran-dragonlord",
+    "url": "http://aqwwiki.wikidot.com/terran-dragonlord",
+    "name": "Terran Dragonlord",
+    "type": "armors",
+    "description": "With their partner, the Terran Dragon of Prosperity and Plenty, the Terran Dragonlords have diligently protected their home for generations. The Yokai Isles' fields flourish even in the wake of fires.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gD58mS7.png",
+        "https://i.imgur.com/QWInktR.png"
+    ],
+    "hash": "a2bb04d372d5d20b937569a64af98708"
+}

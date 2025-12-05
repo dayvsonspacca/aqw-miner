@@ -1,0 +1,16 @@
+{
+    "urlName": "fireproof-suit",
+    "url": "http://aqwwiki.wikidot.com/fireproof-suit",
+    "name": "Fireproof Suit",
+    "type": "armors",
+    "description": "The citizens of Lore needs a symbol. It is your job to keep it alive.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/zmoVnPh.png",
+        "http://i.imgur.com/crg1qum.png"
+    ],
+    "hash": "44ac159ea8ea6c88a7ad3e532b6de03b"
+}

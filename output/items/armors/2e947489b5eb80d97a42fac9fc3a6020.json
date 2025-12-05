@@ -1,0 +1,16 @@
+{
+    "urlName": "fall-fae-ruler",
+    "url": "http://aqwwiki.wikidot.com/fall-fae-ruler",
+    "name": "Fall Fae Ruler",
+    "type": "armors",
+    "description": "The Kings and Queens of the Fall Court dress modestly, bearing flowers and gentle smiles. They welcome their prey with open arms, dragging them deep under the dying leaves.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/WJNiF1S.png",
+        "https://i.imgur.com/BTolV39.png"
+    ],
+    "hash": "2e947489b5eb80d97a42fac9fc3a6020"
+}

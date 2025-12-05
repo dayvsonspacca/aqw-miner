@@ -1,0 +1,17 @@
+{
+    "urlName": "ancient-knight-ac",
+    "url": "http://aqwwiki.wikidot.com/ancient-knight-ac",
+    "name": "Ancient Knight (AC)",
+    "type": "armors",
+    "description": "Long before the Guardian Tower rose in the heart of Battleon, an order of knights roamed the land, dedicated to helping those in need. Now you, too, can fight as they did.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EkVCVJW.png",
+        "https://i.imgur.com/Op7Z3gN.png"
+    ],
+    "hash": "aa42dea74ebdf1bc731cad42e2e8ecf1"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "junior-student-uniform",
+    "url": "http://aqwwiki.wikidot.com/junior-student-uniform",
+    "name": "Junior Student Uniform",
+    "type": "armors",
+    "description": "This uniform is worn by junior school age students in Swordhaven's Hero Academy when they aren't in combat training.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lnZEf28.png",
+        "https://i.imgur.com/NTBCF7a.png"
+    ],
+    "hash": "cdf99608afe515fc5cab17237196a6e4"
+}

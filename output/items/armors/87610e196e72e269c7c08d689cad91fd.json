@@ -1,0 +1,16 @@
+{
+    "urlName": "realm-guardian",
+    "url": "http://aqwwiki.wikidot.com/realm-guardian",
+    "name": "Realm Guardian",
+    "type": "armors",
+    "description": "You have defended the area outside Swordhaven valiantly! King Alteon the Good thanks you, and wishes to reward you with this armor.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/kp4GZ0c.png",
+        "https://i.imgur.com/OFD3Cyd.png"
+    ],
+    "hash": "87610e196e72e269c7c08d689cad91fd"
+}

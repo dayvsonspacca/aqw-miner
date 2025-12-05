@@ -1,0 +1,16 @@
+{
+    "urlName": "vodarage-tank",
+    "url": "http://aqwwiki.wikidot.com/vodarage-tank",
+    "name": "Vodarage Tank",
+    "type": "armors",
+    "description": "Destroy wave after wave of undesirables without a splash of sympathy.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/TxoUyGk.png",
+        "http://i.imgur.com/qS6h74L.png"
+    ],
+    "hash": "044b77257c00f3ff03309f8ab33ae14b"
+}

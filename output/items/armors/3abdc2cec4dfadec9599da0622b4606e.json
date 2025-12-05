@@ -1,0 +1,16 @@
+{
+    "urlName": "glacier-garment",
+    "url": "http://aqwwiki.wikidot.com/glacier-garment",
+    "name": "Glacier Garment",
+    "type": "armors",
+    "description": "Carved out from the remainder of an iceberg, this frozen-solid armor guarantees instant popularity\u2014it's just that cool!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/ZDhOmSH.png",
+        "http://i.imgur.com/2ol0gq8.png"
+    ],
+    "hash": "3abdc2cec4dfadec9599da0622b4606e"
+}

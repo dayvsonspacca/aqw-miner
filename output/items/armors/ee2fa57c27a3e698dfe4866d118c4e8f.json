@@ -1,0 +1,18 @@
+{
+    "urlName": "kanataka-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/kanataka-warrior-armor",
+    "name": "Kanataka Warrior (Armor)",
+    "type": "armors",
+    "description": "The Kanataka Warriors are an elite fighting force which patrol the skies over Yokai Island. They are prepared to slay - or sacrifice - whatever is necessary in order to fulfill their duty.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kanataka-warrior-armor/KanatakaWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/kanataka-warrior-armor/KanatakaWarriorF.png"
+    ],
+    "hash": "ee2fa57c27a3e698dfe4866d118c4e8f"
+}

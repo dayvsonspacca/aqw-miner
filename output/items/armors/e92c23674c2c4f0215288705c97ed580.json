@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-mercenary",
+    "url": "http://aqwwiki.wikidot.com/legion-mercenary",
+    "name": "Legion Mercenary",
+    "type": "armors",
+    "description": "Mercenaries found within Dage's legion, this elite group takes the contracts that no one else will. This time, the contract happens to be on any of Nulgath's followers.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-mercenary/LegionMercenaryM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-mercenary/LegionMercenaryF.png"
+    ],
+    "hash": "e92c23674c2c4f0215288705c97ed580"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "too-slow-slayer",
+    "url": "http://aqwwiki.wikidot.com/too-slow-slayer",
+    "name": "Too-Slow Slayer",
+    "type": "armors",
+    "description": "You were an Undead Trophyhunter\u2026 until the Evil Undead cheated and defeated you. Now you can spend your unlife hunting the trophyhunters!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/too-slow-slayer/TooSlowSlayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/too-slow-slayer/TooSlowSlayerF.png"
+    ],
+    "hash": "18babfc47a83cd3f0934fab6303256b9"
+}

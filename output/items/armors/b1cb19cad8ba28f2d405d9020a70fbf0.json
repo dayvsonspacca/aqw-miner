@@ -1,0 +1,17 @@
+{
+    "urlName": "fairy-tale-wanderer",
+    "url": "http://aqwwiki.wikidot.com/fairy-tale-wanderer",
+    "name": "Fairy Tale Wanderer",
+    "type": "armors",
+    "description": "Join the guild and prepare for amazing adventures with your fellow wanderers!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yd0THGs.png",
+        "https://i.imgur.com/kBijtR2.png"
+    ],
+    "hash": "b1cb19cad8ba28f2d405d9020a70fbf0"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "beige-bandit",
+    "url": "http://aqwwiki.wikidot.com/beige-bandit",
+    "name": "Beige Bandit",
+    "type": "armors",
+    "description": "You fight when the necessity arises. No matter the mood, the monster, or mission.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/tZ80CfF.png",
+        "https://i.imgur.com/x2fZdP6.png"
+    ],
+    "hash": "298a1d415f5b5438ebb159ed5cdcafb2"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "elegaic-mage-legend",
+    "url": "http://aqwwiki.wikidot.com/elegaic-mage-legend",
+    "name": "Elegaic Mage (Legend)",
+    "type": "armors",
+    "description": "From out of the darkness, you hear a whispered chant rise, and fear floods your heart and mind. The Elegaic Mage's power surrounds its victims in the sounds of terror.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/p4rOyEq.png",
+        "https://i.imgur.com/IPfDlEk.png"
+    ],
+    "hash": "2f3229b50cbf3b28517ee74c2f90b059"
+}

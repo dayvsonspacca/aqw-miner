@@ -1,0 +1,16 @@
+{
+    "urlName": "wolf-of-war",
+    "url": "http://aqwwiki.wikidot.com/wolf-of-war",
+    "name": "Wolf of War",
+    "type": "armors",
+    "description": "As member of the Wolf Clan, you possess cunning skills on the battlefield as well as a thirst for blood like the ferocious wolf. Never alone, you and your pack are never short of numbers and are swift to make that final blow!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/Liexgsa.png",
+        "http://i.imgur.com/fvZqhM6.png"
+    ],
+    "hash": "6ce771049787d76e021ba06ae82911b7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "winters-dark-solstice",
+    "url": "http://aqwwiki.wikidot.com/winters-dark-solstice",
+    "name": "Winters Dark Solstice",
+    "type": "armors",
+    "description": "For those who want winter to last all year long.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/winters-dark-solstice/WintersDarkSolsticeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/winters-dark-solstice/WintersDarkSolsticeF.png"
+    ],
+    "hash": "0a3568d91e671896f9243afb6d38a7b0"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "fate-s-archer",
+    "url": "http://aqwwiki.wikidot.com/fate-s-archer",
+    "name": "Fate's Archer",
+    "type": "armors",
+    "description": "Transcendent armor capable of bestowing the wielder with unremarkable power.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/54f8WA3.png",
+        "https://i.imgur.com/1FSrCc1.png",
+        "http://aqwwiki.wdfiles.com/local--files/fate-s-archer/FatesArcherFOld.png"
+    ],
+    "hash": "78e45027ac90eb467efdf78ff2840df4"
+}

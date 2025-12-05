@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-skullseeker",
+    "url": "http://aqwwiki.wikidot.com/legion-skullseeker",
+    "name": "Legion SkullSeeker",
+    "type": "armors",
+    "description": "An uncontrollable urge to collect skulls consumes your soul. You are an Undead Legion SkullSeeker, destined to prove your worth to Dage the Evil himself.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-skullseeker/LegionSkullseekerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-skullseeker/LegionSkullseekerF.png"
+    ],
+    "hash": "620b2faa1d2afb2d773c21cd3f1f61f4"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "beast-summoner",
+    "url": "http://aqwwiki.wikidot.com/beast-summoner",
+    "name": "Beast Summoner",
+    "type": "armors",
+    "description": "Ursine mages able to wield the magic of the Celestial Realm are rare, but incredibly powerful. Cross them, and the results will be un-bear-ably painful.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/tl4hpkV.png",
+        "https://i.imgur.com/k9XFNbq.png"
+    ],
+    "hash": "8fde21454e8e2fc645cd5e6f227c2680"
+}

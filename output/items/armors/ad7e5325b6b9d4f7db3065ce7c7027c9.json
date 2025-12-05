@@ -1,0 +1,16 @@
+{
+    "urlName": "giftbox-armor",
+    "url": "http://aqwwiki.wikidot.com/giftbox-armor",
+    "name": "Giftbox (Armor)",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/giftbox-armor/GiftboxArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/giftbox-armor/GiftboxArmorF.png"
+    ],
+    "hash": "ad7e5325b6b9d4f7db3065ce7c7027c9"
+}

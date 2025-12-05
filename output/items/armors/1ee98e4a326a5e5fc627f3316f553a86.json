@@ -1,0 +1,17 @@
+{
+    "urlName": "playa",
+    "url": "http://aqwwiki.wikidot.com/playa",
+    "name": "Playa",
+    "type": "armors",
+    "description": "Oh snap! All you need is a sundial around your neck to show what type of playa you truly are!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/playa/PlayaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/playa/PlayaF.png"
+    ],
+    "hash": "1ee98e4a326a5e5fc627f3316f553a86"
+}

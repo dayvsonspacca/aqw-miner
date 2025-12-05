@@ -1,0 +1,19 @@
+{
+    "urlName": "rose-ebil-ninja",
+    "url": "http://aqwwiki.wikidot.com/rose-ebil-ninja",
+    "name": "Rose Ebil Ninja",
+    "type": "armors",
+    "description": "They may be dressed for a wedding, but they're ready for a fight!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/pBaSD05.png",
+        "http://i.imgur.com/t8UjTmK.png",
+        "https://i.imgur.com/5E7FaCT.png"
+    ],
+    "hash": "1e55cb6be7ef6c95a17a315de119d643"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "underworld-berserker",
+    "url": "http://aqwwiki.wikidot.com/underworld-berserker",
+    "name": "Underworld Berserker",
+    "type": "armors",
+    "description": "Manically fiends of the Legion, these creatures take no prisoners in battle. (Item goes rare June 30th, 2020)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/XPXtCiT.png",
+        "https://i.imgur.com/xs9feO8.png",
+        "https://i.imgur.com/rUyH1aQ.png",
+        "https://i.imgur.com/s3Bt9cE.png"
+    ],
+    "hash": "d3e27bce8a21625e362f3e604ac68a60"
+}

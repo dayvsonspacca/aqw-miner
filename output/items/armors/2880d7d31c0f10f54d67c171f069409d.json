@@ -1,0 +1,17 @@
+{
+    "urlName": "obsidian-cryomancer-ac",
+    "url": "http://aqwwiki.wikidot.com/obsidian-cryomancer-ac",
+    "name": "Obsidian Cryomancer (AC)",
+    "type": "armors",
+    "description": "Unleash the power of dark ice and snow! Freeze your enemies on the spot, making them shiver in fear. Let it go since the cold never bothered you anyways.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/oOzkEo9.png",
+        "https://i.imgur.com/drXRgfF.png"
+    ],
+    "hash": "2880d7d31c0f10f54d67c171f069409d"
+}

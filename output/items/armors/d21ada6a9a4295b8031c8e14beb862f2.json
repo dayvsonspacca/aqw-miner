@@ -1,0 +1,16 @@
+{
+    "urlName": "arachnofury",
+    "url": "http://aqwwiki.wikidot.com/arachnofury",
+    "name": "ArachnoFury",
+    "type": "armors",
+    "description": "Sling around the web fighting villains and staying away from newsmen who demand pictures.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/9ogd3Aw.png",
+        "https://i.imgur.com/xADwlNy.png"
+    ],
+    "hash": "d21ada6a9a4295b8031c8e14beb862f2"
+}

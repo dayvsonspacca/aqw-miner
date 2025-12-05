@@ -1,0 +1,16 @@
+{
+    "urlName": "samurai-panda",
+    "url": "http://aqwwiki.wikidot.com/samurai-panda",
+    "name": "Samurai Panda",
+    "type": "armors",
+    "description": "Strange things happen on Yokai Isle\u2026 Even the pandas can become Samuari!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/fKE1THQ.png",
+        "https://i.imgur.com/4EwHb3q.png"
+    ],
+    "hash": "c95a40cb44865cd5777debb415a65f0e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "elegant-courtly-attire",
+    "url": "http://aqwwiki.wikidot.com/elegant-courtly-attire",
+    "name": "Elegant Courtly Attire",
+    "type": "armors",
+    "description": "The ornate fashion currently favored by the noble court of Swordhaven. Skilled tailors often create clothes for the nobility first, before the style catches on with the wealthy citizens of the capital.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/Q44GPQW.png",
+        "https://imgur.com/8RncyBl.png"
+    ],
+    "hash": "a05063c63a1fded7e0d819e3b503fb5a"
+}

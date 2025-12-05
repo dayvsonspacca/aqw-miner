@@ -1,0 +1,16 @@
+{
+    "urlName": "void-nation-ritualist",
+    "url": "http://aqwwiki.wikidot.com/void-nation-ritualist",
+    "name": "Void Nation Ritualist",
+    "type": "armors",
+    "description": "The arcane practices of the Nation are impossible to master in one lifetime. The Ritualists circumvent this obstacle by engraving spells into their very being. They exchange individuality for magnificent power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/ocYnX8K.png",
+        "https://i.imgur.com/BTs2DkC.png"
+    ],
+    "hash": "ffd3e45ad92298bd6be92256919f8067"
+}

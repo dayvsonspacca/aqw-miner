@@ -1,0 +1,16 @@
+{
+    "urlName": "fiend-of-light",
+    "url": "http://aqwwiki.wikidot.com/fiend-of-light",
+    "name": "Fiend of Light",
+    "type": "armors",
+    "description": "Fiends who have fallen but still try to uphold the power of the Light. Keeping the forces of Darkness away while fighting not to succumb to it's grasp.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/WgBUK4o.png",
+        "https://i.imgur.com/nMdJvJT.png"
+    ],
+    "hash": "e54cbbd72e9ac7bb46d8950c441f7359"
+}

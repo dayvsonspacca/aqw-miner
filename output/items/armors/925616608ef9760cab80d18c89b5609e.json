@@ -1,0 +1,17 @@
+{
+    "urlName": "sanguine-vampire-ac",
+    "url": "http://aqwwiki.wikidot.com/sanguine-vampire-ac",
+    "name": "Sanguine Vampire (AC)",
+    "type": "armors",
+    "description": "To truly experience the life of a Vampire, one must dress the part.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/nVJw3Nt.png",
+        "https://i.imgur.com/Z2ICfbF.png"
+    ],
+    "hash": "925616608ef9760cab80d18c89b5609e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "bandit-armor",
+    "url": "http://aqwwiki.wikidot.com/bandit-armor",
+    "name": "Bandit Armor",
+    "type": "armors",
+    "description": "What the bandits wore during the age of yore.. in Lore.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/cZyo1Mq.png",
+        "https://i.imgur.com/jTSzZkw.png"
+    ],
+    "hash": "70961a7deb1ce3dfeda3ba8e85d3c343"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "regal-pirate-fleet",
+    "url": "http://aqwwiki.wikidot.com/regal-pirate-fleet",
+    "name": "Regal Pirate Fleet",
+    "type": "armors",
+    "description": "With such regal bearing, none will question your right to command either ship or crew.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YpLUjfm.png",
+        "https://i.imgur.com/XQR9JbH.png"
+    ],
+    "hash": "58fef9005c1700f7bee60d353a12cd25"
+}

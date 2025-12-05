@@ -1,0 +1,14 @@
+{
+    "urlName": "sdf-rebel",
+    "url": "http://aqwwiki.wikidot.com/sdf-rebel",
+    "name": "SDF Rebel",
+    "type": "armors",
+    "description": "Granted to those who defended the world from the Shadowscythe, this battlesuit is meant for those who are ready to fight back!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/SJ7g4ae.png",
+        "http://i.imgur.com/pPOGiiz.png"
+    ],
+    "hash": "ba30c4f054ca807485417ddfc47f09af"
+}

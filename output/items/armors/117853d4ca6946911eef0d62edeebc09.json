@@ -1,0 +1,17 @@
+{
+    "urlName": "fallenfire-mage",
+    "url": "http://aqwwiki.wikidot.com/fallenfire-mage",
+    "name": "FallenFire Mage",
+    "type": "armors",
+    "description": "Fire infuses your veins, wrapping around your hands so when danger approaches you are ready to strike.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallenfire-mage/FallenFireMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fallenfire-mage/FallenFireMageF.png"
+    ],
+    "hash": "117853d4ca6946911eef0d62edeebc09"
+}

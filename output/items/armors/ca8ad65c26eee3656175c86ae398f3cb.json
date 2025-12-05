@@ -1,0 +1,16 @@
+{
+    "urlName": "white-mage",
+    "url": "http://aqwwiki.wikidot.com/white-mage",
+    "name": "White Mage",
+    "type": "armors",
+    "description": "The Magi that serve the Lords of Order must be of the purest heart and hence known as a White Mage.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/lKAkGE0.png",
+        "https://i.imgur.com/6lfmaoE.png"
+    ],
+    "hash": "ca8ad65c26eee3656175c86ae398f3cb"
+}

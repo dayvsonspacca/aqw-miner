@@ -1,0 +1,17 @@
+{
+    "urlName": "void-recruit",
+    "url": "http://aqwwiki.wikidot.com/void-recruit",
+    "name": "Void Recruit",
+    "type": "armors",
+    "description": "Nulgath the ArchFiend calls only the strongest to serve him. To become a recruit, one must be among Lore's greatest, most evil heroes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/S7pzyza.png",
+        "https://i.imgur.com/mm86g8f.png"
+    ],
+    "hash": "0344c3432a8c82452aa8568792f85469"
+}

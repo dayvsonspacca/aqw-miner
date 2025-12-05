@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-iced-jester",
+    "url": "http://aqwwiki.wikidot.com/dark-iced-jester",
+    "name": "Dark Iced Jester",
+    "type": "armors",
+    "description": "Just because it is cold outside, doesn't mean that we can't have a laugh or two. Of course, that laughter is at the expense of the enemies you take down in this armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Z6pj6qp.png",
+        "https://i.imgur.com/cXdlkgb.png"
+    ],
+    "hash": "1a380aad85980cb0a156caecf7293d7a"
+}

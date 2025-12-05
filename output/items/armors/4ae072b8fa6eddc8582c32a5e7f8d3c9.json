@@ -1,0 +1,17 @@
+{
+    "urlName": "wretched-ghoul",
+    "url": "http://aqwwiki.wikidot.com/wretched-ghoul",
+    "name": "Wretched Ghoul",
+    "type": "armors",
+    "description": "With armor this ghoulish, you'll fit right in at the carnival of corpses.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wretched-ghoul/WretchedGhoulM.png",
+        "http://aqwwiki.wdfiles.com/local--files/wretched-ghoul/WretchedGhoulF.png"
+    ],
+    "hash": "4ae072b8fa6eddc8582c32a5e7f8d3c9"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "quantum-chronomancer-armor",
+    "url": "http://aqwwiki.wikidot.com/quantum-chronomancer-armor",
+    "name": "Quantum Chronomancer (Armor)",
+    "type": "armors",
+    "description": "For as long as heroes have existed, Chronomancers have traversed space and time. Quantum Chronomancers have mastered the ability to cross between universes and ages.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/lkgcvzY.png",
+        "https://i.imgur.com/TvSe85D.png",
+        "https://i.imgur.com/ICJDxnY.png",
+        "https://i.imgur.com/2YXX2lZ.png"
+    ],
+    "hash": "8461f1fe1f0a502d544523c77d4152a0"
+}

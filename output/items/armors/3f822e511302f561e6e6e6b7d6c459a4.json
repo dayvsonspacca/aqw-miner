@@ -1,0 +1,18 @@
+{
+    "urlName": "golden-chrono-dragonknight",
+    "url": "http://aqwwiki.wikidot.com/golden-chrono-dragonknight",
+    "name": "Golden Chrono DragonKnight",
+    "type": "armors",
+    "description": "The power of a DragonKnight combined with steampunk technology? Look out Lore, here comes awesome.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-chrono-dragonknight/GoldenChronoDragonknightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-chrono-dragonknight/GoldenChronoDragonknightF.png"
+    ],
+    "hash": "3f822e511302f561e6e6e6b7d6c459a4"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "imperium-leo",
+    "url": "http://aqwwiki.wikidot.com/imperium-leo",
+    "name": "Imperium Leo",
+    "type": "armors",
+    "description": "This armor belongs to high ranking officers of the Aegis imperial guard. As a warrior of justice, you've chosen to follow in their footsteps and earned the right to stand among their ranks.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/xNdJt9m.png",
+        "http://imgur.com/0YeqLIm.png"
+    ],
+    "hash": "dc4abee3a8ac43a218c43ba6e7b60fbd"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "adorable-nemesis",
+    "url": "http://aqwwiki.wikidot.com/adorable-nemesis",
+    "name": "Adorable Nemesis",
+    "type": "armors",
+    "description": "Encased in a lovely-pink bone, the flower fueling this armor is so precious it's adorable.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/adorable-nemesis/AdorableNemesisMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/adorable-nemesis/AdorableNemesisFemale.png"
+    ],
+    "hash": "5be211826511bf62e30a5f6419d49ba4"
+}

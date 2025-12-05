@@ -1,0 +1,16 @@
+{
+    "urlName": "traveling-bard",
+    "url": "http://aqwwiki.wikidot.com/traveling-bard",
+    "name": "Traveling Bard",
+    "type": "armors",
+    "description": "If you wish to travel the world as a bard, you have got to look #!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/RWe1hyO.png",
+        "https://i.imgur.com/93ThHkz.png"
+    ],
+    "hash": "e4a7694a1a6b38aaa13774ad5e03304f"
+}

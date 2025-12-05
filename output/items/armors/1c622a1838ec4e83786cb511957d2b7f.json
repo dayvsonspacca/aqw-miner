@@ -1,0 +1,17 @@
+{
+    "urlName": "pinkie-panda",
+    "url": "http://aqwwiki.wikidot.com/pinkie-panda",
+    "name": "Pinkie Panda",
+    "type": "armors",
+    "description": "A strawberry flavored panda themed outfit with a hint of rough and tumble. Delight is found in the contrast.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/z0jt20N.png",
+        "https://i.imgur.com/hWahXdP.png"
+    ],
+    "hash": "1c622a1838ec4e83786cb511957d2b7f"
+}

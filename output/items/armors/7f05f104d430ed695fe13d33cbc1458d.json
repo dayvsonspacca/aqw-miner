@@ -1,0 +1,19 @@
+{
+    "urlName": "paragon-of-love",
+    "url": "http://aqwwiki.wikidot.com/paragon-of-love",
+    "name": "Paragon of Love",
+    "type": "armors",
+    "description": "Here to fight the evil of a broken heart! Villains, beware!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paragon-of-love/ParagonofLoveM.png",
+        "http://aqwwiki.wdfiles.com/local--files/paragon-of-love/ParagonofLoveMHC.png",
+        "http://aqwwiki.wdfiles.com/local--files/paragon-of-love/ParagonofLoveF.png",
+        "http://aqwwiki.wdfiles.com/local--files/paragon-of-love/ParagonofLoveFHC.png"
+    ],
+    "hash": "7f05f104d430ed695fe13d33cbc1458d"
+}

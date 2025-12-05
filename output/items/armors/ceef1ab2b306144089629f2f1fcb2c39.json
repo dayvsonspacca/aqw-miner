@@ -1,0 +1,17 @@
+{
+    "urlName": "ravin-legion-raven",
+    "url": "http://aqwwiki.wikidot.com/ravin-legion-raven",
+    "name": "Ravin' Legion Raven",
+    "type": "armors",
+    "description": "Not even the mysterious wraiths that lurk in the depths of the underworld are immune to Beleen's pink touch. At a brighter color, they are more predictable and easier to spot, causing surprise attacks to become inconvenient. (Suggested by JoeyGotBored)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ravin-legion-raven/Ravin'LegionRavenM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ravin-legion-raven/Ravin'LegionRavenF.png"
+    ],
+    "hash": "ceef1ab2b306144089629f2f1fcb2c39"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-witchy",
+    "url": "http://aqwwiki.wikidot.com/dark-witchy",
+    "name": "Dark & Witchy",
+    "type": "armors",
+    "description": "The one time of year when people don't look askance at your wonderful dark and witchy outfits.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/ptGZKFc.png",
+        "https://imgur.com/BZctdEB.png"
+    ],
+    "hash": "5c7ce1e814d8af54455eeb0a31ff46c6"
+}

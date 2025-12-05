@@ -1,0 +1,17 @@
+{
+    "urlName": "northland-slasher",
+    "url": "http://aqwwiki.wikidot.com/northland-slasher",
+    "name": "Northland Slasher",
+    "type": "armors",
+    "description": "All the debonair rogue slasher's still have to look good.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/nAhcGUS.png",
+        "https://i.imgur.com/N9IQ5sh.png"
+    ],
+    "hash": "57211662671555c9b8656ff9fc223886"
+}

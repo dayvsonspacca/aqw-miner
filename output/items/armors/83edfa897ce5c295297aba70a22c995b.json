@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-giftbearer",
+    "url": "http://aqwwiki.wikidot.com/festive-giftbearer",
+    "name": "Festive Giftbearer",
+    "type": "armors",
+    "description": "When delivering Frostval gifts, it's always a good idea to dress the part!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/y4bG9cb.png",
+        "https://i.imgur.com/TgOKIlf.png"
+    ],
+    "hash": "83edfa897ce5c295297aba70a22c995b"
+}

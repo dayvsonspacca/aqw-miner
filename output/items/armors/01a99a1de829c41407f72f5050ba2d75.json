@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-cultist-armor",
+    "url": "http://aqwwiki.wikidot.com/shadow-cultist-armor",
+    "name": "Shadow Cultist Armor",
+    "type": "armors",
+    "description": "These devote followers of Shrade truly believe he exists and stalks the ground of Champ Gonnagetcha.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/tdZHcLf.png",
+        "https://i.imgur.com/qwpkx73.png"
+    ],
+    "hash": "01a99a1de829c41407f72f5050ba2d75"
+}

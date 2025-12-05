@@ -1,0 +1,16 @@
+{
+    "urlName": "jack-rabbit",
+    "url": "http://aqwwiki.wikidot.com/jack-rabbit",
+    "name": "Jack Rabbit",
+    "type": "armors",
+    "description": "Don't let the fur fool you. Claw, spit, rip and tear your way through the bad guys. Fight dirty and be proud of it! No one will ever see it coming. I mean, come on, who ever suspects the bunny?",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/SDqDnyP.png",
+        "http://i.imgur.com/ni17MeU.png"
+    ],
+    "hash": "4282fbe9aebb361bf84bc9d97dc5de28"
+}

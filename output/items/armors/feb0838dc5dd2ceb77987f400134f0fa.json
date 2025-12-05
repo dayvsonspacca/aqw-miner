@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-avenger-armor",
+    "url": "http://aqwwiki.wikidot.com/celestial-avenger-armor",
+    "name": "Celestial Avenger Armor",
+    "type": "armors",
+    "description": "Only the purest warriors may become Celestial Avengers. The armor reflects the color of the sky on a clear morning, so every day the warriors may be ready to defend their realm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/celestial-avenger-armor/CelestialAvengerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/celestial-avenger-armor/CelestialAvengerF.png"
+    ],
+    "hash": "feb0838dc5dd2ceb77987f400134f0fa"
+}

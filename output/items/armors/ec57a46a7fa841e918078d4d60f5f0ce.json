@@ -1,0 +1,18 @@
+{
+    "urlName": "timedragon-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/timedragon-warrior-armor",
+    "name": "Timedragon Warrior (Armor)",
+    "type": "armors",
+    "description": "The time dragon thanks you for your valiant efforts defending its life!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/timedragon-warrior-armor/TimedragonWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/timedragon-warrior-armor/TimedragonWarriorF.png"
+    ],
+    "hash": "ec57a46a7fa841e918078d4d60f5f0ce"
+}

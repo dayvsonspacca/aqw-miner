@@ -1,0 +1,16 @@
+{
+    "urlName": "yokai-senshi",
+    "url": "http://aqwwiki.wikidot.com/yokai-senshi",
+    "name": "Yokai Senshi",
+    "type": "armors",
+    "description": "The soldiers of Yokai Isle.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/G8FlsEh.png",
+        "https://imgur.com/MnornXR.png"
+    ],
+    "hash": "5d7acd715e9e8c9e0dfd7f0798cd96c5"
+}

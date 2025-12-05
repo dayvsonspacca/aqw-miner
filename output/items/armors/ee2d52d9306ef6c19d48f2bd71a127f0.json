@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-rogue",
+    "url": "http://aqwwiki.wikidot.com/nation-rogue",
+    "name": "Nation Rogue",
+    "type": "armors",
+    "description": "A simple knife is all this Rogue needs to fulfil their end of the contract. After that, they stay with the Nation for the perks. There's a lot of blood out there, and it's easier to hunt when you're a Fiend.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Epd791m.png",
+        "https://i.imgur.com/ZjEa30H.png"
+    ],
+    "hash": "ee2d52d9306ef6c19d48f2bd71a127f0"
+}

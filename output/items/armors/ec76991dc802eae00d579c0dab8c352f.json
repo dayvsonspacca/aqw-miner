@@ -1,0 +1,16 @@
+{
+    "urlName": "troll-warrior",
+    "url": "http://aqwwiki.wikidot.com/troll-warrior",
+    "name": "Troll Warrior",
+    "type": "armors",
+    "description": "This armor is bestowed only to the most legendary of seasoned Troll Warriors. Songs and epic tales will be told of your adventures!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/ZM81FuP.png",
+        "https://i.imgur.com/IBZrfoq.png"
+    ],
+    "hash": "ec76991dc802eae00d579c0dab8c352f"
+}

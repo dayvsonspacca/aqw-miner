@@ -1,0 +1,16 @@
+{
+    "urlName": "gate-keeper",
+    "url": "http://aqwwiki.wikidot.com/gate-keeper",
+    "name": "Gate Keeper",
+    "type": "armors",
+    "description": "No one knows what gate this fiendish wraith is guarding\u2026 but no one has been brave enough to ever find out. The runes are color custom to match your devious soul. Inspired by your fellow player, Revontheus!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/gnr8tEE.png",
+        "http://i.imgur.com/XnQG5hm.png"
+    ],
+    "hash": "f4be180bd40670986a57a04301bbfafc"
+}

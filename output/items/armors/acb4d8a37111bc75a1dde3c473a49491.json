@@ -1,0 +1,16 @@
+{
+    "urlName": "heart-streamer",
+    "url": "http://aqwwiki.wikidot.com/heart-streamer",
+    "name": "Heart Streamer",
+    "type": "armors",
+    "description": "Wear this during your next Let's Play stream and your followers will love you! (And your subs will skyrocket.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hAfMTIu.png",
+        "https://i.imgur.com/H72UzXQ.png"
+    ],
+    "hash": "acb4d8a37111bc75a1dde3c473a49491"
+}

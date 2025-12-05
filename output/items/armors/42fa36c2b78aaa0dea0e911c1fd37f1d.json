@@ -1,0 +1,17 @@
+{
+    "urlName": "hollowink-garb",
+    "url": "http://aqwwiki.wikidot.com/hollowink-garb",
+    "name": "Hollowink Garb",
+    "type": "armors",
+    "description": "Crafted in honor of legendary designer iTeka's birthday, made from a rare, highly desirable inky-black fabric with mysterious powers.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6ADJcfS.png",
+        "https://i.imgur.com/kvyq68L.png"
+    ],
+    "hash": "42fa36c2b78aaa0dea0e911c1fd37f1d"
+}

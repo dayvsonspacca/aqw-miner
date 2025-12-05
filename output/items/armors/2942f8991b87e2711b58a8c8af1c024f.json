@@ -1,0 +1,17 @@
+{
+    "urlName": "heartthrob",
+    "url": "http://aqwwiki.wikidot.com/heartthrob",
+    "name": "HeartThrob",
+    "type": "armors",
+    "description": "Just because you wear your heart on your sleeve doesn't mean you will go down easily! What monster wouldn't hesitate when it sees your bold proclamation.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/heartthrob/HeartThrobM.png",
+        "http://aqwwiki.wdfiles.com/local--files/heartthrob/HeartThrobF.png"
+    ],
+    "hash": "2942f8991b87e2711b58a8c8af1c024f"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "zard-self",
+    "url": "http://aqwwiki.wikidot.com/zard-self",
+    "name": "Zard Self",
+    "type": "armors",
+    "description": "After the Embero Spell was cast, it was revealed that your true inner form is that of a zard! You possess cold, cunning logic, sharp teeth, ad fierce determination to survive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/zSR03Hc.png",
+        "https://i.imgur.com/MTUsZFc.png"
+    ],
+    "hash": "0caf077923517d2bfe39c66ac35c449e"
+}

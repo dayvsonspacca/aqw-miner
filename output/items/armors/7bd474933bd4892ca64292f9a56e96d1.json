@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-forest-rogue",
+    "url": "http://aqwwiki.wikidot.com/enchanted-forest-rogue",
+    "name": "Enchanted Forest Rogue",
+    "type": "armors",
+    "description": "With your bow and arrow, you patrol the forest taking from the rich and defending the poor. The villagers are so thankful you are near.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/oPwfd3p.png",
+        "https://imgur.com/VAaE2JU.png"
+    ],
+    "hash": "7bd474933bd4892ca64292f9a56e96d1"
+}

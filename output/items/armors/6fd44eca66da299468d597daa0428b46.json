@@ -1,0 +1,17 @@
+{
+    "urlName": "mobius-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/mobius-naval-commander-ac",
+    "name": "Mobius Naval Commander (AC)",
+    "type": "armors",
+    "description": "Many have heard of the Bermuda Triangle. But on Lore, stare too deeply into the heart of the Runix Cube and you'll be mesmerized, doomed to sail off into the unknown, never to return again.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uW6w8EK.png",
+        "https://i.imgur.com/qkL0Bsa.png"
+    ],
+    "hash": "6fd44eca66da299468d597daa0428b46"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "ignus-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/ignus-warrior-ac",
+    "name": "Ignus Warrior (AC)",
+    "type": "armors",
+    "description": "\"Fire to strengthen, fire to blind, fire to scorch the unwary mind\u2026\" Ignus warriors draw strength from the barely-tamed molten trapped inside cooled lava rock.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/V1LLfDD.png",
+        "https://i.imgur.com/hftWnpE.png"
+    ],
+    "hash": "65bda13acaeec141b35b8acb9f7463ce"
+}

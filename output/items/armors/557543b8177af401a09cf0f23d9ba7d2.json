@@ -1,0 +1,17 @@
+{
+    "urlName": "wind-weaver",
+    "url": "http://aqwwiki.wikidot.com/wind-weaver",
+    "name": "Wind Weaver",
+    "type": "armors",
+    "description": "The gentle flow of air, the curl of the wind devil, the ferocity of the tornado, all such glorious aspects of the power of the wind. Imagine standing before a mighty throng, enemies until the end, and weaving the very air into a weapon that would decimate these mighty in a heartbeat, all within the comfort of a wind-infused armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wind-weaver/WindWeaverM.png",
+        "http://aqwwiki.wdfiles.com/local--files/wind-weaver/WindWeaverF.png"
+    ],
+    "hash": "557543b8177af401a09cf0f23d9ba7d2"
+}

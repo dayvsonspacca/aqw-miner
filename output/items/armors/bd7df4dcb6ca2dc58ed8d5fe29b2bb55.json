@@ -1,0 +1,17 @@
+{
+    "urlName": "necrayaya-armor",
+    "url": "http://aqwwiki.wikidot.com/necrayaya-armor",
+    "name": "Necrayaya Armor",
+    "type": "armors",
+    "description": "Celebrate Cinco de Mayo! When the band is made up of undead mariachi musicians, the /party will NEVER stop!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/OPEGYp9.png",
+        "https://i.imgur.com/MyAAebP.png"
+    ],
+    "hash": "bd7df4dcb6ca2dc58ed8d5fe29b2bb55"
+}

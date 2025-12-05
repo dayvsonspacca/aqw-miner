@@ -1,0 +1,16 @@
+{
+    "urlName": "orange-karategi",
+    "url": "http://aqwwiki.wikidot.com/orange-karategi",
+    "name": "Orange Karategi",
+    "type": "armors",
+    "description": "Made of light canvas cloth, the gi maximizes mobility and speed. The orange material represents knowledge and the love of carrots!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/jkysUNK.png",
+        "https://i.imgur.com/RWVaSS3.png"
+    ],
+    "hash": "e374019c5c33367934a4b0bdd47f8961"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "helsgrove-guardian",
+    "url": "http://aqwwiki.wikidot.com/helsgrove-guardian",
+    "name": "Helsgrove Guardian",
+    "type": "armors",
+    "description": "Helsgrove Guardians protect their mistress, Helsdottir, as she hunts down fools trying to outrun her retribution.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fYt6OKB.png",
+        "https://i.imgur.com/eJrDU3n.png"
+    ],
+    "hash": "5c8287192cef4965fa3304ba619627cf"
+}

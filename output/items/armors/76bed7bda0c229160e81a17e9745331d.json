@@ -1,0 +1,19 @@
+{
+    "urlName": "war-lycan-armor",
+    "url": "http://aqwwiki.wikidot.com/war-lycan-armor",
+    "name": "War Lycan Armor",
+    "type": "armors",
+    "description": "We are Legion",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/war-lycan-armor/WarLycanArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/war-lycan-armor/WarLycanArmorMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/war-lycan-armor/WarLycanArmorF.png",
+        "http://aqwwiki.wdfiles.com/local--files/war-lycan-armor/WarLycanArmorFOld.png"
+    ],
+    "hash": "76bed7bda0c229160e81a17e9745331d"
+}

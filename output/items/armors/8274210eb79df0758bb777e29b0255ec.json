@@ -1,0 +1,16 @@
+{
+    "urlName": "galactic-cheerleader",
+    "url": "http://aqwwiki.wikidot.com/galactic-cheerleader",
+    "name": "Galactic Cheerleader",
+    "type": "armors",
+    "description": "Now you can /cheer for your favorite superstars, no matter where in the universe you are!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/eAn0sMl.png",
+        "https://i.imgur.com/J30fnAB.png"
+    ],
+    "hash": "8274210eb79df0758bb777e29b0255ec"
+}

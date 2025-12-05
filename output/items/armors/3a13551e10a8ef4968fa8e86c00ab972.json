@@ -1,0 +1,16 @@
+{
+    "urlName": "sailor-mate",
+    "url": "http://aqwwiki.wikidot.com/sailor-mate",
+    "name": "Sailor Mate",
+    "type": "armors",
+    "description": "All hands on deck! What is a ship without its crew? A large sea dwelling vessel - thats what!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sailor-mate/SailorMateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sailor-mate/SailorMateF.png"
+    ],
+    "hash": "3a13551e10a8ef4968fa8e86c00ab972"
+}

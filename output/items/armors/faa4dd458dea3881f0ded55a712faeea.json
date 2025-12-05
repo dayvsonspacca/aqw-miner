@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-varsity-uniform",
+    "url": "http://aqwwiki.wikidot.com/nation-varsity-uniform",
+    "name": "Nation Varsity Uniform",
+    "type": "armors",
+    "description": "Rah rah rah! #Team Fiend Nation! (Requires Rank 10 Evil)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/3kYVfVt.png",
+        "https://i.imgur.com/86Gk4C5.png"
+    ],
+    "hash": "faa4dd458dea3881f0ded55a712faeea"
+}

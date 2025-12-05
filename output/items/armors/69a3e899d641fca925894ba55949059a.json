@@ -1,0 +1,17 @@
+{
+    "urlName": "reog-companion",
+    "url": "http://aqwwiki.wikidot.com/reog-companion",
+    "name": "Reog Companion",
+    "type": "armors",
+    "description": "You may not lead the dance, but every Warok knows the power of loyalty. Wear this attire to show your strength as a trusted companion in the legend.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fNZfTSg.png",
+        "https://i.imgur.com/fRuljx7.png"
+    ],
+    "hash": "69a3e899d641fca925894ba55949059a"
+}

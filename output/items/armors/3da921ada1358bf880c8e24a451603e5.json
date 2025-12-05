@@ -1,0 +1,16 @@
+{
+    "urlName": "elegant-masquerade",
+    "url": "http://aqwwiki.wikidot.com/elegant-masquerade",
+    "name": "Elegant Masquerade",
+    "type": "armors",
+    "description": "The Sheevra Masquerade party is the BEST excuse for dressing up.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TxyJzQS.png",
+        "https://i.imgur.com/OLFO3AS.png"
+    ],
+    "hash": "3da921ada1358bf880c8e24a451603e5"
+}

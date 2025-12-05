@@ -1,0 +1,17 @@
+{
+    "urlName": "true-neutral-hero",
+    "url": "http://aqwwiki.wikidot.com/true-neutral-hero",
+    "name": "True Neutral Hero",
+    "type": "armors",
+    "description": "True neutral heroes are able to see both sides of an argument, and base their tactics and decisions on pure, unadulterated logic. They are cool and calculating and deadly.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bVvAMsU.png",
+        "https://i.imgur.com/0yTMxyE.png"
+    ],
+    "hash": "010f8ac9f5685060d74870756cdff249"
+}

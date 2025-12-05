@@ -1,0 +1,17 @@
+{
+    "urlName": "void-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/void-of-nulgath",
+    "name": "Void of Nulgath",
+    "type": "armors",
+    "description": "Nulgath ranks you Void Knight and bestows a portion of his power to you. You are enveloped by sinister magic and become a creature of destruction! And all this for just a small portion of your soul! The part you don't need of course. (color custom: eyes, trim, accessory)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-of-nulgath/VoidofNulgathM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-of-nulgath/VoidofNulgathF.png"
+    ],
+    "hash": "ead8c9b3c6db30029788911a545b63a0"
+}

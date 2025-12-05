@@ -1,0 +1,18 @@
+{
+    "urlName": "fallen-wanderer-special",
+    "url": "http://aqwwiki.wikidot.com/fallen-wanderer-special",
+    "name": "Fallen Wanderer (Special)",
+    "type": "armors",
+    "description": "Cold? Bah! Who's cold with all this armor on? You think you have the guts to wander the Northlands? Well bring on the cold!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/GqF4uee.png",
+        "https://i.imgur.com/fsfzHC4.png"
+    ],
+    "hash": "07fe9a853a379cf30f75a26482c6d4f8"
+}

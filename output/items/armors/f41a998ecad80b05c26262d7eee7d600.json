@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-wizard",
+    "url": "http://aqwwiki.wikidot.com/undead-wizard",
+    "name": "Undead Wizard",
+    "type": "armors",
+    "description": "An Undead Wizard is to a Necromancer as a painting of a Mage is to an artist. But don't flatter yourself\u2014you're not nearly as pretty as a painting.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/rjQDy0h.png",
+        "https://i.imgur.com/WSj0weC.png"
+    ],
+    "hash": "f41a998ecad80b05c26262d7eee7d600"
+}

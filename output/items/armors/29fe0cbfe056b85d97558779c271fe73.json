@@ -1,0 +1,18 @@
+{
+    "urlName": "ebil-kaiju-scientist",
+    "url": "http://aqwwiki.wikidot.com/ebil-kaiju-scientist",
+    "name": "Ebil Kaiju Scientist",
+    "type": "armors",
+    "description": "Made from breathable and resiliant material, able to protect you from all of the safety violations committed in Ebil Corp's Titan research labs. Not teeth, claw, energybeam or pastel paint-proof.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/qdrVK6w.png",
+        "https://imgur.com/bRufk2Y.png"
+    ],
+    "hash": "29fe0cbfe056b85d97558779c271fe73"
+}

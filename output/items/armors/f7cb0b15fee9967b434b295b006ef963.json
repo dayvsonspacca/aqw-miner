@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-dancer",
+    "url": "http://aqwwiki.wikidot.com/shadow-dancer",
+    "name": "Shadow Dancer",
+    "type": "armors",
+    "description": "Dark, mysterious and full of emotion, you will surprise even the most observant enemy when you emerge from the shadows and brandish your weapon. All you have to do is dance on its grace when the deed is done.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/RcRGBWF.png",
+        "https://i.imgur.com/VIAw8hQ.png"
+    ],
+    "hash": "f7cb0b15fee9967b434b295b006ef963"
+}

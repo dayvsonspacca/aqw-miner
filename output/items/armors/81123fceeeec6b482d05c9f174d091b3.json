@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-hydraslayer",
+    "url": "http://aqwwiki.wikidot.com/chaos-hydraslayer",
+    "name": "Chaos HydraSlayer",
+    "type": "armors",
+    "description": "Crafted from the scales of the Hydra, everyone will know which gallant warrior slayed the ferocious beast!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/UoyeAw9.png",
+        "https://i.imgur.com/2tCm5NO.png"
+    ],
+    "hash": "81123fceeeec6b482d05c9f174d091b3"
+}

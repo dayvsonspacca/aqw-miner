@@ -1,0 +1,17 @@
+{
+    "urlName": "aqueduct-conjurer",
+    "url": "http://aqwwiki.wikidot.com/aqueduct-conjurer",
+    "name": "Aqueduct Conjurer",
+    "type": "armors",
+    "description": "Over the years, road blocks and other large structures have hindered you on your joumey. Not any more! /Equip this and no barrier that Chaos throws at you can stand in your way!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/aqueduct-conjurer/AqueductConjurerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/aqueduct-conjurer/AqueductConjurerFemale.png"
+    ],
+    "hash": "2892648267621c7e688ff4c955d7d5d9"
+}

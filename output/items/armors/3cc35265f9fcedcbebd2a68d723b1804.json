@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-operative",
+    "url": "http://aqwwiki.wikidot.com/legion-operative",
+    "name": "Legion Operative",
+    "type": "armors",
+    "description": "Legion Operatives move stealthily through the shadows, carrying out Dage the Evil's dark work in silence.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/eGH89SL.png",
+        "https://i.imgur.com/LAHpdR0.png"
+    ],
+    "hash": "3cc35265f9fcedcbebd2a68d723b1804"
+}

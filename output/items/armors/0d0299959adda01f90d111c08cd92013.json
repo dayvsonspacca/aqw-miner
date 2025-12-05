@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-artifact-hunter-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-artifact-hunter-armor",
+    "name": "Dark Artifact Hunter (Armor)",
+    "type": "armors",
+    "description": "Who collects the elements and artifacts the Spellswords need to create these weapons? The Artifact Hunters!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/vG4NbiM.png",
+        "https://i.imgur.com/9Qsnv18.png",
+        "https://i.imgur.com/0LN1VJW.png",
+        "https://i.imgur.com/g4S098d.png"
+    ],
+    "hash": "0d0299959adda01f90d111c08cd92013"
+}

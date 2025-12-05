@@ -1,0 +1,17 @@
+{
+    "urlName": "rouge-raider",
+    "url": "http://aqwwiki.wikidot.com/rouge-raider",
+    "name": "Rouge Raider",
+    "type": "armors",
+    "description": "You killed them, killed them all. They're dead, every single one of them. All of the enemies threatening your home. In the setting sunlight, the sands are tinted pink and gold with all their blood.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/rfKW7uG.png",
+        "https://imgur.com/jhDl4lw.png"
+    ],
+    "hash": "a366aa8ceb81f3684ce53305c2c81c98"
+}

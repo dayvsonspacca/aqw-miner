@@ -1,0 +1,16 @@
+{
+    "urlName": "nagami-armor",
+    "url": "http://aqwwiki.wikidot.com/nagami-armor",
+    "name": "Nagami Armor",
+    "type": "armors",
+    "description": "You've slain the mythical sea monster, your prize is his own incarnation.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/qcPdeXu.png"
+    ],
+    "hash": "f596e9e4ddddd50ac914d1d97fd8d0b6"
+}

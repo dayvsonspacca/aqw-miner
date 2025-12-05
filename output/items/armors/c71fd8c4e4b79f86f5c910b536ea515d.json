@@ -1,0 +1,17 @@
+{
+    "urlName": "lavastorm-lord",
+    "url": "http://aqwwiki.wikidot.com/lavastorm-lord",
+    "name": "Lavastorm Lord",
+    "type": "armors",
+    "description": "A blazing inferno burns in the heart of those who wear this. You're perfectly comfortable near volcanoes as the scorching heat feels like home.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lavastorm-lord/LavastormLordM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lavastorm-lord/LavastormLordF.png"
+    ],
+    "hash": "c71fd8c4e4b79f86f5c910b536ea515d"
+}

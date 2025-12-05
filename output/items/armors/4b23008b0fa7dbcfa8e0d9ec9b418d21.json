@@ -1,0 +1,16 @@
+{
+    "urlName": "phoenix-armor",
+    "url": "http://aqwwiki.wikidot.com/phoenix-armor",
+    "name": "Phoenix (Armor)",
+    "type": "armors",
+    "description": "The phoenix will always rise from the ashes, this one most have arisen from golden ashes.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/FQFZnSS.png"
+    ],
+    "hash": "4b23008b0fa7dbcfa8e0d9ec9b418d21"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "ice-protector",
+    "url": "http://aqwwiki.wikidot.com/ice-protector",
+    "name": "Ice Protector",
+    "type": "armors",
+    "description": "During the long winter nights of Frostval, they come in search of destruction. The Ice Protectors defend the weak and the innocent when all hope seems to be lost.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/n6K4QPQ.png",
+        "http://i.imgur.com/ZQfsC2E.png"
+    ],
+    "hash": "a5e7274ef1d9a108cc1bc8b87c15f3bb"
+}

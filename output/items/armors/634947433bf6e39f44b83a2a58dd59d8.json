@@ -1,0 +1,17 @@
+{
+    "urlName": "fellow-player",
+    "url": "http://aqwwiki.wikidot.com/fellow-player",
+    "name": "Fellow Player",
+    "type": "armors",
+    "description": "How do you do, fellow AdventureQuest Worlders?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/odvydVw.png",
+        "https://imgur.com/phHZgnI.png"
+    ],
+    "hash": "634947433bf6e39f44b83a2a58dd59d8"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "zombie-villager",
+    "url": "http://aqwwiki.wikidot.com/zombie-villager",
+    "name": "Zombie Villager",
+    "type": "armors",
+    "description": "Just another group of innocent bystandards in the Zombie War!",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/AM7O9xU.png",
+        "https://i.imgur.com/LZzhArC.png"
+    ],
+    "hash": "75355dba0e9ff7eb348eb3045ee8fbb0"
+}

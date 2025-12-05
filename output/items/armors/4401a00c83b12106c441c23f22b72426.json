@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-warseeker-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-warseeker-ac",
+    "name": "Legion WarSeeker (AC)",
+    "type": "armors",
+    "description": "The war cry for these crusading Legionnaires is \"For power! For combat! For Dage!\"",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kIZfE6X.png",
+        "https://i.imgur.com/Ezr3oem.png"
+    ],
+    "hash": "4401a00c83b12106c441c23f22b72426"
+}

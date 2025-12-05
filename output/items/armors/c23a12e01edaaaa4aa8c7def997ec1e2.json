@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-advocatus",
+    "url": "http://aqwwiki.wikidot.com/nation-advocatus",
+    "name": "Nation Advocatus",
+    "type": "armors",
+    "description": "The ArchFiend entrusts the Nation's most destructive magic to his inner circle. Those given the title Advocatus harness the power of Void, able to instigate the inescapable Event Horizon of the Fiend God's Feast.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Ti3WtFg.png",
+        "https://i.imgur.com/w1rMMV0.png"
+    ],
+    "hash": "c23a12e01edaaaa4aa8c7def997ec1e2"
+}

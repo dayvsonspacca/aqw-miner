@@ -1,0 +1,17 @@
+{
+    "urlName": "serpent-parade-violet",
+    "url": "http://aqwwiki.wikidot.com/serpent-parade-violet",
+    "name": "Serpent Parade Violet",
+    "type": "armors",
+    "description": "Pick your favorite color and join the New Year parade!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/serpent-parade-violet/SerpentParadeVioletM.png",
+        "http://aqwwiki.wdfiles.com/local--files/serpent-parade-violet/SerpentParadeVioletF.png"
+    ],
+    "hash": "1b218f2cec88ccfa65a5bd1912ce420f"
+}

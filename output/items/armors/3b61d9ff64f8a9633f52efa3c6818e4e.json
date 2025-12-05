@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-symbiote-armor",
+    "url": "http://aqwwiki.wikidot.com/chaos-symbiote-armor",
+    "name": "Chaos Symbiote Armor",
+    "type": "armors",
+    "description": "Chaorrupted armor from an unknown origin. The wearer of this armor may not be able to resist the call of Chaos.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-symbiote-armor/ChaosSymbioteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaos-symbiote-armor/ChaosSymbioteF.png"
+    ],
+    "hash": "3b61d9ff64f8a9633f52efa3c6818e4e"
+}

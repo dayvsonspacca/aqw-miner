@@ -1,0 +1,17 @@
+{
+    "urlName": "final-s-evolved-exo-suit",
+    "url": "http://aqwwiki.wikidot.com/final-s-evolved-exo-suit",
+    "name": "Final's Evolved Exo Suit",
+    "type": "armors",
+    "description": "This is the legendary suit of Final, an odd blue glow comes from it. Is he more than a mere assassin?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/final-s-evolved-exo-suit/Final'sEvolvedExoSuitM.png",
+        "http://aqwwiki.wdfiles.com/local--files/final-s-evolved-exo-suit/Final'sEvolvedExoSuitF.png"
+    ],
+    "hash": "5728bbdd00c33cacb9cf5911778af062"
+}

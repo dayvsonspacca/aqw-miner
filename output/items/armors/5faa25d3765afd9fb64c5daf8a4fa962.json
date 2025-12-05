@@ -1,0 +1,16 @@
+{
+    "urlName": "oblivion-armor",
+    "url": "http://aqwwiki.wikidot.com/oblivion-armor",
+    "name": "Oblivion Armor",
+    "type": "armors",
+    "description": "Now you, too, can appear as humble as a true servant of Nulgath should.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/XS2d2e6.png",
+        "https://i.imgur.com/iGGmety.png"
+    ],
+    "hash": "5faa25d3765afd9fb64c5daf8a4fa962"
+}

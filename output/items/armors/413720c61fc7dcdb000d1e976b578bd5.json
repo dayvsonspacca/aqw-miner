@@ -1,0 +1,17 @@
+{
+    "urlName": "tiki-nightmare",
+    "url": "http://aqwwiki.wikidot.com/tiki-nightmare",
+    "name": "Tiki Nightmare",
+    "type": "armors",
+    "description": "Natives give offerings of chocolate mint cookies and hamburgers with pineapple to appease the god Memehano.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tiki-nightmare/TNm.png",
+        "http://aqwwiki.wdfiles.com/local--files/tiki-nightmare/TNf.png"
+    ],
+    "hash": "413720c61fc7dcdb000d1e976b578bd5"
+}

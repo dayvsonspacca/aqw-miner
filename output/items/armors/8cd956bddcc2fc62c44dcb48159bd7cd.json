@@ -1,0 +1,16 @@
+{
+    "urlName": "aeronavigator",
+    "url": "http://aqwwiki.wikidot.com/aeronavigator",
+    "name": "AeroNavigator",
+    "type": "armors",
+    "description": "Take the helm, bark commands and steer your ship in the right direction. Pull your pistol, take aim and fire a few rounds if someone thinks they can take your ship. Prove they can't and win the day.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/X5dwsOE.png",
+        "http://i.imgur.com/kUQimYz.png"
+    ],
+    "hash": "8cd956bddcc2fc62c44dcb48159bd7cd"
+}

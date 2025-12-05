@@ -1,0 +1,17 @@
+{
+    "urlName": "vampire-lord-armor-2-ac",
+    "url": "http://aqwwiki.wikidot.com/vampire-lord-armor-2-ac",
+    "name": "Vampire Lord (Armor) (2) (AC)",
+    "type": "armors",
+    "description": "Vampire Lords rule over their sanguine servants and, feasting on the blood of mortals, they can live forever. Don't show one a mirror though, or you might not like what you don't see.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/D9mRtjP.png",
+        "https://i.imgur.com/yEG5mPd.png"
+    ],
+    "hash": "cd83035c571ecdbc975fce57aaf64d09"
+}

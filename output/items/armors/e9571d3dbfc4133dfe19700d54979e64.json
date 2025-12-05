@@ -1,0 +1,17 @@
+{
+    "urlName": "pastel-privateer",
+    "url": "http://aqwwiki.wikidot.com/pastel-privateer",
+    "name": "Pastel Privateer",
+    "type": "armors",
+    "description": "Real pirates wear pink.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/y7SmNJk.png",
+        "https://i.imgur.com/Mdr4c6V.png"
+    ],
+    "hash": "e9571d3dbfc4133dfe19700d54979e64"
+}

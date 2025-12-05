@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-commander",
+    "url": "http://aqwwiki.wikidot.com/shadow-commander",
+    "name": "Shadow Commander",
+    "type": "armors",
+    "description": "Command the Darkness from INSIDE the shadows!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/0BqNLCq.png",
+        "http://i.imgur.com/pBz0qG3.png"
+    ],
+    "hash": "ca03baed7068297bd1a0c0520ebae70d"
+}

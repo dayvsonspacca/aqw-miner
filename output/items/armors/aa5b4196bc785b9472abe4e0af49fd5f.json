@@ -1,0 +1,16 @@
+{
+    "urlName": "savage-santaclaws",
+    "url": "http://aqwwiki.wikidot.com/savage-santaclaws",
+    "name": "Savage SantaClaws",
+    "type": "armors",
+    "description": "This festive warrior has survived the holiday battlefield\u2026 and come away with ALL the gifts!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/savage-santaclaws/SavageSantaclawsM.png",
+        "http://aqwwiki.wdfiles.com/local--files/savage-santaclaws/SavageSantaclawsF.png"
+    ],
+    "hash": "aa5b4196bc785b9472abe4e0af49fd5f"
+}

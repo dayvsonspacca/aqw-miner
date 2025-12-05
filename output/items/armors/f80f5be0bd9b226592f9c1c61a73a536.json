@@ -1,0 +1,17 @@
+{
+    "urlName": "malachite-merc",
+    "url": "http://aqwwiki.wikidot.com/malachite-merc",
+    "name": "Malachite Merc",
+    "type": "armors",
+    "description": "Green is a traditional color of calm and soothing, which is not what you will be when wearing this armor to fight the monsters that lurk in Lore. Beneath this cool as a cucumber exterior lies a fighter waiting for action.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/malachite-merc/MalachiteMercM.png",
+        "http://aqwwiki.wdfiles.com/local--files/malachite-merc/MalachiteMercF.png"
+    ],
+    "hash": "f80f5be0bd9b226592f9c1c61a73a536"
+}

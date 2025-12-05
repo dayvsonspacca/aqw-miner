@@ -1,0 +1,16 @@
+{
+    "urlName": "wrath-of-legion",
+    "url": "http://aqwwiki.wikidot.com/wrath-of-legion",
+    "name": "Wrath of Legion",
+    "type": "armors",
+    "description": "Play time is over! The wrath of the Legion is upon us!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wrath-of-legion/WrathofLegionM.png",
+        "http://aqwwiki.wdfiles.com/local--files/wrath-of-legion/WrathofLegionF.png"
+    ],
+    "hash": "4023f3d2286719b4ba3ec2f10d3862c2"
+}

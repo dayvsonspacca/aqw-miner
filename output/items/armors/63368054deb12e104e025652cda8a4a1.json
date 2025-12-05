@@ -1,0 +1,17 @@
+{
+    "urlName": "light-auriladae",
+    "url": "http://aqwwiki.wikidot.com/light-auriladae",
+    "name": "Light Auriladae",
+    "type": "armors",
+    "description": "Magi who channel the light have become stuck in the animal forms they assume\u2026 good thing they chose a panda!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/light-auriladae/LightAuriladaeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/light-auriladae/LightAuriladaeF.png"
+    ],
+    "hash": "63368054deb12e104e025652cda8a4a1"
+}

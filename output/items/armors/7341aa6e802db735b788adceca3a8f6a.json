@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-caroler",
+    "url": "http://aqwwiki.wikidot.com/festive-caroler",
+    "name": "Festive Caroler",
+    "type": "armors",
+    "description": "Wow your neighbors with your outfit and ability to hit the high notes. Just remember to turn the actual magic off when you sing. A stun spell laced into a song isn't very festive.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2oBcXEi.png",
+        "https://i.imgur.com/Q1zGTof.png"
+    ],
+    "hash": "7341aa6e802db735b788adceca3a8f6a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "9j-outfit",
+    "url": "http://aqwwiki.wikidot.com/9j-outfit",
+    "name": "9J Outfit",
+    "type": "armors",
+    "description": "9J is the galaxy's worst law-keeper. He lost his entire body in a fire fighting with some space bank robbers, but since he's had it replaced with a robotic body he's much less accident prone.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/9j-outfit/9JOutfitMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/9j-outfit/9JOutfitFemale.png"
+    ],
+    "hash": "383e443330307b29f4be4fadc2f8bb76"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "pitiless-privateer",
+    "url": "http://aqwwiki.wikidot.com/pitiless-privateer",
+    "name": "Pitiless Privateer",
+    "type": "armors",
+    "description": "Real privateers show NO pity.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WaY4j2b.png",
+        "https://i.imgur.com/BjnV5Gd.png"
+    ],
+    "hash": "671e41f6619cc7a63d61a1d50996da7a"
+}

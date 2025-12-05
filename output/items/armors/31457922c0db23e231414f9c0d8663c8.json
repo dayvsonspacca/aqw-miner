@@ -1,0 +1,17 @@
+{
+    "urlName": "ravenous-reaver-ac",
+    "url": "http://aqwwiki.wikidot.com/ravenous-reaver-ac",
+    "name": "Ravenous Reaver (AC)",
+    "type": "armors",
+    "description": "Reavers eat anything and everything in an attempt to fill the gaping void in their lives (and chest).",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/8gQeqTf.png",
+        "http://i.imgur.com/qlalHJo.png"
+    ],
+    "hash": "31457922c0db23e231414f9c0d8663c8"
+}

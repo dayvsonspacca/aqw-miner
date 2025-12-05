@@ -1,0 +1,16 @@
+{
+    "urlName": "robes-of-rayst",
+    "url": "http://aqwwiki.wikidot.com/robes-of-rayst",
+    "name": "Robes of Rayst",
+    "type": "armors",
+    "description": "These are the robes of Rayst, the master of Arcangrove Tower. Much like the Robes of the Arcane in design but only magi of the highest order are allowed to wear them.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/uVjGQ9B.png",
+        "http://i.imgur.com/rRlsYxY.png"
+    ],
+    "hash": "8fb40081a3eaabed652ac0adadfd11a3"
+}

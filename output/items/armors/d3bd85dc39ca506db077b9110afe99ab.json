@@ -1,0 +1,16 @@
+{
+    "urlName": "nekomancer-armor",
+    "url": "http://aqwwiki.wikidot.com/nekomancer-armor",
+    "name": "Nekomancer (Armor)",
+    "type": "armors",
+    "description": "A finicky feline nekomancer is the purrrrrrfect mage, well unless you're a mouse.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/YGOWBaZ.png",
+        "https://i.imgur.com/4ZkojPX.png"
+    ],
+    "hash": "d3bd85dc39ca506db077b9110afe99ab"
+}

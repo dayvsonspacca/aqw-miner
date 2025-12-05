@@ -1,0 +1,16 @@
+{
+    "urlName": "eggceptional-bunny",
+    "url": "http://aqwwiki.wikidot.com/eggceptional-bunny",
+    "name": "Eggceptional Bunny",
+    "type": "armors",
+    "description": "Hoppy Grenwog!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/CM7R5dy.png",
+        "https://imgur.com/3Ub5AZL.png"
+    ],
+    "hash": "aaec6f627e84edf9514550e7006f195d"
+}

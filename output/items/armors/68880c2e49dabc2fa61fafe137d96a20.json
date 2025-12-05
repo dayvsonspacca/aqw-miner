@@ -1,0 +1,17 @@
+{
+    "urlName": "paladin-commander",
+    "url": "http://aqwwiki.wikidot.com/paladin-commander",
+    "name": "Paladin Commander",
+    "type": "armors",
+    "description": "A DeathKnight that has redeemed itself without going too far into the shadows is given the honor to lead a guild of paladins, but they still retain traces of their former power that recedes over time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paladin-commander/PalCommM.png",
+        "http://aqwwiki.wdfiles.com/local--files/paladin-commander/PalCommF.png"
+    ],
+    "hash": "68880c2e49dabc2fa61fafe137d96a20"
+}

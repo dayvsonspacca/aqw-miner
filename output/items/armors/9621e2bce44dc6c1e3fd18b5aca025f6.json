@@ -1,0 +1,19 @@
+{
+    "urlName": "mechanical-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/mechanical-naval-commander",
+    "name": "Mechanical Naval Commander",
+    "type": "armors",
+    "description": "A costly war that Ruwa Village sailors fought in have sadly lost their arms to a secret weapon their captain's nemesis kept by his side. These sailors got their arms replaced by a stainless cybernetic arm that comes with a retractable blade. On the bright side, they'll never forget their weapons again.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mechanical-naval-commander/MechanicalNavalCommanderNormalM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mechanical-naval-commander/MechanicalNavalCommanderClickedM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mechanical-naval-commander/MechanicalNavalCommanderNormalF.png",
+        "http://aqwwiki.wdfiles.com/local--files/mechanical-naval-commander/MechanicalNavalCommanderClickedF.png"
+    ],
+    "hash": "9621e2bce44dc6c1e3fd18b5aca025f6"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "mad-weaponsmith",
+    "url": "http://aqwwiki.wikidot.com/mad-weaponsmith",
+    "name": "Mad Weaponsmith",
+    "type": "armors",
+    "description": "The personal armor of the Mad, Magical Weaponsmith himself. Smells like a friendly smile. And bacon.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/ZAHd6Gi.png",
+        "http://i.imgur.com/VQVVAQT.png"
+    ],
+    "hash": "a7cc12a1210f57cad2a7aa6ab6cca609"
+}

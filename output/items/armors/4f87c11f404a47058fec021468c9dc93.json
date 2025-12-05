@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-manticore-trainer",
+    "url": "http://aqwwiki.wikidot.com/chaos-manticore-trainer",
+    "name": "Chaos Manticore Trainer",
+    "type": "armors",
+    "description": "Classic manticore training armor which has been infected by Chaos in training the Chaos Manticore.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/kdobIMc.png",
+        "https://i.imgur.com/LO7Xry4.png"
+    ],
+    "hash": "4f87c11f404a47058fec021468c9dc93"
+}

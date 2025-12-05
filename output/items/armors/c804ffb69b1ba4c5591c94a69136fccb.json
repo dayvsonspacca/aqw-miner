@@ -1,0 +1,17 @@
+{
+    "urlName": "fallen-shaman-warrior",
+    "url": "http://aqwwiki.wikidot.com/fallen-shaman-warrior",
+    "name": "Fallen Shaman Warrior",
+    "type": "armors",
+    "description": "Once revered for their acts, these Shaman have been shunned. Only they know the reasons and those who they tell do not live to repeat the tail.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-shaman-warrior/FallenShamanWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fallen-shaman-warrior/FallenShamanWarriorF.png"
+    ],
+    "hash": "c804ffb69b1ba4c5591c94a69136fccb"
+}

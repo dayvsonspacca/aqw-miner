@@ -1,0 +1,15 @@
+{
+    "urlName": "bandit-drakath-armor",
+    "url": "http://aqwwiki.wikidot.com/bandit-drakath-armor",
+    "name": "Bandit Drakath Armor",
+    "type": "armors",
+    "description": "The attire of the Darkwolf Bandits.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/lH0J7Ox.png"
+    ],
+    "hash": "d7333d8a609486b613c322bb6bba749a"
+}

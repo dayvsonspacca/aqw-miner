@@ -1,0 +1,16 @@
+{
+    "urlName": "highway-bounty-hunter",
+    "url": "http://aqwwiki.wikidot.com/highway-bounty-hunter",
+    "name": "Highway Bounty Hunter",
+    "type": "armors",
+    "description": "On the roadways of space, be careful who you come across. One just might be ready to claim that bounty on your head.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/2eVctWf.png",
+        "https://i.imgur.com/17545Ma.png"
+    ],
+    "hash": "cdf8b2556516cc8b8a8b3de50c0e6fbd"
+}

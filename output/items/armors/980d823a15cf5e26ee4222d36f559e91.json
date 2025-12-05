@@ -1,0 +1,17 @@
+{
+    "urlName": "holiday-enforcer",
+    "url": "http://aqwwiki.wikidot.com/holiday-enforcer",
+    "name": "Holiday Enforcer",
+    "type": "armors",
+    "description": "Deck the halls\u2026 and elementals\u2026 and monsters\u2026 and the guy that started the brawl last night\u2026 Defend the occasion in this smartly designed armor that will leave your badly beaten enemy with a smile on his face. Who can resist those holiday colors?",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/holiday-enforcer/HolidayEnforcerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/holiday-enforcer/HolidayEnforcerF.png"
+    ],
+    "hash": "980d823a15cf5e26ee4222d36f559e91"
+}

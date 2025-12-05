@@ -1,0 +1,16 @@
+{
+    "urlName": "galatea-mech-ac",
+    "url": "http://aqwwiki.wikidot.com/galatea-mech-ac",
+    "name": "Galatea Mech (AC)",
+    "type": "armors",
+    "description": "Galatea's formidable mech. What are you waiting for? Go! Go! Fight the power!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/wcZ951n.png",
+        "http://i.imgur.com/7dqK9te.png"
+    ],
+    "hash": "b242bf3b37d28511194f2a4469b9236d"
+}

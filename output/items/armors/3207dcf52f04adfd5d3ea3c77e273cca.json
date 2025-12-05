@@ -1,0 +1,16 @@
+{
+    "urlName": "yokai-bandit",
+    "url": "http://aqwwiki.wikidot.com/yokai-bandit",
+    "name": "Yokai Bandit",
+    "type": "armors",
+    "description": "A troublemaker causing mayhem off the coast of Yokai and beyond. They dream of a bigger and bluer ocean, and to carve their name into the memory of every sailor. No treasure is safe, not even Great Dragon eggs.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/xUO0unI.png",
+        "https://imgur.com/TtfdG2v.png"
+    ],
+    "hash": "3207dcf52f04adfd5d3ea3c77e273cca"
+}

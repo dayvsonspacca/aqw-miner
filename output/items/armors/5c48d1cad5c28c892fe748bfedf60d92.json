@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-caster-armor",
+    "url": "http://aqwwiki.wikidot.com/nation-caster-armor",
+    "name": "Nation Caster (Armor)",
+    "type": "armors",
+    "description": "The arcane practices of the Nation are impossible to master in one lifetime. The Ritualists circumvent this obstacle by engraving spells into their very being. They exchange individuality for magnificent power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/u1HfBjs.png",
+        "https://i.imgur.com/xwArbRT.png"
+    ],
+    "hash": "5c48d1cad5c28c892fe748bfedf60d92"
+}

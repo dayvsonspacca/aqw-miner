@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-warrior",
+    "url": "http://aqwwiki.wikidot.com/nation-warrior",
+    "name": "Nation Warrior",
+    "type": "armors",
+    "description": "The blood in the Nation's veins, keeping it alive and raging. Each Nation Warrior aspires to grow and break through their mortal limits, becoming greater Fiends themselves.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/kCWY334.png",
+        "https://i.imgur.com/gtqnD9N.png"
+    ],
+    "hash": "99baac37b9d0da3d222f6694e78561ab"
+}

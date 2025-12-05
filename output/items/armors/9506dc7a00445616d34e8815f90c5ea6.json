@@ -1,0 +1,17 @@
+{
+    "urlName": "void-walker-legend",
+    "url": "http://aqwwiki.wikidot.com/void-walker-legend",
+    "name": "Void Walker (Legend)",
+    "type": "armors",
+    "description": "To travel between the Void and the real world isn't easy. The Void is filled with treacherous beings awaiting prey.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iWAG2Re.png",
+        "https://i.imgur.com/Sqm2oUa.png"
+    ],
+    "hash": "9506dc7a00445616d34e8815f90c5ea6"
+}

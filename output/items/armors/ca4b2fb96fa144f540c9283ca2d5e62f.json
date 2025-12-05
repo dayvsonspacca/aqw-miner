@@ -1,0 +1,16 @@
+{
+    "urlName": "battlemaster-tharr",
+    "url": "http://aqwwiki.wikidot.com/battlemaster-tharr",
+    "name": "BattleMaster Tharr",
+    "type": "armors",
+    "description": "A legendary Warrior from the OverSoul, Tharr followed Nulgath the ArchFiend through the portal. His goal: to find new battlefields to conquer and opponents to crush.",
+    "rarity": null,
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/RoqJU5R.png",
+        "https://i.imgur.com/B75JiKx.png"
+    ],
+    "hash": "ca4b2fb96fa144f540c9283ca2d5e62f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "thermal-lorekeeper-of-the-moon",
+    "url": "http://aqwwiki.wikidot.com/thermal-lorekeeper-of-the-moon",
+    "name": "Thermal Lorekeeper of the Moon",
+    "type": "armors",
+    "description": "Because seriously, when you live in the snowy mountains of Dwarfhold, your legs can get really cold!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/thermal-lorekeeper-of-the-moon/ThermalLorekeeperoftheMoonM.png",
+        "http://aqwwiki.wdfiles.com/local--files/thermal-lorekeeper-of-the-moon/ThermalLorekeeperoftheMoonF.png"
+    ],
+    "hash": "c1490dd7418d702a850b555e7bbc0879"
+}

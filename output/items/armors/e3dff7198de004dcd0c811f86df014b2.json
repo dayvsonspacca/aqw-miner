@@ -1,0 +1,17 @@
+{
+    "urlName": "battleon-battlemage",
+    "url": "http://aqwwiki.wikidot.com/battleon-battlemage",
+    "name": "Battleon Battlemage",
+    "type": "armors",
+    "description": "Summon your powers to defend BattleOn from the forces of Chaos.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battleon-battlemage/BattleonBattlemageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/battleon-battlemage/BattleonBattlemageF.png"
+    ],
+    "hash": "e3dff7198de004dcd0c811f86df014b2"
+}

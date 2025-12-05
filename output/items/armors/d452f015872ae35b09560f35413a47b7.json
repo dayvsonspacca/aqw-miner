@@ -1,0 +1,17 @@
+{
+    "urlName": "red-moglinster-armor",
+    "url": "http://aqwwiki.wikidot.com/red-moglinster-armor",
+    "name": "Red Moglinster (Armor)",
+    "type": "armors",
+    "description": "You morph into a wild red Moglinster! I TOLD you not to eat candy after midnight!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/QocGVfD.png"
+    ],
+    "hash": "d452f015872ae35b09560f35413a47b7"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "life-taker",
+    "url": "http://aqwwiki.wikidot.com/life-taker",
+    "name": "Life Taker",
+    "type": "armors",
+    "description": "Deal with the cards you're dealt and take the lives that fall into your hands.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/yyutzdV.png",
+        "https://i.imgur.com/IyUwX8i.png"
+    ],
+    "hash": "fe770f2af3e3f5ff2fc6d256b1d09f28"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "black-legion-raven-ac",
+    "url": "http://aqwwiki.wikidot.com/black-legion-raven-ac",
+    "name": "Black Legion Raven (AC)",
+    "type": "armors",
+    "description": "The Legion Raven roams the halls, scavenging and feeding off of the lost souls left in Pandinus Insane Asylum.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/DP9be7h.png",
+        "https://i.imgur.com/QgXYHLC.png"
+    ],
+    "hash": "143391a0f975c095d4d7ca14e06d32f8"
+}

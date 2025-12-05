@@ -1,0 +1,14 @@
+{
+    "urlName": "imperial-infantry",
+    "url": "http://aqwwiki.wikidot.com/imperial-infantry",
+    "name": "Imperial Infantry",
+    "type": "armors",
+    "description": "Although the Empire is known for its impressive airborne unit, the infantry is an indispensable portion of the Imperial military. The coordinated aerial and ground-based maneuvers makes the Empire a force to be reckoned with.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/YFSbWN1.png",
+        "https://i.imgur.com/iuuVpV1.png"
+    ],
+    "hash": "3b1ab6d2745cd59226b3bd102d405e1e"
+}

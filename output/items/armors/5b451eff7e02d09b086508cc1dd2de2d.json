@@ -1,0 +1,17 @@
+{
+    "urlName": "blood-roses-ac",
+    "url": "http://aqwwiki.wikidot.com/blood-roses-ac",
+    "name": "Blood & Roses (AC)",
+    "type": "armors",
+    "description": "Vampires, sparkly? How dare you speak such ill! True Vampires prefer the noble, classic look.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-roses-ac/BloodSuit.png",
+        "http://aqwwiki.wdfiles.com/local--files/blood-roses-ac/BloodDress.png"
+    ],
+    "hash": "5b451eff7e02d09b086508cc1dd2de2d"
+}

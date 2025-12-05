@@ -1,0 +1,17 @@
+{
+    "urlName": "yeti-hunter-ac",
+    "url": "http://aqwwiki.wikidot.com/yeti-hunter-ac",
+    "name": "Yeti Hunter (AC)",
+    "type": "armors",
+    "description": "Allied to one of the more peaceful tribes of Northlands Krampus, the YetiKun Hunters work with them to guard their friends and family from the bloodthirsty yeti that roam the land.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7lfsELK.png",
+        "https://i.imgur.com/JYoUc6m.png"
+    ],
+    "hash": "e15fbc82fb75fa01ab8132eda8111fb0"
+}

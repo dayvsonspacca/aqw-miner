@@ -1,0 +1,17 @@
+{
+    "urlName": "sanguine-vampire-legend",
+    "url": "http://aqwwiki.wikidot.com/sanguine-vampire-legend",
+    "name": "Sanguine Vampire (Legend)",
+    "type": "armors",
+    "description": "To truly experience the life of a Vampire, one must dress the part.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/nVJw3Nt.png",
+        "https://i.imgur.com/Z2ICfbF.png"
+    ],
+    "hash": "f83164602dc3a0a01fe480e0305f91ff"
+}

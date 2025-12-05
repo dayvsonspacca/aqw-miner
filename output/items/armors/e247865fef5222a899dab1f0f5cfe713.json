@@ -1,0 +1,17 @@
+{
+    "urlName": "late-afternoon-wolfy",
+    "url": "http://aqwwiki.wikidot.com/late-afternoon-wolfy",
+    "name": "Late-Afternoon Wolfy",
+    "type": "armors",
+    "description": "You have transcended the lore of wolves and are able to change without the light of the full moon. You are very good looking so at the end of the day, it doesn't matter if you break the rules of werewolves. Though the rumor is, you are ballin' on the basketball courts!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/late-afternoon-wolfy/LateAfternoonWolfyM.png",
+        "http://aqwwiki.wdfiles.com/local--files/late-afternoon-wolfy/LateAfternoonWolfyF.png"
+    ],
+    "hash": "e247865fef5222a899dab1f0f5cfe713"
+}

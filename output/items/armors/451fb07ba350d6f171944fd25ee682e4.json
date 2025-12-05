@@ -1,0 +1,17 @@
+{
+    "urlName": "nightwatch-samurai-legend",
+    "url": "http://aqwwiki.wikidot.com/nightwatch-samurai-legend",
+    "name": "Nightwatch Samurai (Legend)",
+    "type": "armors",
+    "description": "Samurai are those who serve in close attendance to the nobility.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/1edWe73.png",
+        "https://imgur.com/kui7dG6.png"
+    ],
+    "hash": "451fb07ba350d6f171944fd25ee682e4"
+}

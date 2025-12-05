@@ -1,0 +1,16 @@
+{
+    "urlName": "chaotic-healer-armor",
+    "url": "http://aqwwiki.wikidot.com/chaotic-healer-armor",
+    "name": "Chaotic Healer Armor",
+    "type": "armors",
+    "description": "For clerics of Chaos who wish to wield its power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/mxuWwP1.png",
+        "http://i.imgur.com/U0n506h.png"
+    ],
+    "hash": "989bdfa24bd1404b21c227e45af4b5eb"
+}

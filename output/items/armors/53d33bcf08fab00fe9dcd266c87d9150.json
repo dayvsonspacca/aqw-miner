@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-covenant-wetsuit",
+    "url": "http://aqwwiki.wikidot.com/dark-covenant-wetsuit",
+    "name": "Dark Covenant Wetsuit",
+    "type": "armors",
+    "description": "Light yet durable, this wetsuit's sure to catch eyes. The scarlet and slightly wicked aesthetic quite popular. You'll have to use wits and charm to stand out even more.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Y65s3nQ.png",
+        "https://i.imgur.com/5ifAw1e.png"
+    ],
+    "hash": "53d33bcf08fab00fe9dcd266c87d9150"
+}

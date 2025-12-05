@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-sun-mage",
+    "url": "http://aqwwiki.wikidot.com/dark-sun-mage",
+    "name": "Dark Sun Mage",
+    "type": "armors",
+    "description": "The Dark Sun Magi can use their powers not necessarily for Evil but they do not fight for Good.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/KQofdGP.png",
+        "http://i.imgur.com/NstupVa.png"
+    ],
+    "hash": "9e3ccaacfeb0734157ef2be1a9a1ec54"
+}

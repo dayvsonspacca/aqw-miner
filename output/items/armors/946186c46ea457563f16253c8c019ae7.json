@@ -1,0 +1,16 @@
+{
+    "urlName": "beach-ready-swim-suit",
+    "url": "http://aqwwiki.wikidot.com/beach-ready-swim-suit",
+    "name": "Beach Ready Swim Suit",
+    "type": "armors",
+    "description": "Grab your SPF 9000 and hit the sands of Lore, beach bunnies and surfer dudes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/b1OygM5.png",
+        "https://i.imgur.com/8QBMhDR.png"
+    ],
+    "hash": "946186c46ea457563f16253c8c019ae7"
+}

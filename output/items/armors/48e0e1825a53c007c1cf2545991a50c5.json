@@ -1,0 +1,18 @@
+{
+    "urlName": "pink-necromancer",
+    "url": "http://aqwwiki.wikidot.com/pink-necromancer",
+    "name": "Pink Necromancer",
+    "type": "armors",
+    "description": "You hold head up high as you enter battle, whistling a lovely tune.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/QAE4s9U.png",
+        "http://i.imgur.com/zhQ42TG.png",
+        "https://imgur.com/hq92ulr.png",
+        "https://i.imgur.com/GnvidqZ.png"
+    ],
+    "hash": "48e0e1825a53c007c1cf2545991a50c5"
+}

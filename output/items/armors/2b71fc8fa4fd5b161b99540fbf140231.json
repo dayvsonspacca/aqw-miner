@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-fae-ac",
+    "url": "http://aqwwiki.wikidot.com/festive-fae-ac",
+    "name": "Festive Fae (AC)",
+    "type": "armors",
+    "description": "Faes are perhaps the most noble of all woodland pixies, praised for their wisdom and playfulness and revered for their magic and herbalism. Pink fae only appear during the Spring, and are thought to be one of the rarest faeries in all of Lore.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/juydFxB.png",
+        "https://i.imgur.com/We6Wk9C.png"
+    ],
+    "hash": "2b71fc8fa4fd5b161b99540fbf140231"
+}

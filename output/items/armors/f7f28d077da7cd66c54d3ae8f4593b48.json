@@ -1,0 +1,16 @@
+{
+    "urlName": "void-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/void-dragonslayer",
+    "name": "Void DragonSlayer",
+    "type": "armors",
+    "description": "This armor has been tainted by the magic of the void!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/19j3XD7.png",
+        "http://i.imgur.com/A0oOZPT.png"
+    ],
+    "hash": "f7f28d077da7cd66c54d3ae8f4593b48"
+}

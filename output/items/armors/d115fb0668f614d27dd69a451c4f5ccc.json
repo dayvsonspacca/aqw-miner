@@ -1,0 +1,19 @@
+{
+    "urlName": "thunderbolt-striker",
+    "url": "http://aqwwiki.wikidot.com/thunderbolt-striker",
+    "name": "ThunderBolt Striker",
+    "type": "armors",
+    "description": "Call down the lightning and summon thunder to terrify your foes with this armor from Twilly's Spring Seasonal 2013 shop!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/thunderbolt-striker/ThunderboltStrikerMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/thunderbolt-striker/ThunderboltStrikerMA.png",
+        "http://aqwwiki.wdfiles.com/local--files/thunderbolt-striker/ThunderboltStrikerFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/thunderbolt-striker/ThunderboltStrikerFA.png"
+    ],
+    "hash": "d115fb0668f614d27dd69a451c4f5ccc"
+}

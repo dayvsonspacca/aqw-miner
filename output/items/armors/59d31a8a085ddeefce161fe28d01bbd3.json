@@ -1,0 +1,16 @@
+{
+    "urlName": "master-ranger-armor",
+    "url": "http://aqwwiki.wikidot.com/master-ranger-armor",
+    "name": "Master Ranger Armor",
+    "type": "armors",
+    "description": "Rangers are stealthy, wealthy and wise to the ways of their opponents. Able to take down tyrants without blinking an eye or breaking a bowstring!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/8qcmrPO.png?1",
+        "https://i.imgur.com/Y0qkCtc.png"
+    ],
+    "hash": "59d31a8a085ddeefce161fe28d01bbd3"
+}

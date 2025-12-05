@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-bone-knight",
+    "url": "http://aqwwiki.wikidot.com/dark-bone-knight",
+    "name": "Dark Bone Knight",
+    "type": "armors",
+    "description": "These shadow creatures seem to imbue everything they touch with dark energy. Unlike it's counterpart, this bone armor has been soaked in dark energy.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/U5UH66L.png",
+        "https://i.imgur.com/XzIFA7Z.png"
+    ],
+    "hash": "270631bc725f2764864cd5860aec6dcf"
+}

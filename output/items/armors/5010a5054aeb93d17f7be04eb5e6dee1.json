@@ -1,0 +1,18 @@
+{
+    "urlName": "royal-raider-armor",
+    "url": "http://aqwwiki.wikidot.com/royal-raider-armor",
+    "name": "Royal Raider (Armor)",
+    "type": "armors",
+    "description": "Some pirates or muggers that steal enough gold often treat themselves to resemble royalty either to decorate their ships with extravagant riches or pass themselves off as upper class citizens to trick individuals into giving them a majority of their wealth willingly.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/royal-raider-armor/RRM.png",
+        "http://aqwwiki.wdfiles.com/local--files/royal-raider-armor/RRF.png"
+    ],
+    "hash": "5010a5054aeb93d17f7be04eb5e6dee1"
+}

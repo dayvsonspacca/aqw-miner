@@ -1,0 +1,17 @@
+{
+    "urlName": "umbral-guard",
+    "url": "http://aqwwiki.wikidot.com/umbral-guard",
+    "name": "Umbral Guard",
+    "type": "armors",
+    "description": "Loyal warriors from a dynasty long dead. They stood by their Pharaoh and her Shadow even when the people abandoned them. Forbidden magic awoke them from their slumber, and the snakes of the Sandsea blessed them with venom.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7Um3KEH.png",
+        "https://i.imgur.com/6oSWhAe.png"
+    ],
+    "hash": "6c9886d1ddbedd6ab6ed58dfbfb6cd31"
+}

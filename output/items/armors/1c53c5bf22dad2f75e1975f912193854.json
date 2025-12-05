@@ -1,0 +1,17 @@
+{
+    "urlName": "caipora",
+    "url": "http://aqwwiki.wikidot.com/caipora",
+    "name": "Caipora",
+    "type": "armors",
+    "description": "Hidden in the forest, Caipora protects the living beings threatened by intruders.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/HpUKpHk.png",
+        "https://i.imgur.com/5PwL67i.png"
+    ],
+    "hash": "1c53c5bf22dad2f75e1975f912193854"
+}

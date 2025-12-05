@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-moglin-armor",
+    "url": "http://aqwwiki.wikidot.com/undead-moglin-armor",
+    "name": "Undead Moglin (Armor)",
+    "type": "armors",
+    "description": "A scale replica of the internal skeleton structure of Moglins. Happy Mogloween!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/LjpCe0U.png"
+    ],
+    "hash": "8b6ad8b4265fcc82a21c000b36b8ed52"
+}

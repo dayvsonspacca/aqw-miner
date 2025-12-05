@@ -1,0 +1,16 @@
+{
+    "urlName": "omega-corsair",
+    "url": "http://aqwwiki.wikidot.com/omega-corsair",
+    "name": "Omega Corsair",
+    "type": "armors",
+    "description": "The O.M.G., Omega Mercenary Group, is an elite team of mercenaries whose primary goal is to get the job done, no matter the cost.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/2ad3Cun.png",
+        "http://i.imgur.com/3wzWJgP.png"
+    ],
+    "hash": "4b0dfccf5a39ee64c08d6da41c680b20"
+}

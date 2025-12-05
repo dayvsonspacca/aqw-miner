@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-blackout-armor",
+    "url": "http://aqwwiki.wikidot.com/enchanted-blackout-armor",
+    "name": "Enchanted BlackOut Armor",
+    "type": "armors",
+    "description": "The Sun is being eclipsed, and so are you. Keep an eye on your shadow.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/OyuNGA5.png",
+        "https://imgur.com/qsHzUSl.png"
+    ],
+    "hash": "b6a35ec077f53f975944f162af6cbe24"
+}

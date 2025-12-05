@@ -1,0 +1,17 @@
+{
+    "urlName": "candycorn-sweater",
+    "url": "http://aqwwiki.wikidot.com/candycorn-sweater",
+    "name": "CandyCorn Sweater",
+    "type": "armors",
+    "description": "This sweet set is made of one of Oishii's tastiest harvest treats \u2014 CANDY CORN! /Equip it at your own risk, the chances of monsters eating you will increase by 100% if worn in battle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/CYrA3jb.png",
+        "https://imgur.com/xGJTL7l.png"
+    ],
+    "hash": "1cafd02236e31e935ded66b6fe08393a"
+}

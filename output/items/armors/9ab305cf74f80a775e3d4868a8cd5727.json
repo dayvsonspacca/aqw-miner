@@ -1,0 +1,17 @@
+{
+    "urlName": "necrovoid-lich",
+    "url": "http://aqwwiki.wikidot.com/necrovoid-lich",
+    "name": "NecroVoid Lich",
+    "type": "armors",
+    "description": "The Void disguises itself with the remains of the dead. All life came from nothing, and it will return to nothing. If you plunge into an endless fall, the cycle of life and death will never find you again.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wR6o0Ol.png",
+        "https://i.imgur.com/eOjoRbX.png"
+    ],
+    "hash": "9ab305cf74f80a775e3d4868a8cd5727"
+}

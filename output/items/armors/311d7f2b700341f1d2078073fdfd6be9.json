@@ -1,0 +1,18 @@
+{
+    "urlName": "legion-sergeant-armor",
+    "url": "http://aqwwiki.wikidot.com/legion-sergeant-armor",
+    "name": "Legion Sergeant (Armor)",
+    "type": "armors",
+    "description": "Dage wants YOU to join the Undead Legion!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-sergeant-armor/LegionSergeantM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-sergeant-armor/LegionSergeantF.png"
+    ],
+    "hash": "311d7f2b700341f1d2078073fdfd6be9"
+}

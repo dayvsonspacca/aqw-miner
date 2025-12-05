@@ -1,0 +1,17 @@
+{
+    "urlName": "void-archmage-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/void-archmage-of-nulgath",
+    "name": "Void ArchMage of Nulgath",
+    "type": "armors",
+    "description": "Serve your ruler with unyielding power. Cast down those who dare go against Nulgath",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-archmage-of-nulgath/VAoNM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-archmage-of-nulgath/VAoNF.png"
+    ],
+    "hash": "2c8fe79186997cedaa2759e67db68a2c"
+}

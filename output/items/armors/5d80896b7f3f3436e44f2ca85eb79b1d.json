@@ -1,0 +1,18 @@
+{
+    "urlName": "sandsea-enchanter-legend",
+    "url": "http://aqwwiki.wikidot.com/sandsea-enchanter-legend",
+    "name": "Sandsea Enchanter (Legend)",
+    "type": "armors",
+    "description": "These sleek sorcerer's of the Sandsea will cast a spell on you using their enchantments.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/N5n63Sk.png",
+        "https://imgur.com/YZtaQyl.png",
+        "https://i.imgur.com/E3H5X7m.png"
+    ],
+    "hash": "5d80896b7f3f3436e44f2ca85eb79b1d"
+}

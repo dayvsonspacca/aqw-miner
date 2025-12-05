@@ -1,0 +1,17 @@
+{
+    "urlName": "gilded-knight-armor",
+    "url": "http://aqwwiki.wikidot.com/gilded-knight-armor",
+    "name": "Gilded Knight Armor",
+    "type": "armors",
+    "description": "An armor that, over time, was gilded gold through the accomplishments of its wearer.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ZQUPFsW.png",
+        "https://i.imgur.com/fifh84o.png"
+    ],
+    "hash": "89b263308b5a7d84d904305ff807cfa1"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-royalty",
+    "url": "http://aqwwiki.wikidot.com/dark-royalty",
+    "name": "Dark Royalty",
+    "type": "armors",
+    "description": "A gleaming battle suit forged in the glory and dedication of the late King Alteon. Lineage is nothing when you receive the high honor of commanding your own division of good. Long live the King!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-royalty/DRm.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-royalty/DRf.png"
+    ],
+    "hash": "21aa3581684707749817e16e4ba97365"
+}

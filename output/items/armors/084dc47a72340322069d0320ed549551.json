@@ -1,0 +1,17 @@
+{
+    "urlName": "tactical-agent-bravo",
+    "url": "http://aqwwiki.wikidot.com/tactical-agent-bravo",
+    "name": "Tactical Agent Bravo",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TESf4AI.png",
+        "https://i.imgur.com/OgxJjyq.png"
+    ],
+    "hash": "084dc47a72340322069d0320ed549551"
+}

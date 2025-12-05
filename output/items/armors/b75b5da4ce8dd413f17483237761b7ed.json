@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-general-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-general-ac",
+    "name": "Underworld General (AC)",
+    "type": "armors",
+    "description": "To gain access to the Underworld you must defeat one of the many Generals which roam the forsaken land looking for souls to harvest.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/faIwdhJ.png",
+        "https://i.imgur.com/LAD3eYK.png"
+    ],
+    "hash": "b75b5da4ce8dd413f17483237761b7ed"
+}

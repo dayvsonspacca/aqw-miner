@@ -1,0 +1,17 @@
+{
+    "urlName": "beast-of-the-legion",
+    "url": "http://aqwwiki.wikidot.com/beast-of-the-legion",
+    "name": "Beast of the Legion",
+    "type": "armors",
+    "description": "From deep within the shadows of the Underworld, the Beasts of the Legion stalk their prey, slaying swiftly and silently. To slay the beast, you must BECOME the beast.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/jgammyV.png",
+        "https://i.imgur.com/WvZJ4XS.png"
+    ],
+    "hash": "14d5c75916c4191c9ad26d42c431d2c6"
+}

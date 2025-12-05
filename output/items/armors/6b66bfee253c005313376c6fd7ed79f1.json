@@ -1,0 +1,19 @@
+{
+    "urlName": "legion-darkblood-eviscerater",
+    "url": "http://aqwwiki.wikidot.com/legion-darkblood-eviscerater",
+    "name": "Legion DarkBlood Eviscerater",
+    "type": "armors",
+    "description": "Even the DarkBloods recognize the immense power of the Undead Legion. Evil knows no bounds, and no being--living or undead--",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-darkblood-eviscerater/LegionDarkbloodEvisceraterMaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-darkblood-eviscerater/LegionDarkbloodEvisceraterMaleA.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-darkblood-eviscerater/LegionDarkbloodEvisceraterFemaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-darkblood-eviscerater/LegionDarkbloodEvisceraterFemaleA.png"
+    ],
+    "hash": "6b66bfee253c005313376c6fd7ed79f1"
+}

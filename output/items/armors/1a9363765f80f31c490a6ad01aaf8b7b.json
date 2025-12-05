@@ -1,0 +1,17 @@
+{
+    "urlName": "jackpot-winner",
+    "url": "http://aqwwiki.wikidot.com/jackpot-winner",
+    "name": "Jackpot Winner",
+    "type": "armors",
+    "description": "YOU WON THE BEST PRIZE! (But now you have to carry it everywhere you go. I hope you buffed your STR!)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vUuG6zJ.png",
+        "https://i.imgur.com/alHblIP.png"
+    ],
+    "hash": "1a9363765f80f31c490a6ad01aaf8b7b"
+}

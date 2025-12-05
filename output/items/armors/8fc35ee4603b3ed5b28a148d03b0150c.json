@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-glory-mage",
+    "url": "http://aqwwiki.wikidot.com/golden-glory-mage",
+    "name": "Golden Glory Mage",
+    "type": "armors",
+    "description": "The heroes of Battleon will ALWAYS be where they are needed. Some fight for gold. Some fight for glory. But ALL will emerge victorious when we fight together.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kqowcKp.png",
+        "https://i.imgur.com/qs6idoB.png"
+    ],
+    "hash": "8fc35ee4603b3ed5b28a148d03b0150c"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "particle-armor",
+    "url": "http://aqwwiki.wikidot.com/particle-armor",
+    "name": "Particle Armor",
+    "type": "armors",
+    "description": "Particle Hero, Particle Hero! Doing the things that monsters fear-o! What's he battle like? That's important! Particle Hero!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/particle-armor/ParticleArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/particle-armor/ParticleArmorF.png"
+    ],
+    "hash": "3db7ecdc2ae63918d816065a33b6c2b5"
+}

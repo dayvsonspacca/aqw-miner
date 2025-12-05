@@ -1,0 +1,18 @@
+{
+    "urlName": "tibicenas-armor",
+    "url": "http://aqwwiki.wikidot.com/tibicenas-armor",
+    "name": "Tibicenas (Armor)",
+    "type": "armors",
+    "description": "Embrace the evil within as you assume the form of this corrupted Djinn!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/FXdCuqy.png",
+        "http://i.imgur.com/a5gXB56.png",
+        "http://i.imgur.com/f7OXpXP.png",
+        "http://i.imgur.com/dJZf8JO.png"
+    ],
+    "hash": "4ab02228a61ba8a9be56ac437cb6fc8f"
+}

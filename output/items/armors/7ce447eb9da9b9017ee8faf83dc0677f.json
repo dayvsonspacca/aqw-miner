@@ -1,0 +1,16 @@
+{
+    "urlName": "battle-party-gear",
+    "url": "http://aqwwiki.wikidot.com/battle-party-gear",
+    "name": "Battle Party Gear",
+    "type": "armors",
+    "description": "Battle your way right into the New Year!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uWxyBzn.png",
+        "https://i.imgur.com/GHGhkS6.png"
+    ],
+    "hash": "7ce447eb9da9b9017ee8faf83dc0677f"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "undead-spawn-minion",
+    "url": "http://aqwwiki.wikidot.com/undead-spawn-minion",
+    "name": "Undead Spawn Minion",
+    "type": "armors",
+    "description": "Touched by the eternal flames, this undead warrior feels it burning inside. Will you control the flames, or will the flames control you?",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/Llm5WEF.png",
+        "https://i.imgur.com/PgUS9Gf.png"
+    ],
+    "hash": "7d0668f748622979d2e7963aedef98f6"
+}

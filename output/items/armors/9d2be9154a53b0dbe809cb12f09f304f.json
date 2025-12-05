@@ -1,0 +1,16 @@
+{
+    "urlName": "regal-wedding-guest",
+    "url": "http://aqwwiki.wikidot.com/regal-wedding-guest",
+    "name": "Regal Wedding Guest",
+    "type": "armors",
+    "description": "One must ALWAYS dress one's best when attending the wedding of one's creator!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/regal-wedding-guest/RWGM.png",
+        "http://aqwwiki.wdfiles.com/local--files/regal-wedding-guest/RWGF.png"
+    ],
+    "hash": "9d2be9154a53b0dbe809cb12f09f304f"
+}

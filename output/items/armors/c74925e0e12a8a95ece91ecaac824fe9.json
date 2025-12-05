@@ -1,0 +1,17 @@
+{
+    "urlName": "necro-paragon-ac",
+    "url": "http://aqwwiki.wikidot.com/necro-paragon-ac",
+    "name": "Necro Paragon (AC)",
+    "type": "armors",
+    "description": "Are you ready to fulfill your destiny and join Dage in the fight for souls and the glory of the Underworld? It's not like you have a choice though.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fqReUQj.png",
+        "https://i.imgur.com/MEoU6cY.png"
+    ],
+    "hash": "c74925e0e12a8a95ece91ecaac824fe9"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-protoparagon-x1",
+    "url": "http://aqwwiki.wikidot.com/legion-protoparagon-x1",
+    "name": "Legion ProtoParagon X1",
+    "type": "armors",
+    "description": "Supercharge the darkness with the Protoparagon X1 and dominate the Legion!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-protoparagon-x1/LegionProtoParagonM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-protoparagon-x1/LegionProtoParagonF.png"
+    ],
+    "hash": "734827b371d36708d8fb91d27032802a"
+}

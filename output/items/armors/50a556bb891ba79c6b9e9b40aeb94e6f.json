@@ -1,0 +1,17 @@
+{
+    "urlName": "no-hollowborn-class",
+    "url": "http://aqwwiki.wikidot.com/no-hollowborn-class",
+    "name": "No Hollowborn Class",
+    "type": "armors",
+    "description": "Being Hollowborn means pursuing your own goals without hesitation. The Shadow Fiend isn't going to hold your hand. You're going to have to figure this out on your own.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Pli3xO5.png",
+        "https://i.imgur.com/62cZ7AU.png"
+    ],
+    "hash": "50a556bb891ba79c6b9e9b40aeb94e6f"
+}

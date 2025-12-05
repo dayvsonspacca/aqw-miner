@@ -1,0 +1,17 @@
+{
+    "urlName": "harpies-team-legend",
+    "url": "http://aqwwiki.wikidot.com/harpies-team-legend",
+    "name": "Harpies Team (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football Players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/qdy1ON1.png",
+        "https://i.imgur.com/k3xkONN.png"
+    ],
+    "hash": "f12cbc8edb39f9baaca1168b38a955d6"
+}

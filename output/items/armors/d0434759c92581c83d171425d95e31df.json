@@ -1,0 +1,17 @@
+{
+    "urlName": "battle-q-pid",
+    "url": "http://aqwwiki.wikidot.com/battle-q-pid",
+    "name": "Battle Q-Pid",
+    "type": "armors",
+    "description": "Those who say robots don't show emotions have never seen a Q-Pid unit. These fighting machines are capable of giving dating advice and can help write a mean love song uploaded straight from the motherboard.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battle-q-pid/BattleQ-PidM.png",
+        "http://aqwwiki.wdfiles.com/local--files/battle-q-pid/BattleQ-PidF.png"
+    ],
+    "hash": "d0434759c92581c83d171425d95e31df"
+}

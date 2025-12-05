@@ -1,0 +1,20 @@
+{
+    "urlName": "yokai-oni-summoner",
+    "url": "http://aqwwiki.wikidot.com/yokai-oni-summoner",
+    "name": "Yokai Oni Summoner",
+    "type": "armors",
+    "description": "OniSlayers can become summoners by defeating Yokai, and making them Shikigami. In the world of wild, man-eating Yokai - might makes right. Only the strong are worthy of being their masters.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/uqRRimg.png",
+        "https://i.imgur.com/VR06jZz.png",
+        "https://i.imgur.com/Zr0cLBn.png",
+        "https://i.imgur.com/RDppty7.png"
+    ],
+    "hash": "fac9d0991faa3b18266dfb14a34adc39"
+}

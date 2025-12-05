@@ -1,0 +1,17 @@
+{
+    "urlName": "lord-brentan-armor",
+    "url": "http://aqwwiki.wikidot.com/lord-brentan-armor",
+    "name": "Lord Brentan (Armor)",
+    "type": "armors",
+    "description": "The armor of noble Lord Brenton.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lord-brentan-armor/LordBrentanM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lord-brentan-armor/LordBrentanF.png"
+    ],
+    "hash": "2106a34107ebaa7d7584683a1472f249"
+}

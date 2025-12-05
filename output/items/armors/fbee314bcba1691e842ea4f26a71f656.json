@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-bandit-armor",
+    "url": "http://aqwwiki.wikidot.com/chaos-bandit-armor",
+    "name": "Chaos Bandit (Armor)",
+    "type": "armors",
+    "description": "This bandit's armor must have been looted from a nearby camp during Drakath's attack on Battleon. Look, the chaorruption has already started seeping into it. O_O",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Lq1ReqP.png",
+        "https://i.imgur.com/KnoTgUB.png"
+    ],
+    "hash": "fbee314bcba1691e842ea4f26a71f656"
+}

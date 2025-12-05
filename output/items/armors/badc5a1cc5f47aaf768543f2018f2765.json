@@ -1,0 +1,16 @@
+{
+    "urlName": "arcana-voyager",
+    "url": "http://aqwwiki.wikidot.com/arcana-voyager",
+    "name": "Arcana Voyager",
+    "type": "armors",
+    "description": "The Arcana Invoker has consumed the flesh of a primordial, granted the ability to invoke their names and call upon their divine power. They continue the cycle of destiny, and command fate.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/5qE0nf2.png",
+        "https://i.imgur.com/qTwHTAQ.png"
+    ],
+    "hash": "badc5a1cc5f47aaf768543f2018f2765"
+}

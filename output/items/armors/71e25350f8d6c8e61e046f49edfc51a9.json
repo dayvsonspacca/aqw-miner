@@ -1,0 +1,17 @@
+{
+    "urlName": "captain-lore-armor",
+    "url": "http://aqwwiki.wikidot.com/captain-lore-armor",
+    "name": "Captain Lore (Armor)",
+    "type": "armors",
+    "description": "By your powers combined, I am CAPTAIN LORE!! Go Lore!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/captain-lore-armor/CaptainLoreM.png",
+        "http://aqwwiki.wdfiles.com/local--files/captain-lore-armor/CaptainLoreF.png"
+    ],
+    "hash": "71e25350f8d6c8e61e046f49edfc51a9"
+}

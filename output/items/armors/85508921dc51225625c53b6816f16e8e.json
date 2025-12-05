@@ -1,0 +1,16 @@
+{
+    "urlName": "marauder-scout",
+    "url": "http://aqwwiki.wikidot.com/marauder-scout",
+    "name": "Marauder Scout",
+    "type": "armors",
+    "description": "These former comrades of Kyron are heck bent on undermining his position as General and bringing havoc to the Steppes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/nmJdFwi.png",
+        "http://i.imgur.com/jZ9RhXC.png"
+    ],
+    "hash": "85508921dc51225625c53b6816f16e8e"
+}

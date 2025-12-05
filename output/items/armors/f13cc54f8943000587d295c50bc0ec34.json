@@ -1,0 +1,17 @@
+{
+    "urlName": "elemental-summoner",
+    "url": "http://aqwwiki.wikidot.com/elemental-summoner",
+    "name": "Elemental Summoner",
+    "type": "armors",
+    "description": "Those who have been extensively enlightenment by all eight elemental planes are gifted with the power to call forth a single legendary dragon associated with each respective element.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/M1iXtjD.png",
+        "http://i.imgur.com/H8YwSF6.png"
+    ],
+    "hash": "f13cc54f8943000587d295c50bc0ec34"
+}

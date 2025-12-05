@@ -1,0 +1,17 @@
+{
+    "urlName": "werepyre-slayer",
+    "url": "http://aqwwiki.wikidot.com/werepyre-slayer",
+    "name": "Werepyre Slayer",
+    "type": "armors",
+    "description": "Everyone wants to suit up in this rare armor. Only a select few will ever get the chance. You have shown your worth in PvP combat and shall reap the awards forevermore.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/werepyre-slayer/WerepyreSlayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/werepyre-slayer/WerepyreSlayerF.png"
+    ],
+    "hash": "85d4075d4cefdb29c0493e1abd724e76"
+}

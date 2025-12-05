@@ -1,0 +1,16 @@
+{
+    "urlName": "celestial-starmage",
+    "url": "http://aqwwiki.wikidot.com/celestial-starmage",
+    "name": "Celestial StarMage",
+    "type": "armors",
+    "description": "The stars aligned bestowing their magic on these mages!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Dq39y0h.png",
+        "https://imgur.com/hFqpOa7.png"
+    ],
+    "hash": "f5cf2fdfd9ec9b2a43c88630c44bf890"
+}

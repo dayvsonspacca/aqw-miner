@@ -1,0 +1,16 @@
+{
+    "urlName": "warrior-of-lore",
+    "url": "http://aqwwiki.wikidot.com/warrior-of-lore",
+    "name": "Warrior of Lore",
+    "type": "armors",
+    "description": "Thank you for fighting to defend Lore from villains, monsters, and all who would attack the worlds we've built together. For 20 years, you've been Twilly's hero!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/AnOpFrz.png",
+        "https://i.imgur.com/SbAaa5x.png"
+    ],
+    "hash": "b137df0837808b933347885baa0de561"
+}

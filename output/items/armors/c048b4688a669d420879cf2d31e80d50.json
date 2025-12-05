@@ -1,0 +1,18 @@
+{
+    "urlName": "toxic-symbiote",
+    "url": "http://aqwwiki.wikidot.com/toxic-symbiote",
+    "name": "Toxic Symbiote",
+    "type": "armors",
+    "description": "Don't you know that you're toxic? (3% chance to do Toxic breath animation, gives 10% boost to Class Points and XP, plus 15% boost to rep)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/ARZYHdb.png",
+        "http://i.imgur.com/yTjb6Xx.png",
+        "http://i.imgur.com/Hs6xKaD.png"
+    ],
+    "hash": "c048b4688a669d420879cf2d31e80d50"
+}

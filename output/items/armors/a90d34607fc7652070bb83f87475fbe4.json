@@ -1,0 +1,17 @@
+{
+    "urlName": "northern-wanderer-ac",
+    "url": "http://aqwwiki.wikidot.com/northern-wanderer-ac",
+    "name": "Northern Wanderer (AC)",
+    "type": "armors",
+    "description": "Cold? Bah! Who's cold with all this armor on? You think you have the guts to wander the Northlands? Well bring on the cold!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/VCRzZDJ.png",
+        "https://i.imgur.com/hjf9Pf7.png"
+    ],
+    "hash": "a90d34607fc7652070bb83f87475fbe4"
+}

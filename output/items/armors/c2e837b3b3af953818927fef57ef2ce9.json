@@ -1,0 +1,17 @@
+{
+    "urlName": "overdriven-evocator-armor",
+    "url": "http://aqwwiki.wikidot.com/overdriven-evocator-armor",
+    "name": "Overdriven Evocator (Armor)",
+    "type": "armors",
+    "description": "The Legion Evocator's magic and unique craft call to bone and flesh. Blessed blind by the Light, a new master comforts their souls and points their spells at their former liege.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wdAaHWa.png",
+        "https://i.imgur.com/OFqRjwY.png"
+    ],
+    "hash": "c2e837b3b3af953818927fef57ef2ce9"
+}

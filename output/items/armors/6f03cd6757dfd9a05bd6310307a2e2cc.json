@@ -1,0 +1,16 @@
+{
+    "urlName": "living-mana",
+    "url": "http://aqwwiki.wikidot.com/living-mana",
+    "name": "Living Mana",
+    "type": "armors",
+    "description": "In high enough concentrations, mana can become an animated substance, distilling itself from the air to take shape. Only specially trained mages can create and harness this living mana.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/PGQDq9t.png",
+        "http://i.imgur.com/hXQqiyQ.png"
+    ],
+    "hash": "6f03cd6757dfd9a05bd6310307a2e2cc"
+}

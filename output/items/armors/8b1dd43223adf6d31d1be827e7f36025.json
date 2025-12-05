@@ -1,0 +1,18 @@
+{
+    "urlName": "inferno-stalker",
+    "url": "http://aqwwiki.wikidot.com/inferno-stalker",
+    "name": "Inferno Stalker",
+    "type": "armors",
+    "description": "Deep in the depths of the most vicious volcanos, a clan of warriors is said to feed of its power.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/qzcHvTq.png",
+        "http://i.imgur.com/ZBz8kDJ.png",
+        "https://i.imgur.com/aeqYmaV.png",
+        "http://i.imgur.com/iy0iVhd.png"
+    ],
+    "hash": "8b1dd43223adf6d31d1be827e7f36025"
+}

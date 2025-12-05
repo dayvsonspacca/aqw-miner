@@ -1,0 +1,17 @@
+{
+    "urlName": "galactic-captain",
+    "url": "http://aqwwiki.wikidot.com/galactic-captain",
+    "name": "Galactic Captain",
+    "type": "armors",
+    "description": "Soar through air and space defending those who cannot fight for themselves.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/durNhAy.png",
+        "https://i.imgur.com/OtAeZRI.png"
+    ],
+    "hash": "b2152f3728112d2a4172ea4ce367d52d"
+}

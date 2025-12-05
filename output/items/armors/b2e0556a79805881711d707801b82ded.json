@@ -1,0 +1,16 @@
+{
+    "urlName": "black-bishop",
+    "url": "http://aqwwiki.wikidot.com/black-bishop",
+    "name": "Black Bishop",
+    "type": "armors",
+    "description": "In skilled hands, Bishops become forks of lightening, surgically infiltrating the enemy ranks and wreaking havoc among the back line.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/xtc8dIK.png",
+        "http://i.imgur.com/cOvNprn.png"
+    ],
+    "hash": "b2e0556a79805881711d707801b82ded"
+}

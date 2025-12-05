@@ -1,0 +1,17 @@
+{
+    "urlName": "tidebound-maiden",
+    "url": "http://aqwwiki.wikidot.com/tidebound-maiden",
+    "name": "Tidebound Maiden",
+    "type": "armors",
+    "description": "The garb of an ocean maiden blessed by the Queen of the Southern Sea, flowing with emerald and gold tides.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/oPytVq1.png",
+        "https://i.imgur.com/FHr3685.png"
+    ],
+    "hash": "b37faf9320c760352c7680dba086c47c"
+}

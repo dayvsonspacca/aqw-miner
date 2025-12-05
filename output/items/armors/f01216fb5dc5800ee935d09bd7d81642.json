@@ -1,0 +1,15 @@
+{
+    "urlName": "tomb-thief",
+    "url": "http://aqwwiki.wikidot.com/tomb-thief",
+    "name": "Tomb Thief",
+    "type": "armors",
+    "description": "You're a sneaky raider who's only goal is to rob the pyramids of their wonderful things.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://imgur.com/cJrbDXG.png",
+        "http://i.imgur.com/eE20sUB.png",
+        "http://aqwwiki.wdfiles.com/local--files/tomb-thief/TTFO.png"
+    ],
+    "hash": "f01216fb5dc5800ee935d09bd7d81642"
+}

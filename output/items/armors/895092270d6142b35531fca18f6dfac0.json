@@ -1,0 +1,16 @@
+{
+    "urlName": "waterlogged-zombie-armor",
+    "url": "http://aqwwiki.wikidot.com/waterlogged-zombie-armor",
+    "name": "Waterlogged Zombie (Armor)",
+    "type": "armors",
+    "description": "Bones and barnacles and braaaaaiiiinnnns, oh my!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/rjeHrRd.png"
+    ],
+    "hash": "895092270d6142b35531fca18f6dfac0"
+}

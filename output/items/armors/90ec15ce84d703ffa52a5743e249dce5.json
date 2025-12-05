@@ -1,0 +1,17 @@
+{
+    "urlName": "arachnid-curse-broker",
+    "url": "http://aqwwiki.wikidot.com/arachnid-curse-broker",
+    "name": "Arachnid Curse Broker",
+    "type": "armors",
+    "description": "The spider weaves a web of magic, lies, and death. This broker of curses offers mastery over all three for the right price. Their prey writhes in their inescapable trap.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AK642cE.png",
+        "https://i.imgur.com/ao1KplZ.png"
+    ],
+    "hash": "90ec15ce84d703ffa52a5743e249dce5"
+}

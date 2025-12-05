@@ -1,0 +1,14 @@
+{
+    "urlName": "rogue-armor",
+    "url": "http://aqwwiki.wikidot.com/rogue-armor",
+    "name": "Rogue Armor",
+    "type": "armors",
+    "description": "Rogues follow their own set of rules. With a combination of speed, cunning and poisons, you take your enemies by surprise.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/jMXLjzA.png",
+        "https://i.imgur.com/3xEENUF.png"
+    ],
+    "hash": "d14c36361c4df955b42df7b3463dc700"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "trislayer-armor",
+    "url": "http://aqwwiki.wikidot.com/trislayer-armor",
+    "name": "Trislayer Armor",
+    "type": "armors",
+    "description": "This armor shows that you have slain Trigoras, the great three-headed dragon!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/trislayer-armor/Trislayer.png",
+        "http://aqwwiki.wdfiles.com/local--files/trislayer-armor/TrislayerF.png"
+    ],
+    "hash": "c3accd60a004335b9ddf11c485a58f74"
+}

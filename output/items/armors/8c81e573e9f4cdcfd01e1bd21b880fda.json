@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-mage",
+    "url": "http://aqwwiki.wikidot.com/golden-mage",
+    "name": "Golden Mage",
+    "type": "armors",
+    "description": "The heroes of Battleon will ALWAYS be where they are needed. Some fight for gold. Some fight for glory. But ALL will emerge victorious when we fight together.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/g2txjA8.png",
+        "https://i.imgur.com/poYvjsq.png"
+    ],
+    "hash": "8c81e573e9f4cdcfd01e1bd21b880fda"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "usagi-oni",
+    "url": "http://aqwwiki.wikidot.com/usagi-oni",
+    "name": "Usagi Oni",
+    "type": "armors",
+    "description": "Most Oni are painted with a single brutal, and bloody brush. In reality, there are several independent clans. One revels in festivities and attend tournaments to show off their strength, dressed in merry-making garb.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/E4Gj3BX.png",
+        "https://imgur.com/a8w9zgj.png"
+    ],
+    "hash": "eca3d28bd0f5bf57b382f8d7ce5ce6ac"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "yguazu-warrior",
+    "url": "http://aqwwiki.wikidot.com/yguazu-warrior",
+    "name": "Yguazu Warrior",
+    "type": "armors",
+    "description": "The garb of a respected warrior, poised to one day become a wise and just leader. Even the gods glare in jealousy. (click on chest)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/enilNn7.png",
+        "https://i.imgur.com/B0ucfQc.png",
+        "https://i.imgur.com/9mKgVqm.png",
+        "https://i.imgur.com/Y41T0qf.png"
+    ],
+    "hash": "3197e00beaf815f0fc17f01e6c3109fe"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "the-order-of-seeker",
+    "url": "http://aqwwiki.wikidot.com/the-order-of-seeker",
+    "name": "The Order of Seeker",
+    "type": "armors",
+    "description": "There are those who try to bring balance to Lore and those who seek out havoc. Which one are you?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-order-of-seeker/TheOrderofSeekerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-order-of-seeker/TheOrderofSeekerF.png"
+    ],
+    "hash": "eb53be77ca3d66ec240d7ad33cd3138c"
+}

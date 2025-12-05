@@ -1,0 +1,19 @@
+{
+    "urlName": "sentinel-armor",
+    "url": "http://aqwwiki.wikidot.com/sentinel-armor",
+    "name": "Sentinel Armor",
+    "type": "armors",
+    "description": "Sentinels are powerful and elite defenders of Lore.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/YGxPQlD.png",
+        "http://i.imgur.com/QnajuvD.png",
+        "http://i.imgur.com/3lvjMGb.png",
+        "http://i.imgur.com/gZ2UmSW.png"
+    ],
+    "hash": "bbdbcbfef23defb7385c4327d2abbe6f"
+}

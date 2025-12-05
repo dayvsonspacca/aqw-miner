@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-glory-rogue",
+    "url": "http://aqwwiki.wikidot.com/golden-glory-rogue",
+    "name": "Golden Glory Rogue",
+    "type": "armors",
+    "description": "The heroes of Battleon will ALWAYS be where they are needed. Some fight for gold. Some fight for glory. But ALL will emerge victorious when we fight together.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/SL6gZrm.png",
+        "https://i.imgur.com/RTLq9n8.png"
+    ],
+    "hash": "67b425a1876838fd2ff3f03c680df271"
+}

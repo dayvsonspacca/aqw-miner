@@ -1,0 +1,17 @@
+{
+    "urlName": "omega-alchemist",
+    "url": "http://aqwwiki.wikidot.com/omega-alchemist",
+    "name": "Omega Alchemist",
+    "type": "armors",
+    "description": "The title of \"omega\" is only reserved for the greatest master of the art. They are as intelligent as they are dangerous.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/omega-alchemist/OmegaAlchemistM.png",
+        "http://aqwwiki.wdfiles.com/local--files/omega-alchemist/OmegaAlchemistF.png"
+    ],
+    "hash": "bf5870469c72ad35d0fc7c39e5cf9719"
+}

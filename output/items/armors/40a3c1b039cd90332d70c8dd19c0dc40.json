@@ -1,0 +1,17 @@
+{
+    "urlName": "nightmare-plate",
+    "url": "http://aqwwiki.wikidot.com/nightmare-plate",
+    "name": "Nightmare Plate",
+    "type": "armors",
+    "description": "One of the most nightmarish armors available, this plate armor exists only to bring retribution to your foes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nightmare-plate/NPM.png",
+        "http://aqwwiki.wdfiles.com/local--files/nightmare-plate/NPF.png"
+    ],
+    "hash": "40a3c1b039cd90332d70c8dd19c0dc40"
+}

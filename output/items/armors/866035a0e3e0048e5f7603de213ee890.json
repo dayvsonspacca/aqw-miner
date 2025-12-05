@@ -1,0 +1,14 @@
+{
+    "urlName": "joy-explorer",
+    "url": "http://aqwwiki.wikidot.com/joy-explorer",
+    "name": "Joy Explorer",
+    "type": "armors",
+    "description": "Live a life full of color, happiness, joy, and pride. Battle On!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/phgpMIy.png",
+        "https://i.imgur.com/V9emC8P.png"
+    ],
+    "hash": "866035a0e3e0048e5f7603de213ee890"
+}

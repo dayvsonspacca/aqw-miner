@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-s-fiend",
+    "url": "http://aqwwiki.wikidot.com/legion-s-fiend",
+    "name": "Legion's Fiend",
+    "type": "armors",
+    "description": "Sometime's a fiend's gotta do what a fiend's gotta do\u2026 you know. Join the Legion!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Sq9P5Yh.png",
+        "https://i.imgur.com/Q7jQpw4.png"
+    ],
+    "hash": "b0af33d079e41edcadf9c3243101ff49"
+}

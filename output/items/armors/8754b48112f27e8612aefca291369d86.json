@@ -1,0 +1,17 @@
+{
+    "urlName": "petrified-fiend-ac",
+    "url": "http://aqwwiki.wikidot.com/petrified-fiend-ac",
+    "name": "Petrified Fiend (AC)",
+    "type": "armors",
+    "description": "Ever hungry for power, the Petrified Fiend will do Nulgath's bidding until the end of time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/DrfIQSe.png",
+        "https://i.imgur.com/0IJeQhT.png"
+    ],
+    "hash": "8754b48112f27e8612aefca291369d86"
+}

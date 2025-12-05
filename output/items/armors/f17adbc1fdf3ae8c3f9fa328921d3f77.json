@@ -1,0 +1,16 @@
+{
+    "urlName": "paragon-of-light-armor",
+    "url": "http://aqwwiki.wikidot.com/paragon-of-light-armor",
+    "name": "Paragon of Light (Armor)",
+    "type": "armors",
+    "description": "Purified in the image of Dage the Good, this armor comes to show that there is always light where there is darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paragon-of-light-armor/ParagonofLight.png"
+    ],
+    "hash": "f17adbc1fdf3ae8c3f9fa328921d3f77"
+}

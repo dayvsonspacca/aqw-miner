@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-defiance-armor",
+    "url": "http://aqwwiki.wikidot.com/golden-defiance-armor",
+    "name": "Golden Defiance Armor",
+    "type": "armors",
+    "description": "\"I will rise against thee and take thy land for my own!\" He screamed while yelling towards the skies\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-defiance-armor/GoldenDefianceArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-defiance-armor/GoldenDefianceArmorF.png"
+    ],
+    "hash": "afa91e7c244fd6fcb2429f7bf0473742"
+}

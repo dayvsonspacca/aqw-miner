@@ -1,0 +1,16 @@
+{
+    "urlName": "void-highlord-armor",
+    "url": "http://aqwwiki.wikidot.com/void-highlord-armor",
+    "name": "Void Highlord Armor",
+    "type": "armors",
+    "description": "Nulgath ranks you a Void Warlord and bestows a portion of his power to you. You are a sinister brute bringing anyone to your knees. Half of your soul has been taken by Nulgath as for the price of this untamed power, use it wisely.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/yMNewwX.png",
+        "http://i.imgur.com/pT3gU1v.png"
+    ],
+    "hash": "0a602314b9687424e64da0918b9ceb1a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "alchemical-naval-commander-0-ac",
+    "url": "http://aqwwiki.wikidot.com/alchemical-naval-commander-0-ac",
+    "name": "Alchemical Naval Commander (0 AC)",
+    "type": "armors",
+    "description": "Alchemical Naval Commander scour the seas in search of new reagents and creatures to use in their mystical, magical workings.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/pxI7tpH.png",
+        "https://i.imgur.com/ukjmMQD.png"
+    ],
+    "hash": "2a147be0e4dcbc50d0ca3188bed29a81"
+}

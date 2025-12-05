@@ -1,0 +1,17 @@
+{
+    "urlName": "terno-rosa",
+    "url": "http://aqwwiki.wikidot.com/terno-rosa",
+    "name": "Terno Rosa",
+    "type": "armors",
+    "description": "A cor rosa deixa todo mundo lindo. Assim como este terno. (The color pink makes everyone look beautiful. So does this suit.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/bKHsOeQ.png",
+        "https://i.imgur.com/HMAtTOd.png"
+    ],
+    "hash": "a05d85c32fd46825705ab51372bf7af6"
+}

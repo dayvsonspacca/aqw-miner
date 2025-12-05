@@ -1,0 +1,17 @@
+{
+    "urlName": "maximillian-armor",
+    "url": "http://aqwwiki.wikidot.com/maximillian-armor",
+    "name": "Maximillian Armor",
+    "type": "armors",
+    "description": "Wear this armor with pride! Gilt entirely in gold and embellished with gemeralds, Maximillian's armor is everything except cowardly.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/HgYcHvf.png",
+        "http://aqwwiki.wdfiles.com/local--files/maximillian-armor/MaximillianArmorF.png"
+    ],
+    "hash": "af0461c0aa4a12ec699b96e97b5bf9a2"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "harpies-team-ac",
+    "url": "http://aqwwiki.wikidot.com/harpies-team-ac",
+    "name": "Harpies Team (AC)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football Players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/qdy1ON1.png",
+        "https://i.imgur.com/k3xkONN.png"
+    ],
+    "hash": "e25127fc3469b3a20df42170c91eeb08"
+}

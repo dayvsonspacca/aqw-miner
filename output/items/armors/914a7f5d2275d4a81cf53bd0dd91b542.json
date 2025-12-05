@@ -1,0 +1,17 @@
+{
+    "urlName": "samurai-lagomorph",
+    "url": "http://aqwwiki.wikidot.com/samurai-lagomorph",
+    "name": "Samurai Lagomorph",
+    "type": "armors",
+    "description": "Honour-bound and ready to go, this lagomorph armor is perfect for living up to the expectation that every battle is one-sided\u2026 yours! Make your enemies regret being on the wrong side.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/samurai-lagomorph/SamuraiLagomorphM.png",
+        "http://aqwwiki.wdfiles.com/local--files/samurai-lagomorph/SamuraiLagomorphF.png"
+    ],
+    "hash": "914a7f5d2275d4a81cf53bd0dd91b542"
+}

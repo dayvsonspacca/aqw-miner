@@ -1,0 +1,16 @@
+{
+    "urlName": "tech-archer",
+    "url": "http://aqwwiki.wikidot.com/tech-archer",
+    "name": "Tech Archer",
+    "type": "armors",
+    "description": "While some use future technology to start a new, the Tech Archer uses technology to improve on the old. Their skills with a bow are uncontested throughout the galaxy.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/h3IFyDp.png",
+        "https://i.imgur.com/nhVd4J2.png"
+    ],
+    "hash": "ec3758d7684d2c85e00fc2d5a6fb26ac"
+}

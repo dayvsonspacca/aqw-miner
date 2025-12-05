@@ -1,0 +1,17 @@
+{
+    "urlName": "thundermoon-mystic",
+    "url": "http://aqwwiki.wikidot.com/thundermoon-mystic",
+    "name": "Thundermoon Mystic",
+    "type": "armors",
+    "description": "They move with the elegance and wonder of the moon. These mystics wield magic that changes based on the face of their heavenly benefactor. Some believe they can even change the phase of the moon with a waltz.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/QVAbpsC.png",
+        "https://i.imgur.com/cjX4n6S.png"
+    ],
+    "hash": "57999bc15fa3eb694e6c73e3d70a8e66"
+}

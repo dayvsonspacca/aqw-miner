@@ -1,0 +1,15 @@
+{
+    "urlName": "tau-ceti-soldier",
+    "url": "http://aqwwiki.wikidot.com/tau-ceti-soldier",
+    "name": "Tau Ceti Soldier",
+    "type": "armors",
+    "description": "Constructed by the infamous armor-crafter, Reddy, the Tau Ceti Soldiers hail from the cosmos and bring their thirst for domination with them to the land of Lore!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/a3rN6qh.png"
+    ],
+    "hash": "ccf8444af9ab077ccf2f52814f822a80"
+}

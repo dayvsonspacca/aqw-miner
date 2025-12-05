@@ -1,0 +1,16 @@
+{
+    "urlName": "adeptus-kathooli",
+    "url": "http://aqwwiki.wikidot.com/adeptus-kathooli",
+    "name": "Adeptus Kathooli",
+    "type": "armors",
+    "description": "\ufeffThe Adeptus Kathooli feed where manifestations of the God of the Depths appear. It transforms them and sharpens their primitive minds, planting an instinctual urge to spread. Places where the Adeptus spawn become Kathool's domain. (Does 25% more damage to all monsters when equipped.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/wvVX1nI.png",
+        "https://i.imgur.com/jejcGOn.png"
+    ],
+    "hash": "c85fcb7196e0c409ff7e04a89b900d55"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "black-ice-wizard",
+    "url": "http://aqwwiki.wikidot.com/black-ice-wizard",
+    "name": "Black Ice Wizard",
+    "type": "armors",
+    "description": "Just as easy as turning water into\u2026.ice!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/iy6IQIP.png",
+        "https://i.imgur.com/IAeVLsO.png",
+        "https://i.imgur.com/oZvZmL9.png",
+        "https://i.imgur.com/W6Ej5nv.png"
+    ],
+    "hash": "1ce86a3181c25f326282688c250e7057"
+}

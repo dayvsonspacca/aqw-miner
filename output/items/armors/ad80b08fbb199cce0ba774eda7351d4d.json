@@ -1,0 +1,17 @@
+{
+    "urlName": "the-fiending",
+    "url": "http://aqwwiki.wikidot.com/the-fiending",
+    "name": "The Fiending",
+    "type": "armors",
+    "description": "An apprentice cryomancer experienced frostbite for over two months without finding any sign of warmth. The hoarfrost around him fused with his magic, turning his skin to ice crystals that make up the fearsome and strong elemental he became.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-fiending/TheFiendingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-fiending/TheFiendingF.png"
+    ],
+    "hash": "ad80b08fbb199cce0ba774eda7351d4d"
+}

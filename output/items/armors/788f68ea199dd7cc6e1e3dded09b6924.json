@@ -1,0 +1,18 @@
+{
+    "urlName": "masquerade-vesture",
+    "url": "http://aqwwiki.wikidot.com/masquerade-vesture",
+    "name": "Masquerade Vesture",
+    "type": "armors",
+    "description": "A marvelously elaborate outfit that is as stunning as it is festive, perfect for pageants and balls and dragon-slaying.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/8rmGZTm.png",
+        "http://i.imgur.com/OkoFHzR.png"
+    ],
+    "hash": "788f68ea199dd7cc6e1e3dded09b6924"
+}

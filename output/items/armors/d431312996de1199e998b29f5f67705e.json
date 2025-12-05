@@ -1,0 +1,18 @@
+{
+    "urlName": "raven-king-queen-ac",
+    "url": "http://aqwwiki.wikidot.com/raven-king-queen-ac",
+    "name": "Raven King & Queen (AC)",
+    "type": "armors",
+    "description": "The leftover gown of the fallen queen Kira. After a devious fight with the one true queen, the raven queen Kira has risen in another form to seek vengeance. Furthermore, the raven king goes in search for his lost queen.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/raven-king-queen-ac/RavenKingN.png",
+        "http://aqwwiki.wdfiles.com/local--files/raven-king-queen-ac/RavenKingO.png",
+        "http://aqwwiki.wdfiles.com/local--files/raven-king-queen-ac/RavenQueen.png"
+    ],
+    "hash": "d431312996de1199e998b29f5f67705e"
+}

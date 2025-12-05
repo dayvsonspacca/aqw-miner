@@ -1,0 +1,16 @@
+{
+    "urlName": "lezard-man-armor",
+    "url": "http://aqwwiki.wikidot.com/lezard-man-armor",
+    "name": "leZard Man (Armor)",
+    "type": "armors",
+    "description": "The leZard Men can only come out when the sun is in eclipse, or they will be burnt where they stand. This rarely-seen race is one of the most mysterious on Lore.",
+    "rarity": "Crazy Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/6Yqig1J.png",
+        "http://i.imgur.com/iJOmzjZ.png"
+    ],
+    "hash": "ba91741c30860dc70df07f2f196c54b7"
+}

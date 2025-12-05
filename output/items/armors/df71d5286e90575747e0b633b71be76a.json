@@ -1,0 +1,17 @@
+{
+    "urlName": "paladin-of-resolution",
+    "url": "http://aqwwiki.wikidot.com/paladin-of-resolution",
+    "name": "Paladin of Resolution",
+    "type": "armors",
+    "description": "These paladins are sworn protectors of New Year's resolutions, making sure that those who resolve to improve themselves follow through.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/vghLZg3.png",
+        "http://i.imgur.com/zb40JYA.png"
+    ],
+    "hash": "df71d5286e90575747e0b633b71be76a"
+}

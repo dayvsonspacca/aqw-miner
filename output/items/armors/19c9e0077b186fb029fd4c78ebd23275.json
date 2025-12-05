@@ -1,0 +1,17 @@
+{
+    "urlName": "fallen-guardian",
+    "url": "http://aqwwiki.wikidot.com/fallen-guardian",
+    "name": "Fallen Guardian",
+    "type": "armors",
+    "description": "Cast from the Celestial Realm a millennia ago, these divine beings have lived in the Infernal Realm waiting, waiting for a time to retake the world they were exiled from.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-guardian/FallenGuardianM.png",
+        "http://aqwwiki.wdfiles.com/local--files/fallen-guardian/FallenGuardianF.png"
+    ],
+    "hash": "19c9e0077b186fb029fd4c78ebd23275"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "timeseeker-ac",
+    "url": "http://aqwwiki.wikidot.com/timeseeker-ac",
+    "name": "Timeseeker (AC)",
+    "type": "armors",
+    "description": "Only the most skilled Treasurehunters become Timeseekers, questing across the timestreams that make up the fabric of our universe.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tfQPw7i.png",
+        "https://i.imgur.com/090cWVW.png"
+    ],
+    "hash": "d989c1e3b1a9a340bf69166354c4fbdc"
+}

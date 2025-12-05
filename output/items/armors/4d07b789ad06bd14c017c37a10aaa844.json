@@ -1,0 +1,17 @@
+{
+    "urlName": "mammoth-team-legend",
+    "url": "http://aqwwiki.wikidot.com/mammoth-team-legend",
+    "name": "Mammoth Team (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mammoth-team-legend/MammothTeamM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mammoth-team-legend/MammothTeamF.png"
+    ],
+    "hash": "4d07b789ad06bd14c017c37a10aaa844"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "fiend-minion",
+    "url": "http://aqwwiki.wikidot.com/fiend-minion",
+    "name": "Fiend Minion",
+    "type": "armors",
+    "description": "Small but fierce, this being is known for having a high quantity of Void Energy. Even though its rank is low, it can still compensate with its endurance and its constant evolving power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/4ntFhtJ.png",
+        "https://i.imgur.com/lXWucUb.png"
+    ],
+    "hash": "f891151754ee380011206bf824e30a3e"
+}

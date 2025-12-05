@@ -1,0 +1,17 @@
+{
+    "urlName": "bleakwind-rogue",
+    "url": "http://aqwwiki.wikidot.com/bleakwind-rogue",
+    "name": "Bleakwind Rogue",
+    "type": "armors",
+    "description": "Bitter winds blow, bringing the scent of the enemy to the trained stalkers of the Bleakwind Rogue clan. Join them and learn how to disappear into the iciest landscapes!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bleakwind-rogue/BleakwindRogueM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bleakwind-rogue/BleakwindRogueF.png"
+    ],
+    "hash": "08ddb71fd675397d87ae4aaca749b60d"
+}

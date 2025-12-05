@@ -1,0 +1,16 @@
+{
+    "urlName": "paladin-armor",
+    "url": "http://aqwwiki.wikidot.com/paladin-armor",
+    "name": "Paladin (Armor)",
+    "type": "armors",
+    "description": "Paladins are the honest and good protectors of\u2026 GOOD and GOODNESS!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/INz0MDL.png",
+        "https://i.imgur.com/GqH4p4X.png"
+    ],
+    "hash": "0f48fb4ee3d6ef7522c50c1cf37f48fe"
+}

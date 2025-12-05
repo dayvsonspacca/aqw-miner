@@ -1,0 +1,17 @@
+{
+    "urlName": "royal-arachna-robes",
+    "url": "http://aqwwiki.wikidot.com/royal-arachna-robes",
+    "name": "Royal Arachna Robes",
+    "type": "armors",
+    "description": "Regal and deadly. The looks of the Chaos Weaver Queen demands respect. Only those who swear their unwavering alliance are granted such splendor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/royal-arachna-robes/RoyalArachnaRobesM.png",
+        "http://aqwwiki.wdfiles.com/local--files/royal-arachna-robes/RoyalArachnaRobesF.png"
+    ],
+    "hash": "72079f50a64e5ce0c3c56677d060ca96"
+}

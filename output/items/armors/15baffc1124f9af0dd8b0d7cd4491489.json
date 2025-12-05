@@ -1,0 +1,17 @@
+{
+    "urlName": "ebil-ai-enforcer",
+    "url": "http://aqwwiki.wikidot.com/ebil-ai-enforcer",
+    "name": "Ebil AI Enforcer",
+    "type": "armors",
+    "description": "A bionic human weapon augmented with state-of-the- art technology and Decision Making Al. In case of violent or deranged behavior, press the Reset button in their left nostril.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/qaUdLO4.png",
+        "https://imgur.com/YOgATT9.png"
+    ],
+    "hash": "15baffc1124f9af0dd8b0d7cd4491489"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-cryptraiser-skeleton-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-cryptraiser-skeleton-ac",
+    "name": "Dark CryptRaiser Skeleton (AC)",
+    "type": "armors",
+    "description": "For Darkness, fly the black flag!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/iCLEkyj.png"
+    ],
+    "hash": "af5a2b49d1786ba9a687ce4214afb663"
+}

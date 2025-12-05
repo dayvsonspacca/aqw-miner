@@ -1,0 +1,17 @@
+{
+    "urlName": "kakarotting-zombie",
+    "url": "http://aqwwiki.wikidot.com/kakarotting-zombie",
+    "name": "Kakarotting Zombie",
+    "type": "armors",
+    "description": "You're kakaROTTING! Ahahahahahaha!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kakarotting-zombie/KZM.png",
+        "http://aqwwiki.wdfiles.com/local--files/kakarotting-zombie/KZF.png"
+    ],
+    "hash": "26bb57dfdc222653b185722044860326"
+}

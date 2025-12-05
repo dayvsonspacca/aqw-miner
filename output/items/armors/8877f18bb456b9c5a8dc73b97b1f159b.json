@@ -1,0 +1,17 @@
+{
+    "urlName": "nightelf-shadowstalker",
+    "url": "http://aqwwiki.wikidot.com/nightelf-shadowstalker",
+    "name": "Nightelf Shadowstalker",
+    "type": "armors",
+    "description": "Some northern elves don't bundle up before traveling to the Northlands. All they need to do is blend in with the enormous ice and snow.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nightelf-shadowstalker/NShmale.png",
+        "http://aqwwiki.wdfiles.com/local--files/nightelf-shadowstalker/NShfemale.png"
+    ],
+    "hash": "8877f18bb456b9c5a8dc73b97b1f159b"
+}

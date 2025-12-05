@@ -1,0 +1,16 @@
+{
+    "urlName": "master-falconer",
+    "url": "http://aqwwiki.wikidot.com/master-falconer",
+    "name": "Master Falconer",
+    "type": "armors",
+    "description": "Command your own army, slay the Undead, catch the early worms, or just look your best in a Master Falconer Armor.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/qf9zMch.png",
+        "http://i.imgur.com/WTHbSuE.png"
+    ],
+    "hash": "6a0bcc4fad8ff459e0cf7c346b24802b"
+}

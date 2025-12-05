@@ -1,0 +1,18 @@
+{
+    "urlName": "novac-sal-privateer",
+    "url": "http://aqwwiki.wikidot.com/novac-sal-privateer",
+    "name": "Novac Sal Privateer",
+    "type": "armors",
+    "description": "\"New money\" pirates who set sail for gold on a whim. No one knows their flag or their names. It's sink or swim for these scallywags. Salt and chipped steel will toughen them into real pirates, or send them to depths.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/55Bd4kz.png",
+        "https://i.imgur.com/a4T48Ns.png"
+    ],
+    "hash": "5b4bfcb0a8853a805883ca11d054e551"
+}

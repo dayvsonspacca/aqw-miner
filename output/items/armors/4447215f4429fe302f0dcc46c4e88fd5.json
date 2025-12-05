@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-heart-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-heart-armor",
+    "name": "Dark Heart Armor",
+    "type": "armors",
+    "description": "Hardship and heartbreak permeate this armor. The mastercraftsman who forged it spent many lonely nights molding it and reinforcing it with his own tears and memories of love tom from his grasp.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/jtlX1IE.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-heart-armor/DarkHeartArmorMale.png"
+    ],
+    "hash": "4447215f4429fe302f0dcc46c4e88fd5"
+}

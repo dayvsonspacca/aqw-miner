@@ -1,0 +1,17 @@
+{
+    "urlName": "blacktagonal-knight",
+    "url": "http://aqwwiki.wikidot.com/blacktagonal-knight",
+    "name": "Blacktagonal Knight",
+    "type": "armors",
+    "description": "Sometimes it gets so bad, they have to hire knights as security guards.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blacktagonal-knight/BlacktagonalKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/blacktagonal-knight/BlacktagonalKnightF.png"
+    ],
+    "hash": "7a9dd93df6dfd7b0d5658fcc1986b843"
+}

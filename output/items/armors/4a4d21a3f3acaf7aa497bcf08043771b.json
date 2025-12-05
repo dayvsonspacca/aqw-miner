@@ -1,0 +1,16 @@
+{
+    "urlName": "apprentice-of-awe",
+    "url": "http://aqwwiki.wikidot.com/apprentice-of-awe",
+    "name": "Apprentice of Awe",
+    "type": "armors",
+    "description": "Garments given to new members of Lore's Conservators. This item gives 15% more rep, gold, XP, and class points when equipped.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/lNKHRBL.png",
+        "https://i.imgur.com/ejKs8yf.png"
+    ],
+    "hash": "4a4d21a3f3acaf7aa497bcf08043771b"
+}

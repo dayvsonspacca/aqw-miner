@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-chevalier-legend",
+    "url": "http://aqwwiki.wikidot.com/celestial-chevalier-legend",
+    "name": "Celestial Chevalier (Legend)",
+    "type": "armors",
+    "description": "An elite armor oftentimes only worn by high ranking commanders of the Order of Celestial Knights. Blessed by Sayn himself, this armor contains an almost infinite supply of powerful light magic. If you have been granted this armor, then you must be a true hero in eyes of the Order.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/F0qvYbi.png",
+        "http://i.imgur.com/Ial69ci.png"
+    ],
+    "hash": "4e3b55577a4bb7c7e82e18f82d154c71"
+}

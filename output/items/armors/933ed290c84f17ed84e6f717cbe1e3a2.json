@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-magelord-ac",
+    "url": "http://aqwwiki.wikidot.com/shadow-magelord-ac",
+    "name": "Shadow Magelord (AC)",
+    "type": "armors",
+    "description": "The respect given to magelords quickly gave way to fear when their magic grew dark. Though, fear and respect are in many ways the same.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Ax9PVek.png",
+        "https://i.imgur.com/LtwV2Dk.png"
+    ],
+    "hash": "933ed290c84f17ed84e6f717cbe1e3a2"
+}

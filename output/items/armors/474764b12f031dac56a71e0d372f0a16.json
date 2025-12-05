@@ -1,0 +1,17 @@
+{
+    "urlName": "ebilnet-agent",
+    "url": "http://aqwwiki.wikidot.com/ebilnet-agent",
+    "name": "EbilNet Agent",
+    "type": "armors",
+    "description": "Partially made of code, these Ebil special agents can sneak into netspace and snoop through your search history.",
+    "rarity": "1% Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/4iltSbq.png",
+        "https://imgur.com/YdkdncH.png"
+    ],
+    "hash": "474764b12f031dac56a71e0d372f0a16"
+}

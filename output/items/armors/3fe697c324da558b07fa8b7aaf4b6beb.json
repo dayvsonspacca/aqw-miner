@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-war-wraith-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-war-wraith-ac",
+    "name": "Legion War Wraith (AC)",
+    "type": "armors",
+    "description": "The War Wraiths march over the lands of the living that have succumbed to the thrall of Dage the Evil. For as long as they stand watch, those fields belong to the Underworld.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/TvcVviY.png",
+        "https://imgur.com/BFBDOwv.png"
+    ],
+    "hash": "3fe697c324da558b07fa8b7aaf4b6beb"
+}

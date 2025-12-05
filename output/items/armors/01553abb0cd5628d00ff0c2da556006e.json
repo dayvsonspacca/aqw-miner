@@ -1,0 +1,17 @@
+{
+    "urlName": "magical-popstar",
+    "url": "http://aqwwiki.wikidot.com/magical-popstar",
+    "name": "Magical PopStar",
+    "type": "armors",
+    "description": "Channel your mana into being the biggest brightest best popstar in all of Lore!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/KrA21DI.png",
+        "https://i.imgur.com/NKlawtc.png"
+    ],
+    "hash": "01553abb0cd5628d00ff0c2da556006e"
+}

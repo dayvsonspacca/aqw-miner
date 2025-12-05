@@ -1,0 +1,17 @@
+{
+    "urlName": "mariachi-armor",
+    "url": "http://aqwwiki.wikidot.com/mariachi-armor",
+    "name": "Mariachi Armor",
+    "type": "armors",
+    "description": "Wear this charro and start your own mariachi band. All you need is three violins, two trumpets, one guitarron, and if you are going all-out, consider adding a harp! Happy Cinco de Mayo!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://imgur.com/FVKoZB2.png",
+        "http://i.imgur.com/JMmYCSL.png"
+    ],
+    "hash": "be5870ae41b0bda406840b150126943b"
+}

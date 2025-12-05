@@ -1,0 +1,17 @@
+{
+    "urlName": "vampire-masquerade-ac",
+    "url": "http://aqwwiki.wikidot.com/vampire-masquerade-ac",
+    "name": "Vampire Masquerade (AC)",
+    "type": "armors",
+    "description": "When the Blood Moon rises the Masquerade calls.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9iHZrxx.png",
+        "https://i.imgur.com/5KWjcuv.png"
+    ],
+    "hash": "64c335b9ffd3bcdbb37cfc1891e39edd"
+}

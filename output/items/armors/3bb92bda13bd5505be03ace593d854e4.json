@@ -1,0 +1,17 @@
+{
+    "urlName": "unlucky-ringmaster",
+    "url": "http://aqwwiki.wikidot.com/unlucky-ringmaster",
+    "name": "Unlucky Ringmaster",
+    "type": "armors",
+    "description": "Welcome to the unluckiest show in Lore! No refunds.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/unlucky-ringmaster/UnluckyRingmasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/unlucky-ringmaster/UnluckyRingmasterF.png"
+    ],
+    "hash": "3bb92bda13bd5505be03ace593d854e4"
+}

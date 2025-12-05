@@ -1,0 +1,16 @@
+{
+    "urlName": "honra-selvagem",
+    "url": "http://aqwwiki.wikidot.com/honra-selvagem",
+    "name": "Honra Selvagem",
+    "type": "armors",
+    "description": "The Carnaval brings out the wild side of everyone but you can still show your honor and heritage in this armor.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/f74DFEU.png",
+        "https://i.imgur.com/xdUgPUs.png"
+    ],
+    "hash": "bceb4aeac378f8e159cb2d1bb1e2a969"
+}

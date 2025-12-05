@@ -1,0 +1,17 @@
+{
+    "urlName": "akiban-warrior",
+    "url": "http://aqwwiki.wikidot.com/akiban-warrior",
+    "name": "Akiban Warrior",
+    "type": "armors",
+    "description": "With perseverance and study, you too can become an Akiban Warrior. It is their duty to keep the inhabitants of Akiba safe.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/nrH4B8Y.png",
+        "https://i.imgur.com/BrKM9PU.png"
+    ],
+    "hash": "f4610fc1a1132be1a7f49bc7328cfb06"
+}

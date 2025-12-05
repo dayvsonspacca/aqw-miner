@@ -1,0 +1,17 @@
+{
+    "urlName": "noble-arcanist",
+    "url": "http://aqwwiki.wikidot.com/noble-arcanist",
+    "name": "Noble Arcanist",
+    "type": "armors",
+    "description": "The halls of Swordhaven whisper with the remnants of the spells you weave.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/noble-arcanist/NobleArcanistM.png",
+        "http://aqwwiki.wdfiles.com/local--files/noble-arcanist/NobleArcanistF.png"
+    ],
+    "hash": "899ac940d9638c19d5b27be2720d2f13"
+}

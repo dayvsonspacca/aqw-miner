@@ -1,0 +1,17 @@
+{
+    "urlName": "orochi-ronin",
+    "url": "http://aqwwiki.wikidot.com/orochi-ronin",
+    "name": "Orochi Ronin",
+    "type": "armors",
+    "description": "Deadly samurai who claim to have emerged from the blood of Orochi. They are the impurities he cleansed from himself, taken human form to poison the land.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WdS9xIW.png",
+        "https://i.imgur.com/BP3qqiU.png"
+    ],
+    "hash": "42d241908f58e3df17227221fedd2567"
+}

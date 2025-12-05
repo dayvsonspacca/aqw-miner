@@ -1,0 +1,18 @@
+{
+    "urlName": "jaded-necromancer",
+    "url": "http://aqwwiki.wikidot.com/jaded-necromancer",
+    "name": "Jaded Necromancer",
+    "type": "armors",
+    "description": "A necromancer's true nature shows through their greed of not letting the deceased rest.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/sEmgTjU.png",
+        "http://i.imgur.com/hKY5eWS.png",
+        "https://i.imgur.com/5oyWOwe.png",
+        "https://i.imgur.com/5gB4rwE.png"
+    ],
+    "hash": "4c6cf13d756870b1f4c1e7ce442bd9c9"
+}

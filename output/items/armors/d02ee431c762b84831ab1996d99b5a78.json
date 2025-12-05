@@ -1,0 +1,14 @@
+{
+    "urlName": "aquatic-defender",
+    "url": "http://aqwwiki.wikidot.com/aquatic-defender",
+    "name": "Aquatic Defender",
+    "type": "armors",
+    "description": "Does something actually seem fishy or are you smelling yourself?",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/XwnVCal.png",
+        "http://i.imgur.com/sRxHYWQ.png"
+    ],
+    "hash": "d02ee431c762b84831ab1996d99b5a78"
+}

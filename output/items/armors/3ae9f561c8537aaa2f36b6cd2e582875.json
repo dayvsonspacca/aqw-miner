@@ -1,0 +1,19 @@
+{
+    "urlName": "vampire-transformation",
+    "url": "http://aqwwiki.wikidot.com/vampire-transformation",
+    "name": "Vampire Transformation",
+    "type": "armors",
+    "description": "Full-blooded Vampires can transform at will. You now harness this amazing powers! Simply click to transform to Vampiric forms",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vampire-transformation/VampireTransformationMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/vampire-transformation/VampireTransformationMC.png",
+        "http://aqwwiki.wdfiles.com/local--files/vampire-transformation/VampireTransformationFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/vampire-transformation/VampireTransformationFC.png"
+    ],
+    "hash": "3ae9f561c8537aaa2f36b6cd2e582875"
+}

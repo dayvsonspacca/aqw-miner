@@ -1,0 +1,14 @@
+{
+    "urlName": "horc-evader-armor",
+    "url": "http://aqwwiki.wikidot.com/horc-evader-armor",
+    "name": "Horc Evader Armor",
+    "type": "armors",
+    "description": "The Horcs have trained you in the arts of evasion. They have shown you their secret art of beast lore.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/za8G81A.png",
+        "http://i.imgur.com/OehG88o.png"
+    ],
+    "hash": "64d09485cc13e19757def83853784ee9"
+}

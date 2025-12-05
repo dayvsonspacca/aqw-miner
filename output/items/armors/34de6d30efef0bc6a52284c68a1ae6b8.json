@@ -1,0 +1,16 @@
+{
+    "urlName": "tower-mystic",
+    "url": "http://aqwwiki.wikidot.com/tower-mystic",
+    "name": "Tower Mystic",
+    "type": "armors",
+    "description": "Only those with a great knowledge in sorcery shall be able to protect the Amberheart Tower from Chaotic creatures.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/QgV6dIy.png",
+        "https://i.imgur.com/VOZDvcG.png"
+    ],
+    "hash": "34de6d30efef0bc6a52284c68a1ae6b8"
+}

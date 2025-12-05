@@ -1,0 +1,17 @@
+{
+    "urlName": "nullb0rg-ac",
+    "url": "http://aqwwiki.wikidot.com/nullb0rg-ac",
+    "name": "NULLb0rg (AC)",
+    "type": "armors",
+    "description": "An armor fashioned in the likeness of the Archfend, using materials and technology in collaboration with Nation allies. Where the materials carne from is privy only to the Archfend.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/y8CkmIG.png",
+        "https://i.imgur.com/eMOR7MG.png"
+    ],
+    "hash": "6cb0be86aef2ab1d530de34e652943e9"
+}

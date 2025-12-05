@@ -1,0 +1,17 @@
+{
+    "urlName": "lavarock-destroyer-ac",
+    "url": "http://aqwwiki.wikidot.com/lavarock-destroyer-ac",
+    "name": "Lavarock Destroyer (AC)",
+    "type": "armors",
+    "description": "These are the sharks that lurk in the lava flows, awakened by the eruption of volcanos. They come from an age long past with a purpose long scorned, seeking to scorch the land anew.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/FpiHCeE.png",
+        "https://i.imgur.com/8tz6ctZ.png"
+    ],
+    "hash": "caa63659be0c083f78f55576e5eccbf2"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-dreadmarch-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-dreadmarch-ac",
+    "name": "Legion Dreadmarch (AC)",
+    "type": "armors",
+    "description": "Trained in light and heavy weapons and even in the riding of Legion Drakes, the Dreadmarch are some of Dage's most versatile foot-soldiers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-dreadmarch-ac/LDM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-dreadmarch-ac/LDF.png"
+    ],
+    "hash": "a2f3bf48778026afe814842cd83a9a27"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-gymnast-gear",
+    "url": "http://aqwwiki.wikidot.com/dark-gymnast-gear",
+    "name": "Dark Gymnast Gear",
+    "type": "armors",
+    "description": "You'll want to buff your DEX before equipping THIS gear if you want to battle on balance beams or grind those goody-two shoes into the gym floormats!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-gymnast-gear/DarkGymnastGearMaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-gymnast-gear/DarkGymnastGearMaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-gymnast-gear/DarkGymnastGearFemale.png"
+    ],
+    "hash": "78a94c6b8a74cdf5c0a555375a2ea14b"
+}

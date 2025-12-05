@@ -1,0 +1,16 @@
+{
+    "urlName": "blackbolt-armor",
+    "url": "http://aqwwiki.wikidot.com/blackbolt-armor",
+    "name": "BlackBolt Armor",
+    "type": "armors",
+    "description": "Those who study the dark side tend to gain immense power but at the cost of losing their moral and some sanity.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/AId1tse.png",
+        "http://i.imgur.com/tkrfUGI.png"
+    ],
+    "hash": "794e11684c06a239b2bb7f1635dc433a"
+}

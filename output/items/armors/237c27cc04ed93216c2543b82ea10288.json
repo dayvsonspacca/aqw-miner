@@ -1,0 +1,17 @@
+{
+    "urlName": "antique-hunter-armor-0-ac",
+    "url": "http://aqwwiki.wikidot.com/antique-hunter-armor-0-ac",
+    "name": "Antique Hunter (Armor) (0 AC)",
+    "type": "armors",
+    "description": "Antique hunters explore lore selectively looking for rare and powerful artifacts to aid them in their battles and adventures.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/cYQVkT5.png",
+        "https://i.imgur.com/4t4B7vO.png"
+    ],
+    "hash": "237c27cc04ed93216c2543b82ea10288"
+}

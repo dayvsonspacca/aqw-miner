@@ -1,0 +1,17 @@
+{
+    "urlName": "beach-wear",
+    "url": "http://aqwwiki.wikidot.com/beach-wear",
+    "name": "Beach Wear",
+    "type": "armors",
+    "description": "Grab your SPF 9000 and hit the sands of Lore, beach bunnies and surfer dudes. Tank top added for some extra sunblock.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ooNzkDM.png",
+        "http://i.imgur.com/5CM03XV.png"
+    ],
+    "hash": "85c76bc9f8082546acc41e089a010591"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "ancient-flamemaster-special",
+    "url": "http://aqwwiki.wikidot.com/ancient-flamemaster-special",
+    "name": "Ancient FlameMaster (Special)",
+    "type": "armors",
+    "description": "Legend says that the Ancient Flamemasters carried the power of fire within their very bones. They never feared darkness or cold, as they could call fire from within.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/BONjcTX.png",
+        "https://i.imgur.com/Ff43RoQ.png"
+    ],
+    "hash": "ac469dfb565e73a59a33ff0458bce1b0"
+}

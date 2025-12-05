@@ -1,0 +1,16 @@
+{
+    "urlName": "the-point",
+    "url": "http://aqwwiki.wikidot.com/the-point",
+    "name": "The Point",
+    "type": "armors",
+    "description": "What is it?",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/oy9Aeei.png",
+        "https://i.imgur.com/VKEw5ss.png"
+    ],
+    "hash": "22c997c99d28775140d9667dd0e1bb49"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "necro-snake-armor",
+    "url": "http://aqwwiki.wikidot.com/necro-snake-armor",
+    "name": "Necro Snake Armor",
+    "type": "armors",
+    "description": "Legs are overrated.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necro-snake-armor/NecroSnakeArmor.png"
+    ],
+    "hash": "e89d1cd930a0169fb0d5b11ab7468007"
+}

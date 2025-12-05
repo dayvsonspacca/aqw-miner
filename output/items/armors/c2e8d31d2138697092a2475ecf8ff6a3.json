@@ -1,0 +1,19 @@
+{
+    "urlName": "legion-titan",
+    "url": "http://aqwwiki.wikidot.com/legion-titan",
+    "name": "Legion Titan",
+    "type": "armors",
+    "description": "You have chosen your path. There is no going back now. As a Titan, you have sacrificed--nay, invested--",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/MycrtOY.png",
+        "http://i.imgur.com/3LyEqTI.png",
+        "http://i.imgur.com/ujzm8g5.png",
+        "http://i.imgur.com/ou4cHvz.png"
+    ],
+    "hash": "c2e8d31d2138697092a2475ecf8ff6a3"
+}

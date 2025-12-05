@@ -1,0 +1,17 @@
+{
+    "urlName": "formal-mage-robes",
+    "url": "http://aqwwiki.wikidot.com/formal-mage-robes",
+    "name": "Formal Mage Robes",
+    "type": "armors",
+    "description": "Flowing violet robes for Nythera's wedding. You can't help but smile when you wear it. You don't know why. Everyone also stares at you like something's in your teeth.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/formal-mage-robes/FMRM.png",
+        "http://aqwwiki.wdfiles.com/local--files/formal-mage-robes/FMRF.png"
+    ],
+    "hash": "e17d947e24497534880fe0f308c81021"
+}

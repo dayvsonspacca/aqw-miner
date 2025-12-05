@@ -1,0 +1,17 @@
+{
+    "urlName": "ac-tag",
+    "url": "http://aqwwiki.wikidot.com/ac-tag",
+    "name": "AC Tag",
+    "type": "armors",
+    "description": "Literal.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1ZO8RsD.png",
+        "https://i.imgur.com/0F6JaJ6.png"
+    ],
+    "hash": "fda7afac0e726e04c8352986b273e040"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "dark-cryptlord-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-cryptlord-armor",
+    "name": "Dark CryptLord Armor",
+    "type": "armors",
+    "description": "Made from the finest Darkovian silk, This elegant suit is worn by the vampires who are reign over their crypts.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/O2wETUp.png",
+        "https://i.imgur.com/b80hw36.png",
+        "https://i.imgur.com/HhUMiVj.png"
+    ],
+    "hash": "08234e19d70b4aa39fa26354f8af7cac"
+}

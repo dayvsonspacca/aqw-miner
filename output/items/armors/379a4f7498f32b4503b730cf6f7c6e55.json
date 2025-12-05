@@ -1,0 +1,17 @@
+{
+    "urlName": "wyrmtamer-armor",
+    "url": "http://aqwwiki.wikidot.com/wyrmtamer-armor",
+    "name": "WyrmTamer Armor",
+    "type": "armors",
+    "description": "You are a taker of chance, a tempter of fate. You want what no one can get. You, oh tamer of Wyrms, oh captor of draconic tales, this is your armor. Only one who boosts intelligence can have this armor.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wyrmtamer-armor/WyrmTamerArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/wyrmtamer-armor/WyrmTamerArmorF.png"
+    ],
+    "hash": "379a4f7498f32b4503b730cf6f7c6e55"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "faceless-knight",
+    "url": "http://aqwwiki.wikidot.com/faceless-knight",
+    "name": "Faceless Knight",
+    "type": "armors",
+    "description": "Sometimes you have to do what\u2019s right. Even if it means stabbing someone in the back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/faceless-knight/FacelessKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/faceless-knight/FacelessKnightF.png"
+    ],
+    "hash": "5e5cf8c6dd2cdd1cbe4d37a755e6ac70"
+}

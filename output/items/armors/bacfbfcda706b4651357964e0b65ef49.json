@@ -1,0 +1,16 @@
+{
+    "urlName": "oakheart-guardian",
+    "url": "http://aqwwiki.wikidot.com/oakheart-guardian",
+    "name": "OakHeart Guardian",
+    "type": "armors",
+    "description": "OakHearts are the magical Guardians of the Forest--",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oakheart-guardian/OakHeartGuardianM.png",
+        "http://aqwwiki.wdfiles.com/local--files/oakheart-guardian/OakHeartGuardianF.png"
+    ],
+    "hash": "bacfbfcda706b4651357964e0b65ef49"
+}

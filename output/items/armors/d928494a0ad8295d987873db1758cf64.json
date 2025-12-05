@@ -1,0 +1,15 @@
+{
+    "urlName": "dark-bones",
+    "url": "http://aqwwiki.wikidot.com/dark-bones",
+    "name": "Dark Bones",
+    "type": "armors",
+    "description": "This is why you should never skip Thanksgiving dinner to go shopping. (Credit to Neoslasher for the idea!)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-bones/DarkBones.png"
+    ],
+    "hash": "d928494a0ad8295d987873db1758cf64"
+}

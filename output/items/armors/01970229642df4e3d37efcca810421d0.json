@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-bride-and-groom",
+    "url": "http://aqwwiki.wikidot.com/undead-bride-and-groom",
+    "name": "Undead Bride and Groom",
+    "type": "armors",
+    "description": "Takes \"Til Death Do Us Part\" to an entirely new level.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-bride-and-groom/UndeadGroom.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-bride-and-groom/UndeadBride.png"
+    ],
+    "hash": "01970229642df4e3d37efcca810421d0"
+}

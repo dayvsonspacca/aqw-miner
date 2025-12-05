@@ -1,0 +1,14 @@
+{
+    "urlName": "orpheum-archer",
+    "url": "http://aqwwiki.wikidot.com/orpheum-archer",
+    "name": "Orpheum Archer",
+    "type": "armors",
+    "description": "These archers are responsible for the long-ranged defense of Somnia.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/JBTXhMo.png",
+        "https://i.imgur.com/uJXHP8G.png"
+    ],
+    "hash": "9bcd511d04ecad69222bc96937062c1f"
+}

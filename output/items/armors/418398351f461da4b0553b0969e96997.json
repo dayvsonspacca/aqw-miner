@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-mcluck-legend",
+    "url": "http://aqwwiki.wikidot.com/dark-mcluck-legend",
+    "name": "Dark McLuck (Legend)",
+    "type": "armors",
+    "description": "Dressed up and everywhere to be, this dapper armor will not only make you feel important, but look the part as you dismantle every enemy that comes your way. Who said you can't look good while fighting?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/W9T4DYv.png",
+        "https://i.imgur.com/x3wBUPe.png"
+    ],
+    "hash": "418398351f461da4b0553b0969e96997"
+}

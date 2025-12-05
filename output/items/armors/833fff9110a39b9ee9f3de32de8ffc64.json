@@ -1,0 +1,16 @@
+{
+    "urlName": "knight-of-shadows",
+    "url": "http://aqwwiki.wikidot.com/knight-of-shadows",
+    "name": "Knight of Shadows",
+    "type": "armors",
+    "description": "Serve your Empress well and one day, you too may command a full legion of Shadowscythe!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/LzHH96O.png",
+        "http://i.imgur.com/Q9Gqhrk.png"
+    ],
+    "hash": "833fff9110a39b9ee9f3de32de8ffc64"
+}

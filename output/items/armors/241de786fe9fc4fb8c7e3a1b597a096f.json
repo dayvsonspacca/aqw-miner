@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-sorceress",
+    "url": "http://aqwwiki.wikidot.com/dark-sorceress",
+    "name": "Dark Sorceress",
+    "type": "armors",
+    "description": "Dark Forest Sorcerers heavily favor the shadows as if it is a companion, which is why they often keep to themselves. They remain neutral in any conflict occurring in the world unless their homelands were threatened by war.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-sorceress/DSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-sorceress/DSF.png"
+    ],
+    "hash": "241de786fe9fc4fb8c7e3a1b597a096f"
+}

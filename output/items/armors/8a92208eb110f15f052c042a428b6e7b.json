@@ -1,0 +1,17 @@
+{
+    "urlName": "flameborn-barbarian",
+    "url": "http://aqwwiki.wikidot.com/flameborn-barbarian",
+    "name": "Flameborn Barbarian",
+    "type": "armors",
+    "description": "Your rage burns as brightly as the heart of Fiamme's fiery fortress. Channel that fury to take down ALL of your enemies!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/XkPWokR.png",
+        "https://i.imgur.com/7iyJ1Su.png"
+    ],
+    "hash": "8a92208eb110f15f052c042a428b6e7b"
+}

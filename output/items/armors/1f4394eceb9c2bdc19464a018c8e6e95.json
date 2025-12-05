@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-legion-mage",
+    "url": "http://aqwwiki.wikidot.com/undead-legion-mage",
+    "name": "Undead Legion Mage",
+    "type": "armors",
+    "description": "Eldritch magic courses through your cold veins. Your arcane powers enable you to cast powerful spells in service to Dage the Evil's Undead Legion.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/ikEfqSX.png",
+        "https://i.imgur.com/1PXuf6k.png"
+    ],
+    "hash": "1f4394eceb9c2bdc19464a018c8e6e95"
+}

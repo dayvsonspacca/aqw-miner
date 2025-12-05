@@ -1,0 +1,16 @@
+{
+    "urlName": "royal-alchemist",
+    "url": "http://aqwwiki.wikidot.com/royal-alchemist",
+    "name": "Royal Alchemist",
+    "type": "armors",
+    "description": "Conjuring Potions and Elixirs has never looked so cool!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/fzxFcmG.png",
+        "http://i.imgur.com/uNabwmO.png"
+    ],
+    "hash": "1fcdaf82eb514aba1a94348ef30f5c3a"
+}

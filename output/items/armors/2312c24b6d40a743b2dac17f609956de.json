@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-dreadrider",
+    "url": "http://aqwwiki.wikidot.com/legion-dreadrider",
+    "name": "Legion DreadRider",
+    "type": "armors",
+    "description": "The DreadRider serves as the elite calvary for Dage's Undead Legion.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-dreadrider/LDRM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-dreadrider/LDRF.png"
+    ],
+    "hash": "2312c24b6d40a743b2dac17f609956de"
+}

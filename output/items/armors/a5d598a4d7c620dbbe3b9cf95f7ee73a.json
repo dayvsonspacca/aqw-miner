@@ -1,0 +1,17 @@
+{
+    "urlName": "man-of-steal-ac",
+    "url": "http://aqwwiki.wikidot.com/man-of-steal-ac",
+    "name": "Man of Steal (AC)",
+    "type": "armors",
+    "description": "Only the finest supervillains can steal enough to /equip this armor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/oQwJ8M8.png",
+        "http://aqwwiki.wdfiles.com/local--files/man-of-steal-ac/ManofStealM.png"
+    ],
+    "hash": "a5d598a4d7c620dbbe3b9cf95f7ee73a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-commander",
+    "url": "http://aqwwiki.wikidot.com/glacial-commander",
+    "name": "Glacial Commander",
+    "type": "armors",
+    "description": "Forged from the core of the Ice Titan himself, this pristine armor belongs to the Champion of Ice. With every step you take, the world grows colder.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glacial-commander/GlacialCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/glacial-commander/GlacialCommanderF.png"
+    ],
+    "hash": "dba84a6d4adced62ef68dc1bbfdd026f"
+}

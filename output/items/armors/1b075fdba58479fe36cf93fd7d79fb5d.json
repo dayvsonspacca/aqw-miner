@@ -1,0 +1,18 @@
+{
+    "urlName": "litch-knight",
+    "url": "http://aqwwiki.wikidot.com/litch-knight",
+    "name": "Litch Knight",
+    "type": "armors",
+    "description": "Just because you're a knight doesn't mean you can't take pride in your appearance!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TttyOP2.png",
+        "https://i.imgur.com/MHDJd2e.png",
+        "https://i.imgur.com/euUqfIO.png"
+    ],
+    "hash": "1b075fdba58479fe36cf93fd7d79fb5d"
+}

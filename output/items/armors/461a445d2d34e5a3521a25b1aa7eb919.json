@@ -1,0 +1,17 @@
+{
+    "urlName": "riqueza-purpura",
+    "url": "http://aqwwiki.wikidot.com/riqueza-purpura",
+    "name": "Riqueza Purpura",
+    "type": "armors",
+    "description": "Dance until the sun falls out of the sky, and light up the streets until they outshine the stars!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/isL8BRI.png",
+        "https://i.imgur.com/VNgPBWx.png"
+    ],
+    "hash": "461a445d2d34e5a3521a25b1aa7eb919"
+}

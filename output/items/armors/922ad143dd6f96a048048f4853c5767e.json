@@ -1,0 +1,17 @@
+{
+    "urlName": "yokai-hanbok",
+    "url": "http://aqwwiki.wikidot.com/yokai-hanbok",
+    "name": "Yokai Hanbok",
+    "type": "armors",
+    "description": "Saehae bok mani badeuseyo! /bows",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AKu8Py3.png",
+        "https://i.imgur.com/sXytW0p.png",
+        "http://aqwwiki.wdfiles.com/local--files/yokai-hanbok/YokaiHanbokFOld.png"
+    ],
+    "hash": "922ad143dd6f96a048048f4853c5767e"
+}

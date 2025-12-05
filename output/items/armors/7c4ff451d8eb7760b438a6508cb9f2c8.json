@@ -1,0 +1,18 @@
+{
+    "urlName": "knight-of-light",
+    "url": "http://aqwwiki.wikidot.com/knight-of-light",
+    "name": "Knight of Light",
+    "type": "armors",
+    "description": "The royal guardians of Queen Lynaria, the defend all who pose a threat.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/iM03oQs.png",
+        "https://i.imgur.com/ij0TaE9.png",
+        "https://i.imgur.com/DwvsjWr.png",
+        "https://i.imgur.com/2F0iHRP.png"
+    ],
+    "hash": "7c4ff451d8eb7760b438a6508cb9f2c8"
+}

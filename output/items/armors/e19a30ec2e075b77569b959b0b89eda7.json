@@ -1,0 +1,17 @@
+{
+    "urlName": "fae-armor",
+    "url": "http://aqwwiki.wikidot.com/fae-armor",
+    "name": "Fae (Armor)",
+    "type": "armors",
+    "description": "Faes are perhaps the most nobles of all woodland pixies, praised for their wisdom and playfulness and revered for their magic and herbalism. Faes only appear during the Spring, and are thought to be one of the rarest faries in all of Lore.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fae-armor/FaeArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/fae-armor/FaeArmorFemale.png"
+    ],
+    "hash": "e19a30ec2e075b77569b959b0b89eda7"
+}

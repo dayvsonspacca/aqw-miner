@@ -1,0 +1,18 @@
+{
+    "urlName": "overworld-chronomancer-armor",
+    "url": "http://aqwwiki.wikidot.com/overworld-chronomancer-armor",
+    "name": "Overworld Chronomancer Armor",
+    "type": "armors",
+    "description": "Time holds no meaning deep in the Overworld\u2026 unless you are a Chronomancer!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/fixv9K6.png",
+        "https://i.imgur.com/Hhx0mB3.png",
+        "https://i.imgur.com/JS7De71.png",
+        "https://i.imgur.com/jqPGtHg.png"
+    ],
+    "hash": "57ee377e178c4a0e163629c91fc009bc"
+}

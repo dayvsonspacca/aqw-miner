@@ -1,0 +1,14 @@
+{
+    "urlName": "ycube-defender",
+    "url": "http://aqwwiki.wikidot.com/ycube-defender",
+    "name": "YCube Defender",
+    "type": "armors",
+    "description": "YCube? Because it's the BEST Cube!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/WeZ2ru4.png",
+        "https://i.imgur.com/dFFh3xP.png"
+    ],
+    "hash": "f0346ae7c2a14cbb9711aabd63a00d7f"
+}

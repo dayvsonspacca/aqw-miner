@@ -1,0 +1,17 @@
+{
+    "urlName": "void-gatekeeper-ac",
+    "url": "http://aqwwiki.wikidot.com/void-gatekeeper-ac",
+    "name": "Void GateKeeper (AC)",
+    "type": "armors",
+    "description": "Only Nulgath's most trusted acolytes are allowed to become Gatekeepers of the Void into the Realm of the OverSoul. Do not betray his trust\u2026 or he WILL be displeased.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/osP4P01.png",
+        "https://imgur.com/wdlMLo3.png"
+    ],
+    "hash": "8481f72c7bd1b22e6ecc3de184648ab7"
+}

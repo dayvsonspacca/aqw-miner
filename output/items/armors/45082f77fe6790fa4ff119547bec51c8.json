@@ -1,0 +1,17 @@
+{
+    "urlName": "kirin-s-avatar",
+    "url": "http://aqwwiki.wikidot.com/kirin-s-avatar",
+    "name": "Kirin's Avatar",
+    "type": "armors",
+    "description": "This armor is worn by those chosen to be avatars of the kirin guardian spirit of Yokai.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kirin-s-avatar/KirinsAvatarM.png",
+        "http://aqwwiki.wdfiles.com/local--files/kirin-s-avatar/KirinsAvatarF.png"
+    ],
+    "hash": "45082f77fe6790fa4ff119547bec51c8"
+}

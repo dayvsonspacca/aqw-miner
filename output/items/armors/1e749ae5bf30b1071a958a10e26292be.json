@@ -1,0 +1,17 @@
+{
+    "urlName": "vile-winter-slayer",
+    "url": "http://aqwwiki.wikidot.com/vile-winter-slayer",
+    "name": "Vile Winter Slayer",
+    "type": "armors",
+    "description": "Your detest for all things bitter cold has crept slowly into your soul, freezing it along with the season you fight.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vile-winter-slayer/VileWinterSlayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/vile-winter-slayer/VileWinterSlayerF.png"
+    ],
+    "hash": "1e749ae5bf30b1071a958a10e26292be"
+}

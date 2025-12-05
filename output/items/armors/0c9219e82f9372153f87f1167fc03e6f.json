@@ -1,0 +1,16 @@
+{
+    "urlName": "aquatica-vires",
+    "url": "http://aqwwiki.wikidot.com/aquatica-vires",
+    "name": "Aquatica Vires",
+    "type": "armors",
+    "description": "Have the power and Might of water at your fingertips while wearing this armor. Created by a madman who only wanted be one with the ocean and its inhabitants, this armor will indeed allow you into the depths of the seas. Just make sure the natives aren't restless.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/kvGBLmv.png",
+        "http://i.imgur.com/4szt00k.png"
+    ],
+    "hash": "0c9219e82f9372153f87f1167fc03e6f"
+}

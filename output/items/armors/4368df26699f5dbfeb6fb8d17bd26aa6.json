@@ -1,0 +1,16 @@
+{
+    "urlName": "void-shogun-armor",
+    "url": "http://aqwwiki.wikidot.com/void-shogun-armor",
+    "name": "Void Shogun (Armor)",
+    "type": "armors",
+    "description": "These Void warriors are part of an ancient Shogun empire that ruled thousands of years ago.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/N4OvWSE.png",
+        "https://i.imgur.com/QWLmazC.png"
+    ],
+    "hash": "4368df26699f5dbfeb6fb8d17bd26aa6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "elegant-doom-toga",
+    "url": "http://aqwwiki.wikidot.com/elegant-doom-toga",
+    "name": "Elegant Doom Toga",
+    "type": "armors",
+    "description": "Ideal for parties, formal speeches, or ruling an empire.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elegant-doom-toga/EDTM.png",
+        "http://aqwwiki.wdfiles.com/local--files/elegant-doom-toga/EDTF.png"
+    ],
+    "hash": "cd6648e36e8c11e48cbbc881c25c7a15"
+}

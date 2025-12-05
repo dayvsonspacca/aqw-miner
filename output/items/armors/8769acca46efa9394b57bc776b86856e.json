@@ -1,0 +1,16 @@
+{
+    "urlName": "xan-s-robes",
+    "url": "http://aqwwiki.wikidot.com/xan-s-robes",
+    "name": "Xan's Robes",
+    "type": "armors",
+    "description": "These are enchanted, fire-resistant robes worn by the insane pyromancer himself.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/0IYsZWT.png",
+        "http://i.imgur.com/62n1Aip.png"
+    ],
+    "hash": "8769acca46efa9394b57bc776b86856e"
+}

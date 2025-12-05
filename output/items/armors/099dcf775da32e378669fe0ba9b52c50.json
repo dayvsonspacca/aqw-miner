@@ -1,0 +1,16 @@
+{
+    "urlName": "blessed-gladius-armor",
+    "url": "http://aqwwiki.wikidot.com/blessed-gladius-armor",
+    "name": "Blessed Gladius Armor",
+    "type": "armors",
+    "description": "Cleansing the world of evil never looked so beautiful.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/865vfxT.png",
+        "https://i.imgur.com/qFpjGT6.png"
+    ],
+    "hash": "099dcf775da32e378669fe0ba9b52c50"
+}

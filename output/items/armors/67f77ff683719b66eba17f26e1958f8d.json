@@ -1,0 +1,17 @@
+{
+    "urlName": "playa-s-bling",
+    "url": "http://aqwwiki.wikidot.com/playa-s-bling",
+    "name": "Playa's Bling",
+    "type": "armors",
+    "description": "Bawwwwwwlllllin'! Rollin' like a pro.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/playa-s-bling/Playa'sBlingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/playa-s-bling/Playa'sBlingF.png"
+    ],
+    "hash": "67f77ff683719b66eba17f26e1958f8d"
+}

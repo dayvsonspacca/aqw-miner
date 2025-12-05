@@ -1,0 +1,17 @@
+{
+    "urlName": "ebil-administrator",
+    "url": "http://aqwwiki.wikidot.com/ebil-administrator",
+    "name": "Ebil Administrator",
+    "type": "armors",
+    "description": "This suit has been authorized for use by Chairman Platinum. WAY BETTER than the Crystallis Administration.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vzLxT26.png",
+        "https://i.imgur.com/8AMupa7.png"
+    ],
+    "hash": "c2f973912369dec1571d3a1fc0a76f38"
+}

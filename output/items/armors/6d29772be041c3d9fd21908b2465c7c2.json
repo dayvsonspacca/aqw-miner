@@ -1,0 +1,16 @@
+{
+    "urlName": "giant-warrior",
+    "url": "http://aqwwiki.wikidot.com/giant-warrior",
+    "name": "Giant Warrior",
+    "type": "armors",
+    "description": "Giant boots and giant shoulders pads made for giant warriors.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/giant-warrior/GiantWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/giant-warrior/GiantWarriorF.png"
+    ],
+    "hash": "6d29772be041c3d9fd21908b2465c7c2"
+}

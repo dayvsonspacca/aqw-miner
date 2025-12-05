@@ -1,0 +1,17 @@
+{
+    "urlName": "paladin-ultima",
+    "url": "http://aqwwiki.wikidot.com/paladin-ultima",
+    "name": "Paladin Ultima",
+    "type": "armors",
+    "description": "Hardened by the endless fight against Darkness, these Paladins chase after a sacred dream. A world where the sun shines everlasting, blessing all good and vanquishing all evil. Light floods their veins, and takes hold of their soul to make this reality.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/c9rIpdf.png",
+        "https://i.imgur.com/lA1Wrdc.png"
+    ],
+    "hash": "3f26666bfb21625fd7ef2c447ce67e14"
+}

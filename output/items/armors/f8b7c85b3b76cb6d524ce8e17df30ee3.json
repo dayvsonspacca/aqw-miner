@@ -1,0 +1,17 @@
+{
+    "urlName": "void-of-revontheus",
+    "url": "http://aqwwiki.wikidot.com/void-of-revontheus",
+    "name": "Void of Revontheus",
+    "type": "armors",
+    "description": "Only those truly devoted to Nulgath are granted nefarious powers after signing the dotted line.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-of-revontheus/VoidofRevontheusM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-of-revontheus/VoidofRevontheusF.png"
+    ],
+    "hash": "f8b7c85b3b76cb6d524ce8e17df30ee3"
+}

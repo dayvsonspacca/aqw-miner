@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-marrowfiend",
+    "url": "http://aqwwiki.wikidot.com/dark-marrowfiend",
+    "name": "Dark Marrowfiend",
+    "type": "armors",
+    "description": "Bones from the monster slayed by Sir Tendeth constructed to form this armor. Marrowfiend's were born from the Tower.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/14oODwU.png",
+        "http://i.imgur.com/9UCt5ll.png"
+    ],
+    "hash": "058dfafe48e0b74e3d00d4bb3b503af4"
+}

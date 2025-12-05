@@ -1,0 +1,17 @@
+{
+    "urlName": "ice-beast",
+    "url": "http://aqwwiki.wikidot.com/ice-beast",
+    "name": "Ice Beast",
+    "type": "armors",
+    "description": "After leaving there home in the Northland in search of fresh food and drinkable water, the Ice Beasts scour the land of Lore, battling all that stand in the way of their next meal.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/d3SfBd9.png",
+        "http://aqwwiki.wdfiles.com/local--files/ice-beast/IBF.png"
+    ],
+    "hash": "012784e34f2f15b48cef07866b9dd8cb"
+}

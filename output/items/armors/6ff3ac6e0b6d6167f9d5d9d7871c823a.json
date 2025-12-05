@@ -1,0 +1,17 @@
+{
+    "urlName": "firebird-carnaval-armor",
+    "url": "http://aqwwiki.wikidot.com/firebird-carnaval-armor",
+    "name": "Firebird Carnaval Armor",
+    "type": "armors",
+    "description": "Samba samba samba\u2026 on fire!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/firebird-carnaval-armor/FCAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/firebird-carnaval-armor/FCAF.png"
+    ],
+    "hash": "6ff3ac6e0b6d6167f9d5d9d7871c823a"
+}

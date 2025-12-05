@@ -1,0 +1,17 @@
+{
+    "urlName": "hard-rocker",
+    "url": "http://aqwwiki.wikidot.com/hard-rocker",
+    "name": "Hard Rocker",
+    "type": "armors",
+    "description": "Get ready to mosh!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bSNrlUd.png",
+        "https://i.imgur.com/MFuGoqa.png"
+    ],
+    "hash": "2d7d58c60aa9dcb08640215a05841cc2"
+}

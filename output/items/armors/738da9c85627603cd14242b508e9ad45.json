@@ -1,0 +1,16 @@
+{
+    "urlName": "8-bit-rogue",
+    "url": "http://aqwwiki.wikidot.com/8-bit-rogue",
+    "name": "8-Bit Rogue",
+    "type": "armors",
+    "description": "The bit and the byte and the binary numbers merged to form\u2026 the 8-bit Rogue. Battle On!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/8-bit-rogue/8-BitRogueM.png",
+        "http://aqwwiki.wdfiles.com/local--files/8-bit-rogue/8-BitRogueF.png"
+    ],
+    "hash": "738da9c85627603cd14242b508e9ad45"
+}

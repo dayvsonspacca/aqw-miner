@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-scout",
+    "url": "http://aqwwiki.wikidot.com/legion-scout",
+    "name": "Legion Scout",
+    "type": "armors",
+    "description": "The first in line to bash through and ask questions later.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fkIxa9M.png",
+        "https://i.imgur.com/aCskLRS.png"
+    ],
+    "hash": "c137e91bd75030784f698255b7c249b9"
+}

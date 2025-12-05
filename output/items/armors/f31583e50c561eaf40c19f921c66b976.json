@@ -1,0 +1,18 @@
+{
+    "urlName": "glutton-armor",
+    "url": "http://aqwwiki.wikidot.com/glutton-armor",
+    "name": "Glutton Armor",
+    "type": "armors",
+    "description": "Mmmmm, SO HUNGRY!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/cGQWst9.png",
+        "http://i.imgur.com/VOXfaqi.png"
+    ],
+    "hash": "f31583e50c561eaf40c19f921c66b976"
+}

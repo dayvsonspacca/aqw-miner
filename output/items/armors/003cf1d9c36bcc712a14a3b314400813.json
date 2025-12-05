@@ -1,0 +1,16 @@
+{
+    "urlName": "paladorian",
+    "url": "http://aqwwiki.wikidot.com/paladorian",
+    "name": "Paladorian",
+    "type": "armors",
+    "description": "Fighting for Good: This is the way.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/jHZdtxh.png",
+        "https://imgur.com/gWmF7qO.png"
+    ],
+    "hash": "003cf1d9c36bcc712a14a3b314400813"
+}

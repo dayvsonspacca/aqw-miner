@@ -1,0 +1,17 @@
+{
+    "urlName": "oceanic-treasurehunter",
+    "url": "http://aqwwiki.wikidot.com/oceanic-treasurehunter",
+    "name": "Oceanic TreasureHunter",
+    "type": "armors",
+    "description": "Dive down deep to seek out the riches of the ocean hides beneath the waves.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2uYDJeF.png",
+        "https://i.imgur.com/7SRIQ8O.png"
+    ],
+    "hash": "6620bcec7f208148bbd86887ae33d77a"
+}

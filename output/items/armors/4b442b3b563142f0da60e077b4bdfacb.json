@@ -1,0 +1,16 @@
+{
+    "urlName": "fire-monkey",
+    "url": "http://aqwwiki.wikidot.com/fire-monkey",
+    "name": "Fire Monkey",
+    "type": "armors",
+    "description": "The very flame coating the arms feeds much-needed energy for the fire monkey is a symbol of passion and this energy to breathe, but don't go monkeying around.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/6Y5a3xc.png",
+        "http://i.imgur.com/kcGhHQ7.png"
+    ],
+    "hash": "4b442b3b563142f0da60e077b4bdfacb"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "akiban-blademaster-armor",
+    "url": "http://aqwwiki.wikidot.com/akiban-blademaster-armor",
+    "name": "Akiban BladeMaster (Armor)",
+    "type": "armors",
+    "description": "Akiban BladeMasters can walk even the most dangerous streets without fear. No opponent is too deadly, and no challenge too great.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/R2sTHpO.png",
+        "https://i.imgur.com/OUnteuB.png",
+        "https://i.imgur.com/S0N7UHt.png",
+        "https://i.imgur.com/RhGKSeZ.png"
+    ],
+    "hash": "037a72e97c205fdf2862eebdecba1b37"
+}

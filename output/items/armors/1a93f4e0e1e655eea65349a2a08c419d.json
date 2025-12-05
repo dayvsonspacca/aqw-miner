@@ -1,0 +1,17 @@
+{
+    "urlName": "nightmare-hunter",
+    "url": "http://aqwwiki.wikidot.com/nightmare-hunter",
+    "name": "Nightmare Hunter",
+    "type": "armors",
+    "description": "Your most spine-chilling fear-inducing nightmare have enveloped your reality! Storm onto the battlefield as the Nightmare Hunter as you leave your enemies wondering if this is only a bad dream or a terrible circumstance\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nightmare-hunter/NightmareHunterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/nightmare-hunter/NightmareHunterF.png"
+    ],
+    "hash": "1a93f4e0e1e655eea65349a2a08c419d"
+}

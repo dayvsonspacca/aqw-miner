@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-rocker",
+    "url": "http://aqwwiki.wikidot.com/dark-rocker",
+    "name": "Dark Rocker",
+    "type": "armors",
+    "description": "I heart rock 'n' roll, so put a piece of gold in this jukebox, baby! I heart rock 'n' roll, so come equip this armor and /dance with me!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/Pw4jivP.png",
+        "https://imgur.com/iqQFUJd.png"
+    ],
+    "hash": "50576535269619a1b28db2b457cc0180"
+}

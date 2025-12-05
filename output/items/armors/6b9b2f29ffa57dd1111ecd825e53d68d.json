@@ -1,0 +1,16 @@
+{
+    "urlName": "tank-mech",
+    "url": "http://aqwwiki.wikidot.com/tank-mech",
+    "name": "Tank Mech",
+    "type": "armors",
+    "description": "PEW PEW PEW action hero tank!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/l7f0K1U.png"
+    ],
+    "hash": "6b9b2f29ffa57dd1111ecd825e53d68d"
+}

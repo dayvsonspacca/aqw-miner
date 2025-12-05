@@ -1,0 +1,18 @@
+{
+    "urlName": "the-collector-armor",
+    "url": "http://aqwwiki.wikidot.com/the-collector-armor",
+    "name": "The Collector Armor",
+    "type": "armors",
+    "description": "Last time you beat the Collector, now you are him! Bigger in the inside dome sold separately.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/YzP3i1Y.png",
+        "http://i.imgur.com/drILpHJ.png",
+        "http://i.imgur.com/DixV11V.png",
+        "http://i.imgur.com/GrmzIrf.png"
+    ],
+    "hash": "c17d6b8fa29bead27751ecab2a64e77a"
+}

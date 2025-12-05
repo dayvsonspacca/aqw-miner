@@ -1,0 +1,17 @@
+{
+    "urlName": "nation-healer",
+    "url": "http://aqwwiki.wikidot.com/nation-healer",
+    "name": "Nation Healer",
+    "type": "armors",
+    "description": "Someone has to be the healer. The Nation's Fiends are petty, looking down on dainty clerics no matter who they are. They'll come to regret it when their guts have splattered on the ceiling. That's when the Nation's Healers tell them to beg.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/6JiZFHZ.png",
+        "https://i.imgur.com/NGem4qH.png",
+        "https://i.imgur.com/fjROzxA.png"
+    ],
+    "hash": "36f07e3a5ba63cb5c7bf531dc4d4ea2b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-sentinel",
+    "url": "http://aqwwiki.wikidot.com/underworld-sentinel",
+    "name": "Underworld Sentinel",
+    "type": "armors",
+    "description": "The Underworld Sentinels ensure that any mortal soul who finds their way to the land of the dead never leaves. Once they have you in their sights, there's no escape.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/RS8cBWI.png",
+        "https://i.imgur.com/KFjMuSj.png"
+    ],
+    "hash": "e97296f24805c236adc97e57a0039003"
+}

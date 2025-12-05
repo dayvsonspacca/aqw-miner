@@ -1,0 +1,17 @@
+{
+    "urlName": "ultra-revenger",
+    "url": "http://aqwwiki.wikidot.com/ultra-revenger",
+    "name": "Ultra Revenger",
+    "type": "armors",
+    "description": "What does a hammer, shield, arrow, iron suit, gun, and green monster have in common? None stand a chance against you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ultra-revenger/UltraRevengerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ultra-revenger/UltraRevengerF.png"
+    ],
+    "hash": "a586266c57698d90f29067901119bc7c"
+}

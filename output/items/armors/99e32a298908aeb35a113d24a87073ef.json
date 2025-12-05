@@ -1,0 +1,17 @@
+{
+    "urlName": "orca-jersey",
+    "url": "http://aqwwiki.wikidot.com/orca-jersey",
+    "name": "Orca Jersey",
+    "type": "armors",
+    "description": "Be the main attraction on any rink with the Orca team's uniform! Your opponent is guaranteed to be in the Splash Zone!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mPRan9K.png",
+        "https://i.imgur.com/zLHUaNd.png"
+    ],
+    "hash": "99e32a298908aeb35a113d24a87073ef"
+}

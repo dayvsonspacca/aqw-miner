@@ -1,0 +1,18 @@
+{
+    "urlName": "arachnid-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/arachnid-naval-commander-ac",
+    "name": "Arachnid Naval Commander (AC)",
+    "type": "armors",
+    "description": "Don't get yourself caught in this commander's web, it'll be the last thing ye ever do!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ZvTsK0E.png",
+        "https://i.imgur.com/wLf6WRj.png",
+        "https://i.imgur.com/Qf2cLIC.png"
+    ],
+    "hash": "f4ff2c7f7259a311f96194a46a0d7b7c"
+}

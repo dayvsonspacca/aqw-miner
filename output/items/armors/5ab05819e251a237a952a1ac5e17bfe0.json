@@ -1,0 +1,17 @@
+{
+    "urlName": "battleon-drop-armor",
+    "url": "http://aqwwiki.wikidot.com/battleon-drop-armor",
+    "name": "Battleon Drop Armor",
+    "type": "armors",
+    "description": "\"Hero will never have drop.\" OH YEAH? WHAT'S THIS?!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/wzo5p0L.png",
+        "https://i.imgur.com/eFLFF6f.png"
+    ],
+    "hash": "5ab05819e251a237a952a1ac5e17bfe0"
+}

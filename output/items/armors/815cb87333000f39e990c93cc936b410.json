@@ -1,0 +1,18 @@
+{
+    "urlName": "electrowave-scholar",
+    "url": "http://aqwwiki.wikidot.com/electrowave-scholar",
+    "name": "Electrowave Scholar",
+    "type": "armors",
+    "description": "The Scholars of the Storm Court marry magic to science, aiming to control the heavens with their inventions. In the service of their ruler, they seek to attain power that could overthrow the gods.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/MbpxoFu.png",
+        "https://i.imgur.com/57QPJEF.png",
+        "https://i.imgur.com/jtEsIgr.png",
+        "https://i.imgur.com/HsFO6NY.png"
+    ],
+    "hash": "815cb87333000f39e990c93cc936b410"
+}

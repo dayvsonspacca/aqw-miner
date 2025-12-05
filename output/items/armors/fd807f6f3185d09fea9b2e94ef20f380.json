@@ -1,0 +1,16 @@
+{
+    "urlName": "obsidian-icemancer-legend",
+    "url": "http://aqwwiki.wikidot.com/obsidian-icemancer-legend",
+    "name": "Obsidian Icemancer (Legend)",
+    "type": "armors",
+    "description": "Before today's Cryomancers harnessed the power of Ice, Ancient Cryomancers already knew its power.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/V85yDq1.png",
+        "https://i.imgur.com/v3jQQyB.png"
+    ],
+    "hash": "fd807f6f3185d09fea9b2e94ef20f380"
+}

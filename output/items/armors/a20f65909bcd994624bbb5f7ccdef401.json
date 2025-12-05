@@ -1,0 +1,17 @@
+{
+    "urlName": "paladin-loremaster",
+    "url": "http://aqwwiki.wikidot.com/paladin-loremaster",
+    "name": "Paladin Loremaster",
+    "type": "armors",
+    "description": "The paladin order needs more than just powerful warriors, it also needs those with the patience, skill and intelligence to study records and ancient arcna to further the cause of the light!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/x6TwdFK.png",
+        "http://i.imgur.com/sb0PJPe.png"
+    ],
+    "hash": "a20f65909bcd994624bbb5f7ccdef401"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "harlequin-warrior",
+    "url": "http://aqwwiki.wikidot.com/harlequin-warrior",
+    "name": "Harlequin Warrior",
+    "type": "armors",
+    "description": "If you want Heroes to respect you, show them you're serious.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7rd2gzp.png",
+        "https://i.imgur.com/kalwUhg.png"
+    ],
+    "hash": "0a901c6821e0aff1fc285adcf9d724bc"
+}

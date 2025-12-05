@@ -1,0 +1,17 @@
+{
+    "urlName": "mana-fenix-plume",
+    "url": "http://aqwwiki.wikidot.com/mana-fenix-plume",
+    "name": "Mana Fenix Plume",
+    "type": "armors",
+    "description": "With the feathers of the frozen jungle parrot to keep warmth, it's not likely to overheat during times the temperature drops during Carnaval celebration. Talk about a feasible winter coat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/rY1pXgJ.png",
+        "http://i.imgur.com/XuY0wPv.png"
+    ],
+    "hash": "960bcff458d818a59b9fdbdc9b2668f4"
+}

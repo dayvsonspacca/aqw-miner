@@ -1,0 +1,16 @@
+{
+    "urlName": "arachnomancer-mail",
+    "url": "http://aqwwiki.wikidot.com/arachnomancer-mail",
+    "name": "Arachnomancer Mail",
+    "type": "armors",
+    "description": "The creepy crawly armor of the Arachnomancer.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/9XVm59U.png",
+        "http://i.imgur.com/6LsZeo2.png"
+    ],
+    "hash": "f31448e598f2b5367daaf361f4373454"
+}

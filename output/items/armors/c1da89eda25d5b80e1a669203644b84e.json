@@ -1,0 +1,20 @@
+{
+    "urlName": "ebil-symbiote",
+    "url": "http://aqwwiki.wikidot.com/ebil-symbiote",
+    "name": "Ebil Symbiote",
+    "type": "armors",
+    "description": "A parasitic evil energy latches to your very being. It gives you immense dark power but you are left a shadow of your former self. Who knows what stigma attaches to your soul\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ebil-symbiote/EbilSymbioteMaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebil-symbiote/EbilSymbioteMaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebil-symbiote/EbilSymbioteFemaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebil-symbiote/EbilSymbioteFemaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebil-symbiote/EbilSymbioteFemaleOlder.png"
+    ],
+    "hash": "c1da89eda25d5b80e1a669203644b84e"
+}

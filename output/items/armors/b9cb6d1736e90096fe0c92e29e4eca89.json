@@ -1,0 +1,16 @@
+{
+    "urlName": "mad-ubear-conductor",
+    "url": "http://aqwwiki.wikidot.com/mad-ubear-conductor",
+    "name": "Mad Ubear Conductor",
+    "type": "armors",
+    "description": "All aboard The First Ubear demo run. Can I have your Ubear Token, please?",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/l5xzLX0.png",
+        "https://i.imgur.com/2ivZ7Xa.png"
+    ],
+    "hash": "b9cb6d1736e90096fe0c92e29e4eca89"
+}

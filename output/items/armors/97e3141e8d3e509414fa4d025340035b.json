@@ -1,0 +1,17 @@
+{
+    "urlName": "emerald-glory-mage",
+    "url": "http://aqwwiki.wikidot.com/emerald-glory-mage",
+    "name": "Emerald Glory Mage",
+    "type": "armors",
+    "description": "This time of the year is magical, and your power brings glory to those you love!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/emerald-glory-mage/EmeraldGloryMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/emerald-glory-mage/EmeraldGloryMageF.png"
+    ],
+    "hash": "97e3141e8d3e509414fa4d025340035b"
+}

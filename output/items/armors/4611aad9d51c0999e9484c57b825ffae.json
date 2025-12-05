@@ -1,0 +1,17 @@
+{
+    "urlName": "ravenlord-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/ravenlord-naval-commander-ac",
+    "name": "RavenLord Naval Commander (AC)",
+    "type": "armors",
+    "description": "It be a foolish commander that ignores th' warnings o' his eyes in th' sky. Keep yer friends close, yer crew closer, an' yer raven on yer shoulder. It'll peck per enemies eyes out.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lC6gO8d.png",
+        "https://i.imgur.com/rpuXJoc.png"
+    ],
+    "hash": "4611aad9d51c0999e9484c57b825ffae"
+}

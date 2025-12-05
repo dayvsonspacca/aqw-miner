@@ -1,0 +1,16 @@
+{
+    "urlName": "fjord-magi",
+    "url": "http://aqwwiki.wikidot.com/fjord-magi",
+    "name": "Fjord Magi",
+    "type": "armors",
+    "description": "The natural power of the Northlandic Fjords runs deeply in the very core of this armor. It is spelled to protect the wearer from the biting cold that comes from donning this garment.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/mnxUamf.png",
+        "http://i.imgur.com/Eu7dT4s.png"
+    ],
+    "hash": "f5020a8bba89bfc5fff357d561567aef"
+}

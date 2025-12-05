@@ -1,0 +1,17 @@
+{
+    "urlName": "pirate-disciple-armor",
+    "url": "http://aqwwiki.wikidot.com/pirate-disciple-armor",
+    "name": "Pirate Disciple Armor",
+    "type": "armors",
+    "description": "Favored by fans of the Lolosian rock group, The Scurvy Pirrrrrates!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EHekITP.png",
+        "https://i.imgur.com/MxZ1NXZ.png"
+    ],
+    "hash": "c5428d7238494af8c9e8d65457cd2ed5"
+}

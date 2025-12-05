@@ -1,0 +1,17 @@
+{
+    "urlName": "bio-war-cultist-ac",
+    "url": "http://aqwwiki.wikidot.com/bio-war-cultist-ac",
+    "name": "Bio-War Cultist (AC)",
+    "type": "armors",
+    "description": "They say war does strange things to you. Turning you into a half human half bio creature is one of them.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UzgHCLH.png",
+        "https://i.imgur.com/YpghgUt.png"
+    ],
+    "hash": "5b8b6312e7e2c909cd7e17667c7da8db"
+}

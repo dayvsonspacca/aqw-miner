@@ -1,0 +1,17 @@
+{
+    "urlName": "ocean-nereid-ac",
+    "url": "http://aqwwiki.wikidot.com/ocean-nereid-ac",
+    "name": "Ocean Nereid (AC)",
+    "type": "armors",
+    "description": "It's easy to mistake these sea spirits for a swimmer visiting the beach. They're denizens of the oceans who protect kind sailors, and ward voracious sea Dragons away.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/2Cuw5Mk.png",
+        "https://imgur.com/HNgNlmT.png"
+    ],
+    "hash": "a9b89d0f7237ffac3f7107e0b935d12d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "photon-sentinel-armor",
+    "url": "http://aqwwiki.wikidot.com/photon-sentinel-armor",
+    "name": "Photon Sentinel (Armor)",
+    "type": "armors",
+    "description": "Lost in the Void, or perhaps any void between the fabric of space, light particles link together. They create a sentience that tasks itself with guarding the path between worlds.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/qztMY9C.png",
+        "https://i.imgur.com/PzYOPYL.png"
+    ],
+    "hash": "095acb67a4dec61583ad65d2aff8a31e"
+}

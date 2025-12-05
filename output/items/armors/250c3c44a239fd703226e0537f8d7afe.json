@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-slayer",
+    "url": "http://aqwwiki.wikidot.com/celestial-slayer",
+    "name": "Celestial Slayer",
+    "type": "armors",
+    "description": "There is too much Good in the world, time to spread foment!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/eaXTIAa.png",
+        "https://i.imgur.com/7BiCuq5.png"
+    ],
+    "hash": "250c3c44a239fd703226e0537f8d7afe"
+}

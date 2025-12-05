@@ -1,0 +1,16 @@
+{
+    "urlName": "legend",
+    "url": "http://aqwwiki.wikidot.com/legend",
+    "name": "Legend",
+    "type": "armors",
+    "description": "Crimson for the blood that has been shed, silver for the sheer magnitude of your reputation, and the shine to proclaim your prowess, this armor designed by Aranx is nothing short of a declaration of your tenacity and worth.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/hwbCU8Q.png",
+        "https://i.imgur.com/mYz5ZgF.png"
+    ],
+    "hash": "0349c050c29ed9b135da55997d668f82"
+}

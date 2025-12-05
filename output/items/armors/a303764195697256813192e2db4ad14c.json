@@ -1,0 +1,17 @@
+{
+    "urlName": "techtronic-archpaladin",
+    "url": "http://aqwwiki.wikidot.com/techtronic-archpaladin",
+    "name": "Techtronic ArchPaladin",
+    "type": "armors",
+    "description": "In the future, paladins fight with the most high-tech light of all --",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/techtronic-archpaladin/TAPm.png",
+        "http://aqwwiki.wdfiles.com/local--files/techtronic-archpaladin/TAPf.png"
+    ],
+    "hash": "a303764195697256813192e2db4ad14c"
+}

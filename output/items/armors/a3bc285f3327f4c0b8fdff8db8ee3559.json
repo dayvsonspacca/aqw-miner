@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-auriladae",
+    "url": "http://aqwwiki.wikidot.com/dark-auriladae",
+    "name": "Dark Auriladae",
+    "type": "armors",
+    "description": "Magi who channel the dark have become twisted into the animal forms they assume\u2026 who knew pandas could be dark!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5WwAqF3.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-auriladae/DarkAuriladaeMale.png"
+    ],
+    "hash": "a3bc285f3327f4c0b8fdff8db8ee3559"
+}

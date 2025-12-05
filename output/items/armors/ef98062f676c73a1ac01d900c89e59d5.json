@@ -1,0 +1,19 @@
+{
+    "urlName": "fire-champion-s-armor",
+    "url": "http://aqwwiki.wikidot.com/fire-champion-s-armor",
+    "name": "Fire Champion's Armor",
+    "type": "armors",
+    "description": "To wear this armor is to show proof that you can hold your own with the Champion of Fire. (Item does 50% more damage to dragons when equipped)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/6DZpkYl.png",
+        "https://i.imgur.com/hsaMFJr.png",
+        "http://aqwwiki.wdfiles.com/local--files/fire-champion-s-armor/FireChampionsArmorMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/fire-champion-s-armor/FireChampionsArmorFOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/fire-champion-s-armor/FireChampionsArmorFOlder.png"
+    ],
+    "hash": "ef98062f676c73a1ac01d900c89e59d5"
+}

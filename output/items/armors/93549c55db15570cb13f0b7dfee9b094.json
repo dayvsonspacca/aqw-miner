@@ -1,0 +1,19 @@
+{
+    "urlName": "blinding-sapphire-star-mage-ac",
+    "url": "http://aqwwiki.wikidot.com/blinding-sapphire-star-mage-ac",
+    "name": "Blinding Sapphire Star Mage (AC)",
+    "type": "armors",
+    "description": "Channel the power of the moon and stars as you call fourth the new year!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blinding-sapphire-star-mage-ac/BlindingSapphireStarMageMaleNormal.png",
+        "http://aqwwiki.wdfiles.com/local--files/blinding-sapphire-star-mage-ac/BlindingSapphireStarMageMaleAnimated.png",
+        "http://aqwwiki.wdfiles.com/local--files/blinding-sapphire-star-mage-ac/BlindingSapphireStarMageFemaleNormal.png",
+        "http://aqwwiki.wdfiles.com/local--files/blinding-sapphire-star-mage-ac/BlindingSapphireStarMageFemaleAnimated.png"
+    ],
+    "hash": "93549c55db15570cb13f0b7dfee9b094"
+}

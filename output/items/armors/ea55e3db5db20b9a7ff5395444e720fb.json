@@ -1,0 +1,17 @@
+{
+    "urlName": "outback-explorer",
+    "url": "http://aqwwiki.wikidot.com/outback-explorer",
+    "name": "Outback Explorer",
+    "type": "armors",
+    "description": "When you explore the outback, beware\u2026 EVERYTHING wants to kill you. And the cuter something is, the deadlier it is.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/M95ltNn.png",
+        "https://i.imgur.com/oll4NxW.png"
+    ],
+    "hash": "ea55e3db5db20b9a7ff5395444e720fb"
+}

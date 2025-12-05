@@ -1,0 +1,17 @@
+{
+    "urlName": "black-zenobyte",
+    "url": "http://aqwwiki.wikidot.com/black-zenobyte",
+    "name": "Black Zenobyte",
+    "type": "armors",
+    "description": "Let's be honest, this is who's really behind all this insanity.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-zenobyte/BlackZenobyteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/black-zenobyte/BlackZenobyteF.png"
+    ],
+    "hash": "2170ca8c82bf314e469149fdf92a2ff5"
+}

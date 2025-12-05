@@ -1,0 +1,16 @@
+{
+    "urlName": "fallen-warlord-armor",
+    "url": "http://aqwwiki.wikidot.com/fallen-warlord-armor",
+    "name": "Fallen Warlord (Armor)",
+    "type": "armors",
+    "description": "Falling from the heights only lends you the power to shine even brighter!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-warlord-armor/FallenWarlordM.png"
+    ],
+    "hash": "9e7c06fceab0f85dac3e077dea88b7fb"
+}

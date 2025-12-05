@@ -1,0 +1,17 @@
+{
+    "urlName": "volleyball-hero",
+    "url": "http://aqwwiki.wikidot.com/volleyball-hero",
+    "name": "Volleyball Hero",
+    "type": "armors",
+    "description": "Life's a beach, no matter which position you play on your team! Bump\u2026 Set\u2026 SPIKE!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/atJUnz4.png",
+        "https://i.imgur.com/AHVrGjs.png"
+    ],
+    "hash": "522ef48eaef6d8d38fa2eebcf043b6a6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "nightfrost-elf",
+    "url": "http://aqwwiki.wikidot.com/nightfrost-elf",
+    "name": "NightFrost Elf",
+    "type": "armors",
+    "description": "Elves are some of the most resourceful beings in Lore. Even the colds of the Northlands cannot keep these skilled warriors away.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/kquIFpQ.png",
+        "https://i.imgur.com/yP6LL6d.png"
+    ],
+    "hash": "f20a390d628c25e02c9851ab7f43bc14"
+}

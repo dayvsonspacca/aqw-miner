@@ -1,0 +1,15 @@
+{
+    "urlName": "adventurequest-mage",
+    "url": "http://aqwwiki.wikidot.com/adventurequest-mage",
+    "name": "AdventureQuest Mage",
+    "type": "armors",
+    "description": "Throwback to Warlic from 2002!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/j6e9IEr.png"
+    ],
+    "hash": "f2c8682fe4fbf75d1e91b1be3eb48d56"
+}

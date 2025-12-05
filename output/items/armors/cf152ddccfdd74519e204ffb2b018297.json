@@ -1,0 +1,16 @@
+{
+    "urlName": "phoenix-s-fury",
+    "url": "http://aqwwiki.wikidot.com/phoenix-s-fury",
+    "name": "Phoenix's Fury",
+    "type": "armors",
+    "description": "Paladins who wield the light and fire of a great phoenix to vanquish the undead and the immortal. Should they fall in battle, they burn to ashes, and rise again with the sun.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/E9cbLtM.png",
+        "https://i.imgur.com/uCjEQku.png"
+    ],
+    "hash": "cf152ddccfdd74519e204ffb2b018297"
+}

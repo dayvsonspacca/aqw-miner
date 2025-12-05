@@ -1,0 +1,15 @@
+{
+    "urlName": "oversoul-minion",
+    "url": "http://aqwwiki.wikidot.com/oversoul-minion",
+    "name": "Oversoul Minion",
+    "type": "armors",
+    "description": "Looking to serve the Archfiend? Everyone's gotta start somewhere.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oversoul-minion/OversoulMinion.png"
+    ],
+    "hash": "c42fd7c7d7c0fa008cbe1f64ee0bf50d"
+}

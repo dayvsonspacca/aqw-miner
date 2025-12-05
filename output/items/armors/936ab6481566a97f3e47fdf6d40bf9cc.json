@@ -1,0 +1,20 @@
+{
+    "urlName": "ebilcorp-standard-player",
+    "url": "http://aqwwiki.wikidot.com/ebilcorp-standard-player",
+    "name": "EbilCorp Standard Player",
+    "type": "armors",
+    "description": "Disappear into the background as your only hope to be inconspicuous comes in stick form. Play a prank, become a coat rack, or outsmart a baddie with your weirdly entrancing stick figure.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/NVAZEQH.png",
+        "https://imgur.com/E9vL4jw.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorp-standard-player/EbilCorpStandardPlayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorp-standard-player/EbilCorpStandardPlayerF.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorp-standard-player/EbilCorpStandardPlayerA.png"
+    ],
+    "hash": "936ab6481566a97f3e47fdf6d40bf9cc"
+}

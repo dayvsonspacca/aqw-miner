@@ -1,0 +1,17 @@
+{
+    "urlName": "valentine-warrior",
+    "url": "http://aqwwiki.wikidot.com/valentine-warrior",
+    "name": "Valentine Warrior",
+    "type": "armors",
+    "description": "Pink and red armor fit only for the most romantic of knights!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/valentine-warrior/ValentineWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/valentine-warrior/ValentineWarriorF.png"
+    ],
+    "hash": "5e0cc28696add1fc50c1e867a846ffc5"
+}

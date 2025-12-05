@@ -1,0 +1,17 @@
+{
+    "urlName": "painadin-overlord-armor",
+    "url": "http://aqwwiki.wikidot.com/painadin-overlord-armor",
+    "name": "Painadin Overlord (Armor)",
+    "type": "armors",
+    "description": "The most wicked and sadistic of all King Alteon's minions are the Painadins, changed to bring pain and misery to all in their path.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/painadin-overlord-armor/PainadinOverlordM.png",
+        "http://aqwwiki.wdfiles.com/local--files/painadin-overlord-armor/PainadinOverlordF.png"
+    ],
+    "hash": "1c156a51795c255d5ec8758bf31ffe87"
+}

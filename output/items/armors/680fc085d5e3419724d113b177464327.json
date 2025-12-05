@@ -1,0 +1,17 @@
+{
+    "urlName": "bbq-apron",
+    "url": "http://aqwwiki.wikidot.com/bbq-apron",
+    "name": "BBQ Apron",
+    "type": "armors",
+    "description": "The only armor certified to protect against the unstable element of Bar-B-Que.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/aDi7imd.png",
+        "http://i.imgur.com/GiRgxQ6.png"
+    ],
+    "hash": "680fc085d5e3419724d113b177464327"
+}

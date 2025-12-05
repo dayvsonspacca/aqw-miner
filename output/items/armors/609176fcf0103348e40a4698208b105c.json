@@ -1,0 +1,17 @@
+{
+    "urlName": "pony-wan-kenobi",
+    "url": "http://aqwwiki.wikidot.com/pony-wan-kenobi",
+    "name": "Pony Wan Kenobi",
+    "type": "armors",
+    "description": "Blend with the twilight. Sparkles are MUCH stronger than force. Use the Sparkles.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pony-wan-kenobi/PonyVanKenobiM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pony-wan-kenobi/PonyVanKenobiF.png"
+    ],
+    "hash": "609176fcf0103348e40a4698208b105c"
+}

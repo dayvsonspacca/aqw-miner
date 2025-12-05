@@ -1,0 +1,17 @@
+{
+    "urlName": "inaba-oni",
+    "url": "http://aqwwiki.wikidot.com/inaba-oni",
+    "name": "Inaba Oni",
+    "type": "armors",
+    "description": "Most Oni are painted with a single brutal, and bloody brush. In reality, there are several independent clans. One revels in festivities and attend tournaments to show off their strength, dressed in merry-making garb.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ayaJn3H.png",
+        "https://i.imgur.com/LqTT8bd.png"
+    ],
+    "hash": "6cebc7bd601c3d7cf58f665437a8945f"
+}

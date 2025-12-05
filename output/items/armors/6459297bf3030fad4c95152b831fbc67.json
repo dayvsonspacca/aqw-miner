@@ -1,0 +1,17 @@
+{
+    "urlName": "shades-of-chaos",
+    "url": "http://aqwwiki.wikidot.com/shades-of-chaos",
+    "name": "Shades of Chaos",
+    "type": "armors",
+    "description": "when your darkness consumes you, all that's left is to give into CHAOS.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shades-of-chaos/ShadesofChaosM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shades-of-chaos/ShadesofChaosF.jpg"
+    ],
+    "hash": "6459297bf3030fad4c95152b831fbc67"
+}

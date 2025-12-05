@@ -1,0 +1,17 @@
+{
+    "urlName": "warhorses-team-legend",
+    "url": "http://aqwwiki.wikidot.com/warhorses-team-legend",
+    "name": "Warhorses Team (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football Players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warhorses-team-legend/WarhorsesTeamM.png",
+        "http://aqwwiki.wdfiles.com/local--files/warhorses-team-legend/WarhorsesTeamF.png"
+    ],
+    "hash": "dbac9a139538d2d699d7d252c1751f46"
+}

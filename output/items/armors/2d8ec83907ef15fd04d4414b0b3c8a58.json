@@ -1,0 +1,18 @@
+{
+    "urlName": "vampirate-armor",
+    "url": "http://aqwwiki.wikidot.com/vampirate-armor",
+    "name": "Vampirate (Armor)",
+    "type": "armors",
+    "description": "Yarrrrr me bloodsuckin' landlubbers, if ye be needin' a crew of pillaging vampires to set sail, ye come to the right place!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/i8eir36.png",
+        "https://i.imgur.com/KsXo07k.png",
+        "http://i.imgur.com/xh9mtMq.png"
+    ],
+    "hash": "2d8ec83907ef15fd04d4414b0b3c8a58"
+}

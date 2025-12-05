@@ -1,0 +1,17 @@
+{
+    "urlName": "raindancer",
+    "url": "http://aqwwiki.wikidot.com/raindancer",
+    "name": "RainDancer",
+    "type": "armors",
+    "description": "Shifts in the season do not affect weather patterns as we had once thought. RainDancers are an elite sect of heroes blessed by Mother Nature, and are the sole reason for rainy weather, responsible for everything from light showers to torrential downpours.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/raindancer/RainDancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/raindancer/RainDancerF.png"
+    ],
+    "hash": "ffafcdedaed094b2b791875f68744e7f"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "shadow-guard",
+    "url": "http://aqwwiki.wikidot.com/shadow-guard",
+    "name": "Shadow Guard",
+    "type": "armors",
+    "description": "Charred pieces of scrap metal from the exterior layers of this armor, allowing its wearer to disappear into the shadows with ease.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/pN5ENkS.png",
+        "http://i.imgur.com/IEcUzKN.png",
+        "http://i.imgur.com/abz82uE.png",
+        "http://i.imgur.com/Gh9WvWK.png"
+    ],
+    "hash": "05bafcd7c9ffc416a31ccebc748ba431"
+}

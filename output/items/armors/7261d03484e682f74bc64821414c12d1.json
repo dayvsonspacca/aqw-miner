@@ -1,0 +1,16 @@
+{
+    "urlName": "server-gremlin-suit",
+    "url": "http://aqwwiki.wikidot.com/server-gremlin-suit",
+    "name": "Server Gremlin Suit",
+    "type": "armors",
+    "description": "Once a struggling actor working at the local Gorillaphant Grille Restaurant, the Server Gremlin now serves up powerful internet connections and squashes technical bugs!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/igXE2iF.png",
+        "http://i.imgur.com/WmsKXhS.png?1"
+    ],
+    "hash": "7261d03484e682f74bc64821414c12d1"
+}

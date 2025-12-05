@@ -1,0 +1,17 @@
+{
+    "urlName": "polychronic-magister",
+    "url": "http://aqwwiki.wikidot.com/polychronic-magister",
+    "name": "Polychronic Magister",
+    "type": "armors",
+    "description": "Able to manipulate multiple simultaneous events with ease, the Polychronic Magister glides through space and time, compelling all they meet.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/pyMjSbx.png",
+        "https://i.imgur.com/iBhBxEP.png"
+    ],
+    "hash": "7db973a9ed09c2673990c40cac792c4d"
+}

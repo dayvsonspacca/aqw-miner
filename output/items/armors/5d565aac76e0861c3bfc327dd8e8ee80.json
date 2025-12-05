@@ -1,0 +1,16 @@
+{
+    "urlName": "alpha-phantom",
+    "url": "http://aqwwiki.wikidot.com/alpha-phantom",
+    "name": "Alpha Phantom",
+    "type": "armors",
+    "description": "Stealth fighters who will stop at nothing whether the enemy be Good, Evil or Chaotic. These phantoms will survive.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/nHo3lk5.png",
+        "https://i.imgur.com/XTL9qWs.png"
+    ],
+    "hash": "5d565aac76e0861c3bfc327dd8e8ee80"
+}

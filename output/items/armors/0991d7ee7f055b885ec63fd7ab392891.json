@@ -1,0 +1,17 @@
+{
+    "urlName": "ebilcorp-scalper",
+    "url": "http://aqwwiki.wikidot.com/ebilcorp-scalper",
+    "name": "EbilCorp Scalper",
+    "type": "armors",
+    "description": "EbilCorp hires Scalpers to barge into stores and buy out all their stock to create the illusion of high demand. One of them teased a crying child for being too slow, and got a big raise.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gK2poG7.png",
+        "https://i.imgur.com/sNt5Hc0.png"
+    ],
+    "hash": "0991d7ee7f055b885ec63fd7ab392891"
+}

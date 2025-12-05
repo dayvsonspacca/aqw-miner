@@ -1,0 +1,16 @@
+{
+    "urlName": "ceremonial-nation-armor-legend",
+    "url": "http://aqwwiki.wikidot.com/ceremonial-nation-armor-legend",
+    "name": "Ceremonial Nation Armor (Legend)",
+    "type": "armors",
+    "description": "The reflecting light that brightens the metallic silver that comprises this regal suit acts as a mirror, but what it reveals cannot be seen in plain mind, but rather by a sharp minded subconscious.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ceremonial-nation-armor-legend/CeremonialNation.png"
+    ],
+    "hash": "dc7b231dd90066cdd52828520d150b98"
+}

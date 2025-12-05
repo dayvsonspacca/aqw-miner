@@ -1,0 +1,16 @@
+{
+    "urlName": "benediction",
+    "url": "http://aqwwiki.wikidot.com/benediction",
+    "name": "Benediction",
+    "type": "armors",
+    "description": "Several suits of this armor were discovered deep in the heart of Lightguard Keep, forgotten by Time. We believe that they are the suits of high-ranking members of the original Order of Paladins, worn to welcome newly-ascended warriors into their ranks.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/mMQJoeg.png",
+        "http://i.imgur.com/BUzB6PR.png"
+    ],
+    "hash": "9f9008fde652fe9e0ddf819714cef894"
+}

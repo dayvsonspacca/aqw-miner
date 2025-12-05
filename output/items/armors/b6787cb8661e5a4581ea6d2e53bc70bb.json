@@ -1,0 +1,19 @@
+{
+    "urlName": "ebilcorp-executive",
+    "url": "http://aqwwiki.wikidot.com/ebilcorp-executive",
+    "name": "EBILCORP Executive",
+    "type": "armors",
+    "description": "Now you are one of the 1%! Occupy THS!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorp-executive/EbilcorpExecutiveMNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorp-executive/EbilcorpExecutiveM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorp-executive/EbilcorpExecutiveFNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorp-executive/EbilcorpExecutiveF.png"
+    ],
+    "hash": "b6787cb8661e5a4581ea6d2e53bc70bb"
+}

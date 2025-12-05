@@ -1,0 +1,17 @@
+{
+    "urlName": "captain-wary-ac",
+    "url": "http://aqwwiki.wikidot.com/captain-wary-ac",
+    "name": "Captain Wary (AC)",
+    "type": "armors",
+    "description": "Y'know how they say \"Beware of Pirates\"? Well, y'should be extra wary of this one!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/XWfoI2H.png",
+        "https://i.imgur.com/K5G3Drc.png"
+    ],
+    "hash": "b815a776c51fac796cb278f5cf5f391a"
+}

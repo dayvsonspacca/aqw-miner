@@ -1,0 +1,16 @@
+{
+    "urlName": "timewalker",
+    "url": "http://aqwwiki.wikidot.com/timewalker",
+    "name": "Timewalker",
+    "type": "armors",
+    "description": "For 13 years, you have battled through AdventureQuest Worlds, a merge of 3 different timelines. You've traveled lightyears already, but our adventures together are far from over!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/s99gukr.png",
+        "https://i.imgur.com/HmMnN65.png"
+    ],
+    "hash": "04a117e749d984a51d7cc715beddc979"
+}

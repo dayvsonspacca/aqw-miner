@@ -1,0 +1,17 @@
+{
+    "urlName": "minotaur-of-war-ac",
+    "url": "http://aqwwiki.wikidot.com/minotaur-of-war-ac",
+    "name": "Minotaur of War! (AC)",
+    "type": "armors",
+    "description": "The Minotaurs of War will only yield to the might of Nulgath. And that's no bull.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/minotaur-of-war-ac/MinotaurofWarM.png",
+        "http://aqwwiki.wdfiles.com/local--files/minotaur-of-war-ac/MinotaurofWarF.png"
+    ],
+    "hash": "a692269c166992344902f4e3ecfbea9f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-fighter-armor",
+    "url": "http://aqwwiki.wikidot.com/legion-fighter-armor",
+    "name": "Legion Fighter (Armor)",
+    "type": "armors",
+    "description": "\"And we fight for our lord and fight to bring Nation to their knees!\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-fighter-armor/LegionFighterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/legion-fighter-armor/LegionFighterF.png"
+    ],
+    "hash": "865bb59629867082a6bfea350e21b131"
+}

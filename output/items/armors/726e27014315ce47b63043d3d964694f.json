@@ -1,0 +1,17 @@
+{
+    "urlName": "vanguard",
+    "url": "http://aqwwiki.wikidot.com/vanguard",
+    "name": "Vanguard",
+    "type": "armors",
+    "description": "Said to be worn only by a \"true\" leader\u2026 of the darkness. We hope you've enjoyed the world premiere of the Artix and Sepulchure Action Figure video! Coming soon to Heromart.com and Toys R Us!",
+    "rarity": "Rare Raity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vanguard/VanguardM.png",
+        "http://aqwwiki.wdfiles.com/local--files/vanguard/VanguardF.png"
+    ],
+    "hash": "726e27014315ce47b63043d3d964694f"
+}

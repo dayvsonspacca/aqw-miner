@@ -1,0 +1,17 @@
+{
+    "urlName": "sea-serpent-warrior",
+    "url": "http://aqwwiki.wikidot.com/sea-serpent-warrior",
+    "name": "Sea Serpent Warrior",
+    "type": "armors",
+    "description": "When Sea Serpents attack, and you win\u2026 might as well use the scales for armor!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/LtCCNQ9.png",
+        "https://i.imgur.com/XOTMb4S.png"
+    ],
+    "hash": "39bcdf1573e843303f83c3fe08259be6"
+}

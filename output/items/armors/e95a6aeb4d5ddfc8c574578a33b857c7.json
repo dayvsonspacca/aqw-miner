@@ -1,0 +1,16 @@
+{
+    "urlName": "faerie-guardian",
+    "url": "http://aqwwiki.wikidot.com/faerie-guardian",
+    "name": "Faerie Guardian",
+    "type": "armors",
+    "description": "The Faeries of Greenguard Forest are known to keep butterflies as pets, and craft many of their outfits based on the colorful patterns of the Monarch Butterfly's wings.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/6jvE1ZM.png",
+        "https://i.imgur.com/whAA8Fx.png"
+    ],
+    "hash": "e95a6aeb4d5ddfc8c574578a33b857c7"
+}

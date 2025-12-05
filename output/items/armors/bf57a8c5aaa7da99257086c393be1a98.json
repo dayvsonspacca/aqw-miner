@@ -1,0 +1,14 @@
+{
+    "urlName": "black-pawn",
+    "url": "http://aqwwiki.wikidot.com/black-pawn",
+    "name": "Black Pawn",
+    "type": "armors",
+    "description": "Pawns, though regarded as expendable, are actually the most powerful pieces in the game. They have the ability to become any other piece, assuming they can reach the other side of the field.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/uayq9US.png",
+        "http://i.imgur.com/WAgCup7.png"
+    ],
+    "hash": "bf57a8c5aaa7da99257086c393be1a98"
+}

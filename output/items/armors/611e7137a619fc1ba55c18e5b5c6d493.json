@@ -1,0 +1,17 @@
+{
+    "urlName": "black-ghost",
+    "url": "http://aqwwiki.wikidot.com/black-ghost",
+    "name": "Black Ghost",
+    "type": "armors",
+    "description": "Better think twice before you tell someone to DIAF - this is what could end up haunting you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/TdIRxvg.png",
+        "http://i.imgur.com/4rzSf8A.png"
+    ],
+    "hash": "611e7137a619fc1ba55c18e5b5c6d493"
+}

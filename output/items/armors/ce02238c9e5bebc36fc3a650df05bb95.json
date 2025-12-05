@@ -1,0 +1,19 @@
+{
+    "urlName": "gobble-slayer",
+    "url": "http://aqwwiki.wikidot.com/gobble-slayer",
+    "name": "Gobble Slayer",
+    "type": "armors",
+    "description": "What better way to infiltrate the Gobble Clan then dressing up as one!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": {
+        "0": "Legend",
+        "1": "Seasonal",
+        "2": "Rare",
+        "5": "Adventure Coins"
+    },
+    "images": [
+        "https://i.imgur.com/kglPupN.png",
+        "https://i.imgur.com/jVjzETc.png"
+    ],
+    "hash": "ce02238c9e5bebc36fc3a650df05bb95"
+}

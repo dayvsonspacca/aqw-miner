@@ -1,0 +1,16 @@
+{
+    "urlName": "void-destroyer",
+    "url": "http://aqwwiki.wikidot.com/void-destroyer",
+    "name": "Void Destroyer",
+    "type": "armors",
+    "description": "Silent and distant, but a brutal class of Nation Loyalists that hail from the Void who destroy anything but their domain.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/MnkXTIS.png",
+        "http://i.imgur.com/GnXbXZy.png"
+    ],
+    "hash": "e3e4c7f6bbfbdd229de0394e9ba333da"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "golden-valentine-warrior",
+    "url": "http://aqwwiki.wikidot.com/golden-valentine-warrior",
+    "name": "Golden Valentine Warrior",
+    "type": "armors",
+    "description": "Will you be my Valentine? No? Well, at least I've got this shiny armor",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Bea2DUB.png",
+        "http://i.imgur.com/o1InHsM.png"
+    ],
+    "hash": "05b53f1ec535abeeff341e28225a0cea"
+}

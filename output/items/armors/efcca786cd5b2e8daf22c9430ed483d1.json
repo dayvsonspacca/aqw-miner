@@ -1,0 +1,16 @@
+{
+    "urlName": "ghost-s-wanderer-gear",
+    "url": "http://aqwwiki.wikidot.com/ghost-s-wanderer-gear",
+    "name": "Ghost's Wanderer Gear",
+    "type": "armors",
+    "description": "The travel-worn gear of the spectral dragonlord.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ghost-s-wanderer-gear/Ghost'sWandererGearM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ghost-s-wanderer-gear/Ghost'sWandererGearF.png"
+    ],
+    "hash": "efcca786cd5b2e8daf22c9430ed483d1"
+}

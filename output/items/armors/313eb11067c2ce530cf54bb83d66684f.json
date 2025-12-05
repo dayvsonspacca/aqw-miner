@@ -1,0 +1,16 @@
+{
+    "urlName": "heroic-titan",
+    "url": "http://aqwwiki.wikidot.com/heroic-titan",
+    "name": "Heroic Titan",
+    "type": "armors",
+    "description": "Even in moments of deepest despair, we can still find hope. No matter how messed up things get, YOU have the power to save the day.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/wvZfgUk.png",
+        "https://i.imgur.com/HTbPQap.png"
+    ],
+    "hash": "313eb11067c2ce530cf54bb83d66684f"
+}

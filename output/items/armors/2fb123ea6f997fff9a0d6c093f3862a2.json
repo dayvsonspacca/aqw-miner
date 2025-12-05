@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-punk",
+    "url": "http://aqwwiki.wikidot.com/chaos-punk",
+    "name": "Chaos Punk",
+    "type": "armors",
+    "description": "Sometimes, you gotta save a dragon from a princess. What can ya do?",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/upfPJVY.png",
+        "http://i.imgur.com/WR7IvBo.png"
+    ],
+    "hash": "2fb123ea6f997fff9a0d6c093f3862a2"
+}

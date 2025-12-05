@@ -1,0 +1,18 @@
+{
+    "urlName": "apocalyptic-conquerer",
+    "url": "http://aqwwiki.wikidot.com/apocalyptic-conquerer",
+    "name": "Apocalyptic Conquerer",
+    "type": "armors",
+    "description": "When the world ends, you will learn to bow in the wake of the ruins! Prepare for your submission!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-conquerer/ApocalypticConquererMaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-conquerer/ApocalypticConquererMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-conquerer/ApocalypticConquererFemale.png"
+    ],
+    "hash": "9a1bbae558d824a5b59363b6c43e5556"
+}

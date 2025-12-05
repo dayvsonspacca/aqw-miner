@@ -1,0 +1,17 @@
+{
+    "urlName": "giftbox-armor-2",
+    "url": "http://aqwwiki.wikidot.com/giftbox-armor-2",
+    "name": "Giftbox Armor",
+    "type": "armors",
+    "description": "Sometimes you just want to run around dressed like a giant gift box!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/zpOBmQt.png",
+        "http://i.imgur.com/O0ZfRjp.png"
+    ],
+    "hash": "72ebca73e9edca14e882170557d8bfbe"
+}

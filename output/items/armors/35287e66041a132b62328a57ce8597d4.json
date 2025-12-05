@@ -1,0 +1,16 @@
+{
+    "urlName": "vanta-blademaster",
+    "url": "http://aqwwiki.wikidot.com/vanta-blademaster",
+    "name": "Vanta BladeMaster",
+    "type": "armors",
+    "description": "These lone blademaster's hide within the shadows, carefully avoiding enemies until their foes least expect it.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/311sIET.png",
+        "https://i.imgur.com/dpTvz0k.png"
+    ],
+    "hash": "35287e66041a132b62328a57ce8597d4"
+}

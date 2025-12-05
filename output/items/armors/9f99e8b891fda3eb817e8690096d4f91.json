@@ -1,0 +1,19 @@
+{
+    "urlName": "rawr-roth",
+    "url": "http://aqwwiki.wikidot.com/rawr-roth",
+    "name": "Rawr-roth",
+    "type": "armors",
+    "description": "Ever wonder what would happen if a dark elven gunslinger got bitten by a werewolf? Rawr!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3PV0dkD.png",
+        "http://aqwwiki.wdfiles.com/local--files/rawr-roth/Rawr-rothMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/rawr-roth/Rawr-rothFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/rawr-roth/Rawr-rothFOld.png"
+    ],
+    "hash": "9f99e8b891fda3eb817e8690096d4f91"
+}

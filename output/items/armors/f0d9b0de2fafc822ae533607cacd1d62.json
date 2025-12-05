@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-devourer-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-devourer-ac",
+    "name": "Legion Devourer (AC)",
+    "type": "armors",
+    "description": "FEED UPON THE SOULS OF THE FALLEN.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Vmm11dN.png",
+        "https://i.imgur.com/Ntlfgqa.png"
+    ],
+    "hash": "f0d9b0de2fafc822ae533607cacd1d62"
+}

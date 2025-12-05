@@ -1,0 +1,17 @@
+{
+    "urlName": "bark-caster",
+    "url": "http://aqwwiki.wikidot.com/bark-caster",
+    "name": "Bark Caster",
+    "type": "armors",
+    "description": "Puns are the ROOT of all Evil.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/D6bAUpy.png",
+        "https://i.imgur.com/7ATg24S.png"
+    ],
+    "hash": "412bcb5b60844071646c72412bfd7015"
+}

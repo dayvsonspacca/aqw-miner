@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-revenant-armor",
+    "url": "http://aqwwiki.wikidot.com/legion-revenant-armor",
+    "name": "Legion Revenant Armor",
+    "type": "armors",
+    "description": "Steeped in darkness, Legion Revenants derive their power from the essence responsible for the Legion's un-death. The Legion flows through them, and they are the Legion.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/dF9m16T.png",
+        "https://i.imgur.com/PMZbuZl.png"
+    ],
+    "hash": "228261a3c0f3a4ca0852db4c70d88441"
+}

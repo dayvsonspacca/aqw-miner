@@ -1,0 +1,17 @@
+{
+    "urlName": "zoo-keeper",
+    "url": "http://aqwwiki.wikidot.com/zoo-keeper",
+    "name": "Zoo Keeper",
+    "type": "armors",
+    "description": "If yer gonna wrangle critters in an outback zoo, ya need the proper gear!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/zoo-keeper/ZooKeeperM.png",
+        "http://aqwwiki.wdfiles.com/local--files/zoo-keeper/ZooKeeperF.png"
+    ],
+    "hash": "aa0e3a5ce5ddcfdbab1716f48c0b1f54"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chaotic-pirate-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/chaotic-pirate-captain-ac",
+    "name": "Chaotic Pirate Captain (AC)",
+    "type": "armors",
+    "description": "Avast! These pirates have fallen prey to Chaos, and are now a force for Chaotic Evil on the seas of Lore!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/HalcCUT.png",
+        "https://i.imgur.com/UGaWeHX.png"
+    ],
+    "hash": "5ce90407f8effb5a9251938140aeba38"
+}

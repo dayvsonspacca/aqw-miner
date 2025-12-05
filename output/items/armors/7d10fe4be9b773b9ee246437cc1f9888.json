@@ -1,0 +1,17 @@
+{
+    "urlName": "potato-sack",
+    "url": "http://aqwwiki.wikidot.com/potato-sack",
+    "name": "Potato Sack",
+    "type": "armors",
+    "description": "Yeah it's a lot of gold for a used potato sack. But this is formal attire for a food fighting event.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/cLOpYP0.png",
+        "http://i.imgur.com/8w65fnj.png"
+    ],
+    "hash": "7d10fe4be9b773b9ee246437cc1f9888"
+}

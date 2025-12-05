@@ -1,0 +1,17 @@
+{
+    "urlName": "flying-bacon",
+    "url": "http://aqwwiki.wikidot.com/flying-bacon",
+    "name": "Flying Bacon",
+    "type": "armors",
+    "description": "Let bacon work its magic and take you to a wonderful, savory world. Bacon Om nom nom nom!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/flying-bacon/FBM.png",
+        "http://aqwwiki.wdfiles.com/local--files/flying-bacon/FBF.png"
+    ],
+    "hash": "3ac97218026ee24fe6adfb4385818af1"
+}

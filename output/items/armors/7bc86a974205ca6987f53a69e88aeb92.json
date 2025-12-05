@@ -1,0 +1,16 @@
+{
+    "urlName": "savage-warlord-armor",
+    "url": "http://aqwwiki.wikidot.com/savage-warlord-armor",
+    "name": "Savage Warlord Armor",
+    "type": "armors",
+    "description": "War has sharpened your battle skills but also made you merciless.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/savage-warlord-armor/SWAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/savage-warlord-armor/SWAF.png"
+    ],
+    "hash": "7bc86a974205ca6987f53a69e88aeb92"
+}

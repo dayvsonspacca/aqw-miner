@@ -1,0 +1,16 @@
+{
+    "urlName": "void-rebirth-ac",
+    "url": "http://aqwwiki.wikidot.com/void-rebirth-ac",
+    "name": "Void Rebirth (AC)",
+    "type": "armors",
+    "description": "Witness the rebirth of the Void!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Ixr4MUj.png"
+    ],
+    "hash": "7c5aa4efc20f64e290e42e8eb77840a7"
+}

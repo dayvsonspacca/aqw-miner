@@ -1,0 +1,17 @@
+{
+    "urlName": "mark-of-the-warrior",
+    "url": "http://aqwwiki.wikidot.com/mark-of-the-warrior",
+    "name": "Mark of the Warrior",
+    "type": "armors",
+    "description": "They do not fight for fame or glory. All they know is that deep down inside, their heart belongs on the battlefield\u2026 unless they are riding the skies atop their dragon companions!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mark-of-the-warrior/MarkoftheWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mark-of-the-warrior/MarkoftheWarriorF.png"
+    ],
+    "hash": "40a568bb5a12dc8865c0b78ff3f7e853"
+}

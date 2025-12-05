@@ -1,0 +1,17 @@
+{
+    "urlName": "chaotic-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/chaotic-captain-ac",
+    "name": "Chaotic Captain (AC)",
+    "type": "armors",
+    "description": "Chaos sails the seas of Lore!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BxlwaQg.png",
+        "https://i.imgur.com/IXSW4dH.png"
+    ],
+    "hash": "ba24e254585e63d8d196fa28b50e1678"
+}

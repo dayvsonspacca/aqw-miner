@@ -1,0 +1,18 @@
+{
+    "urlName": "lightning-mage",
+    "url": "http://aqwwiki.wikidot.com/lightning-mage",
+    "name": "Lightning Mage",
+    "type": "armors",
+    "description": "Seize the power of lightning from the sky! Using electrical magic hamess the bolts and from them into weapons.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UqQHXWc.png",
+        "https://i.imgur.com/6jP3zFL.png",
+        "https://i.imgur.com/uhnCmr9.png"
+    ],
+    "hash": "884336ed45f4348ffffd8c511069c700"
+}

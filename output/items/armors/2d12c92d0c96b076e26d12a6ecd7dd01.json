@@ -1,0 +1,17 @@
+{
+    "urlName": "infernal-blood-caster",
+    "url": "http://aqwwiki.wikidot.com/infernal-blood-caster",
+    "name": "Infernal Blood Caster",
+    "type": "armors",
+    "description": "Mages who derive power from forming pacts with Evil entities are shunned and derided. The same isn't said for those who have their blood blessed by bright beings - yet both wield the same magic.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5icYfsG.png",
+        "https://i.imgur.com/XhdztcD.png"
+    ],
+    "hash": "2d12c92d0c96b076e26d12a6ecd7dd01"
+}

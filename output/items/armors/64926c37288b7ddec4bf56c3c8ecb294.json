@@ -1,0 +1,18 @@
+{
+    "urlName": "illusionist",
+    "url": "http://aqwwiki.wikidot.com/illusionist",
+    "name": "Illusionist",
+    "type": "armors",
+    "description": "They'll be no foolish wand waving for this skilled magic users. Their arcane powers fool the eye and confuse the spectator.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/2ZNvNrt.png",
+        "http://i.imgur.com/11RMGHu.png",
+        "http://aqwwiki.wdfiles.com/local--files/illusionist/IllusionistFOld.png"
+    ],
+    "hash": "64926c37288b7ddec4bf56c3c8ecb294"
+}

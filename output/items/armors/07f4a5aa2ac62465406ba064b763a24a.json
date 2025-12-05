@@ -1,0 +1,17 @@
+{
+    "urlName": "undead-legion-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/undead-legion-naval-commander",
+    "name": "Undead Legion Naval Commander",
+    "type": "armors",
+    "description": "Blue be the color o' the Undead Legion\u2026 'Nd Blue Legion Naval Commanders be the truest 'n toughest warriors in all the seven seas!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-legion-naval-commander/UndeadLegionNavalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-legion-naval-commander/UndeadLegionNavalCommanderF.png"
+    ],
+    "hash": "07f4a5aa2ac62465406ba064b763a24a"
+}

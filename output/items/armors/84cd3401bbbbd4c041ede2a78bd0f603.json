@@ -1,0 +1,14 @@
+{
+    "urlName": "blackhorn-runes-armor",
+    "url": "http://aqwwiki.wikidot.com/blackhorn-runes-armor",
+    "name": "Blackhorn Runes Armor",
+    "type": "armors",
+    "description": "The Blackhorn Runes, located in the Blackhorn Tomb, are one of the most precious runes found throughout all of Lore. Once combined with a plated armor, this rune will light your way in the darkest of areas.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/1XIWH33.png",
+        "http://i.imgur.com/BH8j6Rb.png"
+    ],
+    "hash": "84cd3401bbbbd4c041ede2a78bd0f603"
+}

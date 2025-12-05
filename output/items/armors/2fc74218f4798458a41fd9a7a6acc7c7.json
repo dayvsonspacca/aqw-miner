@@ -1,0 +1,19 @@
+{
+    "urlName": "toxic-swank-armor",
+    "url": "http://aqwwiki.wikidot.com/toxic-swank-armor",
+    "name": "Toxic Swank Armor",
+    "type": "armors",
+    "description": "Black tie affair? How boring! Everyone will be green with envy seeing you in this Cysero approved tux.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/yWCPDPM.png",
+        "http://i.imgur.com/O3lM7Ux.png",
+        "https://i.imgur.com/xKW9BVk.png",
+        "http://i.imgur.com/gfTrQW0.png"
+    ],
+    "hash": "2fc74218f4798458a41fd9a7a6acc7c7"
+}

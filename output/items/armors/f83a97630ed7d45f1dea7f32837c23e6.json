@@ -1,0 +1,16 @@
+{
+    "urlName": "knight-of-the-grid",
+    "url": "http://aqwwiki.wikidot.com/knight-of-the-grid",
+    "name": "Knight of the Grid",
+    "type": "armors",
+    "description": "Those who cross Lore shall be derezzed!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/6PutU01.png",
+        "https://imgur.com/1QR1hZM.png"
+    ],
+    "hash": "f83a97630ed7d45f1dea7f32837c23e6"
+}

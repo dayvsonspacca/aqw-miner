@@ -1,0 +1,16 @@
+{
+    "urlName": "pactagonal-knight-armor",
+    "url": "http://aqwwiki.wikidot.com/pactagonal-knight-armor",
+    "name": "Pactagonal Knight (Armor)",
+    "type": "armors",
+    "description": "As a Knight of the Pactagonal Table, you've earned the right to wear this armor!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/FN21KVE.png",
+        "http://i.imgur.com/wQX3QdP.png"
+    ],
+    "hash": "7c1d8af71716265f36f90d93e591c4d7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-loremaster-ac",
+    "url": "http://aqwwiki.wikidot.com/shadow-loremaster-ac",
+    "name": "Shadow Loremaster (AC)",
+    "type": "armors",
+    "description": "Nothing is so dangerous that it can't be conquered and controlled.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/oTTnYqR.png",
+        "https://i.imgur.com/OTqaCJf.png"
+    ],
+    "hash": "e0a37c11786d2cd01093bcd1a141db5a"
+}

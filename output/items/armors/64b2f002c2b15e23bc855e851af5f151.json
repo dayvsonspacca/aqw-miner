@@ -1,0 +1,17 @@
+{
+    "urlName": "hex-of-nulgath-rare",
+    "url": "http://aqwwiki.wikidot.com/hex-of-nulgath-rare",
+    "name": "Hex of Nulgath (Rare)",
+    "type": "armors",
+    "description": "Nulgath says, \"Perhaps wielding the arcane is more your style. Lightly armored, Hex Voids are the mystic breeds in my legion. They can decimate my enemies with black magic, elements, and curses.\" (Rare)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hex-of-nulgath-rare/HexofNulgathM.png",
+        "http://aqwwiki.wdfiles.com/local--files/hex-of-nulgath-rare/HexofNulgathF.png"
+    ],
+    "hash": "64b2f002c2b15e23bc855e851af5f151"
+}

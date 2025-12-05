@@ -1,0 +1,15 @@
+{
+    "urlName": "sdf-general",
+    "url": "http://aqwwiki.wikidot.com/sdf-general",
+    "name": "SDF General",
+    "type": "armors",
+    "description": "This combat-specialized mecha, model after armor the MechQuest timeline, is designed specifically for deep space adventures.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/vRKztYA.png"
+    ],
+    "hash": "1c05dbf972bf6bc082a62b3fa53be4e3"
+}

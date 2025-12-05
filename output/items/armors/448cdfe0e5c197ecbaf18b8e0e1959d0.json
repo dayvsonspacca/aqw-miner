@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-soulseeker-armor",
+    "url": "http://aqwwiki.wikidot.com/underworld-soulseeker-armor",
+    "name": "Underworld SoulSeeker (Armor)",
+    "type": "armors",
+    "description": "The SoulSeekers roam the Underworld in solitude, held under their Lord's sway yet reviled by their fellow Legionnaires. Little remains of themselves, as they have been twisted by devouring the souls of great monsters.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/9ImaYoE.png",
+        "https://i.imgur.com/vK7oBmM.png"
+    ],
+    "hash": "448cdfe0e5c197ecbaf18b8e0e1959d0"
+}

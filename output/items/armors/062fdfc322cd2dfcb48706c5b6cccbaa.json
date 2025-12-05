@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-frostdrake-ruler",
+    "url": "http://aqwwiki.wikidot.com/dark-frostdrake-ruler",
+    "name": "Dark Frostdrake Ruler",
+    "type": "armors",
+    "description": "Rule the frozen north and the frostdrakes, take no prisoners!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/NvyhyT1.png",
+        "http://i.imgur.com/sWd0p8T.png",
+        "http://i.imgur.com/4Kb76T3.png"
+    ],
+    "hash": "062fdfc322cd2dfcb48706c5b6cccbaa"
+}

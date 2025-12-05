@@ -1,0 +1,17 @@
+{
+    "urlName": "jin-gong-ji",
+    "url": "http://aqwwiki.wikidot.com/jin-gong-ji",
+    "name": "Jin Gong Ji",
+    "type": "armors",
+    "description": "The feathers that make up these robes are from the legendary Sriracha Holycud. These feathers are a symbol of one's flaming passion. They also help you keep warm in the Northlands!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/cOZwo0p.png",
+        "http://i.imgur.com/v68mVoB.png"
+    ],
+    "hash": "3b82d2d89dfcfb17ebc0c5e2a160ab0c"
+}

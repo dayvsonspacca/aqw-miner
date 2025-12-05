@@ -1,0 +1,17 @@
+{
+    "urlName": "empowered-evolved-void",
+    "url": "http://aqwwiki.wikidot.com/empowered-evolved-void",
+    "name": "Empowered Evolved Void",
+    "type": "armors",
+    "description": "This item does 35% more damage to all monsters and gives 25% more gold/exp/rep/cp when equipped. After years of powering up, Nulgath's Fiend has evolved!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/Ei43Xrk.png",
+        "http://i.imgur.com/I49js5U.png"
+    ],
+    "hash": "0abba485d1b2c926a084ed015ec5f53e"
+}

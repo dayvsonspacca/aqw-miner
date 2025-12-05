@@ -1,0 +1,16 @@
+{
+    "urlName": "mana-solace-paladin",
+    "url": "http://aqwwiki.wikidot.com/mana-solace-paladin",
+    "name": "Mana Solace Paladin",
+    "type": "armors",
+    "description": "Students of Lady Celestia and the Blue Mage, these Paladins wield the light of their souls to protect the innocent, and maintain the balance of Lore. Even in starless nights, their valor will shine through and vanquish fear.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/hTK4avT.png",
+        "https://i.imgur.com/X3wZ5Jm.png"
+    ],
+    "hash": "ae5592edfc094a3af0272e58a8e3647f"
+}

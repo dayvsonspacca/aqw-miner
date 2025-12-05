@@ -1,0 +1,16 @@
+{
+    "urlName": "celestial-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/celestial-warrior-ac",
+    "name": "Celestial Warrior (AC)",
+    "type": "armors",
+    "description": "Olympian feats of athleticism, herculean strength, and a healthy lust for the field of battle. Celestial Warriors are Achilles without the heel.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/celestial-warrior-ac/CelestialWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/celestial-warrior-ac/CelestialWarriorFemale.png"
+    ],
+    "hash": "0d4cd0cd76cfbc020e1b6bfaab07796e"
+}

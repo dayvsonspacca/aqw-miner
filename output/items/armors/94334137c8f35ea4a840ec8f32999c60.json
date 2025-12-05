@@ -1,0 +1,17 @@
+{
+    "urlName": "loki-mecha",
+    "url": "http://aqwwiki.wikidot.com/loki-mecha",
+    "name": "Loki Mecha",
+    "type": "armors",
+    "description": "Wom by Loki the jester, a guardian of jokes and tricks in the AdventureQuest timeline, this armor is perfect for those who see life as one big laughing matter.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/loki-mecha/LokiMechaMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/loki-mecha/LokiMechaFemale.png"
+    ],
+    "hash": "94334137c8f35ea4a840ec8f32999c60"
+}

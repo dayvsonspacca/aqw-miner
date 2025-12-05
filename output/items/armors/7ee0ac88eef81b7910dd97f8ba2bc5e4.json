@@ -1,0 +1,17 @@
+{
+    "urlName": "molten-robe",
+    "url": "http://aqwwiki.wikidot.com/molten-robe",
+    "name": "Molten Robe",
+    "type": "armors",
+    "description": "Scarlet flames encompass these robes and which are the garb of choice of fire elementalists. Fire emblazes this robe with power of infernos.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/Zs27iK8.png",
+        "http://i.imgur.com/DFcKePz.png",
+        "http://aqwwiki.wdfiles.com/local--files/molten-robe/MRFO.png"
+    ],
+    "hash": "7ee0ac88eef81b7910dd97f8ba2bc5e4"
+}

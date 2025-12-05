@@ -1,0 +1,17 @@
+{
+    "urlName": "formal-pirate-fleet",
+    "url": "http://aqwwiki.wikidot.com/formal-pirate-fleet",
+    "name": "Formal Pirate Fleet",
+    "type": "armors",
+    "description": "Every Captain is required to attend formal ceremonies at the palace. In this outfit, none will question your right to command.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/L8sU3To.png",
+        "https://i.imgur.com/Qsu6WtO.png"
+    ],
+    "hash": "9f1ec5c48d2ecc0f99c07c7fe49c44e7"
+}

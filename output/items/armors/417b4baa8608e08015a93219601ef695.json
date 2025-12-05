@@ -1,0 +1,17 @@
+{
+    "urlName": "onyx-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/onyx-naval-commander-ac",
+    "name": "Onyx Naval Commander (AC)",
+    "type": "armors",
+    "description": "The highest ranking captain of all. Take control of the helm and your crews' bellybuttons!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MPG2Mav.png",
+        "https://i.imgur.com/jGd4tZf.png"
+    ],
+    "hash": "417b4baa8608e08015a93219601ef695"
+}

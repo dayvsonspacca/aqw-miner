@@ -1,0 +1,17 @@
+{
+    "urlName": "iron-stark-caster",
+    "url": "http://aqwwiki.wikidot.com/iron-stark-caster",
+    "name": "Iron Stark Caster",
+    "type": "armors",
+    "description": "Genius, Hero, Dragon, Iron StarkCaster. That's kind of catchy. I mean it's not technically accurate. But hey.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/tYgPcA0.png",
+        "https://i.imgur.com/LrZyVMx.png"
+    ],
+    "hash": "6f1c9297b818f3804d626e705e629a7d"
+}

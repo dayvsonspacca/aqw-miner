@@ -1,0 +1,17 @@
+{
+    "urlName": "malani-warrior",
+    "url": "http://aqwwiki.wikidot.com/malani-warrior",
+    "name": "Malani Warrior",
+    "type": "armors",
+    "description": "These horse-riding knights gallop across the desert sands, bounding over dunes and rock-strewn valleys, racing towards glory with scimitars drawn and their battle-cries rising on the wind.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/e5AMpPb.png",
+        "http://aqwwiki.wdfiles.com/local--files/malani-warrior/MalaniWarriorM.png"
+    ],
+    "hash": "f57d20153a03b62bb76ee31f2fa27504"
+}

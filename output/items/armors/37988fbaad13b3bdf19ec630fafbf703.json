@@ -1,0 +1,17 @@
+{
+    "urlName": "mechachillid-armor",
+    "url": "http://aqwwiki.wikidot.com/mechachillid-armor",
+    "name": "Mechachillid Armor",
+    "type": "armors",
+    "description": "Forged in the mines of Delta V, this dense exoskeleton offers excellent protection from all the hazards of daily life\u2026if your daily life is diving for shiny rocks in face-meltingly hot magma.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mechachillid-armor/MechachillidArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mechachillid-armor/MechachillidArmorF.png"
+    ],
+    "hash": "37988fbaad13b3bdf19ec630fafbf703"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "watchtower-sergeant",
+    "url": "http://aqwwiki.wikidot.com/watchtower-sergeant",
+    "name": "Watchtower Sergeant",
+    "type": "armors",
+    "description": "As the Sergeant of Amberheart Tower, you're in charge of alerting Lore of any imminent danger. Be prepared because if this tower falls, Lore may be next!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/QeFucaK.png",
+        "https://i.imgur.com/weJPwSO.png"
+    ],
+    "hash": "48c5848ec00b13815b9633f0d7ba7a02"
+}

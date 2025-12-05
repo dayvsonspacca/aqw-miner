@@ -1,0 +1,16 @@
+{
+    "urlName": "geomancer",
+    "url": "http://aqwwiki.wikidot.com/geomancer",
+    "name": "Geomancer",
+    "type": "armors",
+    "description": "Your mastery of elemental earth magic has taken your magic to powerful new depths.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/owy7sf0.png",
+        "http://i.imgur.com/4g5NPaA.png"
+    ],
+    "hash": "92275af33d61be74420d511a91c9a5ad"
+}

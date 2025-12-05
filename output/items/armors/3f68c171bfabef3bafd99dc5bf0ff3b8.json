@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-necropirate-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-necropirate-ac",
+    "name": "Dark Necropirate (AC)",
+    "type": "armors",
+    "description": "A Necromancer who applies their dark arts at sea. Coordinating an entire crew of mindless Undead is no easy feat, but the cutthroat nature of the tossing waves always offers new materials.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/IrzioPS.png",
+        "https://i.imgur.com/W8ARbUP.png"
+    ],
+    "hash": "3f68c171bfabef3bafd99dc5bf0ff3b8"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "bedazzled-villager",
+    "url": "http://aqwwiki.wikidot.com/bedazzled-villager",
+    "name": "Bedazzled Villager",
+    "type": "armors",
+    "description": "You are looking nice. Where are you headed? To a village? That's THE perfect look for you!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bedazzled-villager/BedazzledVillagerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bedazzled-villager/BedazzledVillagerF.png"
+    ],
+    "hash": "fd0fe8cd7f01a509786f799c0ad17690"
+}

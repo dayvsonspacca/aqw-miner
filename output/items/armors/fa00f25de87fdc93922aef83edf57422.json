@@ -1,0 +1,16 @@
+{
+    "urlName": "firemaster",
+    "url": "http://aqwwiki.wikidot.com/firemaster",
+    "name": "FireMaster",
+    "type": "armors",
+    "description": "Only by combining the power of light and fire could the DoomMaster's armor be purified. Now, you have become\u2026 the FireMaster.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/7bk44Bu.png",
+        "https://i.imgur.com/m6RBQB9.png"
+    ],
+    "hash": "fa00f25de87fdc93922aef83edf57422"
+}

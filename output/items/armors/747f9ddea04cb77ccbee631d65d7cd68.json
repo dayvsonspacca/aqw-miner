@@ -1,0 +1,19 @@
+{
+    "urlName": "pink-entity",
+    "url": "http://aqwwiki.wikidot.com/pink-entity",
+    "name": "Pink Entity",
+    "type": "armors",
+    "description": "Some of the solar flares form amazing shapes and lines that take the form of a monk's robes. Most human beings are unable to cope with the heat composing the flares, allowing fire spirits to wear these shapes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pink-entity/PinkEntityM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pink-entity/PinkEntityMAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/pink-entity/PinkEntityF.png",
+        "http://aqwwiki.wdfiles.com/local--files/pink-entity/PinkEntityFAnim.png"
+    ],
+    "hash": "747f9ddea04cb77ccbee631d65d7cd68"
+}

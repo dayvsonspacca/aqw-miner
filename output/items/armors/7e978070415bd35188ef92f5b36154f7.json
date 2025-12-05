@@ -1,0 +1,17 @@
+{
+    "urlName": "the-spawn",
+    "url": "http://aqwwiki.wikidot.com/the-spawn",
+    "name": "The Spawn",
+    "type": "armors",
+    "description": "Who knows how the battle will go? Guess you'll just have to WING it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-spawn/TSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/the-spawn/TSF.png"
+    ],
+    "hash": "7e978070415bd35188ef92f5b36154f7"
+}

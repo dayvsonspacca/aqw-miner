@@ -1,0 +1,17 @@
+{
+    "urlName": "elite-shadowreaver-ac",
+    "url": "http://aqwwiki.wikidot.com/elite-shadowreaver-ac",
+    "name": "Elite ShadowReaver (AC)",
+    "type": "armors",
+    "description": "Only the most elite ShadowReavers are allowed to receive the Jagged Lightning tattoo, by order of the Empress Gravelyn.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EXrVesr.png",
+        "https://i.imgur.com/BlxUwkU.png"
+    ],
+    "hash": "f76ec49448296ec1f2a4e2c58c2f0a88"
+}

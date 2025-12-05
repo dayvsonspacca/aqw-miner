@@ -1,0 +1,17 @@
+{
+    "urlName": "formal-zookeeper",
+    "url": "http://aqwwiki.wikidot.com/formal-zookeeper",
+    "name": "Formal ZooKeeper",
+    "type": "armors",
+    "description": "If yer gonna wrangle critters in an outbreak where every critter wants to kill you\u2026 oh, wait. Too late.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YglY7z5.png",
+        "https://i.imgur.com/aJ2nzCY.png"
+    ],
+    "hash": "6b77472622aeedad08c9272bf11ca7ca"
+}

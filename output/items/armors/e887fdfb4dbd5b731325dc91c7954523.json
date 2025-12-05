@@ -1,0 +1,17 @@
+{
+    "urlName": "tidal-byakko-warrior",
+    "url": "http://aqwwiki.wikidot.com/tidal-byakko-warrior",
+    "name": "Tidal Byakko Warrior",
+    "type": "armors",
+    "description": "Tidal Tiger Warriors are benevolent and cheerful fighters trained in the ferocious martial art of the Akiban Tigers, and they keep Yokai Isle a safe haven of roaring prosperity!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/jhotARd.png",
+        "https://i.imgur.com/Y9a92MI.png"
+    ],
+    "hash": "e887fdfb4dbd5b731325dc91c7954523"
+}

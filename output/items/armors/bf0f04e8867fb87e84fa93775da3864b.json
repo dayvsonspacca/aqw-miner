@@ -1,0 +1,17 @@
+{
+    "urlName": "hedgie-kigu",
+    "url": "http://aqwwiki.wikidot.com/hedgie-kigu",
+    "name": "Hedgie Kigu",
+    "type": "armors",
+    "description": "Cuddly and soft, you don't have to worry about sticking anyone with your spines.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/0syKbEf.png",
+        "https://i.imgur.com/Nrql7WZ.png"
+    ],
+    "hash": "bf0f04e8867fb87e84fa93775da3864b"
+}

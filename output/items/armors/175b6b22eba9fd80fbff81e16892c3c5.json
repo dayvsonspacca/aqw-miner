@@ -1,0 +1,18 @@
+{
+    "urlName": "black-mage-robes",
+    "url": "http://aqwwiki.wikidot.com/black-mage-robes",
+    "name": "Black Mage Robes",
+    "type": "armors",
+    "description": "This Black mage armor should help you find some truly magic holidays deals!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/15YdHoU.png",
+        "https://i.imgur.com/aroxj1x.png"
+    ],
+    "hash": "175b6b22eba9fd80fbff81e16892c3c5"
+}

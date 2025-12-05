@@ -1,0 +1,19 @@
+{
+    "urlName": "voidpirate-captain",
+    "url": "http://aqwwiki.wikidot.com/voidpirate-captain",
+    "name": "VoidPirate Captain",
+    "type": "armors",
+    "description": "Aye, even the Archfiend has his own fleet! No landlubbers allowed, Nulgath only wants the souls of the best Buccaneers in Lore. Savvy?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/voidpirate-captain/VoidPirateCaptainMNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/voidpirate-captain/VoidPirateCaptainMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/voidpirate-captain/VoidPirateCaptainFNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/voidpirate-captain/VoidPirateCaptainFOld.png"
+    ],
+    "hash": "efa08a46801a4e8c0bc870a8a86d2e50"
+}

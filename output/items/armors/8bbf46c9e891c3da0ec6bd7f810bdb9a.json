@@ -1,0 +1,17 @@
+{
+    "urlName": "void-ring",
+    "url": "http://aqwwiki.wikidot.com/void-ring",
+    "name": "Void Ring",
+    "type": "armors",
+    "description": "If anti-matter harvested from the Void was used to craft this armor\u2026 and the Void is the opposite of the real world of Lore\u2026 is it safe to assume that anti-anti-matter is really made from physical matter\u2026 ?!!? *brain explodes!*",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-ring/VoidRingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-ring/VoidRingF.png"
+    ],
+    "hash": "8bbf46c9e891c3da0ec6bd7f810bdb9a"
+}

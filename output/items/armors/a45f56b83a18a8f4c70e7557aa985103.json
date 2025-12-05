@@ -1,0 +1,18 @@
+{
+    "urlName": "golden-raider-armor",
+    "url": "http://aqwwiki.wikidot.com/golden-raider-armor",
+    "name": "Golden Raider (Armor)",
+    "type": "armors",
+    "description": "Avast! The seven seas need plunderin' and set sail from Lolosia and fight the mighty kracken while searchin' for treasure!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/yl6E8BL.png",
+        "https://i.imgur.com/XNCd7Ds.png"
+    ],
+    "hash": "a45f56b83a18a8f4c70e7557aa985103"
+}

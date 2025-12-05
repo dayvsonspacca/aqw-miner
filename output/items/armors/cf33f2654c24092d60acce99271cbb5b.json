@@ -1,0 +1,16 @@
+{
+    "urlName": "rage",
+    "url": "http://aqwwiki.wikidot.com/rage",
+    "name": "Rage",
+    "type": "armors",
+    "description": "Equipping this armor will amplify your rage against the undead. If they weren't afraid of your battleskills before, they will be now!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/Tfulc15.png",
+        "https://i.imgur.com/AilPPkI.png"
+    ],
+    "hash": "cf33f2654c24092d60acce99271cbb5b"
+}

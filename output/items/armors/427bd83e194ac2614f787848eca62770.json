@@ -1,0 +1,16 @@
+{
+    "urlName": "knight-terror",
+    "url": "http://aqwwiki.wikidot.com/knight-terror",
+    "name": "Knight Terror",
+    "type": "armors",
+    "description": "In the realm of nightmares, your only shot at survival is to fight fear with fear. Once you don this armor forged by solidified terror, your enemies will have nightmares about you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/pGVD8V3.png"
+    ],
+    "hash": "427bd83e194ac2614f787848eca62770"
+}

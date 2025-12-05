@@ -1,0 +1,17 @@
+{
+    "urlName": "battle-sassafras",
+    "url": "http://aqwwiki.wikidot.com/battle-sassafras",
+    "name": "Battle Sassafras",
+    "type": "armors",
+    "description": "Sassafras, the winter monster, is ready to deal with all of those boys, girls, and moglins who have been naughty.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battle-sassafras-12-quest/BattleSassafras.png"
+    ],
+    "hash": "817cc36f2c82d67501070c5e87d21d02"
+}

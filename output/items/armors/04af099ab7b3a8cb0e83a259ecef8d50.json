@@ -1,0 +1,16 @@
+{
+    "urlName": "void-spartan",
+    "url": "http://aqwwiki.wikidot.com/void-spartan",
+    "name": "Void Spartan",
+    "type": "armors",
+    "description": "Long ago, there was an ancient civilization with fearsome warriors. A single warrior from their army could wipe out a group of elite assassins alone. Now twisted from their original purpose, they serve Nulgath with a fervor rarely seen in Lore.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/ZtqiiJz.png",
+        "http://i.imgur.com/DdO55i2.png"
+    ],
+    "hash": "04af099ab7b3a8cb0e83a259ecef8d50"
+}

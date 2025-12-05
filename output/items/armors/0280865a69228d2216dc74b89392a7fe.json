@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-warlord-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/glacial-warlord-armor-ac",
+    "name": "Glacial Warlord Armor (AC)",
+    "type": "armors",
+    "description": "Embrace the power of the glacier\u2026 and CRUSH YOUR ENEMIES! They will soon know the cold grasp of the grave thanks to the power you wield!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glacial-warlord-armor-ac/GlacialWarlordN.png",
+        "http://aqwwiki.wdfiles.com/local--files/glacial-warlord-armor-ac/GlacialWarlord.png"
+    ],
+    "hash": "0280865a69228d2216dc74b89392a7fe"
+}

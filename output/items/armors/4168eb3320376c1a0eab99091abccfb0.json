@@ -1,0 +1,16 @@
+{
+    "urlName": "mirror-blademaster",
+    "url": "http://aqwwiki.wikidot.com/mirror-blademaster",
+    "name": "Mirror BladeMaster",
+    "type": "armors",
+    "description": "A stealthy ally in the fight against Chaos.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/5XWWHPe.png",
+        "https://i.imgur.com/cAW9vNa.png"
+    ],
+    "hash": "4168eb3320376c1a0eab99091abccfb0"
+}

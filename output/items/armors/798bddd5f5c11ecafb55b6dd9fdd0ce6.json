@@ -1,0 +1,16 @@
+{
+    "urlName": "infernal-grim-stalker",
+    "url": "http://aqwwiki.wikidot.com/infernal-grim-stalker",
+    "name": "Infernal Grim Stalker",
+    "type": "armors",
+    "description": "Don't mess with something that walks around on claws\u2026and looks like a spider\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/infernal-grim-stalker/InfernalGrimStalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/infernal-grim-stalker/InfernalGrimStalkerF.png"
+    ],
+    "hash": "798bddd5f5c11ecafb55b6dd9fdd0ce6"
+}

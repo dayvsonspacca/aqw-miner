@@ -1,0 +1,17 @@
+{
+    "urlName": "flintfang-armor-0-ac",
+    "url": "http://aqwwiki.wikidot.com/flintfang-armor-0-ac",
+    "name": "Flintfang Armor (0 AC)",
+    "type": "armors",
+    "description": "Arr, it be Talk Like a Pirate day, matey. Nothing says *AWESOME* quite like werewolf pirates. Unless it's NinjaPirateWerewolfRobotMoglins. But that's for another time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/flintfang-armor-0-ac/FAm.png",
+        "http://aqwwiki.wdfiles.com/local--files/flintfang-armor-0-ac/FAf.png"
+    ],
+    "hash": "c654bed85fbc52e0d7514b2c005b7003"
+}

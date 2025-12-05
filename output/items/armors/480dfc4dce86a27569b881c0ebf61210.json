@@ -1,0 +1,17 @@
+{
+    "urlName": "pony-fett",
+    "url": "http://aqwwiki.wikidot.com/pony-fett",
+    "name": "Pony Fett",
+    "type": "armors",
+    "description": "J6 may be the best Bounty Hunter in LORE, but Pony Fett is right up there!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pony-fett/PonyFettM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pony-fett/PonyFettF.png"
+    ],
+    "hash": "480dfc4dce86a27569b881c0ebf61210"
+}

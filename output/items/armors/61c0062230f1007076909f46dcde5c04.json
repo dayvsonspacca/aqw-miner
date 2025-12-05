@@ -1,0 +1,17 @@
+{
+    "urlName": "battleready-frostlorn-rogue",
+    "url": "http://aqwwiki.wikidot.com/battleready-frostlorn-rogue",
+    "name": "Battleready Frostlorn Rogue",
+    "type": "armors",
+    "description": "Criss-crossing straps of different kinds of leather tightly wrap the Frostlorn Rogue's body, beneath plates of gilt steel.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/OdmYFCy.png",
+        "https://i.imgur.com/OjHUFQu.png"
+    ],
+    "hash": "61c0062230f1007076909f46dcde5c04"
+}

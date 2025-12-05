@@ -1,0 +1,17 @@
+{
+    "urlName": "ice-giant-armor",
+    "url": "http://aqwwiki.wikidot.com/ice-giant-armor",
+    "name": "Ice Giant (Armor)",
+    "type": "armors",
+    "description": "The raiders in the Northlands have descended upon Battleon and Northpointe\u2026 but you're a friendly one, right?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ice-giant-armor/IceGiantM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ice-giant-armor/IceGiantF.png"
+    ],
+    "hash": "a49d73047e37a18199faf21b34a52204"
+}

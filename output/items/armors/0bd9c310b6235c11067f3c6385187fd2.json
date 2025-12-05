@@ -1,0 +1,17 @@
+{
+    "urlName": "sambista-armor",
+    "url": "http://aqwwiki.wikidot.com/sambista-armor",
+    "name": "Sambista Armor",
+    "type": "armors",
+    "description": "Vamos, Sambista: \u00e9 hora de dan\u00e7ar, festejar, lutar! For\u00e7a!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/S25qxzx.png",
+        "https://imgur.com/sUSbOrR.png"
+    ],
+    "hash": "0bd9c310b6235c11067f3c6385187fd2"
+}

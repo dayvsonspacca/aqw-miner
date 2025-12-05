@@ -1,0 +1,17 @@
+{
+    "urlName": "hate-weaver",
+    "url": "http://aqwwiki.wikidot.com/hate-weaver",
+    "name": "Hate Weaver",
+    "type": "armors",
+    "description": "PLAYER SUGGESTION: Repel your next victim with a loathing based armor by Memet. Weave a web of hate and lies around the good guy before reminding it who is boss.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hate-weaver/HateWeaverM.png",
+        "http://aqwwiki.wdfiles.com/local--files/hate-weaver/HateWeaverF.png"
+    ],
+    "hash": "31e73e3b4855c05b9da5bad44232d2e5"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-infantry-armor",
+    "url": "http://aqwwiki.wikidot.com/undead-infantry-armor",
+    "name": "Undead Infantry Armor",
+    "type": "armors",
+    "description": "You've been turned into an undead soldier!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-infantry-armor/UndeadInfantryArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/undead-infantry-armor/UndeadInfantryArmorFemale.png"
+    ],
+    "hash": "130ae9dc43003cb4319fda242f9e57bf"
+}

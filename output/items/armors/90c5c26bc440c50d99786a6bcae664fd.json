@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-bard",
+    "url": "http://aqwwiki.wikidot.com/celestial-bard",
+    "name": "Celestial Bard",
+    "type": "armors",
+    "description": "The beauty of the stars enhances your creativity, and the music of the spheres flows through you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kQPv5Az.png",
+        "https://i.imgur.com/jea5ciF.png"
+    ],
+    "hash": "90c5c26bc440c50d99786a6bcae664fd"
+}

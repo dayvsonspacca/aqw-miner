@@ -1,0 +1,17 @@
+{
+    "urlName": "leprechaun-ranger",
+    "url": "http://aqwwiki.wikidot.com/leprechaun-ranger",
+    "name": "Leprechaun Ranger",
+    "type": "armors",
+    "description": "A bit o' luck will always stand a ranger in good stead as they battle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/MChT80b.png",
+        "https://i.imgur.com/2FCeASv.png"
+    ],
+    "hash": "0465f417a205ea023506928404b354d8"
+}

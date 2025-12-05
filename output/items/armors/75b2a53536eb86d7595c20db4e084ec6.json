@@ -1,0 +1,15 @@
+{
+    "urlName": "fancy-dress",
+    "url": "http://aqwwiki.wikidot.com/fancy-dress",
+    "name": "Fancy Dress",
+    "type": "armors",
+    "description": "You know you're looking good when you rock this dress, no matter how fancy the /party or how chill the evening hangout.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Lmszf4b.png"
+    ],
+    "hash": "75b2a53536eb86d7595c20db4e084ec6"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "the-beast-below",
+    "url": "http://aqwwiki.wikidot.com/the-beast-below",
+    "name": "The Beast Below",
+    "type": "armors",
+    "description": "A creature of legend, patrolling the darkened caverns and labyrinths of the world.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/Rvutc8l.png",
+        "https://i.imgur.com/8EiAask.png"
+    ],
+    "hash": "53c9642fe12bba4f85c98909dcd72778"
+}

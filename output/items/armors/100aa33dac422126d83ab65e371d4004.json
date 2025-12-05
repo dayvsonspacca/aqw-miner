@@ -1,0 +1,17 @@
+{
+    "urlName": "tigers-team-ac",
+    "url": "http://aqwwiki.wikidot.com/tigers-team-ac",
+    "name": "Tigers Team (AC)",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fbQmCul.png",
+        "https://i.imgur.com/Q3gHo8f.png"
+    ],
+    "hash": "100aa33dac422126d83ab65e371d4004"
+}

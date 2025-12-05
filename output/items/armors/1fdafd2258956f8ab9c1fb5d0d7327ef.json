@@ -1,0 +1,17 @@
+{
+    "urlName": "robed-evolved-legion-vampire-ac",
+    "url": "http://aqwwiki.wikidot.com/robed-evolved-legion-vampire-ac",
+    "name": "Robed Evolved Legion Vampire (AC)",
+    "type": "armors",
+    "description": "Well done, Legion member! This armor will serve you well as you stalk the shadows.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/robed-evolved-legion-vampire-ac/RobedEvolvedLegionVampireM.png",
+        "http://aqwwiki.wdfiles.com/local--files/robed-evolved-legion-vampire-ac/RobedEvolvedLegionVampireF.png"
+    ],
+    "hash": "1fdafd2258956f8ab9c1fb5d0d7327ef"
+}

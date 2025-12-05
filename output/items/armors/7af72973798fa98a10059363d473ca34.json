@@ -1,0 +1,14 @@
+{
+    "urlName": "fire-fighter",
+    "url": "http://aqwwiki.wikidot.com/fire-fighter",
+    "name": "Fire Fighter",
+    "type": "armors",
+    "description": "Protect yourself against the heat as you save lives!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://imgur.com/fJrxDKO.png",
+        "https://imgur.com/Urq2qqR.png"
+    ],
+    "hash": "7af72973798fa98a10059363d473ca34"
+}

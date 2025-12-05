@@ -1,0 +1,18 @@
+{
+    "urlName": "galactic-defender-armor",
+    "url": "http://aqwwiki.wikidot.com/galactic-defender-armor",
+    "name": "Galactic Defender (Armor)",
+    "type": "armors",
+    "description": "In the depths of unknown space, you are own ruler for galactic obstackles do not hold you back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/galactic-defender-armor/GalacticDefenderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/galactic-defender-armor/GalacticDefenderF.png"
+    ],
+    "hash": "ecb5c4513ac7f9421132f71bc18b0c4d"
+}

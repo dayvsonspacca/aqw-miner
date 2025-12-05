@@ -1,0 +1,16 @@
+{
+    "urlName": "raptor",
+    "url": "http://aqwwiki.wikidot.com/raptor",
+    "name": "Raptor",
+    "type": "armors",
+    "description": "This armor is dyno-mite!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/0v1wYka.png",
+        "http://i.imgur.com/Hl5Xmjd.png"
+    ],
+    "hash": "3a31de59c3bbb64563f976e7f697e0b9"
+}

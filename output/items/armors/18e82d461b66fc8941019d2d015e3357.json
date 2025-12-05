@@ -1,0 +1,17 @@
+{
+    "urlName": "malevolent-scarecrow",
+    "url": "http://aqwwiki.wikidot.com/malevolent-scarecrow",
+    "name": "Malevolent Scarecrow",
+    "type": "armors",
+    "description": "The crow-pecked rags of a scarecrow. They look suspiciously similar to a missing neighbor favorite pair of overalls.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/89ZTqFc.png",
+        "https://i.imgur.com/iupxMps.png"
+    ],
+    "hash": "18e82d461b66fc8941019d2d015e3357"
+}

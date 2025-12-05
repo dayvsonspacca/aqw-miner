@@ -1,0 +1,16 @@
+{
+    "urlName": "elven-heritage-ranger",
+    "url": "http://aqwwiki.wikidot.com/elven-heritage-ranger",
+    "name": "Elven Heritage Ranger",
+    "type": "armors",
+    "description": "Due to their seclusion, elf clans can disappear without a whisper. With no one left to search for them, the Elven Heritage Ranger takes up this duty, and explores the far reaches for kin in need of aid.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/awx3WPH.png",
+        "https://i.imgur.com/h4xYzgM.png"
+    ],
+    "hash": "78664f8026a7baaf233c138ac29a6367"
+}

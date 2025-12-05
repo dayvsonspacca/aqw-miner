@@ -1,0 +1,17 @@
+{
+    "urlName": "loco-costume",
+    "url": "http://aqwwiki.wikidot.com/loco-costume",
+    "name": "Loco Costume",
+    "type": "armors",
+    "description": "Loco caused mayhem around Battleon pretending to be you. Now you can disguise yourself as Loco to turn the tables since someone has recreated this mischief armor from AdventureQuest.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9HtnSuV.png",
+        "http://aqwwiki.wdfiles.com/local--files/loco-costume/LocoCostumeM.png"
+    ],
+    "hash": "1bfc46a09667c0c424613f0013fe0baa"
+}

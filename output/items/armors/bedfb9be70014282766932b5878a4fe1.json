@@ -1,0 +1,17 @@
+{
+    "urlName": "hunter",
+    "url": "http://aqwwiki.wikidot.com/hunter",
+    "name": "Hunter",
+    "type": "armors",
+    "description": "Be at your most threatening in this armor. Your prey shall never stand a chance.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9InKmee.png",
+        "http://aqwwiki.wdfiles.com/local--files/hunter/HunterM.png"
+    ],
+    "hash": "bedfb9be70014282766932b5878a4fe1"
+}

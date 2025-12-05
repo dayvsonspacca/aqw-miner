@@ -1,0 +1,17 @@
+{
+    "urlName": "ebony-voidcaster-ac",
+    "url": "http://aqwwiki.wikidot.com/ebony-voidcaster-ac",
+    "name": "Ebony VoidCaster (AC)",
+    "type": "armors",
+    "description": "Those who sign Nulgath's contract gain access to the infinite wellspring of arcane energy contained within the void. Be warned, almost everyone who accepts this power find themselves consumed by it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fpSWC8h.png",
+        "https://i.imgur.com/7Vky1FY.png"
+    ],
+    "hash": "890ba91e832cf40a299d6ff50311b06f"
+}

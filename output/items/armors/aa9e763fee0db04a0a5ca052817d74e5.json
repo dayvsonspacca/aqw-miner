@@ -1,0 +1,17 @@
+{
+    "urlName": "black-j5",
+    "url": "http://aqwwiki.wikidot.com/black-j5",
+    "name": "Black J5",
+    "type": "armors",
+    "description": "This isn't the J6 Model. It's one generation earlier.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/P9uT4Uj.png",
+        "https://i.imgur.com/8ikGMpN.png",
+        "http://i.imgur.com/kVxIOYy.png"
+    ],
+    "hash": "aa9e763fee0db04a0a5ca052817d74e5"
+}

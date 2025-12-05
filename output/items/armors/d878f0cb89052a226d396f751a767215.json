@@ -1,0 +1,17 @@
+{
+    "urlName": "emerald-arcanist-robes",
+    "url": "http://aqwwiki.wikidot.com/emerald-arcanist-robes",
+    "name": "Emerald Arcanist Robes",
+    "type": "armors",
+    "description": "Hunt zombies for the green dye needed to turn the Arcanist Robes into Emerald Arcanist Robes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/pyAyo5C.png",
+        "http://i.imgur.com/3Vlr4UN.png"
+    ],
+    "hash": "d878f0cb89052a226d396f751a767215"
+}

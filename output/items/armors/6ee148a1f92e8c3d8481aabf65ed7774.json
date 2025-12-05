@@ -1,0 +1,18 @@
+{
+    "urlName": "royal-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/royal-commander-armor",
+    "name": "Royal Commander (Armor)",
+    "type": "armors",
+    "description": "You unlocked this armor and the rest of the Royal Commander set when you become one of the Lore\u2019s greatest Heroes with a 1 month upgrade!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/royal-commander-armor/RoyalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/royal-commander-armor/RoyalCommanderF.png"
+    ],
+    "hash": "6ee148a1f92e8c3d8481aabf65ed7774"
+}

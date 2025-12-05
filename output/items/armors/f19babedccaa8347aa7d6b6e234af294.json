@@ -1,0 +1,16 @@
+{
+    "urlName": "wendigo-armor",
+    "url": "http://aqwwiki.wikidot.com/wendigo-armor",
+    "name": "Wendigo (Armor)",
+    "type": "armors",
+    "description": "The beast inside you awakens! You have been transformed into the devious Wendigo!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/kxqxzkH.png",
+        "https://i.imgur.com/0gkXgE9.png"
+    ],
+    "hash": "f19babedccaa8347aa7d6b6e234af294"
+}

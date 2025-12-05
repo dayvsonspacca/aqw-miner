@@ -1,0 +1,16 @@
+{
+    "urlName": "lich-lord-armor",
+    "url": "http://aqwwiki.wikidot.com/lich-lord-armor",
+    "name": "Lich Lord (Armor)",
+    "type": "armors",
+    "description": "Delve deeply into the forbidden world of Necromancy and become the embodiment of it.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/O95mTKm.png",
+        "https://i.imgur.com/tWrf8AN.png"
+    ],
+    "hash": "e29fe1e2e6f93d6e9f515993eaf649d7"
+}

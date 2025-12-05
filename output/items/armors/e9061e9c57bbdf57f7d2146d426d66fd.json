@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-knight-of-vokun",
+    "url": "http://aqwwiki.wikidot.com/dark-knight-of-vokun",
+    "name": "Dark Knight of Vokun",
+    "type": "armors",
+    "description": "Not to be confused with that other Dark Knight. This one wears plate mail.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gNsdSBE.png",
+        "https://i.imgur.com/HE08zKK.png"
+    ],
+    "hash": "e9061e9c57bbdf57f7d2146d426d66fd"
+}

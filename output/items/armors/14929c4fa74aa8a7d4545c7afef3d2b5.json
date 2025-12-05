@@ -1,0 +1,18 @@
+{
+    "urlName": "black-leprechaun",
+    "url": "http://aqwwiki.wikidot.com/black-leprechaun",
+    "name": "Black Leprechaun",
+    "type": "armors",
+    "description": "For extra good luck when you're trying to find those awesome Black Friday deals!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/7jY8oYN.png",
+        "http://i.imgur.com/eZNZn5S.png"
+    ],
+    "hash": "14929c4fa74aa8a7d4545c7afef3d2b5"
+}

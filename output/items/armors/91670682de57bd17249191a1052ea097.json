@@ -1,0 +1,18 @@
+{
+    "urlName": "tactical-agent-alpha",
+    "url": "http://aqwwiki.wikidot.com/tactical-agent-alpha",
+    "name": "Tactical Agent Alpha",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ryHp9ke.png",
+        "https://i.imgur.com/B21EEu4.png"
+    ],
+    "hash": "91670682de57bd17249191a1052ea097"
+}

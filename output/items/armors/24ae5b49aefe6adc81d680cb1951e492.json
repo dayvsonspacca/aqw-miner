@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-merdrac",
+    "url": "http://aqwwiki.wikidot.com/chaos-merdrac",
+    "name": "Chaos Merdrac",
+    "type": "armors",
+    "description": "The land-form of a Merdraconian twisted by Chaos.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/9R8mU1a.png",
+        "https://i.imgur.com/JI752Su.png"
+    ],
+    "hash": "24ae5b49aefe6adc81d680cb1951e492"
+}

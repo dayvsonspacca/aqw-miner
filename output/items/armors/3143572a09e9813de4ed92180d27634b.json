@@ -1,0 +1,17 @@
+{
+    "urlName": "oni-to-kijo-ac",
+    "url": "http://aqwwiki.wikidot.com/oni-to-kijo-ac",
+    "name": "Oni to Kijo (AC)",
+    "type": "armors",
+    "description": "Only the truly power hungry are transformed into Oni. You'll forever roam the earth reigning down punishment on those who deserve it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oni-to-kijo-ac/Oni.png",
+        "http://aqwwiki.wdfiles.com/local--files/oni-to-kijo-ac/Kijo.png"
+    ],
+    "hash": "3143572a09e9813de4ed92180d27634b"
+}

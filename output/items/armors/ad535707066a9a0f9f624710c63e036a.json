@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-sorcerer",
+    "url": "http://aqwwiki.wikidot.com/dark-sorcerer",
+    "name": "Dark Sorcerer",
+    "type": "armors",
+    "description": "Fear and darkness are your allies. You live to crush the Good of the Mirror Realm and bring forth eternal Dark.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-sorcerer/DarkSorcererM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-sorcerer/DarkSorcererF.png"
+    ],
+    "hash": "ad535707066a9a0f9f624710c63e036a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "bitterblade-rogue",
+    "url": "http://aqwwiki.wikidot.com/bitterblade-rogue",
+    "name": "Bitterblade Rogue",
+    "type": "armors",
+    "description": "The frozen tundra of the Northlands is home to these nomadic rogues.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/3bqXrl4.png",
+        "http://i.imgur.com/hOuUGZ1.png"
+    ],
+    "hash": "810dad11ee9307c8fed9bc9b3f1ff76c"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "gilded-magistrate",
+    "url": "http://aqwwiki.wikidot.com/gilded-magistrate",
+    "name": "Gilded Magistrate",
+    "type": "armors",
+    "description": "After proving lotalty to the magistracy time and time again, you are awarded with a more decorative armor for your efforts.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gilded-magistrate/GildedMagistrateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/gilded-magistrate/GildedMagistrateF.png"
+    ],
+    "hash": "bbd277ccd37eae04477d9b94f1f96cde"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "yellow-coward-armor",
+    "url": "http://aqwwiki.wikidot.com/yellow-coward-armor",
+    "name": "Yellow Coward Armor",
+    "type": "armors",
+    "description": "Yeah, we're calling you yellow. You're in a Coward's armor, what do you expect?",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/yellow-coward-armor/YellowCowardArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/yellow-coward-armor/YellowCowardArmorFemale.png"
+    ],
+    "hash": "377a0b08612cd3a978c79478466a3ab0"
+}

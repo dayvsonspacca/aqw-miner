@@ -1,0 +1,17 @@
+{
+    "urlName": "senior-student-uniform",
+    "url": "http://aqwwiki.wikidot.com/senior-student-uniform",
+    "name": "Senior Student Uniform",
+    "type": "armors",
+    "description": "This uniform is worn by senior school age students in Swordhaven's Hero Academy when they aren't in combat training.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/cn5bFVA.png",
+        "https://i.imgur.com/o0isGPC.png"
+    ],
+    "hash": "513cad0b71f4217f45481c8c6491afaf"
+}

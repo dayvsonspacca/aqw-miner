@@ -1,0 +1,17 @@
+{
+    "urlName": "jolly-frostval-attire",
+    "url": "http://aqwwiki.wikidot.com/jolly-frostval-attire",
+    "name": "Jolly Frostval Attire",
+    "type": "armors",
+    "description": "Dress for the season! Frost Moglins have warm hearts but VERY cold paws. Make sure you dress warmly before receiving Frostval hugs!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/jolly-frostval-attire/JFAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/jolly-frostval-attire/JFAF.png"
+    ],
+    "hash": "9e00445389a7774643534db907e1d027"
+}

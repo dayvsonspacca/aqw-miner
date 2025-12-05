@@ -1,0 +1,17 @@
+{
+    "urlName": "scarab-fiend",
+    "url": "http://aqwwiki.wikidot.com/scarab-fiend",
+    "name": "Scarab Fiend",
+    "type": "armors",
+    "description": "Scarab Bloodrunners were once among the Sandsea's greatest warriors. Once they swore allegiance to Nulgath and embraced a new role as Fiends, they became some of his fiercest defenders.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BrayHe0.png",
+        "https://i.imgur.com/mjf0Fwn.png"
+    ],
+    "hash": "10815737d5836bf5378d56359b4844ef"
+}

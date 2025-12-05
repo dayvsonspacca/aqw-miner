@@ -1,0 +1,14 @@
+{
+    "urlName": "flame-warrior",
+    "url": "http://aqwwiki.wikidot.com/flame-warrior",
+    "name": "Flame Warrior",
+    "type": "armors",
+    "description": "These hot-blooded warriors are ready at a moments notice to charge into battle and burn the world to the ground!",
+    "rarity": "Common Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/Xe0TvRb.png",
+        "http://i.imgur.com/43eaOkb.png"
+    ],
+    "hash": "3f35f6563b98949b8cdebe52bdaa5a9a"
+}

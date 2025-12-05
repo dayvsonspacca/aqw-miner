@@ -1,0 +1,16 @@
+{
+    "urlName": "basilisk-ranger",
+    "url": "http://aqwwiki.wikidot.com/basilisk-ranger",
+    "name": "Basilisk Ranger",
+    "type": "armors",
+    "description": "The Basilisk is easily the most deadly of the four legendary beasts of Greenguard Forest. Its stare is as deadly as its venomous bite. No hunter would dare track this beast\u2026 until you proved it could be defeated.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/5oHcAgs.png",
+        "https://i.imgur.com/1fnUGyP.png"
+    ],
+    "hash": "af38d78088afea05b1162e45e71af58f"
+}

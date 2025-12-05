@@ -1,0 +1,16 @@
+{
+    "urlName": "robot-parade-chassis",
+    "url": "http://aqwwiki.wikidot.com/robot-parade-chassis",
+    "name": "Robot Parade Chassis",
+    "type": "armors",
+    "description": "There's electric cars, there's electric trains, and with this chassis, you'd be a robotic hero with electric brains!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/robot-parade-chassis/RPCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/robot-parade-chassis/RPCF.png"
+    ],
+    "hash": "5e40d3c55973c2adbe02e49b96832af1"
+}

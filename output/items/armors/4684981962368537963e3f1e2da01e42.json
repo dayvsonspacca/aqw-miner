@@ -1,0 +1,16 @@
+{
+    "urlName": "scourge-overlord-ac",
+    "url": "http://aqwwiki.wikidot.com/scourge-overlord-ac",
+    "name": "Scourge Overlord (AC)",
+    "type": "armors",
+    "description": "Dimension travelers that have perfected their complex abilities are granted the rare privilege to have their bodies dissolve into part-nebula. Their only command is to wipe out their foes in the name of Caden.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/scourge-overlord-ac/ScourgeOverlord.png"
+    ],
+    "hash": "4684981962368537963e3f1e2da01e42"
+}

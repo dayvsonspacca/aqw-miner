@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-karategi",
+    "url": "http://aqwwiki.wikidot.com/dark-karategi",
+    "name": "Dark Karategi",
+    "type": "armors",
+    "description": "Made out of light canvas cloth, the gi maximizes mobility and speed. The dark material represents the highest level of knowledge!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/3KtClnR.png",
+        "http://i.imgur.com/WwDIvz2.png"
+    ],
+    "hash": "c557d89e982b0e7c93269a4f84103d7e"
+}

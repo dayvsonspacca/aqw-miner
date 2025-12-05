@@ -1,0 +1,16 @@
+{
+    "urlName": "pinkitron",
+    "url": "http://aqwwiki.wikidot.com/pinkitron",
+    "name": "Pinkitron",
+    "type": "armors",
+    "description": "You are now a Mini Sneevil War Machine!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pinkitron/Pinkitron.png"
+    ],
+    "hash": "8c465b3794bee5d6b0b993fd094a8270"
+}

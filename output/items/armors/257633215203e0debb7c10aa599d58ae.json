@@ -1,0 +1,15 @@
+{
+    "urlName": "regal-lady-lua",
+    "url": "http://aqwwiki.wikidot.com/regal-lady-lua",
+    "name": "Regal Lady Lua",
+    "type": "armors",
+    "description": "Lady Lua hails from a region of Yokai Isle famed for its white tigers and black bamboo. She rules her ancestral lands with a blend of wisdom and tigerish ferocity. (Female art only.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/zx4OU27.png"
+    ],
+    "hash": "257633215203e0debb7c10aa599d58ae"
+}

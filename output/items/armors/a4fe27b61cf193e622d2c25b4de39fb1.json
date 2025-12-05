@@ -1,0 +1,17 @@
+{
+    "urlName": "apocalyptic-deathbringer",
+    "url": "http://aqwwiki.wikidot.com/apocalyptic-deathbringer",
+    "name": "Apocalyptic DeathBringer",
+    "type": "armors",
+    "description": "Death is coming for those who dwell in Lore. This is the beginning to your end!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-deathbringer/ApocalypticDeathBringerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-deathbringer/ApocalypticDeathBringerFemale.png"
+    ],
+    "hash": "a4fe27b61cf193e622d2c25b4de39fb1"
+}

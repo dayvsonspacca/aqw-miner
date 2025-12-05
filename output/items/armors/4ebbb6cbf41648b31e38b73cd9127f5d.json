@@ -1,0 +1,18 @@
+{
+    "urlName": "rainy-day-romper",
+    "url": "http://aqwwiki.wikidot.com/rainy-day-romper",
+    "name": "Rainy Day Romper",
+    "type": "armors",
+    "description": "The sun'll come out, and when it does, you'll be ready to hit the beach!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/y3q1rG4.png",
+        "https://i.imgur.com/6XMtI79.png"
+    ],
+    "hash": "4ebbb6cbf41648b31e38b73cd9127f5d"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "akiban-defender",
+    "url": "http://aqwwiki.wikidot.com/akiban-defender",
+    "name": "Akiban Defender",
+    "type": "armors",
+    "description": "To get this armor you must have the reputation of a true defender of Akiba!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/5dUDATm.png",
+        "https://i.imgur.com/pFMa8SI.png"
+    ],
+    "hash": "52f4991a509dcfd56ee8a98598232c9c"
+}

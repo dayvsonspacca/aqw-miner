@@ -1,0 +1,16 @@
+{
+    "urlName": "nibbleon-guardian",
+    "url": "http://aqwwiki.wikidot.com/nibbleon-guardian",
+    "name": "NibbleOn Guardian",
+    "type": "armors",
+    "description": "You've been given the task to defend NibbleOn!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/eYptdxM.png",
+        "https://i.imgur.com/G5COfsW.png"
+    ],
+    "hash": "59806419d45194ecfd477240708388fd"
+}

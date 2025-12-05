@@ -1,0 +1,17 @@
+{
+    "urlName": "rouge-lord-and-lady",
+    "url": "http://aqwwiki.wikidot.com/rouge-lord-and-lady",
+    "name": "Rouge Lord and Lady",
+    "type": "armors",
+    "description": "This attire is nice to wear to a wedding\u2026 not a purple or red one though. A pink one. (Suggested by King Brentan)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rouge-lord-and-lady/RougeLord.png",
+        "http://aqwwiki.wdfiles.com/local--files/rouge-lord-and-lady/RougeLady.png"
+    ],
+    "hash": "31c9231e1709131b4b68da9753217f1e"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "healer-armor",
+    "url": "http://aqwwiki.wikidot.com/healer-armor",
+    "name": "Healer Armor",
+    "type": "armors",
+    "description": "Healers are servants of good who use their powers to aid the sick, weak, and injured. Their powerful healing magic is often the difference between a groups victory or doom.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://imgur.com/nPd6t8W.png",
+        "https://i.imgur.com/dJWEtNX.png"
+    ],
+    "hash": "a750b1266335b5e3f97b69dbdecbfc43"
+}

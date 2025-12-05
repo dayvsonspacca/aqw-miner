@@ -1,0 +1,16 @@
+{
+    "urlName": "techno-mage",
+    "url": "http://aqwwiki.wikidot.com/techno-mage",
+    "name": "Techno Mage",
+    "type": "armors",
+    "description": "Wield the power of electricity! Bind it to the mana coursing through your veins! United, the power of music, magic, and SCIENCE! will let you control more power than you ever could have handled before!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/UYnLx9C.png",
+        "http://i.imgur.com/krc0Efo.png"
+    ],
+    "hash": "107521f7c065484680cb7a429798676a"
+}

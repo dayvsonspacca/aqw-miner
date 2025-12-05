@@ -1,0 +1,17 @@
+{
+    "urlName": "nova-striker",
+    "url": "http://aqwwiki.wikidot.com/nova-striker",
+    "name": "Nova Striker",
+    "type": "armors",
+    "description": "Nova Strikers, so named for their craving to kill stars. And they must kill these celestial bodies, or they and their devestating power will fade as quickly as a shooting star. (This item is color customizable to base, accessory, trim.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/lklmorx.png",
+        "https://imgur.com/JXg1InQ.png"
+    ],
+    "hash": "ca85408319ddd6ff72e1209bd7d21fd3"
+}

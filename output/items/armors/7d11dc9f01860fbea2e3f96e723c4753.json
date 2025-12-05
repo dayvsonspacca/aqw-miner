@@ -1,0 +1,17 @@
+{
+    "urlName": "arcane-guardian-armor",
+    "url": "http://aqwwiki.wikidot.com/arcane-guardian-armor",
+    "name": "Arcane Guardian (Armor)",
+    "type": "armors",
+    "description": "Robes styled after one of the founders of magecraft. In a time when magic was an unknown and terrifying force of nature, these brave and ingenuitive pioneers crafted the first spells known to humankind.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yeqgARG.png",
+        "https://i.imgur.com/ye7lIrT.png"
+    ],
+    "hash": "7d11dc9f01860fbea2e3f96e723c4753"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "glacial-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/glacial-warrior-ac",
+    "name": "Glacial Warrior (AC)",
+    "type": "armors",
+    "description": "Mesmerized by the crystalline beauty of their icy home, Glacial Warriors have vowed to serve the Avatar of Ice.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/CPt2rYj.png",
+        "https://i.imgur.com/dbLIhlz.png"
+    ],
+    "hash": "389b6d9d532d49fd9eecbeb11565de2c"
+}

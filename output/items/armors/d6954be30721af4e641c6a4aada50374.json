@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-centurion-armor",
+    "url": "http://aqwwiki.wikidot.com/golden-centurion-armor",
+    "name": "Golden Centurion Armor",
+    "type": "armors",
+    "description": "The Golden Centurions are soldiers from a fabled sunken city. This never before seen armor has been in many battles.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-centurion-armor/GoldenCenturionM.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-centurion-armor/GoldenCenturionF.png"
+    ],
+    "hash": "d6954be30721af4e641c6a4aada50374"
+}

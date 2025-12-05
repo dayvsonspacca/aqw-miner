@@ -1,0 +1,19 @@
+{
+    "urlName": "winters-dark-equinox",
+    "url": "http://aqwwiki.wikidot.com/winters-dark-equinox",
+    "name": "Winters Dark Equinox",
+    "type": "armors",
+    "description": "Jingle bells, the Hero smells, Doom is on the way, Karok attacks behind the Queen's back, now it's time to slay, hey!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/winters-dark-equinox/WintersDarkEquinoxMNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/winters-dark-equinox/WintersDarkEquinoxMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/winters-dark-equinox/WintersDarkEquinoxFNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/winters-dark-equinox/WintersDarkEquinoxFOld.png"
+    ],
+    "hash": "e799fb74073b33137ec4b1e8442a896c"
+}

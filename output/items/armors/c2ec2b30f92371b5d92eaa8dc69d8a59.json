@@ -1,0 +1,17 @@
+{
+    "urlName": "oathkeeper",
+    "url": "http://aqwwiki.wikidot.com/oathkeeper",
+    "name": "Oathkeeper",
+    "type": "armors",
+    "description": "Have you ever wondered what it is that nightmares are made of? Have you ever given thought to the main component of fear? Look into the darkness of Oathkeeper. Now you know.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oathkeeper/OathkeeperM.png",
+        "http://aqwwiki.wdfiles.com/local--files/oathkeeper/OathkeeperF.png"
+    ],
+    "hash": "c2ec2b30f92371b5d92eaa8dc69d8a59"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "berserker-champion",
+    "url": "http://aqwwiki.wikidot.com/berserker-champion",
+    "name": "Berserker Champion",
+    "type": "armors",
+    "description": "These Berserkers have won countless battles and their thirst for combat is never ending. The mere sight of one of these juggernauts will strike fear into the enemy and in most cases send them running before the battle has begun!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/te63BpR.png",
+        "http://i.imgur.com/tHoOUOa.png"
+    ],
+    "hash": "f4db90e7bef0161b9dcf6db970ec2406"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "galactic-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/galactic-commander-armor",
+    "name": "Galactic Commander (Armor)",
+    "type": "armors",
+    "description": "In the depths of the unknown space, you are own ruler for galactic obstackles do not hold you back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/galactic-commander-armor/GalacticCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/galactic-commander-armor/GalacticCommanderF.png"
+    ],
+    "hash": "d34328be09573a466def92b7b3c60fe7"
+}

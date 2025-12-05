@@ -1,0 +1,17 @@
+{
+    "urlName": "champion-of-ice",
+    "url": "http://aqwwiki.wikidot.com/champion-of-ice",
+    "name": "Champion Of Ice",
+    "type": "armors",
+    "description": "To withstand the freezing north is to become its champion especially at any winter sport like defending glacial villages.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/zMgPc04.png",
+        "http://i.imgur.com/UgIyrKf.png"
+    ],
+    "hash": "bee68b2e901950e055d712f9d4d7a06d"
+}

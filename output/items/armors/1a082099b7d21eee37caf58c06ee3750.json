@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-sweater-weather",
+    "url": "http://aqwwiki.wikidot.com/festive-sweater-weather",
+    "name": "Festive Sweater Weather",
+    "type": "armors",
+    "description": "Weather the snowy festive season with a cozy sweater, cup of hot moglinberry juice, and a warm spirit.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/HE9H8on.png",
+        "https://imgur.com/XZVJMqn.png"
+    ],
+    "hash": "1a082099b7d21eee37caf58c06ee3750"
+}

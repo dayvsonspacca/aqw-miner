@@ -1,0 +1,18 @@
+{
+    "urlName": "gmo-brutalcorn",
+    "url": "http://aqwwiki.wikidot.com/gmo-brutalcorn",
+    "name": "GMO Brutalcorn",
+    "type": "armors",
+    "description": "What happens when you were too busy thinking about if you could do it, no one asked if we should do it. This item has a chance to do the One Million Gold Showers animation each time you auto-attack!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gmo-brutalcorn/GMOBrutalcornM.png",
+        "http://aqwwiki.wdfiles.com/local--files/gmo-brutalcorn/GMOBrutalcornF.png",
+        "http://aqwwiki.wdfiles.com/local--files/gmo-brutalcorn/GMOBrutalcornAnim.png"
+    ],
+    "hash": "a5749fdcbde8bdd739ad8252926defed"
+}

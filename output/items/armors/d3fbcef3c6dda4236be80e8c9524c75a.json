@@ -1,0 +1,17 @@
+{
+    "urlName": "apocalyptic-plunderer",
+    "url": "http://aqwwiki.wikidot.com/apocalyptic-plunderer",
+    "name": "Apocalyptic Plunderer",
+    "type": "armors",
+    "description": "When the apocalypse happens; there will be those who fight to protect those who can't protect themselves and those who will take what is left for themselves. Who will you be?",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-plunderer/ApocalypticPlundererMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-plunderer/ApocalypticPlundererFemale.png"
+    ],
+    "hash": "d3fbcef3c6dda4236be80e8c9524c75a"
+}

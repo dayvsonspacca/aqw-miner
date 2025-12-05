@@ -1,0 +1,16 @@
+{
+    "urlName": "the-obfuscated-one",
+    "url": "http://aqwwiki.wikidot.com/the-obfuscated-one",
+    "name": "The Obfuscated One",
+    "type": "armors",
+    "description": "To walk the path of darkness, you must first journey to the brightest heights of Lore and vanquish all that is Good.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/qwb1jeZ.png",
+        "http://i.imgur.com/xAmVNkq.png"
+    ],
+    "hash": "92f1efcd3a478958464e1a68e34ff275"
+}

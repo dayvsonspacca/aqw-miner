@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-leviathan-slayer-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-leviathan-slayer-ac",
+    "name": "Underworld Leviathan Slayer (AC)",
+    "type": "armors",
+    "description": "The Leviathan lurks deep beneath the dark waters of the Styx in the Underworld. Rarely has it been seen, and NEVER slain. Until now.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/CMsD6GD.png",
+        "https://i.imgur.com/Njht3qs.png"
+    ],
+    "hash": "9cc2c9fc1d4d3fb20adc3c470be4d8dc"
+}

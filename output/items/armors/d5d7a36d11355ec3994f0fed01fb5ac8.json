@@ -1,0 +1,17 @@
+{
+    "urlName": "forest-spirit-armor",
+    "url": "http://aqwwiki.wikidot.com/forest-spirit-armor",
+    "name": "Forest Spirit (Armor)",
+    "type": "armors",
+    "description": "You are one whith the forest spirit! lts light shines within you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WxJIL6o.png",
+        "http://aqwwiki.wdfiles.com/local--files/forest-spirit-armor/FSMale.png"
+    ],
+    "hash": "d5d7a36d11355ec3994f0fed01fb5ac8"
+}

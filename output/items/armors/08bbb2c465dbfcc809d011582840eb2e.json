@@ -1,0 +1,17 @@
+{
+    "urlName": "wisteria-swimwear",
+    "url": "http://aqwwiki.wikidot.com/wisteria-swimwear",
+    "name": "Wisteria Swimwear",
+    "type": "armors",
+    "description": "Made of all-natural, organic fabrics, this swimsuit was inspired by the marsh monster, Wisteria!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/qOtNjlI.png",
+        "https://i.imgur.com/GSXIcFf.png"
+    ],
+    "hash": "08bbb2c465dbfcc809d011582840eb2e"
+}

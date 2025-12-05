@@ -1,0 +1,18 @@
+{
+    "urlName": "vampire-armor-armor",
+    "url": "http://aqwwiki.wikidot.com/vampire-armor-armor",
+    "name": "Vampire Armor (Armor)",
+    "type": "armors",
+    "description": "Vampires enjoy \"inner beauty\"\u2026 just stay away from garlic cloves and wooden stakes! Happy Mogloween!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/aUmaFJY.png",
+        "http://i.imgur.com/TvypL52.png"
+    ],
+    "hash": "97be76cc38616949f794307d67fea4b4"
+}

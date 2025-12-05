@@ -1,0 +1,17 @@
+{
+    "urlName": "alpha-rogue",
+    "url": "http://aqwwiki.wikidot.com/alpha-rogue",
+    "name": "Alpha Rogue",
+    "type": "armors",
+    "description": "No better outfit to wear while rebelling against the rampant consumerism of the approaching holiday season!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tuYWJmu.png",
+        "https://i.imgur.com/fFO3R5p.png"
+    ],
+    "hash": "013bf0c6ef5fcbfc5655b115d5ea8ae5"
+}

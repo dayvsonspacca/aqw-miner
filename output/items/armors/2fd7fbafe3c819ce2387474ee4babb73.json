@@ -1,0 +1,17 @@
+{
+    "urlName": "hero-hunter-ac",
+    "url": "http://aqwwiki.wikidot.com/hero-hunter-ac",
+    "name": "Hero Hunter (AC)",
+    "type": "armors",
+    "description": "The heroes of Lore are out in force. The Hunt is on and your prey is near\u2026 but if you aren't careful, you just might become the hunted!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/H59utwV.png",
+        "https://i.imgur.com/jx30cck.png"
+    ],
+    "hash": "2fd7fbafe3c819ce2387474ee4babb73"
+}

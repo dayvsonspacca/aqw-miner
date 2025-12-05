@@ -1,0 +1,16 @@
+{
+    "urlName": "light-mage",
+    "url": "http://aqwwiki.wikidot.com/light-mage",
+    "name": "Light Mage",
+    "type": "armors",
+    "description": "These magi illuminate their surroundings with peace and light. Loyal to Good, they are definitely the brightest of their class. Though, they are unrelated to the LightMage class, which wield the powers of light in the celestial realm.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/AVkGBim.png",
+        "http://i.imgur.com/MNzKLd7.png"
+    ],
+    "hash": "644b2cc540b6c17073bfde6d6ed609fe"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "emerald-sea-mage",
+    "url": "http://aqwwiki.wikidot.com/emerald-sea-mage",
+    "name": "Emerald Sea Mage",
+    "type": "armors",
+    "description": "The sea speaks to you as you harness its magical energy.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://imgur.com/ItxKfts.png",
+        "http://i.imgur.com/UEczIQJ.png"
+    ],
+    "hash": "bd9e34f803e03f157eb6d17f23b0e753"
+}

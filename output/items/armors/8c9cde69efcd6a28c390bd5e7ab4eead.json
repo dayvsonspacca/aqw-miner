@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-arachnomancer",
+    "url": "http://aqwwiki.wikidot.com/dark-arachnomancer",
+    "name": "Dark Arachnomancer",
+    "type": "armors",
+    "description": "Cast a dark and deadly web of lies on your enemies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-arachnomancer/DAMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-arachnomancer/DAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dark-arachnomancer/DAF.png"
+    ],
+    "hash": "8c9cde69efcd6a28c390bd5e7ab4eead"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "noble-wedding-garb",
+    "url": "http://aqwwiki.wikidot.com/noble-wedding-garb",
+    "name": "Noble Wedding Garb",
+    "type": "armors",
+    "description": "Congratz, Alina and Rolith! No potion mix could have made these two fall more in love with each other!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/noble-wedding-garb/NWGM.png",
+        "http://aqwwiki.wdfiles.com/local--files/noble-wedding-garb/NobleWeddingGarbFnew.png",
+        "http://aqwwiki.wdfiles.com/local--files/noble-wedding-garb/NWGF.png"
+    ],
+    "hash": "890157cc4f89f83c855215d91d37a7b1"
+}

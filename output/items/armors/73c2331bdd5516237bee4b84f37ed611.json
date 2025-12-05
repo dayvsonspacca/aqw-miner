@@ -1,0 +1,14 @@
+{
+    "urlName": "white-pawn",
+    "url": "http://aqwwiki.wikidot.com/white-pawn",
+    "name": "White Pawn",
+    "type": "armors",
+    "description": "Pawns, though regarded as expendable, are actually the most powerful pieces in the game. They have the ability to become any other piece, assuming they can reach the other side of the field.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/LcjXVAR.png",
+        "http://i.imgur.com/ieA1X5H.png"
+    ],
+    "hash": "73c2331bdd5516237bee4b84f37ed611"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "fancy-goth-suit",
+    "url": "http://aqwwiki.wikidot.com/fancy-goth-suit",
+    "name": "Fancy Goth Suit",
+    "type": "armors",
+    "description": "Formalwear for all your fanciest Mogloween parties.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/87IZyLn.png",
+        "https://i.imgur.com/5ljmCLK.png"
+    ],
+    "hash": "c1784006b6fa202546453aa6bc586965"
+}

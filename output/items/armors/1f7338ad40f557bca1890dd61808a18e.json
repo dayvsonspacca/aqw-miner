@@ -1,0 +1,15 @@
+{
+    "urlName": "mighty-undead-infantry-armor",
+    "url": "http://aqwwiki.wikidot.com/mighty-undead-infantry-armor",
+    "name": "Mighty Undead Infantry Armor",
+    "type": "armors",
+    "description": "You've turned into an undead soldier! (Gives 5% more gold when equipped.)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/5e4o7gz.png"
+    ],
+    "hash": "1f7338ad40f557bca1890dd61808a18e"
+}

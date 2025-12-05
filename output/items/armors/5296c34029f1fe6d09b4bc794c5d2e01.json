@@ -1,0 +1,16 @@
+{
+    "urlName": "party-attire",
+    "url": "http://aqwwiki.wikidot.com/party-attire",
+    "name": "Party Attire",
+    "type": "armors",
+    "description": "Ready to /party? You will be now!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/party-attire/PartyAttireM.png",
+        "http://aqwwiki.wdfiles.com/local--files/party-attire/PartyAttireF.png"
+    ],
+    "hash": "5296c34029f1fe6d09b4bc794c5d2e01"
+}

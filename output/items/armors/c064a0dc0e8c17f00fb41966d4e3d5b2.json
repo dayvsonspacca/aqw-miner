@@ -1,0 +1,17 @@
+{
+    "urlName": "abyssal-acolyte",
+    "url": "http://aqwwiki.wikidot.com/abyssal-acolyte",
+    "name": "Abyssal Acolyte",
+    "type": "armors",
+    "description": "Only the strongest summoners can channel their rage to summon an Abyssal Firelord from deep within the heart of its Elemental Plane.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/IJQ2KWd.png",
+        "https://i.imgur.com/zdvyHOK.png"
+    ],
+    "hash": "c064a0dc0e8c17f00fb41966d4e3d5b2"
+}

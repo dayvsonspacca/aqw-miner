@@ -1,0 +1,18 @@
+{
+    "urlName": "tempus-mori",
+    "url": "http://aqwwiki.wikidot.com/tempus-mori",
+    "name": "Tempus Mori",
+    "type": "armors",
+    "description": "So many souls, so little time. You're the spirit of death looking for more souls to invite to the afterlife.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tempus-mori/TempusMoriM.png",
+        "http://aqwwiki.wdfiles.com/local--files/tempus-mori/TempusMoriF.png"
+    ],
+    "hash": "2a98f3de56be980f52d059c37506a1bd"
+}

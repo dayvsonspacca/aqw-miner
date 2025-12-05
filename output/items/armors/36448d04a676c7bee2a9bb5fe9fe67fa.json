@@ -1,0 +1,17 @@
+{
+    "urlName": "lemonade-sarong",
+    "url": "http://aqwwiki.wikidot.com/lemonade-sarong",
+    "name": "Lemonade Sarong",
+    "type": "armors",
+    "description": "Do you have to go on a LemonRAID to get this outfit? (Oooo. Sour pun. :X )",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/bJUwziV.png",
+        "https://i.imgur.com/OLNfyTc.png"
+    ],
+    "hash": "36448d04a676c7bee2a9bb5fe9fe67fa"
+}

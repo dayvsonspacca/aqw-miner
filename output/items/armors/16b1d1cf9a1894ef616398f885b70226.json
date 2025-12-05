@@ -1,0 +1,19 @@
+{
+    "urlName": "worshipper-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/worshipper-of-nulgath",
+    "name": "Worshipper of Nulgath",
+    "type": "armors",
+    "description": "Any mortal who has devoted their soul to the obedience of Nulgath.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/rPvZm7Y.png",
+        "http://aqwwiki.wdfiles.com/local--files/worshipper-of-nulgath/WorshipperofNulgathM.png",
+        "http://aqwwiki.wdfiles.com/local--files/worshipper-of-nulgath/WorshipperofNulgathF.png",
+        "http://aqwwiki.wdfiles.com/local--files/worshipper-of-nulgath/WorshipperofNulgathFold.png"
+    ],
+    "hash": "16b1d1cf9a1894ef616398f885b70226"
+}

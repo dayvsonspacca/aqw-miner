@@ -1,0 +1,17 @@
+{
+    "urlName": "paragon-of-parity",
+    "url": "http://aqwwiki.wikidot.com/paragon-of-parity",
+    "name": "Paragon of Parity",
+    "type": "armors",
+    "description": "These minions are simply happy to serve Dage, they do not care about anything else.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/tMXVNuh.png",
+        "https://i.imgur.com/1ukjoHB.png"
+    ],
+    "hash": "dc9ab1dd7fd2030199c1528ca7b4c7d3"
+}

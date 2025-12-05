@@ -1,0 +1,16 @@
+{
+    "urlName": "necromancer-armor",
+    "url": "http://aqwwiki.wikidot.com/necromancer-armor",
+    "name": "Necromancer Armor",
+    "type": "armors",
+    "description": "Embrace the Darkness that lies within you. Channel it to control the Undead that surround you. The darkest Power can be yours!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/ssyRNtY.png",
+        "https://i.imgur.com/1p9XPOI.png"
+    ],
+    "hash": "02af7abff0668ab14b09b3075c3d462b"
+}

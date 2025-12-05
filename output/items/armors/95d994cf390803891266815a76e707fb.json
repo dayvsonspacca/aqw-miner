@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-prismatic-magus-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-prismatic-magus-ac",
+    "name": "Dark Prismatic Magus (AC)",
+    "type": "armors",
+    "description": "As opposed to their more publically accepted counterparts, the Dark Prismatic Magus specialize in offense and more persuasive spells. They refract light and shatter minds, molding perfect soldiers with ease.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/32D7vQz.png",
+        "https://i.imgur.com/tWXk01I.png"
+    ],
+    "hash": "95d994cf390803891266815a76e707fb"
+}

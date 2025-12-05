@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-disco",
+    "url": "http://aqwwiki.wikidot.com/dark-disco",
+    "name": "Dark Disco",
+    "type": "armors",
+    "description": "In the 70's, fearless funkadelic warriors wore bell bottoms trousers, sequined tunic dresses, and platform boots made from the toughest dragon pleather in all of Lore.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8dlytBR.png",
+        "https://i.imgur.com/b06rpvi.png"
+    ],
+    "hash": "e1bcc5ec6ffbdb96b14d665d38345b18"
+}

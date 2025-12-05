@@ -1,0 +1,18 @@
+{
+    "urlName": "hazmat-suit",
+    "url": "http://aqwwiki.wikidot.com/hazmat-suit",
+    "name": "Hazmat Suit",
+    "type": "armors",
+    "description": "Protection all sorts of vile nasty liquids and smells, though sadly Cysero's sock is not affected by it.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/3DUih09.png",
+        "http://i.imgur.com/8NvUaWB.png",
+        "https://i.imgur.com/URSEbUr.png",
+        "http://i.imgur.com/hIxZjyh.png"
+    ],
+    "hash": "af0b6aacd3e23e6022326efdde3c9632"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "horc-warrior-thok",
+    "url": "http://aqwwiki.wikidot.com/horc-warrior-thok",
+    "name": "Horc Warrior Thok",
+    "type": "armors",
+    "description": "A gift from old comrades. Juvania mistook it for a costume tucked away on a shelf. Thok doesn't go trick- or-treating, but these clothes shouldn't be left to collect dust either. It's time to return to the glory days.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wZHXzi4.png"
+    ],
+    "hash": "8fc1a0629ae17424810d766709ea6b68"
+}

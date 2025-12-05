@@ -1,0 +1,16 @@
+{
+    "urlName": "man-of-steal-legend",
+    "url": "http://aqwwiki.wikidot.com/man-of-steal-legend",
+    "name": "Man of Steal (Legend)",
+    "type": "armors",
+    "description": "Only the finest supervillains can steal enough to /equip this armor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/oQwJ8M8.png"
+    ],
+    "hash": "dd4059ad1b1d56fb4ee1d9812e78f20b"
+}

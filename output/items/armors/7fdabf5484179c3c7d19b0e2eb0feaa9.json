@@ -1,0 +1,14 @@
+{
+    "urlName": "lava-guard-armor",
+    "url": "http://aqwwiki.wikidot.com/lava-guard-armor",
+    "name": "Lava Guard (Armor)",
+    "type": "armors",
+    "description": "Molten golems created from magma, their sole purpose is to guard the deepest, hottest depths of Battleunder from potential trespassers.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/5wYgxtq.png",
+        "http://i.imgur.com/z5sUWOz.png"
+    ],
+    "hash": "7fdabf5484179c3c7d19b0e2eb0feaa9"
+}

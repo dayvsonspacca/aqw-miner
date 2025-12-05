@@ -1,0 +1,17 @@
+{
+    "urlName": "empowered-evolved-fiend",
+    "url": "http://aqwwiki.wikidot.com/empowered-evolved-fiend",
+    "name": "Empowered Evolved Fiend",
+    "type": "armors",
+    "description": "This item does 35% more damage to all monsters and gives 25% more gold/exp/rep/cp when equipped. After years of powering up, Nulgath's Fiend has evolved!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/C2IENXu.png",
+        "http://i.imgur.com/BWNU6ZB.png"
+    ],
+    "hash": "2f603238f0918d78bc20d1498d1c7b80"
+}

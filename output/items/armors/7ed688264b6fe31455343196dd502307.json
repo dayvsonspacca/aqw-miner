@@ -1,0 +1,17 @@
+{
+    "urlName": "bladelord-of-vokun",
+    "url": "http://aqwwiki.wikidot.com/bladelord-of-vokun",
+    "name": "BladeLord Of Vokun",
+    "type": "armors",
+    "description": "The defenders of the Forgotten Tombs.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bladelord-of-vokun/BladeLordOfVokunM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bladelord-of-vokun/BladeLordOfVokunF.png"
+    ],
+    "hash": "7ed688264b6fe31455343196dd502307"
+}

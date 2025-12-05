@@ -1,0 +1,18 @@
+{
+    "urlName": "festive-battle-elf",
+    "url": "http://aqwwiki.wikidot.com/festive-battle-elf",
+    "name": "Festive Battle Elf",
+    "type": "armors",
+    "description": "Poor Elf! Who knows how long the outfits have been stuck inside Giefurious!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/G3HDd45.png",
+        "https://i.imgur.com/VWJDMz1.png"
+    ],
+    "hash": "66e1d167c0e21df9e5ac45b44de81f7c"
+}

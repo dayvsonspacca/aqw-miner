@@ -1,0 +1,17 @@
+{
+    "urlName": "necronus-redeemer",
+    "url": "http://aqwwiki.wikidot.com/necronus-redeemer",
+    "name": "Necronus Redeemer",
+    "type": "armors",
+    "description": "In space, no one can hear you scream. That is because death has already parted those who had descended upon Planet Necronus and assimilated into its infamous team of bounty hunters.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necronus-redeemer/NecronusRedeemerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/necronus-redeemer/NecronusRedeemerF.png"
+    ],
+    "hash": "6c004c21cf1d8a7dd867d08750a2843b"
+}

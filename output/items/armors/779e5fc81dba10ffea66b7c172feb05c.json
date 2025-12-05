@@ -1,0 +1,16 @@
+{
+    "urlName": "gl-1st",
+    "url": "http://aqwwiki.wikidot.com/gl-1st",
+    "name": "GL-1ST",
+    "type": "armors",
+    "description": "An older and grittier droid model that had all of its gold and glamor stripped off. They've long outlived their warranty.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hZwp0yB.png"
+    ],
+    "hash": "779e5fc81dba10ffea66b7c172feb05c"
+}

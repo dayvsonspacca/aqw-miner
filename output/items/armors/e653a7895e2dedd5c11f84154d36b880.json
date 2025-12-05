@@ -1,0 +1,18 @@
+{
+    "urlName": "pilgrim-rogue",
+    "url": "http://aqwwiki.wikidot.com/pilgrim-rogue",
+    "name": "Pilgrim Rogue",
+    "type": "armors",
+    "description": "Pilgrim Rogues are settlers who do not wish to settle down.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/VNZJVPX.png",
+        "http://i.imgur.com/M9SVKDm.png"
+    ],
+    "hash": "e653a7895e2dedd5c11f84154d36b880"
+}

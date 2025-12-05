@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-asgardian-legend",
+    "url": "http://aqwwiki.wikidot.com/dark-asgardian-legend",
+    "name": "Dark Asgardian (Legend)",
+    "type": "armors",
+    "description": "Forged in the land of the underworld gods, this dark plate commands the fury and anger of the deities it was forged by. Every strike cracks with the intensity of lightning.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bK6eDw9.png",
+        "https://i.imgur.com/VM3jKuU.png"
+    ],
+    "hash": "5275ac3b9cdc4a599a48c77d9f77cb23"
+}

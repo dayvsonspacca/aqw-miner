@@ -1,0 +1,16 @@
+{
+    "urlName": "fiesta-de-la-victoria",
+    "url": "http://aqwwiki.wikidot.com/fiesta-de-la-victoria",
+    "name": "Fiesta de la Victoria",
+    "type": "armors",
+    "description": "Celebrate Cinco de Mayo with this epic dancewear!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/B0vhZJR.png",
+        "https://i.imgur.com/hfEFql0.png"
+    ],
+    "hash": "b2db98c3de54115594b234debdc1bdd3"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "white-tailcoat-ac",
+    "url": "http://aqwwiki.wikidot.com/white-tailcoat-ac",
+    "name": "White Tailcoat (AC)",
+    "type": "armors",
+    "description": "Nothing on this planet says class like a tailcoat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/white-tailcoat-ac/WhiteTailcoatM.png",
+        "http://aqwwiki.wdfiles.com/local--files/white-tailcoat-ac/WhiteTailcoatF.png"
+    ],
+    "hash": "71ec12f5efcd6a0ccbd9dbef3015ae46"
+}

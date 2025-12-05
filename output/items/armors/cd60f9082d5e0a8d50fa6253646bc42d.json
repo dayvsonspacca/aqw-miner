@@ -1,0 +1,16 @@
+{
+    "urlName": "red-dragon-defender",
+    "url": "http://aqwwiki.wikidot.com/red-dragon-defender",
+    "name": "Red Dragon Defender",
+    "type": "armors",
+    "description": "The righteous clad in scales of red. Dragons who stand for the weak and trapped need not live long, but become immortal through the lives they save.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/g6U5FJ2.png",
+        "https://i.imgur.com/8ZcPgk0.png"
+    ],
+    "hash": "cd60f9082d5e0a8d50fa6253646bc42d"
+}

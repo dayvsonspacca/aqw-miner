@@ -1,0 +1,17 @@
+{
+    "urlName": "northlands-monk-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/northlands-monk-armor-ac",
+    "name": "Northlands Monk Armor (AC)",
+    "type": "armors",
+    "description": "Deep in the frozen mountains of the Northlands live a sect of Monks who derive all their power from the ice around them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/U6YRQ3r.png",
+        "https://i.imgur.com/UqLdcQQ.png"
+    ],
+    "hash": "a3c12b43e424c03f5e7089f43e4f0cb7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "abyssal-legionnaire-ac",
+    "url": "http://aqwwiki.wikidot.com/abyssal-legionnaire-ac",
+    "name": "Abyssal Legionnaire (AC)",
+    "type": "armors",
+    "description": "Out of the coffin and ready to take over Darkovia. (This item has a 30% chance to do the Shadowburst attack animation.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/abyssal-legionnaire-ac/AbyssalLegionnaireM.png",
+        "http://aqwwiki.wdfiles.com/local--files/abyssal-legionnaire-ac/AbyssalLegionnaireF.png"
+    ],
+    "hash": "326954e7a1d448bafd6d4f19e58a5be1"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "rare-deathhunter-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/rare-deathhunter-armor-ac",
+    "name": "Rare DeathHunter Armor (AC)",
+    "type": "armors",
+    "description": "When Death comes calling, you can be sure his DeathHunter minions won't be far behind.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/rI9h1cV.png",
+        "https://i.imgur.com/XNHVxBa.png"
+    ],
+    "hash": "958048b9f75d49c6b444337b91c549d4"
+}

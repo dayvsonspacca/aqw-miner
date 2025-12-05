@@ -1,0 +1,18 @@
+{
+    "urlName": "native-warrior",
+    "url": "http://aqwwiki.wikidot.com/native-warrior",
+    "name": "Native Warrior",
+    "type": "armors",
+    "description": "Give thanks this Harvest season by going back to your Native roots! (color custom: accessory and trim)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/K8zpAah.png",
+        "http://i.imgur.com/wDpvCDz.png"
+    ],
+    "hash": "6c83d64508a7a1ef44fd95efe4bae519"
+}

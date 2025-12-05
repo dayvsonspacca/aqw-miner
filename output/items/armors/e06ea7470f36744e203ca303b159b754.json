@@ -1,0 +1,17 @@
+{
+    "urlName": "apocalyptic-warlord",
+    "url": "http://aqwwiki.wikidot.com/apocalyptic-warlord",
+    "name": "Apocalyptic Warlord",
+    "type": "armors",
+    "description": "First fire reigned from the sky. Then they came. That's when the real terror began.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-warlord/ApocalypticWarlordMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/apocalyptic-warlord/ApocalypticWarlordFemale.png"
+    ],
+    "hash": "e06ea7470f36744e203ca303b159b754"
+}

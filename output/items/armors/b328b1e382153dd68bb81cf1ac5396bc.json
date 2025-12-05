@@ -1,0 +1,16 @@
+{
+    "urlName": "bandit-armor-1",
+    "url": "http://aqwwiki.wikidot.com/bandit-armor-1",
+    "name": "Bandit (Armor)",
+    "type": "armors",
+    "description": "Wall hallo thar.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bandit-armor-1/BanditMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/bandit-armor-1/BanditFemale.png"
+    ],
+    "hash": "b328b1e382153dd68bb81cf1ac5396bc"
+}

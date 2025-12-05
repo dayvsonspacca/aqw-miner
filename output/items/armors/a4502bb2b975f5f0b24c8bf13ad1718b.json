@@ -1,0 +1,17 @@
+{
+    "urlName": "eldritch-occult-club",
+    "url": "http://aqwwiki.wikidot.com/eldritch-occult-club",
+    "name": "Eldritch Occult Club",
+    "type": "armors",
+    "description": "Mystery enthusiasts obsessed with the secrets of a secluded and advanced civilization. What were their castles built on? Alien wisdom? Eldritch spirits? It's a topic of hot debate!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/neQDmBZ.png",
+        "https://i.imgur.com/TXzQR1b.png"
+    ],
+    "hash": "a4502bb2b975f5f0b24c8bf13ad1718b"
+}

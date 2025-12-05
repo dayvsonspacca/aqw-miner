@@ -1,0 +1,16 @@
+{
+    "urlName": "j6-astronaut",
+    "url": "http://aqwwiki.wikidot.com/j6-astronaut",
+    "name": "J6 Astronaut",
+    "type": "armors",
+    "description": "Take command of the stars! J6 says ''thank you'' for helping him get one step closer to his dream of visiting space!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/j6-astronaut/JAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/j6-astronaut/JAF.png"
+    ],
+    "hash": "d38666264a6be29d094468da87cb4e79"
+}

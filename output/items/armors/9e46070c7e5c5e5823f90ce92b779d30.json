@@ -1,0 +1,17 @@
+{
+    "urlName": "matrix-hanzo-void-ac",
+    "url": "http://aqwwiki.wikidot.com/matrix-hanzo-void-ac",
+    "name": "Matrix Hanzo Void (AC)",
+    "type": "armors",
+    "description": "You are devoid of all emotion. You are death, bloody destruction. Go forth from the Matrix and server your master.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/matrix-hanzo-void-ac/MatrixHanzoVoidM.png",
+        "http://aqwwiki.wdfiles.com/local--files/matrix-hanzo-void-ac/MatrixHanzoVoidF.png"
+    ],
+    "hash": "9e46070c7e5c5e5823f90ce92b779d30"
+}

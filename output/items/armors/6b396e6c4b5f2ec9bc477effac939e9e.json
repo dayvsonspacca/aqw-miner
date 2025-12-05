@@ -1,0 +1,18 @@
+{
+    "urlName": "the-boatman",
+    "url": "http://aqwwiki.wikidot.com/the-boatman",
+    "name": "The Boatman",
+    "type": "armors",
+    "description": "Fear not the Reaper, they are merely a beleaguered guide. Fear Death, who drifts upon the river of time instead of riding a pale horse. (Hourglass sand CC to Base, Click on skull to make it disappear while idle-ing)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wbTXBKf.png",
+        "https://i.imgur.com/QyejecD.png",
+        "https://i.imgur.com/8hwcFMS.png"
+    ],
+    "hash": "6b396e6c4b5f2ec9bc477effac939e9e"
+}

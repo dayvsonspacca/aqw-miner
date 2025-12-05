@@ -1,0 +1,20 @@
+{
+    "urlName": "high-octane-agility-racer",
+    "url": "http://aqwwiki.wikidot.com/high-octane-agility-racer",
+    "name": "High Octane Agility Racer",
+    "type": "armors",
+    "description": "You're on a ride that packs a hundred horsepower, and takes up way less space than a stable.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/CPZ6LhR.png",
+        "https://i.imgur.com/agGdH8m.png",
+        "https://i.imgur.com/3pGzltr.png",
+        "https://i.imgur.com/K8EyeSg.png"
+    ],
+    "hash": "8e1a0a77c7f6687b8219e58639f5f271"
+}

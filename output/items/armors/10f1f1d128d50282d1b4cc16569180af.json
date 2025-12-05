@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-sea-corsair",
+    "url": "http://aqwwiki.wikidot.com/dark-sea-corsair",
+    "name": "Dark Sea Corsair",
+    "type": "armors",
+    "description": "YARRRR! Ye an' yer crew rule the Dark Seas, an' all who are cursed enough to cross yer path will rue th' day\u2026 assumin' they survive it.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/r5bbQZ2.png",
+        "https://i.imgur.com/sVUixad.png"
+    ],
+    "hash": "10f1f1d128d50282d1b4cc16569180af"
+}

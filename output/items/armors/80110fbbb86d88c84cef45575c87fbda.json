@@ -1,0 +1,16 @@
+{
+    "urlName": "champion-snowboarder",
+    "url": "http://aqwwiki.wikidot.com/champion-snowboarder",
+    "name": "Champion Snowboarder",
+    "type": "armors",
+    "description": "Time to head to Mount Frost and show off your sweet snowboarding skills!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/hGcsSHr.png",
+        "https://i.imgur.com/C4b0I84.png"
+    ],
+    "hash": "80110fbbb86d88c84cef45575c87fbda"
+}

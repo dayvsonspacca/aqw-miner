@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-rogue",
+    "url": "http://aqwwiki.wikidot.com/dark-rogue",
+    "name": "Dark Rogue",
+    "type": "armors",
+    "description": "Slip in and out of the shadows and grab that deal before anyone else even sees it!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5rQ6x81.png",
+        "http://i.imgur.com/1UnO5k1.png"
+    ],
+    "hash": "e7de3258c44a50196617c36b44aa3bc5"
+}

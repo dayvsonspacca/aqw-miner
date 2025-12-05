@@ -1,0 +1,18 @@
+{
+    "urlName": "kaiju-naval-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/kaiju-naval-commander-armor",
+    "name": "Kaiju Naval Commander (Armor)",
+    "type": "armors",
+    "description": "These scurvy dogs serve the Kaiju, they be rotten to the core.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3EOsXr5.png",
+        "https://i.imgur.com/g957kxD.png",
+        "https://i.imgur.com/0s1OowH.png"
+    ],
+    "hash": "8f71892ee6eead996f4899b1c0472206"
+}

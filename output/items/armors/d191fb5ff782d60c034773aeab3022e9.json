@@ -1,0 +1,16 @@
+{
+    "urlName": "jurassic-raptor-rider",
+    "url": "http://aqwwiki.wikidot.com/jurassic-raptor-rider",
+    "name": "Jurassic Raptor Rider",
+    "type": "armors",
+    "description": "Terrify your opponents when you charge into battle on the back of a raging raptor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/jurassic-raptor-rider/JurassicRaptorRider.png"
+    ],
+    "hash": "d191fb5ff782d60c034773aeab3022e9"
+}

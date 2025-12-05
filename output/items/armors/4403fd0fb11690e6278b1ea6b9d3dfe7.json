@@ -1,0 +1,16 @@
+{
+    "urlName": "toxic-mantis",
+    "url": "http://aqwwiki.wikidot.com/toxic-mantis",
+    "name": "Toxic Mantis",
+    "type": "armors",
+    "description": "Adjusting to an exoskeleton structure is tedious when you've been walking on two limbs for a majority of your life. On the bright side, you won't have to worry about getting poisoned ever again.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/LEBF0Wk.png",
+        "http://i.imgur.com/QoceOKn.png"
+    ],
+    "hash": "4403fd0fb11690e6278b1ea6b9d3dfe7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "sage-of-revontheus",
+    "url": "http://aqwwiki.wikidot.com/sage-of-revontheus",
+    "name": "Sage of Revontheus",
+    "type": "armors",
+    "description": "Worn by the Sage of Revontheus, those robes act as a boarding pass into the Underworld.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sage-of-revontheus/SageofRevontheusN.png",
+        "http://aqwwiki.wdfiles.com/local--files/sage-of-revontheus/SageofRevontheusO.png"
+    ],
+    "hash": "766b3166c40e967b02fefd77812e6e54"
+}

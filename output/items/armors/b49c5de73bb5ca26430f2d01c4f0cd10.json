@@ -1,0 +1,16 @@
+{
+    "urlName": "amaranth-gate-keeper",
+    "url": "http://aqwwiki.wikidot.com/amaranth-gate-keeper",
+    "name": "Amaranth Gate Keeper",
+    "type": "armors",
+    "description": "No one knows what gate this lovely wraith is guarding\u2026but no one has been brave enough to ever find out. The runes are color custom to match your charismatic soul.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/amaranth-gate-keeper/AmaranthGateKeeperMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/amaranth-gate-keeper/AmaranthGateKeeperFemale.png"
+    ],
+    "hash": "b49c5de73bb5ca26430f2d01c4f0cd10"
+}

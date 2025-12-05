@@ -1,0 +1,16 @@
+{
+    "urlName": "neverland-attire",
+    "url": "http://aqwwiki.wikidot.com/neverland-attire",
+    "name": "Neverland Attire",
+    "type": "armors",
+    "description": "Remember not to travel too far away from home or you'll end up in Neverland.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mzWp6Ts.png",
+        "https://i.imgur.com/dcj6ibA.png"
+    ],
+    "hash": "5bc601a49c12e996a0906f70e6a4f297"
+}

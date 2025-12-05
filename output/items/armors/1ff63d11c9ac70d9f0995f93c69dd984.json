@@ -1,0 +1,17 @@
+{
+    "urlName": "elegaic-mage-ac",
+    "url": "http://aqwwiki.wikidot.com/elegaic-mage-ac",
+    "name": "Elegaic Mage (AC)",
+    "type": "armors",
+    "description": "From out of the darkness, you hear a whispered chant rise, and fear floods your heart and mind. The Elegaic Mage's power surrounds its victims in the sounds of terror.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/p4rOyEq.png",
+        "https://i.imgur.com/IPfDlEk.png"
+    ],
+    "hash": "1ff63d11c9ac70d9f0995f93c69dd984"
+}

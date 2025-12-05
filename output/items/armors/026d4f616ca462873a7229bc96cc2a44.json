@@ -1,0 +1,21 @@
+{
+    "urlName": "dark-dragon-defender",
+    "url": "http://aqwwiki.wikidot.com/dark-dragon-defender",
+    "name": "Dark Dragon Defender",
+    "type": "armors",
+    "description": "The Darkness Dragon has waited long enough to return to Za'nar. However he did not count on the Magi and the Hero battling to keep from regaining his power. So he has dropped his armor in defeat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3UhIfTV.png",
+        "https://i.imgur.com/6l3J50v.png",
+        "https://i.imgur.com/4wkaAGk.png",
+        "https://i.imgur.com/3q40CdL.png",
+        "https://i.imgur.com/mr5SoMd.png",
+        "https://i.imgur.com/ovKSbt4.png"
+    ],
+    "hash": "026d4f616ca462873a7229bc96cc2a44"
+}

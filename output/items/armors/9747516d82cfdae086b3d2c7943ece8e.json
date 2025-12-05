@@ -1,0 +1,17 @@
+{
+    "urlName": "galaxy-witch",
+    "url": "http://aqwwiki.wikidot.com/galaxy-witch",
+    "name": "Galaxy Witch",
+    "type": "armors",
+    "description": "You look simply out of this world!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ky8rGQ7.png",
+        "https://imgur.com/3RuOnnE.png"
+    ],
+    "hash": "9747516d82cfdae086b3d2c7943ece8e"
+}

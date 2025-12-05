@@ -1,0 +1,17 @@
+{
+    "urlName": "plate-of-holiness",
+    "url": "http://aqwwiki.wikidot.com/plate-of-holiness",
+    "name": "Plate Of Holiness",
+    "type": "armors",
+    "description": "Hallowed fighters of Good, these devoted warriors only follow the path of Truth, never succumbing to Darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/plate-of-holiness/PlateofHolinessM.png",
+        "http://aqwwiki.wdfiles.com/local--files/plate-of-holiness/PlateofHolinessF.png"
+    ],
+    "hash": "02378b02e5f200a4ace45f26757181d5"
+}

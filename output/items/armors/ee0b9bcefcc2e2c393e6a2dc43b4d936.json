@@ -1,0 +1,16 @@
+{
+    "urlName": "jungle-assassin-commander",
+    "url": "http://aqwwiki.wikidot.com/jungle-assassin-commander",
+    "name": "Jungle Assassin Commander",
+    "type": "armors",
+    "description": "To eliminate the competition or figurehead, this leather getup must be prepared for inclement weather or blown covers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/jungle-assassin-commander/JungleAssassinCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/jungle-assassin-commander/JungleAssassinCommanderF.png"
+    ],
+    "hash": "ee0b9bcefcc2e2c393e6a2dc43b4d936"
+}

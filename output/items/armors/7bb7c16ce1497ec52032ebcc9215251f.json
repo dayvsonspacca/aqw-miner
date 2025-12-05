@@ -1,0 +1,18 @@
+{
+    "urlName": "mana-guardian",
+    "url": "http://aqwwiki.wikidot.com/mana-guardian",
+    "name": "Mana Guardian",
+    "type": "armors",
+    "description": "The Mana Core contains the most pure magic available. Any mage drawing from the Core would be flooded with pure magic, overcome in a deluge of power which would burn through their physical, mental, and magical veins. It MUST be guarded to protect our world.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/EWYRY4d.png",
+        "https://i.imgur.com/KMlVB9C.png",
+        "https://i.imgur.com/06zbmSi.png",
+        "https://i.imgur.com/7uO1BmM.png"
+    ],
+    "hash": "7bb7c16ce1497ec52032ebcc9215251f"
+}

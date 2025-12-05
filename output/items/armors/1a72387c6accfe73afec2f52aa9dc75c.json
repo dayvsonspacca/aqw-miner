@@ -1,0 +1,19 @@
+{
+    "urlName": "dage-the-good-armor",
+    "url": "http://aqwwiki.wikidot.com/dage-the-good-armor",
+    "name": "Dage The Good (Armor)",
+    "type": "armors",
+    "description": "Ever since The Archangel Nulgath was sucked into an alternate dimension trying to seal the rift, Dage The Good has been the undisputed champion for all things good and noble in the Mirror Realm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/6tNU5OA.png",
+        "https://i.imgur.com/ygkv8lh.png",
+        "http://aqwwiki.wdfiles.com/local--files/dage-the-good-armor/DageTheGoodMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dage-the-good-armor/DageTheGoodFemale.png"
+    ],
+    "hash": "1a72387c6accfe73afec2f52aa9dc75c"
+}

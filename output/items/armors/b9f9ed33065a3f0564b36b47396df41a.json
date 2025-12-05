@@ -1,0 +1,19 @@
+{
+    "urlName": "fierce-pie-rate",
+    "url": "http://aqwwiki.wikidot.com/fierce-pie-rate",
+    "name": "Fierce Pie-Rate",
+    "type": "armors",
+    "description": "Avast! Captain Rhubarb has been Artix Entertainment's favorite programming pirate for 10 years! /cheer! Here's to many more years keeping AE sailing in the right course!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fierce-pie-rate/FPRMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/fierce-pie-rate/FPRMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/fierce-pie-rate/FPRFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/fierce-pie-rate/FPRFO.png"
+    ],
+    "hash": "b9f9ed33065a3f0564b36b47396df41a"
+}

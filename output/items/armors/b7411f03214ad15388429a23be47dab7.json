@@ -1,0 +1,16 @@
+{
+    "urlName": "white-bishop",
+    "url": "http://aqwwiki.wikidot.com/white-bishop",
+    "name": "White Bishop",
+    "type": "armors",
+    "description": "In skilled hands, Bishops become forks of lightening, surgically infiltrating the enemy ranks and wreaking havoc among the back line.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/CXf2XzS.png",
+        "http://i.imgur.com/glwty9Q.png"
+    ],
+    "hash": "b7411f03214ad15388429a23be47dab7"
+}

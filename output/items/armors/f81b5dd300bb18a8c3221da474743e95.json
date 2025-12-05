@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-bonelord-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-bonelord-ac",
+    "name": "Underworld Bonelord (AC)",
+    "type": "armors",
+    "description": "An amalgam of Legionnaires who, despite falling in battle, can still be used by their superiors. When they aren't being used as mana batteries, the trapped souls serve an aesthetic purpose.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UDoKirj.png",
+        "https://i.imgur.com/RItClMe.png"
+    ],
+    "hash": "f81b5dd300bb18a8c3221da474743e95"
+}

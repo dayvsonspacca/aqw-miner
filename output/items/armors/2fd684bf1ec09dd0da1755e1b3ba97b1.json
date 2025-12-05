@@ -1,0 +1,18 @@
+{
+    "urlName": "big-daddy-helper",
+    "url": "http://aqwwiki.wikidot.com/big-daddy-helper",
+    "name": "Big Daddy Helper",
+    "type": "armors",
+    "description": "A flashy red and pink armor inspired by Big Daddy himself. The man knows his color palate!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/kiQpXmT.png",
+        "http://i.imgur.com/UJlMZFa.png"
+    ],
+    "hash": "2fd684bf1ec09dd0da1755e1b3ba97b1"
+}

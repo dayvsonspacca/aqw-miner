@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-merchant",
+    "url": "http://aqwwiki.wikidot.com/dark-merchant",
+    "name": "Dark Merchant",
+    "type": "armors",
+    "description": "Purported to be a part of Lore that predates even the Shadowscythe, the Dark Merchant allows you to stay in the shadows and still be stylish!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/SRZ2rM3.png",
+        "http://i.imgur.com/GWqJTX8.png"
+    ],
+    "hash": "933c15ed2c39277357c94a6190c04be8"
+}

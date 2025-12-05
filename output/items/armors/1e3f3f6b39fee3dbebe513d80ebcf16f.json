@@ -1,0 +1,19 @@
+{
+    "urlName": "warlock-grand-master-armor",
+    "url": "http://aqwwiki.wikidot.com/warlock-grand-master-armor",
+    "name": "Warlock Grand Master (Armor)",
+    "type": "armors",
+    "description": "Embrace the power of the Darkness, then go beyond! CONTROL the darkness, the Dragons, and the WORLD, for YOU are the Warlock Grand master!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warlock-grand-master-armor/WGMM.png",
+        "http://aqwwiki.wdfiles.com/local--files/warlock-grand-master-armor/WGMF.png",
+        "http://aqwwiki.wdfiles.com/local--files/warlock-grand-master-armor/WGMFC.png"
+    ],
+    "hash": "1e3f3f6b39fee3dbebe513d80ebcf16f"
+}

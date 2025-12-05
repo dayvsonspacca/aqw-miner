@@ -1,0 +1,18 @@
+{
+    "urlName": "field-guardian-armor",
+    "url": "http://aqwwiki.wikidot.com/field-guardian-armor",
+    "name": "Field Guardian (Armor)",
+    "type": "armors",
+    "description": "Field Guardians scare a lot more than just crows\u2026",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/bxyvQDb.png",
+        "http://i.imgur.com/9ej4Je8.png"
+    ],
+    "hash": "a2e6f014a08abe12ad414422592500c7"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "voidcaster",
+    "url": "http://aqwwiki.wikidot.com/voidcaster",
+    "name": "VoidCaster",
+    "type": "armors",
+    "description": "Those who sign Nulgath's contract gain access to the infinite wellspring of arcane energy contained within the void. Be warned, almost everyone who accepts this power find themselves consumed by it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/voidcaster/VoidCasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/voidcaster/VoidCasterMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/voidcaster/VoidCasterF.png"
+    ],
+    "hash": "0ade60ed6da17c10f8471dc8da8cc8e7"
+}

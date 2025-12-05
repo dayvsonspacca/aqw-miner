@@ -1,0 +1,19 @@
+{
+    "urlName": "beastmaster-ravager",
+    "url": "http://aqwwiki.wikidot.com/beastmaster-ravager",
+    "name": "Beastmaster Ravager",
+    "type": "armors",
+    "description": "Originally just a rumor from an old story lost from time, whispers of a destructive beast have begun to spread from village to village. (3% chance to do Shadowburst animation, 5% Class Points Boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/EwVoXgS.png",
+        "http://i.imgur.com/0rDFXZw.png",
+        "http://i.imgur.com/xRImk1L.png",
+        "http://i.imgur.com/PfbsI3L.png",
+        "http://i.imgur.com/Zh7h1YI.png"
+    ],
+    "hash": "385138d4ece29d72eb9824b6338b0b7f"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "damaged-cyber-peasant",
+    "url": "http://aqwwiki.wikidot.com/damaged-cyber-peasant",
+    "name": "Damaged Cyber Peasant",
+    "type": "armors",
+    "description": "When the peasants get worked too hard, we just start replacing their parts with metal. Clears the issue right up.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/damaged-cyber-peasant/DamagedCyberPeasantM.png",
+        "http://aqwwiki.wdfiles.com/local--files/damaged-cyber-peasant/DamagedCyberPeasantF.png"
+    ],
+    "hash": "09be85560fcfde467513bdddbeadcb71"
+}

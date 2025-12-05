@@ -1,0 +1,19 @@
+{
+    "urlName": "acid-rain-mage",
+    "url": "http://aqwwiki.wikidot.com/acid-rain-mage",
+    "name": "Acid Rain Mage",
+    "type": "armors",
+    "description": "Using their magic to pollute and cause harm to Lore, these acidic magi gain their powers from dirty sludge and other toxins.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YPcULln.png",
+        "https://i.imgur.com/V4UwPBb.png",
+        "https://i.imgur.com/97yIUVW.png",
+        "https://i.imgur.com/16TCCfe.png"
+    ],
+    "hash": "e3083e5b5e79efc4f49efa6c0468e190"
+}

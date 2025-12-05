@@ -1,0 +1,19 @@
+{
+    "urlName": "battleworn-skyguard-uniform",
+    "url": "http://aqwwiki.wikidot.com/battleworn-skyguard-uniform",
+    "name": "Battleworn Skyguard Uniform",
+    "type": "armors",
+    "description": "No longer shiny and new, a uniform like this is a sign that its owner has been through many battles - and come out victorious.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battleworn-skyguard-uniform/BattlewornSkyguardUniformMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/battleworn-skyguard-uniform/BattlewornSkyguardUniformMA.png",
+        "http://aqwwiki.wdfiles.com/local--files/battleworn-skyguard-uniform/BattlewornSkyguardUniformFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/battleworn-skyguard-uniform/BattlewornSkyguardUniformFA.png"
+    ],
+    "hash": "e2d341c7b58b334946dcd1446f7605fa"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "blacksmith-apprentice",
+    "url": "http://aqwwiki.wikidot.com/blacksmith-apprentice",
+    "name": "Blacksmith Apprentice",
+    "type": "armors",
+    "description": "Take up a hammer and learn the ways of the blacksmith. Maybe one day Yulgar or even the Mad Weapon Smith will teach you a few things.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/8pauAnw.png",
+        "http://i.imgur.com/JsVQLT2.png"
+    ],
+    "hash": "134042befbc8890ca5874c920a21ed65"
+}

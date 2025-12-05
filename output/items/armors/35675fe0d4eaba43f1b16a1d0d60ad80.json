@@ -1,0 +1,17 @@
+{
+    "urlName": "abyssal-darkness-ac",
+    "url": "http://aqwwiki.wikidot.com/abyssal-darkness-ac",
+    "name": "Abyssal Darkness (AC)",
+    "type": "armors",
+    "description": "They say that when you stare into the Abyss, it stares back at you. This is what happens when you stare it in the face, and blink.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/abyssal-darkness-ac/AbyssalDarknessMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/abyssal-darkness-ac/AbyssalDarknessFemaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/abyssal-darkness-ac/AbyssalDarknessFemaleOld.jpg"
+    ],
+    "hash": "35675fe0d4eaba43f1b16a1d0d60ad80"
+}

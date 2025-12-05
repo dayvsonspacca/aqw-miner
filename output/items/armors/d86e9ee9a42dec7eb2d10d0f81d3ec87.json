@@ -1,0 +1,16 @@
+{
+    "urlName": "icebreaker-mage",
+    "url": "http://aqwwiki.wikidot.com/icebreaker-mage",
+    "name": "IceBreaker Mage",
+    "type": "armors",
+    "description": "Your enemies will freeze in fear when you step onto the battlefield!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/t9lL4qz.png",
+        "http://i.imgur.com/yPZFYHc.png"
+    ],
+    "hash": "d86e9ee9a42dec7eb2d10d0f81d3ec87"
+}

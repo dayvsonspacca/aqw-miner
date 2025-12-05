@@ -1,0 +1,16 @@
+{
+    "urlName": "unluckiest-leperchaun",
+    "url": "http://aqwwiki.wikidot.com/unluckiest-leperchaun",
+    "name": "Unluckiest Leperchaun",
+    "type": "armors",
+    "description": "The luck of Moglish has run out for you. Happy Unlucky Day 2015, you're going to need it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/unluckiest-leperchaun/UnluckiestLeperchaunM.png",
+        "http://aqwwiki.wdfiles.com/local--files/unluckiest-leperchaun/UnluckiestLeperchaunF.png"
+    ],
+    "hash": "57f438cf2c9684a55aea74217bf2a70c"
+}

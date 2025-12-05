@@ -1,0 +1,17 @@
+{
+    "urlName": "pink-undead-warrior",
+    "url": "http://aqwwiki.wikidot.com/pink-undead-warrior",
+    "name": "Pink Undead Warrior",
+    "type": "armors",
+    "description": "Lovely warrior of Beleen's Legion, this colorful armor is a gift to everyone's favorite Pinkomancer, Beleen!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pink-undead-warrior/PinkUndeadWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pink-undead-warrior/PinkUndeadWarriorF.png"
+    ],
+    "hash": "59d3c66d751c166aa5f574e13525583a"
+}

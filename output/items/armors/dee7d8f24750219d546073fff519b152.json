@@ -1,0 +1,17 @@
+{
+    "urlName": "holiday-ritz",
+    "url": "http://aqwwiki.wikidot.com/holiday-ritz",
+    "name": "Holiday Ritz!",
+    "type": "armors",
+    "description": "When fighting in a regular armor just won't do, pull this number on and walk the streets with your head held high and your weapon ready for action. Ermine accents and a luxurious black cotton-metal mesh will protect you no matter what. Hack-and-slash in style, baby.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/LVt9eIx.png",
+        "http://i.imgur.com/rRf6K5H.png"
+    ],
+    "hash": "dee7d8f24750219d546073fff519b152"
+}

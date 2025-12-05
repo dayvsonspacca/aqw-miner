@@ -1,0 +1,23 @@
+{
+    "urlName": "gold-party-outfit",
+    "url": "http://aqwwiki.wikidot.com/gold-party-outfit",
+    "name": "Gold Party Outfit",
+    "type": "armors",
+    "description": "Party all night long in this sparkling golden outfit!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/iJqwgXB.png",
+        "https://imgur.com/9ERfqox.png",
+        "https://i.imgur.com/e0kBYNh.png",
+        "https://i.imgur.com/EZtrQUb.png",
+        "https://i.imgur.com/mnloQXv.png",
+        "https://i.imgur.com/tYGguum.png",
+        "https://i.imgur.com/GJx1oBX.png",
+        "https://i.imgur.com/el1bJOF.png"
+    ],
+    "hash": "6d7f5c00221870d3ce258fd5eb36c2d0"
+}

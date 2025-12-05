@@ -1,0 +1,18 @@
+{
+    "urlName": "trickster-shifter",
+    "url": "http://aqwwiki.wikidot.com/trickster-shifter",
+    "name": "Trickster Shifter",
+    "type": "armors",
+    "description": "This wandering magician can change one's fortune in the blink of an eye. Their deck plays with souls and fate, even if darker entities think they've won control of them. (Click to change the arm position.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/O5RPgt4.png",
+        "https://i.imgur.com/qBks7Hz.png",
+        "https://i.imgur.com/QsYm2bR.png",
+        "https://i.imgur.com/Hg6BcVC.png"
+    ],
+    "hash": "6809ad7f1b3895ba2ed861f057239c7a"
+}

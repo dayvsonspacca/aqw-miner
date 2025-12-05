@@ -1,0 +1,17 @@
+{
+    "urlName": "riptide-helicoprion",
+    "url": "http://aqwwiki.wikidot.com/riptide-helicoprion",
+    "name": "Riptide Helicoprion",
+    "type": "armors",
+    "description": "The denizens of the depths attained deadly beauty by embracing those swallowed by the sea. Appearing humanoid, they're deadly hunters of cold, sacrosanct blood. Once they begin to feed, there will be nothing left behind.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mlRxgUH.png",
+        "https://i.imgur.com/KdEGOE9.png"
+    ],
+    "hash": "c90e96905d53c2e5f2caff6557beab0e"
+}

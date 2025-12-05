@@ -1,0 +1,17 @@
+{
+    "urlName": "yeti-destroyer-ac",
+    "url": "http://aqwwiki.wikidot.com/yeti-destroyer-ac",
+    "name": "Yeti Destroyer (AC)",
+    "type": "armors",
+    "description": "Allied to one of the more peaceful tribes of Northlands Krampus, the YetiKun Destroyers work with them to guard their friends and family from the bloodthirsty yeti that roam the land.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/HOS5vx8.png",
+        "https://i.imgur.com/94mUXXG.png"
+    ],
+    "hash": "dc794b549dd1409aa3f2f8818348f64c"
+}

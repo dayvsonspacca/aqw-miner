@@ -1,0 +1,18 @@
+{
+    "urlName": "riftwalker-warrior",
+    "url": "http://aqwwiki.wikidot.com/riftwalker-warrior",
+    "name": "RiftWalker Warrior",
+    "type": "armors",
+    "description": "Riftwalkers travel between worlds, journeying from plane to plane as they battle through many realities.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/pvTsCMt.png",
+        "http://i.imgur.com/JZOONHx.png"
+    ],
+    "hash": "d3d22e4e93f0dff4bb92d93af74a1e8a"
+}

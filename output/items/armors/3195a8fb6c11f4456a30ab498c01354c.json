@@ -1,0 +1,17 @@
+{
+    "urlName": "medium-rare-warrior",
+    "url": "http://aqwwiki.wikidot.com/medium-rare-warrior",
+    "name": "Medium Rare Warrior",
+    "type": "armors",
+    "description": "For those who like their steak a little more cooked\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gaUGPAi.png",
+        "https://i.imgur.com/JeGA979.png"
+    ],
+    "hash": "3195a8fb6c11f4456a30ab498c01354c"
+}

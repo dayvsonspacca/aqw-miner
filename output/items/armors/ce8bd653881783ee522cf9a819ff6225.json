@@ -1,0 +1,17 @@
+{
+    "urlName": "midwinter-cheermaker",
+    "url": "http://aqwwiki.wikidot.com/midwinter-cheermaker",
+    "name": "Midwinter Cheermaker",
+    "type": "armors",
+    "description": "Jingle bells pinned to festive lapels. Twinkling stars and special moments written into a memoir. The holidays are only once a year. Put your whole heart into it!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AEO24mU.png",
+        "https://i.imgur.com/nSlivGe.png"
+    ],
+    "hash": "ce8bd653881783ee522cf9a819ff6225"
+}
