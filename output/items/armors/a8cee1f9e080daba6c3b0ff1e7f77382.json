@@ -1,0 +1,17 @@
+{
+    "urlName": "furry-symbiote",
+    "url": "http://aqwwiki.wikidot.com/furry-symbiote",
+    "name": "Furry Symbiote",
+    "type": "armors",
+    "description": "Even a parasite can get into the holiday spirit right? Behold the power of Frostval!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/furry-symbiote/FurrySymbioteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/furry-symbiote/FurrySymbioteF.png"
+    ],
+    "hash": "a8cee1f9e080daba6c3b0ff1e7f77382"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "crimsonflame-fanatic",
+    "url": "http://aqwwiki.wikidot.com/crimsonflame-fanatic",
+    "name": "CrimsonFlame Fanatic",
+    "type": "armors",
+    "description": "The CrimsonFlame Fanatics are a small but powerful sect of fire magic users. They travel the land, \"purifying\" evildoers that cross their paths.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8MwOLxx.png",
+        "https://i.imgur.com/lKFRJ6k.png"
+    ],
+    "hash": "704aae2eaaf22a6c89fbea12c9fd9fef"
+}

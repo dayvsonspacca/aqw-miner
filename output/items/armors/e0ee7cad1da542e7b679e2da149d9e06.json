@@ -1,0 +1,16 @@
+{
+    "urlName": "lorekeeper-of-the-sun",
+    "url": "http://aqwwiki.wikidot.com/lorekeeper-of-the-sun",
+    "name": "Lorekeeper of the Sun",
+    "type": "armors",
+    "description": "Dwarfhold's Solar Lorekeepers specialize in studying the history of Embermane, the Steed of Day.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lorekeeper-of-the-sun/LorekeeperoftheSunM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lorekeeper-of-the-sun/LorekeeperoftheSunF.png"
+    ],
+    "hash": "e0ee7cad1da542e7b679e2da149d9e06"
+}

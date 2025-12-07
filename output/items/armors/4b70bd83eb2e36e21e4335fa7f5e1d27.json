@@ -1,0 +1,17 @@
+{
+    "urlName": "rust-man",
+    "url": "http://aqwwiki.wikidot.com/rust-man",
+    "name": "Rust Man",
+    "type": "armors",
+    "description": "This once prestigious suit of heavy armor has fallen apart to the bare basics. Rust slowly consumes what is left. But rust cannot effect the heart of a true warrior!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/pArRtHR.png",
+        "http://i.imgur.com/FT3VzXL.png"
+    ],
+    "hash": "4b70bd83eb2e36e21e4335fa7f5e1d27"
+}

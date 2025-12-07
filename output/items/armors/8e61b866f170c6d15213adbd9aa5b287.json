@@ -1,0 +1,17 @@
+{
+    "urlName": "blood-lord-plate-ac",
+    "url": "http://aqwwiki.wikidot.com/blood-lord-plate-ac",
+    "name": "Blood Lord Plate (AC)",
+    "type": "armors",
+    "description": "The Blood Lords of old were said to be soulless monster, insane and cruel, dressed in human skin. Nice armor, though. And it fits you like a glove! My, what a coincidence.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-lord-plate-ac/BloodLordPlateMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/blood-lord-plate-ac/BloodLordPlateFemale.png"
+    ],
+    "hash": "8e61b866f170c6d15213adbd9aa5b287"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "burning-challenger",
+    "url": "http://aqwwiki.wikidot.com/burning-challenger",
+    "name": "Burning Challenger",
+    "type": "armors",
+    "description": "Some legends are told, some turn to dust or to gold, but you will remember me for Embersea.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/burning-challenger/BurningChallengerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/burning-challenger/BurningChallengerF.png"
+    ],
+    "hash": "259d3cfdf9f3b924fbf2141cebde7746"
+}

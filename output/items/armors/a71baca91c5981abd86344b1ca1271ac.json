@@ -1,0 +1,17 @@
+{
+    "urlName": "eternal-champion-legend",
+    "url": "http://aqwwiki.wikidot.com/eternal-champion-legend",
+    "name": "Eternal Champion (Legend)",
+    "type": "armors",
+    "description": "Guided by the Light, these warriors live to serve and uphold Good.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/l4QUCIw.png",
+        "https://i.imgur.com/N7RRyK7.png"
+    ],
+    "hash": "a71baca91c5981abd86344b1ca1271ac"
+}

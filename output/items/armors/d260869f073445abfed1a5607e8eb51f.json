@@ -1,0 +1,17 @@
+{
+    "urlName": "frosty-cheerleader",
+    "url": "http://aqwwiki.wikidot.com/frosty-cheerleader",
+    "name": "Frosty Cheerleader",
+    "type": "armors",
+    "description": "Gimme an 'H', gimme an 'A', gimme a 'P' 'P' 'Y'. breathe Gimme an 'N' 'E' 'W'! Gimme a 'Y' 'E' 'A' 'R'!!! Happy New Year!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BMhmV06.png",
+        "https://i.imgur.com/CNXPTzR.png"
+    ],
+    "hash": "d260869f073445abfed1a5607e8eb51f"
+}

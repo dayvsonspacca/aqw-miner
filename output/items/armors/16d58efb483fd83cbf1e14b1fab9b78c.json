@@ -1,0 +1,17 @@
+{
+    "urlName": "chronomancer-pirate-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/chronomancer-pirate-captain-ac",
+    "name": "Chronomancer Pirate Captain (AC)",
+    "type": "armors",
+    "description": "Your port? The Chronospan. Your mission: Sail through the timestream, navigating the swells of spacetime and tidal waves of dark matter.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8ECNrxL.png",
+        "https://i.imgur.com/xz6BJGX.png"
+    ],
+    "hash": "16d58efb483fd83cbf1e14b1fab9b78c"
+}

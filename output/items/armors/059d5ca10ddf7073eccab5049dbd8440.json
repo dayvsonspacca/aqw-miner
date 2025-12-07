@@ -1,0 +1,17 @@
+{
+    "urlName": "grenwog-guardian-warrior",
+    "url": "http://aqwwiki.wikidot.com/grenwog-guardian-warrior",
+    "name": "Grenwog Guardian Warrior",
+    "type": "armors",
+    "description": "Heroes across Lore challenge the Grenwog each year. But a very few see that the Grenwog is a beast to be admired and respected. As its Guardian, it is your duty to ensure the Grenwog's safety.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/so8opM2.png",
+        "https://i.imgur.com/m9WdlWq.png"
+    ],
+    "hash": "059d5ca10ddf7073eccab5049dbd8440"
+}

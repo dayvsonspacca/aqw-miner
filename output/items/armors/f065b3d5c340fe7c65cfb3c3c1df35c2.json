@@ -1,0 +1,16 @@
+{
+    "urlName": "chartreuse-paladin",
+    "url": "http://aqwwiki.wikidot.com/chartreuse-paladin",
+    "name": "Chartreuse Paladin",
+    "type": "armors",
+    "description": "You walk amongst the trees as their sole protector.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/duXFCup.png",
+        "http://i.imgur.com/VCnJu6V.png"
+    ],
+    "hash": "f065b3d5c340fe7c65cfb3c3c1df35c2"
+}

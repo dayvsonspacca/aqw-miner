@@ -1,0 +1,16 @@
+{
+    "urlName": "protosartorium-armor",
+    "url": "http://aqwwiki.wikidot.com/protosartorium-armor",
+    "name": "ProtoSartorium (Armor)",
+    "type": "armors",
+    "description": "A mechanical marvel utilizing heat and steam to enhance your natural abilities as well as providing exceptional defenses.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/kdfHaEP.png",
+        "http://i.imgur.com/zTCYjb7.png"
+    ],
+    "hash": "3ac7c10b3dc52ff845b20f4858e34e32"
+}

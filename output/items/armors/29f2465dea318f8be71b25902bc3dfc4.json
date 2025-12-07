@@ -1,0 +1,17 @@
+{
+    "urlName": "cryomancer-knight",
+    "url": "http://aqwwiki.wikidot.com/cryomancer-knight",
+    "name": "Cryomancer Knight",
+    "type": "armors",
+    "description": "Cryomancer Knights are charged with defending the farthest reaches of the Frozen Northlands, using their magic, melee, and might to protect and defend from any enemies.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/quHIcA8.png",
+        "https://i.imgur.com/kpvhqEE.png"
+    ],
+    "hash": "29f2465dea318f8be71b25902bc3dfc4"
+}

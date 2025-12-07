@@ -1,0 +1,17 @@
+{
+    "urlName": "spirit-of-war-legend",
+    "url": "http://aqwwiki.wikidot.com/spirit-of-war-legend",
+    "name": "Spirit of War (Legend)",
+    "type": "armors",
+    "description": "The spirit of the Horseman of War possesses your body and lends you his power.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/4Z35c4K.png",
+        "http://i.imgur.com/rO1XZoq.png"
+    ],
+    "hash": "63b28d2cf337b47036f9d78acf8ebbd9"
+}

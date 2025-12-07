@@ -1,0 +1,16 @@
+{
+    "urlName": "tundra-stalker-armor",
+    "url": "http://aqwwiki.wikidot.com/tundra-stalker-armor",
+    "name": "Tundra Stalker (Armor)",
+    "type": "armors",
+    "description": "Tis the perfect season for backstabbing, your victims can't be found until the ice thaws.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tundra-stalker-armor/TundraStalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/tundra-stalker-armor/TundraStalkerF.png"
+    ],
+    "hash": "02724396dc3eb53ecd73b620360c7813"
+}

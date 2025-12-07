@@ -1,0 +1,17 @@
+{
+    "urlName": "mortal-doom-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/mortal-doom-captain-ac",
+    "name": "Mortal Doom Captain (AC)",
+    "type": "armors",
+    "description": "A forsaken voyager, doomed to spread terror across the seas. Though they sail for the Empire, their greed is all that's left of what once made them human.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/McOSTUm.png",
+        "https://i.imgur.com/YnC54Jl.png"
+    ],
+    "hash": "ae1a782cdefee68e63c2b5b2ad976ebf"
+}

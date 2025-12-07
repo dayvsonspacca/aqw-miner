@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-void-knight-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-void-knight-ac",
+    "name": "Dark Void Knight (AC)",
+    "type": "armors",
+    "description": "Let's hope you don't find one of these guys at the end of the rainbow.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WbMk3ll.png",
+        "https://i.imgur.com/XCW5Dya.png"
+    ],
+    "hash": "9882127f094edf4600d46b6184825657"
+}

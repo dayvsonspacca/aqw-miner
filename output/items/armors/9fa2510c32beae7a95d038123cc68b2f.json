@@ -1,0 +1,18 @@
+{
+    "urlName": "prismatic-lightninglord",
+    "url": "http://aqwwiki.wikidot.com/prismatic-lightninglord",
+    "name": "Prismatic LightningLord",
+    "type": "armors",
+    "description": "LightningLords collect the power of lightning, and store it in special gems scattered across their robes for use in battle. ZZZap!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/EuqMYnb.png",
+        "https://imgur.com/mgEIFEX.png",
+        "https://imgur.com/TTBP0vZ.png",
+        "https://imgur.com/lDqOVQR.png"
+    ],
+    "hash": "9fa2510c32beae7a95d038123cc68b2f"
+}

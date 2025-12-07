@@ -1,0 +1,16 @@
+{
+    "urlName": "cryostorm-troll",
+    "url": "http://aqwwiki.wikidot.com/cryostorm-troll",
+    "name": "Cryostorm Troll",
+    "type": "armors",
+    "description": "Don't be bummed out if your stuck as an ice troll. You won't have to bundle up anymore and cavefishing just got more exciting.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cryostorm-troll/CryostormTroll.png"
+    ],
+    "hash": "c2a3dbf758ff95743890fb3c55131b76"
+}

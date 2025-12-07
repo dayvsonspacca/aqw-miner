@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowfang-assassin",
+    "url": "http://aqwwiki.wikidot.com/shadowfang-assassin",
+    "name": "ShadowFang Assassin",
+    "type": "armors",
+    "description": "As a Shadowfang Assassin, you definitely have more bite than bark - and the power to bank it up, but the semi-organic crystals feed on parts of your mind, therefore, costing you your sense of self until it is just empty sentience.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowfang-assassin/SFAm.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowfang-assassin/SFAf.png"
+    ],
+    "hash": "71d5846b7dfe9dbaf8cf7aa39006873f"
+}

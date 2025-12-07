@@ -1,0 +1,16 @@
+{
+    "urlName": "chromatic-x-terminator",
+    "url": "http://aqwwiki.wikidot.com/chromatic-x-terminator",
+    "name": "Chromatic X-Terminator",
+    "type": "armors",
+    "description": "You want to defeat the poison? Better suit up first!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/mtFuzHQ.png",
+        "http://i.imgur.com/ftn1yxn.png"
+    ],
+    "hash": "cfaf59279bdf10427be66147800e0717"
+}

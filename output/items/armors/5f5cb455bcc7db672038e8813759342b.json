@@ -1,0 +1,17 @@
+{
+    "urlName": "chronobound-manipulator",
+    "url": "http://aqwwiki.wikidot.com/chronobound-manipulator",
+    "name": "Chronobound Manipulator",
+    "type": "armors",
+    "description": "By collecting and storing the polarized light emitted by the wormholes you discover, you're able to fuel your travels through the timestreams that make up our universe!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/FzByPMt.png",
+        "https://i.imgur.com/yiWCpWz.png"
+    ],
+    "hash": "5f5cb455bcc7db672038e8813759342b"
+}

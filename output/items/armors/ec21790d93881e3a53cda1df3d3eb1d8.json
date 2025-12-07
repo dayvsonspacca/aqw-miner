@@ -1,0 +1,17 @@
+{
+    "urlName": "cybervoid",
+    "url": "http://aqwwiki.wikidot.com/cybervoid",
+    "name": "CyberVoid",
+    "type": "armors",
+    "description": "Made entirely of digital code, these minions have escaped from the cyberworld to do the bidding of their cyberfiend master.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cybervoid/CyberVoidN.png",
+        "http://aqwwiki.wdfiles.com/local--files/cybervoid/CyberVoidO.png"
+    ],
+    "hash": "ec21790d93881e3a53cda1df3d3eb1d8"
+}

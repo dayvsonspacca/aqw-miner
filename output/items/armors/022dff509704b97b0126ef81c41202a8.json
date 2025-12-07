@@ -1,0 +1,16 @@
+{
+    "urlName": "green-wedding-guest",
+    "url": "http://aqwwiki.wikidot.com/green-wedding-guest",
+    "name": "Green Wedding Guest",
+    "type": "armors",
+    "description": "One must ALWAYS dress one's best when attending the wedding of one's creator!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/green-wedding-guest/GreenWeddingGuestM.png",
+        "http://aqwwiki.wdfiles.com/local--files/green-wedding-guest/GreenWeddingGuestF.png"
+    ],
+    "hash": "022dff509704b97b0126ef81c41202a8"
+}

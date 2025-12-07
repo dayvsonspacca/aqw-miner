@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-ultra-omninight-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-ultra-omninight-armor",
+    "name": "Dark Ultra OmniNight Armor",
+    "type": "armors",
+    "description": "You've fought enemies across multiple different universes, learned to harness the unstable energies from their worlds required to stop them, and earned the right to call yourself an Ultra OmniKnight!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/DILhzRB.png",
+        "https://i.imgur.com/zSKXPxt.png"
+    ],
+    "hash": "90949d42251202b83d99ccbbe0d917fe"
+}

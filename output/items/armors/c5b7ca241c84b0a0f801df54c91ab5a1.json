@@ -1,0 +1,17 @@
+{
+    "urlName": "booboo-hoodie",
+    "url": "http://aqwwiki.wikidot.com/booboo-hoodie",
+    "name": "BooBoo Hoodie",
+    "type": "armors",
+    "description": "BOO! (This outfit was created in honor of your little ectoplasmic buddy, Boo.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7bPIArI.png",
+        "https://i.imgur.com/x9rxVvm.png"
+    ],
+    "hash": "c5b7ca241c84b0a0f801df54c91ab5a1"
+}

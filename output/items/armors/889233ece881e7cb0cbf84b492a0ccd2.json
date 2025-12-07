@@ -1,0 +1,17 @@
+{
+    "urlName": "deep-miner",
+    "url": "http://aqwwiki.wikidot.com/deep-miner",
+    "name": "Deep Miner",
+    "type": "armors",
+    "description": "In their pursuit for unmined gems and raw minerals, dwakel and human engineers combined forces to build this single person, redstone powered mining suit.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deep-miner/DeepMinerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/deep-miner/DeepMinerFemale.png"
+    ],
+    "hash": "889233ece881e7cb0cbf84b492a0ccd2"
+}

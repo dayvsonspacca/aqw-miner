@@ -1,0 +1,17 @@
+{
+    "urlName": "lunarian-astromancer-trainee",
+    "url": "http://aqwwiki.wikidot.com/lunarian-astromancer-trainee",
+    "name": "Lunarian Astromancer Trainee",
+    "type": "armors",
+    "description": "An Astromancer training to learn the ways of the Moon. The best way to do that is to get as close to that big hunk of cheese as possible.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mcnBsVF.png",
+        "https://i.imgur.com/iJvaqmr.png"
+    ],
+    "hash": "c4d07cce27064c2e0444a5956d33dba2"
+}

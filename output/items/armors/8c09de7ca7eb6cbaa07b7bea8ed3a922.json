@@ -1,0 +1,18 @@
+{
+    "urlName": "classic-loyalist-team-legend",
+    "url": "http://aqwwiki.wikidot.com/classic-loyalist-team-legend",
+    "name": "Classic Loyalist Team (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/classic-loyalist-team-legend/LoyalistTeamM.png",
+        "http://aqwwiki.wdfiles.com/local--files/classic-loyalist-team-legend/LoyalistTeamF.png"
+    ],
+    "hash": "8c09de7ca7eb6cbaa07b7bea8ed3a922"
+}

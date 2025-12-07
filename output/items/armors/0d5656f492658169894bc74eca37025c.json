@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-void-monk-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-void-monk-ac",
+    "name": "Dark Void Monk (AC)",
+    "type": "armors",
+    "description": "Let's hope you don't find one of these guys at the end of the rainbow.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GH3ApeO.png",
+        "https://i.imgur.com/Z5jMtoJ.png"
+    ],
+    "hash": "0d5656f492658169894bc74eca37025c"
+}

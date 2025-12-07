@@ -1,0 +1,17 @@
+{
+    "urlName": "lunaris-redeemer",
+    "url": "http://aqwwiki.wikidot.com/lunaris-redeemer",
+    "name": "Lunaris Redeemer",
+    "type": "armors",
+    "description": "The Lunaris are members of a clan that worship the moon. Redeemers do not partake in the hunt for Sol and Luna. They seek to capture members of the Solaris to commit them to darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/ka3YWtV.png",
+        "https://imgur.com/oltTWZt.png"
+    ],
+    "hash": "810e0e59b0d9f7a613faa36c774ca376"
+}

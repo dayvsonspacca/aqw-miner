@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowcore-rocker",
+    "url": "http://aqwwiki.wikidot.com/shadowcore-rocker",
+    "name": "ShadowCore Rocker",
+    "type": "armors",
+    "description": "Rock out while keeping Mythsong free of invaders!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://imgur.com/8n2BYcy.png",
+        "https://imgur.com/r2N8yiv.png"
+    ],
+    "hash": "44b6f722cad04dcddf4b50bfa31fd967"
+}

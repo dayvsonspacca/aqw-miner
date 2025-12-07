@@ -1,0 +1,16 @@
+{
+    "urlName": "coffeemancer",
+    "url": "http://aqwwiki.wikidot.com/coffeemancer",
+    "name": "Coffeemancer",
+    "type": "armors",
+    "description": "Coffee runs hot in your veins and the bleary-eyed commoners beg for your charity.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/CGKVORd.png",
+        "https://i.imgur.com/3IjMMbr.png"
+    ],
+    "hash": "8d8412c6536d3346088713e568bbe0f2"
+}

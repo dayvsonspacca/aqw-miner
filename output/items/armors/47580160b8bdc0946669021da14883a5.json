@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-ronin",
+    "url": "http://aqwwiki.wikidot.com/shadow-ronin",
+    "name": "Shadow Ronin",
+    "type": "armors",
+    "description": "These mysterious samurai pledge alliance to no master. They live in shadows and strike when no one suspects.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/f2sO5Nh.png",
+        "https://i.imgur.com/xYoj46G.png"
+    ],
+    "hash": "47580160b8bdc0946669021da14883a5"
+}

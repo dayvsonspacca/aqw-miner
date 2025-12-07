@@ -1,0 +1,17 @@
+{
+    "urlName": "hypefiend-of-nulgath-ac",
+    "url": "http://aqwwiki.wikidot.com/hypefiend-of-nulgath-ac",
+    "name": "HypeFiend of Nulgath (AC)",
+    "type": "armors",
+    "description": "Nulgath! Nulgath! Yayyyy Nulgath! This item gives 15% more gold when equipped.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/37lNnWv.png",
+        "https://i.imgur.com/y26gN55.png"
+    ],
+    "hash": "85dcbbeddbe74fe9e013b4dba3505126"
+}

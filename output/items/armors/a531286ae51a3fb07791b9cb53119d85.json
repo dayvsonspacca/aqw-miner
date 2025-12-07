@@ -1,0 +1,16 @@
+{
+    "urlName": "gryphon-rider",
+    "url": "http://aqwwiki.wikidot.com/gryphon-rider",
+    "name": "Gryphon Rider",
+    "type": "armors",
+    "description": "The airborne brigade of the Swordhaven military, AKA: the Gryphon Riders. These flyboys (and girls!) are known for their flying prowess and devil-may-care attitude.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/YAPmssh.png",
+        "https://i.imgur.com/8WOKK4j.png"
+    ],
+    "hash": "a531286ae51a3fb07791b9cb53119d85"
+}

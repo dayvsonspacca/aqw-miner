@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-pirate",
+    "url": "http://aqwwiki.wikidot.com/shadow-pirate",
+    "name": "Shadow Pirate",
+    "type": "armors",
+    "description": "This pirate has risen from t' depths, hauntin t' shadows, watin t' steal t' most prized o' ships.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-pirate/ShadowPirateM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-pirate/ShadowPirateF.png"
+    ],
+    "hash": "f54a21201418506bf66cab8021b03b88"
+}

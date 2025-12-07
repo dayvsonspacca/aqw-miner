@@ -1,0 +1,17 @@
+{
+    "urlName": "cosmic-genesis-philosopher",
+    "url": "http://aqwwiki.wikidot.com/cosmic-genesis-philosopher",
+    "name": "Cosmic Genesis Philosopher",
+    "type": "armors",
+    "description": "These Magi searched tirelessly for the birthplace of existence and found it in their home. Having mastered all that the stars have to offer, they look inward and draw power from the cosmos that sleeps in their souls.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xTZYe5H.png",
+        "https://i.imgur.com/hNMmMv5.png"
+    ],
+    "hash": "b9cfe9814f24021526f6eb56ad1d28bf"
+}

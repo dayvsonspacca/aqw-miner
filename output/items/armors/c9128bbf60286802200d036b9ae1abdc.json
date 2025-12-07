@@ -1,0 +1,17 @@
+{
+    "urlName": "arctic-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/arctic-naval-commander-ac",
+    "name": "Arctic Naval Commander (AC)",
+    "type": "armors",
+    "description": "Only the heartiest heroes are BRRRR-ave enough to sail the frozen seas that border the Northlands!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ghQSjCq.png",
+        "https://i.imgur.com/tOd26cq.png"
+    ],
+    "hash": "c9128bbf60286802200d036b9ae1abdc"
+}

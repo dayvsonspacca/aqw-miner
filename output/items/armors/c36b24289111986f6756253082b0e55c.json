@@ -1,0 +1,17 @@
+{
+    "urlName": "steampunk-valentine",
+    "url": "http://aqwwiki.wikidot.com/steampunk-valentine",
+    "name": "Steampunk Valentine",
+    "type": "armors",
+    "description": "Armed with hundreds of arrows, ready to shoot a bolt of love right through your clockwork heart.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/steampunk-valentine/SteampunkValentineM.png",
+        "http://aqwwiki.wdfiles.com/local--files/steampunk-valentine/SteampunkValentineF.png"
+    ],
+    "hash": "c36b24289111986f6756253082b0e55c"
+}

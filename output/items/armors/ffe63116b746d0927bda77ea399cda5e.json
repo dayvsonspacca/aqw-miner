@@ -1,0 +1,16 @@
+{
+    "urlName": "dissonant-bandmaster",
+    "url": "http://aqwwiki.wikidot.com/dissonant-bandmaster",
+    "name": "Dissonant Bandmaster",
+    "type": "armors",
+    "description": "Chaotic virtuosos hailing from the same musical pastures as the fallen musical Chaos Lord. Dangerously ambitious, each of these musicians aim to fill the void with their own maddening melodies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/T3ofc5P.png",
+        "https://i.imgur.com/rOVRlJB.png"
+    ],
+    "hash": "ffe63116b746d0927bda77ea399cda5e"
+}

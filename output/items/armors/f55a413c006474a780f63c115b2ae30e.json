@@ -1,0 +1,16 @@
+{
+    "urlName": "darkside-trooper",
+    "url": "http://aqwwiki.wikidot.com/darkside-trooper",
+    "name": "Darkside Trooper",
+    "type": "armors",
+    "description": "Ohh, you think darkness is your ally, hmm? Well in this case it is. Go stab something with a glowy sword, you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darkside-trooper/DTM.png",
+        "http://aqwwiki.wdfiles.com/local--files/darkside-trooper/DTF.png"
+    ],
+    "hash": "f55a413c006474a780f63c115b2ae30e"
+}

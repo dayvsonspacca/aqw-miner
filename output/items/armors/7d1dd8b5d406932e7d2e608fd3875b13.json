@@ -1,0 +1,16 @@
+{
+    "urlName": "darkstar-fae",
+    "url": "http://aqwwiki.wikidot.com/darkstar-fae",
+    "name": "Darkstar Fae",
+    "type": "armors",
+    "description": "A shadow has come over the Fae, some have turned against their ways and wandered far from the Grove.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/LT7s9OY.png",
+        "https://i.imgur.com/XnKCCHf.png"
+    ],
+    "hash": "7d1dd8b5d406932e7d2e608fd3875b13"
+}

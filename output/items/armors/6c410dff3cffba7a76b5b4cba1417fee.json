@@ -1,0 +1,17 @@
+{
+    "urlName": "dragon-morph-armor",
+    "url": "http://aqwwiki.wikidot.com/dragon-morph-armor",
+    "name": "Dragon Morph (Armor)",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-morph-armor/DragonMorphM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-morph-armor/DragonMorphF.png"
+    ],
+    "hash": "6c410dff3cffba7a76b5b4cba1417fee"
+}

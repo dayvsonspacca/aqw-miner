@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-doom-attendant",
+    "url": "http://aqwwiki.wikidot.com/prismatic-doom-attendant",
+    "name": "Prismatic Doom Attendant",
+    "type": "armors",
+    "description": "The mystical feline you serve holds many secrets, and its dragontastic powers may one day save your life! It has also granted you a prismatic armor that changes colors whenever you wish.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/3prL84z.png",
+        "http://i.imgur.com/WQ06kfx.png"
+    ],
+    "hash": "202eb3760c61499fb576316cfd84ee74"
+}

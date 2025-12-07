@@ -1,0 +1,18 @@
+{
+    "urlName": "azul-forest-warrior",
+    "url": "http://aqwwiki.wikidot.com/azul-forest-warrior",
+    "name": "Azul Forest Warrior",
+    "type": "armors",
+    "description": "You unlocked this badge by purchasing an upgrade through Paymentez! Battle On!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/azul-forest-warrior/AzulForestWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/azul-forest-warrior/AzulForestWarriorF.png"
+    ],
+    "hash": "b427f72af534fe245c1632743e6c4ad1"
+}

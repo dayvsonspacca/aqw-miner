@@ -1,0 +1,17 @@
+{
+    "urlName": "cursed-pirate-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/cursed-pirate-commander-ac",
+    "name": "Cursed Pirate Commander (AC)",
+    "type": "armors",
+    "description": "Avast me hearties! These pirates have run afoul of a curse somewhere on the seas of Lore. Sure glad I wasn't on that crew!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/rALbgUe.png",
+        "https://i.imgur.com/ECQN9m7.png"
+    ],
+    "hash": "578723b8061603cb3b8f4e58befcaf9e"
+}

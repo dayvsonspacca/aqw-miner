@@ -1,0 +1,16 @@
+{
+    "urlName": "arcanist-robes",
+    "url": "http://aqwwiki.wikidot.com/arcanist-robes",
+    "name": "Arcanist Robes",
+    "type": "armors",
+    "description": "Mages who specialize in arcane magics truly understand the power bestowed within this ancient art. These robes were tailored by your fellow player, Trydeth!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/6MXJUBP.png",
+        "http://i.imgur.com/bKxTsVb.png"
+    ],
+    "hash": "5c8e2b5dcf053ead0af46403f41c3072"
+}

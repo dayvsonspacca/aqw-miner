@@ -1,0 +1,17 @@
+{
+    "urlName": "blossom-kotapon-prize-a",
+    "url": "http://aqwwiki.wikidot.com/blossom-kotapon-prize-a",
+    "name": "Blossom KotaPon Prize A",
+    "type": "armors",
+    "description": "Oooh! You've won an Anamalous Armor from the KotaPon GachaPon machine!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1I5AG13.png",
+        "https://i.imgur.com/WLMEVN8.png"
+    ],
+    "hash": "dc212bc35fe7513a515e8d9e91dcf703"
+}

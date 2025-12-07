@@ -1,0 +1,16 @@
+{
+    "urlName": "slovak-kroj",
+    "url": "http://aqwwiki.wikidot.com/slovak-kroj",
+    "name": "Slovak Kroj",
+    "type": "armors",
+    "description": "The villagers who dwell deep in the mountains of Dwarfhold are a proud people. They fend for themselves against all enemies, and respect those who come to them in good faith with an open heart.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/ePee5c6.png",
+        "https://i.imgur.com/3ubxLHR.png"
+    ],
+    "hash": "6610362c46aee9caf742569403f42122"
+}

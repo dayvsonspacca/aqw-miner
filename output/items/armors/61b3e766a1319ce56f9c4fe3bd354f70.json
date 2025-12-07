@@ -1,0 +1,17 @@
+{
+    "urlName": "combat-sage-ac",
+    "url": "http://aqwwiki.wikidot.com/combat-sage-ac",
+    "name": "Combat Sage (AC)",
+    "type": "armors",
+    "description": "After ages of rigorous training and meditation, these Sages are enlightened in the art of war. All who oppose the Legion are swiftly incapacitated by these skilled masters.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/MVjF3AJ.png",
+        "https://imgur.com/OAg7593.png"
+    ],
+    "hash": "61b3e766a1319ce56f9c4fe3bd354f70"
+}

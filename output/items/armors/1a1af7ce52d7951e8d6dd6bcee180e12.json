@@ -1,0 +1,17 @@
+{
+    "urlName": "pumpking-overlord",
+    "url": "http://aqwwiki.wikidot.com/pumpking-overlord",
+    "name": "Pumpking Overlord",
+    "type": "armors",
+    "description": "This is Mogloween, Pumpking screams in the dead of the night.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Gu0XmrQ.png",
+        "https://i.imgur.com/z9TXIoZ.png"
+    ],
+    "hash": "1a1af7ce52d7951e8d6dd6bcee180e12"
+}

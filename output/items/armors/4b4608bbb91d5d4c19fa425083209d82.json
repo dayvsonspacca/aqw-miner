@@ -1,0 +1,18 @@
+{
+    "urlName": "chrono-ender",
+    "url": "http://aqwwiki.wikidot.com/chrono-ender",
+    "name": "Chrono Ender",
+    "type": "armors",
+    "description": "The Chrono Enders seek to end time and vow to not let the sun rise one more time. If their plans are fulfilled, Lore and all life will be lost forever to a plague of darkness!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Pseudo Rare",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "http://imgur.com/gBXXsvJ.png",
+        "http://imgur.com/kAjLf35.png"
+    ],
+    "hash": "4b4608bbb91d5d4c19fa425083209d82"
+}

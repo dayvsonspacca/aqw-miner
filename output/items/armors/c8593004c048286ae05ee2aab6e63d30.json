@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowscythe-sorcerer",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-sorcerer",
+    "name": "Shadowscythe Sorcerer",
+    "type": "armors",
+    "description": "Sorcerers who support the Shadowscythe are among the deadliest in Lore. Hiding their faces, they move among the rest of the army without anyone knowing who they are.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/wZUiyH3.png",
+        "https://i.imgur.com/YhN2Uf9.png"
+    ],
+    "hash": "c8593004c048286ae05ee2aab6e63d30"
+}

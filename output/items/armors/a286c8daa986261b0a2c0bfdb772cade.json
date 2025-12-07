@@ -1,0 +1,16 @@
+{
+    "urlName": "frostvale-mage",
+    "url": "http://aqwwiki.wikidot.com/frostvale-mage",
+    "name": "Frostvale Mage",
+    "type": "armors",
+    "description": "Their mana is the spirit of Frostval itself, so these holiday Mages are always in a good mood!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6iDENOi.png",
+        "https://i.imgur.com/w7lns6m.png"
+    ],
+    "hash": "a286c8daa986261b0a2c0bfdb772cade"
+}

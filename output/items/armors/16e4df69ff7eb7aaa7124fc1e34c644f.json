@@ -1,0 +1,17 @@
+{
+    "urlName": "descended-amadis",
+    "url": "http://aqwwiki.wikidot.com/descended-amadis",
+    "name": "Descended Amadis",
+    "type": "armors",
+    "description": "Trained under the guidance of archangels and principalities, the angelic Amadis descends into the mortal realm, protecting all that is Good and virtuous against the forces of Evil.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/descended-amadis/DescendedAmadisMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/descended-amadis/DescendedAmadisFemale.png"
+    ],
+    "hash": "16e4df69ff7eb7aaa7124fc1e34c644f"
+}

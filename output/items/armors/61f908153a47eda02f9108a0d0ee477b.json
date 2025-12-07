@@ -1,0 +1,17 @@
+{
+    "urlName": "crimson-glory-mage",
+    "url": "http://aqwwiki.wikidot.com/crimson-glory-mage",
+    "name": "Crimson Glory Mage",
+    "type": "armors",
+    "description": "This time of year is magical, and your powers bring glory to you and those you love!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crimson-glory-mage/CrimsonGloryMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/crimson-glory-mage/CrimsonGloryMageF.png"
+    ],
+    "hash": "61f908153a47eda02f9108a0d0ee477b"
+}

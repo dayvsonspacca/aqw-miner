@@ -1,0 +1,17 @@
+{
+    "urlName": "storm-ruler",
+    "url": "http://aqwwiki.wikidot.com/storm-ruler",
+    "name": "Storm Ruler",
+    "type": "armors",
+    "description": "You'll never fall victim to the head of the summer when you carry the ice with you!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/4URpKga.png",
+        "https://i.imgur.com/wqcTltW.png"
+    ],
+    "hash": "2783b3b1fbb41b7e37eef1b62e57eb51"
+}

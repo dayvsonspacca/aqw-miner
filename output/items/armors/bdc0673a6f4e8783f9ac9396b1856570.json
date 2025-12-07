@@ -1,0 +1,16 @@
+{
+    "urlName": "deepsea-scourge",
+    "url": "http://aqwwiki.wikidot.com/deepsea-scourge",
+    "name": "DeepSea Scourge",
+    "type": "armors",
+    "description": "At the root of it all, pirates are just the Treasure Hunters of the sea.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/RVz3fbv.png",
+        "https://i.imgur.com/Qjuf7zE.png"
+    ],
+    "hash": "bdc0673a6f4e8783f9ac9396b1856570"
+}

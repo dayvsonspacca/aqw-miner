@@ -1,0 +1,18 @@
+{
+    "urlName": "spearmint-twist",
+    "url": "http://aqwwiki.wikidot.com/spearmint-twist",
+    "name": "Spearmint Twist",
+    "type": "armors",
+    "description": "Do the twist, the spearmint twist!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/hdd0yGs.png",
+        "https://i.imgur.com/dlvJbVA.png"
+    ],
+    "hash": "c921001781ec31fe131369842d661426"
+}

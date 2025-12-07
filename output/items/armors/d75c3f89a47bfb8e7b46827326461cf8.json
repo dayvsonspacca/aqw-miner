@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-gunner",
+    "url": "http://aqwwiki.wikidot.com/skyguard-gunner",
+    "name": "Skyguard Gunner",
+    "type": "armors",
+    "description": "Man the guns, Skyguard! Rip through your enemy airships, guns blazing, and make sure those SkyPirates know that they are NO match for Swordhaven's elite aero-martial force!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/5zFlX4D.png?1",
+        "https://i.imgur.com/JCwu8yb.png"
+    ],
+    "hash": "d75c3f89a47bfb8e7b46827326461cf8"
+}

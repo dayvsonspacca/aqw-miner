@@ -1,0 +1,16 @@
+{
+    "urlName": "creeper-skin",
+    "url": "http://aqwwiki.wikidot.com/creeper-skin",
+    "name": "Creeper Skin",
+    "type": "armors",
+    "description": "You are very brave to have crawled inside the exoskeleton of a Cadaverous Creeper. May you always spread fears throughout your travels.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/e4nXTPi.png",
+        "http://i.imgur.com/keVldTm.png"
+    ],
+    "hash": "ebe6d6964005fb9d54d55018d1a76a31"
+}

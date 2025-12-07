@@ -1,0 +1,18 @@
+{
+    "urlName": "mythic-dragonmaster-armor",
+    "url": "http://aqwwiki.wikidot.com/mythic-dragonmaster-armor",
+    "name": "Mythic DragonMaster (Armor)",
+    "type": "armors",
+    "description": "Dragon BattleMage's are sorcerers with the capability of manipulating the very forces of mana itself, granting them a deeper sensitivity to the Para-Elemental Plane that most magic users are.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/Luv0B34.png",
+        "http://i.imgur.com/MPkXrTR.png"
+    ],
+    "hash": "788644d71b1223ad5c8b26e83473b51d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "chronoassassin",
+    "url": "http://aqwwiki.wikidot.com/chronoassassin",
+    "name": "ChronoAssassin",
+    "type": "armors",
+    "description": "To take down some of the most notorious criminals, sometimes one must go outside of the law and in this case, outside of time to get the job done!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/XTmoiX1.png",
+        "https://i.imgur.com/OCGJnXx.png"
+    ],
+    "hash": "8c02e1afb535c84718266aaa1cbaa681"
+}

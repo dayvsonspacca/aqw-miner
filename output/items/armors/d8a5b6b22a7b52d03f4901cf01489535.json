@@ -1,0 +1,16 @@
+{
+    "urlName": "corvus-corax",
+    "url": "http://aqwwiki.wikidot.com/corvus-corax",
+    "name": "Corvus Corax",
+    "type": "armors",
+    "description": "Although normally considered as an ill omen, these Magi see the raven as a symbol of powerful magic. There is nothing common about this raven.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/D2jTKxB.png",
+        "http://i.imgur.com/3aUIVPx.png"
+    ],
+    "hash": "d8a5b6b22a7b52d03f4901cf01489535"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "bubble-armor",
+    "url": "http://aqwwiki.wikidot.com/bubble-armor",
+    "name": "Bubble Armor",
+    "type": "armors",
+    "description": "Little siblings love to cause mischief. The childlike Bubble enjoys the taste of candy of any flavor, any kind, but rarely thinks twice before acting. This classy getup clearly displays a childish nature so be careful when putting it on. Bubble says you might feel an urge to act outside your age.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/sOZB8tK.png",
+        "http://i.imgur.com/relqBqP.png"
+    ],
+    "hash": "91a15a3271749436c35085b24090870f"
+}

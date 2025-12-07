@@ -1,0 +1,17 @@
+{
+    "urlName": "chicken-suit",
+    "url": "http://aqwwiki.wikidot.com/chicken-suit",
+    "name": "Chicken Suit",
+    "type": "armors",
+    "description": "Who ya callin' chicken?! Oh wait\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ljd4dCo.png",
+        "http://aqwwiki.wdfiles.com/local--files/chicken-suit/ChickenSuitFemale.png"
+    ],
+    "hash": "fd6c9c3708ac493afcab927403b087e2"
+}

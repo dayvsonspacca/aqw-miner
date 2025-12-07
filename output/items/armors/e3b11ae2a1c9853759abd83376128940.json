@@ -1,0 +1,17 @@
+{
+    "urlName": "proto-dark-caster-ac",
+    "url": "http://aqwwiki.wikidot.com/proto-dark-caster-ac",
+    "name": "Proto Dark Caster (AC)",
+    "type": "armors",
+    "description": "The arcane dark arts have existed since before the march of the Legion. Their craft has since been sharpened by Dage the Evil, bringing ancient forbidden knowledge into a new age.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/CkKFAAR.png",
+        "https://imgur.com/ceU2d1j.png"
+    ],
+    "hash": "e3b11ae2a1c9853759abd83376128940"
+}

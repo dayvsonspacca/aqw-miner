@@ -1,0 +1,17 @@
+{
+    "urlName": "burning-warforge-tank-ac",
+    "url": "http://aqwwiki.wikidot.com/burning-warforge-tank-ac",
+    "name": "Burning Warforge Tank (AC)",
+    "type": "armors",
+    "description": "A behemoth of a Legionnaire who also acts as a walking forge. The flames of the Soul Forge light their bodies, and deadly weapons are tempered in the heat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bJnh8fg.png",
+        "https://i.imgur.com/nXdQXjr.png"
+    ],
+    "hash": "b983bf1991053f6703290b2af6e7d835"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "love-of-rouge",
+    "url": "http://aqwwiki.wikidot.com/love-of-rouge",
+    "name": "Love of Rouge",
+    "type": "armors",
+    "description": "Who loves the color red? YOU DO!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/love-of-rouge/LoveofRougeMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/love-of-rouge/LoveofRougeFemale.png"
+    ],
+    "hash": "481a066f409bc57e7a6ceafd61bef7ad"
+}

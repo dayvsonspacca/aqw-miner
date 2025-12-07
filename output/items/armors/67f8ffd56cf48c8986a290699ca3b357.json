@@ -1,0 +1,17 @@
+{
+    "urlName": "aulorian",
+    "url": "http://aqwwiki.wikidot.com/aulorian",
+    "name": "Aulorian",
+    "type": "armors",
+    "description": "Let the golden reflections show you the way!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/onIg6VP.png",
+        "https://i.imgur.com/5DH8001.png"
+    ],
+    "hash": "67f8ffd56cf48c8986a290699ca3b357"
+}

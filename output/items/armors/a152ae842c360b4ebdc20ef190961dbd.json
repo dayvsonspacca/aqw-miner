@@ -1,0 +1,17 @@
+{
+    "urlName": "swordhaven-defender",
+    "url": "http://aqwwiki.wikidot.com/swordhaven-defender",
+    "name": "Swordhaven Defender",
+    "type": "armors",
+    "description": "The people of Swordhaven trust and depend on your skill in battle to keep them safe.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/oRH7cBd.png",
+        "https://i.imgur.com/dp1eXSR.png"
+    ],
+    "hash": "a152ae842c360b4ebdc20ef190961dbd"
+}

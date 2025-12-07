@@ -1,0 +1,18 @@
+{
+    "urlName": "descendant-of-the-dragon",
+    "url": "http://aqwwiki.wikidot.com/descendant-of-the-dragon",
+    "name": "Descendant of the Dragon",
+    "type": "armors",
+    "description": "A full suit of armor designed after the Chinese Dragon. Your battles become a dance of bravery scaring off any who mean you ill.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Xx0e96T.png",
+        "https://i.imgur.com/22Ol4UB.png"
+    ],
+    "hash": "0c62bc798b4be0cf17a9bc1e2d8976ea"
+}

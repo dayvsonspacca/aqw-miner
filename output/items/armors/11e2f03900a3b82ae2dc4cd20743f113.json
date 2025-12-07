@@ -1,0 +1,17 @@
+{
+    "urlName": "boxadin",
+    "url": "http://aqwwiki.wikidot.com/boxadin",
+    "name": "Boxadin",
+    "type": "armors",
+    "description": "Boxadins are the eco-friendly protectors of\u2026 BOXES! If this were a class, the recommended enhancement would be: masking tape.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GNkJGL1.png",
+        "https://i.imgur.com/MI9Lhvg.png"
+    ],
+    "hash": "11e2f03900a3b82ae2dc4cd20743f113"
+}

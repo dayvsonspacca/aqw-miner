@@ -1,0 +1,17 @@
+{
+    "urlName": "lucky-jester-mime",
+    "url": "http://aqwwiki.wikidot.com/lucky-jester-mime",
+    "name": "Lucky Jester Mime",
+    "type": "armors",
+    "description": "You'll be the life of all undead parties with your trapped in a box routine.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/9KT4QB7.png",
+        "http://i.imgur.com/jmDa2iJ.png"
+    ],
+    "hash": "81fd87824ef2c8728636936ca05dfbee"
+}

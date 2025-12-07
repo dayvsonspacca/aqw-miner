@@ -1,0 +1,17 @@
+{
+    "urlName": "day-of-the-undead-suit",
+    "url": "http://aqwwiki.wikidot.com/day-of-the-undead-suit",
+    "name": "Day of the Undead Suit",
+    "type": "armors",
+    "description": "Celebrate the dearly departed with laughter, loud music, and dance. The Marigolds sway to the beat of your music.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6b1tYQq.png",
+        "https://i.imgur.com/9Bkr7Ew.png"
+    ],
+    "hash": "620667656cd37acca2a6c4449cd625f9"
+}

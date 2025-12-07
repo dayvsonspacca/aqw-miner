@@ -1,0 +1,15 @@
+{
+    "urlName": "shrade-armor",
+    "url": "http://aqwwiki.wikidot.com/shrade-armor",
+    "name": "Shrade Armor",
+    "type": "armors",
+    "description": "You can dress up just like Mort and Swaggy did!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/mfUSXW4.png"
+    ],
+    "hash": "b4e84930744d50165a32fe99eaf42a75"
+}

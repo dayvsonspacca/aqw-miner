@@ -1,0 +1,18 @@
+{
+    "urlName": "proto-paragon-armor",
+    "url": "http://aqwwiki.wikidot.com/proto-paragon-armor",
+    "name": "Proto-Paragon Armor",
+    "type": "armors",
+    "description": "BEFORE Dage the Evil created the Paragon armor, he made this. Only his most devoted fans will ever be able to /equip this gear\u2026 and it looks like YOU are up for the challenge! Serve the Evil One well, warrior!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/proto-paragon-armor/Proto-ParagonM.png",
+        "http://aqwwiki.wdfiles.com/local--files/proto-paragon-armor/Proto-ParagonF.png"
+    ],
+    "hash": "0886af1ace018eb65ffe9c2335e691c5"
+}

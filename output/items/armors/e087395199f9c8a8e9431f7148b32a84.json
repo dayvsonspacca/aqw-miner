@@ -1,0 +1,17 @@
+{
+    "urlName": "doombringer-armor",
+    "url": "http://aqwwiki.wikidot.com/doombringer-armor",
+    "name": "DoomBringer (Armor)",
+    "type": "armors",
+    "description": "Beyond death, beyond destruction, there is\u2026 the DoomBringer!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doombringer-armor/DoombringerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/doombringer-armor/DoombringerFemale.png"
+    ],
+    "hash": "e087395199f9c8a8e9431f7148b32a84"
+}

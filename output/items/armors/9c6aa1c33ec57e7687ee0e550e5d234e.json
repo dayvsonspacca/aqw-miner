@@ -1,0 +1,14 @@
+{
+    "urlName": "enforcer-armor",
+    "url": "http://aqwwiki.wikidot.com/enforcer-armor",
+    "name": "Enforcer Armor",
+    "type": "armors",
+    "description": "This armor makes you feel like a tank!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/RYaKw3c.png",
+        "http://i.imgur.com/i3fquRZ.png"
+    ],
+    "hash": "9c6aa1c33ec57e7687ee0e550e5d234e"
+}

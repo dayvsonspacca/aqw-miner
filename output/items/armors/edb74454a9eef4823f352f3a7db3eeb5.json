@@ -1,0 +1,16 @@
+{
+    "urlName": "sphinx-sentinel",
+    "url": "http://aqwwiki.wikidot.com/sphinx-sentinel",
+    "name": "Sphinx Sentinel",
+    "type": "armors",
+    "description": "The Sentinels only served and guarded those worthy enough to be called Pharaoh of the Sandseas. Their golden clan gleamed in an era of heroes and legends, before disappearing into the desert.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/J6iz5rl.png",
+        "https://i.imgur.com/sUFZqc1.png"
+    ],
+    "hash": "edb74454a9eef4823f352f3a7db3eeb5"
+}

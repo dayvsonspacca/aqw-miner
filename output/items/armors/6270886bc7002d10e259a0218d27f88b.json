@@ -1,0 +1,17 @@
+{
+    "urlName": "gothic-decorator",
+    "url": "http://aqwwiki.wikidot.com/gothic-decorator",
+    "name": "Gothic Decorator",
+    "type": "armors",
+    "description": "If heroes want an evil lair worthy of your megalomaniacal aspirations, they call the Gothic Decorator! You're like Martha Stewart, but with more bats!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/s2wC5iv.png",
+        "https://i.imgur.com/Ki18ji1.png"
+    ],
+    "hash": "6270886bc7002d10e259a0218d27f88b"
+}

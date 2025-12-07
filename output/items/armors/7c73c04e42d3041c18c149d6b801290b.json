@@ -1,0 +1,16 @@
+{
+    "urlName": "pure-ao-dai",
+    "url": "http://aqwwiki.wikidot.com/pure-ao-dai",
+    "name": "Pure Ao Dai",
+    "type": "armors",
+    "description": "\ufeffThe Ao Dai is a form-fitting garment that covers all bases, yet hides nothing. Though it invokes gentleness and nostalgia, it represents strong people who will always perservere through hardship with grace.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/2aZLiUH.png",
+        "https://imgur.com/74z2oHh.png"
+    ],
+    "hash": "7c73c04e42d3041c18c149d6b801290b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chill-neighbor",
+    "url": "http://aqwwiki.wikidot.com/chill-neighbor",
+    "name": "Chill Neighbor",
+    "type": "armors",
+    "description": "Your whole deal is that you're chill, and lowkey don't care about much. (Don't forget to take your hands out of your pocket when you run.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Cj2M0uT.png",
+        "https://i.imgur.com/jYYxs2o.png"
+    ],
+    "hash": "8a02a1af94ad53ae03e9d1712819e8f3"
+}

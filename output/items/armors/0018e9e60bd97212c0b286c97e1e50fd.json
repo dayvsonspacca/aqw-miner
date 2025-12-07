@@ -1,0 +1,16 @@
+{
+    "urlName": "turtle-marauder",
+    "url": "http://aqwwiki.wikidot.com/turtle-marauder",
+    "name": "Turtle Marauder",
+    "type": "armors",
+    "description": "As a turtle, You may be a bit slowpoke on land, but you can swim faster than all your friends put together.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/NLLCSem.png",
+        "http://i.imgur.com/R3TBwTF.png"
+    ],
+    "hash": "0018e9e60bd97212c0b286c97e1e50fd"
+}

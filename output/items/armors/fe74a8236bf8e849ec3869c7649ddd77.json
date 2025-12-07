@@ -1,0 +1,18 @@
+{
+    "urlName": "enchanted-tactical-agent-alpha",
+    "url": "http://aqwwiki.wikidot.com/enchanted-tactical-agent-alpha",
+    "name": "Enchanted Tactical Agent Alpha",
+    "type": "armors",
+    "description": "A tactical squad prepared demolish all threats, whether it's an emergency at some haunted house or a massive breakout of rabies in a big city. These star agents can handle it all. (CC to base, trim)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/R4RPTTS.png",
+        "https://i.imgur.com/vSKuNtG.png"
+    ],
+    "hash": "fe74a8236bf8e849ec3869c7649ddd77"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "my-dashing-pirate-commander",
+    "url": "http://aqwwiki.wikidot.com/my-dashing-pirate-commander",
+    "name": "My Dashing Pirate Commander",
+    "type": "armors",
+    "description": "Never fear! Your dashing Pirate Commander is here!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Knmkw7h.png",
+        "https://imgur.com/pPxo6T3.png",
+        "https://i.imgur.com/5Ko1p2o.png",
+        "https://i.imgur.com/FVwwLpq.png"
+    ],
+    "hash": "c70bfef435ecac8e7a48e943e49d4d7a"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "prismatic-fall-fighter",
+    "url": "http://aqwwiki.wikidot.com/prismatic-fall-fighter",
+    "name": "Prismatic Fall Fighter",
+    "type": "armors",
+    "description": "Prismatic Fall Fighters attune themselves with the autumn foliage, making a fashion statement wherever they roam while being able to camouflage themselves if danger should arise.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ZksTlCt.png",
+        "http://i.imgur.com/qc3grmw.png"
+    ],
+    "hash": "aac89743ef78fa8a20fff7247a654d6b"
+}

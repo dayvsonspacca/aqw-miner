@@ -1,0 +1,19 @@
+{
+    "urlName": "classy-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/classy-naval-commander-ac",
+    "name": "Classy Naval Commander (AC)",
+    "type": "armors",
+    "description": "Sometimes simple is the most classy, y'know?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JwUu6Qn.png",
+        "https://i.imgur.com/IbzlyvT.png",
+        "https://i.imgur.com/5wbNvih.png",
+        "https://i.imgur.com/L9xYnID.png"
+    ],
+    "hash": "f31a305e3cb965d28162d890ed1a2b11"
+}

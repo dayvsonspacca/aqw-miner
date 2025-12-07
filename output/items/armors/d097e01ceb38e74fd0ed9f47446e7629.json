@@ -1,0 +1,17 @@
+{
+    "urlName": "doomfire-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/doomfire-warrior-armor",
+    "name": "DOOMFire Warrior (Armor)",
+    "type": "armors",
+    "description": "As a thanks for your eternal servitude to the Shadowscythe Empire, Gravelyn has rewarded with a replica of her powerful, but venomous armor. You've made her proud!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/1hjlAgy.png",
+        "http://i.imgur.com/7Ye7ONv.png"
+    ],
+    "hash": "d097e01ceb38e74fd0ed9f47446e7629"
+}

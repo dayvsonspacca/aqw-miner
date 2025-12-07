@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-dunestalker",
+    "url": "http://aqwwiki.wikidot.com/prismatic-dunestalker",
+    "name": "Prismatic Dunestalker",
+    "type": "armors",
+    "description": "Rule the dunes as you stalk your enemies with your color-changing tattoos! Track them, slay them and take all they own! Victory is yours!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-dunestalker/PrismaticDunestalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-dunestalker/PrismaticDunestalkerF.jpg"
+    ],
+    "hash": "50057c61bdea96d567115c198a7d5bdb"
+}

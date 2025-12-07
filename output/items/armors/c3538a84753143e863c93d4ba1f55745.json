@@ -1,0 +1,17 @@
+{
+    "urlName": "dirge-armor",
+    "url": "http://aqwwiki.wikidot.com/dirge-armor",
+    "name": "Dirge Armor",
+    "type": "armors",
+    "description": "Woe unto any who would cross you while wearing this armor! Their families will rend the air with terrible, heart-breaking songs of mouming.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dirge-armor/DirgeArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dirge-armor/DirgeArmorFemale.png"
+    ],
+    "hash": "c3538a84753143e863c93d4ba1f55745"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "asgardian-plate",
+    "url": "http://aqwwiki.wikidot.com/asgardian-plate",
+    "name": "Asgardian Plate",
+    "type": "armors",
+    "description": "Forged in the land of the gods, this Thundering plate commands the fury and anger of the gods it was forged by. Every step you take booms with the fury of a thunderstorm. Every strike cracks with the intensity of lighting.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/yNj8dL4.png",
+        "http://i.imgur.com/xiufj2m.png"
+    ],
+    "hash": "583cabf9c1d9417f25ac9ed36186de3d"
+}

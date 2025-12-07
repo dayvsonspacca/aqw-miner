@@ -1,0 +1,18 @@
+{
+    "urlName": "lore-s-champion",
+    "url": "http://aqwwiki.wikidot.com/lore-s-champion",
+    "name": "Lore's Champion",
+    "type": "armors",
+    "description": "Carved marks illustrate the suffering Lore has gone through. As its Champion, nothing shall stop you in returning Lore to its glory!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/hwbretT.png",
+        "https://imgur.com/eiocVQY.png",
+        "https://imgur.com/JEh0ziZ.png",
+        "http://i.imgur.com/TO3Ieol.png"
+    ],
+    "hash": "fb628a99240e6781b4897b6b372f06d8"
+}

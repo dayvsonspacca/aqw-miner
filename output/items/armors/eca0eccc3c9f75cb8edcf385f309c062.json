@@ -1,0 +1,16 @@
+{
+    "urlName": "evacuation-protocol-suit",
+    "url": "http://aqwwiki.wikidot.com/evacuation-protocol-suit",
+    "name": "Evacuation Protocol Suit",
+    "type": "armors",
+    "description": "Able bodied members of Seabase Undine have the important duty of leading its personnel through emergencies. The hardest part of the job is being able to tell a real person from a hallucination created by Kathool's influence.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/CW9ljcy.png",
+        "https://i.imgur.com/eaE5I0P.png"
+    ],
+    "hash": "eca0eccc3c9f75cb8edcf385f309c062"
+}

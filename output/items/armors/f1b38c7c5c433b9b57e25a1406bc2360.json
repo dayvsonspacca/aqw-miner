@@ -1,0 +1,17 @@
+{
+    "urlName": "spirit-of-autumn",
+    "url": "http://aqwwiki.wikidot.com/spirit-of-autumn",
+    "name": "Spirit of Autumn",
+    "type": "armors",
+    "description": "In times of hardship, these heralds of nature were known as Knights of the Fall. Now, in a gentler present where mortals are warmed by coloful leaves, they're the Spirits of Autumn.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YOy6f2i.png",
+        "https://i.imgur.com/WQ29ptB.png"
+    ],
+    "hash": "f1b38c7c5c433b9b57e25a1406bc2360"
+}

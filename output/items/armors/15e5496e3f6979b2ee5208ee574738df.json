@@ -1,0 +1,16 @@
+{
+    "urlName": "spacefighter",
+    "url": "http://aqwwiki.wikidot.com/spacefighter",
+    "name": "SpaceFighter",
+    "type": "armors",
+    "description": "An exoskeleton suit made to keep your skin from exposure to the black abyss.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spacefighter/SpaceFighterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/spacefighter/SpaceFighterF.png"
+    ],
+    "hash": "15e5496e3f6979b2ee5208ee574738df"
+}

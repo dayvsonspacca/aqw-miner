@@ -1,0 +1,19 @@
+{
+    "urlName": "stinky-cheese-suit-ac",
+    "url": "http://aqwwiki.wikidot.com/stinky-cheese-suit-ac",
+    "name": "Stinky Cheese Suit (AC)",
+    "type": "armors",
+    "description": "Summon the powers of stinky cheese to drive your opponents away!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/stinky-cheese-suit-ac/StinkyCheeseSuitMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/stinky-cheese-suit-ac/StinkyCheeseSuitMA.png",
+        "http://aqwwiki.wdfiles.com/local--files/stinky-cheese-suit-ac/StinkyCheeseSuitFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/stinky-cheese-suit-ac/StinkyCheeseSuitFA.png"
+    ],
+    "hash": "64f6e8ab5a43d88cd97dbb646fa2e450"
+}

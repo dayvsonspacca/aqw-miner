@@ -1,0 +1,20 @@
+{
+    "urlName": "dragon-emperor-armor",
+    "url": "http://aqwwiki.wikidot.com/dragon-emperor-armor",
+    "name": "Dragon Emperor (Armor)",
+    "type": "armors",
+    "description": "Lurking in the shadows or concealing yourself in the dark, you're the most dangerous when not visible to others. Armor is color-customizable.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-emperor-armor/DEM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-emperor-armor/DEMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-emperor-armor/DEF.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-emperor-armor/DEFOld.png"
+    ],
+    "hash": "bc57a2cf7aaab6b203d67bbfec1fe70d"
+}

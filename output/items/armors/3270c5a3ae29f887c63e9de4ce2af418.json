@@ -1,0 +1,17 @@
+{
+    "urlName": "bloodmoon-musician",
+    "url": "http://aqwwiki.wikidot.com/bloodmoon-musician",
+    "name": "Bloodmoon Musician",
+    "type": "armors",
+    "description": "When the rare Bloodmoon rises, Aurelio Voltaire's haunting melodies can be heard echoing throughout Darkovia.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/lmu4YKA.png",
+        "https://i.imgur.com/Yje9zTk.png"
+    ],
+    "hash": "3270c5a3ae29f887c63e9de4ce2af418"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "aus-rugby-armor",
+    "url": "http://aqwwiki.wikidot.com/aus-rugby-armor",
+    "name": "AUS Rugby Armor",
+    "type": "armors",
+    "description": "You'll be on the ball when you /equip this AUS-some rugby armor! Crowds of your /party members will /cheer as your crit-ically score against your enemies!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/jMfDMza.png",
+        "http://aqwwiki.wdfiles.com/local--files/aus-rugby-armor/AUSRugbyArmorFemale.png"
+    ],
+    "hash": "f7b0437269b332389d2519bc30a87d7f"
+}

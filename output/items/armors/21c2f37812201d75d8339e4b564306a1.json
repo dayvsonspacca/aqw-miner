@@ -1,0 +1,16 @@
+{
+    "urlName": "sorcerer-armor",
+    "url": "http://aqwwiki.wikidot.com/sorcerer-armor",
+    "name": "Sorcerer Armor",
+    "type": "armors",
+    "description": "Mage base class upgrade! (Requires Mage Class)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/ZHcgiHw.png",
+        "https://i.imgur.com/izepO6P.png"
+    ],
+    "hash": "21c2f37812201d75d8339e4b564306a1"
+}

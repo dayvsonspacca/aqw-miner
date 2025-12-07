@@ -1,0 +1,16 @@
+{
+    "urlName": "dragonlord-grandmaster",
+    "url": "http://aqwwiki.wikidot.com/dragonlord-grandmaster",
+    "name": "DragonLord Grandmaster",
+    "type": "armors",
+    "description": "To become a GrandMaster it takes skill, a cunning eye, a sharp blade and a good fire retardant armor.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/FOUm93r.png",
+        "https://imgur.com/j1EKVf8.png"
+    ],
+    "hash": "90c97656bef958ad9d0e988d3de81780"
+}

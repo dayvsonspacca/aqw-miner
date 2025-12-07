@@ -1,0 +1,17 @@
+{
+    "urlName": "auroral-doomknight",
+    "url": "http://aqwwiki.wikidot.com/auroral-doomknight",
+    "name": "Auroral DoomKnight",
+    "type": "armors",
+    "description": "This auroral armor is an anomaly among its kind. It was forged from the body of a dead Doom Spirit that gorged on stars until their light led to its demise. Now, those constellations are trapped in your shadow.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/LF8Q4n8.png",
+        "https://i.imgur.com/1CZCbtB.png"
+    ],
+    "hash": "7eaacfb86416693c10c95d4210eb4494"
+}

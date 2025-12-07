@@ -1,0 +1,17 @@
+{
+    "urlName": "coward-armor",
+    "url": "http://aqwwiki.wikidot.com/coward-armor",
+    "name": "Coward Armor",
+    "type": "armors",
+    "description": "An armor for the fearful, this garb has extra padding and spells woven in to protect the weak of heart. Equip it if you're a bit too scared to take on the opponents that roaming in Lore.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/coward-armor/CowardArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/coward-armor/CowardArmorFemale.png"
+    ],
+    "hash": "5ca291b229d810ec9f73c5f25d23ebc0"
+}

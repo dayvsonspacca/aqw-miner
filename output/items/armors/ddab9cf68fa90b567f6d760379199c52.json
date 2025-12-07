@@ -1,0 +1,16 @@
+{
+    "urlName": "doomtech-doomknight",
+    "url": "http://aqwwiki.wikidot.com/doomtech-doomknight",
+    "name": "DoomTech DoomKnight",
+    "type": "armors",
+    "description": "A new generation of DoomKnight emerges from the Empire's forges. The armor grafted to the bodies of the Doomknights doesn't just enhance their power, it whispers and guides blades to brutal victory.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/oqBkML8.png",
+        "https://i.imgur.com/2jWuJQg.png"
+    ],
+    "hash": "ddab9cf68fa90b567f6d760379199c52"
+}

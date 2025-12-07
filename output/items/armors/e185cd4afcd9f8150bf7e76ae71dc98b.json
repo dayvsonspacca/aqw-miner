@@ -1,0 +1,15 @@
+{
+    "urlName": "grimdark",
+    "url": "http://aqwwiki.wikidot.com/grimdark",
+    "name": "GrimDark",
+    "type": "armors",
+    "description": "Congratulations hero! You've farmed enough to get the personal set of fellow player Doom Reign Doom!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/2ZVY6Kt.png"
+    ],
+    "hash": "e185cd4afcd9f8150bf7e76ae71dc98b"
+}

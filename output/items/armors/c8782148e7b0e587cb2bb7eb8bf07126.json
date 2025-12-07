@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-dragonrune-mage",
+    "url": "http://aqwwiki.wikidot.com/prismatic-dragonrune-mage",
+    "name": "Prismatic Dragonrune Mage",
+    "type": "armors",
+    "description": "Now no one at Dragonrune can argue how colorful of a character you are.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-dragonrune-mage/PrismaticDragonruneMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-dragonrune-mage/PrismaticDragonruneMageF.png"
+    ],
+    "hash": "c8782148e7b0e587cb2bb7eb8bf07126"
+}

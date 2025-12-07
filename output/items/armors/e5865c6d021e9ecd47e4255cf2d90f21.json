@@ -1,0 +1,17 @@
+{
+    "urlName": "diabolical-officer",
+    "url": "http://aqwwiki.wikidot.com/diabolical-officer",
+    "name": "Diabolical Officer",
+    "type": "armors",
+    "description": "The Diabolical fleet requires their Officers to be vigilant and to always keep an eye out for anything that may pose a threat. Wear this uniform with pride as you sail the dark seas.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/TfCcWDR.png",
+        "https://imgur.com/JZto8iQ.png"
+    ],
+    "hash": "e5865c6d021e9ecd47e4255cf2d90f21"
+}

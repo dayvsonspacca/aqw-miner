@@ -1,0 +1,16 @@
+{
+    "urlName": "djinn-realm-techsuit",
+    "url": "http://aqwwiki.wikidot.com/djinn-realm-techsuit",
+    "name": "Djinn Realm TechSuit",
+    "type": "armors",
+    "description": "The Pharaoh of the Sandsea commissioned Seabase Undine to develope equipment that would allow his retainers to delve deeper into the Djinn Realm. Amplifying the wearer's magic, the gear routinely purges itself of impurities.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/JCBD6jP.png",
+        "https://i.imgur.com/aDb6GGc.png"
+    ],
+    "hash": "8fe723ac596d5ab4e1fadffe7990f94f"
+}

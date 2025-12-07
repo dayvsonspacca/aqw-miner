@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowspace-crewman",
+    "url": "http://aqwwiki.wikidot.com/shadowspace-crewman",
+    "name": "Shadowspace Crewman",
+    "type": "armors",
+    "description": "\ufeffTravelling outside the bounds of Lore to the unknown is a dangerous, yet it calls to the adventurous and ambitious. They risk everything to seek what treasures lay where no soul has trodden.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/7TVnuVL.png",
+        "https://imgur.com/LoR6RMy.png"
+    ],
+    "hash": "7e55c24ce227cf5697cce0a1a1468107"
+}

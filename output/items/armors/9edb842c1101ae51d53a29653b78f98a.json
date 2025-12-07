@@ -1,0 +1,16 @@
+{
+    "urlName": "doctor-hue",
+    "url": "http://aqwwiki.wikidot.com/doctor-hue",
+    "name": "Doctor Hue",
+    "type": "armors",
+    "description": "RAINBOWS ARE COOL!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Gs20iYV.png",
+        "http://i.imgur.com/8a4cJcG.png"
+    ],
+    "hash": "9edb842c1101ae51d53a29653b78f98a"
+}

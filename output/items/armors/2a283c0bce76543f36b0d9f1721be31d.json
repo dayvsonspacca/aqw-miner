@@ -1,0 +1,17 @@
+{
+    "urlName": "prometheus",
+    "url": "http://aqwwiki.wikidot.com/prometheus",
+    "name": "Prometheus",
+    "type": "armors",
+    "description": "Energy crackles all around you. Power radiates from within. You've become a massive force of unstoppable power. Will you use it to protect those you love, or will you become the next force of evil? The choice is yours.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prometheus/PrometheusM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prometheus/PrometheusF.png"
+    ],
+    "hash": "2a283c0bce76543f36b0d9f1721be31d"
+}

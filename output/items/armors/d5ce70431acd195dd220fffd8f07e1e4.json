@@ -1,0 +1,17 @@
+{
+    "urlName": "frostborne-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/frostborne-dragonslayer",
+    "name": "Frostborne Dragonslayer",
+    "type": "armors",
+    "description": "As a final parting shot, an Ice Dragon permanently scarred the Dragonslayers who slew it. Cold breath froze their blood, but the warriors took it in stride. Reborn in frost, they were gifted with the ability to thrive in the permafrost.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cxsQfEj.png",
+        "https://i.imgur.com/1JYQfYB.png"
+    ],
+    "hash": "d5ce70431acd195dd220fffd8f07e1e4"
+}

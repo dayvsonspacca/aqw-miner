@@ -1,0 +1,17 @@
+{
+    "urlName": "mortal-oracle-of-misfortune",
+    "url": "http://aqwwiki.wikidot.com/mortal-oracle-of-misfortune",
+    "name": "Mortal Oracle of Misfortune",
+    "type": "armors",
+    "description": "Your fortune reads: You have the power to overcome your own misfortune. Never give up. Always keep fighting.\" (\"Ni you ke'fu kun'nan de li'liang, bie fang'qi, jian'chi dao'di!\")",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/SemDwEn.png",
+        "https://i.imgur.com/cGlmuMG.png"
+    ],
+    "hash": "ebfdf3e7dc3a4840fb798346562c39fc"
+}

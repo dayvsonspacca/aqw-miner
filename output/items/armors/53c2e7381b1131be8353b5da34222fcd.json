@@ -1,0 +1,17 @@
+{
+    "urlName": "purified-soulbinder",
+    "url": "http://aqwwiki.wikidot.com/purified-soulbinder",
+    "name": "Purified SoulBinder",
+    "type": "armors",
+    "description": "SoulBinders are able to harness the magical energy of souls without the aid of a Soul ally. SoulWeavers have questioned the ethics of this practice, believing the SoulBinders to be manipulating soul against their will.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/purified-soulbinder/PurifiedSoulBinderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/purified-soulbinder/PurifiedSoulBinderF.png"
+    ],
+    "hash": "53c2e7381b1131be8353b5da34222fcd"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "doom-of-lore",
+    "url": "http://aqwwiki.wikidot.com/doom-of-lore",
+    "name": "Doom of Lore",
+    "type": "armors",
+    "description": "You are NOT the savior of Lore\u2026 you are its DOOM!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doom-of-lore/DoomofLoreMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/doom-of-lore/DoomofLoreFemale.png"
+    ],
+    "hash": "0510ab1a4524d7baf35fbb448dbb870e"
+}

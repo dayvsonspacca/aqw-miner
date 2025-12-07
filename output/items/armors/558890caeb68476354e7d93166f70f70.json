@@ -1,0 +1,18 @@
+{
+    "urlName": "mummy-armor",
+    "url": "http://aqwwiki.wikidot.com/mummy-armor",
+    "name": "Mummy (Armor)",
+    "type": "armors",
+    "description": "That's a wrap! Your body has been perfectly preserved. Won't your mummy be proud? This is a Mogloween 2013 Seasonal Rare!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/xJ9MdEp.png",
+        "http://i.imgur.com/FT9E5TZ.png"
+    ],
+    "hash": "558890caeb68476354e7d93166f70f70"
+}

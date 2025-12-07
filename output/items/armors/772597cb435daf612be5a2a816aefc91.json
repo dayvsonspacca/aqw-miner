@@ -1,0 +1,17 @@
+{
+    "urlName": "arctic-necro-draugr",
+    "url": "http://aqwwiki.wikidot.com/arctic-necro-draugr",
+    "name": "Arctic Necro-Draugr",
+    "type": "armors",
+    "description": "An arrogant necromancer tried to harness a soul too cold to control. Their marrow froze, and ice burst forth. Trapped within their own body, the necromancer became a puppet.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/e5dAdlG.png"
+    ],
+    "hash": "772597cb435daf612be5a2a816aefc91"
+}

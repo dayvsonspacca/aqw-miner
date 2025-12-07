@@ -1,0 +1,17 @@
+{
+    "urlName": "lycan-shinobi",
+    "url": "http://aqwwiki.wikidot.com/lycan-shinobi",
+    "name": "Lycan Shinobi",
+    "type": "armors",
+    "description": "Merely the stuff of legends for centuries, whispers of this nomadic cult have resurfaced now that Vampirates have invaded.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/fKaXQA2.png",
+        "http://i.imgur.com/ZI7duas.png"
+    ],
+    "hash": "499bc86515c4dc953f1e336230b2f6aa"
+}

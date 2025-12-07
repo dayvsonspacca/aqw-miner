@@ -1,0 +1,16 @@
+{
+    "urlName": "deepsea-hunter",
+    "url": "http://aqwwiki.wikidot.com/deepsea-hunter",
+    "name": "DeepSea Hunter",
+    "type": "armors",
+    "description": "At the root of it all, pirates are just the Treasure Hunters of the sea.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/FgkQQyo.png",
+        "https://i.imgur.com/9ri8PEe.png"
+    ],
+    "hash": "e23f2ebee49935fabbad5612b77e8142"
+}

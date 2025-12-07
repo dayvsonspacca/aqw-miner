@@ -1,0 +1,17 @@
+{
+    "urlName": "frostsworn-emperor-ac",
+    "url": "http://aqwwiki.wikidot.com/frostsworn-emperor-ac",
+    "name": "Frostsworn Emperor (AC)",
+    "type": "armors",
+    "description": "The icy wind isn't for the faint hearted. To reign in this frozen forsaken tundra you must have nerves of steel.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1iYnID0.png",
+        "https://imgur.com/ZmMYmXT.png"
+    ],
+    "hash": "48f6aa925193dfbf7a96c82a2f20f166"
+}

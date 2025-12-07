@@ -1,0 +1,17 @@
+{
+    "urlName": "crypto-collector",
+    "url": "http://aqwwiki.wikidot.com/crypto-collector",
+    "name": "Crypto Collector",
+    "type": "armors",
+    "description": "How do you collect that which does not exist\u2026 except in cyberspace?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/y4ZkGXE.png",
+        "https://i.imgur.com/vA0Ywn4.png"
+    ],
+    "hash": "8afb31fb54467305d65fcf00281ac598"
+}

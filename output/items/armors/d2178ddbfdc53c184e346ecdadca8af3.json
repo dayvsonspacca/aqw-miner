@@ -1,0 +1,16 @@
+{
+    "urlName": "darkblood-blazebinder",
+    "url": "http://aqwwiki.wikidot.com/darkblood-blazebinder",
+    "name": "DarkBlood BlazeBinder",
+    "type": "armors",
+    "description": "The marks burned into Darkblood pyromancer's show their devotion to the craft.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/QBSPbq2.png",
+        "http://i.imgur.com/bnrRVtr.png"
+    ],
+    "hash": "d2178ddbfdc53c184e346ecdadca8af3"
+}

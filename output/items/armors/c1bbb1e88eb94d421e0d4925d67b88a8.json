@@ -1,0 +1,16 @@
+{
+    "urlName": "classic-school-uniform-legend",
+    "url": "http://aqwwiki.wikidot.com/classic-school-uniform-legend",
+    "name": "Classic School Uniform (Legend)",
+    "type": "armors",
+    "description": "It seems that you're a seemingly normal student with a seemingly normal lifestyle; but once this school uniform comes off, you become the world's greatest hero\u2026 or villain!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/classic-school-uniform-legend/ClassicSchoolUniformMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/classic-school-uniform-legend/ClassicSchoolUniformFemale.jpg"
+    ],
+    "hash": "c1bbb1e88eb94d421e0d4925d67b88a8"
+}

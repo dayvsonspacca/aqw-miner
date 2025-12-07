@@ -1,0 +1,21 @@
+{
+    "urlName": "pyroclastic-beastmaster-ac",
+    "url": "http://aqwwiki.wikidot.com/pyroclastic-beastmaster-ac",
+    "name": "Pyroclastic BeastMaster (AC)",
+    "type": "armors",
+    "description": "\ufeffAwaken the dread beasts which sleep deep inside the magma caverns. Scorch the land with their might until you are recognized as a beast in your own right. (Weapon changes at random.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/KNM7wiF.png",
+        "https://imgur.com/JbKOYFk.png",
+        "https://imgur.com/q1f8RCY.png",
+        "https://imgur.com/0JN3P2h.png",
+        "https://imgur.com/OLVA00y.png",
+        "https://imgur.com/QsyZefw.png"
+    ],
+    "hash": "d0560f26f9d74de9cccefe1475679ba5"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "armure-l-amour-ac",
+    "url": "http://aqwwiki.wikidot.com/armure-l-amour-ac",
+    "name": "Armure l'Amour (AC)",
+    "type": "armors",
+    "description": "For those who don't always want to wear their hearts on their sleeves. (Now it's on your gauntlet!)",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mp7bFll.png",
+        "https://i.imgur.com/4dxjPN1.png",
+        "https://i.imgur.com/O6eBuaw.png",
+        "https://i.imgur.com/0rw9GBd.png"
+    ],
+    "hash": "3448e565429a3599676215651adeca1e"
+}

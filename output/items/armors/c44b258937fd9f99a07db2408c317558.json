@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonknight",
+    "url": "http://aqwwiki.wikidot.com/dragonknight",
+    "name": "DragonKnight",
+    "type": "armors",
+    "description": "Hailing from the land of the dragons, the Dragon Lord Knights protect and serve the people of the land. It's by their blade that anyone who shall try to cause harm will suffer!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/T095Ry5.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragonknight/DragonKnightMale.png"
+    ],
+    "hash": "c44b258937fd9f99a07db2408c317558"
+}

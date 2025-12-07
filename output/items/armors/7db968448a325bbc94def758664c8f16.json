@@ -1,0 +1,16 @@
+{
+    "urlName": "grid-armor",
+    "url": "http://aqwwiki.wikidot.com/grid-armor",
+    "name": "Grid Armor",
+    "type": "armors",
+    "description": "Wait a second, wasn't I just sitting at my computer?!?!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/xqYZVxz.png",
+        "http://i.imgur.com/C6t0l9S.png"
+    ],
+    "hash": "7db968448a325bbc94def758664c8f16"
+}

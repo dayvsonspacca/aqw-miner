@@ -1,0 +1,17 @@
+{
+    "urlName": "cursed-overlord-armor",
+    "url": "http://aqwwiki.wikidot.com/cursed-overlord-armor",
+    "name": "Cursed Overlord (Armor)",
+    "type": "armors",
+    "description": "These minions spawned in the deepest pit of the Underworld. No one knows exactly where and so far no-one has been brave enough to try to find out.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Ib7ikjx.png",
+        "https://i.imgur.com/0Ke50Bc.png"
+    ],
+    "hash": "e1d7039a71baad3e8621f7a1897828e6"
+}

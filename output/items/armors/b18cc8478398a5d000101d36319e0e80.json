@@ -1,0 +1,16 @@
+{
+    "urlName": "purifier",
+    "url": "http://aqwwiki.wikidot.com/purifier",
+    "name": "Purifier",
+    "type": "armors",
+    "description": "Only those pure of heart shall be protected!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/iCUFII6.png",
+        "http://i.imgur.com/5Y3oGCG.png"
+    ],
+    "hash": "b18cc8478398a5d000101d36319e0e80"
+}

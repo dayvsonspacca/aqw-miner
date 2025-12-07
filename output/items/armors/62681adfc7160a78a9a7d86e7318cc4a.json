@@ -1,0 +1,17 @@
+{
+    "urlName": "collared-fiend",
+    "url": "http://aqwwiki.wikidot.com/collared-fiend",
+    "name": "Collared Fiend",
+    "type": "armors",
+    "description": "All who see you shall obey. It would be death to look away from the power blazing from your eyes!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/collared-fiend/CollaredFiendM.png",
+        "http://aqwwiki.wdfiles.com/local--files/collared-fiend/CollaredFiendF.png"
+    ],
+    "hash": "62681adfc7160a78a9a7d86e7318cc4a"
+}

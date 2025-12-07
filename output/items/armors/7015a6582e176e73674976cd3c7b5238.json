@@ -1,0 +1,18 @@
+{
+    "urlName": "sponzard-slayer",
+    "url": "http://aqwwiki.wikidot.com/sponzard-slayer",
+    "name": "Sponzard Slayer",
+    "type": "armors",
+    "description": "The Sponzard is a mighty creature. Slay it and earn incredible rewards!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/lpk8Tc9.png",
+        "http://i.imgur.com/jt3B4Mp.png"
+    ],
+    "hash": "7015a6582e176e73674976cd3c7b5238"
+}

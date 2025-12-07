@@ -1,0 +1,16 @@
+{
+    "urlName": "space-voyager-twig-legend",
+    "url": "http://aqwwiki.wikidot.com/space-voyager-twig-legend",
+    "name": "Space Voyager Twig (Legend)",
+    "type": "armors",
+    "description": "In space, no one gives you fwish and ice cream!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Dpe6EL1.png"
+    ],
+    "hash": "b3d159e63f7c3288cef97f8580d6efe9"
+}

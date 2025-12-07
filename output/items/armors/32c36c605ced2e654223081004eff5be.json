@@ -1,0 +1,19 @@
+{
+    "urlName": "archfiend-titan-0-ac",
+    "url": "http://aqwwiki.wikidot.com/archfiend-titan-0-ac",
+    "name": "Archfiend Titan (0 AC)",
+    "type": "armors",
+    "description": "Archfiend Titans serve as tanks in battle, drawing fire from the mages and paladins sent to attack Nulgath's forces.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ELPu1Ss.png",
+        "https://i.imgur.com/F8sR00H.png",
+        "https://i.imgur.com/OonmMHj.png",
+        "https://i.imgur.com/Mudjbcu.png"
+    ],
+    "hash": "32c36c605ced2e654223081004eff5be"
+}

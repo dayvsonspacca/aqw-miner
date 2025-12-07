@@ -1,0 +1,18 @@
+{
+    "urlName": "strolling-zombie-killer",
+    "url": "http://aqwwiki.wikidot.com/strolling-zombie-killer",
+    "name": "Strolling Zombie Killer",
+    "type": "armors",
+    "description": "There's a new sheriff in town and he's laying down the law!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kV1Zkdd.png",
+        "https://i.imgur.com/R1Ig5vM.png"
+    ],
+    "hash": "0d771f7cccb5eb9580551904b5a1737e"
+}

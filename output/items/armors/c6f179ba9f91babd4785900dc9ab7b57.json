@@ -1,0 +1,17 @@
+{
+    "urlName": "sweetish-fish-suit",
+    "url": "http://aqwwiki.wikidot.com/sweetish-fish-suit",
+    "name": "Sweetish Fish Suit",
+    "type": "armors",
+    "description": "Be the \"catch of the day\" in this sweet-ish outfit! Gills not included.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sweetish-fish-suit/SweetishFishM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sweetish-fish-suit/SweetishFishF.png"
+    ],
+    "hash": "c6f179ba9f91babd4785900dc9ab7b57"
+}

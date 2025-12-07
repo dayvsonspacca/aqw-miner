@@ -1,0 +1,16 @@
+{
+    "urlName": "uw3017-blaster-armor",
+    "url": "http://aqwwiki.wikidot.com/uw3017-blaster-armor",
+    "name": "Uw3017 Blaster (Armor)",
+    "type": "armors",
+    "description": "These part-undead, part-robot monstrosities are a part of a task force created by Dage the Evil to hunt down and finish off dissidents in the Legion, including those that he currently wants, but could not have.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/eOktwNn.png",
+        "https://i.imgur.com/MFWPfCy.png"
+    ],
+    "hash": "9b912f7f563ec5580ac108296eac5ef5"
+}

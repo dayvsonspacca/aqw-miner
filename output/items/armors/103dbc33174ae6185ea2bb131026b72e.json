@@ -1,0 +1,16 @@
+{
+    "urlName": "space-voyager",
+    "url": "http://aqwwiki.wikidot.com/space-voyager",
+    "name": "Space Voyager",
+    "type": "armors",
+    "description": "There are multiple uncharted territories is space. You're apart of an elite group tasked with mapping these regions. What lies ahead of you is truly the unknown.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/PiFOVsi.png",
+        "https://i.imgur.com/wN3tyva.png"
+    ],
+    "hash": "103dbc33174ae6185ea2bb131026b72e"
+}

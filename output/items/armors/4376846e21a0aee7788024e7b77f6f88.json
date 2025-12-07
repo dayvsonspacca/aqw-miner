@@ -1,0 +1,17 @@
+{
+    "urlName": "grenwog-worshipper",
+    "url": "http://aqwwiki.wikidot.com/grenwog-worshipper",
+    "name": "Grenwog Worshipper",
+    "type": "armors",
+    "description": "All hail the Grenwog!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/EHswCZv.png",
+        "https://i.imgur.com/puWfwOr.png"
+    ],
+    "hash": "4376846e21a0aee7788024e7b77f6f88"
+}

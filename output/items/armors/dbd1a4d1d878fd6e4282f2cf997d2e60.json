@@ -1,0 +1,17 @@
+{
+    "urlName": "grimstalker",
+    "url": "http://aqwwiki.wikidot.com/grimstalker",
+    "name": "GrimStalker",
+    "type": "armors",
+    "description": "What can be burned cannot be turned further towards the darkness! Stalk the creatures of the night, slay the witches, and save your city!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/grimstalker/GrimStalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/grimstalker/GrimStalkerF.png"
+    ],
+    "hash": "dbd1a4d1d878fd6e4282f2cf997d2e60"
+}

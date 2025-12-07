@@ -1,0 +1,17 @@
+{
+    "urlName": "spectral-sea-scourge",
+    "url": "http://aqwwiki.wikidot.com/spectral-sea-scourge",
+    "name": "Spectral Sea Scourge",
+    "type": "armors",
+    "description": "A pirate ship shredded into splinters by cannonfire returns from the great beyond. The crew have lost their taste for gold, seeking to plunder souls from the living.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3M4mDYQ.png",
+        "https://i.imgur.com/2fTHoAL.png"
+    ],
+    "hash": "9b3cc410ae00581d4da97a3e3a8bc6f0"
+}

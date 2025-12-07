@@ -1,0 +1,17 @@
+{
+    "urlName": "doomknight-shadowmage",
+    "url": "http://aqwwiki.wikidot.com/doomknight-shadowmage",
+    "name": "Doomknight Shadowmage",
+    "type": "armors",
+    "description": "Brethren to the DoomKnight BattleMages, the ShadowMage dives deeper into the macabre and otherworldly styles of enchanting. (3% chance to do the smokebomb animation, and 5% XP boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/L6LzKi1.png",
+        "http://i.imgur.com/OnMUEOO.png",
+        "http://i.imgur.com/xZZX4pq.png"
+    ],
+    "hash": "29a0b94b67ead472a6c46ace6c1a4e4b"
+}

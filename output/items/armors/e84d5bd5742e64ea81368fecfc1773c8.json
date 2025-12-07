@@ -1,0 +1,18 @@
+{
+    "urlName": "twig-s-pjs",
+    "url": "http://aqwwiki.wikidot.com/twig-s-pjs",
+    "name": "Twig's PJs",
+    "type": "armors",
+    "description": "Mogloween is the best time to break out all of the onesies that have been in your closet. Dress up like Twig!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/mMLZuoj.png",
+        "https://imgur.com/HsrRxsx.png"
+    ],
+    "hash": "e84d5bd5742e64ea81368fecfc1773c8"
+}

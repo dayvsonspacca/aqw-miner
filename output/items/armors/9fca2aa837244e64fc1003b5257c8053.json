@@ -1,0 +1,16 @@
+{
+    "urlName": "chrono-vanquisher",
+    "url": "http://aqwwiki.wikidot.com/chrono-vanquisher",
+    "name": "Chrono Vanquisher",
+    "type": "armors",
+    "description": "This type of hero is one that doesn't abide by the laws of time to add to their stories of valor and courage!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/WvnVljK.png",
+        "http://i.imgur.com/rPWFfsY.png"
+    ],
+    "hash": "9fca2aa837244e64fc1003b5257c8053"
+}

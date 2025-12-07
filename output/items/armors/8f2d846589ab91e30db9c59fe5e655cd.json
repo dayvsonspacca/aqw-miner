@@ -1,0 +1,16 @@
+{
+    "urlName": "storm-knight",
+    "url": "http://aqwwiki.wikidot.com/storm-knight",
+    "name": "Storm Knight",
+    "type": "armors",
+    "description": "He only earns his freedom and his life who takes them every day by storm. (Item does 40% more damage to elemental tagged monsters when equipped.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/4MOEio2.png",
+        "https://i.imgur.com/iETHPEj.png"
+    ],
+    "hash": "8f2d846589ab91e30db9c59fe5e655cd"
+}

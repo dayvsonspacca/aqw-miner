@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-soulbinder-ac",
+    "url": "http://aqwwiki.wikidot.com/cyber-soulbinder-ac",
+    "name": "Cyber SoulBinder (AC)",
+    "type": "armors",
+    "description": "SoulBinders are able to harness the magical energy of souls without the aid of a Soul Ally. SoulWeavers have questioned the ethics of this practice, believing the SoulBinders to be manipulating souls against their will.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/w0EUpPZ.png",
+        "https://i.imgur.com/j1jSD0D.png"
+    ],
+    "hash": "0e636dbbb3f9dec7121388c7150f704f"
+}

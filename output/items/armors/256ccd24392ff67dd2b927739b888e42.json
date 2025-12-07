@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-ninja-warrior",
+    "url": "http://aqwwiki.wikidot.com/doom-ninja-warrior",
+    "name": "Doom Ninja Warrior",
+    "type": "armors",
+    "description": "A true Ninja Warrior knows that you only fail when you stop trying.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Vn5XExM.png",
+        "https://i.imgur.com/sx0xADd.png"
+    ],
+    "hash": "256ccd24392ff67dd2b927739b888e42"
+}

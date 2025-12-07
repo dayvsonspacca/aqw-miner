@@ -1,0 +1,18 @@
+{
+    "urlName": "crimson-knight-commander",
+    "url": "http://aqwwiki.wikidot.com/crimson-knight-commander",
+    "name": "Crimson Knight Commander",
+    "type": "armors",
+    "description": "As night falls, a valiant group of warriors take up their arms to defend all who require it. The famed Crimson Knight Commanders rise to any challenge, their reputation is known to all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crimson-knight-commander/CrimsonKnightCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/crimson-knight-commander/CrimsonKnightCommanderF.png"
+    ],
+    "hash": "2ae56d97c3a8a2774c10cf955ca065e3"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-snowstalker",
+    "url": "http://aqwwiki.wikidot.com/prismatic-snowstalker",
+    "name": "Prismatic SnowStalker",
+    "type": "armors",
+    "description": "A warm outfit to wear when out for a stroll in the Frostval wonder land.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-snowstalker/PrismaticSnowStalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-snowstalker/PrismaticSnowStalkerF.png"
+    ],
+    "hash": "75987f605452f8e0b0e759e300319b86"
+}

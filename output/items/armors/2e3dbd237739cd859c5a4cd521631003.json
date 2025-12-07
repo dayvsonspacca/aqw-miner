@@ -1,0 +1,16 @@
+{
+    "urlName": "moon-lab-scientist",
+    "url": "http://aqwwiki.wikidot.com/moon-lab-scientist",
+    "name": "Moon Lab Scientist",
+    "type": "armors",
+    "description": "Dangerous experiments? Bio infections? Not your typical day at the lab unless you're on the moon!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/ENpme2x.png",
+        "https://i.imgur.com/VEwBAaM.png"
+    ],
+    "hash": "2e3dbd237739cd859c5a4cd521631003"
+}

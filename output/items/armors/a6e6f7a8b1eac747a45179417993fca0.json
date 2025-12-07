@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-diplomat",
+    "url": "http://aqwwiki.wikidot.com/skyguard-diplomat",
+    "name": "SkyGuard Diplomat",
+    "type": "armors",
+    "description": "\"Speak the language when spoken to, but listen above all else\", These are the words that the Skyguard Diplomats live by. These specially trained men and women represent the Skyguard forces at political.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/sXSSqbi.png",
+        "https://i.imgur.com/slesURq.png"
+    ],
+    "hash": "a6e6f7a8b1eac747a45179417993fca0"
+}

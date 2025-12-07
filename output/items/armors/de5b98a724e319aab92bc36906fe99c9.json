@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-seer",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-seer",
+    "name": "ShadowScythe Seer",
+    "type": "armors",
+    "description": "The ShadowScythe Seer uses their powers only for evil, to ensure that Gravelyn's Empire remains unbroken.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/X2AQHIZ.png",
+        "https://i.imgur.com/px8VSPz.png"
+    ],
+    "hash": "de5b98a724e319aab92bc36906fe99c9"
+}

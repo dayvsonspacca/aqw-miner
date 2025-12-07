@@ -1,0 +1,16 @@
+{
+    "urlName": "doomknight-armor",
+    "url": "http://aqwwiki.wikidot.com/doomknight-armor",
+    "name": "DoomKnight Armor",
+    "type": "armors",
+    "description": "The Doomknight shows little sympathy for the living. Not even death could stop your destructive rampage (Requires Rank 10 Evil)",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/vCPX2J9.png",
+        "https://i.imgur.com/cnugtZd.png"
+    ],
+    "hash": "465774b6aa39f33fdde1e8344fc5a0ce"
+}

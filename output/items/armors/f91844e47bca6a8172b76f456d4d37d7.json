@@ -1,0 +1,17 @@
+{
+    "urlName": "starry-swimwear-ac",
+    "url": "http://aqwwiki.wikidot.com/starry-swimwear-ac",
+    "name": "Starry Swimwear (AC)",
+    "type": "armors",
+    "description": "As you stare across the water, stars reflect on its surface, an ocean of diamond-like points of light. This suit lets you capture the magic of that moment.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/HZ5OMGg.png",
+        "https://i.imgur.com/iCwC9Yy.png"
+    ],
+    "hash": "f91844e47bca6a8172b76f456d4d37d7"
+}

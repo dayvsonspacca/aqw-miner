@@ -1,0 +1,17 @@
+{
+    "urlName": "arcane-pirate-captain",
+    "url": "http://aqwwiki.wikidot.com/arcane-pirate-captain",
+    "name": "Arcane Pirate Captain",
+    "type": "armors",
+    "description": "Some pirates tend to use a little or a lot of mana, allowing them to be aligned to the mana plane. These types of pirates prefer the night because of their need to watch the stars to stay connected to that realm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/arcane-pirate-captain/ArcanePirateCaptainM.png",
+        "http://aqwwiki.wdfiles.com/local--files/arcane-pirate-captain/ArcanePirateCaptainF.png"
+    ],
+    "hash": "fe83b0569c0a2aca4c451168df08fd86"
+}

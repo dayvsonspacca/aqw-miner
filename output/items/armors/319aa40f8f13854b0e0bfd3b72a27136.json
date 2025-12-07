@@ -1,0 +1,16 @@
+{
+    "urlName": "corpo-seco-armor",
+    "url": "http://aqwwiki.wikidot.com/corpo-seco-armor",
+    "name": "Corpo-Seco (Armor)",
+    "type": "armors",
+    "description": "A man so evil that the earth would not rot its flesh and the devil would return his soul. Condemned to wander fruitlessly the earth until the judgment day.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/R7ctQM9.png",
+        "https://i.imgur.com/nz59wwZ.png"
+    ],
+    "hash": "319aa40f8f13854b0e0bfd3b72a27136"
+}

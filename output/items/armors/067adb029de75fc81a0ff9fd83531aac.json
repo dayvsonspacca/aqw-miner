@@ -1,0 +1,16 @@
+{
+    "urlName": "prisma-ram-raider",
+    "url": "http://aqwwiki.wikidot.com/prisma-ram-raider",
+    "name": "Prisma Ram Raider",
+    "type": "armors",
+    "description": "The rage of beasts that once lived as cattle, mindlessly festered in the echoing chasms of the abyss. The raider's armor was imbued with these souls, and cruel horns sprouted from steel. (CC to Base)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/yg7fGC6.png"
+    ],
+    "hash": "067adb029de75fc81a0ff9fd83531aac"
+}

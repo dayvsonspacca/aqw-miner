@@ -1,0 +1,17 @@
+{
+    "urlName": "court-of-huangdi",
+    "url": "http://aqwwiki.wikidot.com/court-of-huangdi",
+    "name": "Court of Huangdi",
+    "type": "armors",
+    "description": "Proper dress for the imperial court of the Water Serpent Emperor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/court-of-huangdi/CourtofHuangdiMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/court-of-huangdi/CourtofHuangdiFemale.png"
+    ],
+    "hash": "5bc522b7dc58c533ff3e4225ca1774a5"
+}

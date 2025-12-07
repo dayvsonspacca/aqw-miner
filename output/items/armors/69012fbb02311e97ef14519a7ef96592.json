@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowslayer-s-apprentice",
+    "url": "http://aqwwiki.wikidot.com/shadowslayer-s-apprentice",
+    "name": "ShadowSlayer's Apprentice",
+    "type": "armors",
+    "description": "You've proven to ShadowSlayer K that you have the skill and tenacity to become a ShadowSlayer's Apprentice. Maybe one day you will be a full ShadowSlayer.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/xhLfXyZ.png",
+        "https://i.imgur.com/gYAQ8MZ.png"
+    ],
+    "hash": "69012fbb02311e97ef14519a7ef96592"
+}

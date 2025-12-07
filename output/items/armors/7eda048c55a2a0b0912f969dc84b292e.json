@@ -1,0 +1,17 @@
+{
+    "urlName": "guardian-of-energy-armor",
+    "url": "http://aqwwiki.wikidot.com/guardian-of-energy-armor",
+    "name": "Guardian of Energy (Armor)",
+    "type": "armors",
+    "description": "Mortals drawn to the Plane of Energy can tap into its power at will. The most skilled may become a Guardian of Energy, and serve only their Plane's Champion.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/uvqF4b8.png",
+        "https://i.imgur.com/mVktFzS.png"
+    ],
+    "hash": "7eda048c55a2a0b0912f969dc84b292e"
+}

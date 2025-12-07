@@ -1,0 +1,16 @@
+{
+    "urlName": "classic-pirate-armor",
+    "url": "http://aqwwiki.wikidot.com/classic-pirate-armor",
+    "name": "Classic Pirate (Armor)",
+    "type": "armors",
+    "description": "Yarrr! Avast me hearty, this be not an armor for ye lily-livered land lubbers.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/77cDEEA.png",
+        "http://imgur.com/Bl4MMcF.png"
+    ],
+    "hash": "4d830d232e8aadc9a74438577b4dc991"
+}

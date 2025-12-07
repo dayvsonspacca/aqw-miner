@@ -1,0 +1,19 @@
+{
+    "urlName": "chronomancer-paladin",
+    "url": "http://aqwwiki.wikidot.com/chronomancer-paladin",
+    "name": "Chronomancer Paladin",
+    "type": "armors",
+    "description": "The power of Time powers these Chronomancers as they travel the length and breadth of Lore, always searching for those in need.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/SPswYwp.png",
+        "https://i.imgur.com/mMxIfDu.png",
+        "https://i.imgur.com/kQSq7Vd.png",
+        "https://i.imgur.com/dAcfmSI.png"
+    ],
+    "hash": "cf8d416c6e5aa29cf3a26d9dc9de03cb"
+}

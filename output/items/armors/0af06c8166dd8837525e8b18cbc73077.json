@@ -1,0 +1,19 @@
+{
+    "urlName": "blademaster-armor",
+    "url": "http://aqwwiki.wikidot.com/blademaster-armor",
+    "name": "Undead BladeMaster",
+    "type": "armors",
+    "description": "The armor of the wickedly dangerous BladeMaster.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blademaster-armor/BAMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/blademaster-armor/BAMA.png",
+        "http://aqwwiki.wdfiles.com/local--files/blademaster-armor/BAFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/blademaster-armor/BAFA.png"
+    ],
+    "hash": "0af06c8166dd8837525e8b18cbc73077"
+}

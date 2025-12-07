@@ -1,0 +1,18 @@
+{
+    "urlName": "frostborne-luminary",
+    "url": "http://aqwwiki.wikidot.com/frostborne-luminary",
+    "name": "Frostborne Luminary",
+    "type": "armors",
+    "description": "As a final parting shot, an Ice Dragon permanently scarred the Dragonslayer who slew it. Cold breath froze their blood, but the warriors took it in stride. Reborn in frost, the were gifted with the ability to trhive in the permafrost.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yCbYDu9.png",
+        "https://i.imgur.com/2GAZ36S.png"
+    ],
+    "hash": "ea88fd5c0000325f223c35129f654247"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "corpse-knight",
+    "url": "http://aqwwiki.wikidot.com/corpse-knight",
+    "name": "Corpse Knight",
+    "type": "armors",
+    "description": "Corpse Knights wander the forest of DoomWood defeating opponents in mortal combat then adding to their armor using the bones of the fallen.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/corpse-knight/CorpseKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/corpse-knight/CorpseKnightF.png"
+    ],
+    "hash": "26a5ee19651bd9aac002b85c6532c767"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowfall-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowfall-commander-armor",
+    "name": "Shadowfall Commander (Armor)",
+    "type": "armors",
+    "description": "Empress Gravelyn has awarded you the title of Shadowfall Commander as a thank you for your loyalty and bravery!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowfall-commander-armor/ShadowfallCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowfall-commander-armor/ShadowfallCommanderF.png"
+    ],
+    "hash": "c6b7bcbde4bd5794ec0f6d205a37a18d"
+}

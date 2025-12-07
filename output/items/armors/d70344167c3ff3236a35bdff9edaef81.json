@@ -1,0 +1,17 @@
+{
+    "urlName": "asgardian-knight-ac",
+    "url": "http://aqwwiki.wikidot.com/asgardian-knight-ac",
+    "name": "Asgardian Knight (AC)",
+    "type": "armors",
+    "description": "Asgardians are capable of drawing power from auroras, allowing them to light their way through the moonless Frostvals.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1sKGAFt.png",
+        "https://i.imgur.com/errYJLH.png"
+    ],
+    "hash": "d70344167c3ff3236a35bdff9edaef81"
+}

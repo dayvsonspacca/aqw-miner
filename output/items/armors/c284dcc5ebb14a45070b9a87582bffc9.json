@@ -1,0 +1,17 @@
+{
+    "urlName": "cyclops-rock-armor",
+    "url": "http://aqwwiki.wikidot.com/cyclops-rock-armor",
+    "name": "Cyclops Rock Armor",
+    "type": "armors",
+    "description": "You just stare with your one glass eye, knowing those monsters won't be back again. There's a whole new generations of villains, waiting to be wrecked by you.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cyclops-rock-armor/CyclopsRockArmor.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyclops-rock-armor/CyclopsRockArmorF.png"
+    ],
+    "hash": "c284dcc5ebb14a45070b9a87582bffc9"
+}

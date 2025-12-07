@@ -1,0 +1,17 @@
+{
+    "urlName": "gothic-pirate-captain",
+    "url": "http://aqwwiki.wikidot.com/gothic-pirate-captain",
+    "name": "Gothic Pirate Captain",
+    "type": "armors",
+    "description": "Avast ye lubbers and gangway for the Gothic Pirate Captain. If ye don't be steppin' aside\u2026 ye'll become fish bait. Aye, that be a sailor's promise.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/410qyYq.png",
+        "http://aqwwiki.wdfiles.com/local--files/gothic-pirate-captain/GothicPirateCaptainM.png"
+    ],
+    "hash": "fc7e9488731e1903b18d63c9d32f2a51"
+}

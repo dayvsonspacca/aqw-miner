@@ -1,0 +1,17 @@
+{
+    "urlName": "mortal-executioner",
+    "url": "http://aqwwiki.wikidot.com/mortal-executioner",
+    "name": "Mortal Executioner",
+    "type": "armors",
+    "description": "What cannot be bound or conquered must be destroyed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MMW6lcW.png",
+        "https://i.imgur.com/3ccnuuy.png"
+    ],
+    "hash": "5964ea554bfa16624b3f832d5f68f7e0"
+}

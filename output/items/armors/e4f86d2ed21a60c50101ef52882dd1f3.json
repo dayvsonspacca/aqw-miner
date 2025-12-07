@@ -1,0 +1,16 @@
+{
+    "urlName": "darkblood-zealot",
+    "url": "http://aqwwiki.wikidot.com/darkblood-zealot",
+    "name": "Darkblood Zealot",
+    "type": "armors",
+    "description": "Those who pledge themselves to Kolyaban, the first Darkblood.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/nDI6OXE.png",
+        "http://i.imgur.com/sPy8bZ6.png"
+    ],
+    "hash": "e4f86d2ed21a60c50101ef52882dd1f3"
+}

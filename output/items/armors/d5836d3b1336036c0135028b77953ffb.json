@@ -1,0 +1,19 @@
+{
+    "urlName": "cyber-straightjacket",
+    "url": "http://aqwwiki.wikidot.com/cyber-straightjacket",
+    "name": "Cyber Straightjacket",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cyber-straightjacket/CyberStraightjacketMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-straightjacket/CyberStraightjacketMWCO.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-straightjacket/CyberStraightjacketFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-straightjacket/CyberStraightjacketFWCO.png"
+    ],
+    "hash": "d5836d3b1336036c0135028b77953ffb"
+}

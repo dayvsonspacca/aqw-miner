@@ -1,0 +1,17 @@
+{
+    "urlName": "pyroclastic-necromancer-ac",
+    "url": "http://aqwwiki.wikidot.com/pyroclastic-necromancer-ac",
+    "name": "Pyroclastic Necromancer (AC)",
+    "type": "armors",
+    "description": "Pyroclastic necromancers walk where the faint-hearted fear to tread, seeking undead minions among those who've perished in the hearts of volcanic lands.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/PRPbqer.png",
+        "https://i.imgur.com/ivwnKx6.png"
+    ],
+    "hash": "5b35fae145c6af148781e88610fc3ec4"
+}

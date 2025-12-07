@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-cloud-rider",
+    "url": "http://aqwwiki.wikidot.com/prismatic-cloud-rider",
+    "name": "Prismatic Cloud Rider",
+    "type": "armors",
+    "description": "A type of wind ninja that is on cloud nine. Why are they so happy? Sneak attacks from the sky give them the full advantage of the element of surprise too.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-cloud-rider/PrismaticCloudRiderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-cloud-rider/PrismaticCloudRiderF.png"
+    ],
+    "hash": "4fa14bad806cdac2a105bb53d8be3b66"
+}

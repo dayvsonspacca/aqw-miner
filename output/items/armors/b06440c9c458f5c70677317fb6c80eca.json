@@ -1,0 +1,16 @@
+{
+    "urlName": "love-knight-armor",
+    "url": "http://aqwwiki.wikidot.com/love-knight-armor",
+    "name": "Love Knight (Armor)",
+    "type": "armors",
+    "description": "Have fun storming the castle!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TZqXnKk.png",
+        "https://i.imgur.com/7HRuAQA.png"
+    ],
+    "hash": "b06440c9c458f5c70677317fb6c80eca"
+}

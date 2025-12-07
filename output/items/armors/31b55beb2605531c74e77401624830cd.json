@@ -1,0 +1,16 @@
+{
+    "urlName": "tumpeng-armor",
+    "url": "http://aqwwiki.wikidot.com/tumpeng-armor",
+    "name": "Tumpeng Armor",
+    "type": "armors",
+    "description": "A traditional savory dish widely served during ceremonies and celebrations, characterized by its yellow rice and a wide variety of foods included in it. Now you can wear it like the Palatable Paladin that you are!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/zJCiTxm.png",
+        "https://i.imgur.com/OwVhIy9.png"
+    ],
+    "hash": "31b55beb2605531c74e77401624830cd"
+}

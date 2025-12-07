@@ -1,0 +1,17 @@
+{
+    "urlName": "colorless-pumpkin-armor",
+    "url": "http://aqwwiki.wikidot.com/colorless-pumpkin-armor",
+    "name": "Colorless Pumpkin Armor",
+    "type": "armors",
+    "description": "This is Mogloween, Pumpking screams in the dead of the night.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iej40Oa.png",
+        "https://i.imgur.com/fy2nIia.png"
+    ],
+    "hash": "b14affb29824076fab87abcd800c7c95"
+}

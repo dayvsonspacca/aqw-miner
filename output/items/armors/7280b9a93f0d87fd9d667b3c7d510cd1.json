@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowslayer-leathers",
+    "url": "http://aqwwiki.wikidot.com/shadowslayer-leathers",
+    "name": "ShadowSlayer Leathers",
+    "type": "armors",
+    "description": "This tasteful armor combines locally-tanned leather with shadow-tempered steel, offering protection and stealth for those guarding the feast from lurking darkness.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/v1bW6Co.png",
+        "https://i.imgur.com/PZefTlf.png"
+    ],
+    "hash": "7280b9a93f0d87fd9d667b3c7d510cd1"
+}

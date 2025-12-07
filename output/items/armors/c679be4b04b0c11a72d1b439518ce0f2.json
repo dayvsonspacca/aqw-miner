@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonbone-necromancer",
+    "url": "http://aqwwiki.wikidot.com/dragonbone-necromancer",
+    "name": "Dragonbone Necromancer",
+    "type": "armors",
+    "description": "Hiding in the darkness, murmuring spells, these Necromancers combine their power with the souls of Dragons. Truly a force to be reckoned with.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragonbone-necromancer/DragonboneNecromancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragonbone-necromancer/DragonboneNecromancerF.png"
+    ],
+    "hash": "c679be4b04b0c11a72d1b439518ce0f2"
+}

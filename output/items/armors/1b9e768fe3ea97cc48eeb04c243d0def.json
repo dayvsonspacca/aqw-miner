@@ -1,0 +1,16 @@
+{
+    "urlName": "swiftshift-knight",
+    "url": "http://aqwwiki.wikidot.com/swiftshift-knight",
+    "name": "SwiftShift Knight",
+    "type": "armors",
+    "description": "Don this fashionable armor and protect your allies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/OBodk9x.png",
+        "https://i.imgur.com/vdNtBef.png"
+    ],
+    "hash": "1b9e768fe3ea97cc48eeb04c243d0def"
+}

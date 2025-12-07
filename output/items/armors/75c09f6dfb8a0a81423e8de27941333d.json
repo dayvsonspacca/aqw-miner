@@ -1,0 +1,17 @@
+{
+    "urlName": "death-dealer",
+    "url": "http://aqwwiki.wikidot.com/death-dealer",
+    "name": "Death Dealer",
+    "type": "armors",
+    "description": "In your deck, death is always a wild card.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/death-dealer/DeathDealerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/death-dealer/DeathDealerFemale.png"
+    ],
+    "hash": "75c09f6dfb8a0a81423e8de27941333d"
+}

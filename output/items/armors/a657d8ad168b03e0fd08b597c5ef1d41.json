@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-blademaster",
+    "url": "http://aqwwiki.wikidot.com/frost-blademaster",
+    "name": "Frost Blademaster",
+    "type": "armors",
+    "description": "When the winds of winter whistle through the halls of Akiba, it is the Frost Blademasters that Empress Miko calls upon to keep her people warm and safe.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/oj4dKJ9.png",
+        "https://i.imgur.com/gFRtHhb.png"
+    ],
+    "hash": "a657d8ad168b03e0fd08b597c5ef1d41"
+}

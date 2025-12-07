@@ -1,0 +1,14 @@
+{
+    "urlName": "corrupted-druid-armor",
+    "url": "http://aqwwiki.wikidot.com/corrupted-druid-armor",
+    "name": "Corrupted Druid Armor",
+    "type": "armors",
+    "description": "These Druids once served Brightoak, but now they've been corrupted and wish to see it's destruction.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/fsHzenP.png",
+        "http://i.imgur.com/MEMhEn2.png"
+    ],
+    "hash": "3e2a30ef0b8450290c3427623bf4fa67"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "blue-unicorn-crooner",
+    "url": "http://aqwwiki.wikidot.com/blue-unicorn-crooner",
+    "name": "Blue Unicorn Crooner",
+    "type": "armors",
+    "description": "You are the fanciest Unicorn Crooner!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/o9FJExp.png",
+        "http://aqwwiki.wdfiles.com/local--files/blue-unicorn-crooner/BlueUnicornCroonerFemale.png"
+    ],
+    "hash": "9e7c14777b9e9d5b33733535bb27597a"
+}

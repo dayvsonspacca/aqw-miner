@@ -1,0 +1,17 @@
+{
+    "urlName": "frostfur-claws",
+    "url": "http://aqwwiki.wikidot.com/frostfur-claws",
+    "name": "Frostfur Claws",
+    "type": "armors",
+    "description": "He sees you when you're frozen, he knows when you have thawed, he brings you gifts and cheer and gear, so much that you'll be awed!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WrMYSe2.png",
+        "https://i.imgur.com/6qmBk2P.png"
+    ],
+    "hash": "b8383a3f3eafb69427819c7a4a4487e1"
+}

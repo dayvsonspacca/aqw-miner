@@ -1,0 +1,18 @@
+{
+    "urlName": "pumpkin-lord-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-lord-armor-ac",
+    "name": "Pumpkin Lord Armor (AC)",
+    "type": "armors",
+    "description": "The Great Pumpkin Lord Armor! Happy Mogloween!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/rR5CfoS.png",
+        "https://i.imgur.com/gvRzYhD.png"
+    ],
+    "hash": "c00c8af268e489a970599b9d14992b75"
+}

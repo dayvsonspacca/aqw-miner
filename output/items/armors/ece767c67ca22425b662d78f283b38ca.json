@@ -1,0 +1,16 @@
+{
+    "urlName": "evolved-paragon-armor",
+    "url": "http://aqwwiki.wikidot.com/evolved-paragon-armor",
+    "name": "Evolved Paragon (Armor)",
+    "type": "armors",
+    "description": "The Paragon is back and more brutal than ever!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-paragon-armor/EvolvedParagon.jpg"
+    ],
+    "hash": "ece767c67ca22425b662d78f283b38ca"
+}

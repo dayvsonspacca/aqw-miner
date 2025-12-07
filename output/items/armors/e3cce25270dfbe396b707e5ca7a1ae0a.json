@@ -1,0 +1,18 @@
+{
+    "urlName": "doomknight-mech-guard",
+    "url": "http://aqwwiki.wikidot.com/doomknight-mech-guard",
+    "name": "DoomKnight Mech Guard",
+    "type": "armors",
+    "description": "Every mech requires guards to prevent sabotage (and DOOM) from enemies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/TeL6MMY.png",
+        "https://i.imgur.com/hOzkNJI.png",
+        "https://i.imgur.com/SVjDb3O.png"
+    ],
+    "hash": "e3cce25270dfbe396b707e5ca7a1ae0a"
+}

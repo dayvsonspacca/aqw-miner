@@ -1,0 +1,16 @@
+{
+    "urlName": "atlas-light-mage-armor",
+    "url": "http://aqwwiki.wikidot.com/atlas-light-mage-armor",
+    "name": "Atlas Light Mage (Armor)",
+    "type": "armors",
+    "description": "The scholars of Atlas were given all the time they needed to master their craft. Spells and potions that would have needed generations to refine were perfected in the hands of the original dreamer.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Bt1ZjUq.png",
+        "https://i.imgur.com/LYZ3WD9.png"
+    ],
+    "hash": "0972cf09679096ef01ac57a7d5296c55"
+}

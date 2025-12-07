@@ -1,0 +1,14 @@
+{
+    "urlName": "sky-pirate",
+    "url": "http://aqwwiki.wikidot.com/sky-pirate",
+    "name": "Sky Pirate",
+    "type": "armors",
+    "description": "Plundering the skies requires a slightly different sort of pirate gear.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/vWc9BBo.png",
+        "http://i.imgur.com/2ZLxxvy.png"
+    ],
+    "hash": "8f57eb98c4628ac62b60d563084fb856"
+}

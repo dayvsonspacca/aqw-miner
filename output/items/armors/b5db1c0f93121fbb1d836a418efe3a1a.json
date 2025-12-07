@@ -1,0 +1,17 @@
+{
+    "urlName": "shinobi-senshi-ac",
+    "url": "http://aqwwiki.wikidot.com/shinobi-senshi-ac",
+    "name": "Shinobi Senshi (AC)",
+    "type": "armors",
+    "description": "Ninjas have evolved! The Shinobi Senshi are an elite sect of ninja warriors who are known \u2014 and feared \u2014 for their unmatched stealth and speed combined with their brutal battle tactics.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shinobi-senshi-ac/ShinobiSenshiM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shinobi-senshi-ac/ShinobiSenshiF.png"
+    ],
+    "hash": "b5db1c0f93121fbb1d836a418efe3a1a"
+}

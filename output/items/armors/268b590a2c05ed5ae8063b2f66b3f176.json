@@ -1,0 +1,16 @@
+{
+    "urlName": "forsaken-wraith",
+    "url": "http://aqwwiki.wikidot.com/forsaken-wraith",
+    "name": "Forsaken Wraith",
+    "type": "armors",
+    "description": "This wraith wanders through the shadows of the Underworld, perpetually seeking those who abandoned them in their hour of need.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/nvyOoJR.png",
+        "https://i.imgur.com/M4iZLk3.png"
+    ],
+    "hash": "268b590a2c05ed5ae8063b2f66b3f176"
+}

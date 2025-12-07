@@ -1,0 +1,16 @@
+{
+    "urlName": "archfiend-doomlord",
+    "url": "http://aqwwiki.wikidot.com/archfiend-doomlord",
+    "name": "ArchFiend DoomLord",
+    "type": "armors",
+    "description": "Not even the dark magic of the Shadowscythe is enough to satisfy this soul's lust for power. This item does 35% more damage to any monster, and gives 25% more class points, XP, gold, and rep when equipped.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/nWZnWyR.png",
+        "http://i.imgur.com/BNUaEv7.png"
+    ],
+    "hash": "5285c57e43f300f343b6c273938bb5e2"
+}

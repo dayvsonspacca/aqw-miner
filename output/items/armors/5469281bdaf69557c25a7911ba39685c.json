@@ -1,0 +1,17 @@
+{
+    "urlName": "concert-glow-armor",
+    "url": "http://aqwwiki.wikidot.com/concert-glow-armor",
+    "name": "Concert Glow Armor",
+    "type": "armors",
+    "description": "Ripped jeans, check. Chains, check. Wristband, check. Glowsticks, check. Ready for the concert? CHECK!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/LboCfbN.png",
+        "https://i.imgur.com/E6OTa3s.png"
+    ],
+    "hash": "5469281bdaf69557c25a7911ba39685c"
+}

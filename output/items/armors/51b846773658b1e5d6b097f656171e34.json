@@ -1,0 +1,16 @@
+{
+    "urlName": "spirithunter-armor",
+    "url": "http://aqwwiki.wikidot.com/spirithunter-armor",
+    "name": "SpiritHunter Armor",
+    "type": "armors",
+    "description": "Purely physical armor gives no protection against sprirts. That's why this armor has psychoplasmic spells of anti-attack woven into the material. Wear it well as you send spirits home!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/D5QkpvY.png",
+        "https://i.imgur.com/aiABKRq.png"
+    ],
+    "hash": "51b846773658b1e5d6b097f656171e34"
+}

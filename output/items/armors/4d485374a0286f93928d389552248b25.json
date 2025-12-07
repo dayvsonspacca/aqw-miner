@@ -1,0 +1,18 @@
+{
+    "urlName": "chrono-dragonknight-armor",
+    "url": "http://aqwwiki.wikidot.com/chrono-dragonknight-armor",
+    "name": "Chrono DragonKnight (Armor)",
+    "type": "armors",
+    "description": "The power of a DragonKnight combined with steampunk technology? Look out Lore, here comes awesome.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chrono-dragonknight-armor/ChronoDragonknightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/chrono-dragonknight-armor/ChronoDragonknightF.png"
+    ],
+    "hash": "4d485374a0286f93928d389552248b25"
+}

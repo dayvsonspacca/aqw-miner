@@ -1,0 +1,17 @@
+{
+    "urlName": "duality-pirate-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/duality-pirate-captain-ac",
+    "name": "Duality Pirate Captain (AC)",
+    "type": "armors",
+    "description": "A pirates good or evil? Depends on who you ask, and how recently they were looted and/or pillaged!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/bY92Oib.png",
+        "https://i.imgur.com/IjTB24k.png"
+    ],
+    "hash": "d15b86ec840a0e592617c537e7a38260"
+}

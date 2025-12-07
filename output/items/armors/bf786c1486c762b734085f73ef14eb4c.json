@@ -1,0 +1,16 @@
+{
+    "urlName": "summer-style",
+    "url": "http://aqwwiki.wikidot.com/summer-style",
+    "name": "Summer Style",
+    "type": "armors",
+    "description": "Dudes! Hang 10 in these gnarly suits and catch some waves!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YpksFOG.png",
+        "https://i.imgur.com/fE31Vvc.png"
+    ],
+    "hash": "bf786c1486c762b734085f73ef14eb4c"
+}

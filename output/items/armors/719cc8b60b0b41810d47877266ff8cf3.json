@@ -1,0 +1,17 @@
+{
+    "urlName": "dread-leopard-gryphon",
+    "url": "http://aqwwiki.wikidot.com/dread-leopard-gryphon",
+    "name": "Dread Leopard Gryphon",
+    "type": "armors",
+    "description": "These majestic Gryphons are the perfect ride for any Hero on land or in the air.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dread-leopard-gryphon/DreadLeopardGryphonM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dread-leopard-gryphon/DreadLeopardGryphonF.png"
+    ],
+    "hash": "719cc8b60b0b41810d47877266ff8cf3"
+}

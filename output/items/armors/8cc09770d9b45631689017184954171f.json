@@ -1,0 +1,17 @@
+{
+    "urlName": "eventide-sorcerer",
+    "url": "http://aqwwiki.wikidot.com/eventide-sorcerer",
+    "name": "Eventide Sorcerer",
+    "type": "armors",
+    "description": "Moonflowers and magic that can only bloom in the dark of the night. Your mystical mastery is a hushed secret shared between months and datura.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TPL8von.png",
+        "https://i.imgur.com/MJkThZT.png"
+    ],
+    "hash": "8cc09770d9b45631689017184954171f"
+}

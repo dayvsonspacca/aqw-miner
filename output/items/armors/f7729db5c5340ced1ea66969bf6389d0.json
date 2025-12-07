@@ -1,0 +1,17 @@
+{
+    "urlName": "grim-yukata",
+    "url": "http://aqwwiki.wikidot.com/grim-yukata",
+    "name": "Grim Yukata",
+    "type": "armors",
+    "description": "The Empress' oracle has read your horoscope and declares: this will be a VERY dark and destructive year for you, no matter what sign you were born under.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5MJBPIZ.png",
+        "https://i.imgur.com/BYDPfan.png"
+    ],
+    "hash": "f7729db5c5340ced1ea66969bf6389d0"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "assassin-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/assassin-commander-ac",
+    "name": "Assassin Commander (AC)",
+    "type": "armors",
+    "description": "To eliminate the competition or figurehead, this leather getup must be prepared for inclement weather or blown covers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/assassin-commander-ac/AssassinCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/assassin-commander-ac/AssassinCommanderF.png"
+    ],
+    "hash": "99d9781d900cd996863d9c7a2ad056fe"
+}

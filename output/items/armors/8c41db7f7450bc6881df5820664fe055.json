@@ -1,0 +1,17 @@
+{
+    "urlName": "blood-hanzo-void-ac",
+    "url": "http://aqwwiki.wikidot.com/blood-hanzo-void-ac",
+    "name": "Blood Hanzo Void (AC)",
+    "type": "armors",
+    "description": "You are devoid of all emotion. You are death, bloody destruction. Go forth and serve your master.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-hanzo-void-ac/BloodHanzoVoidM.png",
+        "http://aqwwiki.wdfiles.com/local--files/blood-hanzo-void-ac/BloodHanzoVoidF.png"
+    ],
+    "hash": "8c41db7f7450bc6881df5820664fe055"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "cyber-dryad",
+    "url": "http://aqwwiki.wikidot.com/cyber-dryad",
+    "name": "Cyber Dryad",
+    "type": "armors",
+    "description": "This powerful Dryad is green with envy and is determined to become the top gladiator in the futuristic virtual reality.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cyber-dryad/CyberDryad.png"
+    ],
+    "hash": "b206a710533f65861d732f89a62eacc4"
+}

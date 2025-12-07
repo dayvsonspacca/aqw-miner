@@ -1,0 +1,20 @@
+{
+    "urlName": "stripeless-voidcaster",
+    "url": "http://aqwwiki.wikidot.com/stripeless-voidcaster",
+    "name": "Stripeless VoidCaster",
+    "type": "armors",
+    "description": "Those who sign Nulgath's contract gain access to the infinite wellspring of arcane energy contained within the void. Be warned, almost everyone who accepts this power find themselves consumed by it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/stripeless-voidcaster/StripelessVoidCasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/stripeless-voidcaster/StripelessVoidCasterMAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/stripeless-voidcaster/StripelessVoidCasterF.png",
+        "http://aqwwiki.wdfiles.com/local--files/stripeless-voidcaster/StripelessVoidCasterFAnim.png"
+    ],
+    "hash": "7cd25dc9a1d37818a69a2cffbdd1ac5a"
+}

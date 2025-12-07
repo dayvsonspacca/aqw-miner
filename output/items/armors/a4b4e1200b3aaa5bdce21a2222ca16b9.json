@@ -1,0 +1,18 @@
+{
+    "urlName": "loyalist-away-gear-legend",
+    "url": "http://aqwwiki.wikidot.com/loyalist-away-gear-legend",
+    "name": "Loyalist Away Gear (Legend)",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/HvNDXQc.png",
+        "http://i.imgur.com/FMYa52d.png",
+        "http://aqwwiki.wdfiles.com/local--files/loyalist-away-gear-legend/LoyalistAwayGearOld.png"
+    ],
+    "hash": "a4b4e1200b3aaa5bdce21a2222ca16b9"
+}

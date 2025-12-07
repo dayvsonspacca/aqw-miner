@@ -1,0 +1,16 @@
+{
+    "urlName": "cinderclaw-armor",
+    "url": "http://aqwwiki.wikidot.com/cinderclaw-armor",
+    "name": "Cinderclaw Armor",
+    "type": "armors",
+    "description": "You've tamed Cinderclaw and won his armor as a prize, does this mean you will swear alliance to the Mother of Monsters too?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cinderclaw-armor/CinderclawArmor.png"
+    ],
+    "hash": "aeb1046a50e15f82a4c2e35890527834"
+}

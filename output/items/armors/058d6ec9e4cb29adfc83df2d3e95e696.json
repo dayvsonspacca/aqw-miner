@@ -1,0 +1,17 @@
+{
+    "urlName": "uw3017-gunner-armor",
+    "url": "http://aqwwiki.wikidot.com/uw3017-gunner-armor",
+    "name": "Uw3017 Gunner (Armor)",
+    "type": "armors",
+    "description": "These part-undead, part-robot monstrosities are part of a task force created by Dage the Evil to hunt down and finish off dissidents in the Legion, including those that he currently wants, but could not have.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/BnHWWuT.png",
+        "https://i.imgur.com/sGMA2j3.png"
+    ],
+    "hash": "058d6ec9e4cb29adfc83df2d3e95e696"
+}

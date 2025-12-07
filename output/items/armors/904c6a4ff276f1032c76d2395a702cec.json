@@ -1,0 +1,17 @@
+{
+    "urlName": "luxtech-streamer",
+    "url": "http://aqwwiki.wikidot.com/luxtech-streamer",
+    "name": "LuxTech Streamer",
+    "type": "armors",
+    "description": "Wear this during your next Let's Play stream and your followers will love you! (And your subs will skyrocket.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/OHMBkQg.png",
+        "https://i.imgur.com/OLIDxbY.png"
+    ],
+    "hash": "904c6a4ff276f1032c76d2395a702cec"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "evolved-pumpkinlord-armor",
+    "url": "http://aqwwiki.wikidot.com/evolved-pumpkinlord-armor",
+    "name": "Evolved PumpkinLord Armor",
+    "type": "armors",
+    "description": "All souls cower beneath the harrowing might of the Evolved PumpkinLord.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/VnceCIX.png",
+        "http://i.imgur.com/pmGSWcz.png"
+    ],
+    "hash": "dcbc498addd9286b3420fe2a5d031faf"
+}

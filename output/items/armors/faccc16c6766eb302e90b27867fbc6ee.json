@@ -1,0 +1,16 @@
+{
+    "urlName": "turbulence",
+    "url": "http://aqwwiki.wikidot.com/turbulence",
+    "name": "Turbulence",
+    "type": "armors",
+    "description": "Take to the wild blue yonder (and accumulate those sky miles) in this jet set dreamed up by Ninjudo!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/OGCejvd.png",
+        "https://i.imgur.com/mQiPBh8.png"
+    ],
+    "hash": "faccc16c6766eb302e90b27867fbc6ee"
+}

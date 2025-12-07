@@ -1,0 +1,16 @@
+{
+    "urlName": "deepspace-cyborg",
+    "url": "http://aqwwiki.wikidot.com/deepspace-cyborg",
+    "name": "DeepSpace Cyborg",
+    "type": "armors",
+    "description": "Proud member of the Mighty Morphin Necro Rangers! (Item gives 20% more XP and Class Points when equipped.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deepspace-cyborg/DeepspaceCyborg.png"
+    ],
+    "hash": "34dc9ea2f7dd886ab37f91e47f486332"
+}

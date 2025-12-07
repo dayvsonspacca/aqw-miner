@@ -1,0 +1,17 @@
+{
+    "urlName": "boogieman-armor",
+    "url": "http://aqwwiki.wikidot.com/boogieman-armor",
+    "name": "BoogieMan Armor",
+    "type": "armors",
+    "description": "Out of the night, they come. Seeking the minds and hearts of children to young to know they shouldn't exist. They are the BoogieMen, preying on terror, drinking in fear. Beware.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/boogieman-armor/BoogiemanArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/boogieman-armor/BoogiemanArmorFemale.png"
+    ],
+    "hash": "2f048365fe00834851b4ac160c53867a"
+}

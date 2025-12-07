@@ -1,0 +1,19 @@
+{
+    "urlName": "summer-rave-a",
+    "url": "http://aqwwiki.wikidot.com/summer-rave-a",
+    "name": "Summer Rave A",
+    "type": "armors",
+    "description": "For all those nights dancing on the beach.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mTMUJfc.png",
+        "https://i.imgur.com/R3Rlayr.png",
+        "https://i.imgur.com/ZMuKlsO.png",
+        "https://i.imgur.com/uYIEDFl.png"
+    ],
+    "hash": "d9497801dffdc68327bf656e302bae93"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowspawn-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowspawn-warrior-armor",
+    "name": "Shadowspawn Warrior (Armor)",
+    "type": "armors",
+    "description": "Steal through the shadows to be the first to grab the loot\u2026 just make sure you earn it first!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowspawn-warrior-armor/ShadowspawnWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowspawn-warrior-armor/ShadowspawnWarriorF.png"
+    ],
+    "hash": "07ba799e0cf614233b3ffa0c58bc4977"
+}

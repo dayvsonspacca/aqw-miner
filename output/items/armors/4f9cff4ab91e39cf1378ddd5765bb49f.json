@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-maugs-slayer",
+    "url": "http://aqwwiki.wikidot.com/prismatic-maugs-slayer",
+    "name": "Prismatic Maugs Slayer",
+    "type": "armors",
+    "description": "The great beast has awakened\u2026 the dragon awaits! But one does not simply SLAY Maugs\u2026 one must defeat him honorably. This item is color-customizable.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-maugs-slayer/PMSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-maugs-slayer/PMSF.png"
+    ],
+    "hash": "4f9cff4ab91e39cf1378ddd5765bb49f"
+}

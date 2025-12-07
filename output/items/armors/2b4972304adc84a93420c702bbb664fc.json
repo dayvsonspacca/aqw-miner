@@ -1,0 +1,14 @@
+{
+    "urlName": "crafter-battlemage",
+    "url": "http://aqwwiki.wikidot.com/crafter-battlemage",
+    "name": "Crafter Battlemage",
+    "type": "armors",
+    "description": "Magic crafting is a core magic abillity since it is always helpful to apply magical properties to items. Need a stick a moglin to a wall? We have a spell for that.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/bhNGCSQ.png",
+        "http://i.imgur.com/P9VzAnH.png"
+    ],
+    "hash": "2b4972304adc84a93420c702bbb664fc"
+}

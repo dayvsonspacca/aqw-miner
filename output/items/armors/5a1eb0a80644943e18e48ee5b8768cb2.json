@@ -1,0 +1,14 @@
+{
+    "urlName": "dungeon-master",
+    "url": "http://aqwwiki.wikidot.com/dungeon-master",
+    "name": "Dungeon Master",
+    "type": "armors",
+    "description": "Covered in spikes, sharp edges and hooks, the Dungeon Master's armor is a weapon itself.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/mkdRkJ1.png",
+        "http://i.imgur.com/MZS6jQJ.png"
+    ],
+    "hash": "5a1eb0a80644943e18e48ee5b8768cb2"
+}

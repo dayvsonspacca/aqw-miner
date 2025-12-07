@@ -1,0 +1,18 @@
+{
+    "urlName": "gothika-vogue",
+    "url": "http://aqwwiki.wikidot.com/gothika-vogue",
+    "name": "Gothika Vogue",
+    "type": "armors",
+    "description": "OH MY GOTH! We're undead! Undeader than dead!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/ERkHKBw.png",
+        "http://aqwwiki.wdfiles.com/local--files/gothika-vogue/GothikaVogueM.png",
+        "http://aqwwiki.wdfiles.com/local--files/gothika-vogue/GothikaVogueF.png"
+    ],
+    "hash": "6faea46de881f401adc38702c38ead84"
+}

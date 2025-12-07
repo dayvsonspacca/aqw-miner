@@ -1,0 +1,18 @@
+{
+    "urlName": "assassin-of-resolution",
+    "url": "http://aqwwiki.wikidot.com/assassin-of-resolution",
+    "name": "Assassin of Resolution",
+    "type": "armors",
+    "description": "Like the Paladins of Resolution, this sect of assassins are dedicated to upholding New Year's resolutions through their mastery of stealth and speed!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/LbwShUH.png",
+        "http://i.imgur.com/HqZxF5f.png"
+    ],
+    "hash": "a2d3665bc9b8e362ce7ce4867fd4c4b2"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "cursed-collector",
+    "url": "http://aqwwiki.wikidot.com/cursed-collector",
+    "name": "Cursed Collector",
+    "type": "armors",
+    "description": "The more you seek something the more it'll consume you until you gone so far you're not even recognizable anymore.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/jUgvrPR.png",
+        "http://i.imgur.com/4wKnVOy.png",
+        "https://i.imgur.com/8yzuR1Q.png",
+        "http://i.imgur.com/LoNFaxy.png"
+    ],
+    "hash": "43bde62152d8f8814651db1e4f14bd9d"
+}

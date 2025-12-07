@@ -1,0 +1,16 @@
+{
+    "urlName": "evaderorc-armor",
+    "url": "http://aqwwiki.wikidot.com/evaderorc-armor",
+    "name": "EvaderOrc Armor",
+    "type": "armors",
+    "description": "Pay homage to the horcs have trained you in the arts of evasion.",
+    "rarity": "Awesome rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/5VUrCK0.png",
+        "http://i.imgur.com/HUfhBBI.png"
+    ],
+    "hash": "a85bd0b5f3fc08fb9cc76f15c6408b48"
+}

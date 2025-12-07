@@ -1,0 +1,16 @@
+{
+    "urlName": "spooky-kid",
+    "url": "http://aqwwiki.wikidot.com/spooky-kid",
+    "name": "Spooky Kid",
+    "type": "armors",
+    "description": "*Spooky music plays as fog creeps over the playground* O_O",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/oIML38K.png",
+        "https://i.imgur.com/Ef3G4yi.png"
+    ],
+    "hash": "22e5f17ce6a6a887ce00d0dff8a886b4"
+}

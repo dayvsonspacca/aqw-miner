@@ -1,0 +1,27 @@
+{
+    "urlName": "dungeon-destroyer-ac",
+    "url": "http://aqwwiki.wikidot.com/dungeon-destroyer-ac",
+    "name": "Dungeon Destroyer (AC)",
+    "type": "armors",
+    "description": "No dungeon can hold a hero as mighty as you! Just be careful you do not get stonedust in your eyes as you blast your way through the blocks and bricks.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Ra4miBB.png",
+        "http://i.imgur.com/oRHfPMp.png",
+        "https://i.imgur.com/8UuZh15.png",
+        "http://i.imgur.com/jLrBb8k.png",
+        "https://i.imgur.com/aXt8hBv.png",
+        "https://i.imgur.com/Rmq1vwI.png",
+        "http://aqwwiki.wdfiles.com/local--files/dungeon-destroyer-ac/DungeonDestroyerOldM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dungeon-destroyer-ac/DungeonDestroyerOlderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dungeon-destroyer-ac/DungeonDestroyerOldMAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/dungeon-destroyer-ac/DungeonDestroyerOlderMAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/dungeon-destroyer-ac/DungeonDestroyerOldF.png",
+        "http://aqwwiki.wdfiles.com/local--files/dungeon-destroyer-ac/DungeonDestroyerOldFAnim.png"
+    ],
+    "hash": "c425859f130fe436a9a54bc882ba6411"
+}

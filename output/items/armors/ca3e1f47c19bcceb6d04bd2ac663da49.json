@@ -1,0 +1,16 @@
+{
+    "urlName": "shinobi-x",
+    "url": "http://aqwwiki.wikidot.com/shinobi-x",
+    "name": "Shinobi X",
+    "type": "armors",
+    "description": "Elite Ninja warriors wear raiment that allows them to move freely in any direction - so you never know from where they will attack!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/S9iYUnF.png",
+        "https://i.imgur.com/cyiSBfv.png"
+    ],
+    "hash": "ca3e1f47c19bcceb6d04bd2ac663da49"
+}

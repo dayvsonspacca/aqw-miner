@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonrune-spellsmith-ac",
+    "url": "http://aqwwiki.wikidot.com/dragonrune-spellsmith-ac",
+    "name": "DragonRune SpellSmith (AC)",
+    "type": "armors",
+    "description": "It takes deep concentration to harness the elements used to make the weapons for a SpellSmith, do you have what it takes?",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/dXszyND.png",
+        "https://imgur.com/QVBOyuq.png",
+        "https://imgur.com/BBYMCoK.png"
+    ],
+    "hash": "bdf22c1a5ab54e7188918b1757b9dfa7"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dragonslayer-loremaster",
+    "url": "http://aqwwiki.wikidot.com/dragonslayer-loremaster",
+    "name": "Dragonslayer LoreMaster",
+    "type": "armors",
+    "description": "These LoreMaster's study everything on dragons so slayers will have all the necessary means to defeat them.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/jIG7qdK.png",
+        "https://i.imgur.com/T9AS2Zl.png"
+    ],
+    "hash": "5a0ee8b1be1c9130a4cb6dccd539842e"
+}

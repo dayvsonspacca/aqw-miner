@@ -1,0 +1,17 @@
+{
+    "urlName": "archfiend-genisis",
+    "url": "http://aqwwiki.wikidot.com/archfiend-genisis",
+    "name": "Archfiend Genisis",
+    "type": "armors",
+    "description": "Nulgath does not need time machines to exterminate his opponents. He can take them out before they are even born.",
+    "rarity": "Impossible Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-genisis/ArchfiendGenisisM.png",
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-genisis/ArchfiendGenisisF.png"
+    ],
+    "hash": "631261b1beb681bab50bd6520051840c"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frevo-carnaval-armor",
+    "url": "http://aqwwiki.wikidot.com/frevo-carnaval-armor",
+    "name": "Frevo Carnaval Armor",
+    "type": "armors",
+    "description": "The samba costume of choice for fans of rat skulls and voodoo.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frevo-carnaval-armor/FCAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/frevo-carnaval-armor/FCAF.png"
+    ],
+    "hash": "fbc93c18ce032fcecaa5d58437c5087b"
+}

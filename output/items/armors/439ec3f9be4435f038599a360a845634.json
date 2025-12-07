@@ -1,0 +1,18 @@
+{
+    "urlName": "frozensoul-courtier-ac",
+    "url": "http://aqwwiki.wikidot.com/frozensoul-courtier-ac",
+    "name": "FrozenSoul Courtier (AC)",
+    "type": "armors",
+    "description": "Nature is cold, wet, hard and unforgiving. As are these courtiers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/wZcziqb.png",
+        "https://i.imgur.com/gSwk26z.png",
+        "https://i.imgur.com/isrt97i.png"
+    ],
+    "hash": "439ec3f9be4435f038599a360a845634"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "frozen-arabesque-ac",
+    "url": "http://aqwwiki.wikidot.com/frozen-arabesque-ac",
+    "name": "Frozen Arabesque (AC)",
+    "type": "armors",
+    "description": "The style and dress of a lost culture of fae. Or perhaps they were elves. Their magic arts and combat style where sharp, but unique to each member, like the fractals of snowflakes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/xOdUYVo.png",
+        "https://i.imgur.com/BqNSalX.png"
+    ],
+    "hash": "2daf80dd789373d5d403750ece028db0"
+}

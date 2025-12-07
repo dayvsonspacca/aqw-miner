@@ -1,0 +1,16 @@
+{
+    "urlName": "drenched-monk",
+    "url": "http://aqwwiki.wikidot.com/drenched-monk",
+    "name": "Drenched Monk",
+    "type": "armors",
+    "description": "These monks gain their power from water. I'll bet they live near the coast!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/2Bt7feK.png",
+        "https://imgur.com/hvcWGXh.png"
+    ],
+    "hash": "34335be72126e5247ba34029cf83c4b5"
+}

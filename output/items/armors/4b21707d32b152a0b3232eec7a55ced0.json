@@ -1,0 +1,16 @@
+{
+    "urlName": "arcangrove-invoker",
+    "url": "http://aqwwiki.wikidot.com/arcangrove-invoker",
+    "name": "Arcangrove Invoker",
+    "type": "armors",
+    "description": "Invoker's power are so great they've transcended the physical and become one with magic. (Gives 15% more rep and 3% more Class Points when equipped)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/8wjk6F7.png",
+        "http://i.imgur.com/A0zh2hg.png"
+    ],
+    "hash": "4b21707d32b152a0b3232eec7a55ced0"
+}

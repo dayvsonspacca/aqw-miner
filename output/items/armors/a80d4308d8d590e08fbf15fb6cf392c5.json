@@ -1,0 +1,16 @@
+{
+    "urlName": "combat-cupid",
+    "url": "http://aqwwiki.wikidot.com/combat-cupid",
+    "name": "Combat Cupid",
+    "type": "armors",
+    "description": "Unlike ordinary cupids who guide people through their love lives, these are a totally different league of cupids who would fight for love at any cost, even if it means to lose themselves to hatred.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/6csNb2m.png",
+        "https://imgur.com/Oe49SdM.png"
+    ],
+    "hash": "a80d4308d8d590e08fbf15fb6cf392c5"
+}

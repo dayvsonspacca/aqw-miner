@@ -1,0 +1,17 @@
+{
+    "urlName": "defender-armor",
+    "url": "http://aqwwiki.wikidot.com/defender-armor",
+    "name": "Defender Armor",
+    "type": "armors",
+    "description": "Defenders understand the sacrifices one must make during combat. Loyal to their brethren, Defenders will see to it that what they start ends in victory.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/l2IbPqC.png",
+        "https://i.imgur.com/tg7agUs.png"
+    ],
+    "hash": "6fdde5bcda54044cc670e3203ae8cc1e"
+}

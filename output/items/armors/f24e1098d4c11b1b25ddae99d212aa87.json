@@ -1,0 +1,18 @@
+{
+    "urlName": "greywolf-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/greywolf-commander-armor",
+    "name": "Greywolf Commander (Armor)",
+    "type": "armors",
+    "description": "The rugged rogues of the Greywolf Brigade roam the upper forests of the Dwarfhold Mountains, looting and pillaging. Their commander must be strong, hardy, and able to keep a rowdy crew in line!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/greywolf-commander-armor/GreywolfCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/greywolf-commander-armor/GreywolfCommanderF.png"
+    ],
+    "hash": "f24e1098d4c11b1b25ddae99d212aa87"
+}

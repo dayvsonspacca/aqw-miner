@@ -1,0 +1,17 @@
+{
+    "urlName": "punk-coal-elf",
+    "url": "http://aqwwiki.wikidot.com/punk-coal-elf",
+    "name": "Punk Coal Elf",
+    "type": "armors",
+    "description": "It's a punk rock Frostval, and the Frostval trees are decorated with safety pins.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/RbJNnzj.png",
+        "https://i.imgur.com/qFU2PPp.png"
+    ],
+    "hash": "d570a4f039a68221d0df3c19ede69d25"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "lunaris-sentinel",
+    "url": "http://aqwwiki.wikidot.com/lunaris-sentinel",
+    "name": "Lunaris Sentinel",
+    "type": "armors",
+    "description": "The Lunaris Sentinels are a clan that worship the moon and darkness. Their nemesis, the Solaris, have been rivals since the beginning of time. Both fight in the struggle to obtain the powerful artifacts Sol and Luna.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/RZXLNeo.png",
+        "http://i.imgur.com/hWtKsFB.png"
+    ],
+    "hash": "ba0c9a1fe2d31ebd41659a481b8e30b6"
+}

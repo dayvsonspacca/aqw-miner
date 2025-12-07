@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowed-berserker",
+    "url": "http://aqwwiki.wikidot.com/shadowed-berserker",
+    "name": "Shadowed Berserker",
+    "type": "armors",
+    "description": "Even in undeath they are berserk!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/nv2azrB.png",
+        "https://i.imgur.com/8ojbzIJ.png"
+    ],
+    "hash": "087f0eb7586978338baad3430d9af7c9"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frostdragon-knight",
+    "url": "http://aqwwiki.wikidot.com/frostdragon-knight",
+    "name": "FrostDragon Knight",
+    "type": "armors",
+    "description": "From the frozen North Mountain, these Knights never feel the chill.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/iXxZ5Ja.png",
+        "https://i.imgur.com/S11GTNN.png"
+    ],
+    "hash": "f2472d9c6224dcaeeff459c2056c273d"
+}

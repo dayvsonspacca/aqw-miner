@@ -1,0 +1,17 @@
+{
+    "urlName": "avatar-of-spirits-armor",
+    "url": "http://aqwwiki.wikidot.com/avatar-of-spirits-armor",
+    "name": "Avatar of Spirits (Armor)",
+    "type": "armors",
+    "description": "Guiding lost Souls to the Celestial Realm, you must be wise, fair and bestow a presende of calm understanding. Do this and you will be an Avatar of Souls.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/avatar-of-spirits-armor/AvatarofSpiritsM.png",
+        "http://aqwwiki.wdfiles.com/local--files/avatar-of-spirits-armor/AvatarofSpiritsF.png"
+    ],
+    "hash": "bde4c9867973b64aaed12ef833cb12a3"
+}

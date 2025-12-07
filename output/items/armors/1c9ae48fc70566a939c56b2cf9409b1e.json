@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowstealer",
+    "url": "http://aqwwiki.wikidot.com/shadowstealer",
+    "name": "ShadowStealer",
+    "type": "armors",
+    "description": "Helpful for sneaking through the shadows in Ebonslate.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/p3n4it1.png",
+        "https://i.imgur.com/xFCTy1I.png"
+    ],
+    "hash": "1c9ae48fc70566a939c56b2cf9409b1e"
+}

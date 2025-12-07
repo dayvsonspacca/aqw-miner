@@ -1,0 +1,17 @@
+{
+    "urlName": "broncolich-fantasy-gear-legend",
+    "url": "http://aqwwiki.wikidot.com/broncolich-fantasy-gear-legend",
+    "name": "Broncolich Fantasy Gear (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football Players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/broncolich-fantasy-gear-legend/BroncolichFantasyGearM.png",
+        "http://aqwwiki.wdfiles.com/local--files/broncolich-fantasy-gear-legend/BroncolichFantasyGearF.png"
+    ],
+    "hash": "09fcd31b78994c218706f7fbb4533efb"
+}

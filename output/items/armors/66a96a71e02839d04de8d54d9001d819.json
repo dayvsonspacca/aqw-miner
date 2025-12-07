@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonwarrior-of-the-dark",
+    "url": "http://aqwwiki.wikidot.com/dragonwarrior-of-the-dark",
+    "name": "Dragonwarrior of the Dark",
+    "type": "armors",
+    "description": "Lurking in the shadows or concealing yourself in the dark, you're the most dangerous when not visible to others. Armor is CC.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragonwarrior-of-the-dark/WDM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragonwarrior-of-the-dark/WDF.png"
+    ],
+    "hash": "66a96a71e02839d04de8d54d9001d819"
+}

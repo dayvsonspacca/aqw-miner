@@ -1,0 +1,17 @@
+{
+    "urlName": "frostberge-knight-ac",
+    "url": "http://aqwwiki.wikidot.com/frostberge-knight-ac",
+    "name": "Frostberge Knight (AC)",
+    "type": "armors",
+    "description": "Forged from enchanted flames frozen in the middle of a blizzard, the Frostberge Knight is at home in the tundra or the halls of the highest Northlands border lords.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/90qwTdv.png",
+        "https://i.imgur.com/AQj7pR6.png"
+    ],
+    "hash": "e0f48aa5ab50ec3584c10aaa44cc135f"
+}

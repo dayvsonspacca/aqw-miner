@@ -1,0 +1,17 @@
+{
+    "urlName": "blood-summoner",
+    "url": "http://aqwwiki.wikidot.com/blood-summoner",
+    "name": "Blood Summoner",
+    "type": "armors",
+    "description": "Laced with lethal threads-Blood Summoners don't bend the elements, they bend the will of foes surrounding them.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/OtK60N7.png",
+        "http://i.imgur.com/92G6IGR.png",
+        "http://i.imgur.com/6TLE7DN.png"
+    ],
+    "hash": "58969ba452ab302d6a2c064cc48b6e4b"
+}

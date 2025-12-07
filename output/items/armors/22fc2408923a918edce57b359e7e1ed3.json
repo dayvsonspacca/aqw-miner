@@ -1,0 +1,18 @@
+{
+    "urlName": "lucky-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/lucky-dragonslayer",
+    "name": "Lucky DragonSlayer",
+    "type": "armors",
+    "description": "This armor is worn by only the loyalest Dragonslayers! Crafted in honor of Galanoth the DragonSlayers lifelong battle against dragons.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lucky-dragonslayer/LuckyDragonslayerMNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/lucky-dragonslayer/LuckyDragonslayerMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/lucky-dragonslayer/LuckyDragonslayerF.png"
+    ],
+    "hash": "22fc2408923a918edce57b359e7e1ed3"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "lucky-mercenary",
+    "url": "http://aqwwiki.wikidot.com/lucky-mercenary",
+    "name": "Lucky Mercenary",
+    "type": "armors",
+    "description": "Being a mercenary is a dangerous job and every sellsword could use a little extra luck!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fmmlPM9.png",
+        "https://i.imgur.com/If8rYME.png"
+    ],
+    "hash": "7821ae358b380c98394355b35113ef48"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "avatar-of-time-armor",
+    "url": "http://aqwwiki.wikidot.com/avatar-of-time-armor",
+    "name": "Avatar Of Time (Armor)",
+    "type": "armors",
+    "description": "As the Avatar of Time there's no time like the present to be high-tech and contemporary.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/avatar-of-time-armor/AvatarofTimeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/avatar-of-time-armor/AvatarofTimeF.png"
+    ],
+    "hash": "ba0a8b806395a7dec4e49f697f528488"
+}

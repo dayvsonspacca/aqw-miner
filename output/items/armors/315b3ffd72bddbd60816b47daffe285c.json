@@ -1,0 +1,16 @@
+{
+    "urlName": "dread-nachtdurst-legend",
+    "url": "http://aqwwiki.wikidot.com/dread-nachtdurst-legend",
+    "name": "Dread Nachtdurst (Legend)",
+    "type": "armors",
+    "description": "Night terrors that prey on their fellow beasts. Even the Vampires and Liches fear them. These creatures feed on the risen dead, gaining cursed power with every bone they crunch with their back teeth.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/iTOHpHF.png",
+        "https://i.imgur.com/PwXnuKa.png"
+    ],
+    "hash": "315b3ffd72bddbd60816b47daffe285c"
+}

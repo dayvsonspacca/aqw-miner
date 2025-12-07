@@ -1,0 +1,18 @@
+{
+    "urlName": "chaotic-warmage",
+    "url": "http://aqwwiki.wikidot.com/chaotic-warmage",
+    "name": "Chaotic WarMage",
+    "type": "armors",
+    "description": "The power of Chaos can be used in many different ways. The Chaotic WarMage uses it to boost their own personal power in battle.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/oFK35ip.png",
+        "https://i.imgur.com/Pmah7Ii.png",
+        "https://i.imgur.com/evGJTNW.png",
+        "https://i.imgur.com/eZBsfd1.png"
+    ],
+    "hash": "8471ca144df0feabdcc5433a74330c2f"
+}

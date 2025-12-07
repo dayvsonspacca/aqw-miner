@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-rook",
+    "url": "http://aqwwiki.wikidot.com/doom-rook",
+    "name": "Doom Rook",
+    "type": "armors",
+    "description": "Rooks take many forms in this ancient game. Sometimes they were depicted as berserkers. Sometimes, castles. But whatever they're incarnation, they are meant to seem unstoppable.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/LKQaKVP.png",
+        "http://i.imgur.com/AeoMiBj.png"
+    ],
+    "hash": "d222f2a6e9727e9c400c2958412782fc"
+}

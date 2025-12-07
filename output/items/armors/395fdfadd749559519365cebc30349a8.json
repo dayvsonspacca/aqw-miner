@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-fleet-commander",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-fleet-commander",
+    "name": "ShadowScythe Fleet Commander",
+    "type": "armors",
+    "description": "YARRRR! Hoist th' Pirate Flags of DOOOOOM and terrify your enemies no matter where you face them: on land, by sea, or sailing the dark waters of the underworld!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/YQ7j7iC.png",
+        "https://i.imgur.com/VqZ3uZD.png"
+    ],
+    "hash": "395fdfadd749559519365cebc30349a8"
+}

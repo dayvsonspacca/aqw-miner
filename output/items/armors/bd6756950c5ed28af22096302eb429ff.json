@@ -1,0 +1,17 @@
+{
+    "urlName": "doomknight-battlemage",
+    "url": "http://aqwwiki.wikidot.com/doomknight-battlemage",
+    "name": "Doomknight Battlemage",
+    "type": "armors",
+    "description": "Much like their Royal counterparts, DoomKnight BattleMages are spellswords, enchanting the weapon the use. However, they are not bound by any code and usually appear more as rogue fighters. (3% chance to do shadowburst animation and 15% rep boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/HML7ssn.png",
+        "http://i.imgur.com/tq9NvGP.png",
+        "http://i.imgur.com/sTNiyWL.png"
+    ],
+    "hash": "bd6756950c5ed28af22096302eb429ff"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dragon-admiral",
+    "url": "http://aqwwiki.wikidot.com/dragon-admiral",
+    "name": "Dragon Admiral",
+    "type": "armors",
+    "description": "The Dragon fleet is one of the most feared fleet in the skies. The fleet earned their name after burning their competition out of the skies with their fame cannons!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/rQAKZRR.png",
+        "http://i.imgur.com/KmztAc8.png"
+    ],
+    "hash": "3ecaaa94fcd958b0caca35977ad790e4"
+}

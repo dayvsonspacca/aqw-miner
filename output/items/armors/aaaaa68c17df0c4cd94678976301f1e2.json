@@ -1,0 +1,17 @@
+{
+    "urlName": "shining-champion",
+    "url": "http://aqwwiki.wikidot.com/shining-champion",
+    "name": "Shining Champion",
+    "type": "armors",
+    "description": "The reflecting light that brightens the metallic silver that comprises this regal suit acts as a mirror, but what it reveals cannot be seen in plain mind, but rather by a sharp minded subconscious.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shining-champion/ShiningChampionM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shining-champion/ShiningChampionF.png"
+    ],
+    "hash": "aaaaa68c17df0c4cd94678976301f1e2"
+}

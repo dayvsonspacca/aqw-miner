@@ -1,0 +1,17 @@
+{
+    "urlName": "coldsteel-guardian",
+    "url": "http://aqwwiki.wikidot.com/coldsteel-guardian",
+    "name": "ColdSteel Guardian",
+    "type": "armors",
+    "description": "Real heroes know when you're up against a fire dragon, you don't fight fire with fire, you use cold, sharp steel.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ecpDAP8.png",
+        "https://i.imgur.com/DxjQYlc.png"
+    ],
+    "hash": "177a59f57e3d1906a3bcccad5c74d73c"
+}

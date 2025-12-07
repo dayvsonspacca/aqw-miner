@@ -1,0 +1,16 @@
+{
+    "urlName": "luminomancer",
+    "url": "http://aqwwiki.wikidot.com/luminomancer",
+    "name": "Luminomancer",
+    "type": "armors",
+    "description": "Light brings life, and with it power. Luminomancers combine their lifeforce with that bright power to shine more brightly than any other elemental mage!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/HyN2LeN.png",
+        "https://imgur.com/16emN7H.png"
+    ],
+    "hash": "6c55f29f647868c3631058845b7ddc0e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "starry-samurai",
+    "url": "http://aqwwiki.wikidot.com/starry-samurai",
+    "name": "Starry Samurai",
+    "type": "armors",
+    "description": "This armor was forged out of spacedust mined from a nearby galaxy and presented by the Royal Astromancer's Society to Empress Miko as a gift for this year's star festival.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/jxX53se.png",
+        "https://i.imgur.com/U3hIt3U.png"
+    ],
+    "hash": "d159f3c1a83b5aad5565028a94eee5b0"
+}

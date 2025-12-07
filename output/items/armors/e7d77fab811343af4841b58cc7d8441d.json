@@ -1,0 +1,18 @@
+{
+    "urlName": "hydra-hunter",
+    "url": "http://aqwwiki.wikidot.com/hydra-hunter",
+    "name": "Hydra Hunter",
+    "type": "armors",
+    "description": "Legend says that 2 heads are better than 1\u2026 but when you retrieve the 3 heads of the Hydra, you will become the Number 1 Hydra Hunter!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hydra-hunter/HydraHunterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/hydra-hunter/HydraHunterFNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/hydra-hunter/HydraHunterF.png"
+    ],
+    "hash": "e7d77fab811343af4841b58cc7d8441d"
+}

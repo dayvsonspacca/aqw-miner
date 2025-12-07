@@ -1,0 +1,17 @@
+{
+    "urlName": "clockwork-doll-ac",
+    "url": "http://aqwwiki.wikidot.com/clockwork-doll-ac",
+    "name": "Clockwork Doll (AC)",
+    "type": "armors",
+    "description": "Because Memet likes automatons, that's why.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/clockwork-doll-ac/ClockworkDollM.png",
+        "http://aqwwiki.wdfiles.com/local--files/clockwork-doll-ac/ClockworkDollF.png"
+    ],
+    "hash": "9bdaaa066876746efec6764a94f14f72"
+}

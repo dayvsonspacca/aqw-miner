@@ -1,0 +1,16 @@
+{
+    "urlName": "deepspace-warrior",
+    "url": "http://aqwwiki.wikidot.com/deepspace-warrior",
+    "name": "DeepSpace Warrior",
+    "type": "armors",
+    "description": "Being trapped on a deserted vessel through the confines of the galaxy gives the phrase \"personal space\" a whole new meaning. (Item gives 20% more XP and Class Points when equipped.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deepspace-warrior/DeepspaceWarrior.png"
+    ],
+    "hash": "ae889d94117c2cdc72da57a2414856eb"
+}

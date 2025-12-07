@@ -1,0 +1,18 @@
+{
+    "urlName": "cursed-legion-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/cursed-legion-naval-commander",
+    "name": "Cursed Legion Naval Commander",
+    "type": "armors",
+    "description": "Other sailors may be cursed with disease, but you're stuck with something that'll never go away\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cursed-legion-naval-commander/CLNCm.png",
+        "http://aqwwiki.wdfiles.com/local--files/cursed-legion-naval-commander/CLNCmO.png",
+        "http://aqwwiki.wdfiles.com/local--files/cursed-legion-naval-commander/CLNCf.png"
+    ],
+    "hash": "e74b1d0526f16ebbc3613797d3f2867b"
+}

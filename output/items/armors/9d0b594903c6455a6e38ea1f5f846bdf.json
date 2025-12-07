@@ -1,0 +1,16 @@
+{
+    "urlName": "classic-scarecrow",
+    "url": "http://aqwwiki.wikidot.com/classic-scarecrow",
+    "name": "Classic Scarecrow",
+    "type": "armors",
+    "description": "The best way to sneak up on your enemy is to blend in with your environment.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/sKP6asd.png",
+        "https://i.imgur.com/hLnXp5b.png"
+    ],
+    "hash": "9d0b594903c6455a6e38ea1f5f846bdf"
+}

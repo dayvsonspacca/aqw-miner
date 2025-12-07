@@ -1,0 +1,17 @@
+{
+    "urlName": "solrac-v2",
+    "url": "http://aqwwiki.wikidot.com/solrac-v2",
+    "name": "Solrac V2",
+    "type": "armors",
+    "description": "Deleting extraneous models. More efficiency. More power. Solrac is out of beta.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solrac-v2/SolracV2M.png",
+        "http://aqwwiki.wdfiles.com/local--files/solrac-v2/SolracV2F.png"
+    ],
+    "hash": "12ab0885fcaed5d5ce4c5d45809e3595"
+}

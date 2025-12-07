@@ -1,0 +1,16 @@
+{
+    "urlName": "street-mime",
+    "url": "http://aqwwiki.wikidot.com/street-mime",
+    "name": "Street Mime",
+    "type": "armors",
+    "description": "You'll be the life of all parties with your trapped in a box routine.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/x571soH.png",
+        "http://i.imgur.com/1LauC3y.png"
+    ],
+    "hash": "b3b0e5ca357e3a203f133afa30f90487"
+}

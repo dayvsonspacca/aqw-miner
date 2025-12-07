@@ -1,0 +1,16 @@
+{
+    "urlName": "extraterreptile",
+    "url": "http://aqwwiki.wikidot.com/extraterreptile",
+    "name": "Extraterreptile",
+    "type": "armors",
+    "description": "Dinosaurs once ruled our world. Extraterreptiles currently rule another.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/8J5J3zU.png",
+        "https://imgur.com/l5ECYFh.png"
+    ],
+    "hash": "50a5353ea9e9ba4afb463ca6515949b8"
+}

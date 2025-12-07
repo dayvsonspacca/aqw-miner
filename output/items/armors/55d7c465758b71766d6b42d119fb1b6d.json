@@ -1,0 +1,16 @@
+{
+    "urlName": "dwarlord",
+    "url": "http://aqwwiki.wikidot.com/dwarlord",
+    "name": "Dwarlord",
+    "type": "armors",
+    "description": "You can't spell 'dwarf' without 'war', and you can't win a war without Dwarven Warlords!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/RkD1sip.png",
+        "https://i.imgur.com/WZjnqHu.png"
+    ],
+    "hash": "55d7c465758b71766d6b42d119fb1b6d"
+}

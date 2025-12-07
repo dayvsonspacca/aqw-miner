@@ -1,0 +1,16 @@
+{
+    "urlName": "greenguard-druid",
+    "url": "http://aqwwiki.wikidot.com/greenguard-druid",
+    "name": "Greenguard Druid",
+    "type": "armors",
+    "description": "Because the forest is a holy place to many, Greenguard Druids do there best to keep it healthy and clean for all those who dwell in it.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/j1tSdr2.png",
+        "https://i.imgur.com/Cq1DPTB.png"
+    ],
+    "hash": "85c318cd29f8e613c2f02d8aead1704b"
+}

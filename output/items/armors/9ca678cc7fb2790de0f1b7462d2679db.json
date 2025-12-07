@@ -1,0 +1,17 @@
+{
+    "urlName": "darkblood-assassin",
+    "url": "http://aqwwiki.wikidot.com/darkblood-assassin",
+    "name": "Darkblood Assassin",
+    "type": "armors",
+    "description": "Make no mistake, if your their next mark, you will die. The sooner you come to accept this, the better off you will be. Resistance is futile!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darkblood-assassin/DarkbloodAssassinMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/darkblood-assassin/DarkbloodAssassinFemale.png"
+    ],
+    "hash": "9ca678cc7fb2790de0f1b7462d2679db"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "prismatic-elementalist",
+    "url": "http://aqwwiki.wikidot.com/prismatic-elementalist",
+    "name": "Prismatic Elementalist",
+    "type": "armors",
+    "description": "Wield the shifting power of the elementas as you garb yourself in this prismatic armor. This color custom armor will enhance your appearance just as it protects you in battle!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9iNaSYI.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-elementalist/PrismaticElementalistM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-elementalist/PrismaticElementalistOld.png"
+    ],
+    "hash": "354ff8caffffa8df5f5cb13a47c6155b"
+}

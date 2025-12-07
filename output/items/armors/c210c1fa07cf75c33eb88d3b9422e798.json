@@ -1,0 +1,17 @@
+{
+    "urlName": "cobalt-iron-warrior",
+    "url": "http://aqwwiki.wikidot.com/cobalt-iron-warrior",
+    "name": "Cobalt Iron Warrior",
+    "type": "armors",
+    "description": "Remember: in a fantasy game, it's always a good idea to bring a Blaster Beam to a blade fight, so become the Iron Warrior you never expected to be!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cobalt-iron-warrior/CobaltIronWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/cobalt-iron-warrior/CobaltIronWarriorFemale.png"
+    ],
+    "hash": "c210c1fa07cf75c33eb88d3b9422e798"
+}

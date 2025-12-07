@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-lucky-rogue",
+    "url": "http://aqwwiki.wikidot.com/prismatic-lucky-rogue",
+    "name": "Prismatic Lucky Rogue",
+    "type": "armors",
+    "description": "You wander the land of Lore facing the most ferocious beasts without a scratch!",
+    "rarity": "Super Mega Ultra Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-lucky-rogue/PrismaticLuckyRogueM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-lucky-rogue/PrismaticLuckyRogueF.png"
+    ],
+    "hash": "b3f739c80b8d38c85451625300c10e5f"
+}

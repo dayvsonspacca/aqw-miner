@@ -1,0 +1,18 @@
+{
+    "urlName": "guerreiro-alegre",
+    "url": "http://aqwwiki.wikidot.com/guerreiro-alegre",
+    "name": "Guerreiro Alegre",
+    "type": "armors",
+    "description": "Bring The Joy to Carnaval! Obrigado for supporting AQWorlds through Paymentez!",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/guerreiro-alegre/GuerreiroAlegreM.png",
+        "http://aqwwiki.wdfiles.com/local--files/guerreiro-alegre/GuerreiroAlegreF.png"
+    ],
+    "hash": "43d1fe61e0827383b24c409b3ec532b7"
+}

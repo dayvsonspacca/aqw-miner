@@ -1,0 +1,17 @@
+{
+    "urlName": "derp-zombie",
+    "url": "http://aqwwiki.wikidot.com/derp-zombie",
+    "name": "Derp Zombie",
+    "type": "armors",
+    "description": "DERP DRRP \u2026BRAINS!!!!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/derp-zombie/DerpZombieMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/derp-zombie/DerpZombieFemale.png"
+    ],
+    "hash": "085ca3bfe952c32a1d88e1b629347c4e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "swordhaven-master-adept",
+    "url": "http://aqwwiki.wikidot.com/swordhaven-master-adept",
+    "name": "Swordhaven Master Adept",
+    "type": "armors",
+    "description": "Champions that are loyal to the King earn the right to don this armor and fight for Swordhaven. Does a bit more damage against humans than normal armors.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/DFDqvyf.png",
+        "https://i.imgur.com/VXkuXIA.png"
+    ],
+    "hash": "2b9e8f9de97f16d2fab9e2042e8042a4"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "snowshade-raven-ac",
+    "url": "http://aqwwiki.wikidot.com/snowshade-raven-ac",
+    "name": "Snowshade Raven (AC)",
+    "type": "armors",
+    "description": "Said to be the companions of a cold death. These infamous rogues roam frigid wastes of their own accord. Bones disappear from the snow, and the Ravens steal their names.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gWrAj9M.png",
+        "https://i.imgur.com/LOTCwRH.png"
+    ],
+    "hash": "1f4ad3d9a499c7a741b5e069832f7f7f"
+}

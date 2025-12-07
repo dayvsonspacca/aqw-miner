@@ -1,0 +1,17 @@
+{
+    "urlName": "lovebringer",
+    "url": "http://aqwwiki.wikidot.com/lovebringer",
+    "name": "LoveBringer",
+    "type": "armors",
+    "description": "The LoveBringer appears in Lore every Heroes Heart Day to help spread the feelings of Love and Happiness throughout the world.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Kg34byi.png",
+        "https://i.imgur.com/qYvGCBL.png"
+    ],
+    "hash": "58d02e6ba3d91306529ea9f8bcedafe6"
+}

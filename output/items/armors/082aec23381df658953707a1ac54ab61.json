@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-of-the-legion",
+    "url": "http://aqwwiki.wikidot.com/shadow-of-the-legion",
+    "name": "Shadow of the Legion",
+    "type": "armors",
+    "description": "Deathly quiet and cunning, who do you collects all the bodies needed for the Legion necromancers?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/GeNHDYR.png",
+        "https://i.imgur.com/fIA9XmG.png"
+    ],
+    "hash": "082aec23381df658953707a1ac54ab61"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dynamo-bunny",
+    "url": "http://aqwwiki.wikidot.com/dynamo-bunny",
+    "name": "Dynamo Bunny",
+    "type": "armors",
+    "description": "Like a rabbit, you just go! Go! Go! Nothing can stop you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/x7vQw9t.png",
+        "https://i.imgur.com/BmBvnwE.png"
+    ],
+    "hash": "38952f020a92b89c4e9ca52299ced87f"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "synderes-groupie-armor",
+    "url": "http://aqwwiki.wikidot.com/synderes-groupie-armor",
+    "name": "Synderes Groupie Armor",
+    "type": "armors",
+    "description": "Show the world that you love Synderes' music by equipping their outfit, then /dance your way through the Forest of Good and Evil!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/VJZ1HyG.png",
+        "http://i.imgur.com/gNTgdLa.png"
+    ],
+    "hash": "9be86205db8c9d5d7404e64b6cfc5aa8"
+}

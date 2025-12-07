@@ -1,0 +1,16 @@
+{
+    "urlName": "powder-monkey",
+    "url": "http://aqwwiki.wikidot.com/powder-monkey",
+    "name": "Powder Monkey",
+    "type": "armors",
+    "description": "An explosives expert that can fire a canon underwater. They're high in demand, and a dangerous foe that'll blast out your eardrums if they miss blasting you to smithereens.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/YnINeyF.png",
+        "https://imgur.com/86kjfxo.png"
+    ],
+    "hash": "83a58cf3e76332211a161d58a67e0642"
+}

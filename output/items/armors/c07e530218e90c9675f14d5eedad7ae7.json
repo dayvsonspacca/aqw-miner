@@ -1,0 +1,18 @@
+{
+    "urlName": "dragon-floaties-armor",
+    "url": "http://aqwwiki.wikidot.com/dragon-floaties-armor",
+    "name": "Dragon Floaties Armor",
+    "type": "armors",
+    "description": "Stay afloat and fierce with inflatable dragon wings! Crafted to stay inflated even in the fiery currents of Burning Beach, they're proof you can swim AND slay in style.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Fyhsoft.png",
+        "https://i.imgur.com/SOy3gpj.png"
+    ],
+    "hash": "c07e530218e90c9675f14d5eedad7ae7"
+}

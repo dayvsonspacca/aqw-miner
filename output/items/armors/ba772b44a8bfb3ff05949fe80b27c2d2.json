@@ -1,0 +1,16 @@
+{
+    "urlName": "asherion-armor",
+    "url": "http://aqwwiki.wikidot.com/asherion-armor",
+    "name": "Asherion Armor",
+    "type": "armors",
+    "description": "DoomKnights never give up. Never give in. And NEVER bow to anyone.",
+    "rarity": "1% Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/M8pcgBP.png",
+        "https://i.imgur.com/ffo2WaY.png"
+    ],
+    "hash": "ba772b44a8bfb3ff05949fe80b27c2d2"
+}

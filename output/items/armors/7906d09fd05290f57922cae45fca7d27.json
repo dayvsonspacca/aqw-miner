@@ -1,0 +1,17 @@
+{
+    "urlName": "mystic-healer",
+    "url": "http://aqwwiki.wikidot.com/mystic-healer",
+    "name": "Mystic Healer",
+    "type": "armors",
+    "description": "Healers are servants of Good who use their powers to aid the sick, weak, and injured. Their powerful healing magic is often the difference between a group's victory or defeat.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/UCj9ro2.png",
+        "https://i.imgur.com/c9elDG9.png"
+    ],
+    "hash": "7906d09fd05290f57922cae45fca7d27"
+}

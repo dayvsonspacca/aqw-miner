@@ -1,0 +1,16 @@
+{
+    "urlName": "cryomancer-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/cryomancer-armor-ac",
+    "name": "Cryomancer Armor (AC)",
+    "type": "armors",
+    "description": "Unleash the power of ice and snow! Freeze your enemies on the spot, making them shiver in fear. Let it go since the cold never bothered you anyways.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/MmsVO0x.png",
+        "http://i.imgur.com/rffE8mO.png"
+    ],
+    "hash": "21a48fa2916daae396bd96eefb70e111"
+}

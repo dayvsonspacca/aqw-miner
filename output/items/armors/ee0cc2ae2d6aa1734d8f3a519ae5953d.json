@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-draconian",
+    "url": "http://aqwwiki.wikidot.com/frost-draconian",
+    "name": "Frost Draconian",
+    "type": "armors",
+    "description": "You are morphed into a cold-blooded Frost Draconian. And just look at those snow shoes\u2026 oh wait, you're barefooted! Brr!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/733r43A.png",
+        "http://i.imgur.com/fuPzV65.png"
+    ],
+    "hash": "ee0cc2ae2d6aa1734d8f3a519ae5953d"
+}

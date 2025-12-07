@@ -1,0 +1,17 @@
+{
+    "urlName": "pyroclastic-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/pyroclastic-naval-commander-ac",
+    "name": "Pyroclastic Naval Commander (AC)",
+    "type": "armors",
+    "description": "Avast ye! If you sailin' the seven seas as Pyroclastic Pirate, make sure your swag be burstin' in fire and flame!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VRZDXdS.png",
+        "https://imgur.com/wriBIRR.png"
+    ],
+    "hash": "d5b1f392df1f28546fc8ef9b7959c668"
+}

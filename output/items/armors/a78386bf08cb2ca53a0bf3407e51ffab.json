@@ -1,0 +1,17 @@
+{
+    "urlName": "guardian-of-light",
+    "url": "http://aqwwiki.wikidot.com/guardian-of-light",
+    "name": "Guardian of Light",
+    "type": "armors",
+    "description": "Let the power of the Light flow through you giving you the power to crush the darkness!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/o259dFg.png",
+        "https://i.imgur.com/BC1IeUO.png"
+    ],
+    "hash": "a78386bf08cb2ca53a0bf3407e51ffab"
+}

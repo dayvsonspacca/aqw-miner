@@ -1,0 +1,17 @@
+{
+    "urlName": "dimmed-falconeer-legend",
+    "url": "http://aqwwiki.wikidot.com/dimmed-falconeer-legend",
+    "name": "Dimmed Falconeer (Legend)",
+    "type": "armors",
+    "description": "Can ye hear the song o' the falcons in the dimmed sky, laddie? Ach, course ye can. But can ye sing back? Aye, there's the tricky part.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MaHKAYO.png",
+        "https://i.imgur.com/QAFJif7.png"
+    ],
+    "hash": "76c7bcdab2dbc29b68dcfdc47e1e10af"
+}

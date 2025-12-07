@@ -1,0 +1,16 @@
+{
+    "urlName": "drow-gunslinger",
+    "url": "http://aqwwiki.wikidot.com/drow-gunslinger",
+    "name": "Drow Gunslinger",
+    "type": "armors",
+    "description": "For ages, Drow have used Bows and Arrows to hunt down their enemies. As an intrepid Drow Gunslinger, you're armed to the teeth with a much more explosive--",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/drow-gunslinger/DrowGunslingerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/drow-gunslinger/DrowGunslingerFemale.png"
+    ],
+    "hash": "fc18b69abcc749509d1ffdecf87fca2a"
+}

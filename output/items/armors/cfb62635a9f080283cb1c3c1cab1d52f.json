@@ -1,0 +1,17 @@
+{
+    "urlName": "spectral-lycan",
+    "url": "http://aqwwiki.wikidot.com/spectral-lycan",
+    "name": "Spectral Lycan",
+    "type": "armors",
+    "description": "Even the soul of an underhanded coward can take on the form of a relentless beast if steeped in enough curses and anguish. Death becomes a new beginning.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gYutPdY.png",
+        "https://i.imgur.com/sKV1OoS.png"
+    ],
+    "hash": "cfb62635a9f080283cb1c3c1cab1d52f"
+}

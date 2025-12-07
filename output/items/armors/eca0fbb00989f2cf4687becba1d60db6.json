@@ -1,0 +1,17 @@
+{
+    "urlName": "guardian-vokun",
+    "url": "http://aqwwiki.wikidot.com/guardian-vokun",
+    "name": "Guardian Vokun",
+    "type": "armors",
+    "description": "Tasked with guarding the Forgotten Tombs, the Dark Lord Vokun barely escaped the tombs after an earthquake decimated it's grounds. Escaping with several armors, weapons, and helms, Vokun has now seen it fit to release these epic items to his loyal followers.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/guardian-vokun/GuardianVokunM.png",
+        "http://aqwwiki.wdfiles.com/local--files/guardian-vokun/GuardianVokunF.png"
+    ],
+    "hash": "eca0fbb00989f2cf4687becba1d60db6"
+}

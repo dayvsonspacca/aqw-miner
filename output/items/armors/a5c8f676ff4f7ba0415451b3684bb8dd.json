@@ -1,0 +1,18 @@
+{
+    "urlName": "dire-wolfhound-warrior",
+    "url": "http://aqwwiki.wikidot.com/dire-wolfhound-warrior",
+    "name": "Dire Wolfhound Warrior",
+    "type": "armors",
+    "description": "Wolfhounds are the most loyal warriors in the kingdom. Wearing the Wolf's Head sigil shows that you can be trusted above all else.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dire-wolfhound-warrior/DireWolfhoundWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dire-wolfhound-warrior/DireWolfhoundWarriorF.png"
+    ],
+    "hash": "a5c8f676ff4f7ba0415451b3684bb8dd"
+}

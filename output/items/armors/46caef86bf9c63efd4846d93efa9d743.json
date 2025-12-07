@@ -1,0 +1,17 @@
+{
+    "urlName": "dragon-s-salvation",
+    "url": "http://aqwwiki.wikidot.com/dragon-s-salvation",
+    "name": "Dragon's Salvation",
+    "type": "armors",
+    "description": "Bestowed only to those who have shown their worth in the protection and preservation of Dragons. Wear this armor proudly, you've shown your allegiance.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-s-salvation/DSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-s-salvation/DSF.png"
+    ],
+    "hash": "46caef86bf9c63efd4846d93efa9d743"
+}

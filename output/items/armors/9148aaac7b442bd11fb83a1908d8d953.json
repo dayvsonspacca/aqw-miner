@@ -1,0 +1,17 @@
+{
+    "urlName": "auroran-cryomagus-ac",
+    "url": "http://aqwwiki.wikidot.com/auroran-cryomagus-ac",
+    "name": "Auroran Cryomagus (AC)",
+    "type": "armors",
+    "description": "A Cryomagus embodies the gentle and myserious facet of snowfall. Their magic and wisdom is as ancient and vast as the aurora that only appears before ice.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bfEdWy1.png",
+        "https://i.imgur.com/1nQ68px.png"
+    ],
+    "hash": "9148aaac7b442bd11fb83a1908d8d953"
+}

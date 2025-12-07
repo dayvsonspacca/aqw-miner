@@ -1,0 +1,17 @@
+{
+    "urlName": "s-s-doom-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/s-s-doom-captain-ac",
+    "name": "S.S. Doom Captain (AC)",
+    "type": "armors",
+    "description": "A forsaken voyager, doomed to spread terror across the seas. Though they sail for the Empire, their greed is all that's left of what once made them human.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/cVlTRJv.png",
+        "https://i.imgur.com/PnyPGBy.png"
+    ],
+    "hash": "19178faf2c5052f8d5aec2b082824d10"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "blood-majesty-ac",
+    "url": "http://aqwwiki.wikidot.com/blood-majesty-ac",
+    "name": "Blood Majesty (AC)",
+    "type": "armors",
+    "description": "Robes of an ancient royalty. The Blood Lords were known for their cruelty as well as the dark powers they were in thrall to.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-majesty-ac/BloodMajestyMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/blood-majesty-ac/BloodMajestyFemale.png"
+    ],
+    "hash": "3e4a4a6dd4cdf406a4be80adcb953e74"
+}

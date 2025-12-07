@@ -1,0 +1,16 @@
+{
+    "urlName": "evil-varsity-uniform",
+    "url": "http://aqwwiki.wikidot.com/evil-varsity-uniform",
+    "name": "Evil Varsity Uniform",
+    "type": "armors",
+    "description": "Rah rah rah! #Team Evil! (Requires Rank 10 Evil)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/60NO3iY.png",
+        "https://i.imgur.com/wjQQ9mL.png"
+    ],
+    "hash": "e487a56d475ef34ad7dce74fbf5e9bf5"
+}

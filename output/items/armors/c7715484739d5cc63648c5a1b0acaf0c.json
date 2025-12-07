@@ -1,0 +1,17 @@
+{
+    "urlName": "snow-leopard-skinwalker",
+    "url": "http://aqwwiki.wikidot.com/snow-leopard-skinwalker",
+    "name": "Snow Leopard Skinwalker",
+    "type": "armors",
+    "description": "Wear the hides of the beasts you've slain to channel their fierce spirits.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/snow-leopard-skinwalker/SnowLeopardSkinwalkerM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/snow-leopard-skinwalker/SnowLeopardSkinwalkerF.png"
+    ],
+    "hash": "c7715484739d5cc63648c5a1b0acaf0c"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "deathwalker-ac",
+    "url": "http://aqwwiki.wikidot.com/deathwalker-ac",
+    "name": "Deathwalker (AC)",
+    "type": "armors",
+    "description": "There is no force greater than death. Use it to dominate your enemies.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/czICQc2.png",
+        "https://i.imgur.com/bQtC55s.png"
+    ],
+    "hash": "e32424c9b7726545e0eaadc1880c9b9e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "cysero-the-weaponbreaker",
+    "url": "http://aqwwiki.wikidot.com/cysero-the-weaponbreaker",
+    "name": "Cysero The Weaponbreaker",
+    "type": "armors",
+    "description": "The deadly serious Cysero, the Red Mage primarily uses his magic to break weapons of his foes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cysero-the-weaponbreaker/CyseroTheWeaponbreakerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/cysero-the-weaponbreaker/CyseroTheWeaponbreakerFemale.png"
+    ],
+    "hash": "f357ef6795a967b0bd9524d27b3ad9fe"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "luchadwarf",
+    "url": "http://aqwwiki.wikidot.com/luchadwarf",
+    "name": "Luchadwarf",
+    "type": "armors",
+    "description": "Luchadwarves are hand to hand warriors from the color southern regions of the Dwarfhold mountains.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/npbGfGu.png",
+        "http://i.imgur.com/LTIwAj9.png"
+    ],
+    "hash": "3537a598b1f524e86587b476686a1152"
+}

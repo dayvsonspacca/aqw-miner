@@ -1,0 +1,16 @@
+{
+    "urlName": "cyber-samurai",
+    "url": "http://aqwwiki.wikidot.com/cyber-samurai",
+    "name": "Cyber Samurai",
+    "type": "armors",
+    "description": "Part loyal warrior, part cyber fighter. Which part controls you?",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/TQ8fSw0.png",
+        "https://i.imgur.com/9NzsKQg.png"
+    ],
+    "hash": "d07169f53ef2f91eff0afa1cb12a654b"
+}

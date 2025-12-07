@@ -1,0 +1,14 @@
+{
+    "urlName": "shadow-rogue",
+    "url": "http://aqwwiki.wikidot.com/shadow-rogue",
+    "name": "Shadow Rogue",
+    "type": "armors",
+    "description": "Modeled after samples obtained from the Lore of DragonFable, these rogues move swiftly through the shadows, stalking their foes.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/cpGlQOA.png",
+        "http://i.imgur.com/S5cThfQ.png"
+    ],
+    "hash": "90c51c61f9df8df62df710550abd0668"
+}

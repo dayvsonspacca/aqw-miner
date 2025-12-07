@@ -1,0 +1,14 @@
+{
+    "urlName": "crystallis-conductor",
+    "url": "http://aqwwiki.wikidot.com/crystallis-conductor",
+    "name": "Crystallis Conductor",
+    "type": "armors",
+    "description": "The Crystallis administration recruits only the most talented and upstanding citizens to conduct passengers on the Shinkansen.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/Vbnm6tu.png",
+        "https://i.imgur.com/fU7qEFd.png"
+    ],
+    "hash": "c77a7deecbe23fda19f58fe6fc401625"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "cyberfiend-ac",
+    "url": "http://aqwwiki.wikidot.com/cyberfiend-ac",
+    "name": "CyberFiend (AC)",
+    "type": "armors",
+    "description": "Made entirely of digital code, these minions have escaped from the cyberworld to do the bidding of their cyberfiend master.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cyberfiend-ac/CyberFiendM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyberfiend-ac/CyberFiendF.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyberfiend-ac/CyberFiendFO.png"
+    ],
+    "hash": "012fde64a749ad7c7459c83a1dcb6d59"
+}

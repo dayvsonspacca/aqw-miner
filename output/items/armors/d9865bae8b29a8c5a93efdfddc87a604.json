@@ -1,0 +1,17 @@
+{
+    "urlName": "spellsword-of-light",
+    "url": "http://aqwwiki.wikidot.com/spellsword-of-light",
+    "name": "Spellsword of Light",
+    "type": "armors",
+    "description": "Spellswords of Light serve in Empress Gravelyn's court. This class is usually pursued by dark but noble undead warriors, as it is considered one of the most graceful arts of combat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spellsword-of-light/SpellswordofLightM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/spellsword-of-light/SpellswordofLightF.png"
+    ],
+    "hash": "d9865bae8b29a8c5a93efdfddc87a604"
+}

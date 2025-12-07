@@ -1,0 +1,17 @@
+{
+    "urlName": "arcane-rouge",
+    "url": "http://aqwwiki.wikidot.com/arcane-rouge",
+    "name": "Arcane Rouge",
+    "type": "armors",
+    "description": "Love isn't always carried on feathery wings or pink arrows. The Arcane Rouge are experts in magic, stealth, and the affairs of the heart. Levy a fair deal with them, and they'll make sure no one gets in the way of your affections.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xf06O2m.png",
+        "https://i.imgur.com/lOWDy4h.png"
+    ],
+    "hash": "e87a92bd1202969a97eb71c82299f6d8"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dragon-khan-rider",
+    "url": "http://aqwwiki.wikidot.com/dragon-khan-rider",
+    "name": "Dragon Khan Rider",
+    "type": "armors",
+    "description": "Although not everyone realizes this, the Khan is the dragon, not the little guy riding on his back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-khan-rider/DragonKhanRiderMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-khan-rider/DragonKhanRiderFemale.png"
+    ],
+    "hash": "ab926ad4ac3ed8479ef5f15f9fcff843"
+}

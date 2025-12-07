@@ -1,0 +1,13 @@
+{
+    "urlName": "guard-armor",
+    "url": "http://aqwwiki.wikidot.com/guard-armor",
+    "name": "Guard Armor",
+    "type": "armors",
+    "description": "Standard issue inquisitor guard armor.",
+    "rarity": null,
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/Xp4xDxM.png"
+    ],
+    "hash": "7f6e6fe18bb498ed31c9b0dced25d556"
+}

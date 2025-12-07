@@ -1,0 +1,17 @@
+{
+    "urlName": "priest-of-the-black-sun",
+    "url": "http://aqwwiki.wikidot.com/priest-of-the-black-sun",
+    "name": "Priest of the Black Sun",
+    "type": "armors",
+    "description": "The Fourth Dimensional Pyramid will always be a resting place for the Priests and Priestesses of the Black Hole Sun!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/priest-of-the-black-sun/PriestOfTheBlackSunM.png",
+        "http://aqwwiki.wdfiles.com/local--files/priest-of-the-black-sun/PriestOfTheBlackSunF.png"
+    ],
+    "hash": "c53f8abc99fd5e11e65fd1a9e0a8c20e"
+}

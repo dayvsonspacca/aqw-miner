@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-deathknight-armor",
+    "url": "http://aqwwiki.wikidot.com/frost-deathknight-armor",
+    "name": "Frost DeathKnight Armor",
+    "type": "armors",
+    "description": "The Frost and Frozen DeathKnights are two contingents of the icy army set to ward the Northlands and any other area where ice reigns supreme.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/eDlz4LN.png",
+        "http://i.imgur.com/yxIpYy8.png"
+    ],
+    "hash": "fb3b4c614ed9dc48caf93d4ba60eabee"
+}

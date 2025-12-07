@@ -1,0 +1,17 @@
+{
+    "urlName": "deathmonger",
+    "url": "http://aqwwiki.wikidot.com/deathmonger",
+    "name": "Deathmonger",
+    "type": "armors",
+    "description": "Only those who have been trained by the ruthless horc Deathmongers my hope to ever call themselves one. You have learned from the best\u2014and now the time has come to dominate the battlefield!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathmonger/DeathmongerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/deathmonger/DeathmongerFemale.png"
+    ],
+    "hash": "407c40aaf890c83eb5b8497a810a2737"
+}

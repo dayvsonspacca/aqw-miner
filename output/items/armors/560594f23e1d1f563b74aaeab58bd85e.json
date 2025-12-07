@@ -1,0 +1,17 @@
+{
+    "urlName": "dr-when",
+    "url": "http://aqwwiki.wikidot.com/dr-when",
+    "name": "Dr. When",
+    "type": "armors",
+    "description": "What's this? WHO am I? I'm trapped in between regenerations! Pinstripes are cool.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dr-when/Dr.WhenM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dr-when/Dr.WhenF.png"
+    ],
+    "hash": "560594f23e1d1f563b74aaeab58bd85e"
+}

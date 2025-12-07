@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-zenobyte",
+    "url": "http://aqwwiki.wikidot.com/dark-zenobyte",
+    "name": "Dark Zenobyte",
+    "type": "armors",
+    "description": "This order of magical creatures comes from a dark dimension.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/mduSRQz.png",
+        "http://i.imgur.com/mUJLdfu.png"
+    ],
+    "hash": "85b115959790cc7ec692552cd4ed11d9"
+}

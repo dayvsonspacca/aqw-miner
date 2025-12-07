@@ -1,0 +1,21 @@
+{
+    "urlName": "dungeon-destroyer-legend",
+    "url": "http://aqwwiki.wikidot.com/dungeon-destroyer-legend",
+    "name": "Dungeon Destroyer (Legend)",
+    "type": "armors",
+    "description": "No dungeon can hold a hero as mighty as you! Just be careful you do not get stonedust in your eyes as you blast your way through the blocks and bricks.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Ra4miBB.png",
+        "http://i.imgur.com/oRHfPMp.png",
+        "https://i.imgur.com/8UuZh15.png",
+        "http://i.imgur.com/jLrBb8k.png",
+        "https://i.imgur.com/aXt8hBv.png",
+        "https://i.imgur.com/Rmq1vwI.png"
+    ],
+    "hash": "6aa8c516c3177427b589e9d7b312aace"
+}

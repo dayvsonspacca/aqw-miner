@@ -1,0 +1,17 @@
+{
+    "urlName": "lord-of-time",
+    "url": "http://aqwwiki.wikidot.com/lord-of-time",
+    "name": "Lord of Time",
+    "type": "armors",
+    "description": "Oh so you're a Hero of Lore? Well I'm the Lord of Time. (Time travelling box not included).",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lord-of-time/LordofTime.png",
+        "http://aqwwiki.wdfiles.com/local--files/lord-of-time/LadyofTime.png"
+    ],
+    "hash": "f5b6b8a2a0eee0d900f252e3242884d4"
+}

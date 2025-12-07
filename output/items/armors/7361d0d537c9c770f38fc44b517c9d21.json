@@ -1,0 +1,18 @@
+{
+    "urlName": "aurus-via-armor",
+    "url": "http://aqwwiki.wikidot.com/aurus-via-armor",
+    "name": "Aurus Via Armor",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/aurus-via-armor/AurusViaArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/aurus-via-armor/AurusViaArmorFemaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/aurus-via-armor/AurusViaArmorFemaleOld.png"
+    ],
+    "hash": "7361d0d537c9c770f38fc44b517c9d21"
+}

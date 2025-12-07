@@ -1,0 +1,16 @@
+{
+    "urlName": "blue-giant-warrior",
+    "url": "http://aqwwiki.wikidot.com/blue-giant-warrior",
+    "name": "Blue Giant Warrior",
+    "type": "armors",
+    "description": "Long ago tales tell that the blue giants hung the moon and when they blew off the dust it created the stars.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blue-giant-warrior/BlueGiantWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/blue-giant-warrior/BlueGiantWarriorF.png"
+    ],
+    "hash": "616397c62ad4292044c18f091446f47f"
+}

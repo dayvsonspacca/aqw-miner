@@ -1,0 +1,16 @@
+{
+    "urlName": "frozen-pyromancer-armor",
+    "url": "http://aqwwiki.wikidot.com/frozen-pyromancer-armor",
+    "name": "Frozen Pyromancer (Armor)",
+    "type": "armors",
+    "description": "You're on FIRE!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/u6SgtzN.png",
+        "https://i.imgur.com/gLPUhqd.png"
+    ],
+    "hash": "b090a2b6bf19941d7ec0cc2ec0b2fcd3"
+}

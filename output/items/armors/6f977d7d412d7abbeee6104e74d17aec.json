@@ -1,0 +1,19 @@
+{
+    "urlName": "cute-santa",
+    "url": "http://aqwwiki.wikidot.com/cute-santa",
+    "name": "Cute Santa",
+    "type": "armors",
+    "description": "Who said Old St. Nick can't look cute when delivering presents.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/pKcTZUK.png",
+        "https://i.imgur.com/zr9qgsI.png"
+    ],
+    "hash": "6f977d7d412d7abbeee6104e74d17aec"
+}

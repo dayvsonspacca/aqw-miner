@@ -1,0 +1,17 @@
+{
+    "urlName": "splitfang-mage",
+    "url": "http://aqwwiki.wikidot.com/splitfang-mage",
+    "name": "Splitfang Mage",
+    "type": "armors",
+    "description": "The Magi of the Golden Onslaught. The Split Fangs are those who have proven their loyalty.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/splitfang-mage/SplitfangMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/splitfang-mage/SplitfangMageF.png"
+    ],
+    "hash": "17d0a0063ed986636ef4c6876cf06053"
+}

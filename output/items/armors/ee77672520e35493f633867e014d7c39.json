@@ -1,0 +1,16 @@
+{
+    "urlName": "hydra-armor",
+    "url": "http://aqwwiki.wikidot.com/hydra-armor",
+    "name": "Hydra Armor",
+    "type": "armors",
+    "description": "This armor is crafted and enchanted by the power of the Hydra.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/L8Chq9C.png",
+        "http://i.imgur.com/z2dv13o.png"
+    ],
+    "hash": "ee77672520e35493f633867e014d7c39"
+}

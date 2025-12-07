@@ -1,0 +1,17 @@
+{
+    "urlName": "boneious-magus",
+    "url": "http://aqwwiki.wikidot.com/boneious-magus",
+    "name": "Boneious Magus",
+    "type": "armors",
+    "description": "The dead willonce again and take back the land that rhey once were imprisioned under. Rise and smite the living with a fury Lore has never seen! Perhaps then, Fluffy will allow you to worship it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/boneious-magus/BoneiousMagusMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/boneious-magus/BoneiousMagusFemale.png"
+    ],
+    "hash": "9891ebeaaacd8db879dd27691a4afe8c"
+}

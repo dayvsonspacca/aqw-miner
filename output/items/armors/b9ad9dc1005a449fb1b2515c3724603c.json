@@ -1,0 +1,16 @@
+{
+    "urlName": "bydis-dress",
+    "url": "http://aqwwiki.wikidot.com/bydis-dress",
+    "name": "Bydis' Dress",
+    "type": "armors",
+    "description": "The dress of Bydis Miller. May you find the truth.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8FdShN3.png"
+    ],
+    "hash": "b9ad9dc1005a449fb1b2515c3724603c"
+}

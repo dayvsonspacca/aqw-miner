@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-neon-shadow-ac",
+    "url": "http://aqwwiki.wikidot.com/prismatic-neon-shadow-ac",
+    "name": "Prismatic Neon Shadow (AC)",
+    "type": "armors",
+    "description": "You'll be the hottest thing at any New Year's celebration!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-neon-shadow-ac/PrismaticNeonShadowM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-neon-shadow-ac/PrismaticNeonShadowF.png"
+    ],
+    "hash": "51f8fa0ef9440b07c2240592321fa232"
+}

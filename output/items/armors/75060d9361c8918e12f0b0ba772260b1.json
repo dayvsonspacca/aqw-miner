@@ -1,0 +1,17 @@
+{
+    "urlName": "corruption-of-aranx",
+    "url": "http://aqwwiki.wikidot.com/corruption-of-aranx",
+    "name": "Corruption of Aranx",
+    "type": "armors",
+    "description": "Follower of Dage the Evil, Aranx leads the scout team of the Legion in their quest to seize control of the Underworld and to smite Nulgath!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/corruption-of-aranx/CorruptionofAranxMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/corruption-of-aranx/CorruptionofAranxFemale.png"
+    ],
+    "hash": "75060d9361c8918e12f0b0ba772260b1"
+}

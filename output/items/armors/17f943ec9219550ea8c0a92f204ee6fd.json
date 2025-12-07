@@ -1,0 +1,14 @@
+{
+    "urlName": "fp5-fan",
+    "url": "http://aqwwiki.wikidot.com/fp5-fan",
+    "name": "FP5 Fan",
+    "type": "armors",
+    "description": "The FP5 console runs at 120 FPS. We live in the future!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/rIXbGaR.png",
+        "https://i.imgur.com/e0raDHZ.png"
+    ],
+    "hash": "17f943ec9219550ea8c0a92f204ee6fd"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-ninja",
+    "url": "http://aqwwiki.wikidot.com/frost-ninja",
+    "name": "Frost Ninja",
+    "type": "armors",
+    "description": "This armor will chill your enemies to the bone!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-ninja/FrostNinjaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/frost-ninja/FrostNinjaF.png"
+    ],
+    "hash": "af561d1f7f101f5b9d3d7222e6392a8b"
+}

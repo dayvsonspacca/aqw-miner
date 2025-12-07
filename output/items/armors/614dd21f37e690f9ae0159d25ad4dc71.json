@@ -1,0 +1,17 @@
+{
+    "urlName": "sketchy-pirate",
+    "url": "http://aqwwiki.wikidot.com/sketchy-pirate",
+    "name": "Sketchy Pirate",
+    "type": "armors",
+    "description": "This pirate looks pretty sketchy to me. Make sure he doesn't draw a gun on you! ( But then, what would you expect from someone hanging out side a Sketchy Dragon?)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/FSDVyqn.png",
+        "https://i.imgur.com/DoELs5T.png"
+    ],
+    "hash": "614dd21f37e690f9ae0159d25ad4dc71"
+}

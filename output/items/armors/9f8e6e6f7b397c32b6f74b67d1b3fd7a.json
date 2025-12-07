@@ -1,0 +1,17 @@
+{
+    "urlName": "boar-s-guard",
+    "url": "http://aqwwiki.wikidot.com/boar-s-guard",
+    "name": "Boar's Guard",
+    "type": "armors",
+    "description": "These ham-tastic set celebrates the Year of the Pig! Slice your enemies into bacon stripes!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Ei82HV5.png",
+        "https://i.imgur.com/5J8SFv6.png"
+    ],
+    "hash": "9f8e6e6f7b397c32b6f74b67d1b3fd7a"
+}

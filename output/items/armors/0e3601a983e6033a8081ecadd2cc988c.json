@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-berzerker",
+    "url": "http://aqwwiki.wikidot.com/frost-berzerker",
+    "name": "Frost Berzerker",
+    "type": "armors",
+    "description": "A little chill in the air is not going to stop the Frost Berzerker's from keeping the peace.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/TOdXDdM.png",
+        "http://i.imgur.com/jVgiyhX.png"
+    ],
+    "hash": "0e3601a983e6033a8081ecadd2cc988c"
+}

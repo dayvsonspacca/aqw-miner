@@ -1,0 +1,17 @@
+{
+    "urlName": "ethereal-wanderer",
+    "url": "http://aqwwiki.wikidot.com/ethereal-wanderer",
+    "name": "Ethereal Wanderer",
+    "type": "armors",
+    "description": "Having journeyed across many lands in search of your heart's desire, you've finally found it in the Realm of Love.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/3Dxte8e.png",
+        "https://i.imgur.com/gubOYT3.png"
+    ],
+    "hash": "0171c770e3903e7106dadbb3a5cf592d"
+}

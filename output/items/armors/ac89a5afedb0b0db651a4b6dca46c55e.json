@@ -1,0 +1,16 @@
+{
+    "urlName": "putty-person",
+    "url": "http://aqwwiki.wikidot.com/putty-person",
+    "name": "Putty Person",
+    "type": "armors",
+    "description": "Some kids make zards from their putty. Not the little empress\u2026",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/59CbLxV.png",
+        "https://i.imgur.com/8AIhCd3.png"
+    ],
+    "hash": "ac89a5afedb0b0db651a4b6dca46c55e"
+}

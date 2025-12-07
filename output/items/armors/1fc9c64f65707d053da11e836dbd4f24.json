@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowflame-dragonslayer-ac",
+    "url": "http://aqwwiki.wikidot.com/shadowflame-dragonslayer-ac",
+    "name": "ShadowFlame DragonSlayer (AC)",
+    "type": "armors",
+    "description": "The ShadowFlame is known to consume all who are willing to give their lives for it. Are you bold enough to join in their ranks?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowflame-dragonslayer-ac/ShadowflameDragonslayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowflame-dragonslayer-ac/ShadowflameDragonslayerF.png"
+    ],
+    "hash": "1fc9c64f65707d053da11e836dbd4f24"
+}

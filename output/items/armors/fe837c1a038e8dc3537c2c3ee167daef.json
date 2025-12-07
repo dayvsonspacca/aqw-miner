@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-necronaut",
+    "url": "http://aqwwiki.wikidot.com/doom-necronaut",
+    "name": "Doom Necronaut",
+    "type": "armors",
+    "description": "The armor of a Necronaut is the only thing that protects them from the ravages of being alive in the afterlife\u2026 it does its job. Sometimes. And sometimes it fails.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doom-necronaut/DoomNecronaut.png"
+    ],
+    "hash": "fe837c1a038e8dc3537c2c3ee167daef"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "darker-side-of-the-crescent",
+    "url": "http://aqwwiki.wikidot.com/darker-side-of-the-crescent",
+    "name": "Darker Side of the Crescent",
+    "type": "armors",
+    "description": "As the moments tick away that make up a dull day, they will be there in the night to reclaim what is theirs!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darker-side-of-the-crescent/DarkerSideoftheCrescentMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/darker-side-of-the-crescent/DarkerSideoftheCrescentFemale.png"
+    ],
+    "hash": "0fea473bc0824d2a38da52cc467be3c5"
+}

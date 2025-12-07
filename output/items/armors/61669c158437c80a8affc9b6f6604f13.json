@@ -1,0 +1,17 @@
+{
+    "urlName": "chronomancer-of-ice",
+    "url": "http://aqwwiki.wikidot.com/chronomancer-of-ice",
+    "name": "Chronomancer of Ice",
+    "type": "armors",
+    "description": "Ice magic carries properties similar to how one would stop time. Everything comes to a halt, preserved as they were for as long as one pleases. These Chronomancers are known to freeze timelines and keep them as living museums.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/AhqNMQw.png",
+        "https://imgur.com/be73d5H.png"
+    ],
+    "hash": "61669c158437c80a8affc9b6f6604f13"
+}

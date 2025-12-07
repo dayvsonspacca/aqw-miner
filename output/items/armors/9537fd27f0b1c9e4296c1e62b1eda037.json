@@ -1,0 +1,17 @@
+{
+    "urlName": "typhoon-robe",
+    "url": "http://aqwwiki.wikidot.com/typhoon-robe",
+    "name": "Typhoon Robe",
+    "type": "armors",
+    "description": "Royal blue in hue, these robes are the raiment of water elementalists. They are complete with white wavy trim and infused with the power of the tides.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/BZxoFD2.png",
+        "http://i.imgur.com/RVnH8h8.png",
+        "http://aqwwiki.wdfiles.com/local--files/typhoon-robe/TRFO.png"
+    ],
+    "hash": "9537fd27f0b1c9e4296c1e62b1eda037"
+}

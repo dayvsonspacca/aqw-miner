@@ -1,0 +1,17 @@
+{
+    "urlName": "bone-crusher-soldier-ac",
+    "url": "http://aqwwiki.wikidot.com/bone-crusher-soldier-ac",
+    "name": "Bone Crusher Soldier (AC)",
+    "type": "armors",
+    "description": "Nulgath's soldiers break every recruit done to their bare bones before building them back up, and you skeleton, are no exception.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bone-crusher-soldier-ac/BoneCrusherSoldierM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bone-crusher-soldier-ac/BoneCrusherSoldierF.png"
+    ],
+    "hash": "6ffd0739ae9ef22c142ed88c256adf32"
+}

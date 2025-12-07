@@ -1,0 +1,15 @@
+{
+    "urlName": "special-infantry-legion",
+    "url": "http://aqwwiki.wikidot.com/special-infantry-legion",
+    "name": "Special Infantry Legion",
+    "type": "armors",
+    "description": "As a high ranking members in Dage the Evil's legion, this special infantry utilize their shield against heavy projectiles.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/special-infantry-legion/SpecialInfantryLegion.png"
+    ],
+    "hash": "e7b123d3c03431651837bb94d1cc8cc5"
+}

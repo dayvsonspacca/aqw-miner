@@ -1,0 +1,18 @@
+{
+    "urlName": "loremaster-disciple-armor",
+    "url": "http://aqwwiki.wikidot.com/loremaster-disciple-armor",
+    "name": "Loremaster Disciple Armor",
+    "type": "armors",
+    "description": "Favored by fans of hit Battleon rock group, NPCs!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/z2ODdJr.png",
+        "https://i.imgur.com/YLIIwvp.png"
+    ],
+    "hash": "206cadc8268d39d0ea7fd7fbbb895001"
+}

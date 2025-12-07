@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-priest",
+    "url": "http://aqwwiki.wikidot.com/shadow-priest",
+    "name": "Shadow Priest",
+    "type": "armors",
+    "description": "Their dark orations rain sorrow and pain on the miserable heads of their naysayers.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/AOMsoYf.png",
+        "https://i.imgur.com/rDpci4C.png"
+    ],
+    "hash": "e46fe99c9fbe62ef5721e4c03ea05c0b"
+}

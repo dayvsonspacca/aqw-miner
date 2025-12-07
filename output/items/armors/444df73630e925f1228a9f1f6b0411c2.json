@@ -1,0 +1,18 @@
+{
+    "urlName": "prismatic-dragon-samurai",
+    "url": "http://aqwwiki.wikidot.com/prismatic-dragon-samurai",
+    "name": "Prismatic Dragon Samurai",
+    "type": "armors",
+    "description": "An elegant kimono for a more civilized age. (This armor is color-customizable)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-dragon-samurai/PrismaticDragonSamuraiM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-dragon-samurai/PrismaticDragonSamuraiF.png"
+    ],
+    "hash": "444df73630e925f1228a9f1f6b0411c2"
+}

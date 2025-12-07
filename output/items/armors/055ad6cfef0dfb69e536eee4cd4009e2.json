@@ -1,0 +1,17 @@
+{
+    "urlName": "autumnal-civilian",
+    "url": "http://aqwwiki.wikidot.com/autumnal-civilian",
+    "name": "Autumnal Civilian",
+    "type": "armors",
+    "description": "The season when your clothes become as comfy as knitted blankets. Fall is the season to get corny, appreciate the rare blooms, and marvel at the changing colors.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/giT2v01.png",
+        "https://i.imgur.com/0gPyrfz.png"
+    ],
+    "hash": "055ad6cfef0dfb69e536eee4cd4009e2"
+}

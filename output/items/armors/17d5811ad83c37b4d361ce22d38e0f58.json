@@ -1,0 +1,17 @@
+{
+    "urlName": "dreadful-gothic-villager",
+    "url": "http://aqwwiki.wikidot.com/dreadful-gothic-villager",
+    "name": "Dreadful Gothic Villager",
+    "type": "armors",
+    "description": "Villagers that hide a deadly secret in their hollow hearts. Their cemetery's full, but the coffins are empty.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ysWtxnD.png",
+        "https://i.imgur.com/gRE21KB.png"
+    ],
+    "hash": "17d5811ad83c37b4d361ce22d38e0f58"
+}

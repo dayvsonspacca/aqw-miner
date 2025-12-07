@@ -1,0 +1,18 @@
+{
+    "urlName": "court-jester-armor",
+    "url": "http://aqwwiki.wikidot.com/court-jester-armor",
+    "name": "Court Jester (Armor)",
+    "type": "armors",
+    "description": "Just keep smiling. They'll never know where you hid the bodies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/QapxBeP.png",
+        "http://imgur.com/XYzqQ2l.png",
+        "https://i.imgur.com/tSMFTt0.png",
+        "https://i.imgur.com/QTqwMcd.png"
+    ],
+    "hash": "423ad717a8915b4af62a874b7970a0a9"
+}

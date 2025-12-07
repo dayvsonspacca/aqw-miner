@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-medic",
+    "url": "http://aqwwiki.wikidot.com/skyguard-medic",
+    "name": "SkyGuard Medic",
+    "type": "armors",
+    "description": "With the ability to heal others, on and off of the battlefield, the Skyguard medics are trained with medicine and self-defense.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/eFbEG8v.png",
+        "https://i.imgur.com/mo8Wefy.png"
+    ],
+    "hash": "525d7f14f8defbc08ca6ecfc542f8be5"
+}

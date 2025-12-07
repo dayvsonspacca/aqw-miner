@@ -1,0 +1,16 @@
+{
+    "urlName": "spirit-wolf",
+    "url": "http://aqwwiki.wikidot.com/spirit-wolf",
+    "name": "Spirit Wolf",
+    "type": "armors",
+    "description": "A new breed of Lycan that is more Human than Wolf, discovered by your fellow player _Aegis_ deep within the Darkovian Forests.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/KAesXrf.png",
+        "http://i.imgur.com/PsGB1P1.png"
+    ],
+    "hash": "c42c60cf6fafac15eb765f23823d2106"
+}

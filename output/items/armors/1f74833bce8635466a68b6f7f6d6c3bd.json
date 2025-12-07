@@ -1,0 +1,17 @@
+{
+    "urlName": "spiders-sorcery",
+    "url": "http://aqwwiki.wikidot.com/spiders-sorcery",
+    "name": "Spiders & Sorcery",
+    "type": "armors",
+    "description": "According to necromancer lore, a girl named Monica got creative with various arachnids lost in history. A pair of giant spider's legs still feels rather ominously warm, suggesting the souls of these eight-eyed fiends might possess these remains.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spiders-sorcery/SpiderSuit.png",
+        "http://aqwwiki.wdfiles.com/local--files/spiders-sorcery/SpiderDress.png"
+    ],
+    "hash": "1f74833bce8635466a68b6f7f6d6c3bd"
+}

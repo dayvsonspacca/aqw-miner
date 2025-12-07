@@ -1,0 +1,16 @@
+{
+    "urlName": "lord-of-the-dead",
+    "url": "http://aqwwiki.wikidot.com/lord-of-the-dead",
+    "name": "Lord of the Dead",
+    "type": "armors",
+    "description": "The loss of something precious to you is too great a burden to bear even for a single jungle tribe. In order to cope, they applied opals to their obsidian uniforms so the souls of those they lost can pass on safely.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/208kX3t.png",
+        "http://i.imgur.com/DlMWZab.png"
+    ],
+    "hash": "fb548e64dc5064d9ed18925a3a516e9e"
+}

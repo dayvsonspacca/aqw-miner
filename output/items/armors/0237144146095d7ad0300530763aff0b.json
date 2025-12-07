@@ -1,0 +1,17 @@
+{
+    "urlName": "skeletal-sacrificer",
+    "url": "http://aqwwiki.wikidot.com/skeletal-sacrificer",
+    "name": "Skeletal Sacrificer",
+    "type": "armors",
+    "description": "Warriors who have forsaken the Sun and their people to flood the Underworld with blood. They sacrifice the living and the dead to Lore itself, believing it to be a beast that will one day awaken and devour the stars.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JipXD1m.png",
+        "https://i.imgur.com/S9vvDK0.png"
+    ],
+    "hash": "0237144146095d7ad0300530763aff0b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "burgundy-maul",
+    "url": "http://aqwwiki.wikidot.com/burgundy-maul",
+    "name": "Burgundy Maul",
+    "type": "armors",
+    "description": "When the thunder /rolls, and the lightning strikes (critically), Burgundy Maul is to blame, for all the red undead, sleepless knights.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BGyRBqg.png",
+        "https://i.imgur.com/ZBufQuf.png"
+    ],
+    "hash": "bf085a9724c850a4f7189951969abc45"
+}

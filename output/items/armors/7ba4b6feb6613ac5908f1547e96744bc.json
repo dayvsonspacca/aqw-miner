@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-spiritreaver-armor",
+    "url": "http://aqwwiki.wikidot.com/frost-spiritreaver-armor",
+    "name": "Frost SpiritReaver (Armor)",
+    "type": "armors",
+    "description": "Granted a portion of the Champion of Ice\u2019s power, Frost SpiritReavers are ice mages that battle by unleashing the power of the frost spirits that they gather.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/6CEQM3D.png",
+        "https://i.imgur.com/GuhHru5.png"
+    ],
+    "hash": "7ba4b6feb6613ac5908f1547e96744bc"
+}

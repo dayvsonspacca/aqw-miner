@@ -1,0 +1,17 @@
+{
+    "urlName": "pumpkin-magus",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-magus",
+    "name": "Pumpkin Magus",
+    "type": "armors",
+    "description": "The Pumpkin Magi serve at the court of the Harvest Queen and Great Pumpking. Their magic is mighty, and they can squash an enemy with a single blast. Their gourd works are known throughout the land.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/vlAGsQX.png",
+        "https://imgur.com/LHfePXR.png"
+    ],
+    "hash": "5a11fdb52b55f45206ac4725216f8c01"
+}

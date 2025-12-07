@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-deer-suit",
+    "url": "http://aqwwiki.wikidot.com/frostval-deer-suit",
+    "name": "Frostval Deer Suit",
+    "type": "armors",
+    "description": "The perfect suit to help the big guy on Frostval Eve.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/nXVEUqR.png",
+        "https://i.imgur.com/OFgU1U0.png"
+    ],
+    "hash": "61365aa582dffe5b22570e5e618c3185"
+}

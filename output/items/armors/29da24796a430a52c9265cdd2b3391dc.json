@@ -1,0 +1,17 @@
+{
+    "urlName": "sweet-spring-mage",
+    "url": "http://aqwwiki.wikidot.com/sweet-spring-mage",
+    "name": "Sweet Spring Mage",
+    "type": "armors",
+    "description": "Your magic is fueled by the scent of spring flowers, gentle rains, and the strains of sweet songs drifting through sunlit groves.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/OPJC7wM.png",
+        "https://i.imgur.com/zBW2SWY.png"
+    ],
+    "hash": "29da24796a430a52c9265cdd2b3391dc"
+}

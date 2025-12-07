@@ -1,0 +1,17 @@
+{
+    "urlName": "runed-knight",
+    "url": "http://aqwwiki.wikidot.com/runed-knight",
+    "name": "Runed Knight",
+    "type": "armors",
+    "description": "You recovered this mysterious, runed armor after defeating Lord Reignolds in his lair. It pulses with a strange, unsettling power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/qfeDj1e.png",
+        "https://i.imgur.com/nvQwLl6.png"
+    ],
+    "hash": "a82711d97815849fb366567ec8065545"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-rifleman",
+    "url": "http://aqwwiki.wikidot.com/skyguard-rifleman",
+    "name": "SkyGuard Rifleman",
+    "type": "armors",
+    "description": "All you have to do is show up and everyone quickly disperses. Rifleman are notoriously good at what they do and when one doesn't miss the target, he or she becomes legendary. Be legendary.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/1inOqJo.png",
+        "https://i.imgur.com/w7tzpAt.png"
+    ],
+    "hash": "06efa67974c787c9aaad8a7f7fbfc275"
+}

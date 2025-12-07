@@ -1,0 +1,19 @@
+{
+    "urlName": "evolved-dark-caster-armor",
+    "url": "http://aqwwiki.wikidot.com/evolved-dark-caster-armor",
+    "name": "Evolved Dark Caster Armor",
+    "type": "armors",
+    "description": "Channel the power of darkness to unleash your TRUE power, and serve the Legion to the best of your ability!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-dark-caster-armor/EDCAMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/evolved-dark-caster-armor/EDCAMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/evolved-dark-caster-armor/EDCAFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/evolved-dark-caster-armor/EDCAFO.png"
+    ],
+    "hash": "bb0a469ea25ba20af40495499f8edb27"
+}

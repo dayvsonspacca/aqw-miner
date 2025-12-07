@@ -1,0 +1,16 @@
+{
+    "urlName": "dinomight",
+    "url": "http://aqwwiki.wikidot.com/dinomight",
+    "name": "DinoMight",
+    "type": "armors",
+    "description": "Barbaric DinoMight warriors explode with a fury of unstoppable vengeance againts the opposition. Word of advice: don't mess with DinoMight!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dinomight/DinoMightMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dinomight/DinoMightFemale.png"
+    ],
+    "hash": "ab08b05bf09392efb7cbfa724341af10"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "doomdragon-rider",
+    "url": "http://aqwwiki.wikidot.com/doomdragon-rider",
+    "name": "DoomDragon Rider",
+    "type": "armors",
+    "description": "Take to the skies in fiendish style. Only ones who are direct descendants of the DoomDragon Mother can tame these legendary beasts.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/9YKBZLd.png",
+        "https://i.imgur.com/QjZrfX3.png"
+    ],
+    "hash": "57e9fd6d1d900be5b88da691b2b4ac57"
+}

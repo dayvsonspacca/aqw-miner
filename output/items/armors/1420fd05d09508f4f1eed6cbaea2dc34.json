@@ -1,0 +1,19 @@
+{
+    "urlName": "sparkling-royalty",
+    "url": "http://aqwwiki.wikidot.com/sparkling-royalty",
+    "name": "Sparkling Royalty",
+    "type": "armors",
+    "description": "Monarchs that love the winter and crystals in frost have hearts as frozen as their power. Devoid of happiness, timidity, and anger, they carry out their schemes without ever feeling guilty of their doing.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sparkling-royalty/SparklingRoyaltyM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sparkling-royalty/SparklingRoyaltyMAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/sparkling-royalty/SparklingRoyaltyF.png",
+        "http://aqwwiki.wdfiles.com/local--files/sparkling-royalty/SparklingRoyaltyFAnim.png"
+    ],
+    "hash": "1420fd05d09508f4f1eed6cbaea2dc34"
+}

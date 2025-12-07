@@ -1,0 +1,18 @@
+{
+    "urlName": "starcrasher",
+    "url": "http://aqwwiki.wikidot.com/starcrasher",
+    "name": "StarCrasher",
+    "type": "armors",
+    "description": "May the Fourth be with you!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/73GEOpg.png",
+        "https://i.imgur.com/I5Ov18x.png",
+        "https://i.imgur.com/ez4twAU.png",
+        "https://i.imgur.com/0sy8ZOa.png"
+    ],
+    "hash": "ad0b75a386ffbeddcefe546308dce861"
+}

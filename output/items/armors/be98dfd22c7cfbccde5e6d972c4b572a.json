@@ -1,0 +1,16 @@
+{
+    "urlName": "swim-suit",
+    "url": "http://aqwwiki.wikidot.com/swim-suit",
+    "name": "Swim Suit",
+    "type": "armors",
+    "description": "Grab your SPF 9000 and hit the sands of Lore, beach bunnies and surfer dudes.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/qteckXE.png",
+        "http://i.imgur.com/plcCqSg.png"
+    ],
+    "hash": "be98dfd22c7cfbccde5e6d972c4b572a"
+}

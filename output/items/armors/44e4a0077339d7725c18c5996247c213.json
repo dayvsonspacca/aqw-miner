@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-karategi",
+    "url": "http://aqwwiki.wikidot.com/prismatic-karategi",
+    "name": "Prismatic Karategi",
+    "type": "armors",
+    "description": "Made of light canvas cloth, the gi maximizes mobility and speed. Color customizable for the true Karate Sensei!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/FTyvpV7.png",
+        "http://i.imgur.com/OmgpeP1.png"
+    ],
+    "hash": "44e4a0077339d7725c18c5996247c213"
+}

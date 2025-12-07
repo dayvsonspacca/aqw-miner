@@ -1,0 +1,16 @@
+{
+    "urlName": "color-custom-zhoom",
+    "url": "http://aqwwiki.wikidot.com/color-custom-zhoom",
+    "name": "Color Custom Zhoom",
+    "type": "armors",
+    "description": "After raiding Zhoom's closet,you'll be rockin' in this color-custom Ranger Armor.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/ajFYVWD.png",
+        "http://i.imgur.com/HfglyYq.png"
+    ],
+    "hash": "1216b5aa4e97dd1b78eeb887c211cf55"
+}

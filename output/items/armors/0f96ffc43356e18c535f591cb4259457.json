@@ -1,0 +1,16 @@
+{
+    "urlName": "envy-armor-merge",
+    "url": "http://aqwwiki.wikidot.com/envy-armor-merge",
+    "name": "Envy Armor (Merge)",
+    "type": "armors",
+    "description": "You will be the ENVY of all the Legion.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WQiKnLE.png"
+    ],
+    "hash": "0f96ffc43356e18c535f591cb4259457"
+}

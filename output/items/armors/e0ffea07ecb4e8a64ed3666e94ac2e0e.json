@@ -1,0 +1,16 @@
+{
+    "urlName": "chaotic-yukata",
+    "url": "http://aqwwiki.wikidot.com/chaotic-yukata",
+    "name": "Chaotic Yukata",
+    "type": "armors",
+    "description": "The Empress' oracle has read your horoscope and declares: this will be a VERY chaotic year for you, no matter what sign you were born under.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/NBouGlL.png",
+        "https://i.imgur.com/6pL2v4c.png"
+    ],
+    "hash": "e0ffea07ecb4e8a64ed3666e94ac2e0e"
+}

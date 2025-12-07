@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-samurai-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/shadow-samurai-armor-ac",
+    "name": "Shadow Samurai (Armor) (AC)",
+    "type": "armors",
+    "description": "An upper echelon of the warrior class, the Obsidian Samurai defends the land from evil in the name of honor. When crossing the path of the Samurai, you first must cross paths with their blade.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/uXd6fzh.png",
+        "https://i.imgur.com/ab9UnFB.png"
+    ],
+    "hash": "bdca7cf6f409dd4447400826945454d2"
+}

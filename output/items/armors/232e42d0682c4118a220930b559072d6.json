@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-solrac-s-legacy-legend",
+    "url": "http://aqwwiki.wikidot.com/shadow-solrac-s-legacy-legend",
+    "name": "Shadow Solrac's Legacy (Legend)",
+    "type": "armors",
+    "description": "This shadowy armor speaks of death and power. One look at those claws will make the opposition run in terror. Imagine what a swipe would do to them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Xkxdj0Z.png",
+        "https://i.imgur.com/G4P6jH2.png"
+    ],
+    "hash": "232e42d0682c4118a220930b559072d6"
+}

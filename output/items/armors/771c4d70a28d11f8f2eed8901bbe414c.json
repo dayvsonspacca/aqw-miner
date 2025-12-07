@@ -1,0 +1,16 @@
+{
+    "urlName": "evil-symbiote",
+    "url": "http://aqwwiki.wikidot.com/evil-symbiote",
+    "name": "Evil Symbiote",
+    "type": "armors",
+    "description": "A parasitic evil energy latches to your very being. It gives you immense dark power but you are left a shadow of your former self. Who knows what stigma attaches to your soul\u2026",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/BeU11E4.png",
+        "https://i.imgur.com/dBcFgTz.png"
+    ],
+    "hash": "771c4d70a28d11f8f2eed8901bbe414c"
+}

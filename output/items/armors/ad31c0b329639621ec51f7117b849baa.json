@@ -1,0 +1,16 @@
+{
+    "urlName": "evolved-rouge-armor",
+    "url": "http://aqwwiki.wikidot.com/evolved-rouge-armor",
+    "name": "Evolved Rouge Armor",
+    "type": "armors",
+    "description": "\"Rouge\" Definition: any of various red cosmetics for coloring the cheeks or lips",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-rouge-armor/EvolvedRougeArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/evolved-rouge-armor/EvolvedRougeArmorF.png"
+    ],
+    "hash": "ad31c0b329639621ec51f7117b849baa"
+}

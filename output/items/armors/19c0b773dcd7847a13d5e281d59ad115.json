@@ -1,0 +1,19 @@
+{
+    "urlName": "frozenshard-courtier-ac",
+    "url": "http://aqwwiki.wikidot.com/frozenshard-courtier-ac",
+    "name": "FrozenShard Courtier (AC)",
+    "type": "armors",
+    "description": "Nature is cold, wet, hard and unforgiving. As are these courtiers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/HzjRlx8.png",
+        "https://i.imgur.com/jX0NZNh.png",
+        "https://i.imgur.com/huUlGie.png",
+        "https://i.imgur.com/LEvip13.png"
+    ],
+    "hash": "19c0b773dcd7847a13d5e281d59ad115"
+}

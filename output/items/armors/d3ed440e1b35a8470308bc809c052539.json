@@ -1,0 +1,18 @@
+{
+    "urlName": "priests-of-the-scorpion",
+    "url": "http://aqwwiki.wikidot.com/priests-of-the-scorpion",
+    "name": "Priests of the Scorpion",
+    "type": "armors",
+    "description": "The highest members in the Cult of the Scorpions, these priests are able to cast spells only found in the sacred scrolls of their cult. Ranging from plagues to infestations, this priests aid their armies in with their magical creations.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/50UKHKd.png",
+        "http://i.imgur.com/kZ4EBsw.png"
+    ],
+    "hash": "d3ed440e1b35a8470308bc809c052539"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "somnian-bard",
+    "url": "http://aqwwiki.wikidot.com/somnian-bard",
+    "name": "Somnian Bard",
+    "type": "armors",
+    "description": "The music of the celestial spheres is translated into modern music by the Somnian Bards.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/yMlE7X8.png",
+        "https://i.imgur.com/M2qunGY.png"
+    ],
+    "hash": "bb7aa0c27ae07fd55895018056bd2740"
+}

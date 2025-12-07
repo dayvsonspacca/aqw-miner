@@ -1,0 +1,19 @@
+{
+    "urlName": "cor-mortis-champion",
+    "url": "http://aqwwiki.wikidot.com/cor-mortis-champion",
+    "name": "Cor Mortis Champion",
+    "type": "armors",
+    "description": "Even creatures of the night need to look classy.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cor-mortis-champion/CorMortisChampionMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/cor-mortis-champion/CorMortisChampionMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/cor-mortis-champion/CorMortisChampionFN.png",
+        "http://aqwwiki.wdfiles.com/local--files/cor-mortis-champion/CorMortisChampionFO.png"
+    ],
+    "hash": "cfd41f9dceac596eb4e8ca8aeb04b5e6"
+}

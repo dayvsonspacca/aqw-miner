@@ -1,0 +1,17 @@
+{
+    "urlName": "cursed-healer",
+    "url": "http://aqwwiki.wikidot.com/cursed-healer",
+    "name": "Cursed Healer",
+    "type": "armors",
+    "description": "Is it really healing if you leech your patient's life energy and consume it to fuel your magical endeavors? Suspicious. O_O",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/4rCQUYl.png",
+        "https://i.imgur.com/FPKqA7l.png"
+    ],
+    "hash": "80ce5daafb638a9288cada09a25e16a2"
+}

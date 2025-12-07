@@ -1,0 +1,17 @@
+{
+    "urlName": "spirit-of-famine-legend",
+    "url": "http://aqwwiki.wikidot.com/spirit-of-famine-legend",
+    "name": "Spirit of Famine (Legend)",
+    "type": "armors",
+    "description": "The spirit of the Horsemen of Famine has possessed you. This means we are all blaming you for the fruit snack shortage.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/96jmRup.png",
+        "http://i.imgur.com/RKy4fUl.png"
+    ],
+    "hash": "b5cd165a1711262c79fac2763deacfd3"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "druid-warrior",
+    "url": "http://aqwwiki.wikidot.com/druid-warrior",
+    "name": "Druid Warrior",
+    "type": "armors",
+    "description": "Take the form of a Greenguard Druid and help the Elk Clan fight the invading void forces!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/druid-warrior/DruidWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/druid-warrior/DruidWarriorFemale.png"
+    ],
+    "hash": "0431edd6a92c9ac9bfec1198175b7896"
+}

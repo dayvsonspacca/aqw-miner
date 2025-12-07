@@ -1,0 +1,17 @@
+{
+    "urlName": "blood-of-cerberus-armor",
+    "url": "http://aqwwiki.wikidot.com/blood-of-cerberus-armor",
+    "name": "Blood of Cerberus (Armor)",
+    "type": "armors",
+    "description": "Have what it takes to serve as a minion of Cerberus? All contracts must be signed by blood in triplicate?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-of-cerberus-armor/BloodofCerberusM.png",
+        "http://aqwwiki.wdfiles.com/local--files/blood-of-cerberus-armor/BloodofCerberusF.png"
+    ],
+    "hash": "584adb0368714a15942d7379439728be"
+}

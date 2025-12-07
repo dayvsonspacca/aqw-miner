@@ -1,0 +1,17 @@
+{
+    "urlName": "protoblaster-armor",
+    "url": "http://aqwwiki.wikidot.com/protoblaster-armor",
+    "name": "ProtoBlaster Armor",
+    "type": "armors",
+    "description": "Fight for the future! And that future is Dage and the Legion!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/protoblaster-armor/PBm.png",
+        "http://aqwwiki.wdfiles.com/local--files/protoblaster-armor/PBf.png"
+    ],
+    "hash": "8197567ba41cc9aa70d7b2eef78b7944"
+}

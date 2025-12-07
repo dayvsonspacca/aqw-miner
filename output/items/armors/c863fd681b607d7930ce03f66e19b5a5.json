@@ -1,0 +1,17 @@
+{
+    "urlName": "colorful-claws-suit",
+    "url": "http://aqwwiki.wikidot.com/colorful-claws-suit",
+    "name": "Colorful Claws Suit",
+    "type": "armors",
+    "description": "Tis the season to be jolly\u2026 and color custom! Show your Frostval spirit with this suit and holiday /cheer!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/colorful-claws-suit/ColorfulClawsSuitMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/colorful-claws-suit/ColorfulClawsSuitFemale.png"
+    ],
+    "hash": "c863fd681b607d7930ce03f66e19b5a5"
+}

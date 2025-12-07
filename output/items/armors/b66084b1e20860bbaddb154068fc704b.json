@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-void-tiger",
+    "url": "http://aqwwiki.wikidot.com/frost-void-tiger",
+    "name": "Frost Void Tiger",
+    "type": "armors",
+    "description": "A beast can hunt for too long. They lose themselves in bloodlust and evolve further, achieving heights and lows unimaginable.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/u941kH9.png",
+        "https://i.imgur.com/ek020xX.png"
+    ],
+    "hash": "b66084b1e20860bbaddb154068fc704b"
+}

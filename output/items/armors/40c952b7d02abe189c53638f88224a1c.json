@@ -1,0 +1,17 @@
+{
+    "urlName": "blue-wedding-guest",
+    "url": "http://aqwwiki.wikidot.com/blue-wedding-guest",
+    "name": "Blue Wedding Guest",
+    "type": "armors",
+    "description": "One must ALWAYS dress one's best when attending the wedding of one's creator!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blue-wedding-guest/BlueWeddingGuestM.png",
+        "http://aqwwiki.wdfiles.com/local--files/blue-wedding-guest/BlueWeddingGuestF.png"
+    ],
+    "hash": "40c952b7d02abe189c53638f88224a1c"
+}

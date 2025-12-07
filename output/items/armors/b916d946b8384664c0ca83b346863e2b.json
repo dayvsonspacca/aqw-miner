@@ -1,0 +1,17 @@
+{
+    "urlName": "sheevra-armor",
+    "url": "http://aqwwiki.wikidot.com/sheevra-armor",
+    "name": "Sheevra Armor",
+    "type": "armors",
+    "description": "What better way to blend in at the Sheevra Masquerade party than dressing like a Scriptkeeper?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kGGmX79.png",
+        "https://i.imgur.com/m6LKeAX.png",
+        "https://imgur.com/51kILes.png"
+    ],
+    "hash": "b916d946b8384664c0ca83b346863e2b"
+}

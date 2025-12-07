@@ -1,0 +1,16 @@
+{
+    "urlName": "mountaineer",
+    "url": "http://aqwwiki.wikidot.com/mountaineer",
+    "name": "Mountaineer",
+    "type": "armors",
+    "description": "A slim-fitting down-filled armor favored by fashion-savvy mountaineers. Take that, Old Man Winter!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/qqzVKs4.png",
+        "https://i.imgur.com/zy0tN3B.png"
+    ],
+    "hash": "6ad2523653d822d992788c56c2dc443a"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "skye-warden-of-the-east",
+    "url": "http://aqwwiki.wikidot.com/skye-warden-of-the-east",
+    "name": "Skye Warden of the East",
+    "type": "armors",
+    "description": "The Warden of the East is a title given to the eldest child of Skye's Ruler, marking them as heir. They are warriors skilled in combat and magic, tasked with protecting the sacred hill of coronation.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Oolg08u.png",
+        "https://i.imgur.com/2Qq82Ic.png"
+    ],
+    "hash": "169e889c6a6c3d4efccce61e9a7a3ae5"
+}

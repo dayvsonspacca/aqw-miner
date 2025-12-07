@@ -1,0 +1,17 @@
+{
+    "urlName": "dreadforce-mercenary",
+    "url": "http://aqwwiki.wikidot.com/dreadforce-mercenary",
+    "name": "DreadForce Mercenary",
+    "type": "armors",
+    "description": "A new job just came in. Employ a combination of combat skill and proffesional yapping to take down your targets.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/sZAUX6D.png",
+        "https://i.imgur.com/Z1kNFy5.png"
+    ],
+    "hash": "3fa0b8fb2282d2d4659372afa5dc1f61"
+}

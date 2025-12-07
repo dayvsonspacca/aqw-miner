@@ -1,0 +1,18 @@
+{
+    "urlName": "steamgear-armor",
+    "url": "http://aqwwiki.wikidot.com/steamgear-armor",
+    "name": "SteamGear Armor",
+    "type": "armors",
+    "description": "Tomix personally crafted this steampunk themed armor especially for his AQW fans! It's the style of clothing favored by traveling steampunk tinkerers called SteamGears.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/x2vdtzN.png",
+        "http://aqwwiki.wdfiles.com/local--files/steamgear-armor/SteamgearM.png",
+        "http://aqwwiki.wdfiles.com/local--files/steamgear-armor/SteamgearF.png"
+    ],
+    "hash": "4b51c6322467293ef1350e9110b634c5"
+}

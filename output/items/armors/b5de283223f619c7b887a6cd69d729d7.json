@@ -1,0 +1,17 @@
+{
+    "urlName": "sun-lord-and-lady-merge",
+    "url": "http://aqwwiki.wikidot.com/sun-lord-and-lady-merge",
+    "name": "Sun Lord and Lady (Merge)",
+    "type": "armors",
+    "description": "The sun shines brightly over the island of Yokai, thanks is large part to the patronage of the Sunlord and Sunlady. Show respect to those who renew the light at the beginning of each day!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sun-lord-and-lady-merge/SunLord.png",
+        "http://aqwwiki.wdfiles.com/local--files/sun-lord-and-lady-merge/SunLady.png"
+    ],
+    "hash": "b5de283223f619c7b887a6cd69d729d7"
+}

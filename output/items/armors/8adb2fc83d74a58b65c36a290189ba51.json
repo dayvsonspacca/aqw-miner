@@ -1,0 +1,16 @@
+{
+    "urlName": "starlord-prime",
+    "url": "http://aqwwiki.wikidot.com/starlord-prime",
+    "name": "StarLord Prime",
+    "type": "armors",
+    "description": "StarLords can withstand massive damage when protected by their ballistic armor. Unlocked by purchasing a Star Captain package in MechQuest.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Special Offer"
+    ],
+    "images": [
+        "http://imgur.com/cMCoB9u.png",
+        "http://i.imgur.com/F9byQGB.png"
+    ],
+    "hash": "8adb2fc83d74a58b65c36a290189ba51"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "gothic-formal-wear",
+    "url": "http://aqwwiki.wikidot.com/gothic-formal-wear",
+    "name": "Gothic Formal Wear",
+    "type": "armors",
+    "description": "When you're wandering through a strange new realm, looking good means feeling confident. And confidence makes you a less attractive target for enemies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/6T5bMnE.png",
+        "https://i.imgur.com/TfafaO3.png"
+    ],
+    "hash": "79209ef3a085b8730b3ff08aae847039"
+}

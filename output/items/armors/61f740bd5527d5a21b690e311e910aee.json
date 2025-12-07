@@ -1,0 +1,17 @@
+{
+    "urlName": "dragontamer",
+    "url": "http://aqwwiki.wikidot.com/dragontamer",
+    "name": "Dragontamer",
+    "type": "armors",
+    "description": "Dragontamer!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragontamer/DragontamerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragontamer/DragontamerFemale.png"
+    ],
+    "hash": "61f740bd5527d5a21b690e311e910aee"
+}

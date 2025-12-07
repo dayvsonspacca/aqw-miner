@@ -1,0 +1,18 @@
+{
+    "urlName": "cryostorm-wolf-warrior",
+    "url": "http://aqwwiki.wikidot.com/cryostorm-wolf-warrior",
+    "name": "Cryostorm Wolf Warrior",
+    "type": "armors",
+    "description": "Wolf pelts aren't needed when self-heating metal will better endure through the harshest winters in the Northlands. Luckily, the plate does not burn the skin as long as the interior leather doesn't peel off.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cryostorm-wolf-warrior/CryostormWolfWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cryostorm-wolf-warrior/CryostormWolfWarriorF.png"
+    ],
+    "hash": "5e08d184a6543fb3a38d5d1ae328f4d3"
+}

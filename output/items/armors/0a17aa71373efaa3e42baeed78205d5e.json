@@ -1,0 +1,17 @@
+{
+    "urlName": "custom-dragarian",
+    "url": "http://aqwwiki.wikidot.com/custom-dragarian",
+    "name": "Custom Dragarian",
+    "type": "armors",
+    "description": "\u2026Rugged strength just pours forth from this armor. Anyone wearing it will feel the confidence of the greatest warrior pemeate his or her body, readying them for combat. Customize this for optimal fighting.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/custom-dragarian/CustomDragarianMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/custom-dragarian/CustomDragarianFemale.png"
+    ],
+    "hash": "0a17aa71373efaa3e42baeed78205d5e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "mystic-adventurer",
+    "url": "http://aqwwiki.wikidot.com/mystic-adventurer",
+    "name": "Mystic Adventurer",
+    "type": "armors",
+    "description": "On All Moglo's Eve, creatures roam Lore again, in search of their lost souls. The Mystic Adventurer makes sure that these creatures never find those souls again. For if they do, it will mean the end of LORE!!!!! (BAHAHAHAHA)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mystic-adventurer/MAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mystic-adventurer/MAF.png"
+    ],
+    "hash": "9106c3fd6ccd02b4099e4d4013167222"
+}

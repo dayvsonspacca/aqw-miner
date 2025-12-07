@@ -1,0 +1,17 @@
+{
+    "urlName": "covert-falcon-ranger",
+    "url": "http://aqwwiki.wikidot.com/covert-falcon-ranger",
+    "name": "Covert Falcon Ranger",
+    "type": "armors",
+    "description": "Swift and precise, your prey won't know that you're circling them until it's too late.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/n1SuXho.png",
+        "https://i.imgur.com/niAaRqy.png"
+    ],
+    "hash": "a561438e6e432a4f9658ec50f9759cef"
+}

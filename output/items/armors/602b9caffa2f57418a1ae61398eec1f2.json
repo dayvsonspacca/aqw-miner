@@ -1,0 +1,16 @@
+{
+    "urlName": "classy-bunny",
+    "url": "http://aqwwiki.wikidot.com/classy-bunny",
+    "name": "Classy Bunny",
+    "type": "armors",
+    "description": "Hoppy Grenwog!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/UMEtFEa.png",
+        "https://imgur.com/oYQJLIj.png"
+    ],
+    "hash": "602b9caffa2f57418a1ae61398eec1f2"
+}

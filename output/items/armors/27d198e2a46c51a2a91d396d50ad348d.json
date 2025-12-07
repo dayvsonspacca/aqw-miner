@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-villager-armor",
+    "url": "http://aqwwiki.wikidot.com/frostval-villager-armor",
+    "name": "Frostval Villager Armor",
+    "type": "armors",
+    "description": "In the little town of Snowsheart Peak, the villagers know you have to depend on each other, because the world is cold and dark and scary. But by helping each other, everything --",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1CNDDFL.png",
+        "https://i.imgur.com/DIdtodY.png"
+    ],
+    "hash": "27d198e2a46c51a2a91d396d50ad348d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "spooky-goth-outfit",
+    "url": "http://aqwwiki.wikidot.com/spooky-goth-outfit",
+    "name": "Spooky Goth Outfit",
+    "type": "armors",
+    "description": "*Spooky music plays as fog creeps through the town.* O_O",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/XjrXhTT.png",
+        "https://i.imgur.com/MMO5gRM.png"
+    ],
+    "hash": "82bde869a57e5345321a537fb4f3bfd2"
+}

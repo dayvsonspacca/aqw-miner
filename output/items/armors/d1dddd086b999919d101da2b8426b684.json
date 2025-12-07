@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-vampire-slayer-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-vampire-slayer-ac",
+    "name": "Dark Vampire Slayer (AC)",
+    "type": "armors",
+    "description": "A good slayer doesn't just stake the sparkly ones, they go after all vampire kind. You're not just some crazy person, you're the slayer!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/Bg2Ic1I.png",
+        "https://imgur.com/DMnGMqA.png"
+    ],
+    "hash": "d1dddd086b999919d101da2b8426b684"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "drow-oathkeeper",
+    "url": "http://aqwwiki.wikidot.com/drow-oathkeeper",
+    "name": "Drow Oathkeeper",
+    "type": "armors",
+    "description": "The Drow who toiled under the tyranny of Dragonlord Vath have abandoned their old lives to take a new oath. Their blades will now be raised to protect the humans and Dwarves who welcomed them into their homes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/R4J018o.png",
+        "https://i.imgur.com/CoWfjWo.png"
+    ],
+    "hash": "36562b6be10ad1a8d4448815ee4847ae"
+}

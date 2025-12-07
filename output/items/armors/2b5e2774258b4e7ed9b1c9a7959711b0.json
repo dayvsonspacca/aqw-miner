@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-cheermaker",
+    "url": "http://aqwwiki.wikidot.com/frostval-cheermaker",
+    "name": "Frostval Cheermaker",
+    "type": "armors",
+    "description": "Jingle bells pinned to festive red lapels. Twinkling stars and special moments written into a memoir. The holidays are only once a year. Put your whole heart into it!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hsDcNgB.png",
+        "https://i.imgur.com/YSTUbuM.png"
+    ],
+    "hash": "2b5e2774258b4e7ed9b1c9a7959711b0"
+}

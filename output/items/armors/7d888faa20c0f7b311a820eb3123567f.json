@@ -1,0 +1,16 @@
+{
+    "urlName": "gunslinger-from-the-west",
+    "url": "http://aqwwiki.wikidot.com/gunslinger-from-the-west",
+    "name": "Gunslinger From The West",
+    "type": "armors",
+    "description": "They rode into town from the west, on the heels of a dust storm. The first night they were here, they took out the toughhest outlaw our town has ever seen, and then they were gone - as mysteriously as the came.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gunslinger-from-the-west/GFTWM.png",
+        "http://aqwwiki.wdfiles.com/local--files/gunslinger-from-the-west/GFTWF.png"
+    ],
+    "hash": "7d888faa20c0f7b311a820eb3123567f"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "swordhaven-diplomat",
+    "url": "http://aqwwiki.wikidot.com/swordhaven-diplomat",
+    "name": "Swordhaven Diplomat",
+    "type": "armors",
+    "description": "Swordhaven is home to more than fish and neutrality. These diplomats enjoy neither candy, nor war, but will take up a blade if ensuring peace requires it.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/rdqOk4n.png",
+        "https://i.imgur.com/cQAo0aS.png"
+    ],
+    "hash": "b09b0a56e1c8dfc8d596b8f8914829da"
+}

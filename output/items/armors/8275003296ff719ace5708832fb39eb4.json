@@ -1,0 +1,18 @@
+{
+    "urlName": "steampunk-pirate-captain",
+    "url": "http://aqwwiki.wikidot.com/steampunk-pirate-captain",
+    "name": "SteamPunk Pirate Captain",
+    "type": "armors",
+    "description": "Man t' wheel as you and your hearties turn t' gears on your ship as you venture for teasure and adventure on t' open sea!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/steampunk-pirate-captain/SPPCMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/steampunk-pirate-captain/SPPCMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/steampunk-pirate-captain/SPPCF.png"
+    ],
+    "hash": "8275003296ff719ace5708832fb39eb4"
+}

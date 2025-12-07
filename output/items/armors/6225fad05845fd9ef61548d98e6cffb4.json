@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-timeseeker",
+    "url": "http://aqwwiki.wikidot.com/enchanted-timeseeker",
+    "name": "Enchanted Timeseeker",
+    "type": "armors",
+    "description": "Only the most skilled Treasurehunters become Timeseekers, questing across the timestreams that make up the fabric of our universe. (This item is color customizable.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bXNH7D9.png",
+        "https://i.imgur.com/dLu1dyH.png"
+    ],
+    "hash": "6225fad05845fd9ef61548d98e6cffb4"
+}

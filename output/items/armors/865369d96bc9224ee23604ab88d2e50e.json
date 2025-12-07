@@ -1,0 +1,16 @@
+{
+    "urlName": "arch-doomknight",
+    "url": "http://aqwwiki.wikidot.com/arch-doomknight",
+    "name": "Arch DoomKnight",
+    "type": "armors",
+    "description": "The Arch Doomknights were once a duo of corrupt dragonslayers who traded their lives to become death knights in their quest for power and fame.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/LT5yjwq.png",
+        "https://i.imgur.com/d46KM79.png"
+    ],
+    "hash": "865369d96bc9224ee23604ab88d2e50e"
+}

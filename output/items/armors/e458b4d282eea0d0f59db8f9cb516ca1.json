@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-dreadhaven-general",
+    "url": "http://aqwwiki.wikidot.com/cyber-dreadhaven-general",
+    "name": "Cyber Dreadhaven General",
+    "type": "armors",
+    "description": "You long to see Swordhaven fall and Dreadhaven return to its glory. (5% chance to do the Ice Comet attack animation, 15% Class Points Boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/P9ZS5Ey.png",
+        "http://i.imgur.com/n0SqEsc.png",
+        "http://i.imgur.com/iOvFQkz.png"
+    ],
+    "hash": "e458b4d282eea0d0f59db8f9cb516ca1"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chronoz-ac",
+    "url": "http://aqwwiki.wikidot.com/chronoz-ac",
+    "name": "ChronoZ (AC)",
+    "type": "armors",
+    "description": "Time is a merciless and inevitable force. One that grinds, rends, and disintigrates the body. That power is yours to accelerate or reverse.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/izYahhb.png",
+        "https://i.imgur.com/sxQzHbh.png"
+    ],
+    "hash": "ad1a64b9aee1951e9f6b9eb325485f02"
+}

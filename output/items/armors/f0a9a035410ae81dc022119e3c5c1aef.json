@@ -1,0 +1,16 @@
+{
+    "urlName": "clucky-moo-armor",
+    "url": "http://aqwwiki.wikidot.com/clucky-moo-armor",
+    "name": "Clucky Moo (Armor)",
+    "type": "armors",
+    "description": "Don't hold it against them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/IJm4JbR.png",
+        "https://i.imgur.com/37q10re.png"
+    ],
+    "hash": "f0a9a035410ae81dc022119e3c5c1aef"
+}

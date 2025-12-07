@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-rammer",
+    "url": "http://aqwwiki.wikidot.com/frost-rammer",
+    "name": "Frost Rammer",
+    "type": "armors",
+    "description": "Once, an elemental was asked to take a full on brunt smash by the one who forged this armor. The elemental moved away unable to think coherently for a week. Imagine what you could do with it\u2026",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-rammer/FRM.png",
+        "http://aqwwiki.wdfiles.com/local--files/frost-rammer/FRF.png"
+    ],
+    "hash": "734c5ab01b98d0ad1c9c2b16b7be6fff"
+}

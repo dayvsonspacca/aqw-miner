@@ -1,0 +1,17 @@
+{
+    "urlName": "prisma-guard",
+    "url": "http://aqwwiki.wikidot.com/prisma-guard",
+    "name": "Prisma Guard",
+    "type": "armors",
+    "description": "A sleek plugsuit that shifts mesmerisingly between colours.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Mn49I1z.gif",
+        "https://i.imgur.com/jtHHF8E.gif"
+    ],
+    "hash": "d14f949cfbdaaec3b2cd3876e6e811fa"
+}

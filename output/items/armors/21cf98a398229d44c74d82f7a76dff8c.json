@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonlord-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/dragonlord-naval-commander-ac",
+    "name": "DragonLord Naval Commander (AC)",
+    "type": "armors",
+    "description": "Yarrrr! Most landlubbers never hear of th' fleet o' ships the DragonLords command. But with their dragon companions, they be fearsome fighters, on land, sea, AND air.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/dyTLceW.png",
+        "https://i.imgur.com/q84jeX1.png"
+    ],
+    "hash": "21cf98a398229d44c74d82f7a76dff8c"
+}

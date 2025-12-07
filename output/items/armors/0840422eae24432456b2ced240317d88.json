@@ -1,0 +1,17 @@
+{
+    "urlName": "doctor-why-ac",
+    "url": "http://aqwwiki.wikidot.com/doctor-why-ac",
+    "name": "Doctor Why (AC)",
+    "type": "armors",
+    "description": "Question. What happens when a doctor and a master get together? Say something nice to find out.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doctor-why-ac/DoctorWhyM.png",
+        "http://aqwwiki.wdfiles.com/local--files/doctor-why-ac/DoctorWhyF.png"
+    ],
+    "hash": "0840422eae24432456b2ced240317d88"
+}

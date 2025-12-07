@@ -1,0 +1,17 @@
+{
+    "urlName": "skyguard-uniform",
+    "url": "http://aqwwiki.wikidot.com/skyguard-uniform",
+    "name": "Skyguard Uniform",
+    "type": "armors",
+    "description": "Patrolling the skies above the kingdom of Swordhaven, the Skyguard are elite members of King Alteon's flying army. Much more than just a job, the Skyguard is a life-long commitment.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skyguard-uniform/SkyguardUniformM.png",
+        "http://aqwwiki.wdfiles.com/local--files/skyguard-uniform/SkyguardUniformF.png"
+    ],
+    "hash": "cca0ab2c3bf9f1a69da79cec79319722"
+}

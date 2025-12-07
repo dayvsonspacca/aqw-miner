@@ -1,0 +1,17 @@
+{
+    "urlName": "darkside-ascension-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/darkside-ascension-armor-ac",
+    "name": "Darkside Ascension Armor (AC)",
+    "type": "armors",
+    "description": "Once, heroes joined the Darkside for cookies. It is the pure, intoxicating power of the shadows that keeps them here.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/KkgMqXf.png",
+        "https://i.imgur.com/6Sovh5s.png"
+    ],
+    "hash": "41a5c4cb86ac5bc2b0a2721b341f652c"
+}

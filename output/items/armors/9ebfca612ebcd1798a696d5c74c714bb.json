@@ -1,0 +1,16 @@
+{
+    "urlName": "solar-flux",
+    "url": "http://aqwwiki.wikidot.com/solar-flux",
+    "name": "Solar Flux",
+    "type": "armors",
+    "description": "A master armorsmith by trade, Reddy has crafted an armor like no other. Capturing and solidifying the flames of a star, this armor burns all who attempt to strike you, leaving their weapons and their hands scorched.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/vqWzHvU.png",
+        "http://i.imgur.com/3bl68vB.png"
+    ],
+    "hash": "9ebfca612ebcd1798a696d5c74c714bb"
+}

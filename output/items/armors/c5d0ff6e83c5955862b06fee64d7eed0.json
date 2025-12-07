@@ -1,0 +1,19 @@
+{
+    "urlName": "sheevra-masquerade",
+    "url": "http://aqwwiki.wikidot.com/sheevra-masquerade",
+    "name": "Sheevra Masquerade",
+    "type": "armors",
+    "description": "Mogloween Dress-Up done fancy.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/OI56ImY.png",
+        "http://i.imgur.com/lOAZOQX.png",
+        "http://aqwwiki.wdfiles.com/local--files/sheevra-masquerade/SheevraMasqMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/sheevra-masquerade/SheevraMasqFOld.png"
+    ],
+    "hash": "c5d0ff6e83c5955862b06fee64d7eed0"
+}

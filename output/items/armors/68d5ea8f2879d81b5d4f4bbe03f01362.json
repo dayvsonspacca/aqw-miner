@@ -1,0 +1,17 @@
+{
+    "urlName": "cyborg-monk",
+    "url": "http://aqwwiki.wikidot.com/cyborg-monk",
+    "name": "Cyborg Monk",
+    "type": "armors",
+    "description": "Individuals enhanced by cybernetics that have mastered multiple martial arts. This form does not need rest or sustenance. It exists to achieve the highest of physical peaks.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MO1eLvZ.png",
+        "https://i.imgur.com/lR6Szem.png"
+    ],
+    "hash": "68d5ea8f2879d81b5d4f4bbe03f01362"
+}

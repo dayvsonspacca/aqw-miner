@@ -1,0 +1,17 @@
+{
+    "urlName": "chrono-tripper-armor",
+    "url": "http://aqwwiki.wikidot.com/chrono-tripper-armor",
+    "name": "Chrono Tripper Armor",
+    "type": "armors",
+    "description": "Make sure you have a spare 1.21 gigawatts to be able to get to your next destination.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chrono-tripper-armor/ChronoTripperArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chrono-tripper-armor/ChronoTripperArmorFemale.png"
+    ],
+    "hash": "e98a5f616fdbe08692eb77bf920efbb0"
+}

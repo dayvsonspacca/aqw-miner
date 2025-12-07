@@ -1,0 +1,16 @@
+{
+    "urlName": "blood-terror",
+    "url": "http://aqwwiki.wikidot.com/blood-terror",
+    "name": "Blood Terror",
+    "type": "armors",
+    "description": "The armor is crafted so that the plates can be used as weapons themselves. A favorite of berserkers.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/00meMFh.png",
+        "http://i.imgur.com/KS54vNB.png"
+    ],
+    "hash": "e47c788e63a1e1a0caadcc6ca65eeaa4"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "permafrost-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/permafrost-dragonslayer",
+    "name": "Permafrost Dragonslayer",
+    "type": "armors",
+    "description": "As a final parting shot, an Ice Dragon permanently scarred the Dragonslayers who slew it. Cold breath froze their blood, but the warriors took it in stride. Reborn in frost, they were gifted with the ability to thrive in the permafrost.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KOVW0LF.png",
+        "https://i.imgur.com/vnwhmf1.png"
+    ],
+    "hash": "39154a3b5b5d348b94b72274543c20f0"
+}

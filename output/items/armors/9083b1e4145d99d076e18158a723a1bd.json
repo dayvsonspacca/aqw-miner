@@ -1,0 +1,17 @@
+{
+    "urlName": "stronger",
+    "url": "http://aqwwiki.wikidot.com/stronger",
+    "name": "Stronger",
+    "type": "armors",
+    "description": "To die on the battlefield would be the greatest honor to you\u2026 But today isn't that day!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/stronger/StrongerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/stronger/StrongerF.png"
+    ],
+    "hash": "9083b1e4145d99d076e18158a723a1bd"
+}

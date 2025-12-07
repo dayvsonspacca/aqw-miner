@@ -1,0 +1,15 @@
+{
+    "urlName": "crypt-rogue",
+    "url": "http://aqwwiki.wikidot.com/crypt-rogue",
+    "name": "Crypt Rogue",
+    "type": "armors",
+    "description": "Your gold or your life? Your choice. One way or another, you'll give your fair share to Nulgath the ArchFiend.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/IgfaoVc.png"
+    ],
+    "hash": "4888b97d797113bdf72b540d6d5cdc21"
+}

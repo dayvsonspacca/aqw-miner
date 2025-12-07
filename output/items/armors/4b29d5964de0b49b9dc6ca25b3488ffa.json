@@ -1,0 +1,16 @@
+{
+    "urlName": "crystallis-gymwear",
+    "url": "http://aqwwiki.wikidot.com/crystallis-gymwear",
+    "name": "Crystallis Gymwear",
+    "type": "armors",
+    "description": "The streets need order, and you can't keep order if you're slacking at the gym.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/Y0ZuF8c.png",
+        "https://imgur.com/xiEdyOI.png"
+    ],
+    "hash": "4b29d5964de0b49b9dc6ca25b3488ffa"
+}

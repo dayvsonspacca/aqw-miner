@@ -1,0 +1,16 @@
+{
+    "urlName": "dead-knight",
+    "url": "http://aqwwiki.wikidot.com/dead-knight",
+    "name": "Dead Knight",
+    "type": "armors",
+    "description": "Recruitment posters all over DoomWood read: Join the horde of dark-hearted warriors rallying under the banner of the Slayer! Be one with the Darkness; submit to the evil that hardens your heart and rules your life. Become\u2026 a Dead Knight!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dead-knight/DeadKnight.png"
+    ],
+    "hash": "b522e6b88af506a819034e854ce9b06a"
+}

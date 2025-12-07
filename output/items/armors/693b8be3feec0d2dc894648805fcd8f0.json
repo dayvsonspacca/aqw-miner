@@ -1,0 +1,16 @@
+{
+    "urlName": "stone-morph",
+    "url": "http://aqwwiki.wikidot.com/stone-morph",
+    "name": "Stone Morph",
+    "type": "armors",
+    "description": "Through the power of Geopetal, Spirit of Dwarfhold Mountain, you have been transformed into living stone! Your skin is nearly impossible to damage, but you're too heavy to jump on a trampoline now. It's a trade off.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/5dpWiVN.png",
+        "http://imgur.com/oNMPmRM.png"
+    ],
+    "hash": "693b8be3feec0d2dc894648805fcd8f0"
+}

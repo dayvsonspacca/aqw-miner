@@ -1,0 +1,16 @@
+{
+    "urlName": "deluge-dracolich-armor",
+    "url": "http://aqwwiki.wikidot.com/deluge-dracolich-armor",
+    "name": "Deluge Dracolich Armor",
+    "type": "armors",
+    "description": "The tide-like breath of a water dracolich could kill instantly or slowly suffocate the life out of its victim. These types of dracoliches are commonly found on coastlines, resting in forbidden dunes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/PgcKbMC.png",
+        "https://i.imgur.com/aPofOhC.png"
+    ],
+    "hash": "acc026c89f32b25077b1b8893924206c"
+}

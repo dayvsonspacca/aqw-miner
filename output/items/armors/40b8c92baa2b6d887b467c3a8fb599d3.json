@@ -1,0 +1,18 @@
+{
+    "urlName": "dread-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/dread-captain-ac",
+    "name": "Dread Captain (AC)",
+    "type": "armors",
+    "description": "Being a captain has perks like your own hat, pistol and making crew walk the plank.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/YjETjGG.png",
+        "https://i.imgur.com/KVJ3r5c.png",
+        "http://aqwwiki.wdfiles.com/local--resized-images/dread-captain-ac//medium.jpg"
+    ],
+    "hash": "40b8c92baa2b6d887b467c3a8fb599d3"
+}

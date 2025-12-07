@@ -1,0 +1,16 @@
+{
+    "urlName": "hydracaster",
+    "url": "http://aqwwiki.wikidot.com/hydracaster",
+    "name": "HydraCaster",
+    "type": "armors",
+    "description": "The HydraCaster Order sprang from an early off-shoot of the Sisterhood of the Dishpan Hands. They focus on using their water magic to wash away all the ills of the world leaving battlefields clean and pure enough to become farmlands.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/hA6ELSd.png",
+        "http://i.imgur.com/TpkFzQH.png"
+    ],
+    "hash": "8e6b60be189e2e0f3bec0e4574258c70"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "blood-samurai",
+    "url": "http://aqwwiki.wikidot.com/blood-samurai",
+    "name": "Blood Samurai",
+    "type": "armors",
+    "description": "By decree of the Warlord of Yokai Isle, only the truest, bravest warriors are worthy of equipping the Blood Samurai gear.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/oOF2PWs.png",
+        "http://i.imgur.com/nrbjKZx.png"
+    ],
+    "hash": "81352ebc44700b9b841c09f9554aeae9"
+}

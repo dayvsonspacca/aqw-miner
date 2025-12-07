@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowfire-emissary-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowfire-emissary-armor",
+    "name": "Shadowfire Emissary (Armor)",
+    "type": "armors",
+    "description": "Envoys to the emperor, the lord of the Shadowfire would send his emissaries out as messengers to other lords of the Sandsea. Seeing an emissary was never a good thing. They were harbingers of war.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowfire-emissary-armor/ShadowfireEmissaryM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowfire-emissary-armor/ShadowfireEmissaryF.png"
+    ],
+    "hash": "b2467759ef5512bcbedbd58442c45495"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "astravian-officer",
+    "url": "http://aqwwiki.wikidot.com/astravian-officer",
+    "name": "Astravian Officer",
+    "type": "armors",
+    "description": "The standard costume for the officer of Astravia, donning the Astravian's theme.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/qcMoDeu.png",
+        "https://i.imgur.com/H6J9FlV.png"
+    ],
+    "hash": "e84ba12172fb4d96a4534708599a92b5"
+}

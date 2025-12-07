@@ -1,0 +1,16 @@
+{
+    "urlName": "doomknight-prime-armor",
+    "url": "http://aqwwiki.wikidot.com/doomknight-prime-armor",
+    "name": "DoomKnight Prime (Armor)",
+    "type": "armors",
+    "description": "Feared throughout the history of time, the Doom Knight shows little remorse for the living. Sympathy is only derived from brute force. (Cannot be sold, unlocks a set of gear in /Camlan)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/YIK5UcL.png",
+        "http://i.imgur.com/47f8zo7.png"
+    ],
+    "hash": "a30f8018493f7c4dd9d5653df7c55bc6"
+}

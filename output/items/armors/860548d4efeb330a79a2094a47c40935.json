@@ -1,0 +1,17 @@
+{
+    "urlName": "cheer-lover",
+    "url": "http://aqwwiki.wikidot.com/cheer-lover",
+    "name": "Cheer Lover",
+    "type": "armors",
+    "description": "/Cheer for the team you love!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0Hd5WW0.png",
+        "https://i.imgur.com/gsnrKoA.png"
+    ],
+    "hash": "860548d4efeb330a79a2094a47c40935"
+}

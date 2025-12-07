@@ -1,0 +1,17 @@
+{
+    "urlName": "skyguard-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/skyguard-commander-ac",
+    "name": "Skyguard Commander (AC)",
+    "type": "armors",
+    "description": "Yarrr! Ye be the captain of a Skyship, and yer main goal is to launch serial attacks against th' forces of Chaos. For King, for crown, for SWORDHAVEN!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/J3dmCRh.png",
+        "https://i.imgur.com/KPt7FJN.png"
+    ],
+    "hash": "843cc03b6647081240ccef9e14a91198"
+}

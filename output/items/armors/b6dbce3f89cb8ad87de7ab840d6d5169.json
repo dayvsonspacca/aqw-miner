@@ -1,0 +1,17 @@
+{
+    "urlName": "erudite-plague-doctor",
+    "url": "http://aqwwiki.wikidot.com/erudite-plague-doctor",
+    "name": "Erudite Plague Doctor",
+    "type": "armors",
+    "description": "Doctors who hunt for the cure to the most dangerous of diseases. Whether it's Lycanthropy, Vampirism, or corruption of evil origin - they must be eradicated by any means necessary.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wvx2OsU.png",
+        "https://i.imgur.com/VB0Xc8W.png"
+    ],
+    "hash": "b6dbce3f89cb8ad87de7ab840d6d5169"
+}

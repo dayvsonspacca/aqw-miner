@@ -1,0 +1,16 @@
+{
+    "urlName": "ascendant",
+    "url": "http://aqwwiki.wikidot.com/ascendant",
+    "name": "Ascendant",
+    "type": "armors",
+    "description": "Ascendants are Atealan mages who can bend the power of the cosmos to their will, gaining power from the six zodiac signs of the Atealans to channel in battle.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/BnvG52b.png",
+        "https://i.imgur.com/b3DKgYm.png"
+    ],
+    "hash": "fc9bee7f0b16ba65b96d6126643a4a40"
+}

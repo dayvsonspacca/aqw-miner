@@ -1,0 +1,16 @@
+{
+    "urlName": "combat-engineer",
+    "url": "http://aqwwiki.wikidot.com/combat-engineer",
+    "name": "Combat Engineer",
+    "type": "armors",
+    "description": "To battle more efficiently, teach yourself combat engineering!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/YKUdQq5.png",
+        "https://i.imgur.com/lhiU1wd.png"
+    ],
+    "hash": "bb21027b39836109f74503824f367191"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dimmed-falconeer-ac",
+    "url": "http://aqwwiki.wikidot.com/dimmed-falconeer-ac",
+    "name": "Dimmed Falconeer (AC)",
+    "type": "armors",
+    "description": "Can ye hear the song o' the falcons in the dimmed sky, laddie? Ach, course ye can. But can ye sing back? Aye, there's the tricky part.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MaHKAYO.png",
+        "https://i.imgur.com/QAFJif7.png"
+    ],
+    "hash": "666ffa7d21e154149bcc65854e04babc"
+}

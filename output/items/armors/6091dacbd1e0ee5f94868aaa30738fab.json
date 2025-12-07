@@ -1,0 +1,15 @@
+{
+    "urlName": "green-draconian",
+    "url": "http://aqwwiki.wikidot.com/green-draconian",
+    "name": "Green Draconian",
+    "type": "armors",
+    "description": "Draconians aren't known for their skilled fighting techniques but rather for their ferocity and brute strength in battle.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/uK0ymHB.png"
+    ],
+    "hash": "6091dacbd1e0ee5f94868aaa30738fab"
+}

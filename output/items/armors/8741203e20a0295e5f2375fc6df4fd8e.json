@@ -1,0 +1,19 @@
+{
+    "urlName": "deathknight-armor",
+    "url": "http://aqwwiki.wikidot.com/deathknight-armor",
+    "name": "DeathKnight (Armor)",
+    "type": "armors",
+    "description": "A DeathKnight is a mockery of all that the Paladin Order stand for. Where paladins stand for light and life, DeathKnights represent only darkness and decay. A DeathKnight is one of the most feared creatures in all of reality.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathknight-armor/DeathknightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/deathknight-armor/DeathknightF.png"
+    ],
+    "hash": "8741203e20a0295e5f2375fc6df4fd8e"
+}

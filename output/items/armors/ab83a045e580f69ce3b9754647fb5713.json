@@ -1,0 +1,14 @@
+{
+    "urlName": "simple-robe",
+    "url": "http://aqwwiki.wikidot.com/simple-robe",
+    "name": "Simple Robe",
+    "type": "armors",
+    "description": "Robe for Healers.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/oa3yDB6.png",
+        "http://i.imgur.com/PAWxOoH.png"
+    ],
+    "hash": "ab83a045e580f69ce3b9754647fb5713"
+}

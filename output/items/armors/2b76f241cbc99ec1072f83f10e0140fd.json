@@ -1,0 +1,17 @@
+{
+    "urlName": "solarflare-mystic",
+    "url": "http://aqwwiki.wikidot.com/solarflare-mystic",
+    "name": "Solarflare Mystic",
+    "type": "armors",
+    "description": "Each of these mystics are born under a personal star. It gazes down upon them, and stengthens their magic. In exchange, the Mystics make it their lifelong goal to grow their star into a blazing sun.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WeDuUMO.png",
+        "https://i.imgur.com/VHoIVKs.png"
+    ],
+    "hash": "2b76f241cbc99ec1072f83f10e0140fd"
+}

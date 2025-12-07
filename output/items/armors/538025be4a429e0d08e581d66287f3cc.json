@@ -1,0 +1,16 @@
+{
+    "urlName": "blue-hero",
+    "url": "http://aqwwiki.wikidot.com/blue-hero",
+    "name": "Blue Hero",
+    "type": "armors",
+    "description": "Alright everybody now here we go / It's a brand new song for our hero. /",
+    "rarity": "Crazy Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/ExhOUDn.png",
+        "http://i.imgur.com/zN8EWss.png"
+    ],
+    "hash": "538025be4a429e0d08e581d66287f3cc"
+}

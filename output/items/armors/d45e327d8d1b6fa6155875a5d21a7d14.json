@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowsnow-warrior",
+    "url": "http://aqwwiki.wikidot.com/shadowsnow-warrior",
+    "name": "ShadowSnow Warrior",
+    "type": "armors",
+    "description": "Lingering in the shadows, the ShadowSnow Warriors are ready to feast upon your cold and lifeless bodies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowsnow-warrior/ShadowsnowWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowsnow-warrior/ShadowsnowWarriorF.png"
+    ],
+    "hash": "d45e327d8d1b6fa6155875a5d21a7d14"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "evolved-thanatos",
+    "url": "http://aqwwiki.wikidot.com/evolved-thanatos",
+    "name": "Evolved Thanatos",
+    "type": "armors",
+    "description": "Very few have been graced by this fiend's presence and lived to tell the tale. That's okay, Dage is always looking for new recruits.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-thanatos/EvolvedThanatos.png"
+    ],
+    "hash": "8147807ffd7a5178197ef3ede97e3bdd"
+}

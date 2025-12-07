@@ -1,0 +1,18 @@
+{
+    "urlName": "mort-s-pjs",
+    "url": "http://aqwwiki.wikidot.com/mort-s-pjs",
+    "name": "Mort's PJs",
+    "type": "armors",
+    "description": "Mogloween is the best time to break out all of the onesies that have been in your closet. Dress up like Mort!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/pZfs94w.png",
+        "https://imgur.com/W9z8fg7.png"
+    ],
+    "hash": "85add59634002cd3d110f029f5e5c0ed"
+}

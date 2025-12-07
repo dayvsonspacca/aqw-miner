@@ -1,0 +1,17 @@
+{
+    "urlName": "chronomancer-of-light",
+    "url": "http://aqwwiki.wikidot.com/chronomancer-of-light",
+    "name": "Chronomancer of Light",
+    "type": "armors",
+    "description": "On the edge of the Timevoid, a blinding light shines out of the entrance to the Plane of Light. Only Chronomancers of Light possess the magic to survive the combined might of time magic mixed with radiant beams of elemental power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BSV97Nh.png",
+        "https://i.imgur.com/Yaww3oU.png"
+    ],
+    "hash": "12c0f0aa5dddef90720776d9b2b92359"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "gryphonclaw-warrior",
+    "url": "http://aqwwiki.wikidot.com/gryphonclaw-warrior",
+    "name": "GryphonClaw Warrior",
+    "type": "armors",
+    "description": "A warrior must swear several oaths upon joining the martial Order of the Gryphon Claw. The first two are: 1) To defend and protect any creature in danger. 2) To be as brave as a lion and as loyal as an eagle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/gfqFPAp.png",
+        "https://imgur.com/sAdVBcT.png"
+    ],
+    "hash": "9d1f52ece25f6cbae4af1212c000fd37"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "enchanter",
+    "url": "http://aqwwiki.wikidot.com/enchanter",
+    "name": "Enchanter",
+    "type": "armors",
+    "description": "Want to know every weakness and every fear of your enemy? Take on the mantle of Enchanter and know your enemy. Then use your knowledge. Discovered by Digyo, this armor will unnerve even the strongest fighter.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/h7yG31H.png",
+        "http://i.imgur.com/dA65ELR.png"
+    ],
+    "hash": "3519ee1b2a01f46037450641f66859bd"
+}

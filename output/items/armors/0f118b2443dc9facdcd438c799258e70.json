@@ -1,0 +1,14 @@
+{
+    "urlName": "steelplate",
+    "url": "http://aqwwiki.wikidot.com/steelplate",
+    "name": "Steelplate",
+    "type": "armors",
+    "description": "A finely smithed set of steel armor offering moderate protection.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/enUylHG.png",
+        "http://i.imgur.com/1PTTITY.png"
+    ],
+    "hash": "0f118b2443dc9facdcd438c799258e70"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "turkeyslayer",
+    "url": "http://aqwwiki.wikidot.com/turkeyslayer",
+    "name": "TurkeySlayer",
+    "type": "armors",
+    "description": "Master the culinary arts of Turkey Slaying and make this Thanksgiving a little less foul with a lot more fowl!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/CFwomEF.png",
+        "http://i.imgur.com/i91KYZg.png"
+    ],
+    "hash": "4b0bced0ed5c01fdf8391eede2192bc3"
+}

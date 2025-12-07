@@ -1,0 +1,17 @@
+{
+    "urlName": "primal-wraith",
+    "url": "http://aqwwiki.wikidot.com/primal-wraith",
+    "name": "Primal Wraith",
+    "type": "armors",
+    "description": "A living embodiment of hatred and famine. The Primal Wraith often appears during the Harvest to reap all of the food gathered by everyone.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ieJFIj1.png",
+        "https://i.imgur.com/ciLzaGZ.png"
+    ],
+    "hash": "9370db79133bbff0002188792b699908"
+}

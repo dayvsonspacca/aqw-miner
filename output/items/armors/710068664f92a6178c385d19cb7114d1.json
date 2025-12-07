@@ -1,0 +1,16 @@
+{
+    "urlName": "bug-hunter",
+    "url": "http://aqwwiki.wikidot.com/bug-hunter",
+    "name": "Bug Hunter",
+    "type": "armors",
+    "description": "With this, no bug will stand a chance. Rid Lore of pesky bugs. EXTERMINATE!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bug-hunter/BHM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bug-hunter/BHF.png"
+    ],
+    "hash": "710068664f92a6178c385d19cb7114d1"
+}

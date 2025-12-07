@@ -1,0 +1,17 @@
+{
+    "urlName": "arch-vaxen-loremaster",
+    "url": "http://aqwwiki.wikidot.com/arch-vaxen-loremaster",
+    "name": "Arch Vaxen Loremaster",
+    "type": "armors",
+    "description": "Clothed in regal splendor, there's only one person whose lore you need to record: Vaxen's.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/arch-vaxen-loremaster/AVLm.png",
+        "http://aqwwiki.wdfiles.com/local--files/arch-vaxen-loremaster/AVLf.png"
+    ],
+    "hash": "eac9dacf7b59795e255abe732084aa15"
+}

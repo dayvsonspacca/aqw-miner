@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-mp",
+    "url": "http://aqwwiki.wikidot.com/skyguard-mp",
+    "name": "SkyGuard MP",
+    "type": "armors",
+    "description": "The Skyguard Military Police operates as a seperate entity within alteon's Skyguard forces. They are solely responsible for policing the activities of the Skyguard from within thei ranks.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/FdIGuvl.png",
+        "http://i.imgur.com/nvCPocc.png"
+    ],
+    "hash": "b397a13a64af4c261297ec7e04303e21"
+}

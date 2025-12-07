@@ -1,0 +1,19 @@
+{
+    "urlName": "doom-lord-vordred",
+    "url": "http://aqwwiki.wikidot.com/doom-lord-vordred",
+    "name": "Doom Lord Vordred",
+    "type": "armors",
+    "description": "Channel Vordred's endless hatred with this terrifying armor. Who needs more skulls when you have DOOM?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doom-lord-vordred/DoomLordVordredM.png",
+        "http://aqwwiki.wdfiles.com/local--files/doom-lord-vordred/DoomLordVordredFNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/doom-lord-vordred/DoomLordVordredFOld.png"
+    ],
+    "hash": "f94ec6b58dcd5d52af4ab602060b3beb"
+}

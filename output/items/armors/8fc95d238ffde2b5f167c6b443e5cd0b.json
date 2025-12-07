@@ -1,0 +1,16 @@
+{
+    "urlName": "deepspace-sniper",
+    "url": "http://aqwwiki.wikidot.com/deepspace-sniper",
+    "name": "Deepspace Sniper",
+    "type": "armors",
+    "description": "You can hit an alien in the snagblort from 2 millon Astronomical Units.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/kLCn3aC.png",
+        "https://i.imgur.com/Zknh2Jy.png"
+    ],
+    "hash": "8fc95d238ffde2b5f167c6b443e5cd0b"
+}

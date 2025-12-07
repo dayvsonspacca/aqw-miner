@@ -1,0 +1,16 @@
+{
+    "urlName": "solaris-knight",
+    "url": "http://aqwwiki.wikidot.com/solaris-knight",
+    "name": "Solaris Knight",
+    "type": "armors",
+    "description": "The Solaris Knights are a clan that worship the sun and the light. Their nemesis, the Lunaris, have been rivals since the beginning of time. Both fight in the struggle to obtain the powerful artifacts Sol and Luna.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/BsONNZd.png",
+        "https://i.imgur.com/vNexA7t.png"
+    ],
+    "hash": "d0aff63bc7819a7c1e69ee4835d500d9"
+}

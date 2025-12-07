@@ -1,0 +1,17 @@
+{
+    "urlName": "dravir-armor",
+    "url": "http://aqwwiki.wikidot.com/dravir-armor",
+    "name": "Dravir Armor",
+    "type": "armors",
+    "description": "A scaly armor that has been recreated from samples obtained from the Lore of DragonFable, that was worn by the Dravir Soldiers. These fierce warriors thirst for their enemies flesh!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dravir-armor/DravirArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dravir-armor/DravirArmorFemale.png"
+    ],
+    "hash": "ff338916074769a88c2131ccec9d5a38"
+}

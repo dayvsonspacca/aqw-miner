@@ -1,0 +1,17 @@
+{
+    "urlName": "frostguard-commander",
+    "url": "http://aqwwiki.wikidot.com/frostguard-commander",
+    "name": "Frostguard Commander",
+    "type": "armors",
+    "description": "Deck the halls before Dage the Evil can wreck the halls! Defend the town of Frostvale and all of Lore as a Frostguard Commander!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frostguard-commander/FrostguardCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/frostguard-commander/FrostguardCommanderF.png"
+    ],
+    "hash": "ec12c47c140e511ece3217b5d2cfc0b4"
+}

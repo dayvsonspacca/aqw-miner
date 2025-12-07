@@ -1,0 +1,19 @@
+{
+    "urlName": "doctor-what",
+    "url": "http://aqwwiki.wikidot.com/doctor-what",
+    "name": "Doctor What",
+    "type": "armors",
+    "description": "Traveling through space, time, and alternate earths as you defeat your enemies with the power of your unsolvable riddles!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EYsAgf2.png",
+        "http://aqwwiki.wdfiles.com/local--files/doctor-what/DoctorWhatM.png",
+        "http://aqwwiki.wdfiles.com/local--files/doctor-what/DoctorWhatNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/doctor-what/DoctorWhatF.png"
+    ],
+    "hash": "9d3246f2fb0574f0e2ed4c3370235933"
+}

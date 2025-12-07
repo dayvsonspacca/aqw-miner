@@ -1,0 +1,17 @@
+{
+    "urlName": "mystical-ascended-soulweaver",
+    "url": "http://aqwwiki.wikidot.com/mystical-ascended-soulweaver",
+    "name": "Mystical Ascended SoulWeaver",
+    "type": "armors",
+    "description": "To become a SoulWeaver you must bond with an Elemental Spirit partner. Together, using the Spirit Looms you have forged, you may weave wonderful cloth that cannot be destroyed. (Animated Gauntlets)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mystical-ascended-soulweaver/MysticalAscendedSoulweaverM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mystical-ascended-soulweaver/MysticalAscendedSoulweaverF.png"
+    ],
+    "hash": "82d7ddf4ce7ef18614051a5fea5e68b2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "evolved-ogre-s-armor",
+    "url": "http://aqwwiki.wikidot.com/evolved-ogre-s-armor",
+    "name": "Evolved Ogre's Armor",
+    "type": "armors",
+    "description": "The armor worn by the Coliseum's Champion Bestiarius, The Ogre!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/LHyFdHl.png",
+        "http://i.imgur.com/PP1CtRS.png"
+    ],
+    "hash": "3ee5f7bf85a01694a945ba1d0d6c9142"
+}

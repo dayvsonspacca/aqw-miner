@@ -1,0 +1,17 @@
+{
+    "urlName": "ryuuji",
+    "url": "http://aqwwiki.wikidot.com/ryuuji",
+    "name": "Ryuuji",
+    "type": "armors",
+    "description": "The outfit Ryuuji wore on his wedding day. It's elegant enough for an elf and dignified enough for a dragon\u2026and it makes a perfect fit if you're part of both!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ryuuji/RyuujiM.png",
+        "http://aqwwiki.wdfiles.com/local--files/ryuuji/RyuujiF.png"
+    ],
+    "hash": "e072557ed3e109c0190264f02b9c2f06"
+}

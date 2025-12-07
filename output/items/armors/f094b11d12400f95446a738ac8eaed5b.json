@@ -1,0 +1,17 @@
+{
+    "urlName": "cheercaster-armor",
+    "url": "http://aqwwiki.wikidot.com/cheercaster-armor",
+    "name": "CheerCaster Armor",
+    "type": "armors",
+    "description": "CheerCasters are human mages who have tapped into one of the most powerful emotions on Lore --",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gUYk1cG.png",
+        "https://i.imgur.com/Eq6Nbzh.png"
+    ],
+    "hash": "f094b11d12400f95446a738ac8eaed5b"
+}

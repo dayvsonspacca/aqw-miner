@@ -1,0 +1,16 @@
+{
+    "urlName": "ashray-villager",
+    "url": "http://aqwwiki.wikidot.com/ashray-villager",
+    "name": "Ashray Villager",
+    "type": "armors",
+    "description": "\ufeff\ufeffThe villagers of Ashray rely heavily on the sea for their livelihoods. They consider it a second home, able to navigate the waves even in the dead of night as they sing and dance.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/I19PJlH.png",
+        "https://i.imgur.com/kPhxqgv.png"
+    ],
+    "hash": "c75ebc01b4d8c7d1b2e7ed95788097a3"
+}

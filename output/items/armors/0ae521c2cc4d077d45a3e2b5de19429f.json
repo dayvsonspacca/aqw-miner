@@ -1,0 +1,17 @@
+{
+    "urlName": "dream-plate",
+    "url": "http://aqwwiki.wikidot.com/dream-plate",
+    "name": "Dream Plate",
+    "type": "armors",
+    "description": "One of the most dreamy armors available, this plate armor exists only to bring help and hope to your allies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dream-plate/DreamPlateMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dream-plate/DreamPlateFemale.png"
+    ],
+    "hash": "0ae521c2cc4d077d45a3e2b5de19429f"
+}

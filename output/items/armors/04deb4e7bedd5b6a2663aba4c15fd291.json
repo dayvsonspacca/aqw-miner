@@ -1,0 +1,16 @@
+{
+    "urlName": "darkcaster",
+    "url": "http://aqwwiki.wikidot.com/darkcaster",
+    "name": "DarkCaster",
+    "type": "armors",
+    "description": "Not for you! Wahhaa!",
+    "rarity": "Super Mega Ultra Rare Rarity",
+    "tags": [
+        "Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darkcaster/DCProto.png"
+    ],
+    "hash": "04deb4e7bedd5b6a2663aba4c15fd291"
+}

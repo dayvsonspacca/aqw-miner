@@ -1,0 +1,17 @@
+{
+    "urlName": "tundra-hunter",
+    "url": "http://aqwwiki.wikidot.com/tundra-hunter",
+    "name": "Tundra Hunter",
+    "type": "armors",
+    "description": "The biting cold will not affect a seasoned hunter like yourself. This armor is covered with the kills of your past, keeping you warm and limber. Take the battle by the horns (fur, skin, claws\u2026) and show your enemy just who is boss.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tundra-hunter/TundraHunterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/tundra-hunter/TundraHunterF.png"
+    ],
+    "hash": "4c4504bbb9d732dcd3ba373718fcea22"
+}

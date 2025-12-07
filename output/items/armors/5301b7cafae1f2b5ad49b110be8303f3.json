@@ -1,0 +1,17 @@
+{
+    "urlName": "frostball-garb-legend",
+    "url": "http://aqwwiki.wikidot.com/frostball-garb-legend",
+    "name": "Frostball Garb (Legend)",
+    "type": "armors",
+    "description": "You're practically shimmering on the red carpet. One dance would make the audience freeze and stare.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mYj4tdR.png",
+        "https://i.imgur.com/Gep3qtf.png"
+    ],
+    "hash": "5301b7cafae1f2b5ad49b110be8303f3"
+}

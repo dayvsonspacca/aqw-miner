@@ -1,0 +1,17 @@
+{
+    "urlName": "turdraken-hunter",
+    "url": "http://aqwwiki.wikidot.com/turdraken-hunter",
+    "name": "Turdraken Hunter",
+    "type": "armors",
+    "description": "Armor made from the bones and feathers of a slain turdraken to mask your scent.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/turdraken-hunter/TurdrakenKillerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/turdraken-hunter/TurdrakenKillerF.png"
+    ],
+    "hash": "a0f557a75f00443359de2ca786e93a07"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "bot-of-bolts-and-clanks",
+    "url": "http://aqwwiki.wikidot.com/bot-of-bolts-and-clanks",
+    "name": "Bot of Bolts and Clanks",
+    "type": "armors",
+    "description": "Though they might hear your gears rattling inside of you as you near, they will not expect the destruction left in your wake.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bot-of-bolts-and-clanks/BotofBoltsandClanks.png"
+    ],
+    "hash": "c91e831ae2dd04d0dc9f4c1573c06225"
+}

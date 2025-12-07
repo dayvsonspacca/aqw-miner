@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-titan",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-titan",
+    "name": "Frostlorn Titan",
+    "type": "armors",
+    "description": "In another world, this armor was taken from a long-dead giant, found frozen and buried under a century of ice and snow.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/sPMN7os.png",
+        "https://i.imgur.com/aJFWWFB.png"
+    ],
+    "hash": "40d5e30ac84cd8bd4e7b9e7dd9867354"
+}

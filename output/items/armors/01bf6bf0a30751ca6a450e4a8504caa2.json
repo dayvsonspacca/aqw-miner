@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowscythe-general-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-general-armor",
+    "name": "ShadowScythe General Armor",
+    "type": "armors",
+    "description": "By the power of Noxus, you have been reborn as an Undead General! Paladins, Lightcasters and even High Lords tremble at your dark presence.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/O77zrUL.png",
+        "https://i.imgur.com/I1VDBu7.png"
+    ],
+    "hash": "01bf6bf0a30751ca6a450e4a8504caa2"
+}

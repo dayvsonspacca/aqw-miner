@@ -1,0 +1,17 @@
+{
+    "urlName": "cleric-of-time",
+    "url": "http://aqwwiki.wikidot.com/cleric-of-time",
+    "name": "Cleric Of Time",
+    "type": "armors",
+    "description": "It's said \"Time heals all wounds\", wise words for a Cleric.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cleric-of-time/ClericOfTimeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cleric-of-time/ClericOfTimeF.png"
+    ],
+    "hash": "a3faee8c38bb0a125a5a6b7ec5698c16"
+}

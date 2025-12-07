@@ -1,0 +1,17 @@
+{
+    "urlName": "silver-swashbuckler",
+    "url": "http://aqwwiki.wikidot.com/silver-swashbuckler",
+    "name": "Silver Swashbuckler",
+    "type": "armors",
+    "description": "These swashbucklers comandeered a forge from the mountains of Dwarfhold and installed it into a ship. Controlling a crew of metal men, the captain commands a vessel that can tear the sea from above and below.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/xp50LBw.png",
+        "https://imgur.com/2aAMCc6.png"
+    ],
+    "hash": "d271b4639e5b4e54c314d1e57f66a376"
+}

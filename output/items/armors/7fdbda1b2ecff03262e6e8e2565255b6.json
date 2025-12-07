@@ -1,0 +1,20 @@
+{
+    "urlName": "shadowflame-champion-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowflame-champion-armor",
+    "name": "ShadowFlame Champion (Armor)",
+    "type": "armors",
+    "description": "The ShadowFlame is known to consume all who are willing to give their lives for it. Are you bold enough to join in their ranks?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowflame-champion-armor/SFCm.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowflame-champion-armor/ShadowflameChampionMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowflame-champion-armor/SFCf.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowflame-champion-armor/ShadowflameChampionFO.png"
+    ],
+    "hash": "7fdbda1b2ecff03262e6e8e2565255b6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "draconic-acolyte",
+    "url": "http://aqwwiki.wikidot.com/draconic-acolyte",
+    "name": "Draconic Acolyte",
+    "type": "armors",
+    "description": "Using the fumes deep within the caverns of Lore to enhance their Sight, the Draconic Acolyte's can share glimpses of the future with you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/draconic-acolyte/DAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/draconic-acolyte/DAF.png"
+    ],
+    "hash": "4cf3b324e3c242f8960030cff38fabed"
+}

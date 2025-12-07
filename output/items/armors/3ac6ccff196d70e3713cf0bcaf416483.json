@@ -1,0 +1,16 @@
+{
+    "urlName": "starsword-armor",
+    "url": "http://aqwwiki.wikidot.com/starsword-armor",
+    "name": "Starsword Armor",
+    "type": "armors",
+    "description": "This armor is made up of fragments of dragonstar crystal dust!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/ZDXv4sx.png",
+        "http://i.imgur.com/ZhUHNlL.png"
+    ],
+    "hash": "3ac6ccff196d70e3713cf0bcaf416483"
+}

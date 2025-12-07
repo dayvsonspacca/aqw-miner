@@ -1,0 +1,19 @@
+{
+    "urlName": "gothic-alchemist",
+    "url": "http://aqwwiki.wikidot.com/gothic-alchemist",
+    "name": "Gothic Alchemist",
+    "type": "armors",
+    "description": "Recruited by Big Daddy, these alchemists are entrusted to brew handmade love potions \u2026until they accidentally picked the wrong ingredients.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/dRQCG4N.png",
+        "https://i.imgur.com/4ftmPwM.png",
+        "https://i.imgur.com/zxLWnFa.png",
+        "https://i.imgur.com/KkzvWMc.png"
+    ],
+    "hash": "9b49651a83c9ec87ed19c804799d1b8d"
+}

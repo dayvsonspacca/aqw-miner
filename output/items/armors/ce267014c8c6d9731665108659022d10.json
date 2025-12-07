@@ -1,0 +1,17 @@
+{
+    "urlName": "diabolical-illusionist",
+    "url": "http://aqwwiki.wikidot.com/diabolical-illusionist",
+    "name": "Diabolical Illusionist",
+    "type": "armors",
+    "description": "These twisted warlocks use visual magic to deceive those who challenge them in combat, leading them to perceive their most horrid fears. It's quite rare to see their garbs in such pristine condition, treat it well.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/NcqgWsF.png",
+        "https://i.imgur.com/uMu4BLa.png"
+    ],
+    "hash": "ce267014c8c6d9731665108659022d10"
+}

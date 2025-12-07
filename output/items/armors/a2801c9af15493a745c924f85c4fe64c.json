@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowcats-gear-legend",
+    "url": "http://aqwwiki.wikidot.com/shadowcats-gear-legend",
+    "name": "Shadowcats Gear (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowcats-gear-legend/ShadowcatsGearM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowcats-gear-legend/ShadowcatsGearF.png"
+    ],
+    "hash": "a2801c9af15493a745c924f85c4fe64c"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-chaotic-evil-knight",
+    "url": "http://aqwwiki.wikidot.com/prismatic-chaotic-evil-knight",
+    "name": "Prismatic Chaotic Evil Knight",
+    "type": "armors",
+    "description": "With THAT many adjectives in the name, you can be sure that this armor is cool.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-chaotic-evil-knight/PrismaticChaoticEvilKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-chaotic-evil-knight/PrismaticChaoticEvilKnightF.png"
+    ],
+    "hash": "1a602741491baaedaed91b924133011e"
+}

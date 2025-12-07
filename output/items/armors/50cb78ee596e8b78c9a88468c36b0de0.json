@@ -1,0 +1,16 @@
+{
+    "urlName": "deep-dragon-surfer",
+    "url": "http://aqwwiki.wikidot.com/deep-dragon-surfer",
+    "name": "Deep Dragon Surfer",
+    "type": "armors",
+    "description": "Surf your way across Lolosia Bay and hang ten with the braken!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/PbAz79x.png",
+        "https://i.imgur.com/s5ktAWY.png"
+    ],
+    "hash": "50cb78ee596e8b78c9a88468c36b0de0"
+}

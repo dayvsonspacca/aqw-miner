@@ -1,0 +1,16 @@
+{
+    "urlName": "dawn-vindicator-recruit",
+    "url": "http://aqwwiki.wikidot.com/dawn-vindicator-recruit",
+    "name": "Dawn Vindicator Recruit",
+    "type": "armors",
+    "description": "As a recruit gains more knowledge, they are able to move up a rank and wear the Dawn Vindicator gear.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/FZxjoZB.png",
+        "https://imgur.com/b9RUm49.png"
+    ],
+    "hash": "73a4a16c449bc314f20d28f60046d38f"
+}

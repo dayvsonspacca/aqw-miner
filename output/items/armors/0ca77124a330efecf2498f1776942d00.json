@@ -1,0 +1,16 @@
+{
+    "urlName": "crimson-spitfire",
+    "url": "http://aqwwiki.wikidot.com/crimson-spitfire",
+    "name": "Crimson SpitFire",
+    "type": "armors",
+    "description": "Pitted against the Azure Spitfire clan, the Crimson Spitfire mercenaries use ruthless tactics to cash in on bounties posted by the Deathshead Destroyers.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/iC2G6Y4.png",
+        "https://i.imgur.com/1df1uxp.png"
+    ],
+    "hash": "0ca77124a330efecf2498f1776942d00"
+}

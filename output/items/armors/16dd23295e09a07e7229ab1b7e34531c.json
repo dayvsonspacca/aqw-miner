@@ -1,0 +1,17 @@
+{
+    "urlName": "stellar-battlemage-ac",
+    "url": "http://aqwwiki.wikidot.com/stellar-battlemage-ac",
+    "name": "Stellar BattleMage (AC)",
+    "type": "armors",
+    "description": "You've wandered the stars in search of new spells and fighting techniques. Your adventurers have made you a master of manipulating space and time. The future is yours!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/C3AKrTh.png",
+        "https://i.imgur.com/9qmAY6I.png"
+    ],
+    "hash": "16dd23295e09a07e7229ab1b7e34531c"
+}

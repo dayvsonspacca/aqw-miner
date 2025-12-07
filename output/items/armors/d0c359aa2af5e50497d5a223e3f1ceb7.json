@@ -1,0 +1,17 @@
+{
+    "urlName": "deathsworn-knight",
+    "url": "http://aqwwiki.wikidot.com/deathsworn-knight",
+    "name": "DeathSworn Knight",
+    "type": "armors",
+    "description": "A former Paladin that forsook the Light and swore themselves to the finality of Death. No longer loyal to any mortal cause, they're in an endless pursuit of power - soon to be as feared as the force that took their humanity.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ASMF4FL.png",
+        "https://i.imgur.com/NZurcq2.png"
+    ],
+    "hash": "d0c359aa2af5e50497d5a223e3f1ceb7"
+}

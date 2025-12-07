@@ -1,0 +1,17 @@
+{
+    "urlName": "pretty-in-pink-doomknight",
+    "url": "http://aqwwiki.wikidot.com/pretty-in-pink-doomknight",
+    "name": "Pretty in Pink DoomKnight",
+    "type": "armors",
+    "description": "It's soooo pink! It is said that this shall burn the eyes of the Paladin Artix.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pretty-in-pink-doomknight/PrettyInPinkDoomknightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pretty-in-pink-doomknight/PrettyInPinKDoomknightF.png"
+    ],
+    "hash": "b0f65e12a5cfd4b3d08a87e4f5a00172"
+}

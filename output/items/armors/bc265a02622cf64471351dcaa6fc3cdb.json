@@ -1,0 +1,17 @@
+{
+    "urlName": "chiton",
+    "url": "http://aqwwiki.wikidot.com/chiton",
+    "name": "Chiton",
+    "type": "armors",
+    "description": "Enter the battle arena in secure in the knowledge that you'll look your best a fight your hardest!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chiton/ChitonMaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/chiton/ChitonMaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/chiton/ChitonFemale.png"
+    ],
+    "hash": "bc265a02622cf64471351dcaa6fc3cdb"
+}

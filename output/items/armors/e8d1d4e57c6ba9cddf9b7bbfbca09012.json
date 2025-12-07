@@ -1,0 +1,17 @@
+{
+    "urlName": "skyguard-solar-colonel",
+    "url": "http://aqwwiki.wikidot.com/skyguard-solar-colonel",
+    "name": "Skyguard Solar Colonel",
+    "type": "armors",
+    "description": "A high ranking member of the Skyguard authorized to change the weather at will. It takes extensive knowledge and experience to wield fire magic in order to clear the skies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/trbihx7.png",
+        "https://imgur.com/h0suErZ.png"
+    ],
+    "hash": "e8d1d4e57c6ba9cddf9b7bbfbca09012"
+}

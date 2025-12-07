@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-guard-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-guard-armor",
+    "name": "Shadowscythe Guard (Armor)",
+    "type": "armors",
+    "description": "So you want to tame a creature that's half lion half eagle? Only the best get the title of \"Rider\". Hang on!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-guard-armor/ShadowscytheGuardM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-guard-armor/ShadowscytheGuardF.png"
+    ],
+    "hash": "48f9dd3e002501d83d5dca56a012f58a"
+}

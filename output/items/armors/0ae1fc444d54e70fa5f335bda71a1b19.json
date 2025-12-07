@@ -1,0 +1,17 @@
+{
+    "urlName": "darkcaster-evolution",
+    "url": "http://aqwwiki.wikidot.com/darkcaster-evolution",
+    "name": "DarkCaster Evolution",
+    "type": "armors",
+    "description": "The DarkCaster has finally evolved, emerging only to celebrate the birthday of Dage the Evil. Many claim to follow the path of the Undead Legion, yet Evolved DarkCasters are the most dedicated and commended of them all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darkcaster-evolution/DarkCasterEvolutionMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/darkcaster-evolution/DarkCasterEvolutionFemale.png"
+    ],
+    "hash": "0ae1fc444d54e70fa5f335bda71a1b19"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "enchanted-mountaineer",
+    "url": "http://aqwwiki.wikidot.com/enchanted-mountaineer",
+    "name": "Enchanted Mountaineer",
+    "type": "armors",
+    "description": "It might be July, but it's still cold in the Northlands! Dress up warm to celebrate the Bright Lights Festival. (Color Custom)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uldDJWD.png",
+        "https://i.imgur.com/A9NQxI3.png",
+        "http://aqwwiki.wdfiles.com/local--files/enchanted-mountaineer/EnchantedMountaineerFO.png"
+    ],
+    "hash": "6193e19bd30c5efdab48ba63a163b959"
+}

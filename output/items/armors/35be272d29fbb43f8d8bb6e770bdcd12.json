@@ -1,0 +1,16 @@
+{
+    "urlName": "chiral-valley-knight",
+    "url": "http://aqwwiki.wikidot.com/chiral-valley-knight",
+    "name": "Chiral Valley Knight",
+    "type": "armors",
+    "description": "Named after the crest of House Vaughn, these Knights protect Chiral Valley. They're said to be nigh-invincible like their Lord, and can only be defeated if you destroy their head.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/9rAWntq.png",
+        "https://i.imgur.com/QIwzJKb.png"
+    ],
+    "hash": "35be272d29fbb43f8d8bb6e770bdcd12"
+}

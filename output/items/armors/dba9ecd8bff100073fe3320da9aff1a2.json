@@ -1,0 +1,16 @@
+{
+    "urlName": "soulfire-blademaster",
+    "url": "http://aqwwiki.wikidot.com/soulfire-blademaster",
+    "name": "Soulfire Blademaster",
+    "type": "armors",
+    "description": "Dage the Evil's SoulForge requires constant sacrifice and labor to keep its flames bright. The unworthy become fuel for the forge, while the fire of victory burns in the hearts of those called to serve the Legion.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/9FIMyRL.png",
+        "https://i.imgur.com/jTEyeHQ.png"
+    ],
+    "hash": "dba9ecd8bff100073fe3320da9aff1a2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-stonecrusher-ac",
+    "url": "http://aqwwiki.wikidot.com/arcane-stonecrusher-ac",
+    "name": "Arcane StoneCrusher (AC)",
+    "type": "armors",
+    "description": "StoneCrushers use their magic to command the rocky foundation of Lore itself. Though indisputably the source of all life, Earth's primal power is just as formidable as every other element and should never be underestimated.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/PWbgpDM.png",
+        "http://i.imgur.com/1q0culL.png"
+    ],
+    "hash": "6993ea3522be406239fe2705a12396e8"
+}

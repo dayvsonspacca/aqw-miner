@@ -1,0 +1,16 @@
+{
+    "urlName": "astrium-armor",
+    "url": "http://aqwwiki.wikidot.com/astrium-armor",
+    "name": "Astrium Armor",
+    "type": "armors",
+    "description": "The Astrium Concord are the forgotten watchers. The true force behind the Solaris and Lunaris cults, keeping the balance.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/E79BG5K.png",
+        "http://i.imgur.com/7ZBFhuO.png"
+    ],
+    "hash": "d56d18ddc566aee9cc5dacd2145bbff4"
+}

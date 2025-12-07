@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-abyssian-prowler-ac",
+    "url": "http://aqwwiki.wikidot.com/cyber-abyssian-prowler-ac",
+    "name": "Cyber Abyssian Prowler (AC)",
+    "type": "armors",
+    "description": "This advanced powersuit enhances the operator's senses and physical abilities. Rather than sell the tech, the manufacturer creates personalized gear for their personnel. Body guarding, stealing, assassinations, they can do it all.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/IxYTeYJ.png",
+        "https://i.imgur.com/MqG073v.png"
+    ],
+    "hash": "5afe9b00f04e9db5d99d23452f316187"
+}

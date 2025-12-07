@@ -1,0 +1,17 @@
+{
+    "urlName": "spellfrost-mage",
+    "url": "http://aqwwiki.wikidot.com/spellfrost-mage",
+    "name": "SpellFrost Mage",
+    "type": "armors",
+    "description": "SpellFrost Mages are known for their mastery of Cryomancy. They are among the most skilled mages of the Northlands, and the sapphire gems they wear are made of crystallized skyfire.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/xZp1a4y.png",
+        "https://i.imgur.com/ssqa74K.png"
+    ],
+    "hash": "9af3b2a50f7ad1d72204603ef3b5afe7"
+}

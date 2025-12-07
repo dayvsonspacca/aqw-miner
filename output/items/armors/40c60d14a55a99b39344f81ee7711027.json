@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-draconian",
+    "url": "http://aqwwiki.wikidot.com/prismatic-draconian",
+    "name": "Prismatic Draconian",
+    "type": "armors",
+    "description": "This magical armors clothes you in the image of a Draconian of your desired color!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-draconian/PrismaticDraconian.png"
+    ],
+    "hash": "40c60d14a55a99b39344f81ee7711027"
+}

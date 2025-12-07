@@ -1,0 +1,16 @@
+{
+    "urlName": "storm-guard-armor",
+    "url": "http://aqwwiki.wikidot.com/storm-guard-armor",
+    "name": "Storm Guard (Armor)",
+    "type": "armors",
+    "description": "Bits and pieces of scrap aluminum foil soldered together make up this armor. Foil your opponents chaotic plans with ease!",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/BkxzrgN.png",
+        "http://i.imgur.com/xXo5wvl.png",
+        "http://aqwwiki.wdfiles.com/local--files/storm-guard-armor/StormGuardM.png",
+        "http://aqwwiki.wdfiles.com/local--files/storm-guard-armor/StormGuardF.png"
+    ],
+    "hash": "97392c4a0dec0f501ddbc4958cfccc95"
+}

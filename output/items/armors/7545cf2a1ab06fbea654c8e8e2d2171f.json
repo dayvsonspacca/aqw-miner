@@ -1,0 +1,16 @@
+{
+    "urlName": "draconic-cuirass",
+    "url": "http://aqwwiki.wikidot.com/draconic-cuirass",
+    "name": "Draconic Cuirass",
+    "type": "armors",
+    "description": "Sturdy armor intended for jacks of all trades, calling to mind the diverse range of Dragons that exist in Lore. As their steel racks up scars, factions will fight for their attention.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/kvtagP1.png",
+        "https://i.imgur.com/zIydEFn.png"
+    ],
+    "hash": "7545cf2a1ab06fbea654c8e8e2d2171f"
+}

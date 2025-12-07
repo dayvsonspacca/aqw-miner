@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-of-the-beast",
+    "url": "http://aqwwiki.wikidot.com/shadow-of-the-beast",
+    "name": "Shadow of the Beast",
+    "type": "armors",
+    "description": "This pelt was once that of a noble beast before doused in its own blood.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-of-the-beast/ShadowoftheBeastM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-of-the-beast/ShadowoftheBeastF.png"
+    ],
+    "hash": "4e61cf9cb6aeafd204e7227778282a4e"
+}

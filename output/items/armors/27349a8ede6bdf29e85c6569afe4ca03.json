@@ -1,0 +1,18 @@
+{
+    "urlName": "stormbringer-armor",
+    "url": "http://aqwwiki.wikidot.com/stormbringer-armor",
+    "name": "StormBringer (Armor)",
+    "type": "armors",
+    "description": "Call down the lightning and thunder, for YOU are the ruler of storms!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/stormbringer-armor/StormbringerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/stormbringer-armor/StormbringerF.png"
+    ],
+    "hash": "27349a8ede6bdf29e85c6569afe4ca03"
+}

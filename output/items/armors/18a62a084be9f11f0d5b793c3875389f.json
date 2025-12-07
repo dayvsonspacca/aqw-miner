@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-surfer",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-surfer",
+    "name": "Shadowscythe Surfer",
+    "type": "armors",
+    "description": "Surf your way across Lolosia Bay and hang ten with the braken!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/KFAera6.png",
+        "https://i.imgur.com/S1AwlHX.png"
+    ],
+    "hash": "18a62a084be9f11f0d5b793c3875389f"
+}

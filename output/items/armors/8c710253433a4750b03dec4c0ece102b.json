@@ -1,0 +1,18 @@
+{
+    "urlName": "soldados-brasileiros",
+    "url": "http://aqwwiki.wikidot.com/soldados-brasileiros",
+    "name": "Soldados Brasileiros",
+    "type": "armors",
+    "description": "For those who fight to maintain the beauty of the rainforest.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/7gO7zB2.png",
+        "http://i.imgur.com/Mrmkuu6.png"
+    ],
+    "hash": "8c710253433a4750b03dec4c0ece102b"
+}

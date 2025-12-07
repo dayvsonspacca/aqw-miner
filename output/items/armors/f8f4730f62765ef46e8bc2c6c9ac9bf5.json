@@ -1,0 +1,17 @@
+{
+    "urlName": "dreadful-victorian-garb",
+    "url": "http://aqwwiki.wikidot.com/dreadful-victorian-garb",
+    "name": "Dreadful Victorian Garb",
+    "type": "armors",
+    "description": "One must be properly attired, even after death. You uphold your family's name and honor in this outfit.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dreadful-victorian-garb/DreadfulVictorianGarbMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dreadful-victorian-garb/DreadfulVictorianGarbFemale.png"
+    ],
+    "hash": "f8f4730f62765ef46e8bc2c6c9ac9bf5"
+}

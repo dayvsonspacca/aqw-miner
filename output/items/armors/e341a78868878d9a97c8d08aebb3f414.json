@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-magus-ac",
+    "url": "http://aqwwiki.wikidot.com/prismatic-magus-ac",
+    "name": "Prismatic Magus (AC)",
+    "type": "armors",
+    "description": "Powerful wielders of light magic, as well as skilled illusionists. The Prismatic Magi are story tellers in times of peace, and sewers of confusion and discord during war. The Light plays tricks, bringing forth visions of sacred wishes and lost loves.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/oyzSjdL.png",
+        "https://i.imgur.com/mKQrAuz.png"
+    ],
+    "hash": "e341a78868878d9a97c8d08aebb3f414"
+}

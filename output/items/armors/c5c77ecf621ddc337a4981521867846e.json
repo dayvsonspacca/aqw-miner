@@ -1,0 +1,16 @@
+{
+    "urlName": "crash-player",
+    "url": "http://aqwwiki.wikidot.com/crash-player",
+    "name": "Crash Player",
+    "type": "armors",
+    "description": "No matter how fast your enemies (or their plugins) are, they can't beat\u2026 the CRASH PLAYER!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/877VASq.png",
+        "https://i.imgur.com/x4cqE5r.png"
+    ],
+    "hash": "c5c77ecf621ddc337a4981521867846e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "frostborn-ruler",
+    "url": "http://aqwwiki.wikidot.com/frostborn-ruler",
+    "name": "Frostborn Ruler",
+    "type": "armors",
+    "description": "The kings and warlords of the Frostborn clan challenge each warrior to combat once a year. They celebrate each other's skill and the glory of battle itself.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/Ho0fWi8.png",
+        "https://i.imgur.com/yfsFd0C.png"
+    ],
+    "hash": "a482b1247c93cf4809774034e7860d59"
+}

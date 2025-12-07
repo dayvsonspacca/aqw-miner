@@ -1,0 +1,17 @@
+{
+    "urlName": "solrac-legacy",
+    "url": "http://aqwwiki.wikidot.com/solrac-legacy",
+    "name": "Solrac Legacy",
+    "type": "armors",
+    "description": "This armor speaks of death and power. One look at those claws will make the opposition run in terror. Imagine what a swipe would do to them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solrac-legacy/SolracLegacyM.png",
+        "http://aqwwiki.wdfiles.com/local--files/solrac-legacy/SolracLegacyF.png"
+    ],
+    "hash": "8e4bf2bb13c3bf8d44b3016a618eea15"
+}

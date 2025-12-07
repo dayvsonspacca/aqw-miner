@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonfiend-rider",
+    "url": "http://aqwwiki.wikidot.com/dragonfiend-rider",
+    "name": "DragonFiend Rider",
+    "type": "armors",
+    "description": "When riding into battle, the glowing carapace of your dragon's armor lets your enemies know they're about to fight a minion of the Archfiend.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragonfiend-rider/DragonFiendRiderMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragonfiend-rider/DragonFiendRiderFemale.png"
+    ],
+    "hash": "7a09ac79606e1d7b3038e4aeae70b8de"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "classier-rabbit",
+    "url": "http://aqwwiki.wikidot.com/classier-rabbit",
+    "name": "Classier Rabbit",
+    "type": "armors",
+    "description": "Grenwog is a great time to show off your wardrobe. Dress up!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/eY2kapm.png",
+        "https://i.imgur.com/Aeo56oX.png"
+    ],
+    "hash": "5feda4b8491e816f86798361c0a86157"
+}

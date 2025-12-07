@@ -1,0 +1,20 @@
+{
+    "urlName": "dragon-champion-armor",
+    "url": "http://aqwwiki.wikidot.com/dragon-champion-armor",
+    "name": "Dragon Champion (Armor)",
+    "type": "armors",
+    "description": "You are the champion of Dragons\u2026 all shall bow before you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-champion-armor/DCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-champion-armor/DCMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-champion-armor/DCF.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-champion-armor/DCFOld.png"
+    ],
+    "hash": "5d67cf71112f3cc7ce1318248229b7b5"
+}

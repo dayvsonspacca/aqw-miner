@@ -1,0 +1,17 @@
+{
+    "urlName": "shielded-centurion-armor",
+    "url": "http://aqwwiki.wikidot.com/shielded-centurion-armor",
+    "name": "Shielded Centurion Armor",
+    "type": "armors",
+    "description": "The Golden Centurions are soldiers from a fabled sunken city. Their shields were said to even withstand magical arrows.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shielded-centurion-armor/ShieldedCenturionM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shielded-centurion-armor/ShieldedCenturionF.png"
+    ],
+    "hash": "faaa9dcdbfad6fc60f54aacf0e5dd4a0"
+}

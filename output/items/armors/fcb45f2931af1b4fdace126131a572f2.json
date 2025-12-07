@@ -1,0 +1,18 @@
+{
+    "urlName": "dragonclaw-guard",
+    "url": "http://aqwwiki.wikidot.com/dragonclaw-guard",
+    "name": "DragonClaw Guard",
+    "type": "armors",
+    "description": "Harness the power of the Dragon and unleash your mammoth might upon the world! Victory is yours for the taking as the legendary DragonClaw!",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragonclaw-guard/DragonClawGuardMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragonclaw-guard/DragonClawGuardFemale.png"
+    ],
+    "hash": "fcb45f2931af1b4fdace126131a572f2"
+}

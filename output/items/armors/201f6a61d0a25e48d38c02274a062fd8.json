@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-assassin",
+    "url": "http://aqwwiki.wikidot.com/cyber-assassin",
+    "name": "Cyber Assassin",
+    "type": "armors",
+    "description": "The light grey steel that comprises this battle suit is plated tightly, but safely maneuverable for space travel and concealed metallic environments where oxygen is absent.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/2Yioi7M.png",
+        "http://i.imgur.com/MYhgpYv.png"
+    ],
+    "hash": "201f6a61d0a25e48d38c02274a062fd8"
+}

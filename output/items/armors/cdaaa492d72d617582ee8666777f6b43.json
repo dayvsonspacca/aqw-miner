@@ -1,0 +1,17 @@
+{
+    "urlName": "coast-rocker",
+    "url": "http://aqwwiki.wikidot.com/coast-rocker",
+    "name": "Coast Rocker",
+    "type": "armors",
+    "description": "\ufeffKeep rocking, even when the tide swallows the speakers!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WcnE9sO.png",
+        "https://i.imgur.com/HGtWati.png"
+    ],
+    "hash": "cdaaa492d72d617582ee8666777f6b43"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "spicy-samurai",
+    "url": "http://aqwwiki.wikidot.com/spicy-samurai",
+    "name": "Spicy Samurai",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/1EnnXNm.png",
+        "http://i.imgur.com/3hN5Thj.png"
+    ],
+    "hash": "1df406d254449a1d5c0cfd8e953a983b"
+}

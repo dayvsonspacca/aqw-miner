@@ -1,0 +1,19 @@
+{
+    "urlName": "shadow-warlock-armor",
+    "url": "http://aqwwiki.wikidot.com/shadow-warlock-armor",
+    "name": "Shadow Warlock (Armor)",
+    "type": "armors",
+    "description": "Embrace the power of the Darkness, then go beyond! CONTROL the darkness, the Dragons, and the WORLD, for YOU are a Shadow Warlock!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-warlock-armor/SWM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-warlock-armor/SWF2.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-warlock-armor/SWF1.png"
+    ],
+    "hash": "35c53b8d310c6a0088963e409a2a4ad6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "bright-arachnomancer",
+    "url": "http://aqwwiki.wikidot.com/bright-arachnomancer",
+    "name": "Bright Arachnomancer",
+    "type": "armors",
+    "description": "Cast the bright and shining web of truth on your enemies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bright-arachnomancer/BAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bright-arachnomancer/BAF.png"
+    ],
+    "hash": "4d642d1bb77635c2abfc9a6fedac416b"
+}

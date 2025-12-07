@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-assassin",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-assassin",
+    "name": "Shadowscythe Assassin",
+    "type": "armors",
+    "description": "Only the most elite assassins may be a part of the Shadowscythe. Do not disappoint the Empress.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-assassin/ShadowscytheAssassinM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-assassin/ShadowscytheAssassinF.png"
+    ],
+    "hash": "e283ffd5acdd9538001c519c604de2f5"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-wardkeeper-s-armor",
+    "url": "http://aqwwiki.wikidot.com/prismatic-wardkeeper-s-armor",
+    "name": "Prismatic WardKeeper's Armor",
+    "type": "armors",
+    "description": "A celestial battlesuit drenched with blessed water is worn by Wardkeepers of the Southern Dawn Citadel. Their purpose is to fend off the combined darkness drawn from the likes of the Legion and Nation.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-wardkeeper-s-armor/PWAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-wardkeeper-s-armor/PWAF.png"
+    ],
+    "hash": "99ef78e0b2e551e4de82b3e46be9c313"
+}

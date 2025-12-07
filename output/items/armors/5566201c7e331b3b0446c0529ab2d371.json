@@ -1,0 +1,18 @@
+{
+    "urlName": "crimson-royalty",
+    "url": "http://aqwwiki.wikidot.com/crimson-royalty",
+    "name": "Crimson Royalty",
+    "type": "armors",
+    "description": "A gleaming battle suit forged in the glory and dedication of the late King Alteon. Lineage is nothing when you receive the high honor of commanding your own division of good. Long live the King!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crimson-royalty/CRm.png",
+        "http://aqwwiki.wdfiles.com/local--files/crimson-royalty/CRf.png"
+    ],
+    "hash": "5566201c7e331b3b0446c0529ab2d371"
+}

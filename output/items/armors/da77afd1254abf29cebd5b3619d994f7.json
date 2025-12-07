@@ -1,0 +1,18 @@
+{
+    "urlName": "evolved-chronomancer",
+    "url": "http://aqwwiki.wikidot.com/evolved-chronomancer",
+    "name": "Evolved Chronomancer",
+    "type": "armors",
+    "description": "Shape the forces of time itself to destroy your enemies and SAVE THE WORLD!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-chronomancer/EvolvedChronomancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/evolved-chronomancer/EvolvedChronomancerF.png"
+    ],
+    "hash": "da77afd1254abf29cebd5b3619d994f7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "broncolich-away-gear-legend",
+    "url": "http://aqwwiki.wikidot.com/broncolich-away-gear-legend",
+    "name": "Broncolich Away Gear (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/broncolich-away-gear-legend/BroncolichAwayGearM.png",
+        "http://aqwwiki.wdfiles.com/local--files/broncolich-away-gear-legend/BroncolichAwayGearF.png"
+    ],
+    "hash": "4b6ee6196b660561b3fd0b932687f36f"
+}

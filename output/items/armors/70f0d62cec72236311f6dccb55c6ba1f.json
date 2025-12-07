@@ -1,0 +1,18 @@
+{
+    "urlName": "court-finery",
+    "url": "http://aqwwiki.wikidot.com/court-finery",
+    "name": "Court Finery",
+    "type": "armors",
+    "description": "Planning on attending a royal event? You'll need the right threads.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/court-finery/CourtFineryMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/court-finery/CourtFineryFemaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/court-finery/CourtFineryFemaleO.png"
+    ],
+    "hash": "70f0d62cec72236311f6dccb55c6ba1f"
+}

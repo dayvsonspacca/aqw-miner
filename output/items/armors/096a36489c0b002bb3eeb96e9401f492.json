@@ -1,0 +1,17 @@
+{
+    "urlName": "arjuna",
+    "url": "http://aqwwiki.wikidot.com/arjuna",
+    "name": "Arjuna",
+    "type": "armors",
+    "description": "Through your courage, strength and humility, truth and justice will spread throughout the land.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TYad5fx.png",
+        "https://i.imgur.com/ybKflg6.png"
+    ],
+    "hash": "096a36489c0b002bb3eeb96e9401f492"
+}

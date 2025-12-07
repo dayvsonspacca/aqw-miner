@@ -1,0 +1,19 @@
+{
+    "urlName": "continuum-chronomancer-armor",
+    "url": "http://aqwwiki.wikidot.com/continuum-chronomancer-armor",
+    "name": "Continuum Chronomancer (Armor)",
+    "type": "armors",
+    "description": "For as long as heroes have existed, Chronomancers have traversed space and time. Continuum Chronomancers have mastered the ability to cross between universes and ages.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/hyZeN5c.png",
+        "https://i.imgur.com/xBcKAfn.png",
+        "https://i.imgur.com/WtMFVGm.png",
+        "https://i.imgur.com/f8dLkd6.png"
+    ],
+    "hash": "4d541b17530df154cd246ce4c329af46"
+}

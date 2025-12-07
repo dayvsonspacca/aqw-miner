@@ -1,0 +1,17 @@
+{
+    "urlName": "deathsworn-doomknight",
+    "url": "http://aqwwiki.wikidot.com/deathsworn-doomknight",
+    "name": "DeathSworn DoomKnight",
+    "type": "armors",
+    "description": "A former Paladin that forsook the Light and swore themselves to the finality of Death. Their pursuit of power brought them to the ShadowScythe, promising loyalty in exchange for the erasure of weakness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/j7OsKcD.png",
+        "https://i.imgur.com/gvWJyLC.png"
+    ],
+    "hash": "a470dd94344fe5175a3098af64bcc24f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "dread-crewmember-merge",
+    "url": "http://aqwwiki.wikidot.com/dread-crewmember-merge",
+    "name": "Dread Crewmember (Merge)",
+    "type": "armors",
+    "description": "Are ya scurry landlubber, better get this ship saillin' before the captain makes ye swab the deck or worse.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/WLWxOua.png",
+        "https://i.imgur.com/eOF7XJM.png",
+        "http://aqwwiki.wdfiles.com/local--resized-images/dread-crewmember-merge//medium.jpg"
+    ],
+    "hash": "30779aa62f4f1f6dc9370c8b07c6da54"
+}

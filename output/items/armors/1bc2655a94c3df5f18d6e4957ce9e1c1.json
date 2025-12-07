@@ -1,0 +1,17 @@
+{
+    "urlName": "crimson-knight-and-shield",
+    "url": "http://aqwwiki.wikidot.com/crimson-knight-and-shield",
+    "name": "Crimson Knight and Shield",
+    "type": "armors",
+    "description": "Crimson Knights do not fear, nor pain, nor defeat. They will fight as long blood flows in them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crimson-knight-and-shield/CrimsonKnightandShieldM.png",
+        "http://aqwwiki.wdfiles.com/local--files/crimson-knight-and-shield/CrimsonKnightandShieldF.png"
+    ],
+    "hash": "1bc2655a94c3df5f18d6e4957ce9e1c1"
+}

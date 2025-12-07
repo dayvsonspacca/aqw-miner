@@ -1,0 +1,16 @@
+{
+    "urlName": "dragonslayer-recruit",
+    "url": "http://aqwwiki.wikidot.com/dragonslayer-recruit",
+    "name": "DragonSlayer Recruit",
+    "type": "armors",
+    "description": "Hate dragons? Did one burn down your house? Does the name Targaryan cause rage? Then you've joined the right squad!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/qK15FIr.png",
+        "https://i.imgur.com/UUB3cQd.png"
+    ],
+    "hash": "d98061a556aa8a2b69f174a8a900768f"
+}

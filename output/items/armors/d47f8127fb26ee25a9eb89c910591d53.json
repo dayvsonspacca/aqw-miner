@@ -1,0 +1,17 @@
+{
+    "urlName": "doomtech-pirate-commander",
+    "url": "http://aqwwiki.wikidot.com/doomtech-pirate-commander",
+    "name": "DoomTech Pirate Commander",
+    "type": "armors",
+    "description": "YARRRR! Hoist th' Pirate Flags of DOOOOOM and terrify your enemies no matter where you face them: on land, by sea, or sailing the dark waters of the underworld!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/aZkTaWf.png",
+        "https://i.imgur.com/5Y2wdLf.png"
+    ],
+    "hash": "d47f8127fb26ee25a9eb89c910591d53"
+}

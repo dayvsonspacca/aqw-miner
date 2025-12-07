@@ -1,0 +1,15 @@
+{
+    "urlName": "discordia-armor",
+    "url": "http://aqwwiki.wikidot.com/discordia-armor",
+    "name": "Discordia Armor",
+    "type": "armors",
+    "description": "Music has the power to change the world. So let's see if it can destroy it, too!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/JSwlztg.png"
+    ],
+    "hash": "42d0775a54a7466c521c778f133dfeee"
+}

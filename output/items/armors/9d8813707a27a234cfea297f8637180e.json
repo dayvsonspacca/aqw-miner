@@ -1,0 +1,17 @@
+{
+    "urlName": "sub-zero-berserker",
+    "url": "http://aqwwiki.wikidot.com/sub-zero-berserker",
+    "name": "Sub-Zero Berserker",
+    "type": "armors",
+    "description": "Brrrr! You are an ice-cold killer!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sub-zero-berserker/Sub-ZeroBerserkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sub-zero-berserker/Sub-ZeroBerserkerF.png"
+    ],
+    "hash": "9d8813707a27a234cfea297f8637180e"
+}

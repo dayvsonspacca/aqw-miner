@@ -1,0 +1,16 @@
+{
+    "urlName": "bright-grove-fairy",
+    "url": "http://aqwwiki.wikidot.com/bright-grove-fairy",
+    "name": "Bright Grove Fairy",
+    "type": "armors",
+    "description": "Native to the Grove, some fairies only appear when Lucky Day is near.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YeHH1a7.png",
+        "https://i.imgur.com/1JlpKa6.png"
+    ],
+    "hash": "f9b62c306a9884d5a89785c474a18197"
+}

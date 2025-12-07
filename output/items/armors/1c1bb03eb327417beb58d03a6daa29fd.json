@@ -1,0 +1,17 @@
+{
+    "urlName": "creeping-memories",
+    "url": "http://aqwwiki.wikidot.com/creeping-memories",
+    "name": "Creeping Memories",
+    "type": "armors",
+    "description": "A living nightmare wrenched into reality. Creeping memories and dormant fears have come to life. They propogate by spreading terror, facilitating the emergence of new horrors from the depths of the mind.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/O5jXmxv.png",
+        "https://i.imgur.com/fRTg3vc.png"
+    ],
+    "hash": "1c1bb03eb327417beb58d03a6daa29fd"
+}

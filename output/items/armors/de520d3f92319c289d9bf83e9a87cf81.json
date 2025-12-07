@@ -1,0 +1,16 @@
+{
+    "urlName": "chrono-warrior",
+    "url": "http://aqwwiki.wikidot.com/chrono-warrior",
+    "name": "Chrono Warrior",
+    "type": "armors",
+    "description": "There are those who jump through time, seeking to spread evil and chaos. These are the ones who stand up and fight.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/2myX3Ka.png",
+        "http://i.imgur.com/KfsQzZK.png"
+    ],
+    "hash": "de520d3f92319c289d9bf83e9a87cf81"
+}

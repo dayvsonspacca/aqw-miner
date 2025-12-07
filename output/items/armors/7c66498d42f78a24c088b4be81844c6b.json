@@ -1,0 +1,17 @@
+{
+    "urlName": "love-commander",
+    "url": "http://aqwwiki.wikidot.com/love-commander",
+    "name": "Love Commander",
+    "type": "armors",
+    "description": "The sophisticated and courteous knights always wear the most polished armors their people ever laid their eyes upon. It's like an old child's tale has come to life.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/love-commander/LoveCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/love-commander/LoveCommanderF.png"
+    ],
+    "hash": "7c66498d42f78a24c088b4be81844c6b"
+}

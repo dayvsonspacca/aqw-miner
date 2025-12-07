@@ -1,0 +1,16 @@
+{
+    "urlName": "drakonus-armor",
+    "url": "http://aqwwiki.wikidot.com/drakonus-armor",
+    "name": "Drakonus Armor",
+    "type": "armors",
+    "description": "These robes once belonged to the forgotten arts of the Quantum Mage. Inspired by player Drakonus.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/fkFvL30.png",
+        "http://i.imgur.com/aW2InME.png"
+    ],
+    "hash": "729e95c6adb2878000699c105f9275e3"
+}

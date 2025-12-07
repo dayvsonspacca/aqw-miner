@@ -1,0 +1,16 @@
+{
+    "urlName": "assault-gear",
+    "url": "http://aqwwiki.wikidot.com/assault-gear",
+    "name": "Assault Gear",
+    "type": "armors",
+    "description": "When a job needs doin' it get it done by these top covert ops. Quick effective and a force to be reckoned with.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/assault-gear/AssaultGearMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/assault-gear/AssaultGearFemale.png"
+    ],
+    "hash": "d71698d571c8de19603a91c2646195df"
+}

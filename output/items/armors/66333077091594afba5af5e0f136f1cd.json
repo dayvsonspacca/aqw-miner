@@ -1,0 +1,16 @@
+{
+    "urlName": "druid-of-the-lake",
+    "url": "http://aqwwiki.wikidot.com/druid-of-the-lake",
+    "name": "Druid of the Lake",
+    "type": "armors",
+    "description": "Druids use their magic to protect the flora and fauna across Lore. Lake druids embody their chosen environment: silent and calm until their ire is roused. Then beware the flood of power!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://imgur.com/at0lMnT.png",
+        "https://imgur.com/hpftSHe.png"
+    ],
+    "hash": "66333077091594afba5af5e0f136f1cd"
+}

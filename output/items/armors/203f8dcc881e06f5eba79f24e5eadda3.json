@@ -1,0 +1,16 @@
+{
+    "urlName": "awescended",
+    "url": "http://aqwwiki.wikidot.com/awescended",
+    "name": "Awescended",
+    "type": "armors",
+    "description": "A symbol of the preservation of Lore's history. This item gives 30% more gold and 50% more class points and rep when equipped.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/oo7XWAb.png",
+        "https://i.imgur.com/bCbQzUg.png"
+    ],
+    "hash": "203f8dcc881e06f5eba79f24e5eadda3"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "starry-swashbuckler",
+    "url": "http://aqwwiki.wikidot.com/starry-swashbuckler",
+    "name": "Starry Swashbuckler",
+    "type": "armors",
+    "description": "Sail to the ends of the universe. Stop at the restaurant or pillage it.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/b8XX2zn.png",
+        "https://i.imgur.com/iv50vw3.png"
+    ],
+    "hash": "43e4699cabe4a092d2de9ec917a05653"
+}

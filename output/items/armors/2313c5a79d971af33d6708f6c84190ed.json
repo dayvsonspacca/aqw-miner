@@ -1,0 +1,17 @@
+{
+    "urlName": "bonesaw-judge",
+    "url": "http://aqwwiki.wikidot.com/bonesaw-judge",
+    "name": "BoneSaw Judge",
+    "type": "armors",
+    "description": "Pro tip: If they ask if you want to play a game, run for your life.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/0IMGhoG.png",
+        "https://i.imgur.com/UcGo37d.png"
+    ],
+    "hash": "2313c5a79d971af33d6708f6c84190ed"
+}

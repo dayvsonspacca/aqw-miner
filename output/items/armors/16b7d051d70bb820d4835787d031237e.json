@@ -1,0 +1,17 @@
+{
+    "urlName": "frozendawn-herald",
+    "url": "http://aqwwiki.wikidot.com/frozendawn-herald",
+    "name": "FrozenDawn Herald",
+    "type": "armors",
+    "description": "As the first rays of the sun rise over the Northlands, the FrozenDawn Herald calls out with joy to welcome the start of the Frostval in July holiday!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iwArhWN.png",
+        "https://i.imgur.com/2uKczPg.png"
+    ],
+    "hash": "16b7d051d70bb820d4835787d031237e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dynasty-warrior",
+    "url": "http://aqwwiki.wikidot.com/dynasty-warrior",
+    "name": "Dynasty Warrior",
+    "type": "armors",
+    "description": "Made of jade, this armor is more brittle than most. This makes it a status symbol, as the only warriors who can use it are those who are quick enough to not need any armor at all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dynasty-warrior/DynastyWarrior.png"
+    ],
+    "hash": "ba730a8224a960922a1f78e8d2dcd208"
+}

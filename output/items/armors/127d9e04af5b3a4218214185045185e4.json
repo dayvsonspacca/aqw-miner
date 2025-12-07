@@ -1,0 +1,17 @@
+{
+    "urlName": "bright-dragon-knight",
+    "url": "http://aqwwiki.wikidot.com/bright-dragon-knight",
+    "name": "Bright Dragon Knight",
+    "type": "armors",
+    "description": "The Bright Dragon Knights of Swordhaven are an elite squad of warriors. Wielding light magic is a bonus, but not required to join.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BvV8Wyu.png",
+        "https://i.imgur.com/w0qnU4A.png"
+    ],
+    "hash": "127d9e04af5b3a4218214185045185e4"
+}

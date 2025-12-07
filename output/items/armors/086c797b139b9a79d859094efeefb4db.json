@@ -1,0 +1,15 @@
+{
+    "urlName": "desolate-rogue",
+    "url": "http://aqwwiki.wikidot.com/desolate-rogue",
+    "name": "Desolate Rogue",
+    "type": "armors",
+    "description": "These rogues live in total isolation, not needing the aid of anyone or anything.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/0QTnWLg.png",
+        "https://i.imgur.com/0Fln9WZ.png",
+        "http://i.imgur.com/I89xLTZ.png"
+    ],
+    "hash": "086c797b139b9a79d859094efeefb4db"
+}

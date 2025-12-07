@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-helmsman",
+    "url": "http://aqwwiki.wikidot.com/skyguard-helmsman",
+    "name": "Skyguard Helmsman",
+    "type": "armors",
+    "description": "Helmsman are the navigators of the skies. Without you, Skyguard Airship will not reach their destinations. You are vital member of the crew, and without your knowledge and skill, ships would be lost among the vast blue expanse of the sky!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/ZQPsPX7.png",
+        "http://i.imgur.com/C2QHtnc.png"
+    ],
+    "hash": "7908cebae142899fd50c54cb54823613"
+}

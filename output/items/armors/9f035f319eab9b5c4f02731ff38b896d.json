@@ -1,0 +1,17 @@
+{
+    "urlName": "souleater-warrior",
+    "url": "http://aqwwiki.wikidot.com/souleater-warrior",
+    "name": "Souleater Warrior",
+    "type": "armors",
+    "description": "These wretched creatures hunt and devour the souls of their enemies which sustains their power. Though they come in many shapes and sizes, their hunger for souls is the same. To become a Souleater is to receive great power at the cost of becoming a terrible monster. (color custom eyes)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/souleater-warrior/SouleaterWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/souleater-warrior/SouleaterWarriorF.jpg"
+    ],
+    "hash": "9f035f319eab9b5c4f02731ff38b896d"
+}

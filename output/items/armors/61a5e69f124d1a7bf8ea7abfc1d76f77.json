@@ -1,0 +1,16 @@
+{
+    "urlName": "borgrix-guardian",
+    "url": "http://aqwwiki.wikidot.com/borgrix-guardian",
+    "name": "Borgrix Guardian",
+    "type": "armors",
+    "description": "We are Borgrix, resistance will not be tolerated.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/JYDRPto.png",
+        "https://i.imgur.com/sD6ELaP.png"
+    ],
+    "hash": "61a5e69f124d1a7bf8ea7abfc1d76f77"
+}

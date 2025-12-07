@@ -1,0 +1,18 @@
+{
+    "urlName": "cyber-healer",
+    "url": "http://aqwwiki.wikidot.com/cyber-healer",
+    "name": "Cyber Healer",
+    "type": "armors",
+    "description": "Tech-savvy healers seek a future where machines are a part of everyday life and they are capable of fixing computer problems faster than usual spyware could.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/88ttzUE.png",
+        "https://imgur.com/moqLJuQ.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-healer/CyberHealerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-healer/CyberHealerF.png"
+    ],
+    "hash": "3fbb2e57c64dd0396fd89b1a311c164d"
+}

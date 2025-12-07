@@ -1,0 +1,17 @@
+{
+    "urlName": "doomed-deckstalker",
+    "url": "http://aqwwiki.wikidot.com/doomed-deckstalker",
+    "name": "Doomed DeckStalker",
+    "type": "armors",
+    "description": "Once simple pirates these now cursed souls sail the darkest deeps of the seas looking for souls to harvest.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/PF2uBtH.png",
+        "https://i.imgur.com/5RnAKjt.png"
+    ],
+    "hash": "9ed363b1df9b6f3ee4731ea2be14908f"
+}

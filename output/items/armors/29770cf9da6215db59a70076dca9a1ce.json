@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowbound-magus",
+    "url": "http://aqwwiki.wikidot.com/shadowbound-magus",
+    "name": "Shadowbound Magus",
+    "type": "armors",
+    "description": "The Shadowscythe's Magi dominate the Darkness with their sharply honed skill and vast intellect. They are bound to their Empress' shadow, and gain power as her star shines brighter.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TUp0kJR.png",
+        "https://i.imgur.com/BgKErKh.png"
+    ],
+    "hash": "29770cf9da6215db59a70076dca9a1ce"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "frozen-soul-knight",
+    "url": "http://aqwwiki.wikidot.com/frozen-soul-knight",
+    "name": "Frozen Soul Knight",
+    "type": "armors",
+    "description": "After the fall of man, during the battle for the Northlands, a sorcerer resurrected the souls every every knight that passed. Now they are on a mission to finish what they started a long time ago. How do you kill that which has already been killed?",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frozen-soul-knight/FSKM.png",
+        "http://aqwwiki.wdfiles.com/local--files/frozen-soul-knight/FSKF.png"
+    ],
+    "hash": "3993cdb2a56129bb644d762a8d02ec64"
+}

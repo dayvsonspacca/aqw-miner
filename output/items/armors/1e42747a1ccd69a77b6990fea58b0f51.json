@@ -1,0 +1,17 @@
+{
+    "urlName": "awards-show-tux",
+    "url": "http://aqwwiki.wikidot.com/awards-show-tux",
+    "name": "Awards Show Tux",
+    "type": "armors",
+    "description": "Walk the red carpet in this stylish frock while rocking to the Zardile Rock!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mInb9gm.png",
+        "https://i.imgur.com/W95WaSB.png"
+    ],
+    "hash": "1e42747a1ccd69a77b6990fea58b0f51"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chronoreaper",
+    "url": "http://aqwwiki.wikidot.com/chronoreaper",
+    "name": "ChronoReaper",
+    "type": "armors",
+    "description": "Before Drakath's Chaorruption, the TimeReapers shone the blue of pure mana. It is time you saw them in their purest state!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/esNaVEu.png",
+        "https://i.imgur.com/Q40PnX3.png"
+    ],
+    "hash": "b2c1b6ab0ff80620e0ab74280b1ca25f"
+}

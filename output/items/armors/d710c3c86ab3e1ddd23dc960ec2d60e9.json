@@ -1,0 +1,17 @@
+{
+    "urlName": "cretaceous-champion",
+    "url": "http://aqwwiki.wikidot.com/cretaceous-champion",
+    "name": "Cretaceous Champion",
+    "type": "armors",
+    "description": "Curious as to what made the dinosaurs extinct? \u2026Look no further than the Cretaceous Champion, clad in the prehistoric remains of every beast they have slain.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cretaceous-champion/CretaceousChampionMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/cretaceous-champion/CretaceousChampionFemale.png"
+    ],
+    "hash": "d710c3c86ab3e1ddd23dc960ec2d60e9"
+}

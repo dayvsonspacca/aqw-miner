@@ -1,0 +1,18 @@
+{
+    "urlName": "azure-cleric-of-time",
+    "url": "http://aqwwiki.wikidot.com/azure-cleric-of-time",
+    "name": "Azure Cleric Of Time",
+    "type": "armors",
+    "description": "It's said \"Time heals all wounds\", wise words for a Cleric.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/vYCvPyv.png",
+        "https://i.imgur.com/trvGsUP.png",
+        "http://aqwwiki.wdfiles.com/local--files/azure-cleric-of-time/AzureClericOfTimeMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/azure-cleric-of-time/AzureClericOfTimeFO.png"
+    ],
+    "hash": "58b4bc1574b2b515c753a5ffb26cd0fd"
+}

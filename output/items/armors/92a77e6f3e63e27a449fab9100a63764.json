@@ -1,0 +1,17 @@
+{
+    "urlName": "mystical-warrior",
+    "url": "http://aqwwiki.wikidot.com/mystical-warrior",
+    "name": "Mystical Warrior",
+    "type": "armors",
+    "description": "Harnessing the power of magic and might, this magical warriors command the field and destroy enemies!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mystical-warrior/MysticalWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mystical-warrior/MysticalWarriorF.png"
+    ],
+    "hash": "92a77e6f3e63e27a449fab9100a63764"
+}

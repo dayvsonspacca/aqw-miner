@@ -1,0 +1,16 @@
+{
+    "urlName": "chrononaut",
+    "url": "http://aqwwiki.wikidot.com/chrononaut",
+    "name": "Chrononaut",
+    "type": "armors",
+    "description": "Astronauts from planet Earth travel to space while Chrononauts travel through time AND space! Nice going, Chrononauts\u2014you make our Astronauts look like noobs.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chrononaut/ChrononautMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chrononaut/ChrononautFemale.png"
+    ],
+    "hash": "7e3902242539322ae4a8f914d77e3489"
+}

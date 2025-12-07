@@ -1,0 +1,17 @@
+{
+    "urlName": "brightflame-dragonknight-ac",
+    "url": "http://aqwwiki.wikidot.com/brightflame-dragonknight-ac",
+    "name": "BrightFlame DragonKnight (AC)",
+    "type": "armors",
+    "description": "The bright flames of valor and great will burns in your heart. It will hatch the soul of a dragon in all who see it. (Item is color-customizable)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/y5Gfz9C.png",
+        "https://i.imgur.com/iJJixZn.png"
+    ],
+    "hash": "4e3e6b894009ea88e0abab782665aa48"
+}

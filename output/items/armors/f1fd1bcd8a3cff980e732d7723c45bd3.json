@@ -1,0 +1,17 @@
+{
+    "urlName": "fury-fiend-of-nulgath-ac",
+    "url": "http://aqwwiki.wikidot.com/fury-fiend-of-nulgath-ac",
+    "name": "Fury Fiend of Nulgath (AC)",
+    "type": "armors",
+    "description": "These fiends are fueled by the fires of Nulgath's fury at any who would oppose him.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/8wsxhhK.png",
+        "https://imgur.com/9BBv57O.png"
+    ],
+    "hash": "f1fd1bcd8a3cff980e732d7723c45bd3"
+}

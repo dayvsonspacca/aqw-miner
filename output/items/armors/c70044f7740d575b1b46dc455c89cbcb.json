@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-tiger",
+    "url": "http://aqwwiki.wikidot.com/frost-tiger",
+    "name": "Frost Tiger",
+    "type": "armors",
+    "description": "The tiger is as mighty as it is majestic, but it does not forsake brains for brawn. A warrior who fights alone, draped in a tiger's stripes, are cunning in their ways.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/zlLbrjd.png",
+        "https://i.imgur.com/QtBXKjO.png"
+    ],
+    "hash": "c70044f7740d575b1b46dc455c89cbcb"
+}

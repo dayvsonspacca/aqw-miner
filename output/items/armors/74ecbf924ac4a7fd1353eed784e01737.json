@@ -1,0 +1,18 @@
+{
+    "urlName": "steampunk-eggsplorer",
+    "url": "http://aqwwiki.wikidot.com/steampunk-eggsplorer",
+    "name": "Steampunk Eggsplorer",
+    "type": "armors",
+    "description": "The yolks on anyone who thinks you won't be the more eggcellent eggsplorer in all of Lore!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/EFTITuS.png",
+        "http://i.imgur.com/N1mF34B.png",
+        "http://i.imgur.com/lYeXsDa.png"
+    ],
+    "hash": "74ecbf924ac4a7fd1353eed784e01737"
+}

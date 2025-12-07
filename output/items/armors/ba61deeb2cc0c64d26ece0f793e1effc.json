@@ -1,0 +1,17 @@
+{
+    "urlName": "tundrawyrm-hunter",
+    "url": "http://aqwwiki.wikidot.com/tundrawyrm-hunter",
+    "name": "TundraWyrm Hunter",
+    "type": "armors",
+    "description": "You've proven to Zoshi how awesome you are. Here is your reward. No monster in Lore stand",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tundrawyrm-hunter/TWHM.png",
+        "http://aqwwiki.wdfiles.com/local--files/tundrawyrm-hunter/TWHF.png"
+    ],
+    "hash": "ba61deeb2cc0c64d26ece0f793e1effc"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "byakko-worshipper",
+    "url": "http://aqwwiki.wikidot.com/byakko-worshipper",
+    "name": "Byakko Worshipper",
+    "type": "armors",
+    "description": "The white tiger has long been recognized as the true \"king of the beasts.\" He is most honorable and worthy of your worship. If you serve him with a pure heart and absolute virtue, you will be rewarded.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/6ec59r8.png",
+        "https://i.imgur.com/Gie78mV.png"
+    ],
+    "hash": "090c79591b5b3f6409fbd59fed4e8039"
+}

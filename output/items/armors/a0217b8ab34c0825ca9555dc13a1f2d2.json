@@ -1,0 +1,16 @@
+{
+    "urlName": "deep-space-paladin",
+    "url": "http://aqwwiki.wikidot.com/deep-space-paladin",
+    "name": "Deep Space Paladin",
+    "type": "armors",
+    "description": "In space no one can hear you slay.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/6QFBQgQ.png",
+        "http://i.imgur.com/0t5WGYC.png"
+    ],
+    "hash": "a0217b8ab34c0825ca9555dc13a1f2d2"
+}

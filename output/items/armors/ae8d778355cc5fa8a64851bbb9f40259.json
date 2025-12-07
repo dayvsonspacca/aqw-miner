@@ -1,0 +1,16 @@
+{
+    "urlName": "lycan-shaman-armor",
+    "url": "http://aqwwiki.wikidot.com/lycan-shaman-armor",
+    "name": "Lycan Shaman (Armor)",
+    "type": "armors",
+    "description": "These shamans use their wits to avenge their fallen brothers and sisters whom those blood drinkers killed. Lycans will win!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/AejQhv5.png",
+        "https://i.imgur.com/BxKOXpe.png"
+    ],
+    "hash": "ae8d778355cc5fa8a64851bbb9f40259"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "green-dragon-pjs",
+    "url": "http://aqwwiki.wikidot.com/green-dragon-pjs",
+    "name": "Green Dragon PJs",
+    "type": "armors",
+    "description": "Fight like a Dragon, and sleep like one too.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/82A22l7.png",
+        "https://i.imgur.com/wvdA5ak.png"
+    ],
+    "hash": "82616222de42354e77d920199afea9c0"
+}

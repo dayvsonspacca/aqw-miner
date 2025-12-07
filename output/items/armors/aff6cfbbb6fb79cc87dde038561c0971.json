@@ -1,0 +1,18 @@
+{
+    "urlName": "prismatic-composer-armor",
+    "url": "http://aqwwiki.wikidot.com/prismatic-composer-armor",
+    "name": "Prismatic Composer Armor",
+    "type": "armors",
+    "description": "Orchestrate your own band of terror in a fully color custom Composer Armor! Never miss a beat\u2026down!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JX4nlH9.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-composer-armor/PCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-composer-armor/PCF.png"
+    ],
+    "hash": "aff6cfbbb6fb79cc87dde038561c0971"
+}

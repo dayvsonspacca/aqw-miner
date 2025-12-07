@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-skyguard-warrior",
+    "url": "http://aqwwiki.wikidot.com/prismatic-skyguard-warrior",
+    "name": "Prismatic SkyGuard Warrior",
+    "type": "armors",
+    "description": "As a member of the boarding party, you are the grunt of the SkyGuard. That doesn't mean though that you can't hold your own in the heat of battle.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/JoTAmR7.png",
+        "https://i.imgur.com/SoaqQca.png",
+        "http://i.imgur.com/PT1Xnb4.png"
+    ],
+    "hash": "af76a3d8eabdf198df8d67519107cd3e"
+}

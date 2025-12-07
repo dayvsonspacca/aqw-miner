@@ -1,0 +1,19 @@
+{
+    "urlName": "dreadnought",
+    "url": "http://aqwwiki.wikidot.com/dreadnought",
+    "name": "Dreadnought",
+    "type": "armors",
+    "description": "A Dreadnought is an unstoppable engine of warfare. Nothing can withstand the force present in the magically reenforced armor. Click on the hand or shoulder to activate rune shields that only you can see!",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/12Q9JzU.png",
+        "http://i.imgur.com/4nleIAS.png",
+        "http://i.imgur.com/MhKEvLC.png",
+        "http://i.imgur.com/QbYnqyg.png"
+    ],
+    "hash": "91a0155c15c35239fd8783cb2f2f34e1"
+}

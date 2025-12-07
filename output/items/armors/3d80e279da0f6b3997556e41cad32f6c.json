@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-elf",
+    "url": "http://aqwwiki.wikidot.com/prismatic-elf",
+    "name": "Prismatic Elf",
+    "type": "armors",
+    "description": "No one throughout Lore has more holiday spirit than you! Great job not letting the weather bring you down as you shared holiday cheer throughout Lore 12 days in a row!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-elf/PrismaticElfM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-elf/PrismaticElfF.png"
+    ],
+    "hash": "3d80e279da0f6b3997556e41cad32f6c"
+}

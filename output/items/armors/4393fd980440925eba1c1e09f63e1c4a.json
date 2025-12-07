@@ -1,0 +1,16 @@
+{
+    "urlName": "arctic-invader",
+    "url": "http://aqwwiki.wikidot.com/arctic-invader",
+    "name": "Arctic Invader",
+    "type": "armors",
+    "description": "You are ready to explore the Northlands!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/fuj2Qr7.png",
+        "http://i.imgur.com/nRke3cw.png"
+    ],
+    "hash": "4393fd980440925eba1c1e09f63e1c4a"
+}

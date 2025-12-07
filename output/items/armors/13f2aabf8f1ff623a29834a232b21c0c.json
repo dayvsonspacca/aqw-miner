@@ -1,0 +1,15 @@
+{
+    "urlName": "staphylococcus",
+    "url": "http://aqwwiki.wikidot.com/staphylococcus",
+    "name": "Staphylococcus",
+    "type": "armors",
+    "description": "Monsters and Heroes alike fear the dreaded pathogenic bacterium, Staphylococcus!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/c1Sg3wW.png"
+    ],
+    "hash": "13f2aabf8f1ff623a29834a232b21c0c"
+}

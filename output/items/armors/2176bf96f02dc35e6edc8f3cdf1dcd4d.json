@@ -1,0 +1,17 @@
+{
+    "urlName": "brightscythe-battlemage",
+    "url": "http://aqwwiki.wikidot.com/brightscythe-battlemage",
+    "name": "Brightscythe Battlemage",
+    "type": "armors",
+    "description": "Using spells calling on the Light, these Battlemages are feared throughout the darker parts of Lore.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/PJLSNe1.png",
+        "https://i.imgur.com/e1kjLTl.png"
+    ],
+    "hash": "2176bf96f02dc35e6edc8f3cdf1dcd4d"
+}

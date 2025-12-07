@@ -1,0 +1,19 @@
+{
+    "urlName": "forsaken-warlock-armor",
+    "url": "http://aqwwiki.wikidot.com/forsaken-warlock-armor",
+    "name": "Forsaken Warlock (Armor)",
+    "type": "armors",
+    "description": "Embrace the power of the Darkness, then go beyond! CONTROL the darkness, the Dragons, and the WORLD, for YOU are a Forsaken Warlock!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/forsaken-warlock-armor/ForsakenWarlockM.png",
+        "http://aqwwiki.wdfiles.com/local--files/forsaken-warlock-armor/ForsakenWarlockF.png",
+        "http://aqwwiki.wdfiles.com/local--files/forsaken-warlock-armor/ForsakenWarlockC.png"
+    ],
+    "hash": "c0f3739f33988723ac4d2c0814e44cf7"
+}

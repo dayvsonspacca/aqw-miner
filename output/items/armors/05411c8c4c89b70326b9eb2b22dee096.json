@@ -1,0 +1,17 @@
+{
+    "urlName": "furred-ice-giant",
+    "url": "http://aqwwiki.wikidot.com/furred-ice-giant",
+    "name": "Furred Ice Giant",
+    "type": "armors",
+    "description": "Legend has it that these giants roam the hills outside of Frostval. While you've never seen a live one, you have found their clothing\u2026 so you can dress like one!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/Y7KF2p4.png",
+        "https://imgur.com/2p2h0N7.png"
+    ],
+    "hash": "05411c8c4c89b70326b9eb2b22dee096"
+}

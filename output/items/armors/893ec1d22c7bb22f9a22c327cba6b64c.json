@@ -1,0 +1,18 @@
+{
+    "urlName": "permafrost-juggernaut",
+    "url": "http://aqwwiki.wikidot.com/permafrost-juggernaut",
+    "name": "Permafrost Juggernaut",
+    "type": "armors",
+    "description": "As a final parting shot, an Ice Dragon permanently scarred the Dragonslayers who slew it. Cold breath froze their blood, but the warriors took it in stride. Reborn in frost, they were gifted with the ability to thrive in the permafrost.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WFzbiit.png",
+        "https://i.imgur.com/SGkizyf.png"
+    ],
+    "hash": "893ec1d22c7bb22f9a22c327cba6b64c"
+}

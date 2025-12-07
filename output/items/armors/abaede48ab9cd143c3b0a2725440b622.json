@@ -1,0 +1,17 @@
+{
+    "urlName": "frostball-aristocrat-ac",
+    "url": "http://aqwwiki.wikidot.com/frostball-aristocrat-ac",
+    "name": "Frostball Aristocrat (AC)",
+    "type": "armors",
+    "description": "Your fluffy dance partner's tail flicks with joy.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/PnSUGva.png",
+        "https://i.imgur.com/vOuybaY.png"
+    ],
+    "hash": "abaede48ab9cd143c3b0a2725440b622"
+}

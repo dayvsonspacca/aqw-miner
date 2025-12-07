@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-chiton",
+    "url": "http://aqwwiki.wikidot.com/prismatic-chiton",
+    "name": "Prismatic Chiton",
+    "type": "armors",
+    "description": "Enter the battle arena secure in the knowledge that you'll look your best and fight your hardest! The trim on this chiton is color-custom!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/yQyEH17.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-chiton/PrismaticChitonF.png"
+    ],
+    "hash": "b5de0c8318e0f031000068d8b99d0b7b"
+}

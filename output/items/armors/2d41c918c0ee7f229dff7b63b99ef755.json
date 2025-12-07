@@ -1,0 +1,16 @@
+{
+    "urlName": "dwarf-engineer",
+    "url": "http://aqwwiki.wikidot.com/dwarf-engineer",
+    "name": "Dwarf Engineer",
+    "type": "armors",
+    "description": "From tables, clocks, and lamps to guns, explosives, and war machines, the Dwarf Engineer can to it all!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/VBjmZb7.png",
+        "http://i.imgur.com/UDaDFxP.png"
+    ],
+    "hash": "2d41c918c0ee7f229dff7b63b99ef755"
+}

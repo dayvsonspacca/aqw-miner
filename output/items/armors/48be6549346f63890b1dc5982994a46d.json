@@ -1,0 +1,17 @@
+{
+    "urlName": "steamed-punk",
+    "url": "http://aqwwiki.wikidot.com/steamed-punk",
+    "name": "Steamed Punk",
+    "type": "armors",
+    "description": "You don't have to be a world reknown inventor to wear the garb that gets the job done.Even a young go-getter with a mind full of possibilities need something to keep them safe from those wanting to steal there ideas.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/steamed-punk/SteamedPunkM.png",
+        "http://aqwwiki.wdfiles.com/local--files/steamed-punk/SteamedPunkF.png"
+    ],
+    "hash": "48be6549346f63890b1dc5982994a46d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "crows-team-legend",
+    "url": "http://aqwwiki.wikidot.com/crows-team-legend",
+    "name": "Crows Team (Legend)",
+    "type": "armors",
+    "description": "Go team! Go! Cheerleaders and Football Players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crows-team-legend/CrowsTeamMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/crows-team-legend/CrowsTeamFemale.png"
+    ],
+    "hash": "407758c6f773d0a2461da3889c587fcd"
+}

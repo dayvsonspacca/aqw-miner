@@ -1,0 +1,17 @@
+{
+    "urlName": "azure-dragonknight",
+    "url": "http://aqwwiki.wikidot.com/azure-dragonknight",
+    "name": "Azure Dragonknight",
+    "type": "armors",
+    "description": "Prove your worth and you too may be invited to become a DragonKnight! The azure hue of the armor signifies a pure heart and a strong arm",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/0RaFSwU.png",
+        "http://aqwwiki.wdfiles.com/local--files/azure-dragonknight/AzureDragonknightFemale.png"
+    ],
+    "hash": "76711b09cd0edc1e54aa09db83c6dbcb"
+}

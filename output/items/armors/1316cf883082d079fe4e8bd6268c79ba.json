@@ -1,0 +1,16 @@
+{
+    "urlName": "lost-warrior",
+    "url": "http://aqwwiki.wikidot.com/lost-warrior",
+    "name": "Lost Warrior",
+    "type": "armors",
+    "description": "This brave warrior was killed in battle with the Sludgelord long ago, and now wanders the sewers trying to find a way back to the surface.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/gFTQdj2.png",
+        "http://i.imgur.com/l9X3I0m.png"
+    ],
+    "hash": "1316cf883082d079fe4e8bd6268c79ba"
+}

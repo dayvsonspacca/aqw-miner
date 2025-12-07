@@ -1,0 +1,16 @@
+{
+    "urlName": "guardian-armor",
+    "url": "http://aqwwiki.wikidot.com/guardian-armor",
+    "name": "Guardian Armor",
+    "type": "armors",
+    "description": "The elite armor of Guardians. Guardians live to serve and protect. (Color customization available at Yulgar's Inn)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/hBNjiKx.png",
+        "https://i.imgur.com/fTIsODV.png"
+    ],
+    "hash": "9b0339cddc931f7898bdf92e06ebb89e"
+}

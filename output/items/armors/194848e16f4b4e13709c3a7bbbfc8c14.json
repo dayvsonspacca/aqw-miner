@@ -1,0 +1,17 @@
+{
+    "urlName": "frank-armor",
+    "url": "http://aqwwiki.wikidot.com/frank-armor",
+    "name": "Frank Armor",
+    "type": "armors",
+    "description": "Most heroes would fail pieces in this armor, but you're so funny you keep yourself in stitches!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frank-armor/FrankMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/frank-armor/FrankFemale.png"
+    ],
+    "hash": "194848e16f4b4e13709c3a7bbbfc8c14"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "archfiend-dragonknight-armor",
+    "url": "http://aqwwiki.wikidot.com/archfiend-dragonknight-armor",
+    "name": "Archfiend DragonKnight (Armor)",
+    "type": "armors",
+    "description": "The knights are special, they command dragons along with hamessing all the power that Nulgath bestows on his Voids.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/3ofLZIL.png",
+        "https://i.imgur.com/3eM9Xj7.png"
+    ],
+    "hash": "cd8a64a667eabe0e30e58b16ac5ece1a"
+}

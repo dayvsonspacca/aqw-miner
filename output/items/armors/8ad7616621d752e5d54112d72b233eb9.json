@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-pirate-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-pirate-captain-ac",
+    "name": "ShadowScythe Pirate Captain (AC)",
+    "type": "armors",
+    "description": "Some of Gravelyn's soldiers have stolen away to a life of piracy on the high seas! Avast!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/QW4tdGA.png",
+        "https://i.imgur.com/QtGS54T.png"
+    ],
+    "hash": "8ad7616621d752e5d54112d72b233eb9"
+}

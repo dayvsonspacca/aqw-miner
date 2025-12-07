@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-s-light",
+    "url": "http://aqwwiki.wikidot.com/shadow-s-light",
+    "name": "Shadow's Light",
+    "type": "armors",
+    "description": "Your loyalty to Empress Gravelyn cannot be contained by even the darkest armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-s-light/Shadow'sLightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-s-light/Shadow'sLightF.png"
+    ],
+    "hash": "11a97a71bd024551392db89a641fe835"
+}

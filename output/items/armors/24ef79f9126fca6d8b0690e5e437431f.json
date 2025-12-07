@@ -1,0 +1,17 @@
+{
+    "urlName": "discordian-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/discordian-naval-commander-ac",
+    "name": "Discordian Naval Commander (AC)",
+    "type": "armors",
+    "description": "Avast! Ye be bettin' out a hearty sea chanty as ye sail, or yer commander will keelhaul you and kick ya out of Discordia's Navy!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/jN9pCkG.png",
+        "https://i.imgur.com/girY5Zm.png"
+    ],
+    "hash": "24ef79f9126fca6d8b0690e5e437431f"
+}

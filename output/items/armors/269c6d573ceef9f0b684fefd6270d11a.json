@@ -1,0 +1,17 @@
+{
+    "urlName": "boreal-cavalier-ac",
+    "url": "http://aqwwiki.wikidot.com/boreal-cavalier-ac",
+    "name": "Boreal Cavalier (AC)",
+    "type": "armors",
+    "description": "The dawn shines on these knights of the frozen Northlands.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/UX3UaOU.png",
+        "https://imgur.com/H7lQU8b.png"
+    ],
+    "hash": "269c6d573ceef9f0b684fefd6270d11a"
+}

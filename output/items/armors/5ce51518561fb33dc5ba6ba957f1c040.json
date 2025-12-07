@@ -1,0 +1,16 @@
+{
+    "urlName": "deathknight-class-armor",
+    "url": "http://aqwwiki.wikidot.com/deathknight-class-armor",
+    "name": "DeathKnight Class Armor",
+    "type": "armors",
+    "description": "Have you been pulled from the cold comfort of death to serve a new master or has your own will pulled you back to the land of the living to continue fighting?",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/ianJEp3.png",
+        "http://i.imgur.com/xWfACuD.png"
+    ],
+    "hash": "5ce51518561fb33dc5ba6ba957f1c040"
+}

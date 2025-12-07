@@ -1,0 +1,18 @@
+{
+    "urlName": "classic-seahorcs-gear-legend",
+    "url": "http://aqwwiki.wikidot.com/classic-seahorcs-gear-legend",
+    "name": "Classic Seahorcs Gear (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football Players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/classic-seahorcs-gear-legend/ClassicSeahorcsGearM.png",
+        "http://aqwwiki.wdfiles.com/local--files/classic-seahorcs-gear-legend/ClassicSeahorcsGearF.png"
+    ],
+    "hash": "ff87b8d04ae43aa9b0ad8d35c22d0226"
+}

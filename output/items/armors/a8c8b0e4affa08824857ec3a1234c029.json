@@ -1,0 +1,18 @@
+{
+    "urlName": "prismatic-paragon-plate",
+    "url": "http://aqwwiki.wikidot.com/prismatic-paragon-plate",
+    "name": "Prismatic Paragon Plate",
+    "type": "armors",
+    "description": "This armor is riddled with the faces of it's last victims. if you listen closely, you can still hear their cries\u2026 AHHHH!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-paragon-plate/ParagonPlate.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-paragon-plate/ParagonPlateOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-paragon-plate/ParagonPlateF.png"
+    ],
+    "hash": "a8c8b0e4affa08824857ec3a1234c029"
+}

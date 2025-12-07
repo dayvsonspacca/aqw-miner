@@ -1,0 +1,17 @@
+{
+    "urlName": "grimfaxe-archfoe-ac",
+    "url": "http://aqwwiki.wikidot.com/grimfaxe-archfoe-ac",
+    "name": "Grimfaxe Archfoe (AC)",
+    "type": "armors",
+    "description": "(Scarf is color-customizable to Base.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/KHgOIas.png",
+        "https://i.imgur.com/8ONzPEC.png"
+    ],
+    "hash": "51ea1e695751f8d76b79eec36f1a9a20"
+}

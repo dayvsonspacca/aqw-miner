@@ -1,0 +1,17 @@
+{
+    "urlName": "contractkeeper-of-nulgath-armor",
+    "url": "http://aqwwiki.wikidot.com/contractkeeper-of-nulgath-armor",
+    "name": "ContractKeeper of Nulgath (Armor)",
+    "type": "armors",
+    "description": "If you break your contract with Nulgath, it is the Contract Keepers that will be sent after you.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/aCcm3OV.png",
+        "https://i.imgur.com/WFHcrBu.png"
+    ],
+    "hash": "23877c4003ed7258002763e26801e533"
+}

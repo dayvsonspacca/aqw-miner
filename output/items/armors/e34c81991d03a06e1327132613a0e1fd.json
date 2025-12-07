@@ -1,0 +1,17 @@
+{
+    "urlName": "skullbound-assassin-ac",
+    "url": "http://aqwwiki.wikidot.com/skullbound-assassin-ac",
+    "name": "Skullbound Assassin (AC)",
+    "type": "armors",
+    "description": "You gained the ability to move through the darkness as silently as a shadow when your soul was stripped from you, twisted, and bound back into you by Dage the Evil's magic.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fBPFp42.png",
+        "https://i.imgur.com/b8zgBtc.png"
+    ],
+    "hash": "e34c81991d03a06e1327132613a0e1fd"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowflame-dragonlord-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowflame-dragonlord-armor",
+    "name": "ShadowFlame DragonLord (Armor)",
+    "type": "armors",
+    "description": "Sometimes a DragonLord falls victim to the shadow, no matter how hard they fight it. This is the result.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/87KeCM2.png",
+        "https://i.imgur.com/r9Dkq8m.png"
+    ],
+    "hash": "45dde308513c5599e05488af46e86899"
+}

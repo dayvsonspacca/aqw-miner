@@ -1,0 +1,17 @@
+{
+    "urlName": "dreamomancer",
+    "url": "http://aqwwiki.wikidot.com/dreamomancer",
+    "name": "Dreamomancer",
+    "type": "armors",
+    "description": "Music follows you through your dreams and the waking world. The inspiration is never ending.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/aJgOuzy.png",
+        "https://i.imgur.com/L7pJaRk.png"
+    ],
+    "hash": "72431f4cf640ba5189847824184d0326"
+}

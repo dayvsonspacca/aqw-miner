@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-luchadwarf",
+    "url": "http://aqwwiki.wikidot.com/prismatic-luchadwarf",
+    "name": "Prismatic Luchadwarf",
+    "type": "armors",
+    "description": "Luchadwarves are hand to hand warriors from the color southern regions of the Dwarfhold montains. You can dress in any 2 color combinations you like in this color custom outfit.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-luchadwarf/PLM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-luchadwarf/PLF.png"
+    ],
+    "hash": "a404058076ea38176dd34021a09256d2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "lumenomancer",
+    "url": "http://aqwwiki.wikidot.com/lumenomancer",
+    "name": "Lumenomancer",
+    "type": "armors",
+    "description": "As a wielder of the light, you hold the power to absolve even the darkest soul. No foe shall withstand the power of our cleansing light!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/wrZmsp1.png",
+        "http://i.imgur.com/0rp5kr2.png"
+    ],
+    "hash": "24b76a890430e7e04b2e9a8fc6bda2af"
+}

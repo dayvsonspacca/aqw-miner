@@ -1,0 +1,17 @@
+{
+    "urlName": "exoskeletal-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/exoskeletal-warrior-ac",
+    "name": "ExoSkeletal Warrior (AC)",
+    "type": "armors",
+    "description": "Initially acting as scouts to Laken the Good, exoskeletal troopers swore off his cause once they tasted the cold flavors of the Undead Legion. Now they act as double agents to opposing sides in order to plant seeds of distrust onto them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/exoskeletal-warrior-ac/ExoskeletalWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/exoskeletal-warrior-ac/ExoskeletalWarriorF.png"
+    ],
+    "hash": "a4649bbe39f6d201260c8a4eeb7e7190"
+}

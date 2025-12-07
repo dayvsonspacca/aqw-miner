@@ -1,0 +1,18 @@
+{
+    "urlName": "shadow-steel",
+    "url": "http://aqwwiki.wikidot.com/shadow-steel",
+    "name": "Shadow Steel",
+    "type": "armors",
+    "description": "This ancient armor once belonged to the head of a noble house, passed down from parent to child for centuries\u2026 until now. Evil creatures from the plane of darkness have corrupted this armor and whomever wearing it. LONG UNLIVE THE SHADOWSCYTHE!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-steel/ShadowSteelM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-steel/ShadowSteelF.png"
+    ],
+    "hash": "42ba84b20734ebfc1627c3c97e06931b"
+}

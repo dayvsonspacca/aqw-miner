@@ -1,0 +1,17 @@
+{
+    "urlName": "supernova-fortress-guard-ac",
+    "url": "http://aqwwiki.wikidot.com/supernova-fortress-guard-ac",
+    "name": "Supernova Fortress Guard (AC)",
+    "type": "armors",
+    "description": "It is sometimes difficult to tell if the Star Core guardians are human or not because of their emotionless exteriors and the metallic structures of their armors. Their intentions are noble but they are quick to jump to conclusions especially when dealing with an intruder. Watch your back!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/supernova-fortress-guard-ac/SupernovaFortressGuardM.png",
+        "http://aqwwiki.wdfiles.com/local--files/supernova-fortress-guard-ac/SupernovaFortressGuardF.png"
+    ],
+    "hash": "6e2c4a53a7bc32b099a65a3f3fcde9f3"
+}

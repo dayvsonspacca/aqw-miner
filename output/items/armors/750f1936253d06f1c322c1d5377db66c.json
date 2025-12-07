@@ -1,0 +1,17 @@
+{
+    "urlName": "bonebreaker-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/bonebreaker-naval-commander-ac",
+    "name": "Bonebreaker Naval Commander (AC)",
+    "type": "armors",
+    "description": "Crossing the sea to find more bones to break. We're comin' fer ya!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VDCo1ie.png",
+        "https://i.imgur.com/yGJgU2B.png"
+    ],
+    "hash": "750f1936253d06f1c322c1d5377db66c"
+}

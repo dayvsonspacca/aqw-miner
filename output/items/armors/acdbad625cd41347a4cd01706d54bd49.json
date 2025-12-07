@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-shinobi",
+    "url": "http://aqwwiki.wikidot.com/shadow-shinobi",
+    "name": "Shadow Shinobi",
+    "type": "armors",
+    "description": "This clan of Ninja are dedicated to the cause of Gravelyn and her Shadowscythe Empire. (color custom: trim, accessory)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://imgur.com/L2obqsb.png",
+        "https://imgur.com/rxx52ve.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-shinobi/SSFO.png"
+    ],
+    "hash": "acdbad625cd41347a4cd01706d54bd49"
+}

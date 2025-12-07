@@ -1,0 +1,16 @@
+{
+    "urlName": "armor-shaped-giftbox",
+    "url": "http://aqwwiki.wikidot.com/armor-shaped-giftbox",
+    "name": "Armor-Shaped Giftbox",
+    "type": "armors",
+    "description": "A present shaped like an armor! Save this and it will magiclly open at the start of the new year. No peeking!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/armor-shaped-giftbox/Armor-ShapedGiftBoxMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/armor-shaped-giftbox/Armor-ShapedGiftBoxFemale.png"
+    ],
+    "hash": "c78189a18a1f20a563aaa39c609cead9"
+}

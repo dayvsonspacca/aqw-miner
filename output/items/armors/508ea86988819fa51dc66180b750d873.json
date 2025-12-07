@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-shogunslinger",
+    "url": "http://aqwwiki.wikidot.com/prismatic-shogunslinger",
+    "name": "Prismatic Shogunslinger",
+    "type": "armors",
+    "description": "The gun is mightier than a blade but they both get the job done",
+    "rarity": "Common Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/ppwwiLQ.png",
+        "https://i.imgur.com/thTWlst.png"
+    ],
+    "hash": "508ea86988819fa51dc66180b750d873"
+}

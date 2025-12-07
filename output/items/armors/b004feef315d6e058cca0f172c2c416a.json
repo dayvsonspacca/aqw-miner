@@ -1,0 +1,16 @@
+{
+    "urlName": "gravity-overlord",
+    "url": "http://aqwwiki.wikidot.com/gravity-overlord",
+    "name": "Gravity Overlord",
+    "type": "armors",
+    "description": "This armor actually manipulates gravity itself! This armor was inspired by art created by your fellow player Gsog.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/6uHnr0g.png",
+        "https://i.imgur.com/oUztWnz.png"
+    ],
+    "hash": "b004feef315d6e058cca0f172c2c416a"
+}

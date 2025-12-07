@@ -1,0 +1,16 @@
+{
+    "urlName": "space-mage-armor",
+    "url": "http://aqwwiki.wikidot.com/space-mage-armor",
+    "name": "Space-Mage Armor",
+    "type": "armors",
+    "description": "Taking spell casting to the final frontier.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/hhfgB0R.png",
+        "http://i.imgur.com/oAozbhr.png"
+    ],
+    "hash": "4497cca7020afc9a20cb0ccaa34098f2"
+}

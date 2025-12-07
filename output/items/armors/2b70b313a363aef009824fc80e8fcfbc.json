@@ -1,0 +1,17 @@
+{
+    "urlName": "doomdragon-mount",
+    "url": "http://aqwwiki.wikidot.com/doomdragon-mount",
+    "name": "DoomDragon Mount",
+    "type": "armors",
+    "description": "Take to the skies in fiendish style. Only ones who are direct descendants of the DoomDragon Mother can tame these legendary beasts.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/4936c4V.png",
+        "https://i.imgur.com/Ix4J6U6.png"
+    ],
+    "hash": "2b70b313a363aef009824fc80e8fcfbc"
+}

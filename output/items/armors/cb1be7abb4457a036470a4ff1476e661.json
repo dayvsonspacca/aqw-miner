@@ -1,0 +1,17 @@
+{
+    "urlName": "mystical-soulweaver-prime",
+    "url": "http://aqwwiki.wikidot.com/mystical-soulweaver-prime",
+    "name": "Mystical SoulWeaver Prime",
+    "type": "armors",
+    "description": "To become a SoulWeaver you must bond with an Elemental Spirit partner. Together, using the Spirit Looms you have forged, you may weave wonderful cloth that cannot be destroyed. (Animated Gauntlets)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mystical-soulweaver-prime/MysticalSoulweaverPrimeM.png",
+        "http://aqwwiki.wdfiles.com/local--files/mystical-soulweaver-prime/MysticalSoulweaverPrimeF.png"
+    ],
+    "hash": "cb1be7abb4457a036470a4ff1476e661"
+}

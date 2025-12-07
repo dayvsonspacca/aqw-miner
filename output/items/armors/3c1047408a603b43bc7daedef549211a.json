@@ -1,0 +1,17 @@
+{
+    "urlName": "evolved-laken-adherent-ac",
+    "url": "http://aqwwiki.wikidot.com/evolved-laken-adherent-ac",
+    "name": "Evolved Laken Adherent (AC)",
+    "type": "armors",
+    "description": "Followers that are acrobatic wear more plating than robes and the red runes raise their speed to supernatural levels.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-laken-adherent-ac/EvolvedLakenAdherentM.png",
+        "http://aqwwiki.wdfiles.com/local--files/evolved-laken-adherent-ac/EvolvedLakenAdherentF.png"
+    ],
+    "hash": "3c1047408a603b43bc7daedef549211a"
+}

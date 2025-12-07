@@ -1,0 +1,17 @@
+{
+    "urlName": "cunning-rogue",
+    "url": "http://aqwwiki.wikidot.com/cunning-rogue",
+    "name": "Cunning Rogue",
+    "type": "armors",
+    "description": "Rogues follow their own set of rules. With a combination of speed, cunning, and poisons, you take your enemies by surprise.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/7nEXOmJ.png",
+        "https://i.imgur.com/XahNlve.png"
+    ],
+    "hash": "a3d192e0ee211bbc4574b2a3674b98ba"
+}

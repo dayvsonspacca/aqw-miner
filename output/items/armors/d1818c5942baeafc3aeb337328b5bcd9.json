@@ -1,0 +1,16 @@
+{
+    "urlName": "grim-dungeon-guard",
+    "url": "http://aqwwiki.wikidot.com/grim-dungeon-guard",
+    "name": "Grim Dungeon Guard",
+    "type": "armors",
+    "description": "These poor souls are former heroes who couldn't escape the endless Pit of Doom and so enthralled Grimskull as he watched he decided just to keep them\u2026forever.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/Rq3QCb9.png",
+        "http://i.imgur.com/nO7CS1p.png"
+    ],
+    "hash": "d1818c5942baeafc3aeb337328b5bcd9"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "sharkless-pirate-angler",
+    "url": "http://aqwwiki.wikidot.com/sharkless-pirate-angler",
+    "name": "Sharkless Pirate Angler",
+    "type": "armors",
+    "description": "Nothing is sadder than a pirate angler who hasn\u2019t caught a shark.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sharkless-pirate-angler/SharklessPirateAnglerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sharkless-pirate-angler/SharklessPirateAnglerF.png"
+    ],
+    "hash": "bc170cf3222664773735e935dcd00cae"
+}

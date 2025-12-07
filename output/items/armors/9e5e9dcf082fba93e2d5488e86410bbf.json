@@ -1,0 +1,17 @@
+{
+    "urlName": "avis-magi",
+    "url": "http://aqwwiki.wikidot.com/avis-magi",
+    "name": "Avis Magi",
+    "type": "armors",
+    "description": "Fly headstrong into battle as an Avis Magi, master of the birds. Give a whole new meaning to fowl play!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/avis-magi/AvisMagiMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/avis-magi/AvisMagiFemale.png"
+    ],
+    "hash": "9e5e9dcf082fba93e2d5488e86410bbf"
+}

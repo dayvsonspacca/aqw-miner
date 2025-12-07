@@ -1,0 +1,16 @@
+{
+    "urlName": "deathfiend-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/deathfiend-of-nulgath",
+    "name": "Deathfiend of Nulgath",
+    "type": "armors",
+    "description": "Members of Nulgath's Army, these sorcerers use dark magic to carry out thy master's bidding!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathfiend-of-nulgath/DeathfiendofNulgath.png"
+    ],
+    "hash": "a15a4577b7fc7a47d54e7e18b2ed8aeb"
+}

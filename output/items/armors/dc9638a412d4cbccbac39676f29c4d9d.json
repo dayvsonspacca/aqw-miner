@@ -1,0 +1,18 @@
+{
+    "urlName": "ascended-darkcaster",
+    "url": "http://aqwwiki.wikidot.com/ascended-darkcaster",
+    "name": "Ascended DarkCaster",
+    "type": "armors",
+    "description": "Ascend into darkness and fulfill your destiny! Unleash your full potential as the greatest Undead Legion DarkCaster the world has ever seen!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/FSaGDtE.png",
+        "http://aqwwiki.wdfiles.com/local--files/ascended-darkcaster/AscendedDarkCasterMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/ascended-darkcaster/AscendedDarkCasterFemale.png"
+    ],
+    "hash": "dc9638a412d4cbccbac39676f29c4d9d"
+}

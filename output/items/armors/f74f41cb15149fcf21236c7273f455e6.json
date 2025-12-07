@@ -1,0 +1,15 @@
+{
+    "urlName": "skelecommander",
+    "url": "http://aqwwiki.wikidot.com/skelecommander",
+    "name": "SkeleCommander",
+    "type": "armors",
+    "description": "You have assumed the identity of a Comander of Noxus's forces. Pray your undercover work doesn't become a reality!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/NKfgiR6.png"
+    ],
+    "hash": "f74f41cb15149fcf21236c7273f455e6"
+}

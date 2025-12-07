@@ -1,0 +1,17 @@
+{
+    "urlName": "guardian-of-darkness",
+    "url": "http://aqwwiki.wikidot.com/guardian-of-darkness",
+    "name": "Guardian of Darkness",
+    "type": "armors",
+    "description": "The deep sense of dread and darkness flows within the threads of these menacing robes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/uTeh5Mc.png",
+        "https://i.imgur.com/OTEEtFE.png"
+    ],
+    "hash": "fae222542ee363c22885707e479316f0"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "bodiless-horseman-morph",
+    "url": "http://aqwwiki.wikidot.com/bodiless-horseman-morph",
+    "name": "Bodiless Horseman Morph",
+    "type": "armors",
+    "description": "The magical morph makes you appear like the legendary Bodiless Horseman. Your HORSE is also invisible. WARNING: the effects of this morph may change depending on the time of the year.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/APye0VE.png"
+    ],
+    "hash": "a32c16b1cd47772ae473a5c7cb4a14bf"
+}

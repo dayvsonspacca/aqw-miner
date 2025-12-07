@@ -1,0 +1,18 @@
+{
+    "urlName": "summer-xeven-and-sekt",
+    "url": "http://aqwwiki.wikidot.com/summer-xeven-and-sekt",
+    "name": "Summer Xeven and Sekt",
+    "type": "armors",
+    "description": "Even villains can take a break from ways to enjoy some summer fun! This item has a chance to do the One Million Gold Showers animation each time you auto-attack.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/oLGIt2V.png",
+        "http://aqwwiki.wdfiles.com/local--files/summer-xeven-and-sekt/Sekt.png",
+        "http://aqwwiki.wdfiles.com/local--files/summer-xeven-and-sekt/Xeven.png",
+        "http://aqwwiki.wdfiles.com/local--files/summer-xeven-and-sekt/SektXevenAnim.png"
+    ],
+    "hash": "8da89d4679f8ab38c895475c32c72869"
+}

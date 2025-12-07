@@ -1,0 +1,18 @@
+{
+    "urlName": "dreameater",
+    "url": "http://aqwwiki.wikidot.com/dreameater",
+    "name": "DreamEater",
+    "type": "armors",
+    "description": "Inspired by Memet The Nightmare Moglin, the DreamEater is still a force to be reckoned with. Don't feed after midnight. Unless it's tacos.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/vYf4bH6.png",
+        "http://aqwwiki.wdfiles.com/local--files/dreameater/DreamEaterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dreameater/DreamEaterF.png"
+    ],
+    "hash": "17c05a4d10beff46f2017286ea65d507"
+}

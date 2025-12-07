@@ -1,0 +1,16 @@
+{
+    "urlName": "solo-ship-captain",
+    "url": "http://aqwwiki.wikidot.com/solo-ship-captain",
+    "name": "Solo Ship Captain",
+    "type": "armors",
+    "description": "You are the master of your fate. You are the captain of your solo ship.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/mue0SRU.png",
+        "https://i.imgur.com/qH10NZm.png"
+    ],
+    "hash": "c362ada263e8df9033e454bf854edc68"
+}

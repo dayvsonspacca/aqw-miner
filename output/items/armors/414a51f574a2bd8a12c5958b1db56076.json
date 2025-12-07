@@ -1,0 +1,17 @@
+{
+    "urlName": "squire-of-heartfelt-sighs",
+    "url": "http://aqwwiki.wikidot.com/squire-of-heartfelt-sighs",
+    "name": "Squire of Heartfelt Sighs",
+    "type": "armors",
+    "description": "The squire must work his way up before becoming the Chevalier of Hearts.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/squire-of-heartfelt-sighs/SquireofHeartfeltSighsM.png",
+        "http://aqwwiki.wdfiles.com/local--files/squire-of-heartfelt-sighs/SquireofHeartfeltSighsF.png"
+    ],
+    "hash": "414a51f574a2bd8a12c5958b1db56076"
+}

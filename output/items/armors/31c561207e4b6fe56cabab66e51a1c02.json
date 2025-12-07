@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-lycan-armor",
+    "url": "http://aqwwiki.wikidot.com/doom-lycan-armor",
+    "name": "Doom Lycan Armor",
+    "type": "armors",
+    "description": "Charroupted creatures don't have fleas, right? Let's hope not\u2026 because Aria's Pet Shop is all out of flea collars!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/w1VlIxy.png",
+        "https://i.imgur.com/0NoWbMd.png"
+    ],
+    "hash": "31c561207e4b6fe56cabab66e51a1c02"
+}

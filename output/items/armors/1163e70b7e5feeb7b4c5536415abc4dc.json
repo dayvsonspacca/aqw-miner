@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-shaman-0-ac",
+    "url": "http://aqwwiki.wikidot.com/frost-shaman-0-ac",
+    "name": "Frost Shaman (0 AC)",
+    "type": "armors",
+    "description": "Frost Shamans draw their power from energy contained in the permafrost. Frozen magic lays dormant under the ice in the Northlands, waiting for a powerful enough magician to tap it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/YZ9bBjU.png",
+        "https://imgur.com/twuiq75.png"
+    ],
+    "hash": "1163e70b7e5feeb7b4c5536415abc4dc"
+}

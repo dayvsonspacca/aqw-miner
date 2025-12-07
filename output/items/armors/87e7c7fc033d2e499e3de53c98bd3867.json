@@ -1,0 +1,17 @@
+{
+    "urlName": "dawn-archmage",
+    "url": "http://aqwwiki.wikidot.com/dawn-archmage",
+    "name": "Dawn Archmage",
+    "type": "armors",
+    "description": "Control the dawn, control the world!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/T2pxGvv.png",
+        "http://i.imgur.com/yh0MhIa.png"
+    ],
+    "hash": "87e7c7fc033d2e499e3de53c98bd3867"
+}

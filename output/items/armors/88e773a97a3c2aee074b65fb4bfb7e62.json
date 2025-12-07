@@ -1,0 +1,17 @@
+{
+    "urlName": "space-marine-ac",
+    "url": "http://aqwwiki.wikidot.com/space-marine-ac",
+    "name": "Space Marine (AC)",
+    "type": "armors",
+    "description": "Exploring only the farthest reaches of empty space, these marines may think they've seen it all however\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/space-marine-ac/SpaceMarineM.png",
+        "http://aqwwiki.wdfiles.com/local--files/space-marine-ac/SpaceMarineF.png"
+    ],
+    "hash": "88e773a97a3c2aee074b65fb4bfb7e62"
+}

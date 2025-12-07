@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-vampire",
+    "url": "http://aqwwiki.wikidot.com/frost-vampire",
+    "name": "Frost Vampire",
+    "type": "armors",
+    "description": "Stay cool and cozy as you seek out your next victim.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9e75ivt.png",
+        "https://i.imgur.com/5WFATY1.png"
+    ],
+    "hash": "702a6e9764464a26afd404f3e40fa03e"
+}

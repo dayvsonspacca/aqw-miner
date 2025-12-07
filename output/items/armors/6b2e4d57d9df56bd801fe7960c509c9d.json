@@ -1,0 +1,14 @@
+{
+    "urlName": "slime-follower",
+    "url": "http://aqwwiki.wikidot.com/slime-follower",
+    "name": "Slime Follower",
+    "type": "armors",
+    "description": "Pledge your allegiance to the Slime Aliens!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://imgur.com/NBvKjEf.png",
+        "https://imgur.com/cHAIHqx.png"
+    ],
+    "hash": "6b2e4d57d9df56bd801fe7960c509c9d"
+}

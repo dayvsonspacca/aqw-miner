@@ -1,0 +1,14 @@
+{
+    "urlName": "borgarmonger",
+    "url": "http://aqwwiki.wikidot.com/borgarmonger",
+    "name": "BorgarMonger",
+    "type": "armors",
+    "description": "It may not be the most famous burger joint, but it has the most loyal customers.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/2SpCrkk.png",
+        "https://i.imgur.com/xJsz8L2.png"
+    ],
+    "hash": "0f09d9de0fa2937ce96ec6a7f53f2f73"
+}

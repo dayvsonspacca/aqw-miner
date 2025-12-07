@@ -1,0 +1,17 @@
+{
+    "urlName": "lunarmancer",
+    "url": "http://aqwwiki.wikidot.com/lunarmancer",
+    "name": "Lunarmancer",
+    "type": "armors",
+    "description": "As a Lunarmancer your power waxes and wanes with the phases of the Moon. But when the moon is full your potential is unmatched! Just remember to focus!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunarmancer/LunarmancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lunarmancer/LunarmancerF.png"
+    ],
+    "hash": "24ba5f3424b49ec0c528ff55683da3b0"
+}

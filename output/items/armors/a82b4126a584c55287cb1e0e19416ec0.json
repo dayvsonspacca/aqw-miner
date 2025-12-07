@@ -1,0 +1,17 @@
+{
+    "urlName": "digital-doomknight",
+    "url": "http://aqwwiki.wikidot.com/digital-doomknight",
+    "name": "Digital DOOMKnight",
+    "type": "armors",
+    "description": "For those who feel the need to spread digital doom wherever they go!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/PVVNIs9.png",
+        "http://aqwwiki.wdfiles.com/local--files/digital-doomknight/DigitalDOOMKnightFemale.png"
+    ],
+    "hash": "a82b4126a584c55287cb1e0e19416ec0"
+}

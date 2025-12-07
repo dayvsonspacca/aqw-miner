@@ -1,0 +1,19 @@
+{
+    "urlName": "dread-bounty-hunter",
+    "url": "http://aqwwiki.wikidot.com/dread-bounty-hunter",
+    "name": "Dread Bounty Hunter",
+    "type": "armors",
+    "description": "The real wild west is out in Doomwood and Darkovia, where silver's a need instead of a luxury. These gunslingers ride after the dead, with the dead, until they're dead.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/vYu5PTm.png",
+        "https://i.imgur.com/6ubg85I.png",
+        "https://i.imgur.com/wMCMl6M.png",
+        "https://i.imgur.com/vbjxQpP.png"
+    ],
+    "hash": "c040533725767133b7fc1f80a5226ee5"
+}

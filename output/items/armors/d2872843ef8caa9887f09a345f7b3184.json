@@ -1,0 +1,16 @@
+{
+    "urlName": "primaris-paladin",
+    "url": "http://aqwwiki.wikidot.com/primaris-paladin",
+    "name": "Primaris Paladin",
+    "type": "armors",
+    "description": "No matter how vast your enemies, shielded by the symbol of your order, you battle without fear. Your current mission: to guard the guardians fighting to defend Battleon from the Titans.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/j78Zaxi.png",
+        "https://i.imgur.com/oQkvwRF.png"
+    ],
+    "hash": "d2872843ef8caa9887f09a345f7b3184"
+}

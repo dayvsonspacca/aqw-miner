@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowscythe-healer",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-healer",
+    "name": "ShadowScythe Healer",
+    "type": "armors",
+    "description": "These Healers have chosen to follow the ShadowScythe. Standing back from the front lines, they will ensure those fighting in the name of Darkness are able to battle as long as possible. For the ShadowScythe!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/m0EBlEe.png",
+        "https://i.imgur.com/k2fsQPn.png"
+    ],
+    "hash": "0562d53102dbce6a9ded024030f59847"
+}

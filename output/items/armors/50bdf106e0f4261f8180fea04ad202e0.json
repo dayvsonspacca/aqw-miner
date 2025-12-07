@@ -1,0 +1,17 @@
+{
+    "urlName": "frostelf-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/frostelf-warrior-ac",
+    "name": "FrostElf Warrior (AC)",
+    "type": "armors",
+    "description": "FrostElf Warriors have served the High Kings and Queens ruling over the frosty, frigid Northlands for millennia. Their battle gear is spelled to protect them in battle.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/zfq8CMm.png",
+        "https://i.imgur.com/2xYgCz6.png"
+    ],
+    "hash": "50bdf106e0f4261f8180fea04ad202e0"
+}

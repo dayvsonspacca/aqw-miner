@@ -1,0 +1,17 @@
+{
+    "urlName": "doomed-warrior",
+    "url": "http://aqwwiki.wikidot.com/doomed-warrior",
+    "name": "Doomed Warrior",
+    "type": "armors",
+    "description": "This soul-chilling armor has traces of extraterrestrial energy seeping through it, inducing power-hungry desires.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/5Ct8boI.png",
+        "http://i.imgur.com/edtuwBj.png",
+        "http://aqwwiki.wdfiles.com/local--files/doomed-warrior/DWO.png"
+    ],
+    "hash": "129ce0fd2be6d593f0b204f9aca0716f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "bubblegum-scallywag",
+    "url": "http://aqwwiki.wikidot.com/bubblegum-scallywag",
+    "name": "Bubblegum Scallywag",
+    "type": "armors",
+    "description": "Avast me hearties 'nd lovlies! Bubblegum Scallywags be the cutest sea-faring pirates in all the seven seas! Man ye love boats 'nd pillage all that be pink!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bubblegum-scallywag/BubblegumScallywagMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/bubblegum-scallywag/BubblegumScallywagFemale.png"
+    ],
+    "hash": "a4bd1a804801fe416a85a2447329016f"
+}

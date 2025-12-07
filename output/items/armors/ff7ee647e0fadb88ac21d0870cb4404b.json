@@ -1,0 +1,16 @@
+{
+    "urlName": "silver-gunsmith",
+    "url": "http://aqwwiki.wikidot.com/silver-gunsmith",
+    "name": "Silver GunSmith",
+    "type": "armors",
+    "description": "Thanks to enven, You'll be a knight in shining platemail when you equip this awesome silver armor! All you need is a white charger and a steel blade before you're ready to rescue damsels- or dudes- in distress!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/s8JXO06.png",
+        "http://i.imgur.com/MsrNc4o.png"
+    ],
+    "hash": "ff7ee647e0fadb88ac21d0870cb4404b"
+}

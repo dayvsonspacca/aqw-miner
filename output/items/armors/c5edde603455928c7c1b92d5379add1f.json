@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonrune-spellsmith-legend",
+    "url": "http://aqwwiki.wikidot.com/dragonrune-spellsmith-legend",
+    "name": "DragonRune SpellSmith (Legend)",
+    "type": "armors",
+    "description": "It takes deep concentration to harness the elements used to make the weapons for a SpellSmith, do you have what it takes?",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/dXszyND.png",
+        "https://imgur.com/QVBOyuq.png",
+        "https://imgur.com/BBYMCoK.png"
+    ],
+    "hash": "c5edde603455928c7c1b92d5379add1f"
+}

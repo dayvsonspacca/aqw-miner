@@ -1,0 +1,17 @@
+{
+    "urlName": "archmage-s-rage",
+    "url": "http://aqwwiki.wikidot.com/archmage-s-rage",
+    "name": "ArchMage's Rage",
+    "type": "armors",
+    "description": "Robes of the Blue Mage. Unleash the fury of Warlic's rage, just watch your mana. NEEDS ITEM ANIMATION",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/mldGIca.png",
+        "http://i.imgur.com/Eew0LUg.png"
+    ],
+    "hash": "315a6261870bd06cb4f9ec139eb25367"
+}

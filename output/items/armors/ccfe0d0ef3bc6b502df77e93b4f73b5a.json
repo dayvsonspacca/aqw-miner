@@ -1,0 +1,17 @@
+{
+    "urlName": "astral-guardian-ac",
+    "url": "http://aqwwiki.wikidot.com/astral-guardian-ac",
+    "name": "Astral Guardian (AC)",
+    "type": "armors",
+    "description": "You have been chosen to defend section of the multiverse from all threats physical, ethereal, celestial or infernal.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/astral-guardian-ac/AstralGuardianMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/astral-guardian-ac/AstralGuardianFemale.png"
+    ],
+    "hash": "ccfe0d0ef3bc6b502df77e93b4f73b5a"
+}

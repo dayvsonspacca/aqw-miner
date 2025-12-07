@@ -1,0 +1,17 @@
+{
+    "urlName": "protoparagon-x1",
+    "url": "http://aqwwiki.wikidot.com/protoparagon-x1",
+    "name": "ProtoParagon X1",
+    "type": "armors",
+    "description": "A digital paragon of Dage intended for use in the datastream",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/protoparagon-x1/ProtoParagonX1M.png",
+        "http://aqwwiki.wdfiles.com/local--files/protoparagon-x1/ProtoParagonX1F.png"
+    ],
+    "hash": "bfacb759788e0912c53fe92f72d7d875"
+}

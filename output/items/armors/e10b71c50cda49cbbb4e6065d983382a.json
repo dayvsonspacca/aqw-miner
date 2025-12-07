@@ -1,0 +1,17 @@
+{
+    "urlName": "drow-assassin-armor",
+    "url": "http://aqwwiki.wikidot.com/drow-assassin-armor",
+    "name": "Drow Assassin (Armor)",
+    "type": "armors",
+    "description": "Naturally akin to darkness, Drow make one of the most deadly assassins.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/5giwUoN.png",
+        "http://i.imgur.com/5DcDDj2.png",
+        "http://aqwwiki.wdfiles.com/local--files/drow-assassin-armor/DAO.png"
+    ],
+    "hash": "e10b71c50cda49cbbb4e6065d983382a"
+}

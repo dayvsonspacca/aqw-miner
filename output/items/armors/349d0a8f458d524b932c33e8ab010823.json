@@ -1,0 +1,17 @@
+{
+    "urlName": "frostborne-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/frostborne-armor-ac",
+    "name": "Frostborne Armor (AC)",
+    "type": "armors",
+    "description": "Normadic barbarians in the Northlands are recognized from their pine-green armor that they wear during their annual migration to the North Pole.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1SMQaJI.png",
+        "https://i.imgur.com/zO4VMhl.png"
+    ],
+    "hash": "349d0a8f458d524b932c33e8ab010823"
+}

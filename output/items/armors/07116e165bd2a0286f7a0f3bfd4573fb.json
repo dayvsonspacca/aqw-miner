@@ -1,0 +1,17 @@
+{
+    "urlName": "fourth-count",
+    "url": "http://aqwwiki.wikidot.com/fourth-count",
+    "name": "Fourth Count",
+    "type": "armors",
+    "description": "May the fourth be with you! Those who serve you look to you for justice. Will you serve it?",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/p2IVNZn.png",
+        "https://i.imgur.com/nl2GNPw.png"
+    ],
+    "hash": "07116e165bd2a0286f7a0f3bfd4573fb"
+}

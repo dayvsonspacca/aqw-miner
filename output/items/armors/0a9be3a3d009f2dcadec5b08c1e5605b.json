@@ -1,0 +1,16 @@
+{
+    "urlName": "grand-inquisitor-armor",
+    "url": "http://aqwwiki.wikidot.com/grand-inquisitor-armor",
+    "name": "Grand Inquisitor Armor",
+    "type": "armors",
+    "description": "The Grand Inquisitor kneels defeated before you. His armor is now yours!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/W8WMIX3.png",
+        "http://i.imgur.com/k9j9xUY.png"
+    ],
+    "hash": "0a9be3a3d009f2dcadec5b08c1e5605b"
+}

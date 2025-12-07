@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-wolf-marauder",
+    "url": "http://aqwwiki.wikidot.com/dark-wolf-marauder",
+    "name": "Dark Wolf Marauder",
+    "type": "armors",
+    "description": "The Dark Wolf Bandits were once led by the exiled Prince Drakath. They would have been a menace on the open seas, if more of them knew how to swim. Drakath stopped tossing them into the waves when their numbers dwindled too low.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/jw4b8pq.png",
+        "https://i.imgur.com/m0GqcfE.png"
+    ],
+    "hash": "61a9a63e8a95b89c85bbbbc3af838101"
+}

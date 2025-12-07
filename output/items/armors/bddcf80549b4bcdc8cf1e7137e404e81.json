@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowfire-emperor-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowfire-emperor-armor",
+    "name": "ShadowFire Emperor (Armor)",
+    "type": "armors",
+    "description": "The armor that the emperors of the Shadowfire dynasty would wear into battle. Enemies of the empire were known to turn and run at the mere sight of the sun glinting from this armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowfire-emperor-armor/ShadowfireEmperorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowfire-emperor-armor/ShadowfireEmperorF.png"
+    ],
+    "hash": "bddcf80549b4bcdc8cf1e7137e404e81"
+}

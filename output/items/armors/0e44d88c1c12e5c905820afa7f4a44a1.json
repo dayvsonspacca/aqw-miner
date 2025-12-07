@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-barbarian-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/frostval-barbarian-armor-ac",
+    "name": "Frostval Barbarian Armor (AC)",
+    "type": "armors",
+    "description": "During Frostval these nomadic wanderers from the north travel from town to town giving gifts and protecting those in need. You don't want to be on their naughty list though, else be on the receiving end of their most infamous gift - their pure rage.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GkVr9PW.png",
+        "https://i.imgur.com/AvlXdfF.png"
+    ],
+    "hash": "0e44d88c1c12e5c905820afa7f4a44a1"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "broncoliches-logo-gear-legend",
+    "url": "http://aqwwiki.wikidot.com/broncoliches-logo-gear-legend",
+    "name": "Broncoliches Logo Gear (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football Players!",
+    "rarity": "Seasonal item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/broncoliches-logo-gear-legend/BroncolichesLogoGearM.png",
+        "http://aqwwiki.wdfiles.com/local--files/broncoliches-logo-gear-legend/BroncolichesLogoGearF.png"
+    ],
+    "hash": "2956123cbd13fd1b2bec7597d25d4d07"
+}

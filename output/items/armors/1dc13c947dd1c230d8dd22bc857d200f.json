@@ -1,0 +1,16 @@
+{
+    "urlName": "darkovian-hunter",
+    "url": "http://aqwwiki.wikidot.com/darkovian-hunter",
+    "name": "Darkovian Hunter",
+    "type": "armors",
+    "description": "A sellsword that hunts the creatures of the night, so long as the gold keeps flowing. Some have made a business out of isolating vulnerable villages, and charging exorbitant prices for protection.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/EowLZ8R.png",
+        "https://i.imgur.com/Icfcdct.png"
+    ],
+    "hash": "1dc13c947dd1c230d8dd22bc857d200f"
+}

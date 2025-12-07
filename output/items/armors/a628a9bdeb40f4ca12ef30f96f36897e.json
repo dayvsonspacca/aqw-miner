@@ -1,0 +1,18 @@
+{
+    "urlName": "royal-winter-paladin",
+    "url": "http://aqwwiki.wikidot.com/royal-winter-paladin",
+    "name": "Royal Winter Paladin",
+    "type": "armors",
+    "description": "These paladins traverse snowy wastelands to rescue those threatened by the unbearably long nights. Starlight and Avalanche are their weapons, and their people are their hope.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/PHZ8f77.png",
+        "https://i.imgur.com/te2GCsc.png"
+    ],
+    "hash": "a628a9bdeb40f4ca12ef30f96f36897e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "skeleonesie",
+    "url": "http://aqwwiki.wikidot.com/skeleonesie",
+    "name": "SkeleOnesie",
+    "type": "armors",
+    "description": "Mogloween is the best time to break out all of the onesies that have been in your closet. Dress up like a skeleton!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/R7SoZtA.png",
+        "https://imgur.com/TFD2EQD.png"
+    ],
+    "hash": "205995343c410cd41bcd571e025cff37"
+}

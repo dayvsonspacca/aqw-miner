@@ -1,0 +1,17 @@
+{
+    "urlName": "courage-armor",
+    "url": "http://aqwwiki.wikidot.com/courage-armor",
+    "name": "Courage Armor",
+    "type": "armors",
+    "description": "Look inside yourself. Embrace the strength and courage that lie within. You ARE a hero, and this is the armor which will see you to victory!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/SzdTdTz.png?1",
+        "http://aqwwiki.wdfiles.com/local--files/courage-armor/CourageArmorFemale.png"
+    ],
+    "hash": "612d2df85ef360041a241c4a03700408"
+}

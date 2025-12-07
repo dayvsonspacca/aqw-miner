@@ -1,0 +1,17 @@
+{
+    "urlName": "evolved-grenadier",
+    "url": "http://aqwwiki.wikidot.com/evolved-grenadier",
+    "name": "Evolved Grenadier",
+    "type": "armors",
+    "description": "This time you're the one yelling \"Bombs Away!\"",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/aDfw070.png",
+        "https://i.imgur.com/t8Q7MEo.png"
+    ],
+    "hash": "bd6298119f625af8b87276834dc3e646"
+}

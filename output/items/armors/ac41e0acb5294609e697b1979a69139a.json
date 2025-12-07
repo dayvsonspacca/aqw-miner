@@ -1,0 +1,17 @@
+{
+    "urlName": "gothic-vampire",
+    "url": "http://aqwwiki.wikidot.com/gothic-vampire",
+    "name": "Gothic Vampire",
+    "type": "armors",
+    "description": "To truly experience the life of a Vampire, one must dress the part.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/dCPd8tR.png",
+        "https://i.imgur.com/harqBX2.png"
+    ],
+    "hash": "ac41e0acb5294609e697b1979a69139a"
+}

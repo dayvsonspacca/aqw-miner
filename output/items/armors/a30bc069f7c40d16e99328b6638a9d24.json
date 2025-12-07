@@ -1,0 +1,19 @@
+{
+    "urlName": "frozen-royalty",
+    "url": "http://aqwwiki.wikidot.com/frozen-royalty",
+    "name": "Frozen Royalty",
+    "type": "armors",
+    "description": "Monarchs that love the winter and crystals in frost have hearts as frozen as their power. Devoid of happiness, timidity, and anger, they carry out their schemes without ever feeling guilty of their doing.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frozen-royalty/FrozenRoyaltyM.png",
+        "http://aqwwiki.wdfiles.com/local--files/frozen-royalty/FrozenRoyaltyMAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/frozen-royalty/FrozenRoyaltyF.png",
+        "http://aqwwiki.wdfiles.com/local--files/frozen-royalty/FrozenRoyaltyFAnim.png"
+    ],
+    "hash": "a30bc069f7c40d16e99328b6638a9d24"
+}

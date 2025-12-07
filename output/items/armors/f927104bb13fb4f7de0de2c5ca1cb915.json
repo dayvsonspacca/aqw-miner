@@ -1,0 +1,17 @@
+{
+    "urlName": "cyberg-rider-ac",
+    "url": "http://aqwwiki.wikidot.com/cyberg-rider-ac",
+    "name": "Cyberg Rider (AC)",
+    "type": "armors",
+    "description": "Have you enjoyed all the power that's been given to you?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cyberg-rider-ac/CybergRiderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyberg-rider-ac/CybergRiderF.png"
+    ],
+    "hash": "f927104bb13fb4f7de0de2c5ca1cb915"
+}

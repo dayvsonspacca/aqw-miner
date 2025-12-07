@@ -1,0 +1,17 @@
+{
+    "urlName": "frostball-garb-ac",
+    "url": "http://aqwwiki.wikidot.com/frostball-garb-ac",
+    "name": "Frostball Garb (AC)",
+    "type": "armors",
+    "description": "You're practically shimmering on the red carpet. One dance would make the audience freeze and stare.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mYj4tdR.png",
+        "https://i.imgur.com/Gep3qtf.png"
+    ],
+    "hash": "7ea1f0e24809d87f421b2cb8e232987c"
+}

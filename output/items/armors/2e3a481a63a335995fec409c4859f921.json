@@ -1,0 +1,19 @@
+{
+    "urlName": "moonborn-guardian",
+    "url": "http://aqwwiki.wikidot.com/moonborn-guardian",
+    "name": "Moonborn Guardian",
+    "type": "armors",
+    "description": "The purity of the moon, gleaming from the light of the sun gives life to the Moonborn Guardians. Legends say that they descend to Lore during new moons, and perish when a cycle ends, leaving behind their armor and armaments.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/3MpXKJz.png",
+        "https://i.imgur.com/g40KbxG.png",
+        "https://i.imgur.com/Cf3LWyl.png",
+        "https://i.imgur.com/Zvt8ASO.png"
+    ],
+    "hash": "2e3a481a63a335995fec409c4859f921"
+}

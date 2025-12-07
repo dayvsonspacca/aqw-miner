@@ -1,0 +1,17 @@
+{
+    "urlName": "eternal-champion-ac",
+    "url": "http://aqwwiki.wikidot.com/eternal-champion-ac",
+    "name": "Eternal Champion (AC)",
+    "type": "armors",
+    "description": "Guided by the Light, these warriors live to serve and uphold Good.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/l4QUCIw.png",
+        "https://i.imgur.com/N7RRyK7.png"
+    ],
+    "hash": "877de78068443e858c603579fb5ced0e"
+}

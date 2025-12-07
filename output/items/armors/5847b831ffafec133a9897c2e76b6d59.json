@@ -1,0 +1,17 @@
+{
+    "urlName": "cryomancer-arcana-ac",
+    "url": "http://aqwwiki.wikidot.com/cryomancer-arcana-ac",
+    "name": "Cryomancer Arcana (AC)",
+    "type": "armors",
+    "description": "The cryomancer robes of the mage, Arcana. This garb was created to enhance her ice magic as she went in search of the origin of all cryomancy.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/Co1emEQ.png",
+        "https://imgur.com/UlfhnvS.png"
+    ],
+    "hash": "5847b831ffafec133a9897c2e76b6d59"
+}

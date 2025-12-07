@@ -1,0 +1,17 @@
+{
+    "urlName": "commodore-core-armor",
+    "url": "http://aqwwiki.wikidot.com/commodore-core-armor",
+    "name": "Commodore Core (Armor)",
+    "type": "armors",
+    "description": "This heinous villain will stop at nothing to ruin the beauty of Lore with lies and propaganda. Don't listen to him!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/F869YXx.png",
+        "https://i.imgur.com/GJJDP3c.png"
+    ],
+    "hash": "4548631f798a6349768c7b180021ec2b"
+}

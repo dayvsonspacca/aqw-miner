@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-tic-dragonslayer-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-tic-dragonslayer-ac",
+    "name": "Dark-tic DragonSlayer (AC)",
+    "type": "armors",
+    "description": "Living in the far reaches of the Northlands, these DragonSlayers use the colors of the Aurora to brighten up their stark armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kJmcc4f.png",
+        "https://i.imgur.com/PfIkFNT.png"
+    ],
+    "hash": "22fd60a924b6dc5a811c66309e1ea41f"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dwarfhold-explorer",
+    "url": "http://aqwwiki.wikidot.com/dwarfhold-explorer",
+    "name": "Dwarfhold Explorer",
+    "type": "armors",
+    "description": "The caverns that snake through Dwarfhold's mountains hide gold, gems, secret temples, and dangerous dungeons. All these new discoveries are yours to conquer!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/hl4xMT9.png",
+        "https://i.imgur.com/61FrRph.png"
+    ],
+    "hash": "bcb85eb1a881db3685aa9f51bdd22bf4"
+}

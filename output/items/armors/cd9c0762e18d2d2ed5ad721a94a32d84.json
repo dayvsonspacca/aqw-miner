@@ -1,0 +1,19 @@
+{
+    "urlName": "sullied-blademaster",
+    "url": "http://aqwwiki.wikidot.com/sullied-blademaster",
+    "name": "Sullied BladeMaster",
+    "type": "armors",
+    "description": "An undead samurai that has retained its swordsmanship, allowing Axeros to put them to good use.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/9H2lUwx.png",
+        "http://i.imgur.com/pIZsVRF.png",
+        "http://i.imgur.com/vszct49.png",
+        "http://i.imgur.com/hQM1ZY0.png",
+        "https://i.imgur.com/lCWn6Vf.png"
+    ],
+    "hash": "cd9c0762e18d2d2ed5ad721a94a32d84"
+}

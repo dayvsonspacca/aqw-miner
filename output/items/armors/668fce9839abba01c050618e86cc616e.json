@@ -1,0 +1,16 @@
+{
+    "urlName": "frostbringer-mage",
+    "url": "http://aqwwiki.wikidot.com/frostbringer-mage",
+    "name": "Frostbringer Mage",
+    "type": "armors",
+    "description": "Children of the ice never freeze nor crack. Their power is an eternal crystal cutting ever sharper.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/4oZkpk3.png",
+        "https://i.imgur.com/n3t7fcS.png"
+    ],
+    "hash": "668fce9839abba01c050618e86cc616e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "armor-of-the-skulls",
+    "url": "http://aqwwiki.wikidot.com/armor-of-the-skulls",
+    "name": "Armor of the Skulls",
+    "type": "armors",
+    "description": "This hellashish armor is infused with the skulls of your vanquished enemies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/8h4TFxO.png",
+        "http://i.imgur.com/JV8pSZO.png"
+    ],
+    "hash": "ea8688e5b8251e2ca1ce1ec772f4df16"
+}

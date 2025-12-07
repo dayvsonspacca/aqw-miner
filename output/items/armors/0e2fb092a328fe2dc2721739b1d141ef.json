@@ -1,0 +1,17 @@
+{
+    "urlName": "frigid-krampus-ac",
+    "url": "http://aqwwiki.wikidot.com/frigid-krampus-ac",
+    "name": "Frigid Krampus (AC)",
+    "type": "armors",
+    "description": "Druids that have given themselves over to bitterness and spite, becoming cold hearted monsters that haunt the nightmares the young and old alike.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MZiUtOl.png",
+        "https://i.imgur.com/FzJxHFQ.png"
+    ],
+    "hash": "0e2fb092a328fe2dc2721739b1d141ef"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "sparring-suit",
+    "url": "http://aqwwiki.wikidot.com/sparring-suit",
+    "name": "Sparring Suit",
+    "type": "armors",
+    "description": "It's time to spar!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/ZiEozsy.png",
+        "http://i.imgur.com/j4XdCC4.png",
+        "https://imgur.com/dAJ5q8R.png",
+        "http://i.imgur.com/3fcwzPq.png"
+    ],
+    "hash": "b2bc8e58dcc29a328727244e19fb437f"
+}

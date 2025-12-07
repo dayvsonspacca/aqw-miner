@@ -1,0 +1,17 @@
+{
+    "urlName": "frostborn-warlord-armor",
+    "url": "http://aqwwiki.wikidot.com/frostborn-warlord-armor",
+    "name": "Frostborn Warlord (Armor)",
+    "type": "armors",
+    "description": "The kings and warlords of the Frostborn clan challenge each warrior to combat once a year. They celebrate each other's skill and the glory of battle itself.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/b8P8Q9c.png",
+        "https://i.imgur.com/RGeJoMa.png"
+    ],
+    "hash": "77d8d63e720c355451409849e21f0ddd"
+}

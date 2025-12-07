@@ -1,0 +1,16 @@
+{
+    "urlName": "super-rich-buttermancer",
+    "url": "http://aqwwiki.wikidot.com/super-rich-buttermancer",
+    "name": "Super Rich Buttermancer",
+    "type": "armors",
+    "description": "There's no margarine for error with Buttermancer's, they melt their enemies. This item has a chance to do the One Million Gold Shower animation each time you auto-attack!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/super-rich-buttermancer/SuperRichButtermancer.png"
+    ],
+    "hash": "6e6a1c23738242c9431c951b2ad7122a"
+}

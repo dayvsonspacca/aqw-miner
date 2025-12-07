@@ -1,0 +1,17 @@
+{
+    "urlName": "archfiend-s-commandant-ac",
+    "url": "http://aqwwiki.wikidot.com/archfiend-s-commandant-ac",
+    "name": "ArchFiend's Commandant (AC)",
+    "type": "armors",
+    "description": "The ArchFiend's Commandants is entrusted to review, vet, and test those whom Nulgath is considering for further advancement. It is a position very rarely granted.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/iggZnLL.png",
+        "https://i.imgur.com/ppfFtOz.png"
+    ],
+    "hash": "b50cab54a8fcfca5d12db7f56763bb17"
+}

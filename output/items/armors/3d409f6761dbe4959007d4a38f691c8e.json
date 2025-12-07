@@ -1,0 +1,17 @@
+{
+    "urlName": "darkfrost-dragon-commander",
+    "url": "http://aqwwiki.wikidot.com/darkfrost-dragon-commander",
+    "name": "DarkFrost Dragon Commander",
+    "type": "armors",
+    "description": "Deep in the heart of the frozen Northlands, the DarkFrost Dragons stalk their prey. Only those ruthless enough, and cold-hearted enough, to tame these beasts will make it home alive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/WL4MLfF.png",
+        "https://imgur.com/tMd6Nuz.png"
+    ],
+    "hash": "3d409f6761dbe4959007d4a38f691c8e"
+}

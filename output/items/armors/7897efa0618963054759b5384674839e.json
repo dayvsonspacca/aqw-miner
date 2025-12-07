@@ -1,0 +1,17 @@
+{
+    "urlName": "sheng-chi-guardian-armor",
+    "url": "http://aqwwiki.wikidot.com/sheng-chi-guardian-armor",
+    "name": "Sheng Chi Guardian (Armor)",
+    "type": "armors",
+    "description": "A healthy flow of chi is as vital to the body as food and water.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sheng-chi-guardian-armor/ShengChiGuardianM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sheng-chi-guardian-armor/ShengChiGuardianF.png"
+    ],
+    "hash": "7897efa0618963054759b5384674839e"
+}

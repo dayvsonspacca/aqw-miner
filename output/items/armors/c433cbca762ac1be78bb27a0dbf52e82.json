@@ -1,0 +1,17 @@
+{
+    "urlName": "astral-star-captain",
+    "url": "http://aqwwiki.wikidot.com/astral-star-captain",
+    "name": "Astral Star Captain",
+    "type": "armors",
+    "description": "I will travel across the space, searching far and wide. To protect those is my real cause to save my galaxy!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/astral-star-captain/AstralStarCaptainMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/astral-star-captain/AstralStarCaptainFemale.png"
+    ],
+    "hash": "c433cbca762ac1be78bb27a0dbf52e82"
+}

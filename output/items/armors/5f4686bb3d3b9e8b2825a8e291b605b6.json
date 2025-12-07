@@ -1,0 +1,18 @@
+{
+    "urlName": "silver-cyborg-monk",
+    "url": "http://aqwwiki.wikidot.com/silver-cyborg-monk",
+    "name": "Silver Cyborg Monk",
+    "type": "armors",
+    "description": "Individuals enhanced by cybernetics that have mastered multiple martial arts. This form does not need rest or sustenance. It exists to achieve the highest of physical peaks.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/utkQKwz.png",
+        "https://i.imgur.com/SirXyhn.png"
+    ],
+    "hash": "5f4686bb3d3b9e8b2825a8e291b605b6"
+}

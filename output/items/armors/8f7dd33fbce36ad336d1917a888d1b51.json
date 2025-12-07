@@ -1,0 +1,16 @@
+{
+    "urlName": "swamp-beast",
+    "url": "http://aqwwiki.wikidot.com/swamp-beast",
+    "name": "Swamp Beast",
+    "type": "armors",
+    "description": "You have become one with the swamp! Its murky waters now flow through your veins.",
+    "rarity": "Secret Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/ImUwcLJ.png",
+        "http://i.imgur.com/ddprfzC.png"
+    ],
+    "hash": "8f7dd33fbce36ad336d1917a888d1b51"
+}

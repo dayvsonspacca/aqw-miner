@@ -1,0 +1,16 @@
+{
+    "urlName": "lorekeeper-of-the-moon",
+    "url": "http://aqwwiki.wikidot.com/lorekeeper-of-the-moon",
+    "name": "Lorekeeper of the Moon",
+    "type": "armors",
+    "description": "Dwarfhold's Lunar Lorekeepers specialize in studying the history of Frostmane, the Steed of Night.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lorekeeper-of-the-moon/LorekeeperoftheMoonM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lorekeeper-of-the-moon/LorekeeperoftheMoonF.png"
+    ],
+    "hash": "cb96267ebc02f4665379cd1a1c178b0b"
+}

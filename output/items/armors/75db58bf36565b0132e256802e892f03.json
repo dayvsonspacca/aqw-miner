@@ -1,0 +1,15 @@
+{
+    "urlName": "dragonskull-warrior",
+    "url": "http://aqwwiki.wikidot.com/dragonskull-warrior",
+    "name": "DragonSkull Warrior",
+    "type": "armors",
+    "description": "A clan of barbaric warriors living in Vasalkar Lair long ago had become fond of the intact dragon skulls found around the caves, and therefore, had used them as gauntlets to treat their blades like dragon fire.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/XY01M3F.png",
+        "http://i.imgur.com/PYlHYJF.png",
+        "http://i.imgur.com/IZ1Nquh.png"
+    ],
+    "hash": "75db58bf36565b0132e256802e892f03"
+}

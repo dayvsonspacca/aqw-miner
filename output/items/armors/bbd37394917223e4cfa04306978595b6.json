@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowfang-sorcerer",
+    "url": "http://aqwwiki.wikidot.com/shadowfang-sorcerer",
+    "name": "ShadowFang Sorcerer",
+    "type": "armors",
+    "description": "As a Shadowfang Sorcerer, you definitely have more bite than bark - and the power to bank it up, but the semi-organic crystals feed on parts of your mind, therefore, costing you your sense of self until it is just empty sentience.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowfang-sorcerer/SFSm.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowfang-sorcerer/SFSf.png"
+    ],
+    "hash": "bbd37394917223e4cfa04306978595b6"
+}

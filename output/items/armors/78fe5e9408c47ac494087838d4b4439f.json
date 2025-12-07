@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowscythe-rogue",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-rogue",
+    "name": "ShadowScythe Rogue",
+    "type": "armors",
+    "description": "These Rogues have chosen to follow the ShadowScythe. Sneaking around the shadows, they will do anything to get the job done. For the ShadowScythe!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://imgur.com/uRULC8J.png",
+        "https://imgur.com/PaAnY7S.png"
+    ],
+    "hash": "78fe5e9408c47ac494087838d4b4439f"
+}

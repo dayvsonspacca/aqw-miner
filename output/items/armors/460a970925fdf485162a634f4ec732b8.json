@@ -1,0 +1,17 @@
+{
+    "urlName": "prisma-pop-legend",
+    "url": "http://aqwwiki.wikidot.com/prisma-pop-legend",
+    "name": "Prisma Pop (Legend)",
+    "type": "armors",
+    "description": "The best part of summer is being able to blow shimmering bubbles outside!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/O2usY0A.png",
+        "https://i.imgur.com/PiBJ72u.png"
+    ],
+    "hash": "460a970925fdf485162a634f4ec732b8"
+}

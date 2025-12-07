@@ -1,0 +1,18 @@
+{
+    "urlName": "charged-ninja-armor",
+    "url": "http://aqwwiki.wikidot.com/charged-ninja-armor",
+    "name": "Charged Ninja (Armor)",
+    "type": "armors",
+    "description": "The ruins give the ninja a powerful strike as they land their blows and cloak them as they vanish from sight.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/ov0tXuT.png",
+        "https://i.imgur.com/6UC3pWe.png"
+    ],
+    "hash": "e3fe8cff7a0aae3cf65317104f947ab5"
+}

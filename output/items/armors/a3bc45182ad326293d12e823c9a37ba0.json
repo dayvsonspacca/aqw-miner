@@ -1,0 +1,17 @@
+{
+    "urlName": "cruise-captain",
+    "url": "http://aqwwiki.wikidot.com/cruise-captain",
+    "name": "Cruise Captain",
+    "type": "armors",
+    "description": "I'm on a boat! I'm on boat! Wait..wait\u2026 I'M A CAPTAIN OF A BOAT!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cruise-captain/CruiseCaptainMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/cruise-captain/CruiseCaptainFemale.png"
+    ],
+    "hash": "a3bc45182ad326293d12e823c9a37ba0"
+}

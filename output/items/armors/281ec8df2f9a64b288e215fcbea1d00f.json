@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-ice-blessing-outfit",
+    "url": "http://aqwwiki.wikidot.com/frostval-ice-blessing-outfit",
+    "name": "Frostval Ice Blessing Outfit",
+    "type": "armors",
+    "description": "That gift box might be possessed, but it still holds a lot of awesome loot! Happy Frostval!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ScUdAlo.png",
+        "https://i.imgur.com/Xha5c42.png"
+    ],
+    "hash": "281ec8df2f9a64b288e215fcbea1d00f"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "crypt-samurai",
+    "url": "http://aqwwiki.wikidot.com/crypt-samurai",
+    "name": "Crypt Samurai",
+    "type": "armors",
+    "description": "A samurai should always be prepared for death - whether his own or someone else's.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/IzNqMAG.png"
+    ],
+    "hash": "df3a72c5b87618c0c3dcfd91236fbb7f"
+}

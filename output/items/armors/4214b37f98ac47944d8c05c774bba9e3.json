@@ -1,0 +1,16 @@
+{
+    "urlName": "spicelord-mem",
+    "url": "http://aqwwiki.wikidot.com/spicelord-mem",
+    "name": "Spicelord (Mem)",
+    "type": "armors",
+    "description": "This is the perfect armor to add a little spice to your life. Just remember that too much salt is bad for you.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/j1yw9ZK.png",
+        "http://i.imgur.com/VbXBj8d.png"
+    ],
+    "hash": "4214b37f98ac47944d8c05c774bba9e3"
+}

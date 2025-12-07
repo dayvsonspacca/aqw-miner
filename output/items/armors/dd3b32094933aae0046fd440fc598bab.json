@@ -1,0 +1,16 @@
+{
+    "urlName": "astravian-oracle",
+    "url": "http://aqwwiki.wikidot.com/astravian-oracle",
+    "name": "Astravian Oracle",
+    "type": "armors",
+    "description": "May the stars guide you ever onwards as you battle towards your destiny.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/nFOi0E1.png",
+        "https://i.imgur.com/LojAyuy.png"
+    ],
+    "hash": "dd3b32094933aae0046fd440fc598bab"
+}

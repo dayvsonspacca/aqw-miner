@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowmummy",
+    "url": "http://aqwwiki.wikidot.com/shadowmummy",
+    "name": "ShadowMummy",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/4PNUzg0.png",
+        "https://imgur.com/nZHuBa9.png"
+    ],
+    "hash": "daab38045f231271a0eb69ad8ad12b47"
+}

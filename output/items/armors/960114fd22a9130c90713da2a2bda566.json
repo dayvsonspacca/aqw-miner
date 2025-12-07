@@ -1,0 +1,21 @@
+{
+    "urlName": "shadowy-dark-gunner",
+    "url": "http://aqwwiki.wikidot.com/shadowy-dark-gunner",
+    "name": "Shadowy Dark Gunner",
+    "type": "armors",
+    "description": "Gun down your opponent in style with the Shadowed Dark Gunner! (All other heroes in the room can see the transformation!)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowy-dark-gunner/ShadowyDarkGunnerMNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowy-dark-gunner/ShadowyDarkGunnerMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowy-dark-gunner/ShadowyDarkGunnerMClicked.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowy-dark-gunner/ShadowyDarkGunnerFNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowy-dark-gunner/ShadowyDarkGunnerFOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowy-dark-gunner/ShadowyDarkGunnerFClicked.png"
+    ],
+    "hash": "960114fd22a9130c90713da2a2bda566"
+}

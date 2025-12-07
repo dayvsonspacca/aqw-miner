@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-realm-guardian",
+    "url": "http://aqwwiki.wikidot.com/doom-realm-guardian",
+    "name": "Doom Realm Guardian",
+    "type": "armors",
+    "description": "You have defended the area outside Swordhaven valiantly! King Alteon the Good thanks you, and wishes to reward you with this armor.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/tIloAYh.png",
+        "https://i.imgur.com/OFD3Cyd.png"
+    ],
+    "hash": "fd1efb9780e972c8541b0b748cf2fd5d"
+}

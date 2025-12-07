@@ -1,0 +1,17 @@
+{
+    "urlName": "spirit-of-conquest-ac",
+    "url": "http://aqwwiki.wikidot.com/spirit-of-conquest-ac",
+    "name": "Spirit of Conquest (AC)",
+    "type": "armors",
+    "description": "The spirit of the Horseman of Conquest has possessed your body and lent you his strength and power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/P7D003q.png",
+        "http://i.imgur.com/sXn5Gwm.png"
+    ],
+    "hash": "bc9a569d1405fb2b41c954ea8db61030"
+}

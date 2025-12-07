@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowflame-healer",
+    "url": "http://aqwwiki.wikidot.com/shadowflame-healer",
+    "name": "ShadowFlame Healer",
+    "type": "armors",
+    "description": "Malgor's darkness has spread and totally corrupted this once-proud and independent healer.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/zaV6Ywq.png",
+        "https://i.imgur.com/VtVoD0H.png"
+    ],
+    "hash": "6d3723d8217b503909bbffaeba192394"
+}

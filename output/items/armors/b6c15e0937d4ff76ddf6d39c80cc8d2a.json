@@ -1,0 +1,16 @@
+{
+    "urlName": "mountain-breaker",
+    "url": "http://aqwwiki.wikidot.com/mountain-breaker",
+    "name": "Mountain Breaker",
+    "type": "armors",
+    "description": "In case anyone needs a mountain reduced to a pile of rocks. A lot of rocks.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/NxhUk6Y.png",
+        "http://i.imgur.com/LvotoNX.png"
+    ],
+    "hash": "b6c15e0937d4ff76ddf6d39c80cc8d2a"
+}

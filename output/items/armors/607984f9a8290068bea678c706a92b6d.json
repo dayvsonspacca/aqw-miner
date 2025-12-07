@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-night-prowler",
+    "url": "http://aqwwiki.wikidot.com/cyber-night-prowler",
+    "name": "Cyber Night Prowler",
+    "type": "armors",
+    "description": "This advanced powersuit enhances the operator's senses and physical abilities. Rather than sell the tech, the manufacturer creates personalized gear for their personnel. Body guarding, stealing, assassinations, they can do it all.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/At58ixr.png",
+        "https://i.imgur.com/597loFx.png"
+    ],
+    "hash": "607984f9a8290068bea678c706a92b6d"
+}

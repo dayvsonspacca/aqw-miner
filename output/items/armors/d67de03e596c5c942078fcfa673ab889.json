@@ -1,0 +1,14 @@
+{
+    "urlName": "chicken-cow-knight",
+    "url": "http://aqwwiki.wikidot.com/chicken-cow-knight",
+    "name": "Chicken Cow Knight",
+    "type": "armors",
+    "description": "These brave bovine knights aren't chicken and never run away from a fight!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/QQrtLSH.png",
+        "https://i.imgur.com/4Ar1lng.png"
+    ],
+    "hash": "d67de03e596c5c942078fcfa673ab889"
+}

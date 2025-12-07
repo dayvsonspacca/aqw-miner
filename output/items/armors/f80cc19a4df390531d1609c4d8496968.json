@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-knight",
+    "url": "http://aqwwiki.wikidot.com/frost-knight",
+    "name": "Frost Knight",
+    "type": "armors",
+    "description": "The only kind of rogueweaver leather that is made of extremely solid ice is made in Guwio Village so when you are near the hottest volcano, it will never melt.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-knight/FKMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/frost-knight/FKFemale.png"
+    ],
+    "hash": "f80cc19a4df390531d1609c4d8496968"
+}

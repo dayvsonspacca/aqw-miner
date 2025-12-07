@@ -1,0 +1,16 @@
+{
+    "urlName": "lycan-shadowstalker",
+    "url": "http://aqwwiki.wikidot.com/lycan-shadowstalker",
+    "name": "Lycan Shadowstalker",
+    "type": "armors",
+    "description": "So.. Who let the dogs out? Oh. You ARE the dog?\u2026 I sure hope your bark is worse than your bite.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lycan-shadowstalker/LycanShadowstalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lycan-shadowstalker/LycanShadowstalkerF.png"
+    ],
+    "hash": "9686caa918f9887e864e24d24f82d6fd"
+}

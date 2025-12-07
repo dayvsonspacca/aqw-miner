@@ -1,0 +1,16 @@
+{
+    "urlName": "drow-eviscerator",
+    "url": "http://aqwwiki.wikidot.com/drow-eviscerator",
+    "name": "Drow Eviscerator",
+    "type": "armors",
+    "description": "This armor is covered with blades. It's trimming has been sharpened into keen edges, turning the wearers body into a weapon.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/drow-eviscerator/DrowEvisceratorMaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/drow-eviscerator/DrowEvisceratorMaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/drow-eviscerator/DrowEvisceratorFemaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/drow-eviscerator/DrowEvisceratorFemaleOld.png"
+    ],
+    "hash": "d79845cccf6026f81c23f209100b6ac3"
+}

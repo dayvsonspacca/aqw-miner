@@ -1,0 +1,17 @@
+{
+    "urlName": "blue-dragon-khan-rider",
+    "url": "http://aqwwiki.wikidot.com/blue-dragon-khan-rider",
+    "name": "Blue Dragon Khan Rider",
+    "type": "armors",
+    "description": "Although not everyone realizes this, the Khan is the dragon, not the little guy ridding on his back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blue-dragon-khan-rider/BlueDragonKhanRiderMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/blue-dragon-khan-rider/BlueDragonKhanRiderFemale.png"
+    ],
+    "hash": "3b340c923f2de8eb3b2c1ec910dd0000"
+}

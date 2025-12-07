@@ -1,0 +1,17 @@
+{
+    "urlName": "bump-in-the-night",
+    "url": "http://aqwwiki.wikidot.com/bump-in-the-night",
+    "name": "Bump In The Night",
+    "type": "armors",
+    "description": "You are the reason that grown men still check their closest and under their beds!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bump-in-the-night/BumpInTheNightMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/bump-in-the-night/BumpInTheNightFemale.png"
+    ],
+    "hash": "c9c092f3c8c874e57cc2c26c52bf2c0d"
+}

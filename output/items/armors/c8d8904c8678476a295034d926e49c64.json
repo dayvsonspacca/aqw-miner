@@ -1,0 +1,17 @@
+{
+    "urlName": "broodfiend-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/broodfiend-of-nulgath",
+    "name": "Broodfiend of Nulgath",
+    "type": "armors",
+    "description": "Your nightmares have become your reality! Embrace the Broodfiend of Nulgath and unleash nightmares throughout Lore!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/broodfiend-of-nulgath/BroodfiendofNulgathNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/broodfiend-of-nulgath/BroodfiendofNulgathold.png"
+    ],
+    "hash": "c8d8904c8678476a295034d926e49c64"
+}

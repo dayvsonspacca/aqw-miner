@@ -1,0 +1,17 @@
+{
+    "urlName": "lumina-mage",
+    "url": "http://aqwwiki.wikidot.com/lumina-mage",
+    "name": "Lumina Mage",
+    "type": "armors",
+    "description": "The day is filled with the magic and you are the shaper and protector of that magic.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2dDcdQk.png",
+        "http://i.imgur.com/EpNbN.png"
+    ],
+    "hash": "7dfc161929c9174b87a1ba163a0744e2"
+}

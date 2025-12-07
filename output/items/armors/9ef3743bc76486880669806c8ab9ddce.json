@@ -1,0 +1,17 @@
+{
+    "urlName": "deathrider-ac",
+    "url": "http://aqwwiki.wikidot.com/deathrider-ac",
+    "name": "DeathRider (AC)",
+    "type": "armors",
+    "description": "The only thing worse than a Death Rider is a Rider with road rage.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathrider-ac/DeathRiderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/deathrider-ac/DeathRiderF.png"
+    ],
+    "hash": "9ef3743bc76486880669806c8ab9ddce"
+}

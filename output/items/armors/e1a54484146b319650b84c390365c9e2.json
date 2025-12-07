@@ -1,0 +1,17 @@
+{
+    "urlName": "sunflower-yukata",
+    "url": "http://aqwwiki.wikidot.com/sunflower-yukata",
+    "name": "Sunflower Yukata",
+    "type": "armors",
+    "description": "Himawari are what the Yokai Isles call sunflowers, and are symbols of hope and joy. To capture the season, the sun in the azure sky, and the yellow flowers that dot the land were turned into a bright yukata pattern.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/XoImA94.png",
+        "https://i.imgur.com/vwGqkbD.png"
+    ],
+    "hash": "e1a54484146b319650b84c390365c9e2"
+}

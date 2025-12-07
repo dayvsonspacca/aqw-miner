@@ -1,0 +1,19 @@
+{
+    "urlName": "darknight-stalker-armor",
+    "url": "http://aqwwiki.wikidot.com/darknight-stalker-armor",
+    "name": "Darknight Stalker (Armor)",
+    "type": "armors",
+    "description": "An undead scout often seen around Mt. Neverest that either side with Dage or Vokun when they are needed to carry out tasks within the Frozen Northlands. It doesn't mind getting lost as long as the icy winters are no big deal.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darknight-stalker-armor/DSm.png",
+        "http://aqwwiki.wdfiles.com/local--files/darknight-stalker-armor/DSf.png",
+        "http://aqwwiki.wdfiles.com/local--files/darknight-stalker-armor/DSfOld.png"
+    ],
+    "hash": "e0632d5c3803fdfffb9907c089bb24c8"
+}

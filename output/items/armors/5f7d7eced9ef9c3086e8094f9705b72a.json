@@ -1,0 +1,16 @@
+{
+    "urlName": "pyromancer-s-apprentice",
+    "url": "http://aqwwiki.wikidot.com/pyromancer-s-apprentice",
+    "name": "Pyromancer's Apprentice",
+    "type": "armors",
+    "description": "There are the robes that all Apprentice Pyromancers wear. They are crafted by the Infernal Monks who live at the heart of an active volcano.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/Z9ybwYQ.png",
+        "https://i.imgur.com/bjLTBhK.png"
+    ],
+    "hash": "5f7d7eced9ef9c3086e8094f9705b72a"
+}

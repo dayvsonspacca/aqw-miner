@@ -1,0 +1,17 @@
+{
+    "urlName": "draconic-oracle",
+    "url": "http://aqwwiki.wikidot.com/draconic-oracle",
+    "name": "Draconic Oracle",
+    "type": "armors",
+    "description": "Using the fumes deep within the caverns of Lore to enhance their Sight, the Draconic Oracles can share glimpses of the future with you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/draconic-oracle/DOM.png",
+        "http://aqwwiki.wdfiles.com/local--files/draconic-oracle/DOF.png"
+    ],
+    "hash": "9099e970f0d9f307be2eace9b580062d"
+}

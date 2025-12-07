@@ -1,0 +1,17 @@
+{
+    "urlName": "dread-pirate-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/dread-pirate-captain-ac",
+    "name": "Dread Pirate Captain (AC)",
+    "type": "armors",
+    "description": "What do you mean I can't sail the seven seas? Inconceivable!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/POpFcpg.png",
+        "https://i.imgur.com/r159H2G.png"
+    ],
+    "hash": "86199f734d65bcf319cfe09022381e12"
+}

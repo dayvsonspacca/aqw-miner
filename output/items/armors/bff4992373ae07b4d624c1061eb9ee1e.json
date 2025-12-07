@@ -1,0 +1,17 @@
+{
+    "urlName": "proper-victorian-garb",
+    "url": "http://aqwwiki.wikidot.com/proper-victorian-garb",
+    "name": "Proper Victorian Garb",
+    "type": "armors",
+    "description": "I say, this outfit looks DELIGHTFUL on you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/proper-victorian-garb/ProperVictorianGarbM.png",
+        "http://aqwwiki.wdfiles.com/local--files/proper-victorian-garb/ProperVictorianGarbF.png"
+    ],
+    "hash": "bff4992373ae07b4d624c1061eb9ee1e"
+}

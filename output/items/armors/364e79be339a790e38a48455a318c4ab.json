@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-shinobi",
+    "url": "http://aqwwiki.wikidot.com/enchanted-shinobi",
+    "name": "Enchanted Shinobi",
+    "type": "armors",
+    "description": "These Elite Ninja warriors wear colorful raiment that allows them to move freely in any direction - so you never know from where they will attack!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/QLfnhDB.png",
+        "https://i.imgur.com/dV9LS2D.png"
+    ],
+    "hash": "364e79be339a790e38a48455a318c4ab"
+}

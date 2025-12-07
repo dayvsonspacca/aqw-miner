@@ -1,0 +1,16 @@
+{
+    "urlName": "cryptic",
+    "url": "http://aqwwiki.wikidot.com/cryptic",
+    "name": "Cryptic",
+    "type": "armors",
+    "description": "Cryptics are Atealan illusionists whose minds are their most powerful weapons. The only limit to their abilities is their imagination.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/M2IGx4y.png",
+        "https://i.imgur.com/xjPSg63.png"
+    ],
+    "hash": "48b8f3852a8545e58e1b8278bc707bc4"
+}

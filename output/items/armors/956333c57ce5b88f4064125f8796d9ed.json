@@ -1,0 +1,17 @@
+{
+    "urlName": "esoteric-anarchist",
+    "url": "http://aqwwiki.wikidot.com/esoteric-anarchist",
+    "name": "Esoteric Anarchist",
+    "type": "armors",
+    "description": "Esoteric Anarchist's would typically avoid contact with individual travelers, however, they are obsessed with obsidian and they will engage in brutal combat just to get the smallest stone to fuel their magic.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/esoteric-anarchist/EsotericAnarchistM.png",
+        "http://aqwwiki.wdfiles.com/local--files/esoteric-anarchist/EsotericAnarchistF.png"
+    ],
+    "hash": "956333c57ce5b88f4064125f8796d9ed"
+}

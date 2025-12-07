@@ -1,0 +1,16 @@
+{
+    "urlName": "cyber-hamster-server-ac",
+    "url": "http://aqwwiki.wikidot.com/cyber-hamster-server-ac",
+    "name": "Cyber Hamster Server (AC)",
+    "type": "armors",
+    "description": "This hamster will SERVE you up a whole new type of PAIN!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/4VEX2ry.png"
+    ],
+    "hash": "03a55568414360e2976403081d6492b8"
+}

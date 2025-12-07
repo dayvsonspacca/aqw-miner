@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-soulweaver",
+    "url": "http://aqwwiki.wikidot.com/shadow-soulweaver",
+    "name": "Shadow SoulWeaver",
+    "type": "armors",
+    "description": "This black version makes you almost as cool as Tomix. Almost.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-soulweaver/ShadowSoulweaverM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-soulweaver/ShadowSoulweaverF.png"
+    ],
+    "hash": "5b9878386ad95a3801731df753b92b7a"
+}

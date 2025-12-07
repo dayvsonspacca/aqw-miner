@@ -1,0 +1,20 @@
+{
+    "urlName": "doom-clawsuit",
+    "url": "http://aqwwiki.wikidot.com/doom-clawsuit",
+    "name": "Doom ClawSuit",
+    "type": "armors",
+    "description": "There's no need to check the list twice when those who are naughty and nice are suffering in the shadows all at once. DOOM for Frostval has arrived!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/HX2DM5E.png",
+        "http://aqwwiki.wdfiles.com/local--files/doom-clawsuit/DoomClawsuitM.png",
+        "http://aqwwiki.wdfiles.com/local--files/doom-clawsuit/DoomClawsuitCC.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/doom-clawsuit/DoomClawsuitF.png",
+        "http://aqwwiki.wdfiles.com/local--files/doom-clawsuit/DoomClawsuitMorph.png"
+    ],
+    "hash": "997cf77d5c6eed9eeba410334b709c81"
+}

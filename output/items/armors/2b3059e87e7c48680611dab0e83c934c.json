@@ -1,0 +1,17 @@
+{
+    "urlName": "goth-rocker",
+    "url": "http://aqwwiki.wikidot.com/goth-rocker",
+    "name": "Goth Rocker",
+    "type": "armors",
+    "description": "Rock on!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/Tk1nQ73.png",
+        "https://imgur.com/oauu8da.png"
+    ],
+    "hash": "2b3059e87e7c48680611dab0e83c934c"
+}

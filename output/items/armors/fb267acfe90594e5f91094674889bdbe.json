@@ -1,0 +1,18 @@
+{
+    "urlName": "gravefang-armor",
+    "url": "http://aqwwiki.wikidot.com/gravefang-armor",
+    "name": "Gravefang Armor",
+    "type": "armors",
+    "description": "Lich Wolfs are more concerned with their bite than bark. Be wary, these beasts are quick as a whip and ready to be on an enemy's or ally's throat at a moment's notice.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gravefang-armor/GravefangArmor.png",
+        "http://aqwwiki.wdfiles.com/local--files/gravefang-armor/GravefangArmorOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/gravefang-armor/FemaleOld.png"
+    ],
+    "hash": "fb267acfe90594e5f91094674889bdbe"
+}

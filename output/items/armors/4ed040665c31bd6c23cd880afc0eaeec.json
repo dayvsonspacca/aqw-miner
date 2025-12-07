@@ -1,0 +1,16 @@
+{
+    "urlName": "azure-spitfire",
+    "url": "http://aqwwiki.wikidot.com/azure-spitfire",
+    "name": "Azure SpitFire",
+    "type": "armors",
+    "description": "The Azure Spitfire mercenaries, unlike the Crimson SpitFire mercenaries use cunning skills and deception to beat out their brethren in a long standing contest that dates back to times long forgotten. Only the bounties given out by the Deathshead Destroyers will decide which can will reign supreme.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/7hol8qb.png",
+        "http://i.imgur.com/msyvuCB.png"
+    ],
+    "hash": "4ed040665c31bd6c23cd880afc0eaeec"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "composer-armor",
+    "url": "http://aqwwiki.wikidot.com/composer-armor",
+    "name": "Composer Armor",
+    "type": "armors",
+    "description": "Orchestrate your own band of terror in Lore's first Composer Armor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/composer-armor/ComposerArmorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/composer-armor/ComposerArmorFemale.png"
+    ],
+    "hash": "f982aad5dcbfb0143d1a830911d7a47f"
+}

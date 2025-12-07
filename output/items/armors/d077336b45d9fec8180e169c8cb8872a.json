@@ -1,0 +1,17 @@
+{
+    "urlName": "exodus-guardian-armor",
+    "url": "http://aqwwiki.wikidot.com/exodus-guardian-armor",
+    "name": "Exodus Guardian (Armor)",
+    "type": "armors",
+    "description": "The Exodus Titan is an awe-insiring mystery. They once served a higher purpose, one of divine ambition. To this day, they spread terror with reckless abandon, until one of their own was defeated by a fateful encounter with a certain Dragonlord.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/Xm8co76.png",
+        "https://imgur.com/kN2piaa.png"
+    ],
+    "hash": "d077336b45d9fec8180e169c8cb8872a"
+}

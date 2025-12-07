@@ -1,0 +1,16 @@
+{
+    "urlName": "cloud-rider",
+    "url": "http://aqwwiki.wikidot.com/cloud-rider",
+    "name": "Cloud Rider",
+    "type": "armors",
+    "description": "A type of wind ninja that is on cloud nine. Why are they so happy? Sneak attacks from the sky give them the full advantage of the element surprise too.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/Kgfnj68.png",
+        "http://i.imgur.com/Awv2IWU.png"
+    ],
+    "hash": "e4b8eb62df9a08acaa86159fe932539b"
+}

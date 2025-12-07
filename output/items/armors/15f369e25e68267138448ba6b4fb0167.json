@@ -1,0 +1,18 @@
+{
+    "urlName": "azure-necromancer",
+    "url": "http://aqwwiki.wikidot.com/azure-necromancer",
+    "name": "Azure Necromancer",
+    "type": "armors",
+    "description": "\"I got a whole undead army in my hands. I got a whole undead army in my hands. I got an undead army in my hands.\" (Sang in D minor)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/wH69Ign.png",
+        "http://i.imgur.com/HU9TZDG.png",
+        "https://i.imgur.com/TPXSTsF.png",
+        "http://i.imgur.com/xYn3imk.png"
+    ],
+    "hash": "15f369e25e68267138448ba6b4fb0167"
+}

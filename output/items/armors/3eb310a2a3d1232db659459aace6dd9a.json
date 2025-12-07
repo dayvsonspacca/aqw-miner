@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-paladin-ac",
+    "url": "http://aqwwiki.wikidot.com/cyber-paladin-ac",
+    "name": "Cyber Paladin (AC)",
+    "type": "armors",
+    "description": "Cyber Paladins call on the power of the LED instead of normal light!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cyber-paladin-ac/CyberPaladinM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-paladin-ac/CyberPaladinF.png"
+    ],
+    "hash": "3eb310a2a3d1232db659459aace6dd9a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-water-snake",
+    "url": "http://aqwwiki.wikidot.com/prismatic-water-snake",
+    "name": "Prismatic Water Snake",
+    "type": "armors",
+    "description": "COLOR CUSTOM ARMOR: This is The Year of The Snake and this year's elemental is water. The Water snake is careful, smart and manages others well. The perfect leader when going into combat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-water-snake/PWSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-water-snake/PWSF.png"
+    ],
+    "hash": "31749413dee62da1323b0fab2a3783b9"
+}

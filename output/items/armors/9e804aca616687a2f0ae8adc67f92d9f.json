@@ -1,0 +1,16 @@
+{
+    "urlName": "darkblood-champion",
+    "url": "http://aqwwiki.wikidot.com/darkblood-champion",
+    "name": "Darkblood Champion",
+    "type": "armors",
+    "description": "During the occasional downtime within the Falguard Dreadwatch army, the Darkbloods love to pit their own kind against each other in a battle to the death. Those victorious in battle shall reap rewards of monetary value, while those who lose are given the gift of their very own coffin.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/Ynt4opB.png",
+        "https://i.imgur.com/sIKg83T.png"
+    ],
+    "hash": "9e804aca616687a2f0ae8adc67f92d9f"
+}

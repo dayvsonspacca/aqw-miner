@@ -1,0 +1,18 @@
+{
+    "urlName": "draconic-doomknight-armor",
+    "url": "http://aqwwiki.wikidot.com/draconic-doomknight-armor",
+    "name": "Draconic DoomKnight (Armor)",
+    "type": "armors",
+    "description": "What can you do to make DoomKnights even cooler than they already are? Add dragons.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/draconic-doomknight-armor/DraconicDoomKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/draconic-doomknight-armor/DraconicDoomKnightF.png"
+    ],
+    "hash": "681bb7801e2fadb878044ce904b19c17"
+}

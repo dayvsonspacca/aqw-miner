@@ -1,0 +1,17 @@
+{
+    "urlName": "deepsea-defender",
+    "url": "http://aqwwiki.wikidot.com/deepsea-defender",
+    "name": "DeepSea Defender",
+    "type": "armors",
+    "description": "Deep below the waves, down in the depths where no light shines, your Master waits. Your role: to protect the ancient, eldritch god who steals hearts and souls of heroes, binding them to its will. (This item is color-customizable)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/Wi5PYIN.png",
+        "https://i.imgur.com/7zFDOKq.png"
+    ],
+    "hash": "4a575fdb8132c4e775a197e190c1464b"
+}

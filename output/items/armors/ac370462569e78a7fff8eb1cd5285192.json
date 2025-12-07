@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-invoker",
+    "url": "http://aqwwiki.wikidot.com/enchanted-invoker",
+    "name": "Enchanted Invoker",
+    "type": "armors",
+    "description": "Deep meditation is required for all enchantments. These Invoker's spend most of their day in peaceful temples seeking inner balance.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/o8agM5w.png",
+        "https://i.imgur.com/EHabaxa.png"
+    ],
+    "hash": "ac370462569e78a7fff8eb1cd5285192"
+}

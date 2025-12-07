@@ -1,0 +1,17 @@
+{
+    "urlName": "swordhaven-pirate-captain-ac",
+    "url": "http://aqwwiki.wikidot.com/swordhaven-pirate-captain-ac",
+    "name": "Swordhaven Pirate Captain (AC)",
+    "type": "armors",
+    "description": "Avast me hearties! Some of the Knights of Swordhaven have turned to piracy!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8z1zBoU.png",
+        "https://i.imgur.com/3M7o634.png"
+    ],
+    "hash": "787b695aa6bca73741452b9f457600d4"
+}

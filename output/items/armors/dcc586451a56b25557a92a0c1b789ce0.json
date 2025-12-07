@@ -1,0 +1,17 @@
+{
+    "urlName": "pyromancer-evolution-ac",
+    "url": "http://aqwwiki.wikidot.com/pyromancer-evolution-ac",
+    "name": "Pyromancer Evolution (AC)",
+    "type": "armors",
+    "description": "THIS SKULL IS ON FIREEEEEEEEEEEE!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pyromancer-evolution-ac/PyromancerEvolutionM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pyromancer-evolution-ac/PyromancerEvolutionF.png"
+    ],
+    "hash": "dcc586451a56b25557a92a0c1b789ce0"
+}

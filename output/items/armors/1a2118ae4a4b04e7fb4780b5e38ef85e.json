@@ -1,0 +1,18 @@
+{
+    "urlName": "astral-symbiote",
+    "url": "http://aqwwiki.wikidot.com/astral-symbiote",
+    "name": "Astral Symbiote",
+    "type": "armors",
+    "description": "You become one with the fabric of space, spread across galaxies and stars, nowhere and everywhere.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/PPRpLdo.png",
+        "https://i.imgur.com/HFVhtve.png"
+    ],
+    "hash": "1a2118ae4a4b04e7fb4780b5e38ef85e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "astravian-corsair",
+    "url": "http://aqwwiki.wikidot.com/astravian-corsair",
+    "name": "Astravian Corsair",
+    "type": "armors",
+    "description": "Nobility from Astravia that believed in the same conquest as their tyrant King, but set sail to take everything for themselves. The stars guide their sails, and sailors fear that they grant the corsair's every greedy wish.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/y7xFPsC.png",
+        "https://i.imgur.com/TX05T4U.png"
+    ],
+    "hash": "7a5adac7f5d5bf82dacb6560a9e8bc13"
+}

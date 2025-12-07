@@ -1,0 +1,17 @@
+{
+    "urlName": "priest-of-the-ignited-ones",
+    "url": "http://aqwwiki.wikidot.com/priest-of-the-ignited-ones",
+    "name": "Priest of the Ignited Ones",
+    "type": "armors",
+    "description": "Anointed by the Order of the Ignited Ones, this priest has been charged to protect their ancient scrolls since the dawn of time. The Summer months are a period of intense celebration and re-confirmation of their.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/priest-of-the-ignited-ones/PriestoftheIgnitedOnesM.png",
+        "http://aqwwiki.wdfiles.com/local--files/priest-of-the-ignited-ones/PriestoftheIgnitedOnesF.png"
+    ],
+    "hash": "e4d76a3dce7fd5f827f9cd2128f8b18b"
+}

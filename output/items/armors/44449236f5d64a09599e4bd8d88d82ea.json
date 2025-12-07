@@ -1,0 +1,17 @@
+{
+    "urlName": "rune-thief",
+    "url": "http://aqwwiki.wikidot.com/rune-thief",
+    "name": "Rune Thief",
+    "type": "armors",
+    "description": "Stealing has its charms. It's not a life for the fainthearted, nor the person not willing to work. You have to be willing to live on the street, eat what you can find and take what you need. But, it's a good life at times.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rune-thief/RuneThiefM.png",
+        "http://aqwwiki.wdfiles.com/local--files/rune-thief/RuneThiefF.png"
+    ],
+    "hash": "44449236f5d64a09599e4bd8d88d82ea"
+}

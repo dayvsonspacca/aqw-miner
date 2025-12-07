@@ -1,0 +1,17 @@
+{
+    "urlName": "lunar-pirate-captain",
+    "url": "http://aqwwiki.wikidot.com/lunar-pirate-captain",
+    "name": "Lunar Pirate Captain",
+    "type": "armors",
+    "description": "The mysterious textile that is used to produce this glistening uniform was also used to make tribal curtains to ward off shadow elementals sensitive to the moonlight.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunar-pirate-captain/LunarPCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lunar-pirate-captain/LunarPCF.png"
+    ],
+    "hash": "bcbeef23815688ba980b7a827fac27d7"
+}

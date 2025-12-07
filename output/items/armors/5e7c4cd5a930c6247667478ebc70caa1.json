@@ -1,0 +1,16 @@
+{
+    "urlName": "corrupted-druid",
+    "url": "http://aqwwiki.wikidot.com/corrupted-druid",
+    "name": "Corrupted Druid",
+    "type": "armors",
+    "description": "Not all poison kills you. Sometimes it changes you, corrupts who you are, gives you power but takes away a part of who you are. You are changed. Forever.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/HfdYq9B.png",
+        "http://i.imgur.com/KXDHvvc.png"
+    ],
+    "hash": "5e7c4cd5a930c6247667478ebc70caa1"
+}

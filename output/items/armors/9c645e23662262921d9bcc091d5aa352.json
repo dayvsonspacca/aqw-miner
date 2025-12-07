@@ -1,0 +1,17 @@
+{
+    "urlName": "stellar-royalty",
+    "url": "http://aqwwiki.wikidot.com/stellar-royalty",
+    "name": "Stellar Royalty",
+    "type": "armors",
+    "description": "With a throne made of stardust, you rule over an endless sea of galaxies. Your brilliance cannot be matched, and your reign will last as long as the stars themselves.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/SVanhmZ.png",
+        "https://i.imgur.com/YjGfhQH.png"
+    ],
+    "hash": "9c645e23662262921d9bcc091d5aa352"
+}

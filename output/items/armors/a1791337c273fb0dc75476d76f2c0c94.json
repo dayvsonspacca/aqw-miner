@@ -1,0 +1,17 @@
+{
+    "urlName": "deadman-ghoul-ac",
+    "url": "http://aqwwiki.wikidot.com/deadman-ghoul-ac",
+    "name": "Deadman Ghoul (AC)",
+    "type": "armors",
+    "description": "With armor this ghoulish, you'll fit right in at a carnival of corpses.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deadman-ghoul-ac/DeadmanGhoulM.png",
+        "http://aqwwiki.wdfiles.com/local--files/deadman-ghoul-ac/DeadmanGhoulF.png"
+    ],
+    "hash": "a1791337c273fb0dc75476d76f2c0c94"
+}

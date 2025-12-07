@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-wolf-armor",
+    "url": "http://aqwwiki.wikidot.com/frost-wolf-armor",
+    "name": "Frost Wolf Armor",
+    "type": "armors",
+    "description": "A lone wolf that roams the frozen north in our world and Nulgath's OverSoul. A deadly creature, but if you can assume its power, you'll be almost unstoppable.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/RWvoFPz.png",
+        "https://i.imgur.com/kFPnlux.png"
+    ],
+    "hash": "75509ab231ac2157b19ea48cd2ea70a7"
+}

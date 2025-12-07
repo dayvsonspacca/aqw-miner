@@ -1,0 +1,18 @@
+{
+    "urlName": "fortune-s-fancy",
+    "url": "http://aqwwiki.wikidot.com/fortune-s-fancy",
+    "name": "Fortune's Fancy",
+    "type": "armors",
+    "description": "Part the veils of the future and you may find the answers you seek. But will you like what you see?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/bdaokCa.png",
+        "https://i.imgur.com/6w7LO7C.png",
+        "https://i.imgur.com/xsLasD9.png"
+    ],
+    "hash": "6a5f50b966bfda6f074d5346bffc4305"
+}

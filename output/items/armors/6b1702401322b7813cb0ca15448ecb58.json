@@ -1,0 +1,17 @@
+{
+    "urlName": "cherry-blossom-fairy",
+    "url": "http://aqwwiki.wikidot.com/cherry-blossom-fairy",
+    "name": "Cherry Blossom Fairy",
+    "type": "armors",
+    "description": "Soft as snow, yet bright as spring. Dance alongside the graceful bloom and fall of cherry blossom petals.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Qw9Wiay.png",
+        "https://i.imgur.com/p5S7Dw5.png"
+    ],
+    "hash": "6b1702401322b7813cb0ca15448ecb58"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "avomancer",
+    "url": "http://aqwwiki.wikidot.com/avomancer",
+    "name": "Avomancer",
+    "type": "armors",
+    "description": "No bones about it this the gravy train of armors. Anything else for Harvest would just be fowl.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/avomancer/AvoM.png",
+        "http://aqwwiki.wdfiles.com/local--files/avomancer/AvoF.png"
+    ],
+    "hash": "0ae48e7f13d7fef72f4db892f5124bc7"
+}

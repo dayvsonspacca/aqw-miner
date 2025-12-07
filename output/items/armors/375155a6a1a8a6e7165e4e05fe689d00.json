@@ -1,0 +1,17 @@
+{
+    "urlName": "brilliant-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/brilliant-naval-commander",
+    "name": "Brilliant Naval Commander",
+    "type": "armors",
+    "description": "Yar! Here be shiny Naval for ye lumbers who sail under the flag of Good.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brilliant-naval-commander/BrilliantNavalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/brilliant-naval-commander/BrilliantNavalCommanderF.png"
+    ],
+    "hash": "375155a6a1a8a6e7165e4e05fe689d00"
+}

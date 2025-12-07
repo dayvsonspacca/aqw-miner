@@ -1,0 +1,16 @@
+{
+    "urlName": "coastal-raider",
+    "url": "http://aqwwiki.wikidot.com/coastal-raider",
+    "name": "Coastal Raider",
+    "type": "armors",
+    "description": "Menaces that even have vikings standing on guard. These career criminals will gut you for half a coin of gold on land, and mince you for the sharks in the sea.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/UTwnt8F.png",
+        "https://imgur.com/p8o6Pzu.png"
+    ],
+    "hash": "089cb973c42cf2e5ac16a03ebe3d6b69"
+}

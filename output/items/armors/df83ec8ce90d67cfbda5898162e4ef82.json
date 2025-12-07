@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-royalty",
+    "url": "http://aqwwiki.wikidot.com/frost-royalty",
+    "name": "Frost Royalty",
+    "type": "armors",
+    "description": "Though their kingdom might be under several feet of snow, the warmth and love that their people share for them know no bounds.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/iZVFs0B.png",
+        "http://i.imgur.com/w2CfB4I.png"
+    ],
+    "hash": "df83ec8ce90d67cfbda5898162e4ef82"
+}

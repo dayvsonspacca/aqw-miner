@@ -1,0 +1,17 @@
+{
+    "urlName": "butler-maid",
+    "url": "http://aqwwiki.wikidot.com/butler-maid",
+    "name": "Butler & Maid",
+    "type": "armors",
+    "description": "The uniform of Butlers the world over. Just remember, a Butler is one who\u2026 buttles.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/Rps1oq6.png",
+        "https://i.imgur.com/udFEb8A.png",
+        "https://i.imgur.com/wHOoiXG.png"
+    ],
+    "hash": "a3c1c8f6bbbf51bb0d46b312a697715c"
+}

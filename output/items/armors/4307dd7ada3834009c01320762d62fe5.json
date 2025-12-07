@@ -1,0 +1,18 @@
+{
+    "urlName": "purple-hibiscus-sarong",
+    "url": "http://aqwwiki.wikidot.com/purple-hibiscus-sarong",
+    "name": "Purple Hibiscus Sarong",
+    "type": "armors",
+    "description": "Combined with SPF 9000 this armor will protect you on the hottest beaches in Lore.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cGCgkMr.png",
+        "https://i.imgur.com/kRY54I6.png",
+        "https://i.imgur.com/TrSoVCV.png"
+    ],
+    "hash": "4307dd7ada3834009c01320762d62fe5"
+}

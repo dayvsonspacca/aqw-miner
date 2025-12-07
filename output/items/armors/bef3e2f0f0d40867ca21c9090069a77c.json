@@ -1,0 +1,17 @@
+{
+    "urlName": "evolved-leprechaun-armor",
+    "url": "http://aqwwiki.wikidot.com/evolved-leprechaun-armor",
+    "name": "Evolved Leprechaun Armor",
+    "type": "armors",
+    "description": "More green, more shamrocks, more luck. With this on everything will be luckier. You'll be so lucky your luck will be lucky, which in turn will make you luckier. That's a lot of luck.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/DPPOlGu.png",
+        "http://i.imgur.com/o9EWbXx.png"
+    ],
+    "hash": "bef3e2f0f0d40867ca21c9090069a77c"
+}

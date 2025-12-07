@@ -1,0 +1,18 @@
+{
+    "urlName": "starblade-master",
+    "url": "http://aqwwiki.wikidot.com/starblade-master",
+    "name": "StarBlade Master",
+    "type": "armors",
+    "description": "You're SORtA the biggest hero around. Got it memorized? Whenever things look dark, hide in the strength of friends, and wait for the light.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/starblade-master/StarbladeMasterMN.png",
+        "http://aqwwiki.wdfiles.com/local--files/starblade-master/StarbladeMasterMO.png",
+        "http://aqwwiki.wdfiles.com/local--files/starblade-master/StarbladeMasterF.png"
+    ],
+    "hash": "95f15e3ab64475ee32d6a6415e3ba94f"
+}

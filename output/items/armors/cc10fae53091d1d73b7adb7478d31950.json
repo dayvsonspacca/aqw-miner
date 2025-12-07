@@ -1,0 +1,17 @@
+{
+    "urlName": "ruby-kitsune-duelist",
+    "url": "http://aqwwiki.wikidot.com/ruby-kitsune-duelist",
+    "name": "Ruby Kitsune Duelist",
+    "type": "armors",
+    "description": "Before Chaos took over his mind, Lord Kitsune was a friend of the Yokai Isles' royalty. On rare occassions, he would teach his skills to worthy humans. With his fall, shame has retired most of his students.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/sDGfeOe.png",
+        "https://i.imgur.com/jHbdjrp.png"
+    ],
+    "hash": "cc10fae53091d1d73b7adb7478d31950"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "luck-s-champion",
+    "url": "http://aqwwiki.wikidot.com/luck-s-champion",
+    "name": "Luck's Champion",
+    "type": "armors",
+    "description": "Playing card games requires a lot of skill, but also a lot of luck. With this armor, luck will always be on your side!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/WakDg6u.png",
+        "http://i.imgur.com/YYVQQb5.png"
+    ],
+    "hash": "030a5c1c7c6f7678234a427a6252b250"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "charon-armor",
+    "url": "http://aqwwiki.wikidot.com/charon-armor",
+    "name": "Charon (Armor)",
+    "type": "armors",
+    "description": "Those who challenge Charon do so at a peril of their soul. The Boatman's wrath is not to be tempted.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/S1wexZG.png",
+        "http://i.imgur.com/IWTCs89.png"
+    ],
+    "hash": "8899958f80374330a1563050789261dc"
+}

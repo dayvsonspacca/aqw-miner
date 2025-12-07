@@ -1,0 +1,18 @@
+{
+    "urlName": "shadow-sorcerer-armor",
+    "url": "http://aqwwiki.wikidot.com/shadow-sorcerer-armor",
+    "name": "Shadow Sorcerer (Armor)",
+    "type": "armors",
+    "description": "Control the shadows as a Shadow Sorcerer, and make your enemies weep\u2026 with fear of you AND the darkness!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-sorcerer-armor/ShadowSorcererM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-sorcerer-armor/ShadowSorcererF.png"
+    ],
+    "hash": "f8e86da3095c0fce8eecadaddf4b7ae0"
+}

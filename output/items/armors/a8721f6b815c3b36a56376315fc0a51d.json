@@ -1,0 +1,19 @@
+{
+    "urlName": "cursed-jester",
+    "url": "http://aqwwiki.wikidot.com/cursed-jester",
+    "name": "Cursed Jester",
+    "type": "armors",
+    "description": "Jesters are normally used to entertain guests at fancy dinners\u2026 but something went wrong when this Jester was practicing next to a some Necromancers, and now they are cursed!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/nWiikyp.png",
+        "https://imgur.com/wYKx31J.png",
+        "https://i.imgur.com/6dTeA5B.png",
+        "https://imgur.com/24va56e.png"
+    ],
+    "hash": "a8721f6b815c3b36a56376315fc0a51d"
+}

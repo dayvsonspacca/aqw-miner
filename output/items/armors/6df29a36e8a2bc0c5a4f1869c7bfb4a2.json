@@ -1,0 +1,18 @@
+{
+    "urlName": "deadly-wolfhound-warrior",
+    "url": "http://aqwwiki.wikidot.com/deadly-wolfhound-warrior",
+    "name": "Deadly Wolfhound Warrior",
+    "type": "armors",
+    "description": "Wolfhounds are the most loyal warriors in the kingdom. Wearing the Wolf's Head sigil shows that you can be trusted above all else.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deadly-wolfhound-warrior/DeadlyWolfhoundWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/deadly-wolfhound-warrior/DeadlyWolfhoundWarriorF.png"
+    ],
+    "hash": "6df29a36e8a2bc0c5a4f1869c7bfb4a2"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "arctic-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/arctic-dragonslayer",
+    "name": "Arctic Dragonslayer",
+    "type": "armors",
+    "description": "This prestigious armor is worn by a renowned sect of Dragonslayers who specialize in defeating the icy dragonbrood dwelling in the Northlands. Arctic Dragonslayers are believed to be magically attuned with the Aurora Borealis given the fact that the entire armor is Color Custom.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/arctic-dragonslayer/ArticDragonslayerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/arctic-dragonslayer/ArticDragonslayerFemale.png"
+    ],
+    "hash": "e32c9bcd32cd93af56e465fb81ba0f6a"
+}

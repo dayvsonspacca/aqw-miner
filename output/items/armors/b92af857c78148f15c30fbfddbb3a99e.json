@@ -1,0 +1,16 @@
+{
+    "urlName": "arctic-eldritch",
+    "url": "http://aqwwiki.wikidot.com/arctic-eldritch",
+    "name": "Arctic Eldritch",
+    "type": "armors",
+    "description": "The icy rift continues to spew forth the most twisted of creatures\u2026 and now you can be one too!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/XYJMzMv.png",
+        "https://i.imgur.com/5GzvUin.png"
+    ],
+    "hash": "b92af857c78148f15c30fbfddbb3a99e"
+}

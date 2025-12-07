@@ -1,0 +1,19 @@
+{
+    "urlName": "armadura-da-patria",
+    "url": "http://aqwwiki.wikidot.com/armadura-da-patria",
+    "name": "Armadura da P\u00e1tria",
+    "type": "armors",
+    "description": "Este novo traje mostrar\u00e1 sua verdadeira lealdade!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/armadura-da-patria/ArmaduradaPatriaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/armadura-da-patria/ArmaduradaPatriaF.png"
+    ],
+    "hash": "5905d3d5b72ec6858055acbec0b2b331"
+}

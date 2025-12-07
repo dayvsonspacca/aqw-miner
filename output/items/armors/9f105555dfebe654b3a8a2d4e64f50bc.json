@@ -1,0 +1,17 @@
+{
+    "urlName": "dread-captain-merge",
+    "url": "http://aqwwiki.wikidot.com/dread-captain-merge",
+    "name": "Dread Captain (Merge)",
+    "type": "armors",
+    "description": "Being a captain has perks like your own hat, pistol and making crew walk the plank.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/YjETjGG.png",
+        "https://i.imgur.com/KVJ3r5c.png",
+        "http://aqwwiki.wdfiles.com/local--resized-images/dread-captain-merge//medium.jpg"
+    ],
+    "hash": "9f105555dfebe654b3a8a2d4e64f50bc"
+}

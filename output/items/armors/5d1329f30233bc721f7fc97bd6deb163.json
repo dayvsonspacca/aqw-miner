@@ -1,0 +1,17 @@
+{
+    "urlName": "sir-roderick-armor",
+    "url": "http://aqwwiki.wikidot.com/sir-roderick-armor",
+    "name": "Sir Roderick (Armor)",
+    "type": "armors",
+    "description": "Sometimes you have to do what's right. Even if it means stabbing someone in the back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sir-roderick-armor/SirRoderickM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sir-roderick-armor/SirRoderickF.png"
+    ],
+    "hash": "5d1329f30233bc721f7fc97bd6deb163"
+}

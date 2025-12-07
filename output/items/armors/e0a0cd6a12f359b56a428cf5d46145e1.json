@@ -1,0 +1,17 @@
+{
+    "urlName": "lucky-looter",
+    "url": "http://aqwwiki.wikidot.com/lucky-looter",
+    "name": "Lucky Looter",
+    "type": "armors",
+    "description": "At around Lucky Day, pickpocketers could easily gain the upper hand since luck is in their favor. It's Lucky Day, and what better way to celebrate than wearing this AWESOME gold-boosting armor!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ptVTfM7.png",
+        "http://i.imgur.com/ExPcQGz.png"
+    ],
+    "hash": "e0a0cd6a12f359b56a428cf5d46145e1"
+}

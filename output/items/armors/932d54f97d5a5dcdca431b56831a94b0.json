@@ -1,0 +1,17 @@
+{
+    "urlName": "deathknight-blood-lord",
+    "url": "http://aqwwiki.wikidot.com/deathknight-blood-lord",
+    "name": "DeathKnight Blood Lord",
+    "type": "armors",
+    "description": "Bound to duty as well as to the Castle of Bone these undead Knights serve for eternity.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathknight-blood-lord/DKBLN.png",
+        "http://aqwwiki.wdfiles.com/local--files/deathknight-blood-lord/DKBLO.png"
+    ],
+    "hash": "932d54f97d5a5dcdca431b56831a94b0"
+}

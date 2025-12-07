@@ -1,0 +1,17 @@
+{
+    "urlName": "burnt-phoenix-rising",
+    "url": "http://aqwwiki.wikidot.com/burnt-phoenix-rising",
+    "name": "Burnt Phoenix Rising",
+    "type": "armors",
+    "description": "Ashes to ashes, we all fall down.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/burnt-phoenix-rising/BurntPhoenixRisingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/burnt-phoenix-rising/BurntPhoenixRisingF.png"
+    ],
+    "hash": "c14ff920dc0b5ea62e741d00dfad5703"
+}

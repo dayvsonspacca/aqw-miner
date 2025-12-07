@@ -1,0 +1,16 @@
+{
+    "urlName": "skyborg",
+    "url": "http://aqwwiki.wikidot.com/skyborg",
+    "name": "SkyBorg",
+    "type": "armors",
+    "description": "You are just one of many drones working for the SkyGuard.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/I2LpiEC.png",
+        "https://i.imgur.com/s5hhlwd.png"
+    ],
+    "hash": "f38b4cbe9f747ea0ac2f7e9217434d89"
+}

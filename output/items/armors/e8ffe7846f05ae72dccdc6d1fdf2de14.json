@@ -1,0 +1,17 @@
+{
+    "urlName": "cupid-avenger-legend",
+    "url": "http://aqwwiki.wikidot.com/cupid-avenger-legend",
+    "name": "Cupid Avenger (Legend)",
+    "type": "armors",
+    "description": "Hatred is in the air tonight. Without affection, no more Mr. or Miss Nice Cupid.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cupid-avenger-legend/CupidAvengerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cupid-avenger-legend/CupidAvengerF.png"
+    ],
+    "hash": "e8ffe7846f05ae72dccdc6d1fdf2de14"
+}

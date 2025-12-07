@@ -1,0 +1,16 @@
+{
+    "urlName": "frostvale-healer",
+    "url": "http://aqwwiki.wikidot.com/frostvale-healer",
+    "name": "Frostvale Healer",
+    "type": "armors",
+    "description": "Their mana is the spirit of Frostval itself, so these holiday Mages are always in a good mood!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5un9Wdy.png",
+        "https://i.imgur.com/NPlg8QQ.png"
+    ],
+    "hash": "a76482e726bf63d0339b9352883dfe4e"
+}

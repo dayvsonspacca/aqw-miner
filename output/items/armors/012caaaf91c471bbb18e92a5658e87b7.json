@@ -1,0 +1,18 @@
+{
+    "urlName": "gourdello-armor",
+    "url": "http://aqwwiki.wikidot.com/gourdello-armor",
+    "name": "Gourdello Armor",
+    "type": "armors",
+    "description": "When you really, really love Pumpkin Spice.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/RrvPGa6.png",
+        "http://i.imgur.com/gSi24eH.png",
+        "http://i.imgur.com/dWFqmn5.png"
+    ],
+    "hash": "012caaaf91c471bbb18e92a5658e87b7"
+}

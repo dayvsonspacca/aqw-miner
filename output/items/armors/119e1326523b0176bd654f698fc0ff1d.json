@@ -1,0 +1,17 @@
+{
+    "urlName": "eternal-groveborn-armor",
+    "url": "http://aqwwiki.wikidot.com/eternal-groveborn-armor",
+    "name": "Eternal Groveborn Armor",
+    "type": "armors",
+    "description": "The Grovebreak Tribe is a proud group of elves that believe trees hold a supernatural significance. The bronze-like bark that make up this armor come from one of their sacred trees.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/eternal-groveborn-armor/EternalGrovebornArmorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/eternal-groveborn-armor/EternalGrovebornArmorF.png"
+    ],
+    "hash": "119e1326523b0176bd654f698fc0ff1d"
+}

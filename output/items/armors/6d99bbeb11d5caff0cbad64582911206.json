@@ -1,0 +1,17 @@
+{
+    "urlName": "my-magical-pirate-commander",
+    "url": "http://aqwwiki.wikidot.com/my-magical-pirate-commander",
+    "name": "My Magical Pirate Commander",
+    "type": "armors",
+    "description": "I've learned that bein' a Magical Pirate Commander isn't always easy, but there's no doubt it's worth fighting for! YARRR!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gOHUAJY.png",
+        "https://i.imgur.com/AtjWV5w.png"
+    ],
+    "hash": "6d99bbeb11d5caff0cbad64582911206"
+}

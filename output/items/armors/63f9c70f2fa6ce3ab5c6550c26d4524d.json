@@ -1,0 +1,18 @@
+{
+    "urlName": "brightfall-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/brightfall-commander-armor",
+    "name": "BrightFall Commander (Armor)",
+    "type": "armors",
+    "description": "Protectors of the mirrored city of BrightFall, these Guardians possess the strength and courage to defend Gravelyn the Good. Set inspired by Reki.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brightfall-commander-armor/BrightfallCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightfall-commander-armor/BrightfallCommanderF.png"
+    ],
+    "hash": "63f9c70f2fa6ce3ab5c6550c26d4524d"
+}

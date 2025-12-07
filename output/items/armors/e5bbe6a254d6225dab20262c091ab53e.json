@@ -1,0 +1,16 @@
+{
+    "urlName": "love-bard",
+    "url": "http://aqwwiki.wikidot.com/love-bard",
+    "name": "Love Bard",
+    "type": "armors",
+    "description": "Music can be so romantic, don't you think?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/0HSEm2E.png",
+        "https://imgur.com/uouKkUr.png"
+    ],
+    "hash": "e5bbe6a254d6225dab20262c091ab53e"
+}

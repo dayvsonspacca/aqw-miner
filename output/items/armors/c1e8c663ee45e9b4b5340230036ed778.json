@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-shaman-ac",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-shaman-ac",
+    "name": "FrostLorn Shaman (AC)",
+    "type": "armors",
+    "description": "FrostLorn Shamans are most at home in the frozen forests of the Northlands. Their arcane magics grow stronger the lower the temperature falls.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MNEDdhp.png",
+        "https://i.imgur.com/BmgAgp2.png"
+    ],
+    "hash": "c1e8c663ee45e9b4b5340230036ed778"
+}

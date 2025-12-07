@@ -1,0 +1,16 @@
+{
+    "urlName": "sunflower-outfit",
+    "url": "http://aqwwiki.wikidot.com/sunflower-outfit",
+    "name": "Sunflower Outfit",
+    "type": "armors",
+    "description": "Keepin' it cool in this awesome summery outfit. Sure hope you like flowers!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7j2nXtd.png",
+        "https://i.imgur.com/13csSUF.png"
+    ],
+    "hash": "57092f9f4208cd0406848955ddc53a96"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-barbarian-armor-legend",
+    "url": "http://aqwwiki.wikidot.com/frostval-barbarian-armor-legend",
+    "name": "Frostval Barbarian Armor (Legend)",
+    "type": "armors",
+    "description": "During Frostval these nomadic wanderers from the north travel from town to town giving gifts and protecting those in need. You don't want to be on their naughty list though, else be on the receiving end of their most infamous gift - their pure rage.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GkVr9PW.png",
+        "https://i.imgur.com/AvlXdfF.png"
+    ],
+    "hash": "370fa62ac66829bd82479d1856951ed1"
+}

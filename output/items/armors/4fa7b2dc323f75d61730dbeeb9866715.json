@@ -1,0 +1,17 @@
+{
+    "urlName": "creepy-cutthroat",
+    "url": "http://aqwwiki.wikidot.com/creepy-cutthroat",
+    "name": "Creepy Cutthroat",
+    "type": "armors",
+    "description": "No bones about it, you're one unlucky Hero. Happy Unlucky Day 2015, you're going to need it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/creepy-cutthroat/CreepyCutthroatM.png",
+        "http://aqwwiki.wdfiles.com/local--files/creepy-cutthroat/CreepyCutthroatF.png"
+    ],
+    "hash": "4fa7b2dc323f75d61730dbeeb9866715"
+}

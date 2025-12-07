@@ -1,0 +1,17 @@
+{
+    "urlName": "steamknight",
+    "url": "http://aqwwiki.wikidot.com/steamknight",
+    "name": "SteamKnight",
+    "type": "armors",
+    "description": "Under the power of your own steam, you'll be able to charge into battle fearlessy while wearing THIS armor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/steamknight/SteamKnightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/steamknight/SteamKnightF.png"
+    ],
+    "hash": "dfac1727e1f6eb3f0e9a7d4258854c0b"
+}

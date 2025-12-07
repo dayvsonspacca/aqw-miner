@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-zombieslayer-armor",
+    "url": "http://aqwwiki.wikidot.com/shadow-zombieslayer-armor",
+    "name": "Shadow ZombieSlayer Armor",
+    "type": "armors",
+    "description": "As a member of the Shadow ZombieSlayer, you are not in it for the protection of humanity. You are fighting just to taste the first ounce of blood.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-zombieslayer-armor/ShadowZombieslayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-zombieslayer-armor/ShadowZombieslayerF.png"
+    ],
+    "hash": "901b97a666e69097d231c042a0d6fc94"
+}

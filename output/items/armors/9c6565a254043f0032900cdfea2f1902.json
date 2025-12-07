@@ -1,0 +1,15 @@
+{
+    "urlName": "archdemon",
+    "url": "http://aqwwiki.wikidot.com/archdemon",
+    "name": "Archdemon",
+    "type": "armors",
+    "description": "Modeled after samples obtained from the lore of AdventureQuest, the Archdemon was one of Stragath's most powerful demonic servants.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/KWlPATO.png"
+    ],
+    "hash": "9c6565a254043f0032900cdfea2f1902"
+}

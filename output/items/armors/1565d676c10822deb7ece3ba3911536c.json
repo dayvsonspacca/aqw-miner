@@ -1,0 +1,17 @@
+{
+    "urlName": "deckmaster",
+    "url": "http://aqwwiki.wikidot.com/deckmaster",
+    "name": "DeckMaster",
+    "type": "armors",
+    "description": "Carry out the Captain's order or they be havin' you walk the plank!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/pUYD1sG.png",
+        "https://i.imgur.com/BPFWLJN.png"
+    ],
+    "hash": "1565d676c10822deb7ece3ba3911536c"
+}

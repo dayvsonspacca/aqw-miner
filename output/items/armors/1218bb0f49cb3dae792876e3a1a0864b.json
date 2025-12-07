@@ -1,0 +1,17 @@
+{
+    "urlName": "ethereal-horizon-seeker",
+    "url": "http://aqwwiki.wikidot.com/ethereal-horizon-seeker",
+    "name": "Ethereal Horizon Seeker",
+    "type": "armors",
+    "description": "Strike your signature pose, reject reality, and banish this world!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/eBul9XH.png",
+        "https://i.imgur.com/qLm9XNi.png"
+    ],
+    "hash": "1218bb0f49cb3dae792876e3a1a0864b"
+}

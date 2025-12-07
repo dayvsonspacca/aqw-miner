@@ -1,0 +1,18 @@
+{
+    "urlName": "turkeyassassin",
+    "url": "http://aqwwiki.wikidot.com/turkeyassassin",
+    "name": "TurkeyAssassin",
+    "type": "armors",
+    "description": "TurkeyAssassins stalk their prey by moonlight, relying on their incredible stealth, quick maneuvers, and uncontrollable urge to devour ten pounds of poultry in order to catch elusive turkey.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://imgur.com/Brk2OXZ.png",
+        "https://i.imgur.com/p4Wz9l3.png"
+    ],
+    "hash": "98f032192ccc4889e621ab1337b22a83"
+}

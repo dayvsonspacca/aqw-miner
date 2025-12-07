@@ -1,0 +1,18 @@
+{
+    "urlName": "steampunk-clawsuit",
+    "url": "http://aqwwiki.wikidot.com/steampunk-clawsuit",
+    "name": "Steampunk Clawsuit",
+    "type": "armors",
+    "description": "Merry Frostval and Happy New Year!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/EHqlXwZ.png",
+        "http://aqwwiki.wdfiles.com/local--files/steampunk-clawsuit/SteampunkClawsuitM.png",
+        "http://aqwwiki.wdfiles.com/local--files/steampunk-clawsuit/SteampunkClawsuitF.png"
+    ],
+    "hash": "c8177fd482a0dae6eed0f781b61d1574"
+}

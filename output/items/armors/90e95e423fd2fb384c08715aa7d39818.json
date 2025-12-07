@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-void-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/frost-void-of-nulgath",
+    "name": "Frost Void of Nulgath",
+    "type": "armors",
+    "description": "After signing Nulgath's infamous contract, his close followers were granted the ability of ice manipulation.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-void-of-nulgath/FVoNM.png",
+        "http://aqwwiki.wdfiles.com/local--files/frost-void-of-nulgath/FVoNF.png"
+    ],
+    "hash": "90e95e423fd2fb384c08715aa7d39818"
+}

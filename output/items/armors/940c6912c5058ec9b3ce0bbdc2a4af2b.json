@@ -1,0 +1,17 @@
+{
+    "urlName": "armored-extraterrene",
+    "url": "http://aqwwiki.wikidot.com/armored-extraterrene",
+    "name": "Armored Extraterrene",
+    "type": "armors",
+    "description": "Forged with impenetrable ore, this extraterrestrial battle suit offers its owner total protection from opposing forces. Now, if only something could be done about that fiendish complexion\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/armored-extraterrene/ArmoredExtraterreneMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/armored-extraterrene/ArmoredExtraterreneFemale.png"
+    ],
+    "hash": "940c6912c5058ec9b3ce0bbdc2a4af2b"
+}

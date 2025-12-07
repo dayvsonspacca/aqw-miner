@@ -1,0 +1,16 @@
+{
+    "urlName": "gothic-thief",
+    "url": "http://aqwwiki.wikidot.com/gothic-thief",
+    "name": "Gothic Thief",
+    "type": "armors",
+    "description": "Steal quietly into the shadows, and be prepared to run at any time. Mysterious Johnson is not kind to those who take his wares.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Qnp8RhI.png",
+        "https://i.imgur.com/xPzZ4oV.png"
+    ],
+    "hash": "30948f68e29abd53114936fb44addf28"
+}

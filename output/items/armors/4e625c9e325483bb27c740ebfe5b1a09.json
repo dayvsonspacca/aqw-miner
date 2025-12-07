@@ -1,0 +1,17 @@
+{
+    "urlName": "crimson-archer",
+    "url": "http://aqwwiki.wikidot.com/crimson-archer",
+    "name": "Crimson Archer",
+    "type": "armors",
+    "description": "A type of assassin that can stand on ceilings without losing its balance when taking a step.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crimson-archer/CrimsonArcherM.png",
+        "http://aqwwiki.wdfiles.com/local--files/crimson-archer/CrimsonArcherF.png"
+    ],
+    "hash": "4e625c9e325483bb27c740ebfe5b1a09"
+}

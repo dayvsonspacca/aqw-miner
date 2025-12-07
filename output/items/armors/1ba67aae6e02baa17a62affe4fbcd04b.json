@@ -1,0 +1,17 @@
+{
+    "urlName": "enraged-fiendhunter",
+    "url": "http://aqwwiki.wikidot.com/enraged-fiendhunter",
+    "name": "Enraged FiendHunter",
+    "type": "armors",
+    "description": "Dage has many enemies but the ArchFiend is his most lethal. These hunters are trained for the soul purpose of destroying the Nation.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/sLoOPEz.png",
+        "https://i.imgur.com/51KxcXq.png"
+    ],
+    "hash": "1ba67aae6e02baa17a62affe4fbcd04b"
+}

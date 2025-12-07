@@ -1,0 +1,17 @@
+{
+    "urlName": "frostedge-fae-ac",
+    "url": "http://aqwwiki.wikidot.com/frostedge-fae-ac",
+    "name": "FrostEdge Fae (AC)",
+    "type": "armors",
+    "description": "Enchanted by the fairies in the Northlands, though this doesn't appear warm, you will never grow cold in it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/UgH7EKO.png",
+        "https://i.imgur.com/7LCCbAw.png"
+    ],
+    "hash": "a9148dcd9bb0255cfb55a12ecf630038"
+}

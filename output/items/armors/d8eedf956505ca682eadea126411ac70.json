@@ -1,0 +1,17 @@
+{
+    "urlName": "royal-wedding-armor",
+    "url": "http://aqwwiki.wikidot.com/royal-wedding-armor",
+    "name": "Royal Wedding (Armor)",
+    "type": "armors",
+    "description": "Can't look like a peasant when you're attending a royal wedding!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/royal-wedding-armor/RoyalWeddingM.png",
+        "http://aqwwiki.wdfiles.com/local--files/royal-wedding-armor/RoyalWeddingF.png"
+    ],
+    "hash": "d8eedf956505ca682eadea126411ac70"
+}

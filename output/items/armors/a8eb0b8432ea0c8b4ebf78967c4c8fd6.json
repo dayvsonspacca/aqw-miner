@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-blessing-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/frostval-blessing-armor-ac",
+    "name": "Frostval Blessing Armor (AC)",
+    "type": "armors",
+    "description": "The moglins of Frostvale wish you warm nights, loving family, and cheerful companions. Merry Frostval!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/1gYbp94.png",
+        "https://imgur.com/YXxrFG4.png"
+    ],
+    "hash": "a8eb0b8432ea0c8b4ebf78967c4c8fd6"
+}

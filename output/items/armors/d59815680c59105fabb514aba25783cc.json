@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-reaver-2",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-reaver-2",
+    "name": "Shadowscythe Reaver (2)",
+    "type": "armors",
+    "description": "After the \"death\" of Sepulchure these warrior were left without a master. Now they stand to bring glory back to Shadowfall.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-reaver-2/ShadowscytheReaverM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-reaver-2/ShadowscytheReaverF.png"
+    ],
+    "hash": "d59815680c59105fabb514aba25783cc"
+}

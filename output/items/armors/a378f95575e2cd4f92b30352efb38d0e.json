@@ -1,0 +1,19 @@
+{
+    "urlName": "lunar-sand-knight-ac",
+    "url": "http://aqwwiki.wikidot.com/lunar-sand-knight-ac",
+    "name": "Lunar Sand Knight (AC)",
+    "type": "armors",
+    "description": "They say the desert gets cold at night - there's no better way to stay warm than in this awesome glowing armor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunar-sand-knight-ac/LunarSandKnightMaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/lunar-sand-knight-ac/LunarSandKnightMaleO.png",
+        "http://aqwwiki.wdfiles.com/local--files/lunar-sand-knight-ac/LunarSandKnightFemaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/lunar-sand-knight-ac/LunarSandKnightFemaleO.png"
+    ],
+    "hash": "a378f95575e2cd4f92b30352efb38d0e"
+}

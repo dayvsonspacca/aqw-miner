@@ -1,0 +1,17 @@
+{
+    "urlName": "swordmaster-armor",
+    "url": "http://aqwwiki.wikidot.com/swordmaster-armor",
+    "name": "SwordMaster Armor",
+    "type": "armors",
+    "description": "With harsh lifestyles, they can overcome any punishment to them. While being swift and nimble, they also do massive amount of damage when on the brink of death.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/G2YkurI.png",
+        "https://i.imgur.com/dj59Vkn.png"
+    ],
+    "hash": "232c95b1e56447a43b49085bf575bde3"
+}

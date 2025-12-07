@@ -1,0 +1,17 @@
+{
+    "urlName": "brutalcorn-armor",
+    "url": "http://aqwwiki.wikidot.com/brutalcorn-armor",
+    "name": "Brutalcorn (Armor)",
+    "type": "armors",
+    "description": "Now you, too, can vomit rainbows and whinny with righteous fury!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/OV6SI2g.png",
+        "http://aqwwiki.wdfiles.com/local--files/brutalcorn-armor/BrutalcornMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/brutalcorn-armor/BrutalcornFemale.png"
+    ],
+    "hash": "a696485413e423cb4887009ef70bdfbc"
+}

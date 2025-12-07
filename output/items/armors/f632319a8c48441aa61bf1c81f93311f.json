@@ -1,0 +1,18 @@
+{
+    "urlName": "smuggler-s-raiment",
+    "url": "http://aqwwiki.wikidot.com/smuggler-s-raiment",
+    "name": "Smuggler's Raiment",
+    "type": "armors",
+    "description": "A privateer with a suspiciously strict code. They plunder and steal like any other corsair, but their swordplay's a little too sharp. Rumors about undercover Greenguard Knights are abound.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/b5HIXK5.png",
+        "https://i.imgur.com/BqW0NDf.png",
+        "https://i.imgur.com/dB97fmY.png"
+    ],
+    "hash": "f632319a8c48441aa61bf1c81f93311f"
+}

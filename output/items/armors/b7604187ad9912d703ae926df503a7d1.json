@@ -1,0 +1,15 @@
+{
+    "urlName": "lore-golem-armor",
+    "url": "http://aqwwiki.wikidot.com/lore-golem-armor",
+    "name": "Lore Golem (Armor)",
+    "type": "armors",
+    "description": "Sometimes - very, very rarely, if you hit a Lore Golem hard enough you can gather up enough parts from him to make your very own rock/mud/elephant/lizard thing armor!",
+    "rarity": "1% Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/JbnaEF7.png"
+    ],
+    "hash": "b7604187ad9912d703ae926df503a7d1"
+}

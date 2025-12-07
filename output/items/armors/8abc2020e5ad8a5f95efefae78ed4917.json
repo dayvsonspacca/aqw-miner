@@ -1,0 +1,17 @@
+{
+    "urlName": "core-manipulator",
+    "url": "http://aqwwiki.wikidot.com/core-manipulator",
+    "name": "Core Manipulator",
+    "type": "armors",
+    "description": "Your proximity to the Mana Core has transmuted your form into a half-human, half-mana elemental!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/core-manipulator/CoreManipulatorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/core-manipulator/CoreManipulatorFemale.jpg"
+    ],
+    "hash": "8abc2020e5ad8a5f95efefae78ed4917"
+}

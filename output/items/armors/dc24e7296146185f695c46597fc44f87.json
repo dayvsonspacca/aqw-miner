@@ -1,0 +1,19 @@
+{
+    "urlName": "coolest-summer-suit",
+    "url": "http://aqwwiki.wikidot.com/coolest-summer-suit",
+    "name": "Coolest Summer Suit",
+    "type": "armors",
+    "description": "Grab your SPF 9000 and hit the sands of Lore, beach bunnies and surfer dudes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/KHLSqEn.png",
+        "http://i.imgur.com/b2zju2w.png",
+        "http://aqwwiki.wdfiles.com/local--files/coolest-summer-suit/CoolestSummerSuitOldM.png",
+        "http://aqwwiki.wdfiles.com/local--files/coolest-summer-suit/CoolestSummerSuitOldF.png"
+    ],
+    "hash": "dc24e7296146185f695c46597fc44f87"
+}

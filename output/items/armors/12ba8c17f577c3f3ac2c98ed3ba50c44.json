@@ -1,0 +1,17 @@
+{
+    "urlName": "snowborn-fae-ac",
+    "url": "http://aqwwiki.wikidot.com/snowborn-fae-ac",
+    "name": "Snowborn Fae (AC)",
+    "type": "armors",
+    "description": "Enchanted by the fairies in the Northlands, though this doesn't appear warm, you will never grow cold in it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/LS0dZgF.png",
+        "https://i.imgur.com/pW7rZDt.png"
+    ],
+    "hash": "12ba8c17f577c3f3ac2c98ed3ba50c44"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "crimson-crewmember-ac",
+    "url": "http://aqwwiki.wikidot.com/crimson-crewmember-ac",
+    "name": "Crimson Crewmember (AC)",
+    "type": "armors",
+    "description": "New matey's need to earn respect so get busy swabbin' the deck!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/jhlpLTV.png",
+        "https://i.imgur.com/VL7kulW.png"
+    ],
+    "hash": "47cdc34b067ec02205feec4f080dd94c"
+}

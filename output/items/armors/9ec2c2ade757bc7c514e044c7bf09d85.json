@@ -1,0 +1,19 @@
+{
+    "urlName": "arctic-defender",
+    "url": "http://aqwwiki.wikidot.com/arctic-defender",
+    "name": "Arctic Defender",
+    "type": "armors",
+    "description": "All right stop, let's battle and defend. Ice is back to fight til the end. To the extreme I rock the cold like a villain, light up the field then sit back chillin'.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/K5Ltxaw.png",
+        "http://i.imgur.com/EYpXmcf.png",
+        "http://i.imgur.com/BBwcuUR.png"
+    ],
+    "hash": "9ec2c2ade757bc7c514e044c7bf09d85"
+}

@@ -1,0 +1,20 @@
+{
+    "urlName": "brightoak-avenger-armor",
+    "url": "http://aqwwiki.wikidot.com/brightoak-avenger-armor",
+    "name": "Brightoak Avenger Armor",
+    "type": "armors",
+    "description": "BrightOak knights are defenders of Oneira, a citadel tucked in a mystical forest where emeralds are common sight. Because they have a powerful connection to the light, the cut emeralds that make up the armor must be light as the sky.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-avenger-armor/BrightoakAvenger29Oct18M.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-avenger-armor/BrightoakAvengerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-avenger-armor/BrightoakAvenger29Oct18F.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-avenger-armor/BrightoakAvengerF.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-avenger-armor/BrightoakAvengerOld.png"
+    ],
+    "hash": "414ee34a2af5fa59f0145347b5040151"
+}

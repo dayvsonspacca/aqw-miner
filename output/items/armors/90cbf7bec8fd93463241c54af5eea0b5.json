@@ -1,0 +1,17 @@
+{
+    "urlName": "solaris-redeemer",
+    "url": "http://aqwwiki.wikidot.com/solaris-redeemer",
+    "name": "Solaris Redeemer",
+    "type": "armors",
+    "description": "The Solaris are members of a clan that worship the sun. Redeemers do not partake in the hunt for Sol and Luna. They seek to capture members of the Lunaris to make them see the real Light.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/7yJKkfV.png",
+        "https://imgur.com/J5x29Q4.png"
+    ],
+    "hash": "90cbf7bec8fd93463241c54af5eea0b5"
+}

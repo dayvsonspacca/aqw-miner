@@ -1,0 +1,21 @@
+{
+    "urlName": "archfiend-armor-1",
+    "url": "http://aqwwiki.wikidot.com/archfiend-armor-1",
+    "name": "Archfiend Armor (1)",
+    "type": "armors",
+    "description": "Four eyes. All the better to see you with.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-armor-1/ArchfiendArmorMaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-armor-1/ArchfiendArmorMaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-armor-1/ArchfiendArmorMaleOlder.png",
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-armor-1/ArchfiendArmorFemaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-armor-1/ArchfiendArmorFemaleOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-armor-1/ArchfiendArmorFemaleOlder.png"
+    ],
+    "hash": "5ecb01692731b81c5b03009ff808c5ca"
+}

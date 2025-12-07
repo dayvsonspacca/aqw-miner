@@ -1,0 +1,16 @@
+{
+    "urlName": "eros-outfit",
+    "url": "http://aqwwiki.wikidot.com/eros-outfit",
+    "name": "Eros' Outfit",
+    "type": "armors",
+    "description": "If you ever wanted to look like a cross between Cupid and a Mad Scientist, here's your chance!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/YiAQh5x.png",
+        "https://imgur.com/9aV2Sux.png"
+    ],
+    "hash": "a893631c1019144d6f9413aa82e8ebdf"
+}

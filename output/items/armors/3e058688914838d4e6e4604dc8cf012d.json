@@ -1,0 +1,16 @@
+{
+    "urlName": "twisted-jester",
+    "url": "http://aqwwiki.wikidot.com/twisted-jester",
+    "name": "Twisted Jester",
+    "type": "armors",
+    "description": "You mock my pain! Life is pain, anyone who says otherwise is obviously selling something!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Kni1p5b.png",
+        "https://i.imgur.com/nZAUjk5.png"
+    ],
+    "hash": "3e058688914838d4e6e4604dc8cf012d"
+}

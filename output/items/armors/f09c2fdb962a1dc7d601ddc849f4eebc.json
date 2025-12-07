@@ -1,0 +1,18 @@
+{
+    "urlName": "blood-sorcerer",
+    "url": "http://aqwwiki.wikidot.com/blood-sorcerer",
+    "name": "Blood Sorcerer",
+    "type": "armors",
+    "description": "Annihilate your enemies as a Blood Sorcerer, and make them tremble at the power of your terrifying blood magic!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-sorcerer/BloodSorcererM.png",
+        "http://aqwwiki.wdfiles.com/local--files/blood-sorcerer/BloodSorcererF.png"
+    ],
+    "hash": "f09c2fdb962a1dc7d601ddc849f4eebc"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "grunge-gear",
+    "url": "http://aqwwiki.wikidot.com/grunge-gear",
+    "name": "Grunge Gear",
+    "type": "armors",
+    "description": "They call it grunge, we call it AWESOME. You and your flannel will have a blast at any concert.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8XelVER.png",
+        "https://i.imgur.com/3k9Cw9W.png"
+    ],
+    "hash": "ead0e2e9f7ad31554b99530f66a2e22c"
+}

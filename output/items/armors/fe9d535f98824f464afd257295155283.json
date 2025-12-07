@@ -1,0 +1,17 @@
+{
+    "urlName": "presence-of-nulgath-ac",
+    "url": "http://aqwwiki.wikidot.com/presence-of-nulgath-ac",
+    "name": "Presence of Nulgath (AC)",
+    "type": "armors",
+    "description": "The veterans of the Nation don't need pomp and circumstance. Their simple presence alone rallies armies of Fiends to gather and revel in destruction.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/e6oVJwO.png",
+        "https://i.imgur.com/d7EiCYc.png"
+    ],
+    "hash": "fe9d535f98824f464afd257295155283"
+}

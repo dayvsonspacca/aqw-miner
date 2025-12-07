@@ -1,0 +1,18 @@
+{
+    "urlName": "duality-mage",
+    "url": "http://aqwwiki.wikidot.com/duality-mage",
+    "name": "Duality Mage",
+    "type": "armors",
+    "description": "Are you good? Are you evil? Sometimes it's hard to tell after spending so much time in the Mirror Realm. Click to change your alignment!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/NsrnB2e.png",
+        "http://i.imgur.com/6u3xcUs.png",
+        "http://i.imgur.com/p60RS8K.png",
+        "http://i.imgur.com/dovq76V.png"
+    ],
+    "hash": "58617d5e4e33fa05c9d4150af31d7097"
+}

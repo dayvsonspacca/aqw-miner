@@ -1,0 +1,17 @@
+{
+    "urlName": "stoneager",
+    "url": "http://aqwwiki.wikidot.com/stoneager",
+    "name": "StoneAger",
+    "type": "armors",
+    "description": "The earliest humans hunted, fished, and gathered to eke out a primitive existence. Many things separated them from their prey, but one of the most telling signs of their humanity was the ability to create\u2026 Art!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/stoneager/StoneagerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/stoneager/StoneagerF.png"
+    ],
+    "hash": "fee43b6d8a2f293681af08701e44e216"
+}

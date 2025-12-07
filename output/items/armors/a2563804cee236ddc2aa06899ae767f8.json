@@ -1,0 +1,18 @@
+{
+    "urlName": "dread-crewmember-ac",
+    "url": "http://aqwwiki.wikidot.com/dread-crewmember-ac",
+    "name": "Dread Crewmember (AC)",
+    "type": "armors",
+    "description": "Are ya scurry landlubber, better get this ship saillin' before the captain makes ye swab the deck or worse.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WLWxOua.png",
+        "https://i.imgur.com/eOF7XJM.png",
+        "http://aqwwiki.wdfiles.com/local--resized-images/dread-crewmember-ac//medium.jpg"
+    ],
+    "hash": "a2563804cee236ddc2aa06899ae767f8"
+}

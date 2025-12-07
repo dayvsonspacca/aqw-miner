@@ -1,0 +1,17 @@
+{
+    "urlName": "solar-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/solar-naval-commander",
+    "name": "Solar Naval Commander",
+    "type": "armors",
+    "description": "Solarmancers usually wear this illuminating uniform to light their way through a dark storm when setting sail at night. Some say that the sunlight coming from the uniform can lead its wearer to safety in a situation that seems inescapable.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9JuaHar.png",
+        "http://aqwwiki.wdfiles.com/local--files/solar-naval-commander/SolarNavalCommF.png"
+    ],
+    "hash": "53daa94e164252e1da5110622a2e1bd1"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chronomancer-of-lore",
+    "url": "http://aqwwiki.wikidot.com/chronomancer-of-lore",
+    "name": "Chronomancer of Lore",
+    "type": "armors",
+    "description": "Chronomancers who believe that Lore is the center of the universe and the birth of time. They research madly, locked into the theory that Battleon was the start of it all.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/e2j5npi.png",
+        "https://i.imgur.com/erHyVfk.png"
+    ],
+    "hash": "8596424e4948dd80f153dd2e291a036e"
+}

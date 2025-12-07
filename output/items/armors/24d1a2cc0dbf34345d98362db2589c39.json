@@ -1,0 +1,17 @@
+{
+    "urlName": "cloaked-deathwalker-ac",
+    "url": "http://aqwwiki.wikidot.com/cloaked-deathwalker-ac",
+    "name": "Cloaked Deathwalker (AC)",
+    "type": "armors",
+    "description": "There is no force greater than death. Use it to dominate your enemies.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TMEatac.png",
+        "https://i.imgur.com/zBmrjgm.png"
+    ],
+    "hash": "24d1a2cc0dbf34345d98362db2589c39"
+}

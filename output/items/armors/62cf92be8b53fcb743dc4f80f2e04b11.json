@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowstrike-champion",
+    "url": "http://aqwwiki.wikidot.com/shadowstrike-champion",
+    "name": "ShadowStrike Champion",
+    "type": "armors",
+    "description": "When there's not enough excitement in Ryostiff, then there comes a time when a black knight takes its stead, makes some mischief, and avoid getting caught.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowstrike-champion/ShadowstrikeChampionM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowstrike-champion/ShadowstrikeChampionF.png"
+    ],
+    "hash": "62cf92be8b53fcb743dc4f80f2e04b11"
+}

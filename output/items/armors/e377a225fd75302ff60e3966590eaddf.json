@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-of-nulgath-armor",
+    "url": "http://aqwwiki.wikidot.com/shadow-of-nulgath-armor",
+    "name": "Shadow of Nulgath (Armor)",
+    "type": "armors",
+    "description": "Nulgath says, \"Perhaps infiltration is more your style. Shadow Voids are beings of complete emptiness\u2026They are the rogues and spies of my legion. Beware, you cannot come back once you've walked their path. The shadow is devoid of everything. You can't trade what isn't there.\"",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-of-nulgath-armor/ShadowofNulgathM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-of-nulgath-armor/ShadowofNulgathF.png"
+    ],
+    "hash": "e377a225fd75302ff60e3966590eaddf"
+}

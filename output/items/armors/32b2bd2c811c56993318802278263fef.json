@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-warrior",
+    "url": "http://aqwwiki.wikidot.com/dark-warrior",
+    "name": "Dark Warrior",
+    "type": "armors",
+    "description": "For fighting your way through the crowds waiting to get that 3D TV for $100\u2026",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/VE52ocN.png",
+        "https://i.imgur.com/mfCoP82.png"
+    ],
+    "hash": "32b2bd2c811c56993318802278263fef"
+}

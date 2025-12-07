@@ -1,0 +1,17 @@
+{
+    "urlName": "starborn-mage",
+    "url": "http://aqwwiki.wikidot.com/starborn-mage",
+    "name": "Starborn Mage",
+    "type": "armors",
+    "description": "\ufeffOut of the darkness, first one light can be seen, then another, then another, as the Starborn Mage draws upon the power of the celestial bodies that move through the universe.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/P6xIFba.png",
+        "https://i.imgur.com/hpsXxCR.png"
+    ],
+    "hash": "8932cfeda8a821526b2d1d0919196a00"
+}

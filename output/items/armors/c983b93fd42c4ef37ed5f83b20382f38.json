@@ -1,0 +1,17 @@
+{
+    "urlName": "prismodian-guard",
+    "url": "http://aqwwiki.wikidot.com/prismodian-guard",
+    "name": "Prismodian Guard",
+    "type": "armors",
+    "description": "The colorfully elite unit of the Shadowscythe Army, used mostly for guarding VIPs or putting down rebellions.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tQUSlDk.png",
+        "https://i.imgur.com/sFP6HwG.png"
+    ],
+    "hash": "c983b93fd42c4ef37ed5f83b20382f38"
+}

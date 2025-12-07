@@ -1,0 +1,17 @@
+{
+    "urlName": "dragon-stormrunner",
+    "url": "http://aqwwiki.wikidot.com/dragon-stormrunner",
+    "name": "Dragon Stormrunner",
+    "type": "armors",
+    "description": "Garbed in this armor, you can face a flight of dragons or the fiercest storm without fear or hope of defeat!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-stormrunner/DragonStormrunnerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-stormrunner/DragonStormrunnerFemale.png"
+    ],
+    "hash": "4f6bf84b0366e4c308c32c124942cf70"
+}

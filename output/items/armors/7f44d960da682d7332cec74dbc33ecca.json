@@ -1,0 +1,16 @@
+{
+    "urlName": "brilliant-sorceress",
+    "url": "http://aqwwiki.wikidot.com/brilliant-sorceress",
+    "name": "Brilliant Sorceress",
+    "type": "armors",
+    "description": "So scarlet red isn't your color? Well thankfully the Sorceress had some other colors made.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brilliant-sorceress/BrilliantSorc.png"
+    ],
+    "hash": "7f44d960da682d7332cec74dbc33ecca"
+}

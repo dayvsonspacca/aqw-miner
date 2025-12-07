@@ -1,0 +1,17 @@
+{
+    "urlName": "code-of-the-origins",
+    "url": "http://aqwwiki.wikidot.com/code-of-the-origins",
+    "name": "Code of the Origins",
+    "type": "armors",
+    "description": "WHOA! I know Kung fu\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/code-of-the-origins/CodeoftheOriginsMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/code-of-the-origins/CodeoftheOriginsFemale.png"
+    ],
+    "hash": "f0076428d93bdd35724e420f2c51a7e0"
+}

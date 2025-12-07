@@ -1,0 +1,16 @@
+{
+    "urlName": "skysciencer",
+    "url": "http://aqwwiki.wikidot.com/skysciencer",
+    "name": "SkySciencer",
+    "type": "armors",
+    "description": "As a scholar in the SkyGuard, you are the brains rather that",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/x0eWuGY.png",
+        "http://i.imgur.com/cPWgoBh.png"
+    ],
+    "hash": "44b6eb66139b079d4246ab51f692ef3c"
+}

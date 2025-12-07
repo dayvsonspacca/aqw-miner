@@ -1,0 +1,16 @@
+{
+    "urlName": "skinwalker-druid",
+    "url": "http://aqwwiki.wikidot.com/skinwalker-druid",
+    "name": "SkinWalker Druid",
+    "type": "armors",
+    "description": "With the ability to turn into any animal at all, SkinWalkers have been around for thousands of years, lurking in the shadows of the forest.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/FpCQ5DI.png",
+        "https://i.imgur.com/zzwdYYi.png"
+    ],
+    "hash": "625e5a56e8411649bd6132dab1f6da36"
+}

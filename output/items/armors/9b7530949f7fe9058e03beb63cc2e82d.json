@@ -1,0 +1,17 @@
+{
+    "urlName": "dragon-hunter-armor",
+    "url": "http://aqwwiki.wikidot.com/dragon-hunter-armor",
+    "name": "Dragon Hunter (Armor)",
+    "type": "armors",
+    "description": "This dragon fight cannot drag on any longer! Harness the Dragon's imperial power and incomparable strength as you unleash the Dragon Hunter within! Color Customizable to your Base and Trim color, too!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-hunter-armor/DragonHunterMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-hunter-armor/DragonHunterFemale.png"
+    ],
+    "hash": "9b7530949f7fe9058e03beb63cc2e82d"
+}

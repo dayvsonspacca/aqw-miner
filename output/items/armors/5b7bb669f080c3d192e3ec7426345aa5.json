@@ -1,0 +1,21 @@
+{
+    "urlName": "shadowkage",
+    "url": "http://aqwwiki.wikidot.com/shadowkage",
+    "name": "ShadowKage",
+    "type": "armors",
+    "description": "The ShadowKage have the power to coalesce lightning from the air around them.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/6MenCfP.png",
+        "https://i.imgur.com/XYOZFf8.png",
+        "https://i.imgur.com/LOR8BGB.png",
+        "https://i.imgur.com/c1DeA7p.png",
+        "https://i.imgur.com/RvnpMcV.png",
+        "https://i.imgur.com/UNvYwWs.png"
+    ],
+    "hash": "5b7bb669f080c3d192e3ec7426345aa5"
+}

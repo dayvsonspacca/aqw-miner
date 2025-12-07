@@ -1,0 +1,17 @@
+{
+    "urlName": "shub-thalassarath-pirate-ac",
+    "url": "http://aqwwiki.wikidot.com/shub-thalassarath-pirate-ac",
+    "name": "Shub Thalassarath Pirate (AC)",
+    "type": "armors",
+    "description": "\ufeff\ufeffPirates who appear when the sunset flashes green. Feared and reviled, they are said to carry a piece of a wrathful undead sea monster's heart in their chest. It spreads as the pirate's greed eats the sea.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/bJk42aQ.png",
+        "https://imgur.com/zR0Wnv9.png"
+    ],
+    "hash": "95c43cf2972728aaf766deffbd98d96b"
+}

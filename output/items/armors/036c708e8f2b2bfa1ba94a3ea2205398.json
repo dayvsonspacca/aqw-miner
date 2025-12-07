@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonslayer-guard",
+    "url": "http://aqwwiki.wikidot.com/dragonslayer-guard",
+    "name": "DragonSlayer Guard",
+    "type": "armors",
+    "description": "With constant attacks from dragons, these guards devote their lives to protecting Ashfall.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Et6Xtr5.png",
+        "http://i.imgur.com/f4DMDTl.png",
+        "http://i.imgur.com/SQeRmdq.png"
+    ],
+    "hash": "036c708e8f2b2bfa1ba94a3ea2205398"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "spicy-town",
+    "url": "http://aqwwiki.wikidot.com/spicy-town",
+    "name": "Spicy Town",
+    "type": "armors",
+    "description": "Let the Fiery Dude take you all the way to Spicy Town!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Z908psZ.png",
+        "https://i.imgur.com/zms0lNv.png"
+    ],
+    "hash": "b4bec295aad2fcdda2e0178c4fb354c7"
+}

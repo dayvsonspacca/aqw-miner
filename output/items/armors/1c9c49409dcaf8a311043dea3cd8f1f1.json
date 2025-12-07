@@ -1,0 +1,17 @@
+{
+    "urlName": "silphium-alchemist",
+    "url": "http://aqwwiki.wikidot.com/silphium-alchemist",
+    "name": "Silphium Alchemist",
+    "type": "armors",
+    "description": "Don't underestimate the power of love. Spells and potions that deal with matters of the heart can build civilizations, or destroy them. The Silphium Alchemist specializes in this ancient magic, and has the charm to match.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7luUBhL.png",
+        "https://i.imgur.com/8VJQhNw.png"
+    ],
+    "hash": "1c9c49409dcaf8a311043dea3cd8f1f1"
+}

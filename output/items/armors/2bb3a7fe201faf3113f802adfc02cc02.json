@@ -1,0 +1,17 @@
+{
+    "urlName": "assassin-armor",
+    "url": "http://aqwwiki.wikidot.com/assassin-armor",
+    "name": "Assassin Armor",
+    "type": "armors",
+    "description": "Much like a ninja, an assassin is stealthy and quick.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/VPTVA38.png",
+        "http://i.imgur.com/ug2fmHh.png"
+    ],
+    "hash": "2bb3a7fe201faf3113f802adfc02cc02"
+}

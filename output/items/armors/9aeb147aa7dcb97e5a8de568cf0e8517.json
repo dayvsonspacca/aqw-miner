@@ -1,0 +1,18 @@
+{
+    "urlName": "dragon-rider",
+    "url": "http://aqwwiki.wikidot.com/dragon-rider",
+    "name": "Dragon Rider",
+    "type": "armors",
+    "description": "Why ride a horse, hitch a ride on a chariot, or book it on foot when you can ride a DRAGON. Battling just got better, ladies and gentlemen. Much better.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-rider/DragonRiderMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-rider/DragonRiderFemaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-rider/DragonRiderFemaleO.png"
+    ],
+    "hash": "9aeb147aa7dcb97e5a8de568cf0e8517"
+}

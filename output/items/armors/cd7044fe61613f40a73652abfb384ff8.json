@@ -1,0 +1,17 @@
+{
+    "urlName": "summer-uniform",
+    "url": "http://aqwwiki.wikidot.com/summer-uniform",
+    "name": "Summer Uniform",
+    "type": "armors",
+    "description": "A wise hero knows that no matter what season it is, there is always more to learn.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yB2HZrp.png",
+        "https://i.imgur.com/fV0SxZc.png"
+    ],
+    "hash": "cd7044fe61613f40a73652abfb384ff8"
+}

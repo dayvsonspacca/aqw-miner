@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-toga",
+    "url": "http://aqwwiki.wikidot.com/doom-toga",
+    "name": "Doom Toga",
+    "type": "armors",
+    "description": "Ideal for parties, formal speeches, or ruling an empire.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/YnRFmOK.png",
+        "http://i.imgur.com/d74mWmN.png"
+    ],
+    "hash": "b994aa3a84af376aa85ea012c7ef5a7d"
+}

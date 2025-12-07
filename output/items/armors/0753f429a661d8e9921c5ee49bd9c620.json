@@ -1,0 +1,17 @@
+{
+    "urlName": "silver-iron-warrior",
+    "url": "http://aqwwiki.wikidot.com/silver-iron-warrior",
+    "name": "Silver Iron Warrior",
+    "type": "armors",
+    "description": "Remember: in a fantasy game, it\u2019s always a good idea to bring a Blaster Beam to a blade fight, so become the Iron Warrior you never expected to be!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/silver-iron-warrior/SilverIronWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/silver-iron-warrior/SilverIronWarriorF.png"
+    ],
+    "hash": "0753f429a661d8e9921c5ee49bd9c620"
+}

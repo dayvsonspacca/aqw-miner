@@ -1,0 +1,18 @@
+{
+    "urlName": "combo-breaker-armor",
+    "url": "http://aqwwiki.wikidot.com/combo-breaker-armor",
+    "name": "Combo Breaker (Armor)",
+    "type": "armors",
+    "description": "C-c-c-c-COMBO BREAKER! You unlocked the Combo Breaker set when you bought an Artix Game Card from Gamestop. Game On!",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/combo-breaker-armor/ComboBreakerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/combo-breaker-armor/ComboBreakerF.png"
+    ],
+    "hash": "eae1341a29912b55577b18d1a840e50d"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "rustbucket-armor",
+    "url": "http://aqwwiki.wikidot.com/rustbucket-armor",
+    "name": "Rustbucket Armor",
+    "type": "armors",
+    "description": "For those times when you feel like a bucket of bolts.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://imgur.com/NLgRkE6.png",
+        "https://i.imgur.com/hc6b7Rv.png"
+    ],
+    "hash": "df84bd5c1f3609e2742c92dfb4b4bb0d"
+}

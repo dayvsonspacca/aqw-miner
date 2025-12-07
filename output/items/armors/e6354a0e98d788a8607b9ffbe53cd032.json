@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-deathrider-ac",
+    "url": "http://aqwwiki.wikidot.com/cyber-deathrider-ac",
+    "name": "Cyber Deathrider (AC)",
+    "type": "armors",
+    "description": "The only thing worse than a Death Rider is a Rider with road rage.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1YJ7oHX.png",
+        "https://i.imgur.com/H0T0FuU.png"
+    ],
+    "hash": "e6354a0e98d788a8607b9ffbe53cd032"
+}

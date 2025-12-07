@@ -1,0 +1,17 @@
+{
+    "urlName": "coin-collector",
+    "url": "http://aqwwiki.wikidot.com/coin-collector",
+    "name": "Coin Collector",
+    "type": "armors",
+    "description": "Sent from a distant galaxy, this traveler is hunting the most dangerous prey of all\u2026 The chocolate coin.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/qxOhqe0.png",
+        "https://i.imgur.com/xC6lJNO.png",
+        "http://i.imgur.com/3hYJI7w.png"
+    ],
+    "hash": "5d69518936b37c3e3fb0e5bdea551304"
+}

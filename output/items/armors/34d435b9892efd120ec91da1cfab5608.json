@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-swat",
+    "url": "http://aqwwiki.wikidot.com/skyguard-swat",
+    "name": "Skyguard SWAT",
+    "type": "armors",
+    "description": "Join the SkyGuard SWAT team - the premiere Security Wipeout and Takedown unit in lore!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/FX5bGeO.png",
+        "http://i.imgur.com/V0sKtsb.png"
+    ],
+    "hash": "34d435b9892efd120ec91da1cfab5608"
+}

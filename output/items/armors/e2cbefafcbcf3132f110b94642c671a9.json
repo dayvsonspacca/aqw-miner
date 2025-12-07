@@ -1,0 +1,16 @@
+{
+    "urlName": "crimson-fiend",
+    "url": "http://aqwwiki.wikidot.com/crimson-fiend",
+    "name": "Crimson Fiend",
+    "type": "armors",
+    "description": "You stalk the night, taking down prey before they even know you're there. And you look FANTASTIC doing it!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crimson-fiend/CrimsonFiendM.png",
+        "http://aqwwiki.wdfiles.com/local--files/crimson-fiend/CrimsonFiendF.png"
+    ],
+    "hash": "e2cbefafcbcf3132f110b94642c671a9"
+}

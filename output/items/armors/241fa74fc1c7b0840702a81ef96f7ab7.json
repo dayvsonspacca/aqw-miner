@@ -1,0 +1,17 @@
+{
+    "urlName": "boiling-water-elemental",
+    "url": "http://aqwwiki.wikidot.com/boiling-water-elemental",
+    "name": "Boiling Water Elemental",
+    "type": "armors",
+    "description": "This elemental has been in the summer sun too long!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/pkSRwun.png",
+        "https://i.imgur.com/E4Mp1if.png"
+    ],
+    "hash": "241fa74fc1c7b0840702a81ef96f7ab7"
+}

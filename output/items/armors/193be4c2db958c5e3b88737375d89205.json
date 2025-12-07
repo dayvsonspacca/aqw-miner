@@ -1,0 +1,18 @@
+{
+    "urlName": "chaotic-timemaster",
+    "url": "http://aqwwiki.wikidot.com/chaotic-timemaster",
+    "name": "Chaotic Timemaster",
+    "type": "armors",
+    "description": "A Chronomancer can rise to the level of TimeMaster with enough skill and power but with Chaos and Time at your command the task was simple for you.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaotic-timemaster/ChaoticTimemasterMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chaotic-timemaster/ChaoticTimemasterFemale.png"
+    ],
+    "hash": "193be4c2db958c5e3b88737375d89205"
+}

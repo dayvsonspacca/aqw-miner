@@ -1,0 +1,17 @@
+{
+    "urlName": "forsaken-invoker-ac",
+    "url": "http://aqwwiki.wikidot.com/forsaken-invoker-ac",
+    "name": "Forsaken Invoker (AC)",
+    "type": "armors",
+    "description": "Practicing necromancy for so long eroded their flesh and bones. What remains is purely a conduit to summon abominations from the Underworld.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/MkAoqDS.png",
+        "https://imgur.com/Z3aFQhw.png"
+    ],
+    "hash": "ffeed1c77610c7f34523c4174f344be9"
+}

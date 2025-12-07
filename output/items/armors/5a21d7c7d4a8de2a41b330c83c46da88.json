@@ -1,0 +1,17 @@
+{
+    "urlName": "cursed-deckstalker",
+    "url": "http://aqwwiki.wikidot.com/cursed-deckstalker",
+    "name": "Cursed Deckstalker",
+    "type": "armors",
+    "description": "Once simple pirates these now cursed souls sail the darkest deeps of the seas looking for souls to harvest.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/Odx5ISh.png",
+        "https://i.imgur.com/rfTMkIi.png"
+    ],
+    "hash": "5a21d7c7d4a8de2a41b330c83c46da88"
+}

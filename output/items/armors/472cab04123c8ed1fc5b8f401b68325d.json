@@ -1,0 +1,17 @@
+{
+    "urlName": "loyalist-varsity-team",
+    "url": "http://aqwwiki.wikidot.com/loyalist-varsity-team",
+    "name": "Loyalist Varsity Team",
+    "type": "armors",
+    "description": "Rah rah rah! Go Loyalists!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/jdcKlxR.png",
+        "http://i.imgur.com/ZawuiLi.png"
+    ],
+    "hash": "472cab04123c8ed1fc5b8f401b68325d"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "armure-l-amour-legend",
+    "url": "http://aqwwiki.wikidot.com/armure-l-amour-legend",
+    "name": "Armure l'Amour (Legend)",
+    "type": "armors",
+    "description": "For those who don't always want to wear their hearts on their sleeves. (Now it's on your gauntlet!)",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mp7bFll.png",
+        "https://i.imgur.com/4dxjPN1.png",
+        "https://i.imgur.com/O6eBuaw.png",
+        "https://i.imgur.com/0rw9GBd.png"
+    ],
+    "hash": "aae2c0c3affffb6fdbe2f7dca2a4cc50"
+}

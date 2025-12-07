@@ -1,0 +1,17 @@
+{
+    "urlName": "bluddron-morph",
+    "url": "http://aqwwiki.wikidot.com/bluddron-morph",
+    "name": "Bluddron Morph",
+    "type": "armors",
+    "description": "The armor of Bluddron, the hideous beast who gave Beleen a Heroes Heart Day she'll never forget.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bluddron-morph/BluddronMorphM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bluddron-morph/BluddronMorphF.png"
+    ],
+    "hash": "6935d7a70bc6ed6e38a0b1405c6776ea"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "enchanted-lady-lua",
+    "url": "http://aqwwiki.wikidot.com/enchanted-lady-lua",
+    "name": "Enchanted Lady Lua",
+    "type": "armors",
+    "description": "Lady Lua hails from a region of Yokai Isle famed for its white tigers and black bamboo. She rules her ancestral lands with a blend of wisdom and tigerish ferocity. (Item is color-customizable)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/tobdVsV.png"
+    ],
+    "hash": "a27db1b87739a030d04b9da8111cfa8f"
+}

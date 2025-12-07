@@ -1,0 +1,16 @@
+{
+    "urlName": "starlord-armor",
+    "url": "http://aqwwiki.wikidot.com/starlord-armor",
+    "name": "StarLord Armor",
+    "type": "armors",
+    "description": "StarLords can withstand massive damage when protected by their ballistic armor. (color customizable)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Special Offer"
+    ],
+    "images": [
+        "http://imgur.com/M6JiUK3.png",
+        "http://imgur.com/4It7Ay7.png"
+    ],
+    "hash": "88c521fccd1825b24b5cab350ffb873a"
+}

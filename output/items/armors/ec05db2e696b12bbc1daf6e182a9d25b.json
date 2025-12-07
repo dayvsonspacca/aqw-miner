@@ -1,0 +1,16 @@
+{
+    "urlName": "mysterious-sprites",
+    "url": "http://aqwwiki.wikidot.com/mysterious-sprites",
+    "name": "Mysterious Sprites",
+    "type": "armors",
+    "description": "Will you succumb to Darkness? Do you think that, by embracing it, you will be safe from what comes?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/qLK7D8g.png",
+        "http://i.imgur.com/AGmNqVB.png"
+    ],
+    "hash": "ec05db2e696b12bbc1daf6e182a9d25b"
+}

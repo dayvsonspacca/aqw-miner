@@ -1,0 +1,17 @@
+{
+    "urlName": "crypthacker-unbound",
+    "url": "http://aqwwiki.wikidot.com/crypthacker-unbound",
+    "name": "CryptHacker Unbound",
+    "type": "armors",
+    "description": "01000100\u00a001001111\u00a001001111\u00a001001101\u00a000100000\u00a001010111\u00a001001001\u00a001001100\u00a001001100\u00a000100000\u00a001010010\u00a001010101\u00a001001100\u00a001000101",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/KPOfpNp.png",
+        "https://i.imgur.com/iPl0g4o.png"
+    ],
+    "hash": "c3da2372820121f62d52b568a36c6fcd"
+}

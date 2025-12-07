@@ -1,0 +1,17 @@
+{
+    "urlName": "pumpkin-warlock",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-warlock",
+    "name": "Pumpkin Warlock",
+    "type": "armors",
+    "description": "A fanciful practitioner of magic and trickery. Villages welcome them and their silly pumpkin familiars, unaware that these powerful warlocks trap ghosts, powerful spirits, and dark entities in squash.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/RchPpgW.png",
+        "https://i.imgur.com/gODyqLZ.png"
+    ],
+    "hash": "c4ba542c338e3d5f691bf0e27f1cc7d7"
+}

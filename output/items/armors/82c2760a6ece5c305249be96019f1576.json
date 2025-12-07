@@ -1,0 +1,17 @@
+{
+    "urlName": "lords-of-the-shadow",
+    "url": "http://aqwwiki.wikidot.com/lords-of-the-shadow",
+    "name": "Lords of the Shadow",
+    "type": "armors",
+    "description": "Shadows tremble in the wake of their lords!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7pVjVvO.png",
+        "https://i.imgur.com/fBEgWf7.png"
+    ],
+    "hash": "82c2760a6ece5c305249be96019f1576"
+}

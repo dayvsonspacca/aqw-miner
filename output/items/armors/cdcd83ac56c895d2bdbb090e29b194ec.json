@@ -1,0 +1,17 @@
+{
+    "urlName": "swordhaven-cleric",
+    "url": "http://aqwwiki.wikidot.com/swordhaven-cleric",
+    "name": "Swordhaven Cleric",
+    "type": "armors",
+    "description": "Clerics raised and trained in Swordhaven, a Kingdom that protects the weak and the trapped. They are a welcome sight in every home, castle, and even prisons. Everyone has a right to be healed and live well. (CC to Base, Trim, Accessory)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/GIa0RnI.png",
+        "https://imgur.com/CvSkzwt.png"
+    ],
+    "hash": "cdcd83ac56c895d2bdbb090e29b194ec"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-bonedancer-legend",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-bonedancer-legend",
+    "name": "Frostlorn Bonedancer (Legend)",
+    "type": "armors",
+    "description": "The frost-crusted robes of a Frostlorn Necromancer have the bones of ice bears and the skins of felled direwolves woven into the fabric.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/jgs90bU.png",
+        "https://i.imgur.com/glnaLzQ.png"
+    ],
+    "hash": "09be8c66399b6f56d9ec6d11a4dcb7c9"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "autumniphile",
+    "url": "http://aqwwiki.wikidot.com/autumniphile",
+    "name": "Autumniphile",
+    "type": "armors",
+    "description": "The season when your clothes become as comfy as knitted blankets. Fall is the season to get comy, appreciate the rare blooms, and marvel at the changing colors.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/RTqT3pF.png",
+        "https://i.imgur.com/QZKyOdF.png"
+    ],
+    "hash": "23b32821532ef51db5b2c92da1bd6090"
+}

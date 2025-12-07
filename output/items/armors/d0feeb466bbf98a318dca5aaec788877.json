@@ -1,0 +1,19 @@
+{
+    "urlName": "platinum-drakkar-knight",
+    "url": "http://aqwwiki.wikidot.com/platinum-drakkar-knight",
+    "name": "Platinum Drakkar Knight",
+    "type": "armors",
+    "description": "A Knight blessed with the magic of Dragons. Wielding their fire and might, these Warriors can even fly. They're proof of the deep connection between Humankind and Dragonkind. (Click to transform)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Pe8KZDz.png",
+        "https://i.imgur.com/YmTw7Zp.png",
+        "https://i.imgur.com/4hN7nfJ.png",
+        "https://i.imgur.com/iXhwCBf.png"
+    ],
+    "hash": "d0feeb466bbf98a318dca5aaec788877"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "straight-jacket",
+    "url": "http://aqwwiki.wikidot.com/straight-jacket",
+    "name": "Straight Jacket",
+    "type": "armors",
+    "description": "You are just to dangerous to be let loose on Lore!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/straight-jacket/StraightJacketM.png",
+        "http://aqwwiki.wdfiles.com/local--files/straight-jacket/StraightJacketF.png"
+    ],
+    "hash": "4d4f08db63ad8e5a62d8923014d7f3b9"
+}

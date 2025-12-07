@@ -1,0 +1,17 @@
+{
+    "urlName": "dread-knight-armor",
+    "url": "http://aqwwiki.wikidot.com/dread-knight-armor",
+    "name": "Dread Knight Armor",
+    "type": "armors",
+    "description": "When one achieves enough infamy, the dread and fear of the people turn into awe and fascination.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2dwDFNv.png",
+        "https://i.imgur.com/8qCZMvh.png"
+    ],
+    "hash": "535ca446c06f5dc47e75746fda1a3670"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "drow-marshal",
+    "url": "http://aqwwiki.wikidot.com/drow-marshal",
+    "name": "Drow Marshal",
+    "type": "armors",
+    "description": "You make the law. You also can break the law. Being a Drow Marshal has so many perks besides the swanky silver-embellished getup.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/drow-marshal/DrowMarshalMaleNew.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/drow-marshal/DrowMarshalMaleOld.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/drow-marshal/DrowMarshalFemale.png"
+    ],
+    "hash": "674488bb083ed403d0a1ee830fda8ba4"
+}

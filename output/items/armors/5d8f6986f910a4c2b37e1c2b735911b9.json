@@ -1,0 +1,18 @@
+{
+    "urlName": "blood-testament-corsair",
+    "url": "http://aqwwiki.wikidot.com/blood-testament-corsair",
+    "name": "Blood Testament Corsair",
+    "type": "armors",
+    "description": "They sail through seas of corpses, plundering ships for lives instead of gold. The crew of the Blood Testament chased after Siren song of battle, and sank into crimson tides and legend.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/EGEqpDJ.png",
+        "https://imgur.com/Lpg1fy0.png"
+    ],
+    "hash": "5d8f6986f910a4c2b37e1c2b735911b9"
+}

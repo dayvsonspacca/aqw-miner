@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-void-shogun",
+    "url": "http://aqwwiki.wikidot.com/shadow-void-shogun",
+    "name": "Shadow Void Shogun",
+    "type": "armors",
+    "description": "These warriors once served a ruthless emperor until the Archfiend destroyed him. Selling their souls to Nulgath they now serve a new master.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/g47Jj33.png",
+        "https://i.imgur.com/YLKpmc1.png"
+    ],
+    "hash": "4c676b807fd3906e0c286fdac64fd6e1"
+}

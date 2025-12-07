@@ -1,0 +1,17 @@
+{
+    "urlName": "classic-chunin",
+    "url": "http://aqwwiki.wikidot.com/classic-chunin",
+    "name": "Classic Chunin",
+    "type": "armors",
+    "description": "A chunin is a ninja field commander. Highly trained to attack from stealth but focusing on strength and power rather than agility and speed.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/FCp3ufo.png",
+        "https://i.imgur.com/dLOxIcH.png"
+    ],
+    "hash": "7114d50aa36c3115580715ebd8a9543f"
+}

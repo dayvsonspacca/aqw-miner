@@ -1,0 +1,17 @@
+{
+    "urlName": "swanky-enchanted-suit",
+    "url": "http://aqwwiki.wikidot.com/swanky-enchanted-suit",
+    "name": "Swanky Enchanted Suit",
+    "type": "armors",
+    "description": "\"We are but poor circus performers, it is dark and we are lost. We were told there was a village nearby that might enjoy our skills.\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Q0DpTet.png",
+        "https://i.imgur.com/bSPFayK.png"
+    ],
+    "hash": "ee46354aa5b9a748db1ddff7e68b5e5c"
+}

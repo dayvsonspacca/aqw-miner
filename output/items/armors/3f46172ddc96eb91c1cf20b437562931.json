@@ -1,0 +1,16 @@
+{
+    "urlName": "twisted-hunter-armor",
+    "url": "http://aqwwiki.wikidot.com/twisted-hunter-armor",
+    "name": "Twisted Hunter (Armor)",
+    "type": "armors",
+    "description": "The greedier of Darkovia's sellswords made gold off of trapping and terrorizing isolated villages. Eventually, it became impossible to tell the difference betwen them, and the monsters they once hunted.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/bYKBM0w.png",
+        "https://i.imgur.com/vjDrzae.png"
+    ],
+    "hash": "3f46172ddc96eb91c1cf20b437562931"
+}

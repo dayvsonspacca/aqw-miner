@@ -1,0 +1,20 @@
+{
+    "urlName": "diamond-dueler",
+    "url": "http://aqwwiki.wikidot.com/diamond-dueler",
+    "name": "Diamond Dueler",
+    "type": "armors",
+    "description": "Forget Gold\u2026 all that glitters is Diamonds! Don the Diamond Dueler armor and show the world how you helped Artix Entertainment recruit 1.3 Million new heroes!",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/X19iQAm.png",
+        "https://i.imgur.com/p3vOqWR.png",
+        "http://aqwwiki.wdfiles.com/local--files/diamond-dueler/DiamondDuelerMaleNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/diamond-dueler/DiamondDuelerMaleNewA.png",
+        "http://aqwwiki.wdfiles.com/local--files/diamond-dueler/DiamondDuelerMaleOld.png"
+    ],
+    "hash": "e4bd797fd9c5fe08c2041ae2090880fa"
+}

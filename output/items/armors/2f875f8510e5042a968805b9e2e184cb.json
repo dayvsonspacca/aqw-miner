@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonking-warrior",
+    "url": "http://aqwwiki.wikidot.com/dragonking-warrior",
+    "name": "DragonKing Warrior",
+    "type": "armors",
+    "description": "An obsidian, gold-trimmed plate of armor that was crafted in the days of King Slugwrath's reign. It is stylized to treat you as a living weapon against a dragon because swords are sometimes insufficient.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/vshCRJC.png",
+        "http://i.imgur.com/XDCQXvd.png"
+    ],
+    "hash": "2f875f8510e5042a968805b9e2e184cb"
+}

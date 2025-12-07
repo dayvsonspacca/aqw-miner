@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowslayer-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowslayer-armor",
+    "name": "Shadowslayer Armor",
+    "type": "armors",
+    "description": "Only those select few who have proven themselves to Shadowslayer elites may wear these clothes. You should be honored!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/vIp5Sdx.png",
+        "https://i.imgur.com/izMIklf.png"
+    ],
+    "hash": "de8ed56d918fcf3fa8642e2e06484ef4"
+}

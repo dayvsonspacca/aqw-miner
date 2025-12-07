@@ -1,0 +1,18 @@
+{
+    "urlName": "bounty-hunter",
+    "url": "http://aqwwiki.wikidot.com/bounty-hunter",
+    "name": "Bounty Hunter",
+    "type": "armors",
+    "description": "Turdraken has a mighty fine price on its head during this time of year. Happy Harvest 2015!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/TDRgdAt.png",
+        "http://i.imgur.com/FUUqpsn.png"
+    ],
+    "hash": "8ead9d9e5fe44f36ec0b21c586b0de5f"
+}

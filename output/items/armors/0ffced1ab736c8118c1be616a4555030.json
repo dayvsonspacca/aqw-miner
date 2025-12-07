@@ -1,0 +1,17 @@
+{
+    "urlName": "spider-witch-ac",
+    "url": "http://aqwwiki.wikidot.com/spider-witch-ac",
+    "name": "Spider Witch (AC)",
+    "type": "armors",
+    "description": "SpiderWitch. SpiderWitch. Does whatever a SpiderWitch does.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spider-witch-ac/SpiderWitchM.png",
+        "http://aqwwiki.wdfiles.com/local--files/spider-witch-ac/SpiderWitchF.png"
+    ],
+    "hash": "0ffced1ab736c8118c1be616a4555030"
+}

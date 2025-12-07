@@ -1,0 +1,16 @@
+{
+    "urlName": "dread-gunslinger",
+    "url": "http://aqwwiki.wikidot.com/dread-gunslinger",
+    "name": "Dread Gunslinger",
+    "type": "armors",
+    "description": "The real wild west is out in Doomwood and Darkovia, where silver's a need instead of a luxury. These gunslingers ride after the dead, with the dead, until they're dead.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/WmuKptb.png",
+        "https://i.imgur.com/jIFbiQ4.png"
+    ],
+    "hash": "c0b0e689ccfb28e32feb33291bb84fa1"
+}

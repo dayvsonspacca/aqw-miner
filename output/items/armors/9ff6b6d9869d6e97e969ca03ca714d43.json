@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-mage-ac",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-mage-ac",
+    "name": "FrostLorn Mage (AC)",
+    "type": "armors",
+    "description": "FrostLorn mages practice their mystical skills surrounded by their mysterious brethren deep in the heart of the icy Northlands.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/i5vV50l.png",
+        "https://i.imgur.com/pVBNQSB.png"
+    ],
+    "hash": "9ff6b6d9869d6e97e969ca03ca714d43"
+}

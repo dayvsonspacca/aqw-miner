@@ -1,0 +1,16 @@
+{
+    "urlName": "astral-entity",
+    "url": "http://aqwwiki.wikidot.com/astral-entity",
+    "name": "Astral Entity",
+    "type": "armors",
+    "description": "Raw mana has taken on the form of the human body, completely encompassing you in a self-existing para-elemental plane of pure magic. Your being no longer belongs to the physical world.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/S8vgXL3.png",
+        "http://i.imgur.com/xlv2Ehc.png"
+    ],
+    "hash": "a617a3e95c2f036f9eae75d98abbc263"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-dragonlord",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-dragonlord",
+    "name": "ShadowScythe Dragonlord",
+    "type": "armors",
+    "description": "To be ShadowScythe AND a Dragonlord is truly an accomplishment not many can accomplish.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-dragonlord/SSDM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-dragonlord/SSDF.png"
+    ],
+    "hash": "7081de55ed6fd6027c5341a5d2ba7f20"
+}

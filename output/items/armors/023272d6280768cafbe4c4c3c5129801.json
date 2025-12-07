@@ -1,0 +1,16 @@
+{
+    "urlName": "evolved-solarflux",
+    "url": "http://aqwwiki.wikidot.com/evolved-solarflux",
+    "name": "Evolved Solarflux",
+    "type": "armors",
+    "description": "The evolution of Solarflux. A design inspired by your fellow player Reddy.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/AhkjWsp.png",
+        "https://i.imgur.com/edBVABL.png"
+    ],
+    "hash": "023272d6280768cafbe4c4c3c5129801"
+}

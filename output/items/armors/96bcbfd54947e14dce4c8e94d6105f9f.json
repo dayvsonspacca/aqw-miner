@@ -1,0 +1,17 @@
+{
+    "urlName": "twig-animatronic-armor",
+    "url": "http://aqwwiki.wikidot.com/twig-animatronic-armor",
+    "name": "Twig Animatronic Armor",
+    "type": "armors",
+    "description": "Don't hold it against them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DKdnE78.png",
+        "https://i.imgur.com/O8vTddH.png"
+    ],
+    "hash": "96bcbfd54947e14dce4c8e94d6105f9f"
+}

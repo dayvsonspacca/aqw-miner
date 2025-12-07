@@ -1,0 +1,16 @@
+{
+    "urlName": "cryomancer-drakonnan",
+    "url": "http://aqwwiki.wikidot.com/cryomancer-drakonnan",
+    "name": "Cryomancer Drakonnan",
+    "type": "armors",
+    "description": "Instead of fire, this Drakonnan wields the power of ice. Now isn't that cool?",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/CKYsF7o.png",
+        "http://i.imgur.com/4TiPqXW.png"
+    ],
+    "hash": "381ff5f5486c4ef7889cb632675cab7a"
+}

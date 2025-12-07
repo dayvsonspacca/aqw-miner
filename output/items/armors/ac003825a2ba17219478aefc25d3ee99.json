@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowslicer-rogue",
+    "url": "http://aqwwiki.wikidot.com/shadowslicer-rogue",
+    "name": "Shadowslicer Rogue",
+    "type": "armors",
+    "description": "Slide through the shadows stealithy to cut your enemies down before they even know you're there!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/2sQ96QY.png",
+        "http://i.imgur.com/KzRAWgY.png"
+    ],
+    "hash": "ac003825a2ba17219478aefc25d3ee99"
+}

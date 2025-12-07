@@ -1,0 +1,18 @@
+{
+    "urlName": "stargazer-armor",
+    "url": "http://aqwwiki.wikidot.com/stargazer-armor",
+    "name": "StarGazer (Armor)",
+    "type": "armors",
+    "description": "May the 4th be with you!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/ozbaUtu.png",
+        "https://i.imgur.com/XdMkmzl.png"
+    ],
+    "hash": "def59157e4766530c5c27cdebf442746"
+}

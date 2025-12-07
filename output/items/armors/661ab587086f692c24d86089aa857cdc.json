@@ -1,0 +1,16 @@
+{
+    "urlName": "spectre-techsuit",
+    "url": "http://aqwwiki.wikidot.com/spectre-techsuit",
+    "name": "Spectre Techsuit",
+    "type": "armors",
+    "description": "This armor is a part of the Spectre Set. A wonder of technology, this armor can enhance strength, speed, endurance and your senses. It might even add a few senses you never had before.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/7z7syCX.png",
+        "https://i.imgur.com/kwmXeP5.png"
+    ],
+    "hash": "661ab587086f692c24d86089aa857cdc"
+}

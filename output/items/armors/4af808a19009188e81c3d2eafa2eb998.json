@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowsleigher",
+    "url": "http://aqwwiki.wikidot.com/shadowsleigher",
+    "name": "Shadowsleigher",
+    "type": "armors",
+    "description": "SLAY bells ring, are you listenin'? (Your opponnents are, because it means you're here, and they're DOOMED!)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/aGuGOSl.png",
+        "https://i.imgur.com/QqAyCUj.png"
+    ],
+    "hash": "4af808a19009188e81c3d2eafa2eb998"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "arch-lich",
+    "url": "http://aqwwiki.wikidot.com/arch-lich",
+    "name": "Arch Lich",
+    "type": "armors",
+    "description": "Light does not always equal right. One of the most powerful magic-wielders in the Celestial Realm, the Arch Lich controls entire legions of undead reanimated with the power of Light.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JNeF4Q9.png",
+        "https://i.imgur.com/8oPfCLI.png"
+    ],
+    "hash": "15c64e3da2080d5519ea23bdcd1c6e6f"
+}

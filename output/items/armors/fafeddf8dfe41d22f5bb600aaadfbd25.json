@@ -1,0 +1,25 @@
+{
+    "urlName": "exosuit-binoku",
+    "url": "http://aqwwiki.wikidot.com/exosuit-binoku",
+    "name": "Exosuit Binoku",
+    "type": "armors",
+    "description": "This epically transforming suit will astonish your friends and terrify your foes! Click the different parts of the suit to gain blades, shining runes, or rocky shoulders!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/MN.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/MSC.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/MFC.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/MHC.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/MCC.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/FN.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/FSC.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/FFC.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/FHC.png",
+        "http://aqwwiki.wdfiles.com/local--files/exosuit-binoku/FCC.png"
+    ],
+    "hash": "fafeddf8dfe41d22f5bb600aaadfbd25"
+}

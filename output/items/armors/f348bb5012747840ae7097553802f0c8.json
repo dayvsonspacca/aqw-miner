@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-grenadier-armor",
+    "url": "http://aqwwiki.wikidot.com/skyguard-grenadier-armor",
+    "name": "SkyGuard Grenadier Armor",
+    "type": "armors",
+    "description": "Grenadiers are specially trained to lead special assault teams. They pride themselves on being the first person through the hole they just blew through the wall of an enemy fortress.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/9nVw7Ke.png",
+        "http://i.imgur.com/IMR3DmV.png"
+    ],
+    "hash": "f348bb5012747840ae7097553802f0c8"
+}

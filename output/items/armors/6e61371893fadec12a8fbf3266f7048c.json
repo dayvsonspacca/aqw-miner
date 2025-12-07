@@ -1,0 +1,14 @@
+{
+    "urlName": "static-pyro",
+    "url": "http://aqwwiki.wikidot.com/static-pyro",
+    "name": "Static Pyro",
+    "type": "armors",
+    "description": "Plasma Pyros were born from rediscovered ancient technology. They rely on consistent feed of oxygen and shadows, and will stop at nothing to fuel their rage.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/76mdjBU.png",
+        "http://i.imgur.com/bAzq9a3.png"
+    ],
+    "hash": "6e61371893fadec12a8fbf3266f7048c"
+}

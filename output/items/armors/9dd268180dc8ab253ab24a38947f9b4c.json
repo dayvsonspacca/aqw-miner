@@ -1,0 +1,17 @@
+{
+    "urlName": "cloverfield-stalker",
+    "url": "http://aqwwiki.wikidot.com/cloverfield-stalker",
+    "name": "Cloverfield Stalker",
+    "type": "armors",
+    "description": "A large suit of gold plate with a green raiment underneath. Who needs luck when you've got massive plate armor?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cloverfield-stalker/CloverfieldStalkerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/cloverfield-stalker/CloverfieldStalkerFemale.png"
+    ],
+    "hash": "9dd268180dc8ab253ab24a38947f9b4c"
+}

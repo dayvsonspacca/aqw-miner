@@ -1,0 +1,16 @@
+{
+    "urlName": "crimson-paladin-armor",
+    "url": "http://aqwwiki.wikidot.com/crimson-paladin-armor",
+    "name": "Crimson Paladin Armor",
+    "type": "armors",
+    "description": "This red plate armor will awe your opponent with it's bold color. You can only purchase this armor if you have earned the Paladin Class, not if you bought it.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/YSv9m5n.png",
+        "http://i.imgur.com/p71A8PB.png"
+    ],
+    "hash": "41ce837329b527473c31758f2dbdeb76"
+}

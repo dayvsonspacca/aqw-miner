@@ -1,0 +1,18 @@
+{
+    "urlName": "grenwog-slayer",
+    "url": "http://aqwwiki.wikidot.com/grenwog-slayer",
+    "name": "Grenwog Slayer",
+    "type": "armors",
+    "description": "You have beaten the beast! Slain the unslayable! Ground down the Grenwog! Eggcellent job!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/1Cy19V4.png",
+        "http://i.imgur.com/xgZCnC5.png"
+    ],
+    "hash": "9e22011cff5468895e351cb2a3073376"
+}

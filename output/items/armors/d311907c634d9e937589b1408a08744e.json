@@ -1,0 +1,17 @@
+{
+    "urlName": "pyrrhic-alien",
+    "url": "http://aqwwiki.wikidot.com/pyrrhic-alien",
+    "name": "Pyrrhic Alien",
+    "type": "armors",
+    "description": "The unearthly light radiating from the PyreAlien's exposed chest cavity lures its victims towards their most certain demise.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pyrrhic-alien/PyrrhicAlienM.png",
+        "http://aqwwiki.wdfiles.com/local--files/pyrrhic-alien/PyrrhicAlienF.png"
+    ],
+    "hash": "d311907c634d9e937589b1408a08744e"
+}

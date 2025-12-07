@@ -1,0 +1,16 @@
+{
+    "urlName": "darker-fiend",
+    "url": "http://aqwwiki.wikidot.com/darker-fiend",
+    "name": "Darker Fiend",
+    "type": "armors",
+    "description": "You've morphed into an even Darker Fiend, able to rip your opponents limb from limb with your claws.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darker-fiend/DarkerFiend.png"
+    ],
+    "hash": "dfac28b750f1d57f7e31365b7fea2d30"
+}

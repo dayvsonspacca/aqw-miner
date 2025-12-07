@@ -1,0 +1,16 @@
+{
+    "urlName": "frozen-fury",
+    "url": "http://aqwwiki.wikidot.com/frozen-fury",
+    "name": "Frozen Fury",
+    "type": "armors",
+    "description": "The enchanted ice built onto this armor helps keep the cold of the Northlands at bay.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/lvLpYm9.png",
+        "https://i.imgur.com/9qfY1SN.png"
+    ],
+    "hash": "c750332e992ce4730957df129d54295b"
+}

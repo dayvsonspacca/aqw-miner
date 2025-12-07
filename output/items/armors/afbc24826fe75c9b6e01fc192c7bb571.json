@@ -1,0 +1,15 @@
+{
+    "urlName": "fusobacterium",
+    "url": "http://aqwwiki.wikidot.com/fusobacterium",
+    "name": "Fusobacterium",
+    "type": "armors",
+    "description": "This bacterium cannot tell a lie. You can see right through them!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/EnKWOei.png"
+    ],
+    "hash": "afbc24826fe75c9b6e01fc192c7bb571"
+}

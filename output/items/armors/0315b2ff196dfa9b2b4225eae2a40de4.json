@@ -1,0 +1,17 @@
+{
+    "urlName": "grim-dungeon-master-legend",
+    "url": "http://aqwwiki.wikidot.com/grim-dungeon-master-legend",
+    "name": "Grim Dungeon Master (Legend)",
+    "type": "armors",
+    "description": "The fell and grim are infesting every cave and crevice in Lore. Those who follow in Grimskull's few footsteps branched out to build their own dungeons of terror.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/as8YmuG.png",
+        "https://i.imgur.com/9t46oUQ.png"
+    ],
+    "hash": "0315b2ff196dfa9b2b4225eae2a40de4"
+}

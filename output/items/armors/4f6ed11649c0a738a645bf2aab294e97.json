@@ -1,0 +1,16 @@
+{
+    "urlName": "twilly-shirt",
+    "url": "http://aqwwiki.wikidot.com/twilly-shirt",
+    "name": "Twilly Shirt",
+    "type": "armors",
+    "description": "103% Cotton-poly blend Artix Ent shirts will NOT protect you from warlords, punts or Ebilness. They WILL protect you from lack of style and bad fashion choices.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/twilly-shirt/TwillyShirtM.png",
+        "http://aqwwiki.wdfiles.com/local--files/twilly-shirt/TwillyShirtF.png"
+    ],
+    "hash": "4f6ed11649c0a738a645bf2aab294e97"
+}

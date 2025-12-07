@@ -1,0 +1,16 @@
+{
+    "urlName": "creature-10",
+    "url": "http://aqwwiki.wikidot.com/creature-10",
+    "name": "Creature 10",
+    "type": "armors",
+    "description": "This Creature was the result of an experiment that fused two different beings. The closer the original components were to each other, the deadlier and sharper the end result becomes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/BHltPyg.png",
+        "https://i.imgur.com/fFxbKz4.png"
+    ],
+    "hash": "b66d200ac8470eb7d4b81420b1df35ca"
+}

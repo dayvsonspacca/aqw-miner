@@ -1,0 +1,17 @@
+{
+    "urlName": "spartan-warrior",
+    "url": "http://aqwwiki.wikidot.com/spartan-warrior",
+    "name": "Spartan Warrior",
+    "type": "armors",
+    "description": "Get 299 of your closest friends to equip this armor and head to the hot gates! This\u2026 is\u2026.. AQWORLDS!!!!!! (color customizable )",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spartan-warrior/SWM.png",
+        "http://aqwwiki.wdfiles.com/local--files/spartan-warrior/SWF.png"
+    ],
+    "hash": "17269c943649be0bdb00fd8296601c58"
+}

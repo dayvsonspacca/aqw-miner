@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-vampire",
+    "url": "http://aqwwiki.wikidot.com/dark-vampire",
+    "name": "Dark Vampire",
+    "type": "armors",
+    "description": "The life of a vampire doesn't get much better than this. Being this bad never felt this good!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/VbuZkCg.png",
+        "http://i.imgur.com/hBfMC7O.png"
+    ],
+    "hash": "9a11422207f869d9166ab5bc85a2993d"
+}

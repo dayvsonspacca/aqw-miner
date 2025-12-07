@@ -1,0 +1,17 @@
+{
+    "urlName": "cold-playa",
+    "url": "http://aqwwiki.wikidot.com/cold-playa",
+    "name": "Cold Playa",
+    "type": "armors",
+    "description": "Oh Snap! All you need is a sundial around your neck to show what type of playa you are!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cold-playa/ColdPlayaM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cold-playa/ColdPlayaF.png"
+    ],
+    "hash": "730feea2f1ea4c5205499b5b81b92bf7"
+}

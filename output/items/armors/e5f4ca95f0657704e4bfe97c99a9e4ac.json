@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-polar-rider",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-polar-rider",
+    "name": "Frostlorn Polar Rider",
+    "type": "armors",
+    "description": "In another world, this armor was taken from a long-dead giant, found frozen and buried under a century of ice and snow.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/QVnsi9s.png",
+        "https://imgur.com/TCTR6ll.png"
+    ],
+    "hash": "e5f4ca95f0657704e4bfe97c99a9e4ac"
+}

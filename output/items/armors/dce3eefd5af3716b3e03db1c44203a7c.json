@@ -1,0 +1,16 @@
+{
+    "urlName": "lumberjack-turkey",
+    "url": "http://aqwwiki.wikidot.com/lumberjack-turkey",
+    "name": "Lumberjack Turkey",
+    "type": "armors",
+    "description": "He's a lumberjack and he don't care.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/KeVrKGk.png"
+    ],
+    "hash": "dce3eefd5af3716b3e03db1c44203a7c"
+}

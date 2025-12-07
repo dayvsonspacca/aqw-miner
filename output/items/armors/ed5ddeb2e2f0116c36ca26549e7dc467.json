@@ -1,0 +1,17 @@
+{
+    "urlName": "ascended-voidcaster-ac",
+    "url": "http://aqwwiki.wikidot.com/ascended-voidcaster-ac",
+    "name": "Ascended VoidCaster (AC)",
+    "type": "armors",
+    "description": "Those who sign Nulgath's contract gain access to the infinite wellspring of arcane energy contained within the void. Those who ascend find themselves consumed by the power.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gWM4ACs.png",
+        "https://i.imgur.com/3Ks4jX6.png"
+    ],
+    "hash": "ed5ddeb2e2f0116c36ca26549e7dc467"
+}

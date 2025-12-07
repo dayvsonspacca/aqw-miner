@@ -1,0 +1,17 @@
+{
+    "urlName": "street-skater-set",
+    "url": "http://aqwwiki.wikidot.com/street-skater-set",
+    "name": "Street Skater Set",
+    "type": "armors",
+    "description": "Hit the pavement (and the battlefield) in this laid-back, ready-to-roll streetwear. Perfect for skating, gaming, and outshining rivals.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hQVQRLh.png",
+        "https://i.imgur.com/RgmMnEz.png"
+    ],
+    "hash": "13ab7759c0b314b97fe8fb81c7c4deb4"
+}

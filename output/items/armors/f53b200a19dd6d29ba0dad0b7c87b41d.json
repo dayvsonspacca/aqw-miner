@@ -1,0 +1,17 @@
+{
+    "urlName": "enlightened-mage",
+    "url": "http://aqwwiki.wikidot.com/enlightened-mage",
+    "name": "Enlightened Mage",
+    "type": "armors",
+    "description": "Magic courses through your veins. Your arcane powers enable you to cast powerful spells.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/w4UnbZc.png",
+        "https://i.imgur.com/FuQgRe8.png"
+    ],
+    "hash": "f53b200a19dd6d29ba0dad0b7c87b41d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "spearhead-mech",
+    "url": "http://aqwwiki.wikidot.com/spearhead-mech",
+    "name": "Spearhead Mech",
+    "type": "armors",
+    "description": "The Shining Spearhead Mech. Your spear is the spear that will pierce the heavens!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/gYL0fKn.png",
+        "https://i.imgur.com/75Zcobj.png"
+    ],
+    "hash": "e11ae751ed1c20e64285869b2552239b"
+}

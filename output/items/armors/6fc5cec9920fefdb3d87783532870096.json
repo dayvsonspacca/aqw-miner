@@ -1,0 +1,18 @@
+{
+    "urlName": "cyber-rogue",
+    "url": "http://aqwwiki.wikidot.com/cyber-rogue",
+    "name": "Cyber Rogue",
+    "type": "armors",
+    "description": "One of the perks of virtual reality is blending right in if your uniform matches the color of the lit environment around you, allowing you to ambush unsuspecting rivals in unpredictable possibilities.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/nnSQ1Vc.png",
+        "https://imgur.com/J6OKdp7.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-rogue/CyberRogueM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-rogue/CyberRogueF.png"
+    ],
+    "hash": "6fc5cec9920fefdb3d87783532870096"
+}

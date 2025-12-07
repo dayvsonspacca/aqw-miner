@@ -1,0 +1,16 @@
+{
+    "urlName": "chronophoenix-guardian",
+    "url": "http://aqwwiki.wikidot.com/chronophoenix-guardian",
+    "name": "Chronophoenix Guardian",
+    "type": "armors",
+    "description": "Each year, as the Chrono-Phoenix bursts into flames, the ChronoPhoenix Guardians go and gather what remains of its old from to use in crafting their armor. They will never be out of time!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/g6CY0nU.png",
+        "https://imgur.com/dvDuzxL.png"
+    ],
+    "hash": "fe45ddd1f86f92cd552c1981507c6c31"
+}

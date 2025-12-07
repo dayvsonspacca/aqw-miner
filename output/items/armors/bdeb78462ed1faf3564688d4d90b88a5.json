@@ -1,0 +1,17 @@
+{
+    "urlName": "lycan-stalker-ac",
+    "url": "http://aqwwiki.wikidot.com/lycan-stalker-ac",
+    "name": "Lycan Stalker (AC)",
+    "type": "armors",
+    "description": "The wolves of Lore roam the forest, ready to attack the harvesters. The hunt os on and your prey is near\u2026",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8bSyKnP.png",
+        "https://i.imgur.com/oqTt5l1.png"
+    ],
+    "hash": "bdeb78462ed1faf3564688d4d90b88a5"
+}

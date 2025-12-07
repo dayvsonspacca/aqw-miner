@@ -1,0 +1,17 @@
+{
+    "urlName": "soulbinder",
+    "url": "http://aqwwiki.wikidot.com/soulbinder",
+    "name": "SoulBinder",
+    "type": "armors",
+    "description": "SoulBinders are able to harness the magical energy of souls without the aid of a Soul Ally. SoulWeavers have questioned the ethics of this practice, believing the SoulBinders to be manipulating souls against their will.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/soulbinder/SoulBinderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/soulbinder/SoulBinderF.png"
+    ],
+    "hash": "68ff86fb78ed70c1ac399640fc40b9b6"
+}

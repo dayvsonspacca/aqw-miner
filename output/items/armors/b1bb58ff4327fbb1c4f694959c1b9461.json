@@ -1,0 +1,17 @@
+{
+    "urlName": "love-weaver",
+    "url": "http://aqwwiki.wikidot.com/love-weaver",
+    "name": "Love Weaver",
+    "type": "armors",
+    "description": "PLAYER SUGGESTION: Woo your next victim with a romance based armor by Ganloth",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/love-weaver/LoveWeaverM.png",
+        "http://aqwwiki.wdfiles.com/local--files/love-weaver/LoveWeaverF.png"
+    ],
+    "hash": "b1bb58ff4327fbb1c4f694959c1b9461"
+}

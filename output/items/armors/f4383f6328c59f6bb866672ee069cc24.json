@@ -1,0 +1,17 @@
+{
+    "urlName": "guardian-o-slainte",
+    "url": "http://aqwwiki.wikidot.com/guardian-o-slainte",
+    "name": "Guardian o' Sl\u00e1inte",
+    "type": "armors",
+    "description": "May your victories outnumber the shamrocks that grow, and may rare items find you wherever you go! Happy Lucky Day, Guardian of Good Health and Fortune!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/guardian-o-slainte/Guardiano'Sl%C3%A1inteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/guardian-o-slainte/Guardiano'Sl%C3%A1inteF.png"
+    ],
+    "hash": "f4383f6328c59f6bb866672ee069cc24"
+}

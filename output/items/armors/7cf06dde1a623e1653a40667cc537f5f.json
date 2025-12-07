@@ -1,0 +1,17 @@
+{
+    "urlName": "bright-gryphon-rider",
+    "url": "http://aqwwiki.wikidot.com/bright-gryphon-rider",
+    "name": "Bright Gryphon Rider",
+    "type": "armors",
+    "description": "These Majestic Gryphons are the perfect ride for any Paladin.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bright-gryphon-rider/BrightGryphonRiderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bright-gryphon-rider/BrightGryphonRiderF.png"
+    ],
+    "hash": "7cf06dde1a623e1653a40667cc537f5f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "corrupt-sentinel",
+    "url": "http://aqwwiki.wikidot.com/corrupt-sentinel",
+    "name": "Corrupt Sentinel",
+    "type": "armors",
+    "description": "*No description*",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VaCze85.png",
+        "https://i.imgur.com/5HLyQdn.png"
+    ],
+    "hash": "175c9e89d65fa5cafa0d466294c7a738"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "cyber-mage",
+    "url": "http://aqwwiki.wikidot.com/cyber-mage",
+    "name": "Cyber Mage",
+    "type": "armors",
+    "description": "Sorcerers who don bright and pitch black robes takes being a computer wizard to a whole new level. They do not manipulate magic as they normally would for they can control pixels and the virtual world around them, sometimes in mischievous ways.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/J7Zosyx.png",
+        "https://imgur.com/1iK4ZRt.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-mage/CyberMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-mage/CyberMageF.png"
+    ],
+    "hash": "66c2ad8d26f7efb1dc18a3578882d693"
+}

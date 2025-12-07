@@ -1,0 +1,19 @@
+{
+    "urlName": "lucky-knight",
+    "url": "http://aqwwiki.wikidot.com/lucky-knight",
+    "name": "Lucky Knight",
+    "type": "armors",
+    "description": "Go forth and shine, brave hero. May the four leaf clover bring you luck and the gold of a thousand leprechaun pots fortify your resolve and strength.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/dnZYnxG.png",
+        "http://i.imgur.com/u8HJrnc.png",
+        "http://i.imgur.com/hLJUSZH.png",
+        "http://i.imgur.com/vH1jVuT.png"
+    ],
+    "hash": "7a9a312d4227e594c8d4ee44f96bc411"
+}

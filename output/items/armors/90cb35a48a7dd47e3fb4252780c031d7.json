@@ -1,0 +1,17 @@
+{
+    "urlName": "dragon-shinobi-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/dragon-shinobi-armor-ac",
+    "name": "Dragon Shinobi Armor (AC)",
+    "type": "armors",
+    "description": "Ninjas are hailed for their dexterity. Dragons are praised for their strength. And when the Ninja trains in the way of the Dragon, they shall become the Dragon Shinobi, master of brutal warfare!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-shinobi-armor-ac/DSAM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-shinobi-armor-ac/DSAF.png"
+    ],
+    "hash": "90cb35a48a7dd47e3fb4252780c031d7"
+}

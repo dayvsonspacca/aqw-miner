@@ -1,0 +1,16 @@
+{
+    "urlName": "astravian-advisor",
+    "url": "http://aqwwiki.wikidot.com/astravian-advisor",
+    "name": "Astravian Advisor",
+    "type": "armors",
+    "description": "The standard costume for the advisor to King Drago, donning the Astravian royals' white and red theme.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/B8Oy2M6.png",
+        "https://i.imgur.com/kXWG38m.png"
+    ],
+    "hash": "25b136ba7cf6cfc3e9fa6d7f999b3de4"
+}

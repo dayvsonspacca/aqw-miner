@@ -1,0 +1,16 @@
+{
+    "urlName": "cuca-s-apprentice",
+    "url": "http://aqwwiki.wikidot.com/cuca-s-apprentice",
+    "name": "Cuca's Apprentice",
+    "type": "armors",
+    "description": "Cuca has started training apprentices in order to gather more children to her side.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/v9DhCiN.png",
+        "https://i.imgur.com/QTvB5iK.png"
+    ],
+    "hash": "7bfd82ea2c3e084a3601f12e119d9c39"
+}

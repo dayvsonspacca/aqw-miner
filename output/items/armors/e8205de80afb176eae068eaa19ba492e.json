@@ -1,0 +1,16 @@
+{
+    "urlName": "detective-suit",
+    "url": "http://aqwwiki.wikidot.com/detective-suit",
+    "name": "Detective Suit",
+    "type": "armors",
+    "description": "Nice suit!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/3s1HgDh.png",
+        "http://i.imgur.com/uLym9E9.png"
+    ],
+    "hash": "e8205de80afb176eae068eaa19ba492e"
+}

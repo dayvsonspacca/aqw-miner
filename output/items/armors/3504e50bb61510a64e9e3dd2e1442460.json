@@ -1,0 +1,17 @@
+{
+    "urlName": "loyalist-team-ac",
+    "url": "http://aqwwiki.wikidot.com/loyalist-team-ac",
+    "name": "Loyalist Team (AC)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football Players",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/zbE5MxD.png",
+        "http://i.imgur.com/0gkyyEP.png"
+    ],
+    "hash": "3504e50bb61510a64e9e3dd2e1442460"
+}

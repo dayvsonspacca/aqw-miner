@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-phoenix",
+    "url": "http://aqwwiki.wikidot.com/shadow-phoenix",
+    "name": "Shadow Phoenix",
+    "type": "armors",
+    "description": "Can a shadow rise from the ashes of the great phoenix instead of a flame?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/CxBDUqt.png",
+        "https://i.imgur.com/Sc8PREE.png"
+    ],
+    "hash": "bfd6583e65f070e2fae3c19be353a369"
+}

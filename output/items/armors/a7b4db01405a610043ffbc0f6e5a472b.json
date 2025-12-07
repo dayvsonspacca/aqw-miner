@@ -1,0 +1,17 @@
+{
+    "urlName": "chimera-parasitoid",
+    "url": "http://aqwwiki.wikidot.com/chimera-parasitoid",
+    "name": "Chimera Parasitoid",
+    "type": "armors",
+    "description": "A perfect creation, fusing the deadliest weapons of multiple parasitic predators. (This item is color customizable)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/D8RhSYV.png",
+        "https://imgur.com/8CafKge.png"
+    ],
+    "hash": "a7b4db01405a610043ffbc0f6e5a472b"
+}

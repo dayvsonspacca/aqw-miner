@@ -1,0 +1,16 @@
+{
+    "urlName": "cybernetic-acolyte",
+    "url": "http://aqwwiki.wikidot.com/cybernetic-acolyte",
+    "name": "Cybernetic Acolyte",
+    "type": "armors",
+    "description": "Not your traditional Acolyte, these ones prefer to fight then talk.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/6JCHx9K.png",
+        "http://i.imgur.com/dHhxdSG.png"
+    ],
+    "hash": "1a30fe175fa862bd377b4f62dd3c74ed"
+}

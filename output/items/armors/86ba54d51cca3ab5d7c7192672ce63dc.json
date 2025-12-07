@@ -1,0 +1,17 @@
+{
+    "urlName": "silverstag-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/silverstag-warrior-ac",
+    "name": "SilverStag Warrior (AC)",
+    "type": "armors",
+    "description": "Defenders of the Northlands borders, the SilverStag Warrior Chiefs swear a binding blood oath on the horns of a slain Blight Deer to protect and serve.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/XgyLKRH.png",
+        "https://i.imgur.com/PX28Wie.png"
+    ],
+    "hash": "86ba54d51cca3ab5d7c7192672ce63dc"
+}

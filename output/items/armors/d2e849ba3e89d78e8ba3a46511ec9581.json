@@ -1,0 +1,17 @@
+{
+    "urlName": "summer-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/summer-dragonslayer",
+    "name": "Summer DragonSlayer",
+    "type": "armors",
+    "description": "Summertime is for (dragon) slaying!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5v7f2Zo.png",
+        "https://i.imgur.com/pqCD3Lt.png"
+    ],
+    "hash": "d2e849ba3e89d78e8ba3a46511ec9581"
+}

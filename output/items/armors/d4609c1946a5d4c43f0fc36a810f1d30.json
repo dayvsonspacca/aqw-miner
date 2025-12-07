@@ -1,0 +1,16 @@
+{
+    "urlName": "atlas-knight-armor",
+    "url": "http://aqwwiki.wikidot.com/atlas-knight-armor",
+    "name": "Atlas Knight (Armor)",
+    "type": "armors",
+    "description": "The Atlas Knights serve as King Zedek's loyal pride. Inspired by his dreams and fortitude, they'll pave the way for their liege's ascension, no matter how long it takes.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/fXpqzbg.png",
+        "https://i.imgur.com/hROxxTv.png"
+    ],
+    "hash": "d4609c1946a5d4c43f0fc36a810f1d30"
+}

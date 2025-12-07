@@ -1,0 +1,17 @@
+{
+    "urlName": "brightfrost-elf",
+    "url": "http://aqwwiki.wikidot.com/brightfrost-elf",
+    "name": "BrightFrost Elf",
+    "type": "armors",
+    "description": "Elves are some of the most resourceful beings in Lore. Even the colds of the Northlands cannot keep these skilled warriors away.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/oeb0D1t.png",
+        "https://i.imgur.com/2qNQvHk.png"
+    ],
+    "hash": "c597b532a37306bd231d049e7a7be5da"
+}

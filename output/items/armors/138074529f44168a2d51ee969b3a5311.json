@@ -1,0 +1,17 @@
+{
+    "urlName": "cybercore-composer-ac",
+    "url": "http://aqwwiki.wikidot.com/cybercore-composer-ac",
+    "name": "CyberCore Composer (AC)",
+    "type": "armors",
+    "description": "Orchestrate your own band of terror in Lore's first Composer Armor! (CC to accessory)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/QLOYjnx.png",
+        "https://i.imgur.com/mkPEL65.png"
+    ],
+    "hash": "138074529f44168a2d51ee969b3a5311"
+}

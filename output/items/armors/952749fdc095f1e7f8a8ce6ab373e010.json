@@ -1,0 +1,17 @@
+{
+    "urlName": "frigid-festive-wear",
+    "url": "http://aqwwiki.wikidot.com/frigid-festive-wear",
+    "name": "Frigid Festive Wear",
+    "type": "armors",
+    "description": "Dress up in winter-wear to celebrate the chilly season! The icy brooch and belt buckle enchant the clothes. Your frost won't melt even when you're watching gingerbread bake.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1p4Qp4u.png",
+        "https://i.imgur.com/EFCZ50k.png"
+    ],
+    "hash": "952749fdc095f1e7f8a8ce6ab373e010"
+}

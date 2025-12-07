@@ -1,0 +1,16 @@
+{
+    "urlName": "primal-hanzo-void",
+    "url": "http://aqwwiki.wikidot.com/primal-hanzo-void",
+    "name": "Primal Hanzo Void",
+    "type": "armors",
+    "description": "These imperial Voids of Nulgath's army possess qualities that normal primal Voids do not have, hence why they are prized by the ArchFiend.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/XRmEHT2.png"
+    ],
+    "hash": "dc83b8673f5d6d623de93c524977f87b"
+}

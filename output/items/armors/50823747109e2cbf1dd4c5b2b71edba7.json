@@ -1,0 +1,17 @@
+{
+    "urlName": "diabolical-exosuit",
+    "url": "http://aqwwiki.wikidot.com/diabolical-exosuit",
+    "name": "Diabolical Exosuit",
+    "type": "armors",
+    "description": "Crafted from melted minerals from the toughest of asteroids, this ornate exosuit will help you traverse the stars and keep your body protected from the worst of any climate.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7Sijyqu.png",
+        "https://i.imgur.com/FlkMpwC.png"
+    ],
+    "hash": "50823747109e2cbf1dd4c5b2b71edba7"
+}

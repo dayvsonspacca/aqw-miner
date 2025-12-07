@@ -1,0 +1,17 @@
+{
+    "urlName": "ashray-pyromancer",
+    "url": "http://aqwwiki.wikidot.com/ashray-pyromancer",
+    "name": "Ashray Pyromancer",
+    "type": "armors",
+    "description": "\ufeffThere is a sickness unique to the shores of Ashray, one that calls the villagers to the sea and never lets them go. Those that have studied pyromancy are able to resist its call, and handily defend their home from tentacled terrors.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/mAgDXaW.png",
+        "https://i.imgur.com/vGfagZ1.png"
+    ],
+    "hash": "1ea65a2680776a5c696293dd5272eaf7"
+}

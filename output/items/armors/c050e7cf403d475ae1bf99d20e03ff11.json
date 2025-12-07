@@ -1,0 +1,17 @@
+{
+    "urlName": "solar-pirate-commander",
+    "url": "http://aqwwiki.wikidot.com/solar-pirate-commander",
+    "name": "Solar Pirate Commander",
+    "type": "armors",
+    "description": "Sail to the ends of the universe. Stop at the restaurant or pillage it. You're a Solar pirate go where those winds take you.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/gufVXeu.png",
+        "https://i.imgur.com/Vc5gXf0.png"
+    ],
+    "hash": "c050e7cf403d475ae1bf99d20e03ff11"
+}

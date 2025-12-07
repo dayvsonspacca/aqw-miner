@@ -1,0 +1,17 @@
+{
+    "urlName": "deepdweller-pirate",
+    "url": "http://aqwwiki.wikidot.com/deepdweller-pirate",
+    "name": "DeepDweller Pirate",
+    "type": "armors",
+    "description": "Aye, the sails are set for R'lyeh! The Great Old One waits. Cthulhu fhtagn.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wo3pxpC.png",
+        "https://i.imgur.com/gsMqrso.png"
+    ],
+    "hash": "1771dd07c1d4c1899702537481c05a61"
+}

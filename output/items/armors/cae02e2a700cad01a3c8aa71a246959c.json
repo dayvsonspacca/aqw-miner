@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-varsity-gear",
+    "url": "http://aqwwiki.wikidot.com/enchanted-varsity-gear",
+    "name": "Enchanted Varsity Gear",
+    "type": "armors",
+    "description": "Show off your true colors as you /cheer for your favorite team! (Stripes are customizable to base, accessory, and trim)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7m31b37.png",
+        "https://i.imgur.com/SUFDkcZ.png"
+    ],
+    "hash": "cae02e2a700cad01a3c8aa71a246959c"
+}

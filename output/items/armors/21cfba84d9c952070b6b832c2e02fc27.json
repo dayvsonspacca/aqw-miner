@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowscythe-blademaster",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-blademaster",
+    "name": "ShadowScythe BladeMaster",
+    "type": "armors",
+    "description": "Shadowy Assassins of the Shadowssythe. Said to have trained under Empress Gravelyn and honed their skills with the Undead Legion's generals. They're faster than the flickers of Shadow, feared even by the immortal.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/7DFizkO.png",
+        "https://i.imgur.com/I4kWsQZ.png"
+    ],
+    "hash": "21cfba84d9c952070b6b832c2e02fc27"
+}

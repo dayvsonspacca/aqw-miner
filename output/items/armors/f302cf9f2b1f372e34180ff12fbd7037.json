@@ -1,0 +1,14 @@
+{
+    "urlName": "fred-armor",
+    "url": "http://aqwwiki.wikidot.com/fred-armor",
+    "name": "Fred Armor",
+    "type": "armors",
+    "description": "Whoa dudes, this armor is most excellent.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/A9etppO.png",
+        "http://i.imgur.com/w3KLbhr.png"
+    ],
+    "hash": "f302cf9f2b1f372e34180ff12fbd7037"
+}

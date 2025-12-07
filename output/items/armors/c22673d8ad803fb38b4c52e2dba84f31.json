@@ -1,0 +1,17 @@
+{
+    "urlName": "envenomed-ice-symbiote",
+    "url": "http://aqwwiki.wikidot.com/envenomed-ice-symbiote",
+    "name": "Envenomed Ice Symbiote",
+    "type": "armors",
+    "description": "What better way to survive the winter-long battles than to merge with the ice itself. Take in the cold, the frost, the bitter, biting winds and feel the cold seep into your spirit. And just when you think it can't get any better, an icy venom pierces your heart, enhancing your power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/envenomed-ice-symbiote/EnvenomedIceSymbioteM.png",
+        "http://aqwwiki.wdfiles.com/local--files/envenomed-ice-symbiote/EnvenomedIceSymbioteF.png"
+    ],
+    "hash": "c22673d8ad803fb38b4c52e2dba84f31"
+}

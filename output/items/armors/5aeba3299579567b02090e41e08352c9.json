@@ -1,0 +1,17 @@
+{
+    "urlName": "moonwalker",
+    "url": "http://aqwwiki.wikidot.com/moonwalker",
+    "name": "Moonwalker",
+    "type": "armors",
+    "description": "This special armor was designed to celebrate the 40th anniversary of humanity's first steps on the moon!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/moonwalker/MoonwalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/moonwalker/MoonwalkerF.png"
+    ],
+    "hash": "5aeba3299579567b02090e41e08352c9"
+}

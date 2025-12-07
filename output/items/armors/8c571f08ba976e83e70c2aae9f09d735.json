@@ -1,0 +1,17 @@
+{
+    "urlName": "turdraken-scale-armor",
+    "url": "http://aqwwiki.wikidot.com/turdraken-scale-armor",
+    "name": "Turdraken Scale Armor",
+    "type": "armors",
+    "description": "A sleek and impressive armor forged from the scales and beak of the rare and highly fabled Turdraken. Culinary warriors will bow to you.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/hkyYsBY.png",
+        "https://i.imgur.com/5QFgm9O.png"
+    ],
+    "hash": "8c571f08ba976e83e70c2aae9f09d735"
+}

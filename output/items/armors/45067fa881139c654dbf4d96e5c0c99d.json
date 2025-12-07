@@ -1,0 +1,16 @@
+{
+    "urlName": "greenguard-knight",
+    "url": "http://aqwwiki.wikidot.com/greenguard-knight",
+    "name": "Greenguard Knight",
+    "type": "armors",
+    "description": "Keeping the natural beauty of Greenguard safe for all!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/sKfL1iL.png",
+        "https://i.imgur.com/Mbx3jE1.png"
+    ],
+    "hash": "45067fa881139c654dbf4d96e5c0c99d"
+}

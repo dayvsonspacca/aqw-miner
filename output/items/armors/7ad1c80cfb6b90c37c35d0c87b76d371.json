@@ -1,0 +1,17 @@
+{
+    "urlName": "lorosian-hunter",
+    "url": "http://aqwwiki.wikidot.com/lorosian-hunter",
+    "name": "Lorosian Hunter",
+    "type": "armors",
+    "description": "Capable of hunting the most devious of bounties, the Lorosian Hunters were feared all through the Galaxy.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/bComKbn.png",
+        "https://i.imgur.com/skJpk1B.png"
+    ],
+    "hash": "7ad1c80cfb6b90c37c35d0c87b76d371"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "evil-dread",
+    "url": "http://aqwwiki.wikidot.com/evil-dread",
+    "name": "Evil Dread",
+    "type": "armors",
+    "description": "This is one groovy armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evil-dread/EvilDreadM.png",
+        "http://aqwwiki.wdfiles.com/local--files/evil-dread/EvilDreadF.png"
+    ],
+    "hash": "4e49d9ec577892ba24363b8cbd1ed2e4"
+}

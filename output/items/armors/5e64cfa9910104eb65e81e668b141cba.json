@@ -1,0 +1,19 @@
+{
+    "urlName": "lycan-transformation",
+    "url": "http://aqwwiki.wikidot.com/lycan-transformation",
+    "name": "Lycan Transformation",
+    "type": "armors",
+    "description": "Purebred Lycans can transform at will. You now harness this amazing power! Simply click to transform between Lycan forms.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/aktT7xL.png",
+        "https://i.imgur.com/hn1ziuk.png",
+        "https://i.imgur.com/xIHVTPb.png",
+        "https://i.imgur.com/BBNv8Lb.png"
+    ],
+    "hash": "5e64cfa9910104eb65e81e668b141cba"
+}

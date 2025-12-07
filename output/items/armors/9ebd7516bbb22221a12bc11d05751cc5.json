@@ -1,0 +1,17 @@
+{
+    "urlName": "dread-leopard-rider",
+    "url": "http://aqwwiki.wikidot.com/dread-leopard-rider",
+    "name": "Dread Leopard Rider",
+    "type": "armors",
+    "description": "These majestic Gryphons are the perfect ride for any Hero.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dread-leopard-rider/DreadLeopardRiderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dread-leopard-rider/DreadLeopardRiderF.png"
+    ],
+    "hash": "9ebd7516bbb22221a12bc11d05751cc5"
+}

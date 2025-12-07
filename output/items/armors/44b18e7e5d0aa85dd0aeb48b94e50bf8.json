@@ -1,0 +1,17 @@
+{
+    "urlName": "love-hunter",
+    "url": "http://aqwwiki.wikidot.com/love-hunter",
+    "name": "Love Hunter",
+    "type": "armors",
+    "description": "The real purpose of love hunting is uncertain, however, their green getup is an outward resemblance to their ironically loveless nature.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/love-hunter/LoveHunterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/love-hunter/LoveHunterF.png"
+    ],
+    "hash": "44b18e7e5d0aa85dd0aeb48b94e50bf8"
+}

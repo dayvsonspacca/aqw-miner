@@ -1,0 +1,14 @@
+{
+    "urlName": "dwarf-warrior",
+    "url": "http://aqwwiki.wikidot.com/dwarf-warrior",
+    "name": "Dwarf Warrior",
+    "type": "armors",
+    "description": "Standard dwarven armor.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dwarf-warrior/DwarfWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dwarf-warrior/DwarfWarriorFemale.png"
+    ],
+    "hash": "db9e2f505b35671fc7d3d0144cbeac57"
+}

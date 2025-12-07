@@ -1,0 +1,17 @@
+{
+    "urlName": "drakath-maul",
+    "url": "http://aqwwiki.wikidot.com/drakath-maul",
+    "name": "Drakath Maul",
+    "type": "armors",
+    "description": "Shunned by Light and Dark, the Sufferer walks te path between in solitude. A force beyond the fourth twisted their ambitions and despair into something truly monstrous.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9jDb1cO.png",
+        "https://i.imgur.com/vJGtgFI.png"
+    ],
+    "hash": "a86d36779b7d1a958711446d07989212"
+}

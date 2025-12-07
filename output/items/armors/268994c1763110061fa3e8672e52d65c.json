@@ -1,0 +1,16 @@
+{
+    "urlName": "frosty-armor",
+    "url": "http://aqwwiki.wikidot.com/frosty-armor",
+    "name": "Frosty Armor",
+    "type": "armors",
+    "description": "It's Frosty, the warrior\u2026 If you want to block out the cold, why not try using armor and ice? Its all the rage in Frostvale this year.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/pGHYQeK.png",
+        "https://i.imgur.com/ubHyqYN.png"
+    ],
+    "hash": "268994c1763110061fa3e8672e52d65c"
+}

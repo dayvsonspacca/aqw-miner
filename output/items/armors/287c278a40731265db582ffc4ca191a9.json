@@ -1,0 +1,17 @@
+{
+    "urlName": "psionic-mindbreaker-armor",
+    "url": "http://aqwwiki.wikidot.com/psionic-mindbreaker-armor",
+    "name": "Psionic Mindbreaker Armor",
+    "type": "armors",
+    "description": "An exceptionally well trained MindBreaker, skilled in the art of psionic manipulation. You bend mental energy within yourself and your opponents to your will.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/f9IZSQp.png",
+        "https://i.imgur.com/133IVFu.png"
+    ],
+    "hash": "287c278a40731265db582ffc4ca191a9"
+}

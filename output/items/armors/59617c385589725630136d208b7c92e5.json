@@ -1,0 +1,16 @@
+{
+    "urlName": "blue-giftbox-armor",
+    "url": "http://aqwwiki.wikidot.com/blue-giftbox-armor",
+    "name": "Blue Giftbox Armor",
+    "type": "armors",
+    "description": "Sometimes you just want to run around dressed like a giant gift box!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/1qTsLww.png",
+        "http://i.imgur.com/ns3tYko.png"
+    ],
+    "hash": "59617c385589725630136d208b7c92e5"
+}

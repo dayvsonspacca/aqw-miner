@@ -1,0 +1,17 @@
+{
+    "urlName": "bluddron-and-shield",
+    "url": "http://aqwwiki.wikidot.com/bluddron-and-shield",
+    "name": "Bluddron and Shield",
+    "type": "armors",
+    "description": "The armor of Bluddron, the hideous beast who gave Beleen a Heroes Heart Day she'll never forget.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bluddron-and-shield/BluddronandShieldM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bluddron-and-shield/BluddronandShieldF.png"
+    ],
+    "hash": "f04648e6be7bb6c0b8e8d68a6ba967e6"
+}

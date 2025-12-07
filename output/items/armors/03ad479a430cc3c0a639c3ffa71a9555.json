@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-private",
+    "url": "http://aqwwiki.wikidot.com/skyguard-private",
+    "name": "Skyguard Private",
+    "type": "armors",
+    "description": "A uniform given to everyone when they first join the skyguard. Through valor, distinction, and ambition, you will soon find it decorated with medals of honor. Make King Alteon proud!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/fLFFn9N.png",
+        "http://i.imgur.com/4dIM8HR.png"
+    ],
+    "hash": "03ad479a430cc3c0a639c3ffa71a9555"
+}

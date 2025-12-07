@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-necromancer-ac",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-necromancer-ac",
+    "name": "Frostlorn Necromancer (AC)",
+    "type": "armors",
+    "description": "The frost-crusted robes of a Frostlorn Necromancer have the bones of ice bears and the skins of felled direwolves woven into the fabric.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/FoTkiea.png",
+        "https://i.imgur.com/xznvkWy.png"
+    ],
+    "hash": "64d3eb3bdbbf68c510b3e0424ab90c90"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "doom-attendant",
+    "url": "http://aqwwiki.wikidot.com/doom-attendant",
+    "name": "Doom Attendant",
+    "type": "armors",
+    "description": "The mystical feline you serve holds many secrets, and its dragontastic powers may one day save your life! Attend it well and you will be rewarded!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/zGmiGGe.png",
+        "http://i.imgur.com/dLoIpMp.png"
+    ],
+    "hash": "fb1a2d184462e3ebc74d846ef27ccb21"
+}

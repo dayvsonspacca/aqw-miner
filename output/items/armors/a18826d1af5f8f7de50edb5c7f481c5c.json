@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-neophyte-0-ac",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-neophyte-0-ac",
+    "name": "Frostlorn Neophyte (0 AC)",
+    "type": "armors",
+    "description": "The frost-crusted robes of a Frostlorn Necromancer have the bones of ice bears and the skins of felled direwolves woven into the fabric.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/v2HxBuA.png",
+        "https://i.imgur.com/5piyLcK.png"
+    ],
+    "hash": "a18826d1af5f8f7de50edb5c7f481c5c"
+}

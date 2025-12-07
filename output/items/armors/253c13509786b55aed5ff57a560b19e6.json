@@ -1,0 +1,17 @@
+{
+    "urlName": "chickencow-suit",
+    "url": "http://aqwwiki.wikidot.com/chickencow-suit",
+    "name": "Chickencow Suit",
+    "type": "armors",
+    "description": "Modeled after an endangered species in DragonFable, the chickencow are able to access the powers of both beef and poultry at once!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chickencow-suit/ChickencowSuitMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chickencow-suit/ChickencowSuitFemale.png"
+    ],
+    "hash": "253c13509786b55aed5ff57a560b19e6"
+}

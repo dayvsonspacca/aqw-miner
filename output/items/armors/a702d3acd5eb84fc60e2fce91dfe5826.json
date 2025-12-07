@@ -1,0 +1,17 @@
+{
+    "urlName": "mystical-villager",
+    "url": "http://aqwwiki.wikidot.com/mystical-villager",
+    "name": "Mystical Villager",
+    "type": "armors",
+    "description": "You are looking nice. Where are you headed? To a village? That's THE perfect look for you!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/RLZ2vbw.png",
+        "http://i.imgur.com/DTI7FSO.png"
+    ],
+    "hash": "a702d3acd5eb84fc60e2fce91dfe5826"
+}

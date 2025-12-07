@@ -1,0 +1,17 @@
+{
+    "urlName": "enchanted-lightcaster",
+    "url": "http://aqwwiki.wikidot.com/enchanted-lightcaster",
+    "name": "Enchanted LightCaster",
+    "type": "armors",
+    "description": "Shine on, Celestial Hero!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/enchanted-lightcaster/EnchantedLightCasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/enchanted-lightcaster/EnchantedLightCasterF.png"
+    ],
+    "hash": "a300679f1836495cb1c05940952b6d4b"
+}

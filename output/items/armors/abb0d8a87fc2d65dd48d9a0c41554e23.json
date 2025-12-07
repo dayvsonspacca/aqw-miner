@@ -1,0 +1,19 @@
+{
+    "urlName": "love-caster-armor",
+    "url": "http://aqwwiki.wikidot.com/love-caster-armor",
+    "name": "Love Caster (Armor)",
+    "type": "armors",
+    "description": "Dage may be Evil, but what Beleen has done to his beloved Dark Caster armor is even more Evil\u2026 yet totally awesome! THIS ITEM CAN BE SOLD.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/love-caster-armor/LoveCasterMaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/love-caster-armor/LoveCasterMaleA.png",
+        "http://aqwwiki.wdfiles.com/local--files/love-caster-armor/LoveCasterFemaleN.png",
+        "http://aqwwiki.wdfiles.com/local--files/love-caster-armor/LoveCasterFemaleA.png"
+    ],
+    "hash": "abb0d8a87fc2d65dd48d9a0c41554e23"
+}

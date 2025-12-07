@@ -1,0 +1,17 @@
+{
+    "urlName": "dragon-priests",
+    "url": "http://aqwwiki.wikidot.com/dragon-priests",
+    "name": "Dragon Priests",
+    "type": "armors",
+    "description": "While there are many who hunt dragons because of fear, fame and fortune, there are these who see these creatures as beautiful and majestic gifts that Lore has to offer. The Dragon Priests still belive that these animals can bring peace and balance to Lore.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-priests/DragonPriestsMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-priests/DragonPriestsFemale.png"
+    ],
+    "hash": "061932ef64a8230d11146c84793e4c33"
+}

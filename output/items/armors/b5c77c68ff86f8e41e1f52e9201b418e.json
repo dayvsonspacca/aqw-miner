@@ -1,0 +1,17 @@
+{
+    "urlName": "bountiful-bride-and-groom",
+    "url": "http://aqwwiki.wikidot.com/bountiful-bride-and-groom",
+    "name": "Bountiful Bride and Groom",
+    "type": "armors",
+    "description": "What better way to infiltrate a wedding and collect on a bounty than posing as both the bride and groom! Till the quest does you apart!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bountiful-bride-and-groom/BountifulGroom.png",
+        "http://aqwwiki.wdfiles.com/local--files/bountiful-bride-and-groom/BountifulBride.png"
+    ],
+    "hash": "b5c77c68ff86f8e41e1f52e9201b418e"
+}

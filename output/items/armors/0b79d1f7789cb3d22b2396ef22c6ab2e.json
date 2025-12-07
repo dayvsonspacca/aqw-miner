@@ -1,0 +1,16 @@
+{
+    "urlName": "dryad-of-the-grove",
+    "url": "http://aqwwiki.wikidot.com/dryad-of-the-grove",
+    "name": "Dryad of the Grove",
+    "type": "armors",
+    "description": "These nymphs of the forest help the plants flourish with their powers. Small seeds suddenly become towering trees in their presence.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ZFszuvY.png"
+    ],
+    "hash": "0b79d1f7789cb3d22b2396ef22c6ab2e"
+}

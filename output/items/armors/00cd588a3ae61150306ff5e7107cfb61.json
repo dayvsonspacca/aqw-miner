@@ -1,0 +1,17 @@
+{
+    "urlName": "doom-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/doom-dragonslayer",
+    "name": "Doom DragonSlayer",
+    "type": "armors",
+    "description": "These DragonSlayers only work on behalf of the ShadowScythe. If the dragon won't agree to burn on behalf of Empress Gravelyn, they must go!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/4mflUpb.png",
+        "https://i.imgur.com/65Smd40.png"
+    ],
+    "hash": "00cd588a3ae61150306ff5e7107cfb61"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "storm",
+    "url": "http://aqwwiki.wikidot.com/storm",
+    "name": "Storm",
+    "type": "armors",
+    "description": "The very same outfit worn by the Inter-dimensional Bard of the Multiverse, Storm! But\u2026 if you are wearing his clothes\u2026 what is he wearing?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/storm/StormM.png",
+        "http://aqwwiki.wdfiles.com/local--files/storm/StormF.png"
+    ],
+    "hash": "a8c0b245dccc5038caa285182abbebca"
+}

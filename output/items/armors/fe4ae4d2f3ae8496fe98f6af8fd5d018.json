@@ -1,0 +1,16 @@
+{
+    "urlName": "sky-frost-armor",
+    "url": "http://aqwwiki.wikidot.com/sky-frost-armor",
+    "name": "Sky Frost Armor",
+    "type": "armors",
+    "description": "As if some otherworldly dream manifested itself in Lore, this armor will provide you with not only a sleek, futuristic look, but give you what you need to conquer the enemies scattered through the land.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sky-frost-armor/SkyFrostArmor.png"
+    ],
+    "hash": "fe4ae4d2f3ae8496fe98f6af8fd5d018"
+}

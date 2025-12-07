@@ -1,0 +1,17 @@
+{
+    "urlName": "frostvale-envoy",
+    "url": "http://aqwwiki.wikidot.com/frostvale-envoy",
+    "name": "Frostvale Envoy",
+    "type": "armors",
+    "description": "As the official Envoy of Frostvale one must always dress on the appropriate festive attire. Everyone will be awaiting the Dragon King Festival!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JAeko7B.png",
+        "https://i.imgur.com/ShB5zw7.png"
+    ],
+    "hash": "caf95b3846e4db7d875cb2239cad8b1b"
+}

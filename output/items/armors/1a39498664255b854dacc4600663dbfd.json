@@ -1,0 +1,17 @@
+{
+    "urlName": "snuggle-bear",
+    "url": "http://aqwwiki.wikidot.com/snuggle-bear",
+    "name": "Snuggle Bear",
+    "type": "armors",
+    "description": "Bear it all in this fuzzy wuzzy Snuggle Bear Armor! Cuddly soft and oh-so warm, friend and foe alike will want to give you a great big hug.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/vnpWV56.png",
+        "http://i.imgur.com/SHMS0Yj.png"
+    ],
+    "hash": "1a39498664255b854dacc4600663dbfd"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "soul-harvester",
+    "url": "http://aqwwiki.wikidot.com/soul-harvester",
+    "name": "Soul Harvester",
+    "type": "armors",
+    "description": "Long ago, the key to immortality was discovered and Death was forced to wage war against the living immortals. Their souls have become a debt that it still unpaid. Become one of Death's servants and reap the harvest of souls.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/soul-harvester/SoulHarvesterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/soul-harvester/SoulHarvesterF.png"
+    ],
+    "hash": "cc94f31f97ea4891654ad24b73e4c431"
+}

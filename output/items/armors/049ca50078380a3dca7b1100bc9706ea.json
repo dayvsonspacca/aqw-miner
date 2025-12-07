@@ -1,0 +1,16 @@
+{
+    "urlName": "snowstalker",
+    "url": "http://aqwwiki.wikidot.com/snowstalker",
+    "name": "SnowStalker",
+    "type": "armors",
+    "description": "If you go down the woods today, you're in for a big surprise. These hunters come out during the icy months to track prey that only comes out during winter.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/6CZSq09.png",
+        "https://i.imgur.com/KEOJvvs.png"
+    ],
+    "hash": "049ca50078380a3dca7b1100bc9706ea"
+}

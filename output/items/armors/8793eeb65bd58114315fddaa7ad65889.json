@@ -1,0 +1,16 @@
+{
+    "urlName": "deepwater-drow",
+    "url": "http://aqwwiki.wikidot.com/deepwater-drow",
+    "name": "DeepWater Drow",
+    "type": "armors",
+    "description": "\ufeffThe ocean Drow are considered a sibling clan to the Ashray and other Water groups. Each individual Drow prefers to journey alone. Their bioluminescent glow illuminates the darkness of the abyss, luring terrifying beasts to hunt with their tridents.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/60PN8S8.png",
+        "https://imgur.com/GxboXJQ.png"
+    ],
+    "hash": "8793eeb65bd58114315fddaa7ad65889"
+}

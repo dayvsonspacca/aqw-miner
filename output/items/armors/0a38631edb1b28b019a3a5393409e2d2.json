@@ -1,0 +1,17 @@
+{
+    "urlName": "lost-soul-armor",
+    "url": "http://aqwwiki.wikidot.com/lost-soul-armor",
+    "name": "Lost Soul (Armor)",
+    "type": "armors",
+    "description": "Once alive and swinging and their sword on the battlefield, they now walk those lonely plains, in search of their lifeless bodies that they once inhabited.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lost-soul-armor/LostSoulM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lost-soul-armor/LostSoulF.png"
+    ],
+    "hash": "0a38631edb1b28b019a3a5393409e2d2"
+}

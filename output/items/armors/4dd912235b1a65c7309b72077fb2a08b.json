@@ -1,0 +1,17 @@
+{
+    "urlName": "skyguard-infernal-hunter-ac",
+    "url": "http://aqwwiki.wikidot.com/skyguard-infernal-hunter-ac",
+    "name": "Skyguard Infernal Hunter (AC)",
+    "type": "armors",
+    "description": "A certain platoon of the Skyguard is dedicated to hunting Infernals. Through rigorous training, they pursue their quarry at a near fanatical level.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BHIu84e.png",
+        "https://i.imgur.com/bvwUK8H.png"
+    ],
+    "hash": "4dd912235b1a65c7309b72077fb2a08b"
+}

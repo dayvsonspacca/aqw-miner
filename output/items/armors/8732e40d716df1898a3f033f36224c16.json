@@ -1,0 +1,17 @@
+{
+    "urlName": "chronolord-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/chronolord-naval-commander",
+    "name": "ChronoLord Naval Commander",
+    "type": "armors",
+    "description": "The clock be tickin', sailor. All hands on deck 'n all hands on clock as ye turn the tide o' battle as the ChronoLord Naval Commander!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chronolord-naval-commander/ChronolordNavalCommanderMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/chronolord-naval-commander/ChronolordNavalCommanderFemale.png"
+    ],
+    "hash": "8732e40d716df1898a3f033f36224c16"
+}

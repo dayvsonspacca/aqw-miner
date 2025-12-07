@@ -1,0 +1,17 @@
+{
+    "urlName": "super-kathool-morph",
+    "url": "http://aqwwiki.wikidot.com/super-kathool-morph",
+    "name": "Super Kathool Morph",
+    "type": "armors",
+    "description": "It's going to be hard to change into this in a phonebooth.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/super-kathool-morph/SuperKathoolM.png",
+        "http://aqwwiki.wdfiles.com/local--files/super-kathool-morph/SuperKathoolF.png"
+    ],
+    "hash": "f559790d24e9ac227b0b092dba010873"
+}

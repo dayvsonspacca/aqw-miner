@@ -1,0 +1,17 @@
+{
+    "urlName": "chronomancer-of-fire",
+    "url": "http://aqwwiki.wikidot.com/chronomancer-of-fire",
+    "name": "Chronomancer of Fire",
+    "type": "armors",
+    "description": "On the edge of the Timevoid, a molten wall of flame blocks the entrance to the Plane of Fire. Only Chronomancers of Fire are able to survive the combined might of time magic mixed with the Plane's scorching elemental power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ntZ0JDE.png",
+        "https://i.imgur.com/kymXiAa.png"
+    ],
+    "hash": "6af6e80976dc05fdcd4c61297561096e"
+}

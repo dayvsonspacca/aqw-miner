@@ -1,0 +1,17 @@
+{
+    "urlName": "spiked-rebel",
+    "url": "http://aqwwiki.wikidot.com/spiked-rebel",
+    "name": "Spiked Rebel",
+    "type": "armors",
+    "description": "No one will DARE bother you in battle, not when you're wearing THIS armor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spiked-rebel/SRM.png",
+        "http://aqwwiki.wdfiles.com/local--files/spiked-rebel/SRF.png"
+    ],
+    "hash": "e1b19d052ff41bfe5e387d807d39ea7c"
+}

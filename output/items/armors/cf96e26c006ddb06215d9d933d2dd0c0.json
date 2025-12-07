@@ -1,0 +1,18 @@
+{
+    "urlName": "moonstone-cultist",
+    "url": "http://aqwwiki.wikidot.com/moonstone-cultist",
+    "name": "Moonstone Cultist",
+    "type": "armors",
+    "description": "Members of the Moonstone Cult and followers of Rowan, these powerful Casters follow their Cult Leader's loose moral code, and seek to bring nothing but unwavering justice to Lore\u2026whatever the cost may be.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/moonstone-cultist/MoonstoneCultistM.png",
+        "http://aqwwiki.wdfiles.com/local--files/moonstone-cultist/MoonstoneCultistMClick.png",
+        "http://aqwwiki.wdfiles.com/local--files/moonstone-cultist/MoonstoneCultistF.png",
+        "http://aqwwiki.wdfiles.com/local--files/moonstone-cultist/MoonstoneCultistFClick.png"
+    ],
+    "hash": "cf96e26c006ddb06215d9d933d2dd0c0"
+}

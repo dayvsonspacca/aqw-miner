@@ -1,0 +1,19 @@
+{
+    "urlName": "chronofrost-guard",
+    "url": "http://aqwwiki.wikidot.com/chronofrost-guard",
+    "name": "ChronoFrost Guard",
+    "type": "armors",
+    "description": "The ChronoFrost Guards protects those frozen in time.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Seasonal",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/ysYJDmD.png",
+        "http://i.imgur.com/cgqU8kc.png"
+    ],
+    "hash": "4952e3262d09350a0c04ef899daf17e9"
+}

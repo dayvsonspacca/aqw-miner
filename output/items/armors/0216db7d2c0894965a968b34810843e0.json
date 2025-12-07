@@ -1,0 +1,17 @@
+{
+    "urlName": "deadly-jester-legend",
+    "url": "http://aqwwiki.wikidot.com/deadly-jester-legend",
+    "name": "Deadly Jester (Legend)",
+    "type": "armors",
+    "description": "These jesters are no fools. Frolicking around entertaining isn't for them, these prefer jumping out scaring the living daylights out of people. It's fun, right puddin'?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BZ6pcHM.png",
+        "https://i.imgur.com/VlGyZfC.png"
+    ],
+    "hash": "0216db7d2c0894965a968b34810843e0"
+}

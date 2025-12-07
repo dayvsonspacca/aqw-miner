@@ -1,0 +1,18 @@
+{
+    "urlName": "coolmint-twist",
+    "url": "http://aqwwiki.wikidot.com/coolmint-twist",
+    "name": "Coolmint Twist",
+    "type": "armors",
+    "description": "Do the twist, the peppermint twist!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Bz9oh7W.png",
+        "http://i.imgur.com/qQONSEh.png"
+    ],
+    "hash": "6e6b0f5d9320f4cdb70d8735259b9f80"
+}

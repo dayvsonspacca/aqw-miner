@@ -1,0 +1,16 @@
+{
+    "urlName": "draco-tenebris",
+    "url": "http://aqwwiki.wikidot.com/draco-tenebris",
+    "name": "Draco Tenebris",
+    "type": "armors",
+    "description": "These creatures prefer the pitch black to any light source. Found deep in caverns and caves, they are able to surprise any enemy as they hunt in the shadows.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/osMhW0l.png",
+        "https://i.imgur.com/5AoX9nA.png"
+    ],
+    "hash": "d8d3a0a953ab5d13b890c26eda8632e4"
+}

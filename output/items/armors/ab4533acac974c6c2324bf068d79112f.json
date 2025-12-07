@@ -1,0 +1,17 @@
+{
+    "urlName": "grand-necromancer-ac",
+    "url": "http://aqwwiki.wikidot.com/grand-necromancer-ac",
+    "name": "Grand Necromancer (AC)",
+    "type": "armors",
+    "description": "You have done the near impossible\u2026 mastered the arts of necromancy and ascended to the rank of Grand Necromancer. All without losing your mortality. For now.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/hMTcwsF.png",
+        "https://i.imgur.com/3fAMR4h.png"
+    ],
+    "hash": "ab4533acac974c6c2324bf068d79112f"
+}

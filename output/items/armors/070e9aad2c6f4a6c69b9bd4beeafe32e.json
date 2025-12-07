@@ -1,0 +1,17 @@
+{
+    "urlName": "crypto-creator",
+    "url": "http://aqwwiki.wikidot.com/crypto-creator",
+    "name": "Crypto Creator",
+    "type": "armors",
+    "description": "Cryptoknights vow allegiance to the Crypto alliance. They swear by the Elemental Fire, an anancient force from before your time; and holographic technology. (Eyes not CC)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/yIWwJvr.png",
+        "https://i.imgur.com/5TAku1U.png"
+    ],
+    "hash": "070e9aad2c6f4a6c69b9bd4beeafe32e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "muenster-monsters-team-legend",
+    "url": "http://aqwwiki.wikidot.com/muenster-monsters-team-legend",
+    "name": "Muenster Monsters Team (Legend)",
+    "type": "armors",
+    "description": "Go team! GO! Cheerleaders and Football players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/muenster-monsters-team-legend/MuensterMonstersTeamM.png",
+        "http://aqwwiki.wdfiles.com/local--files/muenster-monsters-team-legend/MuensterMonstersTeamF.png"
+    ],
+    "hash": "c4f1f361389b88c86c7a4995e4e592f7"
+}

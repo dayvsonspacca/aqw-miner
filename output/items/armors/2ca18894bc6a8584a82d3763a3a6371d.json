@@ -1,0 +1,16 @@
+{
+    "urlName": "gummi-bear-suit",
+    "url": "http://aqwwiki.wikidot.com/gummi-bear-suit",
+    "name": "Gummi Bear Suit",
+    "type": "armors",
+    "description": "Watch your back because your enemies might just eat it!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/rpHk3bg.png"
+    ],
+    "hash": "2ca18894bc6a8584a82d3763a3a6371d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-giant-dwarf",
+    "url": "http://aqwwiki.wikidot.com/prismatic-giant-dwarf",
+    "name": "Prismatic Giant Dwarf",
+    "type": "armors",
+    "description": "Awesome on the battlefield - yet even more awesome in color coordination! Throw down in the ring and knock out your oponents while knocking in some fashion sense.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/z94namV.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-giant-dwarf/PGDF.png"
+    ],
+    "hash": "30fdf18a65daa77e7a126308cb84c8dc"
+}

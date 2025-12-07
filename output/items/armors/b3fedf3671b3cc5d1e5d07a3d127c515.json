@@ -1,0 +1,17 @@
+{
+    "urlName": "evolved-legion-vampire-armor",
+    "url": "http://aqwwiki.wikidot.com/evolved-legion-vampire-armor",
+    "name": "Evolved Legion Vampire (Armor)",
+    "type": "armors",
+    "description": "This armor will serve you well as you stalk the shadows.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-legion-vampire-armor/EvolvedLegionVampireM.png",
+        "http://aqwwiki.wdfiles.com/local--files/evolved-legion-vampire-armor/EvolvedLegionVampireF.png"
+    ],
+    "hash": "b3fedf3671b3cc5d1e5d07a3d127c515"
+}

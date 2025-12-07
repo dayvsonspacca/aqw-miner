@@ -1,0 +1,17 @@
+{
+    "urlName": "doom-pumpkin-lord",
+    "url": "http://aqwwiki.wikidot.com/doom-pumpkin-lord",
+    "name": "DOOM Pumpkin Lord",
+    "type": "armors",
+    "description": "Pumpkin lords are evil magical pumpkins that are a lot more menacing than the name suggests. Now with 100% more DOOOOOOM!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/oGb8TtG.png",
+        "http://i.imgur.com/VxUI0sh.png"
+    ],
+    "hash": "16246718cf993d61ced7e1c75ff1b713"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowstrike-general",
+    "url": "http://aqwwiki.wikidot.com/shadowstrike-general",
+    "name": "ShadowStrike General",
+    "type": "armors",
+    "description": "When there's not enough excitement in Ryostiff, then there comes a time when a black knight takes its stead, makes some mischief, and avoid getting caught.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowstrike-general/ShadowstrikeGeneralM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowstrike-general/ShadowstrikeGeneralF.png"
+    ],
+    "hash": "4f44ef2b59c655962ab946bd2a4171b3"
+}

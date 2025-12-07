@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-warrior-armor",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-warrior-armor",
+    "name": "Frostlorn Warrior (Armor)",
+    "type": "armors",
+    "description": "Ice clings to this frostbitten plate armor, worn by the fearsome Frostlorn Warriors during one of their deadly raids.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3oFdJt2.png",
+        "https://i.imgur.com/9JO7wwG.png"
+    ],
+    "hash": "9628ebf08df3df4e2949483d4346c2e5"
+}

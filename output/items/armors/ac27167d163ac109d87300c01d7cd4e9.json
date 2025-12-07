@@ -1,0 +1,16 @@
+{
+    "urlName": "death-s-apprentice-permanent",
+    "url": "http://aqwwiki.wikidot.com/death-s-apprentice-permanent",
+    "name": "Death's Apprentice (Permanent)",
+    "type": "armors",
+    "description": "Though he can never die or retire, Death saw it fit to appoint an apprentice incase of his absence. You will learn about the circle of life and death, and one day you will be the one to escort the recently living to their final resting place.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/death-s-apprentice-permanent/Death'sApprenticeMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/death-s-apprentice-permanent/Death'sApprenticeFemale.png"
+    ],
+    "hash": "ac27167d163ac109d87300c01d7cd4e9"
+}

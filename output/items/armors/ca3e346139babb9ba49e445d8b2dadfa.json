@@ -1,0 +1,17 @@
+{
+    "urlName": "aurora-carnaval",
+    "url": "http://aqwwiki.wikidot.com/aurora-carnaval",
+    "name": "Aurora Carnaval",
+    "type": "armors",
+    "description": "Dance until the sun falls out of the sky, and light up the streets until they outshine the stars!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xuRA5aP.png",
+        "https://i.imgur.com/aYiXqf4.png"
+    ],
+    "hash": "ca3e346139babb9ba49e445d8b2dadfa"
+}

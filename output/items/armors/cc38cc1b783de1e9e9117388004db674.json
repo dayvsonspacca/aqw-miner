@@ -1,0 +1,19 @@
+{
+    "urlName": "bonebreaker-berserker",
+    "url": "http://aqwwiki.wikidot.com/bonebreaker-berserker",
+    "name": "BoneBreaker Berserker",
+    "type": "armors",
+    "description": "The greatest berserker to date. It's body breaking abilities are simply smashing!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/5gnFgGl.png",
+        "http://i.imgur.com/Gro0zSl.png",
+        "http://aqwwiki.wdfiles.com/local--files/bonebreaker-berserker/BonebreakerBerserkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/bonebreaker-berserker/BonebreakerBerserkerF.png"
+    ],
+    "hash": "cc38cc1b783de1e9e9117388004db674"
+}

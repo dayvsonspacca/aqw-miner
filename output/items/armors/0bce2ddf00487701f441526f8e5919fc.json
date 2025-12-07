@@ -1,0 +1,17 @@
+{
+    "urlName": "bubblegum-pirate-ac",
+    "url": "http://aqwwiki.wikidot.com/bubblegum-pirate-ac",
+    "name": "Bubblegum Pirate (AC)",
+    "type": "armors",
+    "description": "You can't be the pirate captain and not take the opportunity to be cute about it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/keSeeKw.png",
+        "https://i.imgur.com/wAsDF9u.png"
+    ],
+    "hash": "0bce2ddf00487701f441526f8e5919fc"
+}

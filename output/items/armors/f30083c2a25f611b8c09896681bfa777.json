@@ -1,0 +1,17 @@
+{
+    "urlName": "ptolomea-necromancer",
+    "url": "http://aqwwiki.wikidot.com/ptolomea-necromancer",
+    "name": "Ptolomea Necromancer",
+    "type": "armors",
+    "description": "Necromancers who seek to harness the most vile of souls. Their heinous creations spread fear to even the darkest corners of the Underworld.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/MxCxj9j.png",
+        "https://imgur.com/7agDC1h.png"
+    ],
+    "hash": "f30083c2a25f611b8c09896681bfa777"
+}

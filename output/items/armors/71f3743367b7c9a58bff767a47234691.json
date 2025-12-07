@@ -1,0 +1,18 @@
+{
+    "urlName": "cyber-warrior",
+    "url": "http://aqwwiki.wikidot.com/cyber-warrior",
+    "name": "Cyber Warrior",
+    "type": "armors",
+    "description": "The best fighter uniform for exploring virtual reality and blending in with its bright colors. Nano-powered motorcycle not included.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/bt4SdyZ.png",
+        "https://imgur.com/jw23QiS.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-warrior/CyberWarriorM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-warrior/CyberWarriorF.png"
+    ],
+    "hash": "71f3743367b7c9a58bff767a47234691"
+}

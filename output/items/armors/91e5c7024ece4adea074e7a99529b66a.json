@@ -1,0 +1,18 @@
+{
+    "urlName": "armored-snug-bear",
+    "url": "http://aqwwiki.wikidot.com/armored-snug-bear",
+    "name": "Armored Snug Bear",
+    "type": "armors",
+    "description": "A bear necessity for those who wish to stay snuggle wuggle warm and moderately protected as well.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/M20peMy.png",
+        "http://i.imgur.com/37gP30q.png"
+    ],
+    "hash": "91e5c7024ece4adea074e7a99529b66a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "gymnast-gear",
+    "url": "http://aqwwiki.wikidot.com/gymnast-gear",
+    "name": "Gymnast Gear",
+    "type": "armors",
+    "description": "You'll want to buff your DEX before equipping THIS gear if you want to battle on balance beams or backflip over the baddies!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gymnast-gear/GymnastGearMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/gymnast-gear/GymnastGearFemale.png"
+    ],
+    "hash": "1ee21d7eeef06d2d09c47f8c4f1e3d4f"
+}

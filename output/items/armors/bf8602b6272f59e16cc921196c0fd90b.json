@@ -1,0 +1,17 @@
+{
+    "urlName": "starmaster",
+    "url": "http://aqwwiki.wikidot.com/starmaster",
+    "name": "StarMaster",
+    "type": "armors",
+    "description": "Surely you've heard of me.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/starmaster/StarMasterM.png",
+        "http://aqwwiki.wdfiles.com/local--files/starmaster/StarMasterF.png"
+    ],
+    "hash": "bf8602b6272f59e16cc921196c0fd90b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "deadly-jester-ac",
+    "url": "http://aqwwiki.wikidot.com/deadly-jester-ac",
+    "name": "Deadly Jester (AC)",
+    "type": "armors",
+    "description": "These jesters are no fools. Frolicking around entertaining isn't for them, these prefer jumping out scaring the living daylights out of people. It's fun, right puddin'?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BZ6pcHM.png",
+        "https://i.imgur.com/VlGyZfC.png"
+    ],
+    "hash": "af8ae57e8c5431962991f0418b502995"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "crimson-pirate-mage",
+    "url": "http://aqwwiki.wikidot.com/crimson-pirate-mage",
+    "name": "Crimson Pirate Mage",
+    "type": "armors",
+    "description": "Pirates or privateers that practice magic in their daily lives fare slightly better out in the sea than those who do not. They carry elegant red tomes that contain every spell they need to effectively survive anything from raging storms to Kathool Adepts.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/jblCUji.png",
+        "http://i.imgur.com/hBMIjJ6.png"
+    ],
+    "hash": "e74cf60f2015103e919d9a37b88c34fb"
+}

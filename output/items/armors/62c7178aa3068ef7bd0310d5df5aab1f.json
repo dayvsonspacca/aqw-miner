@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-summer-rave",
+    "url": "http://aqwwiki.wikidot.com/prismatic-summer-rave",
+    "name": "Prismatic Summer Rave",
+    "type": "armors",
+    "description": "For all those nights dancing at the beach.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wnep20N.png",
+        "https://i.imgur.com/hibyUZa.png"
+    ],
+    "hash": "62c7178aa3068ef7bd0310d5df5aab1f"
+}

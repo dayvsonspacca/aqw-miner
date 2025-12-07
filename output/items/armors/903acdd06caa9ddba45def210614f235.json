@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-weaver",
+    "url": "http://aqwwiki.wikidot.com/shadow-weaver",
+    "name": "Shadow Weaver",
+    "type": "armors",
+    "description": "Vain and deceitful, these practitioner of the dark arts are ruthless spell casters. They never hesitate to destroy anything in their path. (color custom: trim, accessory)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/7BdQPuW.png",
+        "http://i.imgur.com/gybb4QX.png"
+    ],
+    "hash": "903acdd06caa9ddba45def210614f235"
+}

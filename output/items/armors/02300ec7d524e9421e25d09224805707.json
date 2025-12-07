@@ -1,0 +1,17 @@
+{
+    "urlName": "chronomancer-of-nature",
+    "url": "http://aqwwiki.wikidot.com/chronomancer-of-nature",
+    "name": "Chronomancer of Nature",
+    "type": "armors",
+    "description": "On the edge of the Time void, a wave of power rises from beneath your feet. Only Chronomancers of Nature can wield the combined might of Lore's ancient, fundamental magic mixed with the temporal aether that permeates the TimeVoid.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/U57go4W.png",
+        "https://i.imgur.com/Bjry05U.png"
+    ],
+    "hash": "02300ec7d524e9421e25d09224805707"
+}

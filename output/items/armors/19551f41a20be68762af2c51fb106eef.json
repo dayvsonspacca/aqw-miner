@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-slasher-armor",
+    "url": "http://aqwwiki.wikidot.com/shadow-slasher-armor",
+    "name": "Shadow Slasher Armor",
+    "type": "armors",
+    "description": "Sometimes you have to turn the tables on the monsters.",
+    "rarity": "Limited Time Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/aZatEb3.png",
+        "https://i.imgur.com/jSuCiZX.png"
+    ],
+    "hash": "19551f41a20be68762af2c51fb106eef"
+}

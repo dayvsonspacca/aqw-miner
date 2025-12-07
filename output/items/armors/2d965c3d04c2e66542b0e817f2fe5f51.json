@@ -1,0 +1,17 @@
+{
+    "urlName": "grim-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/grim-naval-commander-ac",
+    "name": "Grim Naval Commander (AC)",
+    "type": "armors",
+    "description": "These Naval Commanders won't let a little think",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/H3BMCxv.png",
+        "https://i.imgur.com/CKVZKjl.png"
+    ],
+    "hash": "2d965c3d04c2e66542b0e817f2fe5f51"
+}

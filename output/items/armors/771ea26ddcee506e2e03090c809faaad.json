@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-warrior",
+    "url": "http://aqwwiki.wikidot.com/skyguard-warrior",
+    "name": "Skyguard Warrior",
+    "type": "armors",
+    "description": "As a member of the boarding party, you are the grunt of the SkyGuard. That doesn't mean though that you can't hold your own in the heat of battle.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/TWpHGkC.png",
+        "https://i.imgur.com/DDx8ZLU.png"
+    ],
+    "hash": "771ea26ddcee506e2e03090c809faaad"
+}

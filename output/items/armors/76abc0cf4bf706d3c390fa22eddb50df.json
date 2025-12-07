@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-stalker",
+    "url": "http://aqwwiki.wikidot.com/shadow-stalker",
+    "name": "Shadow Stalker",
+    "type": "armors",
+    "description": "Stalk the shadow quietly, sneak up on who may be prey. Then\u2026 FEED!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-stalker/ShadowStalkerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-stalker/ShadowStalkerF.png"
+    ],
+    "hash": "76abc0cf4bf706d3c390fa22eddb50df"
+}

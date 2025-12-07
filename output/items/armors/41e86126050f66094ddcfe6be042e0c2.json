@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowmage-assassin",
+    "url": "http://aqwwiki.wikidot.com/shadowmage-assassin",
+    "name": "Shadowmage Assassin",
+    "type": "armors",
+    "description": "Can you still be an assassin if you're clad in heavy armor and are still clearly visible? I suppose if they kill the target, an assassin can wear whatever they want to.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowmage-assassin/ShadowmageAssassinM.jpg",
+        "http://aqwwiki.wdfiles.com/local--files/shadowmage-assassin/ShadowmageAssassinF.png"
+    ],
+    "hash": "41e86126050f66094ddcfe6be042e0c2"
+}

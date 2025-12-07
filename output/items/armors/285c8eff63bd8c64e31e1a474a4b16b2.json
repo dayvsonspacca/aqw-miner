@@ -1,0 +1,17 @@
+{
+    "urlName": "astravian-cloaked-enforcer",
+    "url": "http://aqwwiki.wikidot.com/astravian-cloaked-enforcer",
+    "name": "Astravian Cloaked Enforcer",
+    "type": "armors",
+    "description": "Wicked officers cut from the same cloth as their indulgent and cruel ruler. Remember, white is worn by the noble. They likened themselves to the glowing stars in a sea of black void.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/nYSsjkI.png",
+        "https://i.imgur.com/rv8YtoS.png"
+    ],
+    "hash": "285c8eff63bd8c64e31e1a474a4b16b2"
+}

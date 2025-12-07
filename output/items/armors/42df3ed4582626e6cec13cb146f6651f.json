@@ -1,0 +1,18 @@
+{
+    "urlName": "enchanted-riftwalker",
+    "url": "http://aqwwiki.wikidot.com/enchanted-riftwalker",
+    "name": "Enchanted RiftWalker",
+    "type": "armors",
+    "description": "Riftwalkers travel between worlds, journeying from plane to plane as they battle through many realities.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/NoC2Hv4.png",
+        "http://i.imgur.com/ioVFfws.png"
+    ],
+    "hash": "42df3ed4582626e6cec13cb146f6651f"
+}

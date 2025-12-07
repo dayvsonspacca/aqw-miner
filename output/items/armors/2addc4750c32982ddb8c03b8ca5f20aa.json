@@ -1,0 +1,17 @@
+{
+    "urlName": "furred-frostlorn-rogue",
+    "url": "http://aqwwiki.wikidot.com/furred-frostlorn-rogue",
+    "name": "Furred Frostlorn Rogue",
+    "type": "armors",
+    "description": "The shoulder-cape of the Frostlorn Rogue protects from the cold while still allowing total arm movement for fighting or pick-pocketing.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/3QMJBU1.png",
+        "https://imgur.com/3pIWw4n.png"
+    ],
+    "hash": "2addc4750c32982ddb8c03b8ca5f20aa"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-witch-legend",
+    "url": "http://aqwwiki.wikidot.com/shadow-witch-legend",
+    "name": "Shadow Witch (Legend)",
+    "type": "armors",
+    "description": "Channel the power of the light and all shall know that you are a force to be reckoned with!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/4wKJEQd.png",
+        "https://imgur.com/5KAFsTn.png"
+    ],
+    "hash": "ba268df9102a0f22a19f277703df1375"
+}

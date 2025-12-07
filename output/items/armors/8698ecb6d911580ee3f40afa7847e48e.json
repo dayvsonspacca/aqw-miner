@@ -1,0 +1,17 @@
+{
+    "urlName": "luck-s-hero",
+    "url": "http://aqwwiki.wikidot.com/luck-s-hero",
+    "name": "Luck's Hero",
+    "type": "armors",
+    "description": "Playing card games requires a lot of skill, but also a lot of luck. With this armor, luck will always be on your side!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/LxajBWP.png",
+        "http://i.imgur.com/y7U87op.png"
+    ],
+    "hash": "8698ecb6d911580ee3f40afa7847e48e"
+}

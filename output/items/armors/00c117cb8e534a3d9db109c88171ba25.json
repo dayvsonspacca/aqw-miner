@@ -1,0 +1,16 @@
+{
+    "urlName": "sporkion-garb",
+    "url": "http://aqwwiki.wikidot.com/sporkion-garb",
+    "name": "Sporkion Garb",
+    "type": "armors",
+    "description": "True ninja can make a weapon out of anything. The Sporkion ninja clan has taken that notion to another level.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/8ut33Zh.png",
+        "http://i.imgur.com/1Bj5EvU.png"
+    ],
+    "hash": "00c117cb8e534a3d9db109c88171ba25"
+}

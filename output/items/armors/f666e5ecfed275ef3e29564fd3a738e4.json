@@ -1,0 +1,17 @@
+{
+    "urlName": "snowview-innkeeper",
+    "url": "http://aqwwiki.wikidot.com/snowview-innkeeper",
+    "name": "Snowview Innkeeper",
+    "type": "armors",
+    "description": "Spread the cheer and joy! A warm hearth is kept by a warm heart. The Snowview Inn's Keeper is charged with keeping the lights on, and torching the trash.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yaGfIJE.png",
+        "https://i.imgur.com/xljRqCz.png"
+    ],
+    "hash": "f666e5ecfed275ef3e29564fd3a738e4"
+}

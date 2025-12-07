@@ -1,0 +1,18 @@
+{
+    "urlName": "dragonsworn-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/dragonsworn-naval-commander-ac",
+    "name": "Dragonsworn Naval Commander (AC)",
+    "type": "armors",
+    "description": "Yarrr! It be wise t' have a battle-ready companion to guard yer back. An' even better if th' creature can breathe fire.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Gksh8Ur.png",
+        "https://i.imgur.com/lNn7pvQ.png",
+        "https://i.imgur.com/pKykS6I.png"
+    ],
+    "hash": "e85ce6e2957111453d001240aa8d2ffe"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "supercharged-timewalker",
+    "url": "http://aqwwiki.wikidot.com/supercharged-timewalker",
+    "name": "Supercharged Timewalker",
+    "type": "armors",
+    "description": "For 13 years, you have battled through AdventureQuest Worlds, a merge of 3 different timelines. You've traveled lightyears already, but our adventures together are far from over!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/8t3PpCZ.png",
+        "https://i.imgur.com/K2YnmTV.png"
+    ],
+    "hash": "a88a63bb0fd0e52713f11a16d8fcf942"
+}

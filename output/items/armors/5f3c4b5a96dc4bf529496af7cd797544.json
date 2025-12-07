@@ -1,0 +1,17 @@
+{
+    "urlName": "doom-disciple-armor",
+    "url": "http://aqwwiki.wikidot.com/doom-disciple-armor",
+    "name": "Doom Disciple Armor",
+    "type": "armors",
+    "description": "Favored by fans of the ShadowScythe rock group, The Deadly DoomKnights!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/UV8OZbl.png",
+        "https://i.imgur.com/oqbmqoc.png"
+    ],
+    "hash": "5f3c4b5a96dc4bf529496af7cd797544"
+}

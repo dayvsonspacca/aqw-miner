@@ -1,0 +1,18 @@
+{
+    "urlName": "buttermancer-armor",
+    "url": "http://aqwwiki.wikidot.com/buttermancer-armor",
+    "name": "Buttermancer (Armor)",
+    "type": "armors",
+    "description": "There's no margarine for error with Buttermancer's, they melt their enemies. This item has a chance to do the Golden Bacon Storm animation each time you auto-attack!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/buttermancer-armor/ButtermancerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/buttermancer-armor/ButtermancerF.png",
+        "http://aqwwiki.wdfiles.com/local--files/buttermancer-armor/ButtermancerAnim.png"
+    ],
+    "hash": "372c87ca82d610a980ecb9eb673d53c9"
+}

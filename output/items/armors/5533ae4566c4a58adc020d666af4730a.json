@@ -1,0 +1,16 @@
+{
+    "urlName": "storm-kimono",
+    "url": "http://aqwwiki.wikidot.com/storm-kimono",
+    "name": "Storm Kimono",
+    "type": "armors",
+    "description": "This traditional Yokai kimono captures the essence of a storm passing over tranquil isle.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/sOo2XzI.png",
+        "https://i.imgur.com/ns9sFEh.png"
+    ],
+    "hash": "5533ae4566c4a58adc020d666af4730a"
+}

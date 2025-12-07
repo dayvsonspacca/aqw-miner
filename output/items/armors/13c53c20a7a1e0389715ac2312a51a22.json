@@ -1,0 +1,16 @@
+{
+    "urlName": "spooky-skelly-suit",
+    "url": "http://aqwwiki.wikidot.com/spooky-skelly-suit",
+    "name": "Spooky Skelly Suit",
+    "type": "armors",
+    "description": "Spooooky. But oh, so comfy.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/iPnN0Nd.png",
+        "https://imgur.com/fEXTvZD.png"
+    ],
+    "hash": "13c53c20a7a1e0389715ac2312a51a22"
+}

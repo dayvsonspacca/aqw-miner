@@ -1,0 +1,18 @@
+{
+    "urlName": "royalty-of-the-dunes",
+    "url": "http://aqwwiki.wikidot.com/royalty-of-the-dunes",
+    "name": "Royalty of the Dunes",
+    "type": "armors",
+    "description": "These regal nomads roam the Sandsea, seeking treasure where others have given up.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/tcSNudU.png",
+        "https://i.imgur.com/Cf9QCVD.png",
+        "https://i.imgur.com/0MEqQX2.png"
+    ],
+    "hash": "dfb48e9f0cab119ac78a07abec787c30"
+}

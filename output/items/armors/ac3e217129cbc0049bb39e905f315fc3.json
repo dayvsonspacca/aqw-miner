@@ -1,0 +1,17 @@
+{
+    "urlName": "ardent-shadowslayer",
+    "url": "http://aqwwiki.wikidot.com/ardent-shadowslayer",
+    "name": "Ardent Shadowslayer",
+    "type": "armors",
+    "description": "You battle the shadows, but that doesn't mean you have stay in them ALL the time.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9gXHLzR.png",
+        "https://i.imgur.com/3MKPneK.png"
+    ],
+    "hash": "ac3e217129cbc0049bb39e905f315fc3"
+}

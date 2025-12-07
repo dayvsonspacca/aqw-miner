@@ -1,0 +1,17 @@
+{
+    "urlName": "dayak-warrior",
+    "url": "http://aqwwiki.wikidot.com/dayak-warrior",
+    "name": "Dayak Warrior",
+    "type": "armors",
+    "description": "Ancestors of the Dayak warriors once lived in the Celestial Realm, but now make the island of Nunsatara their home. They protect their people and the land they've come to love",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KQ6jT3t.png",
+        "https://i.imgur.com/GK27HJf.png"
+    ],
+    "hash": "dfe66efa9a93f231c5e17b2447cef21e"
+}

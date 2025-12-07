@@ -1,0 +1,17 @@
+{
+    "urlName": "silly-karrot-armor",
+    "url": "http://aqwwiki.wikidot.com/silly-karrot-armor",
+    "name": "Silly Karrot (Armor)",
+    "type": "armors",
+    "description": "Sometimes life is too uncertain to have regrets. That's why ordinary people depend on heroes like you.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/36PMpBI.png",
+        "https://imgur.com/Ki4rACa.png"
+    ],
+    "hash": "2edba95ff6104edcea551d93e1c0aa28"
+}

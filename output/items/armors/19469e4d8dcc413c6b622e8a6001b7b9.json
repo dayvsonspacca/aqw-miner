@@ -1,0 +1,16 @@
+{
+    "urlName": "archfiend-deathlord",
+    "url": "http://aqwwiki.wikidot.com/archfiend-deathlord",
+    "name": "Archfiend DeathLord",
+    "type": "armors",
+    "description": "(Item does 30% more damage to all tagged monsters when equipped.)For Nulgath and Nation! The ArchFiend Deathlords are superior human DeathKnights of the Nulgath Nation who lead Void Highlords to battle!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Fd2szbN.png",
+        "https://i.imgur.com/kFUVna6.png"
+    ],
+    "hash": "19469e4d8dcc413c6b622e8a6001b7b9"
+}

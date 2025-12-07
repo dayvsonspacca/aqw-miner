@@ -1,0 +1,17 @@
+{
+    "urlName": "aurora-caller",
+    "url": "http://aqwwiki.wikidot.com/aurora-caller",
+    "name": "Aurora Caller",
+    "type": "armors",
+    "description": "A sect of Luminomancers, Aurora Callers summon the northern lights and draw power from the bright magic contained inside them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/pvjtqJl.png",
+        "https://i.imgur.com/FcQ2TGf.png"
+    ],
+    "hash": "cd5d7528568bb0cbf4f58fb67996c7a0"
+}

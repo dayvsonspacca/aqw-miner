@@ -1,0 +1,17 @@
+{
+    "urlName": "lucky-foot",
+    "url": "http://aqwwiki.wikidot.com/lucky-foot",
+    "name": "Lucky Foot",
+    "type": "armors",
+    "description": "Lucky doesn't begin to describe this armor. Yes, you may get things to go your way. Yes, it may feel as if the enemy is just throwing themselves at your feet. And yes, you are just that awesome.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lucky-foot/LuckyFootM.png",
+        "http://aqwwiki.wdfiles.com/local--files/lucky-foot/LuckyFootF.png"
+    ],
+    "hash": "03281d139e9c268c313a1ef9ac145322"
+}

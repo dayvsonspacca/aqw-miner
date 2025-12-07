@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowstrike-mystic-ac",
+    "url": "http://aqwwiki.wikidot.com/shadowstrike-mystic-ac",
+    "name": "Shadowstrike Mystic (AC)",
+    "type": "armors",
+    "description": "These Mystics were once monks who pursued ascension through tranquility and peace, releasing all worldly connections. Striding upon the path of death, though reviled and scorned, they achieved their goal.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/IHbV64b.png",
+        "https://i.imgur.com/eycfVxg.png"
+    ],
+    "hash": "ce4a0b7e7063740d6883b5c5ab73c11d"
+}

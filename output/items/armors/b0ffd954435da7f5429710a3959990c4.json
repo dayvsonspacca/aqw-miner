@@ -1,0 +1,16 @@
+{
+    "urlName": "archaeus",
+    "url": "http://aqwwiki.wikidot.com/archaeus",
+    "name": "Archaeus",
+    "type": "armors",
+    "description": "An armor designed by Archaeus, former coliseum master who later turned his attention to crafting weapons and armor for survival in that arena.",
+    "rarity": null,
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/jq5icn9.png",
+        "https://i.imgur.com/4VodqXS.png"
+    ],
+    "hash": "b0ffd954435da7f5429710a3959990c4"
+}

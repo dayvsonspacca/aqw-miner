@@ -1,0 +1,17 @@
+{
+    "urlName": "classic-miners-team-legend",
+    "url": "http://aqwwiki.wikidot.com/classic-miners-team-legend",
+    "name": "Classic Miners Team (Legend)",
+    "type": "armors",
+    "description": "Go team! Go! Cheerleaders and Football Players!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/classic-miners-team-legend/MinersTeamM.png",
+        "http://aqwwiki.wdfiles.com/local--files/classic-miners-team-legend/MinersTeamF.png"
+    ],
+    "hash": "fb8f0265ddd94121ae49712cd27a556d"
+}

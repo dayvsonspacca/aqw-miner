@@ -1,0 +1,17 @@
+{
+    "urlName": "gryphonclaw-knight",
+    "url": "http://aqwwiki.wikidot.com/gryphonclaw-knight",
+    "name": "GryphonClaw Knight",
+    "type": "armors",
+    "description": "Upon ascending to the rank of Knight, members of the Order of the GryphonClaw swear a third oath: In recognition of the fact that humans cannot lie in the prescence of a Gryphon, Knights vow never to lie. This makes them trusted anywhere they may travel.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/OhMw3Ru.png",
+        "https://imgur.com/7OFoHSq.png"
+    ],
+    "hash": "c339b1cb480ad2685ec2a219f9b5bd13"
+}

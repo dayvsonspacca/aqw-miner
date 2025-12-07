@@ -1,0 +1,18 @@
+{
+    "urlName": "swordhaven-royalty",
+    "url": "http://aqwwiki.wikidot.com/swordhaven-royalty",
+    "name": "Swordhaven Royalty",
+    "type": "armors",
+    "description": "A gleaming battle suit forged in the glory and dedication of the late King Alteon. Lineage is nothing when you receive the high honor of commanding your own division of good. Long live the King!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/swordhaven-royalty/SRm.png",
+        "http://aqwwiki.wdfiles.com/local--files/swordhaven-royalty/SRf.png"
+    ],
+    "hash": "9600d2f971cc521066ba0114780d7742"
+}

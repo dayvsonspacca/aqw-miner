@@ -1,0 +1,17 @@
+{
+    "urlName": "blunder-buster",
+    "url": "http://aqwwiki.wikidot.com/blunder-buster",
+    "name": "Blunder Buster",
+    "type": "armors",
+    "description": "Though a ships hand might be t' lowest o' t' crew member, and while they might not be t' sharpest board on t' stern they make up for it in brute force!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blunder-buster/BlunderBusterMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/blunder-buster/BlunderBusterFemale.png"
+    ],
+    "hash": "17f065e8b2c27e2f59c1b848bb0c637d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "crocadile-dundoo",
+    "url": "http://aqwwiki.wikidot.com/crocadile-dundoo",
+    "name": "Crocadile Dundoo",
+    "type": "armors",
+    "description": "If you want to master the outback you need the right clothes, mate! Featuring dusty dungarees, Croc skin vest and boots and a real crocadile tooth necklace.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crocadile-dundoo/CrocadileDundooMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/crocadile-dundoo/CrocadileDundooNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/crocadile-dundoo/CrocadileDundooFemale.png"
+    ],
+    "hash": "c2fbb60a36af6d4ad101b398647c8953"
+}

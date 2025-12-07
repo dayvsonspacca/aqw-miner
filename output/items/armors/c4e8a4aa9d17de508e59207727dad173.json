@@ -1,0 +1,18 @@
+{
+    "urlName": "chrono-vanguard",
+    "url": "http://aqwwiki.wikidot.com/chrono-vanguard",
+    "name": "Chrono Vanguard",
+    "type": "armors",
+    "description": "As a warrior-guardian of the Chronomancer's Academy, you are responsible for ensuring that no laymen interfere with the permanent portals to the timestream.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/b1BYSUW.png",
+        "http://i.imgur.com/Zt7ixA4.png"
+    ],
+    "hash": "c4e8a4aa9d17de508e59207727dad173"
+}

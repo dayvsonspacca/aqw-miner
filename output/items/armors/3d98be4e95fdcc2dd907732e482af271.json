@@ -1,0 +1,17 @@
+{
+    "urlName": "dread-leopard-guard",
+    "url": "http://aqwwiki.wikidot.com/dread-leopard-guard",
+    "name": "Dread Leopard Guard",
+    "type": "armors",
+    "description": "So you want to tame a creature that's half lion half eagle? Only the best get the title of \"Rider\". Hang on!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dread-leopard-guard/DreadLeopardGuardM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dread-leopard-guard/DreadLeopardGuardF.png"
+    ],
+    "hash": "3d98be4e95fdcc2dd907732e482af271"
+}

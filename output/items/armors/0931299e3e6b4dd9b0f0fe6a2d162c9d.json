@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowscythe-gryphon-armor",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-gryphon-armor",
+    "name": "Shadowscythe Gryphon (Armor)",
+    "type": "armors",
+    "description": "These majestic Gryphons are the perfect ride for any Shadowscythe on land or in the air.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-gryphon-armor/ShadowscytheGryphonM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-gryphon-armor/ShadowscytheGryphonF.png"
+    ],
+    "hash": "0931299e3e6b4dd9b0f0fe6a2d162c9d"
+}

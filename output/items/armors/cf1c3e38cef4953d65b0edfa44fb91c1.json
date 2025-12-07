@@ -1,0 +1,15 @@
+{
+    "urlName": "blood-ranger",
+    "url": "http://aqwwiki.wikidot.com/blood-ranger",
+    "name": "Blood Ranger",
+    "type": "armors",
+    "description": "My arrows always find their mark. Let their message drain you of your soul! (Item does 40% more damage to dragon tagged monsters when equipped.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/BbkVnig.png"
+    ],
+    "hash": "cf1c3e38cef4953d65b0edfa44fb91c1"
+}

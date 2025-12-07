@@ -1,0 +1,17 @@
+{
+    "urlName": "cool-neighbor",
+    "url": "http://aqwwiki.wikidot.com/cool-neighbor",
+    "name": "Cool Neighbor",
+    "type": "armors",
+    "description": "Your whole deal is that you're chill, and lowkey don't care about much.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8quFrzI.png",
+        "https://i.imgur.com/kFNCn3S.png"
+    ],
+    "hash": "b319603d140427148d25853dc9142092"
+}

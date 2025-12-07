@@ -1,0 +1,17 @@
+{
+    "urlName": "spirit-harvester",
+    "url": "http://aqwwiki.wikidot.com/spirit-harvester",
+    "name": "Spirit Harvester",
+    "type": "armors",
+    "description": "It's the time of year when all things are harvested\u2026 including spirits!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/E0N9yRn.png",
+        "https://i.imgur.com/1an66u1.png"
+    ],
+    "hash": "6bf6d388452e8252e9eeaad29d09fd86"
+}

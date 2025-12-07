@@ -1,0 +1,19 @@
+{
+    "urlName": "stormbringer-warlock",
+    "url": "http://aqwwiki.wikidot.com/stormbringer-warlock",
+    "name": "Stormbringer Warlock",
+    "type": "armors",
+    "description": "The Stormbringer Warlock tore a hurricane out of the sky, and captured it in fitting robes and electrified armor. A cataclysmic storm that could have torn a continent asunder now bides its time.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/0oOKtcv.png",
+        "https://i.imgur.com/Qa5YERR.png",
+        "https://i.imgur.com/Bovq8lD.png",
+        "https://i.imgur.com/sieajUI.png"
+    ],
+    "hash": "c41e912e7570e48513ba749a955c3cfc"
+}

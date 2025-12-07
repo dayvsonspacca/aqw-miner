@@ -1,0 +1,17 @@
+{
+    "urlName": "bloodbound-void-ac",
+    "url": "http://aqwwiki.wikidot.com/bloodbound-void-ac",
+    "name": "Bloodbound Void (AC)",
+    "type": "armors",
+    "description": "Bloodbound Void Warriors wear an armor infused with the blood of their first opponent slain in battle. It is a gruesome method of crafting a supremely valuable piece of battle gear.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/vDWU2dS.png",
+        "https://i.imgur.com/qqcZElf.png"
+    ],
+    "hash": "4ff22397fd248b760e936946111437b0"
+}

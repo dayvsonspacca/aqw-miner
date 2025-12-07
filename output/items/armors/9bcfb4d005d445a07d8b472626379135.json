@@ -1,0 +1,17 @@
+{
+    "urlName": "skyguard-infernal-hunter-legend",
+    "url": "http://aqwwiki.wikidot.com/skyguard-infernal-hunter-legend",
+    "name": "Skyguard Infernal Hunter (Legend)",
+    "type": "armors",
+    "description": "A certain platoon of the Skyguard is dedicated to hunting Infernals. Through rigorous training, they pursue their quarry at a near fanatical level.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BHIu84e.png",
+        "https://i.imgur.com/bvwUK8H.png"
+    ],
+    "hash": "9bcfb4d005d445a07d8b472626379135"
+}

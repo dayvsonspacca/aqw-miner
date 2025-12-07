@@ -1,0 +1,16 @@
+{
+    "urlName": "armor-of-azalith",
+    "url": "http://aqwwiki.wikidot.com/armor-of-azalith",
+    "name": "Armor of Azalith",
+    "type": "armors",
+    "description": "You can feel the dark power pulsing off this armor. It is a testament to your many victories in the Infernal Arena.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/yRkR15n.png",
+        "https://i.imgur.com/cWkTcQy.png"
+    ],
+    "hash": "0930d4ad04f48c181033ec9887f249c1"
+}

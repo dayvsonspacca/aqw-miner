@@ -1,0 +1,19 @@
+{
+    "urlName": "doomknight-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/doomknight-naval-commander",
+    "name": "DoomKnight Naval Commander",
+    "type": "armors",
+    "description": "These bilge rat's fly under the colors of the Shadowscythe. Instead of \"shiver me timbers\", they cry \"LONG BE UN-LIVIN' THE SHADOWSCYTHE!\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/YKDvL1e.png",
+        "https://i.imgur.com/d9gVMbR.png",
+        "http://aqwwiki.wdfiles.com/local--files/doomknight-naval-commander/DoomknightNavalCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/doomknight-naval-commander/DoomknightNavalCommanderF.png"
+    ],
+    "hash": "544f9170a6dce547d310c746b3a9b751"
+}

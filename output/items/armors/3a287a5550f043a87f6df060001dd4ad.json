@@ -1,0 +1,16 @@
+{
+    "urlName": "spellraiser",
+    "url": "http://aqwwiki.wikidot.com/spellraiser",
+    "name": "Spellraiser",
+    "type": "armors",
+    "description": "To summon: Open the strange little box left sitting in the Underworld. Nothing bad could possibly come from it\u2026",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/VbCvkpk.png",
+        "https://i.imgur.com/QQs2LBF.png"
+    ],
+    "hash": "3a287a5550f043a87f6df060001dd4ad"
+}

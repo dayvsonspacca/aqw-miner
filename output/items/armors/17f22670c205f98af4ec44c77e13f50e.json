@@ -1,0 +1,17 @@
+{
+    "urlName": "prince-of-vegetables",
+    "url": "http://aqwwiki.wikidot.com/prince-of-vegetables",
+    "name": "Prince of Vegetables",
+    "type": "armors",
+    "description": "Where did all that speed and power come from? You are UNSTOPPABLE!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/PQR0jyW.png",
+        "https://imgur.com/6BFOOsG.png"
+    ],
+    "hash": "17f22670c205f98af4ec44c77e13f50e"
+}

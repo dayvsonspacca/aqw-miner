@@ -1,0 +1,17 @@
+{
+    "urlName": "ascent-to-protect",
+    "url": "http://aqwwiki.wikidot.com/ascent-to-protect",
+    "name": "Ascent To Protect",
+    "type": "armors",
+    "description": "Those who wear this armor shall ascend to the ranks of holy power!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ascent-to-protect/AscentToProtectMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/ascent-to-protect/AscentToProtectFemale.png"
+    ],
+    "hash": "152a4b4d7c67b8f6e2b37ae944a32a85"
+}

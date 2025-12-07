@@ -1,0 +1,17 @@
+{
+    "urlName": "spruce-sled-racer",
+    "url": "http://aqwwiki.wikidot.com/spruce-sled-racer",
+    "name": "Spruce Sled Racer",
+    "type": "armors",
+    "description": "Warm garb worn by sled racers during practice. Outside of the race, green is a lucky color to wear during shorter journeys.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1SAMJfD.png",
+        "https://i.imgur.com/hBIQuxj.png"
+    ],
+    "hash": "7cafd56101e45f38af4058f45dc7f222"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-nutcracker",
+    "url": "http://aqwwiki.wikidot.com/frostval-nutcracker",
+    "name": "Frostval NutCracker",
+    "type": "armors",
+    "description": "This festive symbol of luck also wards off evil spirits, so ghost of Frostval past beware!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/LisDJ9b.png",
+        "https://i.imgur.com/F5FXq2J.png"
+    ],
+    "hash": "09f74a9d477805d1757de710ce37fd91"
+}

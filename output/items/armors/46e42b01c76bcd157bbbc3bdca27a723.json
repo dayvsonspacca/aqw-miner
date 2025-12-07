@@ -1,0 +1,17 @@
+{
+    "urlName": "primal-tiger",
+    "url": "http://aqwwiki.wikidot.com/primal-tiger",
+    "name": "Primal Tiger",
+    "type": "armors",
+    "description": "The tiger is as mighty as it is majestic, but it does not forsake brains for brawn. A warrior who fights alone, draped in a tiger's stripes, are cunning in their ways.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/NvDrmaY.png",
+        "https://i.imgur.com/KlalWtf.png"
+    ],
+    "hash": "46e42b01c76bcd157bbbc3bdca27a723"
+}

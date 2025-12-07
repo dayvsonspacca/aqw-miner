@@ -1,0 +1,20 @@
+{
+    "urlName": "dragon-commander-armor",
+    "url": "http://aqwwiki.wikidot.com/dragon-commander-armor",
+    "name": "Dragon Commander (Armor)",
+    "type": "armors",
+    "description": "You are the commander of Dragons\u2026 all shall bow before you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragon-commander-armor/DCM.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-commander-armor/DCMOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-commander-armor/DCF.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragon-commander-armor/DCFOld.png"
+    ],
+    "hash": "9628a163e21d0024762face109d46ec9"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "chronostriker-ac",
+    "url": "http://aqwwiki.wikidot.com/chronostriker-ac",
+    "name": "Chronostriker (AC)",
+    "type": "armors",
+    "description": "The Eternal Dragon of Time rules over the past, present, and future. The ChronoStriker armor will enable you to strike at your enemies regardless of the timeline they inhabit.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hez4slU.png",
+        "https://i.imgur.com/zLexMmo.png",
+        "https://i.imgur.com/tXZOlx2.png",
+        "https://i.imgur.com/CB5flGf.png"
+    ],
+    "hash": "18ec8fb3d02b6085648a06a76de75e19"
+}

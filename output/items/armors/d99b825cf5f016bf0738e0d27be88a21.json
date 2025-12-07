@@ -1,0 +1,16 @@
+{
+    "urlName": "symphonic-bandmaster",
+    "url": "http://aqwwiki.wikidot.com/symphonic-bandmaster",
+    "name": "Symphonic Bandmaster",
+    "type": "armors",
+    "description": "\ufeffVirtuosos who honed their craft in Mythsong and journeyed to royal courts, vibrant music halls, and even the battlefied. A rousing tune stirs the soul and motivates them to glorious action.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/QOCfbQM.png",
+        "https://imgur.com/xG6rsl7.png"
+    ],
+    "hash": "d99b825cf5f016bf0738e0d27be88a21"
+}

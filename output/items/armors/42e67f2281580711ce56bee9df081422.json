@@ -1,0 +1,17 @@
+{
+    "urlName": "duality-sorcerer",
+    "url": "http://aqwwiki.wikidot.com/duality-sorcerer",
+    "name": "Duality Sorcerer",
+    "type": "armors",
+    "description": "The Duality Sorcerer reaches through Time to gather power from both Good and Chaos in order to power their spells.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/LZKSivZ.png",
+        "https://i.imgur.com/6dXoSFk.png"
+    ],
+    "hash": "42e67f2281580711ce56bee9df081422"
+}

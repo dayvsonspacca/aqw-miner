@@ -1,0 +1,14 @@
+{
+    "urlName": "druid-battlemage",
+    "url": "http://aqwwiki.wikidot.com/druid-battlemage",
+    "name": "Druid Battlemage",
+    "type": "armors",
+    "description": "A caster which pulls energy from the terrain itself, you strive to teach others how to live in hermony with everything living being.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/36PMIsA.png",
+        "http://i.imgur.com/dtHMZMH.png"
+    ],
+    "hash": "b9c4fbd562e52d379e09510c5a54cf8e"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "brightscythe-knight",
+    "url": "http://aqwwiki.wikidot.com/brightscythe-knight",
+    "name": "BrightScythe Knight",
+    "type": "armors",
+    "description": "A gilded battle suit worn by elite but loyal knights in shining armor that set out on multiple conquests across Lore to spread their enlightenment and joy to innocent lives.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/XAsuHjX.png",
+        "https://i.imgur.com/FjJpqYr.png"
+    ],
+    "hash": "5b890191be9848dced61ae90a6e33897"
+}

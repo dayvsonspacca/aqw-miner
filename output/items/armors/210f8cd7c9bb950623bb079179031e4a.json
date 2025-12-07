@@ -1,0 +1,17 @@
+{
+    "urlName": "brotherhood-of-skulls",
+    "url": "http://aqwwiki.wikidot.com/brotherhood-of-skulls",
+    "name": "Brotherhood of Skulls",
+    "type": "armors",
+    "description": "Join the Brotherhood, perks include a snazzy outfit and possible world domination.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brotherhood-of-skulls/BoSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/brotherhood-of-skulls/BoSF.png"
+    ],
+    "hash": "210f8cd7c9bb950623bb079179031e4a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "doom-lord-sepulchure",
+    "url": "http://aqwwiki.wikidot.com/doom-lord-sepulchure",
+    "name": "Doom Lord Sepulchure",
+    "type": "armors",
+    "description": "When a ruler is far from human and possesses an insatiable hunger of the dark arts, their reign of terror lasts forever unless a brave hunter puts them out of their concealed mystery.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doom-lord-sepulchure/DoomSeppyM.png",
+        "http://aqwwiki.wdfiles.com/local--files/doom-lord-sepulchure/DoomSeppyF.png"
+    ],
+    "hash": "cf373cca6fe4ee09acfa46872497bd36"
+}

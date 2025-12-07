@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-doomknight-ac",
+    "url": "http://aqwwiki.wikidot.com/cyber-doomknight-ac",
+    "name": "Cyber Doomknight (AC)",
+    "type": "armors",
+    "description": "Feared throughout the history of time, the Cyber Doomknight shows little remorse for the living\u2026 or machine.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cyber-doomknight-ac/CyberDoomknightM.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyber-doomknight-ac/CyberDoomknightF.png"
+    ],
+    "hash": "f7c63bfef705e82444aa2f82fec8709b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "stone-guardian",
+    "url": "http://aqwwiki.wikidot.com/stone-guardian",
+    "name": "Stone Guardian",
+    "type": "armors",
+    "description": "Rock solid and dependable to a fault, this armor will not let you down. The strength of the very world beneath your feet flows upwards into this armor, reinforcing an already impossibly strong defense.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/stone-guardian/StoneGuardianM.png",
+        "http://aqwwiki.wdfiles.com/local--files/stone-guardian/StoneGuardianF.png"
+    ],
+    "hash": "e9d3eae6f1a30faeced7e2dc411edae8"
+}

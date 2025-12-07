@@ -1,0 +1,18 @@
+{
+    "urlName": "doom-lycan-transformation",
+    "url": "http://aqwwiki.wikidot.com/doom-lycan-transformation",
+    "name": "Doom Lycan Transformation",
+    "type": "armors",
+    "description": "Purebred Lycans can transform at will. You now harness this amazing power! Simply click to transform between Lycan forms.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/aktT7xL.png",
+        "https://i.imgur.com/hn1ziuk.png",
+        "https://i.imgur.com/xIHVTPb.png",
+        "https://i.imgur.com/BBNv8Lb.png"
+    ],
+    "hash": "8699e17d2bc7e54fa62bc07df6342420"
+}

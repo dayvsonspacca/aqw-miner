@@ -1,0 +1,17 @@
+{
+    "urlName": "frankenfiend",
+    "url": "http://aqwwiki.wikidot.com/frankenfiend",
+    "name": "FrankenFiend",
+    "type": "armors",
+    "description": "Dr. Voltabolt says: \"You zurvived my latest creation, ze Frankenwerepire! Youl CRUZHED him! I zuppose I muzt go back to ze drawrink board.\"",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/FVVrjlS.png",
+        "https://imgur.com/2ra7X3A.png"
+    ],
+    "hash": "15efb6c3c96282b46aeaaad3a53674ce"
+}

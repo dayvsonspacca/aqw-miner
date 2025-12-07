@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-warlic-armor",
+    "url": "http://aqwwiki.wikidot.com/dark-warlic-armor",
+    "name": "Dark Warlic Armor",
+    "type": "armors",
+    "description": "As a follower of the Black Mage, you have access to powers the likes of which Lore has not yet seen. Use your newfound abilities to fight for virtue and justice, because darkness will flee at very sight of your righteous light! (Sora wanted this for Black Friday)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/CJ8hE9S.png",
+        "http://i.imgur.com/QH16X8y.png"
+    ],
+    "hash": "1b1335aa70e072493692f71de531f684"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "gourdian",
+    "url": "http://aqwwiki.wikidot.com/gourdian",
+    "name": "Gourdian",
+    "type": "armors",
+    "description": "As the greatest protectors of the pumpkin patch, Gourdians are skilled in the fine art of hand-to-hand carving combat. They squash all who get in their way.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/snO7iCk.png",
+        "http://i.imgur.com/pb6MVOq.png"
+    ],
+    "hash": "61d14ce7ac66d2856c238189d1d2273a"
+}

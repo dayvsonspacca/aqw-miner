@@ -1,0 +1,18 @@
+{
+    "urlName": "doom-genie",
+    "url": "http://aqwwiki.wikidot.com/doom-genie",
+    "name": "Doom Genie",
+    "type": "armors",
+    "description": "Embrace the evil within as you assume the form of this corrupted",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/FXdCuqy.png",
+        "http://i.imgur.com/a5gXB56.png",
+        "http://i.imgur.com/f7OXpXP.png",
+        "http://i.imgur.com/dJZf8JO.png"
+    ],
+    "hash": "40e003bdc12f18af28c51be6f88a32e3"
+}

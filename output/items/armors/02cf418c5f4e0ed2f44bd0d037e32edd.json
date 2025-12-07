@@ -1,0 +1,17 @@
+{
+    "urlName": "crystal-singer",
+    "url": "http://aqwwiki.wikidot.com/crystal-singer",
+    "name": "Crystal Singer",
+    "type": "armors",
+    "description": "Craft your own dreams! Life is an illusion, follow the clues and your dreams!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crystal-singer/CrystalSingerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/crystal-singer/CrystalSingerF.png"
+    ],
+    "hash": "02cf418c5f4e0ed2f44bd0d037e32edd"
+}

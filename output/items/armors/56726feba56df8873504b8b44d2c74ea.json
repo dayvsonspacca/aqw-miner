@@ -1,0 +1,17 @@
+{
+    "urlName": "shroomknight",
+    "url": "http://aqwwiki.wikidot.com/shroomknight",
+    "name": "ShroomKnight",
+    "type": "armors",
+    "description": "Most heroes believe the ShroomKnight shows little sympathy for humans. But once you get to know him, he's really a fungi.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/VUqK8bC.png",
+        "https://i.imgur.com/D5jYvy5.png"
+    ],
+    "hash": "56726feba56df8873504b8b44d2c74ea"
+}

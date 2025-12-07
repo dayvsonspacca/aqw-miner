@@ -1,0 +1,17 @@
+{
+    "urlName": "sol-dominus-seeker-ac",
+    "url": "http://aqwwiki.wikidot.com/sol-dominus-seeker-ac",
+    "name": "Sol Dominus Seeker (AC)",
+    "type": "armors",
+    "description": "The pirates of the ship Sol Dominus chases the sun to the ends of the treacherous sea. Once students of the Light's servants, they now harness the sun's power to make themselves as gold as its rays.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/pc32Ize.png",
+        "https://i.imgur.com/KuHE2Zb.png"
+    ],
+    "hash": "7c372f9196e04f597d69b83d6974ab5b"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "crystallis-manager",
+    "url": "http://aqwwiki.wikidot.com/crystallis-manager",
+    "name": "Crystallis Manager",
+    "type": "armors",
+    "description": "This suit has been authorized for use by Crystallis Administration, rank T1\u00a0F or higher.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/WV1HwiA.png",
+        "https://i.imgur.com/JHIpCgw.png"
+    ],
+    "hash": "159b2ce3d454b517d7664f8bf804dffc"
+}

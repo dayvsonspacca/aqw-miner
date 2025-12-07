@@ -1,0 +1,17 @@
+{
+    "urlName": "classic-dark-caster",
+    "url": "http://aqwwiki.wikidot.com/classic-dark-caster",
+    "name": "Classic Dark Caster",
+    "type": "armors",
+    "description": "Sought after for ages, the Dark Caster finally emerges to celebrate the Dark Lord's 21,000th birthday. Although there are many followers who claim to be a part of the Undead Legion, Dark Casters are unmistakably the most dedicated and commend.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/classic-dark-caster/DarkCasterMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/classic-dark-caster/DarkCasterFemale.png"
+    ],
+    "hash": "3cd0538d3bec6181c64036ceea40c498"
+}

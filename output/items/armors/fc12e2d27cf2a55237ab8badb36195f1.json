@@ -1,0 +1,16 @@
+{
+    "urlName": "envy-armor-ac",
+    "url": "http://aqwwiki.wikidot.com/envy-armor-ac",
+    "name": "Envy Armor (AC)",
+    "type": "armors",
+    "description": "You will be the ENVY of all the Legion.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WQiKnLE.png"
+    ],
+    "hash": "fc12e2d27cf2a55237ab8badb36195f1"
+}

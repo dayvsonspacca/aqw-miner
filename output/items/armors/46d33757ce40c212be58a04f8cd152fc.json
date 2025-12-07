@@ -1,0 +1,17 @@
+{
+    "urlName": "turkey-avenger",
+    "url": "http://aqwwiki.wikidot.com/turkey-avenger",
+    "name": "Turkey Avenger",
+    "type": "armors",
+    "description": "Turkey feathers can't become red with righteous rage for their kin, but the passionate auburn gets the message across just fine.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vn22phW.png",
+        "https://i.imgur.com/RyBScTW.png"
+    ],
+    "hash": "46d33757ce40c212be58a04f8cd152fc"
+}

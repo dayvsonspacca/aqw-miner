@@ -1,0 +1,17 @@
+{
+    "urlName": "moonridge-villager",
+    "url": "http://aqwwiki.wikidot.com/moonridge-villager",
+    "name": "Moonridge Villager",
+    "type": "armors",
+    "description": "This outfit was fashionable in Moonridge decades ago, and still is now. The times barely when the rest of the world wants little to do with your spooky end of the woods.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/c0QPF9O.png",
+        "https://i.imgur.com/74ntGbr.png"
+    ],
+    "hash": "555aa9304ba5c722c6e72f1753c909e6"
+}

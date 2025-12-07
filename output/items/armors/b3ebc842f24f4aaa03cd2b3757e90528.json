@@ -1,0 +1,16 @@
+{
+    "urlName": "death-alive-armor",
+    "url": "http://aqwwiki.wikidot.com/death-alive-armor",
+    "name": "Death Alive (Armor)",
+    "type": "armors",
+    "description": "Are you dead? Are you alive? Are you some kind of amalgam of the two?",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/z6uigfO.png",
+        "https://i.imgur.com/Suk5NGi.png"
+    ],
+    "hash": "b3ebc842f24f4aaa03cd2b3757e90528"
+}

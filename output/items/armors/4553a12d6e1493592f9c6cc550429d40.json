@@ -1,0 +1,17 @@
+{
+    "urlName": "astromancer-mage",
+    "url": "http://aqwwiki.wikidot.com/astromancer-mage",
+    "name": "Astromancer Mage",
+    "type": "armors",
+    "description": "These mages look to the stars for their divination powers. Reading the night sky to foresee omens, much can be learned from an Astromancer.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/astromancer-mage/AstromancerMageM.png",
+        "http://aqwwiki.wdfiles.com/local--files/astromancer-mage/AstromancerMageF.png"
+    ],
+    "hash": "4553a12d6e1493592f9c6cc550429d40"
+}

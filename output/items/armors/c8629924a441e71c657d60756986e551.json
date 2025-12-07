@@ -1,0 +1,16 @@
+{
+    "urlName": "snowstorm",
+    "url": "http://aqwwiki.wikidot.com/snowstorm",
+    "name": "Snowstorm",
+    "type": "armors",
+    "description": "Gompa, reknowned battle-armorer, crafted this cunning and decidedly chill-resistant armor to keep the cold out in the midst of even the most heated battles!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/w0mNsWB.png",
+        "http://i.imgur.com/wrbOiqY.png"
+    ],
+    "hash": "c8629924a441e71c657d60756986e551"
+}

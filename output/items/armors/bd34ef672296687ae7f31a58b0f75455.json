@@ -1,0 +1,17 @@
+{
+    "urlName": "prisma-unarmored-serpent-soldier",
+    "url": "http://aqwwiki.wikidot.com/prisma-unarmored-serpent-soldier",
+    "name": "Prisma Unarmored Serpent Soldier",
+    "type": "armors",
+    "description": "A master of stealth that lurks in silence and darkness, waiting to strike. They won't give their lives for honor, but they'll give it to\u2026the right cause.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/RtRXIyY.png",
+        "https://i.imgur.com/AZvtnyC.png"
+    ],
+    "hash": "bd34ef672296687ae7f31a58b0f75455"
+}

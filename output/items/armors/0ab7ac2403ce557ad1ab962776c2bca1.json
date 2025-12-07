@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-pyromancer",
+    "url": "http://aqwwiki.wikidot.com/shadow-pyromancer",
+    "name": "Shadow Pyromancer",
+    "type": "armors",
+    "description": "These robes are the kind worn by Shurpu Masters of the Shadow Flame. The modern Pyromancer robes are patterned after them, but these colors signify both your impressive skill with both fire and darkness magic.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mPxXGma.png",
+        "https://imgur.com/wL3NBXT.png"
+    ],
+    "hash": "0ab7ac2403ce557ad1ab962776c2bca1"
+}

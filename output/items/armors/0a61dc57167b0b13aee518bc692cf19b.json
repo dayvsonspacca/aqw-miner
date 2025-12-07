@@ -1,0 +1,17 @@
+{
+    "urlName": "deathblood-warrior-ac",
+    "url": "http://aqwwiki.wikidot.com/deathblood-warrior-ac",
+    "name": "DeathBlood Warrior (AC)",
+    "type": "armors",
+    "description": "Join the ranks of the DeathBlood Warriors as you prepare to face the Death Pits!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathblood-warrior-ac/DeathBloodWarriorMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/deathblood-warrior-ac/DeathBloodWarriorFemale.png"
+    ],
+    "hash": "0a61dc57167b0b13aee518bc692cf19b"
+}

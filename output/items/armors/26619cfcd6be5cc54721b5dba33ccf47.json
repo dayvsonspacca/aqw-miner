@@ -1,0 +1,17 @@
+{
+    "urlName": "darkovian-beach-attendant",
+    "url": "http://aqwwiki.wikidot.com/darkovian-beach-attendant",
+    "name": "Darkovian Beach Attendant",
+    "type": "armors",
+    "description": "You'd think hitting the Darkovian beach would turn you into a bloody mess, but that's where the fun is!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/4gxV8GJ.png",
+        "https://i.imgur.com/qi4NbwT.png"
+    ],
+    "hash": "26619cfcd6be5cc54721b5dba33ccf47"
+}

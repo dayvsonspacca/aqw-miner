@@ -1,0 +1,17 @@
+{
+    "urlName": "frigid-ice-storm-invoker",
+    "url": "http://aqwwiki.wikidot.com/frigid-ice-storm-invoker",
+    "name": "Frigid Ice Storm Invoker",
+    "type": "armors",
+    "description": "Let hail and lightning tear apart the land and rip the seas open. These elite magi strangled the light of the sun with their storms. The stronger they became, the faster they transformed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/rt74q22.png",
+        "https://i.imgur.com/9twhscn.png"
+    ],
+    "hash": "70d90add9b6af7f12d810a1b324803ff"
+}

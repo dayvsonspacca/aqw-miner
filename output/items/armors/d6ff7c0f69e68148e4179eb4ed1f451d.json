@@ -1,0 +1,18 @@
+{
+    "urlName": "silver-falcon-commander",
+    "url": "http://aqwwiki.wikidot.com/silver-falcon-commander",
+    "name": "Silver Falcon Commander",
+    "type": "armors",
+    "description": "Much like a falcon, those that uphold the darkest, negative aspect of this predator are stubborn, deceitful, sly, and cowardly to dive head-on into the spirit of the most dangerous of battles.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/silver-falcon-commander/SilverFalconCommanderM.png",
+        "http://aqwwiki.wdfiles.com/local--files/silver-falcon-commander/SilverFalconCommanderF.png"
+    ],
+    "hash": "d6ff7c0f69e68148e4179eb4ed1f451d"
+}

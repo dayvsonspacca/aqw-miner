@@ -1,0 +1,17 @@
+{
+    "urlName": "derpslayer",
+    "url": "http://aqwwiki.wikidot.com/derpslayer",
+    "name": "Derpslayer",
+    "type": "armors",
+    "description": "Your attacks are super effective against DERRRRRP! No\u2026not really. HUUURRR!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/derpslayer/DerpslayerMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/derpslayer/DerpslayerFemale.png"
+    ],
+    "hash": "e2f3ca8248cbc04e33f06a6fed8682bb"
+}

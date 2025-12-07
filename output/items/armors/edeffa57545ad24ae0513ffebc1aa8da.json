@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-drow-eviscerator",
+    "url": "http://aqwwiki.wikidot.com/prismatic-drow-eviscerator",
+    "name": "Prismatic Drow Eviscerator",
+    "type": "armors",
+    "description": "This armor is covered with blades. It's trimming has been sharpened into keen edges, turning the wearers body into a weapon.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Mu6QO6k.png",
+        "http://i.imgur.com/POQSvzr.png"
+    ],
+    "hash": "edeffa57545ad24ae0513ffebc1aa8da"
+}

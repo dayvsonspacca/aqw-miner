@@ -1,0 +1,16 @@
+{
+    "urlName": "armored-turdraken-slayer",
+    "url": "http://aqwwiki.wikidot.com/armored-turdraken-slayer",
+    "name": "Armored Turdraken Slayer",
+    "type": "armors",
+    "description": "Go after that Turdraken and make sure there are plenty of leftovers for sandwiches!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/armored-turdraken-slayer/ATSM.png",
+        "http://aqwwiki.wdfiles.com/local--files/armored-turdraken-slayer/ATSF.png"
+    ],
+    "hash": "a918a97774cf187151ee8a6c407b479c"
+}

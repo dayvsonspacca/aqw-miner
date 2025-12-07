@@ -1,0 +1,16 @@
+{
+    "urlName": "auric-leonine-archer",
+    "url": "http://aqwwiki.wikidot.com/auric-leonine-archer",
+    "name": "Auric Leonine Archer",
+    "type": "armors",
+    "description": "A lovely gold and white armor (or maybe it's black and blue) fitting for the Archer's of Pyrewatch.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/HnvrxMJ.png",
+        "http://i.imgur.com/WPlEa8n.png"
+    ],
+    "hash": "625e10f2286c20b92a09fd333ce404cc"
+}

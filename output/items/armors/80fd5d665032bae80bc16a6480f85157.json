@@ -1,0 +1,17 @@
+{
+    "urlName": "explorer-naval-commander",
+    "url": "http://aqwwiki.wikidot.com/explorer-naval-commander",
+    "name": "Explorer Naval Commander",
+    "type": "armors",
+    "description": "Weigh anchor and set sail, mateys! Keelhaul ye enemies with this class maroonin' them to an island where they be need'd sea turtles to escape!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/t8Vi8rh.png",
+        "http://imgur.com/OExtv71.png"
+    ],
+    "hash": "80fd5d665032bae80bc16a6480f85157"
+}

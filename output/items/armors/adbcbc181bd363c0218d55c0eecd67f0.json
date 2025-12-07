@@ -1,0 +1,17 @@
+{
+    "urlName": "twig-s-bff-hoodie",
+    "url": "http://aqwwiki.wikidot.com/twig-s-bff-hoodie",
+    "name": "Twig's BFF Hoodie",
+    "type": "armors",
+    "description": "It's stainproof, so you can roll in all the icecream and fish slime you want.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/MUnKDAI.png",
+        "https://imgur.com/bJmMzIu.png"
+    ],
+    "hash": "adbcbc181bd363c0218d55c0eecd67f0"
+}

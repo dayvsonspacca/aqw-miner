@@ -1,0 +1,17 @@
+{
+    "urlName": "bright-amadis",
+    "url": "http://aqwwiki.wikidot.com/bright-amadis",
+    "name": "Bright Amadis",
+    "type": "armors",
+    "description": "Forged in secret by skilled craftsman, this armor gives off an aura of calmly reflection, keeping the wearer ready for anything. (5% change to do the Whirlwind attack animation, 10% bonus against Dragons",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/WpkgD9W.png",
+        "http://i.imgur.com/G1a9iWN.png",
+        "http://i.imgur.com/vw5SwaM.png"
+    ],
+    "hash": "7170e03efc7589a3831698b9a5706a53"
+}

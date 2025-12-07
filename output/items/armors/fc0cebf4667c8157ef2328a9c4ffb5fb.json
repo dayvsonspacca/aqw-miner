@@ -1,0 +1,17 @@
+{
+    "urlName": "crimson-wrath",
+    "url": "http://aqwwiki.wikidot.com/crimson-wrath",
+    "name": "Crimson Wrath",
+    "type": "armors",
+    "description": "They say that the berries that hang from the boughs of holly came because blood dyed the original white to the now crimson hue. Dare we wonder about this armour",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crimson-wrath/CrimsonWrathMale.png",
+        "http://aqwwiki.wdfiles.com/local--files/crimson-wrath/CrimsonWrathFemale.png"
+    ],
+    "hash": "fc0cebf4667c8157ef2328a9c4ffb5fb"
+}

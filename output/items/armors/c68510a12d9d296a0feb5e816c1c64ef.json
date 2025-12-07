@@ -1,0 +1,16 @@
+{
+    "urlName": "darkness-armor",
+    "url": "http://aqwwiki.wikidot.com/darkness-armor",
+    "name": "Darkness (Armor)",
+    "type": "armors",
+    "description": "Your have blended the magical energy of emeralds with the Darkness! Those who gaze at the viridian silk of your robes get entranced by the tendrils of darkness which they can feel, but never see.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/G6x0GqD.png",
+        "http://i.imgur.com/SHtolEh.png"
+    ],
+    "hash": "c68510a12d9d296a0feb5e816c1c64ef"
+}

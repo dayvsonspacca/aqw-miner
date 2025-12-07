@@ -1,0 +1,17 @@
+{
+    "urlName": "pulsar-manipulator",
+    "url": "http://aqwwiki.wikidot.com/pulsar-manipulator",
+    "name": "Pulsar Manipulator",
+    "type": "armors",
+    "description": "By collecting and storing the electromagnetic radiation pulses emitted by neutron stars, you're able to fuel your travels through space and time!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/KJH6wec.png",
+        "https://i.imgur.com/mqZ0bH6.png"
+    ],
+    "hash": "ccfef3afc5c5a9ebb0a31123d6f5321d"
+}

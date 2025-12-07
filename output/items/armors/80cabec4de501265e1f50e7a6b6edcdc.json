@@ -1,0 +1,16 @@
+{
+    "urlName": "dracomori",
+    "url": "http://aqwwiki.wikidot.com/dracomori",
+    "name": "DracoMori",
+    "type": "armors",
+    "description": "These warriors, loyal to the dragon Gorgorath, craft their armors with the bones of the dragon's prey.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/XTgW1OO.png",
+        "https://i.imgur.com/euQuQ3e.png"
+    ],
+    "hash": "80cabec4de501265e1f50e7a6b6edcdc"
+}

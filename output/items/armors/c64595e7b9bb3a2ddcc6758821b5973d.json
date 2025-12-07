@@ -1,0 +1,17 @@
+{
+    "urlName": "cyber-reaper-ac",
+    "url": "http://aqwwiki.wikidot.com/cyber-reaper-ac",
+    "name": "Cyber Reaper (AC)",
+    "type": "armors",
+    "description": "There is nowhere for the sane mind to hide that the insane cannot find you. When a Chaos Reaper comes for you, there is nowhere to run.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/FKpeuS1.png",
+        "https://i.imgur.com/8wcSH1t.png"
+    ],
+    "hash": "c64595e7b9bb3a2ddcc6758821b5973d"
+}

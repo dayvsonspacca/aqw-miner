@@ -1,0 +1,16 @@
+{
+    "urlName": "guardian-of-love",
+    "url": "http://aqwwiki.wikidot.com/guardian-of-love",
+    "name": "Guardian Of Love",
+    "type": "armors",
+    "description": "Set to the task of protecting all royal romances.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/guardian-of-love/GuardianofLoveM.png",
+        "http://aqwwiki.wdfiles.com/local--files/guardian-of-love/GuardianofLoveF.png"
+    ],
+    "hash": "b5867d73c8d9c61d03fe7859633752db"
+}

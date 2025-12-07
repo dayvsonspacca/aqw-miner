@@ -1,0 +1,16 @@
+{
+    "urlName": "skulls-of-the-necromancer",
+    "url": "http://aqwwiki.wikidot.com/skulls-of-the-necromancer",
+    "name": "Skulls of the Necromancer",
+    "type": "armors",
+    "description": "This nefarious armor is infused with the skulls of the corpse that riddle the battlefields across Doomwood. Only the necromancer has the conjuring ability to merge the bones with the plating to protect against the forces of Light.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/JLQbUzT.png",
+        "https://i.imgur.com/kRujCTn.png"
+    ],
+    "hash": "7f4286ae5871053d998f60c17ab50992"
+}

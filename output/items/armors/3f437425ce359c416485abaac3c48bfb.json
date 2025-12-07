@@ -1,0 +1,17 @@
+{
+    "urlName": "evil-undeadslayer",
+    "url": "http://aqwwiki.wikidot.com/evil-undeadslayer",
+    "name": "Evil Undeadslayer",
+    "type": "armors",
+    "description": "The Evil Undead are coming, but you're well-prepared! Because the only undead YOU want to slay are the EVIL ONES! Let your chainsaws rip!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evil-undeadslayer/EvilUndeadslayerM.png",
+        "http://aqwwiki.wdfiles.com/local--files/evil-undeadslayer/EvilUndeadslayerF.png"
+    ],
+    "hash": "3f437425ce359c416485abaac3c48bfb"
+}

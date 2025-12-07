@@ -1,0 +1,20 @@
+{
+    "urlName": "arena-rockstar",
+    "url": "http://aqwwiki.wikidot.com/arena-rockstar",
+    "name": "Arena Rockstar",
+    "type": "armors",
+    "description": "Are you ready to ROCK!? Click on this armor's back arm to change your hand into the iconic music fan's horns symbol \\m/",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/IoOHwA3.png",
+        "https://i.imgur.com/URHvfUE.png",
+        "https://i.imgur.com/WNmmqsg.png",
+        "https://i.imgur.com/IUOLcJu.png"
+    ],
+    "hash": "6f2ca62bc02d9696136778be84632942"
+}

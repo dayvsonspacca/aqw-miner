@@ -1,0 +1,17 @@
+{
+    "urlName": "frostval-dragonslayer",
+    "url": "http://aqwwiki.wikidot.com/frostval-dragonslayer",
+    "name": "Frostval DragonSlayer",
+    "type": "armors",
+    "description": "RAAAAWR! Even DragonSlayers like to look festive during the holidays.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gnVtz0r.png",
+        "https://i.imgur.com/KqD3dqu.png"
+    ],
+    "hash": "6907492554acf231f6e46daced67d9a8"
+}

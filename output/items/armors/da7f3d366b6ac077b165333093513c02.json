@@ -1,0 +1,18 @@
+{
+    "urlName": "stormborn-battlegear",
+    "url": "http://aqwwiki.wikidot.com/stormborn-battlegear",
+    "name": "Stormborn Battlegear",
+    "type": "armors",
+    "description": "You'd think that combining lightning and water would be dangerous. Not for the Thunderborn!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/tN2aDDY.png",
+        "https://i.imgur.com/bC7aFms.png",
+        "https://i.imgur.com/ysJxwzd.png",
+        "https://i.imgur.com/HFij7qD.png"
+    ],
+    "hash": "da7f3d366b6ac077b165333093513c02"
+}

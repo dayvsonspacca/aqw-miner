@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-summoner-ac",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-summoner-ac",
+    "name": "Frostlorn Summoner (AC)",
+    "type": "armors",
+    "description": "The magic of the Frostlorn Summoner is most powerful when the moon is high and the winds blow cold enough to turn a water elemental into ice.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/keRAmXP.png",
+        "https://i.imgur.com/unTZetn.png"
+    ],
+    "hash": "755b7432544517a2f53974d20f141826"
+}

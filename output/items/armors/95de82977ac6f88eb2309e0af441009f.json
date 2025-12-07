@@ -1,0 +1,16 @@
+{
+    "urlName": "deathbound-knight",
+    "url": "http://aqwwiki.wikidot.com/deathbound-knight",
+    "name": "Deathbound Knight",
+    "type": "armors",
+    "description": "Doomwood's original knights refuse to rest in peace. Immortalized in gold, their will persists. Though their names are lost to time and death, they destroy any who would dare plant a flag in their territory.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Fu96hzM.png",
+        "https://i.imgur.com/Vsn5rpc.png"
+    ],
+    "hash": "95de82977ac6f88eb2309e0af441009f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "gothic-naval-commander-ac",
+    "url": "http://aqwwiki.wikidot.com/gothic-naval-commander-ac",
+    "name": "Gothic Naval Commander (AC)",
+    "type": "armors",
+    "description": "A moody pirate who sails on dark seas. There are so many that like embodying this archetype that if they gathered in a fleet, you'd be able to see the black spot from space.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/ENVIaNP.png",
+        "https://imgur.com/VMMhayq.png"
+    ],
+    "hash": "0ef433572b06d7d961133e5e255a7175"
+}

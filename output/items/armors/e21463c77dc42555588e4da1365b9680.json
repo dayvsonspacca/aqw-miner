@@ -1,0 +1,16 @@
+{
+    "urlName": "moonlight-hunter",
+    "url": "http://aqwwiki.wikidot.com/moonlight-hunter",
+    "name": "Moonlight Hunter",
+    "type": "armors",
+    "description": "The power of the Moon keeps these hunters warm and guides their way on every mission.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/AXzSuTZ.png",
+        "https://i.imgur.com/j43iDbw.png"
+    ],
+    "hash": "e21463c77dc42555588e4da1365b9680"
+}

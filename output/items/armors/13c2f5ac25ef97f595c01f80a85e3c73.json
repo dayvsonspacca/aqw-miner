@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-raider",
+    "url": "http://aqwwiki.wikidot.com/shadow-raider",
+    "name": "Shadow Raider",
+    "type": "armors",
+    "description": "Menaces that even have vikings standing on guard. These career criminals will gut you for half a coin of gold on land, and mince you for the sharks in the sea.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/0m85tph.png",
+        "https://i.imgur.com/KLwGp2G.png"
+    ],
+    "hash": "13c2f5ac25ef97f595c01f80a85e3c73"
+}

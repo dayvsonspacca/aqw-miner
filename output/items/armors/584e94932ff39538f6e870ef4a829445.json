@@ -1,0 +1,16 @@
+{
+    "urlName": "cryptborg",
+    "url": "http://aqwwiki.wikidot.com/cryptborg",
+    "name": "Cryptborg",
+    "type": "armors",
+    "description": "Some are chosen to undergo even further changes - the Deadtech has taken almost full hold of them. Who knows how much more they can handle.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/FHyvEXp.png",
+        "https://i.imgur.com/oxk5pEi.png"
+    ],
+    "hash": "584e94932ff39538f6e870ef4a829445"
+}

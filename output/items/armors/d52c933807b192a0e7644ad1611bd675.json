@@ -1,0 +1,19 @@
+{
+    "urlName": "armor-of-elim",
+    "url": "http://aqwwiki.wikidot.com/armor-of-elim",
+    "name": "Armor of Elim",
+    "type": "armors",
+    "description": "This is the armor of the hero who gave his life defending the world from Kezeroth's first attempt to destroy Lore, thousands of years ago.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/QlvNvkc.png",
+        "http://i.imgur.com/HXYKc6R.png",
+        "http://i.imgur.com/0YDpkvb.png"
+    ],
+    "hash": "d52c933807b192a0e7644ad1611bd675"
+}

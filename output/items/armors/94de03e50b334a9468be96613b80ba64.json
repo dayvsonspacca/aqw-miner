@@ -1,0 +1,17 @@
+{
+    "urlName": "dragoncrest-seeker",
+    "url": "http://aqwwiki.wikidot.com/dragoncrest-seeker",
+    "name": "DragonCrest Seeker",
+    "type": "armors",
+    "description": "These seekers are former Dragonlords or individuals who couldn't bond with a Dragon. To keep their stories from ending with despair, they're set on a new journey - to find Dragons as lost as they are.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/GiFLGJK.png",
+        "https://i.imgur.com/OCOgbeo.png"
+    ],
+    "hash": "94de03e50b334a9468be96613b80ba64"
+}

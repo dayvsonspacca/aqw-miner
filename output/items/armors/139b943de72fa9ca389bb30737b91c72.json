@@ -1,0 +1,17 @@
+{
+    "urlName": "sheng-long-guardian-armor",
+    "url": "http://aqwwiki.wikidot.com/sheng-long-guardian-armor",
+    "name": "Sheng Long Guardian (Armor)",
+    "type": "armors",
+    "description": "You are the master of storms and bringer of drought, those around are careful not to offend you.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sheng-long-guardian-armor/ShengLongGuardianM.png",
+        "http://aqwwiki.wdfiles.com/local--files/sheng-long-guardian-armor/ShengLongGuardianF.png"
+    ],
+    "hash": "139b943de72fa9ca389bb30737b91c72"
+}

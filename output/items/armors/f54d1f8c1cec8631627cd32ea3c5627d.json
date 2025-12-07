@@ -1,0 +1,17 @@
+{
+    "urlName": "eternal-cryomancer-ac",
+    "url": "http://aqwwiki.wikidot.com/eternal-cryomancer-ac",
+    "name": "Eternal Cryomancer (AC)",
+    "type": "armors",
+    "description": "Cold as ice, silent as death, the Underworld Cryomancers can freeze your heart and shatter your bones with the touch of a single frosty finger.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/6lSJwxw.png",
+        "https://i.imgur.com/IdntyZs.png"
+    ],
+    "hash": "f54d1f8c1cec8631627cd32ea3c5627d"
+}

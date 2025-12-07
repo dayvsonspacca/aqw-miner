@@ -1,0 +1,17 @@
+{
+    "urlName": "evergreen-rogue",
+    "url": "http://aqwwiki.wikidot.com/evergreen-rogue",
+    "name": "Evergreen Rogue",
+    "type": "armors",
+    "description": "Some of the refugees cursed by the cold-blooded Queen were restored to normal over the course of the year, but not completely. They can still deliver a chilling scratch that can freeze the body of their targets.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evergreen-rogue/EvergreenRogueM.png",
+        "http://aqwwiki.wdfiles.com/local--files/evergreen-rogue/EvergreenRogueF.png"
+    ],
+    "hash": "a03afa0d765445214d82b6c9087a38da"
+}

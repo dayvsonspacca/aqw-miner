@@ -1,0 +1,19 @@
+{
+    "urlName": "sunborn-guardian",
+    "url": "http://aqwwiki.wikidot.com/sunborn-guardian",
+    "name": "Sunborn Guardian",
+    "type": "armors",
+    "description": "Sunborn Guardians descend from the skies during the searing solstice of each year. They are the sun incarnate, and merely existing on Lore sets the ground alight until it becomes a bed of molten rock.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/6sME9Mi.png",
+        "https://i.imgur.com/8Tfq2Jf.png",
+        "https://i.imgur.com/WZsdz1x.png",
+        "https://i.imgur.com/tWEAPtI.png"
+    ],
+    "hash": "003e74245439683f09681d1b940ef554"
+}

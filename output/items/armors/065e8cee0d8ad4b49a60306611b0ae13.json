@@ -1,0 +1,18 @@
+{
+    "urlName": "shadowstrike-guard",
+    "url": "http://aqwwiki.wikidot.com/shadowstrike-guard",
+    "name": "ShadowStrike Guard",
+    "type": "armors",
+    "description": "When there's not enough excitement in Ryostiff, then there comes a time when a black knight takes its stead, makes some mischief, and avoid getting caught.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowstrike-guard/ShadowstrikeGuardM.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadowstrike-guard/ShadowstrikeGuardF.png"
+    ],
+    "hash": "065e8cee0d8ad4b49a60306611b0ae13"
+}
