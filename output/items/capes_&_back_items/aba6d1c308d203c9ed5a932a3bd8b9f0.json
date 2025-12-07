@@ -1,0 +1,17 @@
+{
+    "urlName": "broodfiend-spines",
+    "url": "http://aqwwiki.wikidot.com/broodfiend-spines",
+    "name": "BroodFiend Spines",
+    "type": "capes_&_back_items",
+    "description": "This ratty cape smells like an alien slept in it\u2026 oh, wat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/broodfiend-spines/BroodfiendSpinesNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/broodfiend-spines/BroodfiendSpinesOld.png"
+    ],
+    "hash": "aba6d1c308d203c9ed5a932a3bd8b9f0"
+}

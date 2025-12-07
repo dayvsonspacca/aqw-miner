@@ -1,0 +1,16 @@
+{
+    "urlName": "acid-rain-cape",
+    "url": "http://aqwwiki.wikidot.com/acid-rain-cape",
+    "name": "Acid Rain Cape",
+    "type": "capes_&_back_items",
+    "description": "Using their magic to pollute and cause harm to Lore, these acidic magi gain their powers from dirty sludge and other toxins.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cm9A1JG.png"
+    ],
+    "hash": "4d689825c62c5cc3474644b426b137a4"
+}

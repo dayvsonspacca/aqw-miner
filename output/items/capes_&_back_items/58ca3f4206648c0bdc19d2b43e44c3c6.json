@@ -1,0 +1,15 @@
+{
+    "urlName": "solaris-redeemer-cloak",
+    "url": "http://aqwwiki.wikidot.com/solaris-redeemer-cloak",
+    "name": "Solaris Redeemer Cloak",
+    "type": "capes_&_back_items",
+    "description": "A cloak that holds the warmth of the Solaris Clan's sun, and only their sun. They turn their backs on the false suns of other solar systems.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/EBGtBnb.png"
+    ],
+    "hash": "58ca3f4206648c0bdc19d2b43e44c3c6"
+}

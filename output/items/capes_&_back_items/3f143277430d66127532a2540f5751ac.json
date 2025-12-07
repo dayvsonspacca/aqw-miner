@@ -1,0 +1,16 @@
+{
+    "urlName": "impish-banner",
+    "url": "http://aqwwiki.wikidot.com/impish-banner",
+    "name": "Impish Banner",
+    "type": "capes_&_back_items",
+    "description": "The face glows mischievously, inspiring deep trouble.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/jwJXl0z.png"
+    ],
+    "hash": "3f143277430d66127532a2540f5751ac"
+}

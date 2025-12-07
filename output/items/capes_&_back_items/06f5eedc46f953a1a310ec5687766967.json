@@ -1,0 +1,17 @@
+{
+    "urlName": "minion-s-wings",
+    "url": "http://aqwwiki.wikidot.com/minion-s-wings",
+    "name": "Minion's Wings",
+    "type": "capes_&_back_items",
+    "description": "Tonight, Death's minions shall visit Lore once again, roaming its skies!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/oZN9Hmr.png"
+    ],
+    "hash": "06f5eedc46f953a1a310ec5687766967"
+}

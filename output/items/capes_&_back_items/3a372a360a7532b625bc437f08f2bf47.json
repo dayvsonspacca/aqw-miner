@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowmage-cape",
+    "url": "http://aqwwiki.wikidot.com/shadowmage-cape",
+    "name": "ShadowMage Cape",
+    "type": "capes_&_back_items",
+    "description": "Cloaked in darkness. (3% chance to do the smokebomb animation, and 5% XP boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/Dz0XVvK.png",
+        "http://i.imgur.com/enxLOT2.png"
+    ],
+    "hash": "3a372a360a7532b625bc437f08f2bf47"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "privateer-s-cloak",
+    "url": "http://aqwwiki.wikidot.com/privateer-s-cloak",
+    "name": "Privateer's Cloak",
+    "type": "capes_&_back_items",
+    "description": "Real pirates wear pink.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7ET6kPn.png"
+    ],
+    "hash": "e382bb61841abcbb4a02cec29142ecfc"
+}

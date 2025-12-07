@@ -1,0 +1,16 @@
+{
+    "urlName": "sun-rune-cape",
+    "url": "http://aqwwiki.wikidot.com/sun-rune-cape",
+    "name": "Sun Rune Cape",
+    "type": "capes_&_back_items",
+    "description": "Always at your back, the sun will keep you and give you strength!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sun-rune-cape/SunRuneCape.png"
+    ],
+    "hash": "5d7c9b0bdd5647c76fee0a3e3b2bb978"
+}

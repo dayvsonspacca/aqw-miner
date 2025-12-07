@@ -1,0 +1,16 @@
+{
+    "urlName": "quantum-centurion-countdown",
+    "url": "http://aqwwiki.wikidot.com/quantum-centurion-countdown",
+    "name": "Quantum Centurion Countdown",
+    "type": "capes_&_back_items",
+    "description": "The hands of this rare timepiece spin wildly out of control. After the Chrono Centurion uprising was quelled, Chronomancers sought to destroy any proof of their existence.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/SVtgYx6.png"
+    ],
+    "hash": "4ab643c354392a8762a3946465614351"
+}

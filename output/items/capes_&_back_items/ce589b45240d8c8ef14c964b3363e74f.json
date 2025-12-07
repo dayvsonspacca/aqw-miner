@@ -1,0 +1,17 @@
+{
+    "urlName": "toxic-runes",
+    "url": "http://aqwwiki.wikidot.com/toxic-runes",
+    "name": "Toxic Runes",
+    "type": "capes_&_back_items",
+    "description": "These runes are said to have been set by Bido to keep spiders away, however if the runes were to stop spinning then it would do the complete opposite.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/SWUkgBl.png",
+        "https://i.imgur.com/dJJnZ2i.png"
+    ],
+    "hash": "ce589b45240d8c8ef14c964b3363e74f"
+}

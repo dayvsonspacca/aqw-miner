@@ -1,0 +1,16 @@
+{
+    "urlName": "stealthy-surprise",
+    "url": "http://aqwwiki.wikidot.com/stealthy-surprise",
+    "name": "Stealthy Surprise",
+    "type": "capes_&_back_items",
+    "description": "It plays a helpful sharp jingle if you get spotted.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/xQJgFUQ.png"
+    ],
+    "hash": "1e0a40fe62ea5e1bc72b5f5fa56bdb2a"
+}

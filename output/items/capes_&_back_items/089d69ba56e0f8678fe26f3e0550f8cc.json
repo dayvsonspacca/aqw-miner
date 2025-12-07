@@ -1,0 +1,17 @@
+{
+    "urlName": "web-of-lies",
+    "url": "http://aqwwiki.wikidot.com/web-of-lies",
+    "name": "Web of Lies",
+    "type": "capes_&_back_items",
+    "description": "Not to worry, the spiders that have woven this unusual web won't harm anyone wearing it unless the incorrect attire is worn. To be safe, wearing matching colors is recommended if you are up to the challenge, but the spiders do practice to deceive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/web-of-lies/WebofLies.png"
+    ],
+    "hash": "089d69ba56e0f8678fe26f3e0550f8cc"
+}

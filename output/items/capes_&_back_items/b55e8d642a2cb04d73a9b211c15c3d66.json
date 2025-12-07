@@ -1,0 +1,17 @@
+{
+    "urlName": "virescent-rune",
+    "url": "http://aqwwiki.wikidot.com/virescent-rune",
+    "name": "Virescent Rune",
+    "type": "capes_&_back_items",
+    "description": "Be they they clear skies or the shimmering seas, this virescent hue recalls sweet nostalgia, and invokes hope for the future.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9dBDXNH.png"
+    ],
+    "hash": "b55e8d642a2cb04d73a9b211c15c3d66"
+}

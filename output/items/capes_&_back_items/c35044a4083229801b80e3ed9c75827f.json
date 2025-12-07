@@ -1,0 +1,16 @@
+{
+    "urlName": "pink-cat-tail",
+    "url": "http://aqwwiki.wikidot.com/pink-cat-tail",
+    "name": "Pink Cat Tail",
+    "type": "capes_&_back_items",
+    "description": "On Wednesdays, we wear pink.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QtKzwkn.png"
+    ],
+    "hash": "c35044a4083229801b80e3ed9c75827f"
+}

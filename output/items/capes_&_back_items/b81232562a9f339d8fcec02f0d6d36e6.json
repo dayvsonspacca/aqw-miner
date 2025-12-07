@@ -1,0 +1,15 @@
+{
+    "urlName": "blooded-cape",
+    "url": "http://aqwwiki.wikidot.com/blooded-cape",
+    "name": "Blooded Cape",
+    "type": "capes_&_back_items",
+    "description": "One may only wear this after slaying their first monster.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/FvPdMtv.png"
+    ],
+    "hash": "b81232562a9f339d8fcec02f0d6d36e6"
+}

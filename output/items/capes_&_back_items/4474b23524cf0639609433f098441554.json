@@ -1,0 +1,16 @@
+{
+    "urlName": "doomknight-battlemage-cape",
+    "url": "http://aqwwiki.wikidot.com/doomknight-battlemage-cape",
+    "name": "Doomknight Battlemage Cape",
+    "type": "capes_&_back_items",
+    "description": "Cloaked in darkness. (3% chance to do shadowburst animation and 15% rep boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/lFNfJ12.png",
+        "http://i.imgur.com/sTNiyWL.png"
+    ],
+    "hash": "4474b23524cf0639609433f098441554"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "raptor-tail",
+    "url": "http://aqwwiki.wikidot.com/raptor-tail",
+    "name": "Raptor Tail",
+    "type": "capes_&_back_items",
+    "description": "Dead reptiles tell no tails. Not that one will miss that particular tail anyway.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/lrtYcu9.png"
+    ],
+    "hash": "b83ded6648b8c59b692aaac81635f5a4"
+}

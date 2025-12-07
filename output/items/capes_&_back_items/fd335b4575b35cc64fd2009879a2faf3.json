@@ -1,0 +1,17 @@
+{
+    "urlName": "spires-of-power-cloak",
+    "url": "http://aqwwiki.wikidot.com/spires-of-power-cloak",
+    "name": "Spires of Power Cloak",
+    "type": "capes_&_back_items",
+    "description": "Reaching towards the skies, this majestic spire pulls power from it's surroundings, feeding the Warlock. The cloak conceals all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spires-of-power-cloak/SpiresofPowerCloak.png"
+    ],
+    "hash": "fd335b4575b35cc64fd2009879a2faf3"
+}

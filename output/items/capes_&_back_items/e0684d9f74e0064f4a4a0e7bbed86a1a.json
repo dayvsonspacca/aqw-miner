@@ -1,0 +1,15 @@
+{
+    "urlName": "dravir-wings",
+    "url": "http://aqwwiki.wikidot.com/dravir-wings",
+    "name": "Dravir Wings",
+    "type": "capes_&_back_items",
+    "description": "A scaly set of wings that have been recreated from samples obtained from Lore of DragonFable, that was worn by the Dravir Soldiers. Their ability to soar over the battlefield gave them a tactical advantage.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dravir-wings/DravirWings.png"
+    ],
+    "hash": "e0684d9f74e0064f4a4a0e7bbed86a1a"
+}

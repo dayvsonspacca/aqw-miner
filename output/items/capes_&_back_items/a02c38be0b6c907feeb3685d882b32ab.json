@@ -1,0 +1,16 @@
+{
+    "urlName": "runic-wings",
+    "url": "http://aqwwiki.wikidot.com/runic-wings",
+    "name": "Runic Wings",
+    "type": "capes_&_back_items",
+    "description": "These colorfull wings and holy glyphs will protect you, but only if your intentions are of good nature.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/runic-wings/RunicWings.png"
+    ],
+    "hash": "a02c38be0b6c907feeb3685d882b32ab"
+}

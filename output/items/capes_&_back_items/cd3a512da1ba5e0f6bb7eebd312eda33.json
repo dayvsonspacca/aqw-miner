@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowfiend-cloak",
+    "url": "http://aqwwiki.wikidot.com/shadowfiend-cloak",
+    "name": "ShadowFiend Cloak",
+    "type": "capes_&_back_items",
+    "description": "Woven out of the combined energies from the Shadowscythe and the Nulgath Nation, this item does 15% more damage to any monster, and gives 25% more class points, XP, gold, and rep when equipped.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/QVTj6XD.png",
+        "http://i.imgur.com/QO1chdD.png"
+    ],
+    "hash": "cd3a512da1ba5e0f6bb7eebd312eda33"
+}

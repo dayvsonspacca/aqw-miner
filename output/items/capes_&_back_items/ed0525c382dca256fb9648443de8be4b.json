@@ -1,0 +1,16 @@
+{
+    "urlName": "nightwings",
+    "url": "http://aqwwiki.wikidot.com/nightwings",
+    "name": "Nightwings",
+    "type": "capes_&_back_items",
+    "description": "I believe I can fly. I believe I can crush the sky. I take to the battlefield every night and day. Kill my enemies and fly away.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nightwings/Nightwings.png"
+    ],
+    "hash": "ed0525c382dca256fb9648443de8be4b"
+}

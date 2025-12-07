@@ -1,0 +1,16 @@
+{
+    "urlName": "green-backpack",
+    "url": "http://aqwwiki.wikidot.com/green-backpack",
+    "name": "Green Backpack",
+    "type": "capes_&_back_items",
+    "description": "A good backpack is vital for every hero --",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5SGv1Du.png"
+    ],
+    "hash": "b30022eb6243726560885fd83e621e3d"
+}

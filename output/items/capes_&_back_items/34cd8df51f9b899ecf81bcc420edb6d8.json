@@ -1,0 +1,17 @@
+{
+    "urlName": "acid-rain-horned-cape",
+    "url": "http://aqwwiki.wikidot.com/acid-rain-horned-cape",
+    "name": "Acid Rain Horned Cape",
+    "type": "capes_&_back_items",
+    "description": "Using their magic to pollute and cause harm to Lore, these acidic magi gain their powers from dirty sludge and other toxins.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vTViUpj.png",
+        "https://i.imgur.com/xVhIX4l.png"
+    ],
+    "hash": "34cd8df51f9b899ecf81bcc420edb6d8"
+}

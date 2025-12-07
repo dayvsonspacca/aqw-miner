@@ -1,0 +1,16 @@
+{
+    "urlName": "virescent-cloak",
+    "url": "http://aqwwiki.wikidot.com/virescent-cloak",
+    "name": "Virescent Cloak",
+    "type": "capes_&_back_items",
+    "description": "Be they they clear skies or the shimmering seas, this virescent hue recalls sweet nostalgia, and invokes hope for the future.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/zeckEle.png"
+    ],
+    "hash": "2deed5ec1c44de6c34c23dfb963fee21"
+}

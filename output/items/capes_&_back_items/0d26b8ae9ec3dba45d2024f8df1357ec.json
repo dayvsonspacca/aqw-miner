@@ -1,0 +1,16 @@
+{
+    "urlName": "tongue-of-flame",
+    "url": "http://aqwwiki.wikidot.com/tongue-of-flame",
+    "name": "Tongue of Flame",
+    "type": "capes_&_back_items",
+    "description": "It's not actually made of flame, but it is a real tongue.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tongue-of-flame/TongueofFlame.png"
+    ],
+    "hash": "0d26b8ae9ec3dba45d2024f8df1357ec"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "backup-barbed-wire-bat",
+    "url": "http://aqwwiki.wikidot.com/backup-barbed-wire-bat",
+    "name": "Backup Barbed Wire Bat",
+    "type": "capes_&_back_items",
+    "description": "The barbs are mean, but if we were bringing out the bats, no one was thinking about peacing it out in the first place.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GaU8P8x.png"
+    ],
+    "hash": "e2d909eeeb5dbf9711cd6837d79fd4a7"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "charged-thunder-clouds",
+    "url": "http://aqwwiki.wikidot.com/charged-thunder-clouds",
+    "name": "Charged Thunder Clouds",
+    "type": "capes_&_back_items",
+    "description": "You'd think that combining the lightning and water would be dangerous. Not for the Thunderborn!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WOikeDK.png",
+        "https://i.imgur.com/RxnvrLW.png"
+    ],
+    "hash": "f24d33f0b7914cffdb6862061bf63bdf"
+}

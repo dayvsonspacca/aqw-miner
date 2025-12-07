@@ -1,0 +1,16 @@
+{
+    "urlName": "gotchi-neko-veil",
+    "url": "http://aqwwiki.wikidot.com/gotchi-neko-veil",
+    "name": "Gotchi Neko Veil",
+    "type": "capes_&_back_items",
+    "description": "Peer through the veil and witness the most adorable sight you've ever laid eyes on.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Gso9lRU.png"
+    ],
+    "hash": "e8f81db99a950dd3e743dea1033a0eb6"
+}

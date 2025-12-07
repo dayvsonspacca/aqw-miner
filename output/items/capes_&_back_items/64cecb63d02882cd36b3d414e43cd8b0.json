@@ -1,0 +1,16 @@
+{
+    "urlName": "wings-of-dawn",
+    "url": "http://aqwwiki.wikidot.com/wings-of-dawn",
+    "name": "Wings of Dawn",
+    "type": "capes_&_back_items",
+    "description": "Let it soar! Let it soar! Can't hold you back anymore!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wings-of-dawn/WingsofDawn.png"
+    ],
+    "hash": "64cecb63d02882cd36b3d414e43cd8b0"
+}

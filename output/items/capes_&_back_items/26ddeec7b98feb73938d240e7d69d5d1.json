@@ -1,0 +1,16 @@
+{
+    "urlName": "holly-cape",
+    "url": "http://aqwwiki.wikidot.com/holly-cape",
+    "name": "Holly Cape",
+    "type": "capes_&_back_items",
+    "description": "A very holly cape that has survived many battles in order to protect the Frostval spirit.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/UNwTrlL.png"
+    ],
+    "hash": "26ddeec7b98feb73938d240e7d69d5d1"
+}

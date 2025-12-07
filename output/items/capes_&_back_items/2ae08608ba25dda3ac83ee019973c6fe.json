@@ -1,0 +1,16 @@
+{
+    "urlName": "ruby-gem-cape",
+    "url": "http://aqwwiki.wikidot.com/ruby-gem-cape",
+    "name": "Ruby Gem Cape",
+    "type": "capes_&_back_items",
+    "description": "The light from stars powers this gem.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QY76k68.png",
+        "https://i.imgur.com/TT48QDm.png"
+    ],
+    "hash": "2ae08608ba25dda3ac83ee019973c6fe"
+}

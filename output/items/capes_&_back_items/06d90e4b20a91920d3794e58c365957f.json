@@ -1,0 +1,17 @@
+{
+    "urlName": "techno-wings",
+    "url": "http://aqwwiki.wikidot.com/techno-wings",
+    "name": "Techno Wings",
+    "type": "capes_&_back_items",
+    "description": "Time heals all wounds, except those caused by cutting yourself on these blades!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/techno-wings/TechnoWings.png"
+    ],
+    "hash": "06d90e4b20a91920d3794e58c365957f"
+}

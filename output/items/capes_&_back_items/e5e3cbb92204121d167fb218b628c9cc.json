@@ -1,0 +1,16 @@
+{
+    "urlName": "runes-of-glacera",
+    "url": "http://aqwwiki.wikidot.com/runes-of-glacera",
+    "name": "Runes Of Glacera",
+    "type": "capes_&_back_items",
+    "description": "Channel the icy power of the planet Glacera to Freeze your enemies in their tracks!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/runes-of-glacera/RunesofGlacera.png"
+    ],
+    "hash": "e5e3cbb92204121d167fb218b628c9cc"
+}

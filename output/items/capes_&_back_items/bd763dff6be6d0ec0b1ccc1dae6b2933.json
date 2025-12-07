@@ -1,0 +1,16 @@
+{
+    "urlName": "mystic-adventurer-s-cape",
+    "url": "http://aqwwiki.wikidot.com/mystic-adventurer-s-cape",
+    "name": "Mystic Adventurer's Cape",
+    "type": "capes_&_back_items",
+    "description": "Using this cape, you will be able to disappear in the shadows like the cold dark night.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mystic-adventurer-s-cape/MysticAdventurer'sCape.png"
+    ],
+    "hash": "bd763dff6be6d0ec0b1ccc1dae6b2933"
+}

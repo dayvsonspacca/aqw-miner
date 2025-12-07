@@ -1,0 +1,18 @@
+{
+    "urlName": "snowball-trebuchet",
+    "url": "http://aqwwiki.wikidot.com/snowball-trebuchet",
+    "name": "Snowball Trebuchet",
+    "type": "capes_&_back_items",
+    "description": "Happy Frostval!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/zbdNnGC.png",
+        "http://i.imgur.com/iyvH6wn.png"
+    ],
+    "hash": "14c71f9419213ac2689baf82ca3df141"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "atramentous-wings",
+    "url": "http://aqwwiki.wikidot.com/atramentous-wings",
+    "name": "Atramentous Wings",
+    "type": "capes_&_back_items",
+    "description": "Be a master of the shadows with these haunting pitch-black wings!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/atramentous-wings/AtramentousWingsClosed.png",
+        "http://aqwwiki.wdfiles.com/local--files/atramentous-wings/AtramentousWingsOpen.png"
+    ],
+    "hash": "37d7492e43430540398bc580854ec654"
+}

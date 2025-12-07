@@ -1,0 +1,17 @@
+{
+    "urlName": "turkeychampion-cape",
+    "url": "http://aqwwiki.wikidot.com/turkeychampion-cape",
+    "name": "TurkeyChampion Cape",
+    "type": "capes_&_back_items",
+    "description": "You have mastered the culinary arts. Your many victories against the turkey have earned you the right to adorn yourself in its feathers. You are a champion on the battlefield and at the dinner table.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/jsMSD7D.png"
+    ],
+    "hash": "69841f9806d5922a5b9b890f22a35e94"
+}

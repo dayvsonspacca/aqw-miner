@@ -1,0 +1,16 @@
+{
+    "urlName": "hydra-core-unit",
+    "url": "http://aqwwiki.wikidot.com/hydra-core-unit",
+    "name": "Hydra-Core Unit",
+    "type": "capes_&_back_items",
+    "description": "Essential navigational tools that facilitate extremely sharp maneuvers with the least amount of drag. It comes with one downside. Everyone's going to spot you from a mile away.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/XLCFkSM.png"
+    ],
+    "hash": "5a23002a512acc54ac1f97558b83e660"
+}

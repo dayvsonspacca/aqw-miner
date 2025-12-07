@@ -1,0 +1,17 @@
+{
+    "urlName": "evolved-paragon-cape",
+    "url": "http://aqwwiki.wikidot.com/evolved-paragon-cape",
+    "name": "Evolved Paragon Cape",
+    "type": "capes_&_back_items",
+    "description": "The evolution of Lore's greatest and darkest cape!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/cyt1dI2.png",
+        "http://aqwwiki.wdfiles.com/local--files/evolved-paragon-cape/EvolvedParagonCape.png"
+    ],
+    "hash": "498965de80b3cdb52b494925e4af50db"
+}

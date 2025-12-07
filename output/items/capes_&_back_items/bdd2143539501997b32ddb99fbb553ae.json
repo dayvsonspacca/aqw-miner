@@ -1,0 +1,16 @@
+{
+    "urlName": "lunarmancer-rune",
+    "url": "http://aqwwiki.wikidot.com/lunarmancer-rune",
+    "name": "Lunarmancer Rune",
+    "type": "capes_&_back_items",
+    "description": "This crescent cape honors the moon and the power it gives Lunarmancers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunarmancer-rune/LunarmancerRune.png"
+    ],
+    "hash": "bdd2143539501997b32ddb99fbb553ae"
+}

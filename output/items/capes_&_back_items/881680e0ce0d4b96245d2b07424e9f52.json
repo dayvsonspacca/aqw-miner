@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowstrike-kite",
+    "url": "http://aqwwiki.wikidot.com/shadowstrike-kite",
+    "name": "ShadowStrike Kite",
+    "type": "capes_&_back_items",
+    "description": "A kite stitched from shadow and steel. Watch it cut across the skies of Burning Beach like a predator searching for prey",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GyYmo1J.png"
+    ],
+    "hash": "881680e0ce0d4b96245d2b07424e9f52"
+}

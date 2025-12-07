@@ -1,0 +1,17 @@
+{
+    "urlName": "electric-storm-cape",
+    "url": "http://aqwwiki.wikidot.com/electric-storm-cape",
+    "name": "Electric Storm Cape",
+    "type": "capes_&_back_items",
+    "description": "Call down the lightning and summon thunder to terrify your foes with this cape from Twilly's Spring Seasonal 2013 shop!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/electric-storm-cape/ElectricStormCape.png",
+        "http://aqwwiki.wdfiles.com/local--files/electric-storm-cape/ElectricStormCapeA.png"
+    ],
+    "hash": "fc572555af994dcd85f5fe229072badc"
+}

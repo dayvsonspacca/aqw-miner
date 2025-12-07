@@ -1,0 +1,16 @@
+{
+    "urlName": "runed-knight-s-portal-cape",
+    "url": "http://aqwwiki.wikidot.com/runed-knight-s-portal-cape",
+    "name": "Runed Knight's Portal Cape",
+    "type": "capes_&_back_items",
+    "description": "You recovered this mysterious, glowing item after defeating Lord Reignolds in his lair. It pulses with a strange, unsettling power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cCXFt8g.png"
+    ],
+    "hash": "0bc044572942c5dcc764960ec171aed9"
+}

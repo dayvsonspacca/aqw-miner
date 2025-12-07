@@ -1,0 +1,16 @@
+{
+    "urlName": "blessed-knight-wings",
+    "url": "http://aqwwiki.wikidot.com/blessed-knight-wings",
+    "name": "Blessed Knight Wings",
+    "type": "capes_&_back_items",
+    "description": "These rare Knights are affiliated with the Order of Paladins, but channel a special type of light magic which melds with their armor, hair, and weapons over time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blessed-knight-wings/BlessedKnightWings.png"
+    ],
+    "hash": "968cf46e7b353f4bed3c1e8bf100034a"
+}

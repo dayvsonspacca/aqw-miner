@@ -1,0 +1,16 @@
+{
+    "urlName": "mana-rune-aura",
+    "url": "http://aqwwiki.wikidot.com/mana-rune-aura",
+    "name": "Mana Rune Aura",
+    "type": "capes_&_back_items",
+    "description": "A mystical aura from the ancient runes at your back will protect you from harm!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mana-rune-aura/ManaRuneAura.png"
+    ],
+    "hash": "711c70e0306f1ecf9d123dbae56c05fc"
+}

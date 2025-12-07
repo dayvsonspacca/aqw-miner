@@ -1,0 +1,16 @@
+{
+    "urlName": "mediator-wings-legend",
+    "url": "http://aqwwiki.wikidot.com/mediator-wings-legend",
+    "name": "Mediator Wings (Legend)",
+    "type": "capes_&_back_items",
+    "description": "An add-on for the Mecha Gear system which provides increased acceleration.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9f6TDfQ.png"
+    ],
+    "hash": "217e0b23d67cb0003be145efe3c99091"
+}

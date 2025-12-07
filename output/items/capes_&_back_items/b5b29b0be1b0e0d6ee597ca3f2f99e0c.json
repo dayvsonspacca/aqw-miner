@@ -1,0 +1,16 @@
+{
+    "urlName": "soft-shelled-cape",
+    "url": "http://aqwwiki.wikidot.com/soft-shelled-cape",
+    "name": "Soft Shelled Cape",
+    "type": "capes_&_back_items",
+    "description": "Not everyone likes the crunchy texture of a hard taco shell. Those folks can clothe themselves in this soft, floury cape.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/TrERYQl.png"
+    ],
+    "hash": "b5b29b0be1b0e0d6ee597ca3f2f99e0c"
+}

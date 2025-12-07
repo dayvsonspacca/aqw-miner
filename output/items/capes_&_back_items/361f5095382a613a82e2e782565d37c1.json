@@ -1,0 +1,16 @@
+{
+    "urlName": "knight-cloak",
+    "url": "http://aqwwiki.wikidot.com/knight-cloak",
+    "name": "Knight Cloak",
+    "type": "capes_&_back_items",
+    "description": "The classic knight, straight out of a fairy tale or chivalric legend, are hard to come by these days.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/OREfz81.png"
+    ],
+    "hash": "361f5095382a613a82e2e782565d37c1"
+}

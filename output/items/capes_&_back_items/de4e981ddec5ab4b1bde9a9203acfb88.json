@@ -1,0 +1,16 @@
+{
+    "urlName": "wings-of-faith",
+    "url": "http://aqwwiki.wikidot.com/wings-of-faith",
+    "name": "Wings Of Faith",
+    "type": "capes_&_back_items",
+    "description": "Faith in yourself, or your friends and comrades, shall be your wings this day. May it take you higher than you've ever been.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wings-of-faith/WingsofFaith.png"
+    ],
+    "hash": "de4e981ddec5ab4b1bde9a9203acfb88"
+}

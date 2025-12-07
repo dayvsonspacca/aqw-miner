@@ -1,0 +1,15 @@
+{
+    "urlName": "legion-priest-shroud",
+    "url": "http://aqwwiki.wikidot.com/legion-priest-shroud",
+    "name": "Legion Priest Shroud",
+    "type": "capes_&_back_items",
+    "description": "This cape will mark you disappear into the night and hide wall in the Underworld.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-priest-shroud/LegionPriestShroud.png"
+    ],
+    "hash": "c1e0573b6bfa652aa0ee4639e10921a4"
+}

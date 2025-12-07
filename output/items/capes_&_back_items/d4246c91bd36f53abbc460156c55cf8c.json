@@ -1,0 +1,17 @@
+{
+    "urlName": "mana-guardian-s-rift",
+    "url": "http://aqwwiki.wikidot.com/mana-guardian-s-rift",
+    "name": "Mana Guardian's Rift",
+    "type": "capes_&_back_items",
+    "description": "The Mana Core contains the most pure magic available. Any mage drawing from the Core would be flooded with pure magic, overcome in a deluge of power which would burn through their physical, mental, and magical veins. It MUST be guarded to protect our world.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/MvghS6t.png",
+        "https://i.imgur.com/cG0eZPV.png"
+    ],
+    "hash": "d4246c91bd36f53abbc460156c55cf8c"
+}

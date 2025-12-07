@@ -1,0 +1,17 @@
+{
+    "urlName": "web-of-poison",
+    "url": "http://aqwwiki.wikidot.com/web-of-poison",
+    "name": "Web of Poison",
+    "type": "capes_&_back_items",
+    "description": "Not to worry, the spiders that have woven this unusual web won't harm anyone wearing it unless the incorrect attire is worn. To be safe, wearing matching colors is recommended if you are up to the challenge, but the spiders do practice to deceive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/web-of-poison/WebofPoison.png"
+    ],
+    "hash": "7d8a9fb41c6da82da161a96d2e86e1a4"
+}

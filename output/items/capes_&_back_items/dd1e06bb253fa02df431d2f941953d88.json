@@ -1,0 +1,19 @@
+{
+    "urlName": "shadow-hanzo-katana-cape",
+    "url": "http://aqwwiki.wikidot.com/shadow-hanzo-katana-cape",
+    "name": "Shadow Hanzo Katana Cape",
+    "type": "capes_&_back_items",
+    "description": "Nulgath has rewarded you with a golden cape. Do not take it for granted.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/h2zB3f7.png",
+        "https://i.imgur.com/NYyHMyo.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-hanzo-katana-cape/SHKCN.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-hanzo-katana-cape/SHKCA.png"
+    ],
+    "hash": "dd1e06bb253fa02df431d2f941953d88"
+}

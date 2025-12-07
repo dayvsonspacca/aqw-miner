@@ -1,0 +1,17 @@
+{
+    "urlName": "seal-of-balance",
+    "url": "http://aqwwiki.wikidot.com/seal-of-balance",
+    "name": "Seal of Balance",
+    "type": "capes_&_back_items",
+    "description": "It is said that once the three Aura Blades were bound together that pure balance is found and can be worn as protection around anything unbalanced.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/3KzAgJl.png",
+        "https://i.imgur.com/64pOnM7.png"
+    ],
+    "hash": "5130e9944af789f1eafd5464833cd91f"
+}

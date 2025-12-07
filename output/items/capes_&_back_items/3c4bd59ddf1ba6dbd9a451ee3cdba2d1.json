@@ -1,0 +1,17 @@
+{
+    "urlName": "twilight-stars",
+    "url": "http://aqwwiki.wikidot.com/twilight-stars",
+    "name": "Twilight Stars",
+    "type": "capes_&_back_items",
+    "description": "Carry your winter wonderland around with you.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/p6Dy6kL.png",
+        "https://imgur.com/jWhVlRF.png"
+    ],
+    "hash": "3c4bd59ddf1ba6dbd9a451ee3cdba2d1"
+}

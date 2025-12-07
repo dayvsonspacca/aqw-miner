@@ -1,0 +1,17 @@
+{
+    "urlName": "toxic-aura-backblades",
+    "url": "http://aqwwiki.wikidot.com/toxic-aura-backblades",
+    "name": "Toxic Aura Backblades",
+    "type": "capes_&_back_items",
+    "description": "Three Toxic Aura blades that are tuned to follow the command \"Hey Bido!\" whilst in combat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/FIR4NbC.png",
+        "https://i.imgur.com/ukh9EFI.png"
+    ],
+    "hash": "e8994597a5e7ec100ffc20a44723f217"
+}

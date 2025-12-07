@@ -1,0 +1,15 @@
+{
+    "urlName": "aus-some-cape",
+    "url": "http://aqwwiki.wikidot.com/aus-some-cape",
+    "name": "AUS-some Cape",
+    "type": "capes_&_back_items",
+    "description": "Wrap yourself in the pride of Australia!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/aus-some-cape/AUS-someCape.png"
+    ],
+    "hash": "256041c2180d5970430cfe482ffdf1c1"
+}

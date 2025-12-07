@@ -1,0 +1,16 @@
+{
+    "urlName": "luna-cape",
+    "url": "http://aqwwiki.wikidot.com/luna-cape",
+    "name": "Luna Cape",
+    "type": "capes_&_back_items",
+    "description": "As long as the moon is on your side, there will be never be darkness in the night. Watch out for werewolves and uncontrallable tides, though.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/luna-cape/LunaCape.png"
+    ],
+    "hash": "438f5818c0beb38b0aaf5b5f163245c6"
+}

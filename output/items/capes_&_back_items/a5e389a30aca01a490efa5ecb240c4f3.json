@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-rune-cape-ac",
+    "url": "http://aqwwiki.wikidot.com/golden-rune-cape-ac",
+    "name": "Golden Rune Cape (AC)",
+    "type": "capes_&_back_items",
+    "description": "All that glitters is gold\u2026 and those who heed the call of battle shall be protected by the Golden Rune Cape!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-rune-cape-ac/GoldenRuneCape.png"
+    ],
+    "hash": "a5e389a30aca01a490efa5ecb240c4f3"
+}

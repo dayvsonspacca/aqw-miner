@@ -1,0 +1,17 @@
+{
+    "urlName": "spirit-of-the-flame-titan",
+    "url": "http://aqwwiki.wikidot.com/spirit-of-the-flame-titan",
+    "name": "Spirit of the Flame Titan",
+    "type": "capes_&_back_items",
+    "description": "Available whenever flaming phoenix-like titans are sold!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spirit-of-the-flame-titan/SpiritoftheFlameTitanN.png",
+        "http://aqwwiki.wdfiles.com/local--files/spirit-of-the-flame-titan/SpiritoftheFlameTitanW.png"
+    ],
+    "hash": "fe0086e7837c799c68e6f28367a03dc7"
+}

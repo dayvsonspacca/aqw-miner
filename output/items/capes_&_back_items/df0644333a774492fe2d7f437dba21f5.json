@@ -1,0 +1,16 @@
+{
+    "urlName": "schwarzwald",
+    "url": "http://aqwwiki.wikidot.com/schwarzwald",
+    "name": "Schwarzwald",
+    "type": "capes_&_back_items",
+    "description": "The black cat of the back alleys, rumored to be a legend among felines slinking through the dark. Perhaps all alley cats join them in death, adding to its spines and legs.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0PcvLuv.png"
+    ],
+    "hash": "df0644333a774492fe2d7f437dba21f5"
+}

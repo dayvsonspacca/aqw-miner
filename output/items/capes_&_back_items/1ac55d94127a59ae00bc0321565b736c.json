@@ -1,0 +1,15 @@
+{
+    "urlName": "dainty-party-wings",
+    "url": "http://aqwwiki.wikidot.com/dainty-party-wings",
+    "name": "Dainty Party Wings",
+    "type": "capes_&_back_items",
+    "description": "A pair of elegant wings fit for any wedding. They might be a bit out of place, what with the Void and all, but that doesn't make them any less beautiful.",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dainty-party-wings/DaintyPartyWings.png"
+    ],
+    "hash": "1ac55d94127a59ae00bc0321565b736c"
+}

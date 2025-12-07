@@ -1,0 +1,16 @@
+{
+    "urlName": "sugared-almond-sack",
+    "url": "http://aqwwiki.wikidot.com/sugared-almond-sack",
+    "name": "Sugared Almond Sack",
+    "type": "capes_&_back_items",
+    "description": "Perfect to roast over an open fire.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/72G9LzP.png"
+    ],
+    "hash": "d391cd89e24bef297c00c8785fa7e410"
+}

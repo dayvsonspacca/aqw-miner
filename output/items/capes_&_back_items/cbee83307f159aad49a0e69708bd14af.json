@@ -1,0 +1,16 @@
+{
+    "urlName": "static-cloud-cape",
+    "url": "http://aqwwiki.wikidot.com/static-cloud-cape",
+    "name": "Static Cloud Cape",
+    "type": "capes_&_back_items",
+    "description": "For when you want to make a quick escape without being seen.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/xAvxG0d.png"
+    ],
+    "hash": "cbee83307f159aad49a0e69708bd14af"
+}

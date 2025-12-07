@@ -1,0 +1,16 @@
+{
+    "urlName": "argus-panoptes-warden",
+    "url": "http://aqwwiki.wikidot.com/argus-panoptes-warden",
+    "name": "Argus Panoptes Warden",
+    "type": "capes_&_back_items",
+    "description": "A cruel giant who serves the Legion, Argus diligently watches and tortures its prisoners. His favorite activity is to crush them like ants under his thumbs. It seems you invited him to play.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/R1axSPy.png"
+    ],
+    "hash": "a7470800a7e496b73f302876bdac693d"
+}

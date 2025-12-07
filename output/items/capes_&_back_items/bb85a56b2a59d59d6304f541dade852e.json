@@ -1,0 +1,17 @@
+{
+    "urlName": "graffiti-crown",
+    "url": "http://aqwwiki.wikidot.com/graffiti-crown",
+    "name": "Graffiti Crown",
+    "type": "capes_&_back_items",
+    "description": "The crown of a real punklord!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8zOewRN.png",
+        "https://i.imgur.com/N7nOjuz.png"
+    ],
+    "hash": "bb85a56b2a59d59d6304f541dade852e"
+}

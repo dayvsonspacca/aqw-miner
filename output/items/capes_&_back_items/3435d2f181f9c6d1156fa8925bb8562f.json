@@ -1,0 +1,16 @@
+{
+    "urlName": "starry-parrot",
+    "url": "http://aqwwiki.wikidot.com/starry-parrot",
+    "name": "Starry Parrot",
+    "type": "capes_&_back_items",
+    "description": "Polly want a comet? This here bird be outta this world, sailor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/starry-parrot/StarryParrotN.png",
+        "http://aqwwiki.wdfiles.com/local--files/starry-parrot/StarryParrotA.png"
+    ],
+    "hash": "3435d2f181f9c6d1156fa8925bb8562f"
+}

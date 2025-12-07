@@ -1,0 +1,17 @@
+{
+    "urlName": "archfiend-cloak-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/archfiend-cloak-of-nulgath",
+    "name": "Archfiend Cloak of Nulgath",
+    "type": "capes_&_back_items",
+    "description": "You shape your wings into a cloak and horns jut from your back.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/archfiend-cloak-of-nulgath/ArchfiendCloakOfNulgath.png"
+    ],
+    "hash": "baa56d088b16a9502acbe006cc76af27"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "hydra-core-rudder",
+    "url": "http://aqwwiki.wikidot.com/hydra-core-rudder",
+    "name": "Hydra-Core Rudder",
+    "type": "capes_&_back_items",
+    "description": "An essential navigational tool that facilitates extremely sharp maneuvers with the least amount of drag. It comes with one downside. Everyone's going to spot you from a mile away.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/FvEM7gz.png"
+    ],
+    "hash": "c301a328510077147bf4592825ad9290"
+}

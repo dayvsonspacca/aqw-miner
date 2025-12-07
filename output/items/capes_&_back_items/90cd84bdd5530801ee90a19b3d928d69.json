@@ -1,0 +1,17 @@
+{
+    "urlName": "platinum-undead-parrot",
+    "url": "http://aqwwiki.wikidot.com/platinum-undead-parrot",
+    "name": "Platinum Undead Parrot",
+    "type": "capes_&_back_items",
+    "description": "The only parrot in the world that eats platinum dubloons instead of crackers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/platinum-undead-parrot/PlatinumUndeadParrotN.png",
+        "http://aqwwiki.wdfiles.com/local--files/platinum-undead-parrot/PlatinumUndeadParrotM.png"
+    ],
+    "hash": "90cd84bdd5530801ee90a19b3d928d69"
+}

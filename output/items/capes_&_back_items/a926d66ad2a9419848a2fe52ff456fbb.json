@@ -1,0 +1,15 @@
+{
+    "urlName": "invoker-book-cape",
+    "url": "http://aqwwiki.wikidot.com/invoker-book-cape",
+    "name": "Invoker Book Cape",
+    "type": "capes_&_back_items",
+    "description": "Have book, will travel. (Gives 15% more rep and 3% more Class Points when equipped)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/JH6g4kH.png"
+    ],
+    "hash": "a926d66ad2a9419848a2fe52ff456fbb"
+}

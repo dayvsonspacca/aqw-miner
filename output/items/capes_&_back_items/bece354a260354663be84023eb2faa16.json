@@ -1,0 +1,17 @@
+{
+    "urlName": "doom-fire",
+    "url": "http://aqwwiki.wikidot.com/doom-fire",
+    "name": "Doom Fire",
+    "type": "capes_&_back_items",
+    "description": "Your spirit is ablaze with dark energy.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/JYueOyc.png",
+        "http://i.imgur.com/Dzs4dmZ.png"
+    ],
+    "hash": "bece354a260354663be84023eb2faa16"
+}

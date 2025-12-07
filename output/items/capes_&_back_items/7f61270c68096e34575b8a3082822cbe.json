@@ -1,0 +1,16 @@
+{
+    "urlName": "first-day-pack",
+    "url": "http://aqwwiki.wikidot.com/first-day-pack",
+    "name": "First Day Pack",
+    "type": "capes_&_back_items",
+    "description": "The perfect back for your first day back to battling books OR bosses.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Qli5DAn.png"
+    ],
+    "hash": "7f61270c68096e34575b8a3082822cbe"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "blue-snowflakes",
+    "url": "http://aqwwiki.wikidot.com/blue-snowflakes",
+    "name": "Blue Snowflakes",
+    "type": "capes_&_back_items",
+    "description": "Their branches grow little by little as the nights get longer.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/dyAECBt.png"
+    ],
+    "hash": "df9561f322987ef949aee4267823cb22"
+}

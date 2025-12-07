@@ -1,0 +1,17 @@
+{
+    "urlName": "centipedes",
+    "url": "http://aqwwiki.wikidot.com/centipedes",
+    "name": "Centipedes",
+    "type": "capes_&_back_items",
+    "description": "How many legs does a centipede have? One thousand minus seven?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/centipedes/CentipedesN.png",
+        "http://aqwwiki.wdfiles.com/local--files/centipedes/CentipedesA.png"
+    ],
+    "hash": "140cb2f6d2cf0aee86721ee4c986b50f"
+}

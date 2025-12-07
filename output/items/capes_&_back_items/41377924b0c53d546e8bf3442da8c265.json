@@ -1,0 +1,16 @@
+{
+    "urlName": "lichbone-cape",
+    "url": "http://aqwwiki.wikidot.com/lichbone-cape",
+    "name": "Lichbone Cape",
+    "type": "capes_&_back_items",
+    "description": "Mostly, this will protect you because no one will want to risk touching that lich goo.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/NBA64A1.png"
+    ],
+    "hash": "41377924b0c53d546e8bf3442da8c265"
+}

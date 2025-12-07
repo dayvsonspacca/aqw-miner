@@ -1,0 +1,16 @@
+{
+    "urlName": "striped-scarf",
+    "url": "http://aqwwiki.wikidot.com/striped-scarf",
+    "name": "Striped Scarf",
+    "type": "capes_&_back_items",
+    "description": "Striped Scarfs are totally in style!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/QlDlzCT.png"
+    ],
+    "hash": "aa320b93773c76a2002e5eae6daee601"
+}

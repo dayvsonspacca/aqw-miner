@@ -1,0 +1,17 @@
+{
+    "urlName": "nightshock-wings",
+    "url": "http://aqwwiki.wikidot.com/nightshock-wings",
+    "name": "Nightshock Wings",
+    "type": "capes_&_back_items",
+    "description": "These technological marvels hum with electrical energy. Careful not to touch them when they're sparking!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://imgur.com/bTSTANJ.png",
+        "http://aqwwiki.wdfiles.com/local--files/nightshock-wings/NightshockWings.png"
+    ],
+    "hash": "fd17de29e5b527ae5b42f9a3f92e8eee"
+}

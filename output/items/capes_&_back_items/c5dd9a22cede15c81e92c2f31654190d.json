@@ -1,0 +1,16 @@
+{
+    "urlName": "back-up-solarcore-shield",
+    "url": "http://aqwwiki.wikidot.com/back-up-solarcore-shield",
+    "name": "Back-Up Solarcore Shield",
+    "type": "capes_&_back_items",
+    "description": "A shield that can unfold to absorb both solar energy and magical attacks. Can act as storage for mana in cases of emergency. Warning, harnesses more mana than your body can handle will have harmful side effects.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/eNkWgwc.png",
+        "https://i.imgur.com/mFayjbw.png"
+    ],
+    "hash": "c5dd9a22cede15c81e92c2f31654190d"
+}

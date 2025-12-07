@@ -1,0 +1,17 @@
+{
+    "urlName": "wanderer-s-runic-seal-ac",
+    "url": "http://aqwwiki.wikidot.com/wanderer-s-runic-seal-ac",
+    "name": "Wanderer's Runic Seal (AC)",
+    "type": "capes_&_back_items",
+    "description": "This seal identifies you as of the few powerful enough to talk the path of the stars and move through the hallways between realities.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wanderer-s-runic-seal-ac/WRSN.png",
+        "http://aqwwiki.wdfiles.com/local--files/wanderer-s-runic-seal-ac/WRSO.png"
+    ],
+    "hash": "2d61d846d49e8263b85185f459439b5a"
+}

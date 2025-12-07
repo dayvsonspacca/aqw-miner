@@ -1,0 +1,16 @@
+{
+    "urlName": "cysero-s-crimson-cloak",
+    "url": "http://aqwwiki.wikidot.com/cysero-s-crimson-cloak",
+    "name": "Cysero's Crimson Cloak",
+    "type": "capes_&_back_items",
+    "description": "The blood red cloak of Cysero the Weaponbreaker.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cysero-s-crimson-cloak/Cysero'sCrimsonCloak.png"
+    ],
+    "hash": "b5a7e594e007a5441d3bb577ebf28923"
+}

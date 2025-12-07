@@ -1,0 +1,16 @@
+{
+    "urlName": "smoke-and-feathers",
+    "url": "http://aqwwiki.wikidot.com/smoke-and-feathers",
+    "name": "Smoke and Feathers",
+    "type": "capes_&_back_items",
+    "description": "Your soot looks quite salutary.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/smoke-and-feathers/SmokeandFeathers.png"
+    ],
+    "hash": "cb310c5013e58593ab137a9558773750"
+}

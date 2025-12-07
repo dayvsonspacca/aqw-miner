@@ -1,0 +1,16 @@
+{
+    "urlName": "striped-warok-mantle",
+    "url": "http://aqwwiki.wikidot.com/striped-warok-mantle",
+    "name": "Striped Warok Mantle",
+    "type": "capes_&_back_items",
+    "description": "A cloak patterned after the Warok's ceremonial garb, flowing in red and gold stripes as bold as the dancers who wear it.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WVkZ1Ln.png"
+    ],
+    "hash": "126f65d3c3e2580e88c3d1674ef6dfa8"
+}

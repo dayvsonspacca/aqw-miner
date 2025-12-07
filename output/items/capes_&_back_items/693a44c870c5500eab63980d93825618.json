@@ -1,0 +1,15 @@
+{
+    "urlName": "evil-scarf",
+    "url": "http://aqwwiki.wikidot.com/evil-scarf",
+    "name": "Evil Scarf",
+    "type": "capes_&_back_items",
+    "description": "This scarf is bad meaning bad, not bad meaning good.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evil-scarf/EvilScarf.png"
+    ],
+    "hash": "693a44c870c5500eab63980d93825618"
+}

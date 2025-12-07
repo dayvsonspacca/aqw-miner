@@ -1,0 +1,16 @@
+{
+    "urlName": "scorpion-arms",
+    "url": "http://aqwwiki.wikidot.com/scorpion-arms",
+    "name": "Scorpion Arms",
+    "type": "capes_&_back_items",
+    "description": "These tentacles are great for ripping apart the cults' nemeses and reminding them of the rising Scorpion!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/scorpion-arms/ScorpionArms.png"
+    ],
+    "hash": "dc1b6238a95ca2176818754eb8e41013"
+}

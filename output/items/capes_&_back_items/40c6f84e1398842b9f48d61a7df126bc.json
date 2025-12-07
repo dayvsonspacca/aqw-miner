@@ -1,0 +1,16 @@
+{
+    "urlName": "afk-back-mounted-hologram",
+    "url": "http://aqwwiki.wikidot.com/afk-back-mounted-hologram",
+    "name": "AFK Back Mounted Hologram",
+    "type": "capes_&_back_items",
+    "description": "This body's made to be paid attention to. Until your delivery arrives at the door, or if your phone's ringing, or if the pet's seeing ghosts again.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Bt0sWp2.png",
+        "https://i.imgur.com/h8jxGnV.png"
+    ],
+    "hash": "40c6f84e1398842b9f48d61a7df126bc"
+}

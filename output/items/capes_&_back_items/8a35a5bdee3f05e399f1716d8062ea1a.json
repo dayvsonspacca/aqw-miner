@@ -1,0 +1,16 @@
+{
+    "urlName": "high-mage-cape",
+    "url": "http://aqwwiki.wikidot.com/high-mage-cape",
+    "name": "High Mage Cape",
+    "type": "capes_&_back_items",
+    "description": "A mysterious ring, adorned with magical essence appears behind you. Your back will forever be watched.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/high-mage-cape/HighMageCape.png"
+    ],
+    "hash": "8a35a5bdee3f05e399f1716d8062ea1a"
+}

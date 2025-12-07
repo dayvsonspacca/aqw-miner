@@ -1,0 +1,16 @@
+{
+    "urlName": "oathkeeper-mantle",
+    "url": "http://aqwwiki.wikidot.com/oathkeeper-mantle",
+    "name": "OathKeeper Mantle",
+    "type": "capes_&_back_items",
+    "description": "\"I'll never forget the day that I saw him. I was searching a cave at the time. It was as though the night itself had grown wings. How do you fight against something like that?\" -Lone treasure hunter, now missing.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oathkeeper-mantle/OathKeeperMantle.png"
+    ],
+    "hash": "7b65d06e8e3b9cb89aed91bb22d52a1a"
+}

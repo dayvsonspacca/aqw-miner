@@ -1,0 +1,17 @@
+{
+    "urlName": "chrono-clock",
+    "url": "http://aqwwiki.wikidot.com/chrono-clock",
+    "name": "Chrono Clock",
+    "type": "capes_&_back_items",
+    "description": "Some say that time is on their side; Chronomancers, on the other hand, have time on their back.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chrono-clock/ChronoClock.png"
+    ],
+    "hash": "4a9d39839a16ee8af3e850373925db4f"
+}

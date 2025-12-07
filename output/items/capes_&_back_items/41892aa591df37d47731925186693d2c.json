@@ -1,0 +1,16 @@
+{
+    "urlName": "hazardous-biobattery-pack",
+    "url": "http://aqwwiki.wikidot.com/hazardous-biobattery-pack",
+    "name": "Hazardous BioBattery Pack",
+    "type": "capes_&_back_items",
+    "description": "Never run out of battery again. This Red BioBattery will unlock when the BioBeasts Facebook page reaches 15,000 likes. Thank you for supporting BioBeasts! http://biobeasts.artix.com",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hazardous-biobattery-pack/HazardousBiobatteryPack.png"
+    ],
+    "hash": "41892aa591df37d47731925186693d2c"
+}

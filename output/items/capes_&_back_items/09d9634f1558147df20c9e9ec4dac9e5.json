@@ -1,0 +1,16 @@
+{
+    "urlName": "pulsar-blasted-portal",
+    "url": "http://aqwwiki.wikidot.com/pulsar-blasted-portal",
+    "name": "Pulsar-Blasted Portal",
+    "type": "capes_&_back_items",
+    "description": "By collecting and storing the electromagnetic radiation pulses emitted by neutron stars, you're able to fuel your travels through space and time!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Ijt4SSx.png"
+    ],
+    "hash": "09d9634f1558147df20c9e9ec4dac9e5"
+}

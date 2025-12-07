@@ -1,0 +1,16 @@
+{
+    "urlName": "backup-tactical-alpha-rifle",
+    "url": "http://aqwwiki.wikidot.com/backup-tactical-alpha-rifle",
+    "name": "Backup Tactical Alpha Rifle",
+    "type": "capes_&_back_items",
+    "description": "You'll never need to worry about running out of ammo. Extra rounds are always sprinkled around town.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/VQRmMLe.png"
+    ],
+    "hash": "3d6ba6b07729157a134dedd4a3f0dcf1"
+}

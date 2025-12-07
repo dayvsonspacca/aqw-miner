@@ -1,0 +1,15 @@
+{
+    "urlName": "spider-legs",
+    "url": "http://aqwwiki.wikidot.com/spider-legs",
+    "name": "Spider Legs",
+    "type": "capes_&_back_items",
+    "description": "Six creepy spider legs sprout from your back. You look terrifying. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/xLkg20y.png"
+    ],
+    "hash": "e55aeb4c5ff32ca5078d027f534b740e"
+}

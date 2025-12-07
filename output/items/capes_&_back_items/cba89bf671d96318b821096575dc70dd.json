@@ -1,0 +1,16 @@
+{
+    "urlName": "iron-butterfly-wings",
+    "url": "http://aqwwiki.wikidot.com/iron-butterfly-wings",
+    "name": "Iron Butterfly Wings",
+    "type": "capes_&_back_items",
+    "description": "A huge pair of butterfly wings forged from solid iron. Dont expect to get anywhere fast!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/iron-butterfly-wings/IBW.png"
+    ],
+    "hash": "cba89bf671d96318b821096575dc70dd"
+}

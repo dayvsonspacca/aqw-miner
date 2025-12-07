@@ -1,0 +1,16 @@
+{
+    "urlName": "shredwake-electrosensors",
+    "url": "http://aqwwiki.wikidot.com/shredwake-electrosensors",
+    "name": "Shredwake Electrosensors",
+    "type": "capes_&_back_items",
+    "description": "Foldable sensors that can detect changes in electric currents, allowing you to sense the movements of your prey. Warning - systems will fail if you get turned upside down.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/wdBenHM.png"
+    ],
+    "hash": "a359879e758a50a8a761dcaaad3f8cdc"
+}

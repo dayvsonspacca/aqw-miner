@@ -1,0 +1,16 @@
+{
+    "urlName": "bright-grove-wings",
+    "url": "http://aqwwiki.wikidot.com/bright-grove-wings",
+    "name": "Bright Grove Wings",
+    "type": "capes_&_back_items",
+    "description": "Native to the Grove, some fairies only appear when Lucky Day is near.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/JVDSfuP.png"
+    ],
+    "hash": "151d424802e4193d9d8c3a074ac26aa9"
+}

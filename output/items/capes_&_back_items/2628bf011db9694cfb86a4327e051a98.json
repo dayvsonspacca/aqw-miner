@@ -1,0 +1,16 @@
+{
+    "urlName": "gilded-knight-cloak",
+    "url": "http://aqwwiki.wikidot.com/gilded-knight-cloak",
+    "name": "Gilded Knight Cloak",
+    "type": "capes_&_back_items",
+    "description": "A muted gold cloak meant to hold heat rather than attention.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/FEIsnB0.png"
+    ],
+    "hash": "2628bf011db9694cfb86a4327e051a98"
+}

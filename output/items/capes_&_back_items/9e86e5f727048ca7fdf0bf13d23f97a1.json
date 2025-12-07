@@ -1,0 +1,16 @@
+{
+    "urlName": "lucky-clover-runes",
+    "url": "http://aqwwiki.wikidot.com/lucky-clover-runes",
+    "name": "Lucky Clover Runes",
+    "type": "capes_&_back_items",
+    "description": "A bit o' luck will always stand a ranger in good stead as they battle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/dcIqWhE.png"
+    ],
+    "hash": "9e86e5f727048ca7fdf0bf13d23f97a1"
+}

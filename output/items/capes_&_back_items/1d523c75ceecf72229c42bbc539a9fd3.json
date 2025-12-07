@@ -1,0 +1,17 @@
+{
+    "urlName": "battle-drones",
+    "url": "http://aqwwiki.wikidot.com/battle-drones",
+    "name": "Battle Drones",
+    "type": "capes_&_back_items",
+    "description": "A small, starry-probe that can easily blend in with the night stars to watch the natural happiness of Hero's Heart Day bloom in full circulation. They're normally useful for Q-pids when giving love advice.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battle-drones/BattleDrones.png",
+        "http://aqwwiki.wdfiles.com/local--files/battle-drones/BattleDronesMove.png"
+    ],
+    "hash": "1d523c75ceecf72229c42bbc539a9fd3"
+}

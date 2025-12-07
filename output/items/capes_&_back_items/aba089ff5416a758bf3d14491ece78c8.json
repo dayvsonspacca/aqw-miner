@@ -1,0 +1,15 @@
+{
+    "urlName": "legion-backsword",
+    "url": "http://aqwwiki.wikidot.com/legion-backsword",
+    "name": "Legion Backsword",
+    "type": "capes_&_back_items",
+    "description": "A sword as dark as your soul.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-backsword/LegionBacksword.png"
+    ],
+    "hash": "aba089ff5416a758bf3d14491ece78c8"
+}

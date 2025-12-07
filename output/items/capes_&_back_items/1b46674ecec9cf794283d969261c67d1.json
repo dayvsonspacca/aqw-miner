@@ -1,0 +1,16 @@
+{
+    "urlName": "shiny-cape",
+    "url": "http://aqwwiki.wikidot.com/shiny-cape",
+    "name": "Shiny Cape",
+    "type": "capes_&_back_items",
+    "description": "Bring Shiny with you wherever you go!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/SXprXKv.png",
+        "http://aqwwiki.wdfiles.com/local--files/shiny-cape/ShinyCape.png"
+    ],
+    "hash": "1b46674ecec9cf794283d969261c67d1"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "mediator-shields",
+    "url": "http://aqwwiki.wikidot.com/mediator-shields",
+    "name": "Mediator Shields",
+    "type": "capes_&_back_items",
+    "description": "An add-on for the Mecha Gear system which provides increased defense.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/c0fs28h.png"
+    ],
+    "hash": "3afe6e61fa0b8d5d6a918e3ab73b3b67"
+}

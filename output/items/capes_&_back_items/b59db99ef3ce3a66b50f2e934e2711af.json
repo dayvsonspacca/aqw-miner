@@ -1,0 +1,16 @@
+{
+    "urlName": "seraph-s-cape",
+    "url": "http://aqwwiki.wikidot.com/seraph-s-cape",
+    "name": "Seraph's Cape",
+    "type": "capes_&_back_items",
+    "description": "Warriors who swear to fight for Laken are bestowed this cape.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lUtFzAm.png"
+    ],
+    "hash": "b59db99ef3ce3a66b50f2e934e2711af"
+}

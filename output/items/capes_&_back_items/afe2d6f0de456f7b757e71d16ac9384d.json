@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-sigil-cape-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-sigil-cape-ac",
+    "name": "Legion Sigil Cape (AC)",
+    "type": "capes_&_back_items",
+    "description": "Show all whom you serve with this Legion sigil",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DrVLMEA.png"
+    ],
+    "hash": "afe2d6f0de456f7b757e71d16ac9384d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-bloodhound",
+    "url": "http://aqwwiki.wikidot.com/underworld-bloodhound",
+    "name": "Underworld Bloodhound",
+    "type": "capes_&_back_items",
+    "description": "The fangs on this shield don't discriminate friend or foe. Blood is blood in its eyes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/underworld-bloodhound/UnderworldBloodhound.png"
+    ],
+    "hash": "5ace686df58e5c7330b0f0cd32ace26c"
+}

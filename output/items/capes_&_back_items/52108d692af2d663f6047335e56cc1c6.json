@@ -1,0 +1,17 @@
+{
+    "urlName": "nomura-s-tentacles",
+    "url": "http://aqwwiki.wikidot.com/nomura-s-tentacles",
+    "name": "Nomura's Tentacles",
+    "type": "capes_&_back_items",
+    "description": "How better to prove you've beaten a monster than by wearing parts of the as a cape?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TGk6GSj.png",
+        "https://i.imgur.com/y3wJO04.png"
+    ],
+    "hash": "52108d692af2d663f6047335e56cc1c6"
+}

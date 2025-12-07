@@ -1,0 +1,16 @@
+{
+    "urlName": "snowman-head-display",
+    "url": "http://aqwwiki.wikidot.com/snowman-head-display",
+    "name": "Snowman Head Display",
+    "type": "capes_&_back_items",
+    "description": "You proudly display the heads of your defeated snowmen foes on your spikes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/38NW460.png"
+    ],
+    "hash": "682d05c26218ee3ac8ad57f3f0095ab5"
+}

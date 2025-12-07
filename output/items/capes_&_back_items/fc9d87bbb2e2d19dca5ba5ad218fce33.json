@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowstalker-s-cloak",
+    "url": "http://aqwwiki.wikidot.com/shadowstalker-s-cloak",
+    "name": "Shadowstalker's Cloak",
+    "type": "capes_&_back_items",
+    "description": "Dark elves always carry cold weather wherever they go. You never know what if you'll have to let it go, let it go.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowstalker-s-cloak/ShC.png"
+    ],
+    "hash": "fc9d87bbb2e2d19dca5ba5ad218fce33"
+}

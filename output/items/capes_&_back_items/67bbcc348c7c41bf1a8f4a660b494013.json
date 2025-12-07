@@ -1,0 +1,16 @@
+{
+    "urlName": "swords-of-courage",
+    "url": "http://aqwwiki.wikidot.com/swords-of-courage",
+    "name": "Swords Of Courage",
+    "type": "capes_&_back_items",
+    "description": "With these blades at your back, you'll know you can take on ANY monster who comes at you and win!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/swords-of-courage/SwordsofCourage.png"
+    ],
+    "hash": "67bbcc348c7c41bf1a8f4a660b494013"
+}

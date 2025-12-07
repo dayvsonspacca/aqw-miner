@@ -1,0 +1,17 @@
+{
+    "urlName": "gl-24k-beacon",
+    "url": "http://aqwwiki.wikidot.com/gl-24k-beacon",
+    "name": "GL-24K Beacon",
+    "type": "capes_&_back_items",
+    "description": "Unlimited data at the cost of the loudest whirring you've ever heard in your life.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/429XARu.png",
+        "https://i.imgur.com/38i65qn.png"
+    ],
+    "hash": "152071ec2d8c4b935af34a449b71cdd1"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frostwarder-cloak",
+    "url": "http://aqwwiki.wikidot.com/frostwarder-cloak",
+    "name": "FrostWarder Cloak",
+    "type": "capes_&_back_items",
+    "description": "In those cold dark nights, bundle up with this cloak.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frostwarder-cloak/FWC.png"
+    ],
+    "hash": "4e8bf97afdcd8fdb633f6fbd52b54b9f"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "infernal-runes",
+    "url": "http://aqwwiki.wikidot.com/infernal-runes",
+    "name": "Infernal Runes",
+    "type": "capes_&_back_items",
+    "description": "Harness the power of Fire! This magical runes reflects the great elemental power within yourself.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/infernal-runes/IR.png"
+    ],
+    "hash": "db107d1927a7dd317bcff5d1d0c8b1e0"
+}

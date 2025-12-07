@@ -1,0 +1,17 @@
+{
+    "urlName": "paragon-greatsword-battlegear",
+    "url": "http://aqwwiki.wikidot.com/paragon-greatsword-battlegear",
+    "name": "Paragon Greatsword BattleGear",
+    "type": "capes_&_back_items",
+    "description": "You've sworn your alliance, given your soul, consumed the darkness. Now your reward is bestowed.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/A5oXQmv.png",
+        "https://i.imgur.com/DC5GowM.png"
+    ],
+    "hash": "1c8d44b81da71e86dc881ed519610cd5"
+}

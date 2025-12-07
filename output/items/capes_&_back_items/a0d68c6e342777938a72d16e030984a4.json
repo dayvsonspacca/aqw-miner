@@ -1,0 +1,16 @@
+{
+    "urlName": "headless-pumpkin-cape",
+    "url": "http://aqwwiki.wikidot.com/headless-pumpkin-cape",
+    "name": "Headless Pumpkin Cape",
+    "type": "capes_&_back_items",
+    "description": "Ne'er-do-wells using the darkness of all hallow's eve as cover will never escape your gaze, or lack there of. Don't forget your head at home.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/16upEEc.png"
+    ],
+    "hash": "a0d68c6e342777938a72d16e030984a4"
+}

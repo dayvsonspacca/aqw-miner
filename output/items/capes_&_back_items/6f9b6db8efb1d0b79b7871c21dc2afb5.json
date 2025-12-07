@@ -1,0 +1,16 @@
+{
+    "urlName": "matchmaker-rune-cape",
+    "url": "http://aqwwiki.wikidot.com/matchmaker-rune-cape",
+    "name": "MatchMaker Rune Cape",
+    "type": "capes_&_back_items",
+    "description": "No hero will be able to resist your matchmaking machinations when invite them to join you on your next adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3uVWRMp.png"
+    ],
+    "hash": "6f9b6db8efb1d0b79b7871c21dc2afb5"
+}

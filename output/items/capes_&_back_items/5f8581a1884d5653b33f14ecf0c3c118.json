@@ -1,0 +1,16 @@
+{
+    "urlName": "blood-isles-backup-guns",
+    "url": "http://aqwwiki.wikidot.com/blood-isles-backup-guns",
+    "name": "Blood Isles Backup Guns",
+    "type": "capes_&_back_items",
+    "description": "A pair of extra guns left behind by a noble seafarer that were claimed by the Blood Isles. They gleam, as shiny as they were the day gold poured into the mold.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WGLOIje.png"
+    ],
+    "hash": "5f8581a1884d5653b33f14ecf0c3c118"
+}

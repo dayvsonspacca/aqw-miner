@@ -1,0 +1,16 @@
+{
+    "urlName": "gearslinger-powerpack",
+    "url": "http://aqwwiki.wikidot.com/gearslinger-powerpack",
+    "name": "Gearslinger Powerpack",
+    "type": "capes_&_back_items",
+    "description": "If your guns run out of ammo, not to worry! There's more on your back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gearslinger-powerpack/GearslingerPowerpack.png"
+    ],
+    "hash": "ee6b3a24dbf169b9f63532547e5c3e9d"
+}

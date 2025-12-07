@@ -1,0 +1,15 @@
+{
+    "urlName": "antler-quiver",
+    "url": "http://aqwwiki.wikidot.com/antler-quiver",
+    "name": "Antler Quiver",
+    "type": "capes_&_back_items",
+    "description": "Oh deer, seems these antlers are worth big bucks. Better keep your guard up.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/Tikjadc.png"
+    ],
+    "hash": "eb2313d3ccb153b5789fafae5cc150f6"
+}

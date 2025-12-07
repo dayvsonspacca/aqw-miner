@@ -1,0 +1,16 @@
+{
+    "urlName": "sheathed-katana",
+    "url": "http://aqwwiki.wikidot.com/sheathed-katana",
+    "name": "Sheathed Katana",
+    "type": "capes_&_back_items",
+    "description": "Even sheathed, these blades are still as deadly as ever!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sheathed-katana/SheathedKatana.png"
+    ],
+    "hash": "fc4453e826a46a772508a53f38e59839"
+}

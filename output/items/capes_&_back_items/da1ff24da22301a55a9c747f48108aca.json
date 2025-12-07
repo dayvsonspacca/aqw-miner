@@ -1,0 +1,17 @@
+{
+    "urlName": "sparkle-power",
+    "url": "http://aqwwiki.wikidot.com/sparkle-power",
+    "name": "Sparkle Power!",
+    "type": "capes_&_back_items",
+    "description": "Sparkles sparkles sparkles! OMG everywhere! Bring the power of glitter to the battlefield and cover your foes from head to toe!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sparkle-power/SparklePower.png"
+    ],
+    "hash": "da1ff24da22301a55a9c747f48108aca"
+}

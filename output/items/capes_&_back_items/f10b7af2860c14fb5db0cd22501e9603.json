@@ -1,0 +1,16 @@
+{
+    "urlName": "war-s-cape",
+    "url": "http://aqwwiki.wikidot.com/war-s-cape",
+    "name": "War's Cape",
+    "type": "capes_&_back_items",
+    "description": "A collection of swords and other weaponry from the foes Death has felled in battle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/usiab4l.png"
+    ],
+    "hash": "f10b7af2860c14fb5db0cd22501e9603"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "pumpkin-growth-cape",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-growth-cape",
+    "name": "Pumpkin Growth Cape",
+    "type": "capes_&_back_items",
+    "description": "The Pumpkin Magi serve at the court of the Harvest Queen and Great Pumpking. Their magic is mighty, and they can squash an enemy with a single blast. Their gourd works are known throughout the land.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/bb4kamf.png"
+    ],
+    "hash": "c68ec48246aefb9b2a04286d5e973c88"
+}

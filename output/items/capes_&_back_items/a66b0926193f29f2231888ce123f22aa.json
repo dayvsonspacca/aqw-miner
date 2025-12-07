@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-magus-cloak",
+    "url": "http://aqwwiki.wikidot.com/chaos-magus-cloak",
+    "name": "Chaos Magus Cloak",
+    "type": "capes_&_back_items",
+    "description": "The once splendid cloak of a Magus, now fallen into disrepair. The newly turned owner cares not for appearances anymore.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-magus-cloak/ChaosMagusCloak.png"
+    ],
+    "hash": "a66b0926193f29f2231888ce123f22aa"
+}

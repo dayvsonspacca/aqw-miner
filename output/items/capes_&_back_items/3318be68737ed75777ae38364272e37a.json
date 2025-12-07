@@ -1,0 +1,16 @@
+{
+    "urlName": "icy-eternal-flame",
+    "url": "http://aqwwiki.wikidot.com/icy-eternal-flame",
+    "name": "Icy Eternal Flame",
+    "type": "capes_&_back_items",
+    "description": "The only way to melt a heart of ice is with FIRE!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/icy-eternal-flame/IEF.png"
+    ],
+    "hash": "3318be68737ed75777ae38364272e37a"
+}

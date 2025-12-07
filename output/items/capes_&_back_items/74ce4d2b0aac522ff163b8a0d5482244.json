@@ -1,0 +1,17 @@
+{
+    "urlName": "classic-chunin-clone",
+    "url": "http://aqwwiki.wikidot.com/classic-chunin-clone",
+    "name": "Classic Chunin Clone",
+    "type": "capes_&_back_items",
+    "description": "One of the powers that the Chunin are rumored to have is the ability for to make clones of themselves out of pure shadow.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Aw4ov9J.png",
+        "https://i.imgur.com/T6AQMgb.png"
+    ],
+    "hash": "74ce4d2b0aac522ff163b8a0d5482244"
+}

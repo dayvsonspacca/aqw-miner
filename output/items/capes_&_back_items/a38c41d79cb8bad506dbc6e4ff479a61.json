@@ -1,0 +1,16 @@
+{
+    "urlName": "backpack-cape",
+    "url": "http://aqwwiki.wikidot.com/backpack-cape",
+    "name": "Backpack Cape",
+    "type": "capes_&_back_items",
+    "description": "A good backpack is vital for every hero --",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mv18NM3.png"
+    ],
+    "hash": "a38c41d79cb8bad506dbc6e4ff479a61"
+}

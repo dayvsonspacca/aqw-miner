@@ -1,0 +1,17 @@
+{
+    "urlName": "breath-of-autumn-wind",
+    "url": "http://aqwwiki.wikidot.com/breath-of-autumn-wind",
+    "name": "Breath of Autumn Wind",
+    "type": "capes_&_back_items",
+    "description": "The majestic oak sways gracefully even as its vibrant leaves wither. Tis a boon to adventurous children, and a massive undertaking for the rakes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/3YU0yE5.png",
+        "https://i.imgur.com/x7EgYiH.png"
+    ],
+    "hash": "c1b106baf9f72de04f37c02119a2b7d7"
+}

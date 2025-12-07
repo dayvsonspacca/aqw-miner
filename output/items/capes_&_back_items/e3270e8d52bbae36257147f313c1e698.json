@@ -1,0 +1,16 @@
+{
+    "urlName": "iced-quiver-cape",
+    "url": "http://aqwwiki.wikidot.com/iced-quiver-cape",
+    "name": "Iced Quiver Cape",
+    "type": "capes_&_back_items",
+    "description": "Fire these shiny arrows at a target to give your foes a world-class cold shoulder in the worst way possible.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/iced-quiver-cape/IQC.png"
+    ],
+    "hash": "e3270e8d52bbae36257147f313c1e698"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "cryofreeze-catalyst-backblade",
+    "url": "http://aqwwiki.wikidot.com/cryofreeze-catalyst-backblade",
+    "name": "Cryofreeze Catalyst Backblade",
+    "type": "capes_&_back_items",
+    "description": "A blade that acts as a catalyst for mages that excel in battles against cornered animals. It's used for hunting traitors, the the slippery type that need to be frozen in their tracks.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/rudMCIl.png"
+    ],
+    "hash": "b1d53f7a731f57832397f042207608b3"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "borgrix-fuel-pack",
+    "url": "http://aqwwiki.wikidot.com/borgrix-fuel-pack",
+    "name": "Borgrix Fuel Pack",
+    "type": "capes_&_back_items",
+    "description": "We are Borgrix, resistance will not be tolerated.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AHkFK87.png"
+    ],
+    "hash": "da693e1ea5be591b7ae2288560b089b3"
+}

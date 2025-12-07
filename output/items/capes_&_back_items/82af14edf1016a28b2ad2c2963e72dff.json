@@ -1,0 +1,15 @@
+{
+    "urlName": "shadowfire-balloons",
+    "url": "http://aqwwiki.wikidot.com/shadowfire-balloons",
+    "name": "ShadowFire Balloons",
+    "type": "capes_&_back_items",
+    "description": "We all float down here in the shadows.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mPiuDDp.png"
+    ],
+    "hash": "82af14edf1016a28b2ad2c2963e72dff"
+}

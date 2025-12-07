@@ -1,0 +1,15 @@
+{
+    "urlName": "large-coffee",
+    "url": "http://aqwwiki.wikidot.com/large-coffee",
+    "name": "Large Coffee",
+    "type": "capes_&_back_items",
+    "description": "The need for hot coffee looms over you like a hungry specter.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/78CrBuW.png"
+    ],
+    "hash": "284dfbeeefd5536d5b7a8e435efc0071"
+}

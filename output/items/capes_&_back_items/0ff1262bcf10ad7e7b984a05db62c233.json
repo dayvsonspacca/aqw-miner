@@ -1,0 +1,16 @@
+{
+    "urlName": "manticore-assassin-wings",
+    "url": "http://aqwwiki.wikidot.com/manticore-assassin-wings",
+    "name": "Manticore Assassin Wings",
+    "type": "capes_&_back_items",
+    "description": "The wings of the mountain manticore allow you to glide on the rough air currents of Thunderforge and swoop down on your prey.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/manticore-assassin-wings/MAW.png"
+    ],
+    "hash": "0ff1262bcf10ad7e7b984a05db62c233"
+}

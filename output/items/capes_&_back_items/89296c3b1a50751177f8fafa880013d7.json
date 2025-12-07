@@ -1,0 +1,16 @@
+{
+    "urlName": "fenix-plume-feathers-ac",
+    "url": "http://aqwwiki.wikidot.com/fenix-plume-feathers-ac",
+    "name": "Fenix Plume Feathers (AC)",
+    "type": "capes_&_back_items",
+    "description": "Flick them on the ground hard enough to trigger a small flame that ignites for several seconds or more.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fenix-plume-feathers-ac/FenixPlumeFeathers.png"
+    ],
+    "hash": "89296c3b1a50751177f8fafa880013d7"
+}

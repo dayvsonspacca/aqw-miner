@@ -1,0 +1,16 @@
+{
+    "urlName": "gravelyn-s-champion-cloak",
+    "url": "http://aqwwiki.wikidot.com/gravelyn-s-champion-cloak",
+    "name": "Gravelyn's Champion Cloak",
+    "type": "capes_&_back_items",
+    "description": "Red and black, the colors of the Shadowscythe. (5% chance to do the Meteor Shower attack animation, 15% XP boost non-stackable)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/dtVKRMe.png",
+        "http://i.imgur.com/lG68IHR.png"
+    ],
+    "hash": "04ce5337ab59e14f6aa1d33df256377c"
+}

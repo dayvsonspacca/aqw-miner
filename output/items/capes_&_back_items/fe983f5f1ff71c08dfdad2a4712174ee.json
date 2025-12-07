@@ -1,0 +1,15 @@
+{
+    "urlName": "cape-of-awe",
+    "url": "http://aqwwiki.wikidot.com/cape-of-awe",
+    "name": "Cape of Awe",
+    "type": "capes_&_back_items",
+    "description": "An AWE-some cape for the truly awesome. Gives 25% more rep, gold, XP and class points when equipped.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/sSXXvFd.png"
+    ],
+    "hash": "fe983f5f1ff71c08dfdad2a4712174ee"
+}

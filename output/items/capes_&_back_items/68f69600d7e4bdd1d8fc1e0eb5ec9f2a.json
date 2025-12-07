@@ -1,0 +1,16 @@
+{
+    "urlName": "mounted-slayer-shotguns",
+    "url": "http://aqwwiki.wikidot.com/mounted-slayer-shotguns",
+    "name": "Mounted Slayer Shotguns",
+    "type": "capes_&_back_items",
+    "description": "Don these shady garments to slither into your local shop and grab your anticipated items without paying a large piggy bank.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/J3zIX2w.png"
+    ],
+    "hash": "68f69600d7e4bdd1d8fc1e0eb5ec9f2a"
+}

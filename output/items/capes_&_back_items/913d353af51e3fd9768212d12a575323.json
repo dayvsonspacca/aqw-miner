@@ -1,0 +1,17 @@
+{
+    "urlName": "chained-portal",
+    "url": "http://aqwwiki.wikidot.com/chained-portal",
+    "name": "Chained Portal",
+    "type": "capes_&_back_items",
+    "description": "Who knows where this portal leads to.. I sure wouldn't want to go through!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/labASfT.png",
+        "https://i.imgur.com/2lW4ZqW.png"
+    ],
+    "hash": "913d353af51e3fd9768212d12a575323"
+}

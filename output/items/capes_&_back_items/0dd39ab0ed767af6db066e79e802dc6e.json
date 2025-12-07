@@ -1,0 +1,16 @@
+{
+    "urlName": "prometheus-rings",
+    "url": "http://aqwwiki.wikidot.com/prometheus-rings",
+    "name": "Prometheus Rings",
+    "type": "capes_&_back_items",
+    "description": "Rings forged out of the energy of the cosmos itself, these rings can be tapped into to provide you with limitless power.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prometheus-rings/PR.png"
+    ],
+    "hash": "0dd39ab0ed767af6db066e79e802dc6e"
+}

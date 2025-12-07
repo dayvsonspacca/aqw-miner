@@ -1,0 +1,16 @@
+{
+    "urlName": "sheathed-side-shotgun",
+    "url": "http://aqwwiki.wikidot.com/sheathed-side-shotgun",
+    "name": "Sheathed Side Shotgun",
+    "type": "capes_&_back_items",
+    "description": "\u2026 Shouldn't this be on your back? That's how all the 'slayers on TV sheathe them. Careful how you sit down!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sheathed-side-shotgun/SSS.png"
+    ],
+    "hash": "6f39ffbda1bbefd838e2da5cfc633435"
+}

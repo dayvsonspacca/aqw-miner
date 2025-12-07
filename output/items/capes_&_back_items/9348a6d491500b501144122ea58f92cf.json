@@ -1,0 +1,16 @@
+{
+    "urlName": "rune-spiral-cape",
+    "url": "http://aqwwiki.wikidot.com/rune-spiral-cape",
+    "name": "Rune Spiral Cape",
+    "type": "capes_&_back_items",
+    "description": "This rune reflects your power making it twice as nice.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rune-spiral-cape/RuneSpiralCape.png"
+    ],
+    "hash": "9348a6d491500b501144122ea58f92cf"
+}

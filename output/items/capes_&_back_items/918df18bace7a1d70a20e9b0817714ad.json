@@ -1,0 +1,16 @@
+{
+    "urlName": "backup-waterguns",
+    "url": "http://aqwwiki.wikidot.com/backup-waterguns",
+    "name": "Backup Waterguns",
+    "type": "capes_&_back_items",
+    "description": "Sometimes you just don't want summer to end.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5BJDgK4.png"
+    ],
+    "hash": "918df18bace7a1d70a20e9b0817714ad"
+}

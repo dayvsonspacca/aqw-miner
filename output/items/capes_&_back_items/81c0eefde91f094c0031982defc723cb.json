@@ -1,0 +1,16 @@
+{
+    "urlName": "pink-cape",
+    "url": "http://aqwwiki.wikidot.com/pink-cape",
+    "name": "Pink Cape",
+    "type": "capes_&_back_items",
+    "description": "Real men wear pink!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/SqMaO56.png"
+    ],
+    "hash": "81c0eefde91f094c0031982defc723cb"
+}

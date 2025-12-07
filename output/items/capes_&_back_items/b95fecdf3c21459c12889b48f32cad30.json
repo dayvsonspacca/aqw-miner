@@ -1,0 +1,15 @@
+{
+    "urlName": "stashed-cutlass",
+    "url": "http://aqwwiki.wikidot.com/stashed-cutlass",
+    "name": "Stashed Cutlass",
+    "type": "capes_&_back_items",
+    "description": "Stash an extra sword on your hip. Pull it out when the first one breaks!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/vFKR8E3.png"
+    ],
+    "hash": "b95fecdf3c21459c12889b48f32cad30"
+}

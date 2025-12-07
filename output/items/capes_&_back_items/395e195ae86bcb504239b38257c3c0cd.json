@@ -1,0 +1,17 @@
+{
+    "urlName": "sheathed-raider-cutlass",
+    "url": "http://aqwwiki.wikidot.com/sheathed-raider-cutlass",
+    "name": "Sheathed Raider Cutlass",
+    "type": "capes_&_back_items",
+    "description": "A cutlass gleaming with gold that was found inside a wooden chest locked away in an isolated grotto near Dwarfhold Mountains. Legend has it that its user could detect gold coins and valued treasures by how bright it gets.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sheathed-raider-cutlass/SheathedRaiderCutlass.png"
+    ],
+    "hash": "395e195ae86bcb504239b38257c3c0cd"
+}

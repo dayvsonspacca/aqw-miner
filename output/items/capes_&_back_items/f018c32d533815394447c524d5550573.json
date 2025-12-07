@@ -1,0 +1,16 @@
+{
+    "urlName": "void-shadows-cape",
+    "url": "http://aqwwiki.wikidot.com/void-shadows-cape",
+    "name": "Void Shadows Cape",
+    "type": "capes_&_back_items",
+    "description": "When you and your squad is on point for the Void.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0lUmJ56.png"
+    ],
+    "hash": "f018c32d533815394447c524d5550573"
+}

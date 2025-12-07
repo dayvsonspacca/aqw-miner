@@ -1,0 +1,17 @@
+{
+    "urlName": "pumpkin-vine-cape",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-vine-cape",
+    "name": "Pumpkin Vine Cape",
+    "type": "capes_&_back_items",
+    "description": "The vines of the Evolved PumpkinLord flourish and thrive with each victory!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/j5V27Ue.png"
+    ],
+    "hash": "82f01daf23c0c71ccc6bd5a08f6e92e2"
+}

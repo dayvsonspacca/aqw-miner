@@ -1,0 +1,16 @@
+{
+    "urlName": "full-moon-cape",
+    "url": "http://aqwwiki.wikidot.com/full-moon-cape",
+    "name": "Full Moon Cape",
+    "type": "capes_&_back_items",
+    "description": "Careful equiping this around werewolves.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/full-moon-cape/FullMoonCape.png"
+    ],
+    "hash": "09ef2d621b19b4528a16ad3f1f18a768"
+}

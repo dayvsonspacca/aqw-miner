@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-crescent-cloak",
+    "url": "http://aqwwiki.wikidot.com/shadow-crescent-cloak",
+    "name": "Shadow Crescent Cloak",
+    "type": "capes_&_back_items",
+    "description": "As the sun rises, cloak yourself from any eminent danger that might be nearby.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/feBOAEl.png"
+    ],
+    "hash": "ef16f6b4b2ae5ea4e6f801f5344d36cb"
+}

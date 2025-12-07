@@ -1,0 +1,15 @@
+{
+    "urlName": "mana-aura",
+    "url": "http://aqwwiki.wikidot.com/mana-aura",
+    "name": "Mana Aura",
+    "type": "capes_&_back_items",
+    "description": "You need no cape or magical vestment. Your own power will shield you.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/4cvNwgE.png?2"
+    ],
+    "hash": "8a864be738c93e96ab179b55cc48c579"
+}

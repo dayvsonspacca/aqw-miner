@@ -1,0 +1,16 @@
+{
+    "urlName": "floating-stones",
+    "url": "http://aqwwiki.wikidot.com/floating-stones",
+    "name": "Floating Stones",
+    "type": "capes_&_back_items",
+    "description": "Where did all that speed and power come from? You are UNSTOPPABLE!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/bh4zWNI.png"
+    ],
+    "hash": "73c13cf78fb6e9d9baba9ac2978468a2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "wings-of-light",
+    "url": "http://aqwwiki.wikidot.com/wings-of-light",
+    "name": "Wings Of Light",
+    "type": "capes_&_back_items",
+    "description": "Only the most advanced solarmancers can stand extreme, vast power from the sun to use it as their own. To many creatures of the night, the golden light can smite them when glanced at.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wings-of-light/WoL.png"
+    ],
+    "hash": "4bcc2e12246f5936e711501554ee940e"
+}

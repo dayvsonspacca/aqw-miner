@@ -1,0 +1,16 @@
+{
+    "urlName": "warden-s-wings",
+    "url": "http://aqwwiki.wikidot.com/warden-s-wings",
+    "name": "Warden's Wings",
+    "type": "capes_&_back_items",
+    "description": "Defeating the Warden is no easy feat. Congratulations! Keep his wings as a memento of your victory!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/pnufgiy.png",
+        "https://i.imgur.com/GWuvtoH.png"
+    ],
+    "hash": "f42844a95282996d0f7f993e8fc85566"
+}

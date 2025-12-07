@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-cryptic-runes",
+    "url": "http://aqwwiki.wikidot.com/prismatic-cryptic-runes",
+    "name": "Prismatic Cryptic Runes",
+    "type": "capes_&_back_items",
+    "description": "Cryptics are Atealan illusionists whose minds are their most powerful weapons. The only limit to their abilities is their imagination.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mqj1oYV.png"
+    ],
+    "hash": "f8ef7cd9b735685c800b35be608a8417"
+}

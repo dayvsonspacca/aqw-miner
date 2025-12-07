@@ -1,0 +1,16 @@
+{
+    "urlName": "starlit-snowflakes",
+    "url": "http://aqwwiki.wikidot.com/starlit-snowflakes",
+    "name": "Starlit Snowflakes",
+    "type": "capes_&_back_items",
+    "description": "Beautiful ice crystals embued with starlight. They glimmer and magically ward off frostbite.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/DGzsR5f.png"
+    ],
+    "hash": "cf2237d67dbb9fa2bda310367c94923c"
+}

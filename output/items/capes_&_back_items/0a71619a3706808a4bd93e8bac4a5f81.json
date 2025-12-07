@@ -1,0 +1,16 @@
+{
+    "urlName": "wyrmhunter-back-claymore",
+    "url": "http://aqwwiki.wikidot.com/wyrmhunter-back-claymore",
+    "name": "WyrmHunter Back Claymore",
+    "type": "capes_&_back_items",
+    "description": "You've proven to Zoshi how awesome you are. Here is your reward. No monster in Lore stand a chance against you now.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wyrmhunter-back-claymore/WHBC.png"
+    ],
+    "hash": "0a71619a3706808a4bd93e8bac4a5f81"
+}

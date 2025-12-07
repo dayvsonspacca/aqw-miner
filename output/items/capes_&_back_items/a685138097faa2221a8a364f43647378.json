@@ -1,0 +1,16 @@
+{
+    "urlName": "void-champion-orb-cape",
+    "url": "http://aqwwiki.wikidot.com/void-champion-orb-cape",
+    "name": "Void Champion Orb Cape",
+    "type": "capes_&_back_items",
+    "description": "Carry the power of the Void with you at all times.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-champion-orb-cape/VoidChampionOrbCape.png"
+    ],
+    "hash": "a685138097faa2221a8a364f43647378"
+}

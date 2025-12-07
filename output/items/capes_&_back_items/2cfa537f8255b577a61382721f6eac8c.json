@@ -1,0 +1,16 @@
+{
+    "urlName": "neobattleon-pack",
+    "url": "http://aqwwiki.wikidot.com/neobattleon-pack",
+    "name": "NeoBattleon Pack",
+    "type": "capes_&_back_items",
+    "description": "Extremely advanced, but weighs as much as a truck.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/svx8wmL.png"
+    ],
+    "hash": "2cfa537f8255b577a61382721f6eac8c"
+}

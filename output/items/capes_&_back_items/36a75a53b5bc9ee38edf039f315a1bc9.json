@@ -1,0 +1,16 @@
+{
+    "urlName": "stormrider-cape",
+    "url": "http://aqwwiki.wikidot.com/stormrider-cape",
+    "name": "Stormrider Cape",
+    "type": "capes_&_back_items",
+    "description": "A great designer once said \"No capes!\" but even she would make an exception to this heroic cape.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/stormrider-cape/StormriderCape.png"
+    ],
+    "hash": "36a75a53b5bc9ee38edf039f315a1bc9"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "scorpion-tail",
+    "url": "http://aqwwiki.wikidot.com/scorpion-tail",
+    "name": "Scorpion Tail",
+    "type": "capes_&_back_items",
+    "description": "You grow a scorpion's tail! Try not to sting yourself!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/scorpion-tail/ScorpionTail.png"
+    ],
+    "hash": "91e9366429ac36c874cda86bacc7dac0"
+}

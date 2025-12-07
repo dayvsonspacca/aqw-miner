@@ -1,0 +1,16 @@
+{
+    "urlName": "kinnaree-wings",
+    "url": "http://aqwwiki.wikidot.com/kinnaree-wings",
+    "name": "Kinnaree Wings",
+    "type": "capes_&_back_items",
+    "description": "The wings of the half bird, Kinnaree.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ebKKJIB.png"
+    ],
+    "hash": "9c35dec2ba7c1fd262ce76681a5cf858"
+}

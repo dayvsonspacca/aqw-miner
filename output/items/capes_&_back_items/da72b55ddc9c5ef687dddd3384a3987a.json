@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-duplicate-ac",
+    "url": "http://aqwwiki.wikidot.com/shadow-duplicate-ac",
+    "name": "Shadow Duplicate (AC)",
+    "type": "capes_&_back_items",
+    "description": "One of the powers that the Chunin are rumored to have is the ability for to make clones of themselves out of pure shadow.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-duplicate-ac/SDN.png",
+        "http://aqwwiki.wdfiles.com/local--files/shadow-duplicate-ac/SDA.png"
+    ],
+    "hash": "da72b55ddc9c5ef687dddd3384a3987a"
+}

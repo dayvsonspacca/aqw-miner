@@ -1,0 +1,16 @@
+{
+    "urlName": "terran-runes",
+    "url": "http://aqwwiki.wikidot.com/terran-runes",
+    "name": "Terran Runes",
+    "type": "capes_&_back_items",
+    "description": "Harness the power of Nature! This Magical Rune Reflects the great elemental power within yourself.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/terran-runes/TerranRunes.png"
+    ],
+    "hash": "0f252425e2978a06ce8f081b0e29e147"
+}

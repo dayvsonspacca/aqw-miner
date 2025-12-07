@@ -1,0 +1,15 @@
+{
+    "urlName": "crusader-cloak",
+    "url": "http://aqwwiki.wikidot.com/crusader-cloak",
+    "name": "Crusader Cloak",
+    "type": "capes_&_back_items",
+    "description": "The cape of the highest order of the Citadel's soldiers - the Crusader.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/qcuF95J.png",
+        "https://i.imgur.com/2Ya5dys.png",
+        "https://i.imgur.com/evv7yaF.png"
+    ],
+    "hash": "518a14cc8c95af03d3e2fe8ced8bdd20"
+}

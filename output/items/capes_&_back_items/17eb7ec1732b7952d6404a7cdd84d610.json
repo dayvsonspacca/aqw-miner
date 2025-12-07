@@ -1,0 +1,16 @@
+{
+    "urlName": "cyber-dryad-cape",
+    "url": "http://aqwwiki.wikidot.com/cyber-dryad-cape",
+    "name": "Cyber Dryad Cape",
+    "type": "capes_&_back_items",
+    "description": "Dripping with toxin's this cape once was a pure symbol of the Dryad, now though it's been tarnished.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cyber-dryad-cape/CyberDryadCape.png"
+    ],
+    "hash": "17eb7ec1732b7952d6404a7cdd84d610"
+}

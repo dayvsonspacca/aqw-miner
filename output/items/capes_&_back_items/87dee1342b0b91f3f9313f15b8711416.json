@@ -1,0 +1,16 @@
+{
+    "urlName": "ignited-barrel",
+    "url": "http://aqwwiki.wikidot.com/ignited-barrel",
+    "name": "Ignited Barrel",
+    "type": "capes_&_back_items",
+    "description": "There could be gunpowder in that barrel. Or, there could be juice. One way to clear pirates off your ship is to run out on deck with this, screaming about taking everyone with you.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Qroqou7.png"
+    ],
+    "hash": "87dee1342b0b91f3f9313f15b8711416"
+}

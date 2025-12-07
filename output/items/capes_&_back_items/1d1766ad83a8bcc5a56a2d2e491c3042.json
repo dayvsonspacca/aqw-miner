@@ -1,0 +1,15 @@
+{
+    "urlName": "engineer-pack",
+    "url": "http://aqwwiki.wikidot.com/engineer-pack",
+    "name": "Engineer Pack",
+    "type": "capes_&_back_items",
+    "description": "This ain't no proton pack!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/vp9w4Ws.png"
+    ],
+    "hash": "1d1766ad83a8bcc5a56a2d2e491c3042"
+}

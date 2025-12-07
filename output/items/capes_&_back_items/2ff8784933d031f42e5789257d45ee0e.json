@@ -1,0 +1,16 @@
+{
+    "urlName": "blademaster-katana-cape",
+    "url": "http://aqwwiki.wikidot.com/blademaster-katana-cape",
+    "name": "BladeMaster Katana Cape",
+    "type": "capes_&_back_items",
+    "description": "Two katanas are better than one because you'll never know how fast you must be in the heat of a duel or to prepare sushi.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blademaster-katana-cape/BlademasterKatanaCape.png"
+    ],
+    "hash": "2ff8784933d031f42e5789257d45ee0e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "ride-the-lightning",
+    "url": "http://aqwwiki.wikidot.com/ride-the-lightning",
+    "name": "Ride The Lightning",
+    "type": "capes_&_back_items",
+    "description": "These shocking wings are made of pure electricity.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ride-the-lightning/RidetheLightning.png"
+    ],
+    "hash": "2c2f9236fa7e0ae63779c4e1ad6bb9f9"
+}

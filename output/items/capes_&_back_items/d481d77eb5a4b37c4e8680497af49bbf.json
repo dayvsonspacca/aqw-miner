@@ -1,0 +1,16 @@
+{
+    "urlName": "cape-of-drowning",
+    "url": "http://aqwwiki.wikidot.com/cape-of-drowning",
+    "name": "Cape of Drowning",
+    "type": "capes_&_back_items",
+    "description": "Hey, a bad day? Feel as if the sky has unleashed its fury upon you? Well, use that to your advantage! Don this cape and bring the floodwaters with you everywhere you go. Your enemies will hate you for it.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cape-of-drowning/CapeofDrowning.png"
+    ],
+    "hash": "d481d77eb5a4b37c4e8680497af49bbf"
+}

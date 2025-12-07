@@ -1,0 +1,16 @@
+{
+    "urlName": "frozen-snowstalker-rune-cape",
+    "url": "http://aqwwiki.wikidot.com/frozen-snowstalker-rune-cape",
+    "name": "Frozen Snowstalker Rune Cape",
+    "type": "capes_&_back_items",
+    "description": "The glowing radiance of this glyph has guided many to salvation through blizzards that blocked out sunlight completely.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frozen-snowstalker-rune-cape/FSRC.png"
+    ],
+    "hash": "b1d10087869fec6f0c8f344a64a888e0"
+}

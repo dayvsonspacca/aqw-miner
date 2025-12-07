@@ -1,0 +1,16 @@
+{
+    "urlName": "lightcaster-runic-cape-ac",
+    "url": "http://aqwwiki.wikidot.com/lightcaster-runic-cape-ac",
+    "name": "LightCaster Runic Cape (AC)",
+    "type": "capes_&_back_items",
+    "description": "This sigil, worn by LightCasters skilled in the art of Luminomancy, protects the wearer from Darkness!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightcaster-runic-cape-ac/LightCasterRunicCape.png"
+    ],
+    "hash": "e016aa7cb44af82c371fd081c21abd5d"
+}

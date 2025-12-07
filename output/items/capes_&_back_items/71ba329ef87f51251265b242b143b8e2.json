@@ -1,0 +1,17 @@
+{
+    "urlName": "toxic-piston-powerpack",
+    "url": "http://aqwwiki.wikidot.com/toxic-piston-powerpack",
+    "name": "Toxic Piston Powerpack",
+    "type": "capes_&_back_items",
+    "description": "Now you can recharge on the go! (Manufactures Warning: Long-Term exposure to powerpack causes insanity.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/toxic-piston-powerpack/TPPPN.png",
+        "http://aqwwiki.wdfiles.com/local--files/toxic-piston-powerpack/TPPPA.png"
+    ],
+    "hash": "71ba329ef87f51251265b242b143b8e2"
+}

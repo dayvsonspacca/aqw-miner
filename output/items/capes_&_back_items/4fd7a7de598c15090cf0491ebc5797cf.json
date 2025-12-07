@@ -1,0 +1,16 @@
+{
+    "urlName": "silver-wings",
+    "url": "http://aqwwiki.wikidot.com/silver-wings",
+    "name": "Silver Wings",
+    "type": "capes_&_back_items",
+    "description": "On Silver wings, you have chosen the freedom of the sky over the confines of a Kingdom.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KUttRg0.png"
+    ],
+    "hash": "4fd7a7de598c15090cf0491ebc5797cf"
+}

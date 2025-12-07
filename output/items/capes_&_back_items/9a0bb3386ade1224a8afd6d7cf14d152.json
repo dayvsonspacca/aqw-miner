@@ -1,0 +1,17 @@
+{
+    "urlName": "northlands-crystal-cape-ac",
+    "url": "http://aqwwiki.wikidot.com/northlands-crystal-cape-ac",
+    "name": "Northlands Crystal Cape (AC)",
+    "type": "capes_&_back_items",
+    "description": "The Northlands are littered with crystals mined from deep below the ground. These will focus and channel your magic extremely well.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/wzar7NU.png",
+        "https://i.imgur.com/U36fAg0.png"
+    ],
+    "hash": "9a0bb3386ade1224a8afd6d7cf14d152"
+}

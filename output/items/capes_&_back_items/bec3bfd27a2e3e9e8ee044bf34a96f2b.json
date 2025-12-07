@@ -1,0 +1,16 @@
+{
+    "urlName": "solar-naval-sun-cape",
+    "url": "http://aqwwiki.wikidot.com/solar-naval-sun-cape",
+    "name": "Solar Naval Sun Cape",
+    "type": "capes_&_back_items",
+    "description": "A moderately-sized version of the giant ball of fire that brightens the sky. Flares may fly and release additional heat, but it has no effect on pyromancer sand elementals. An ice pack just as big is a recommended.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solar-naval-sun-cape/SolarNavalSun.png"
+    ],
+    "hash": "bec3bfd27a2e3e9e8ee044bf34a96f2b"
+}

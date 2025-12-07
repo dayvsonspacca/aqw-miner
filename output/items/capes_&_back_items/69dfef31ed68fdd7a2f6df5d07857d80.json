@@ -1,0 +1,16 @@
+{
+    "urlName": "yellow-coward-s-potions",
+    "url": "http://aqwwiki.wikidot.com/yellow-coward-s-potions",
+    "name": "Yellow Coward's Potions",
+    "type": "capes_&_back_items",
+    "description": "Maybe if you throw some of these potions in the eyes of your opponents, they won't be able to see you as you run away screaming. Bonus!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/yellow-coward-s-potions/YellowCoward'sPotions.png"
+    ],
+    "hash": "69dfef31ed68fdd7a2f6df5d07857d80"
+}

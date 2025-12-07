@@ -1,0 +1,17 @@
+{
+    "urlName": "ionized-wings",
+    "url": "http://aqwwiki.wikidot.com/ionized-wings",
+    "name": "Ionized Wings",
+    "type": "capes_&_back_items",
+    "description": "Lift yourself up on wings made of ionized feathers and fly through the storm unscathed!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ionized-wings/IWN.png",
+        "http://aqwwiki.wdfiles.com/local--files/ionized-wings/IWA.png"
+    ],
+    "hash": "4959fbc43303749fa947e81c77d7ea69"
+}

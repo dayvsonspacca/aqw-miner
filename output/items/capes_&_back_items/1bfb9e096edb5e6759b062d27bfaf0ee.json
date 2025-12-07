@@ -1,0 +1,15 @@
+{
+    "urlName": "gravity-cloak",
+    "url": "http://aqwwiki.wikidot.com/gravity-cloak",
+    "name": "Gravity Cloak",
+    "type": "capes_&_back_items",
+    "description": "Rocks float aimlessly next to you. Idea inspired by Gsog.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/pNAnGgo.png"
+    ],
+    "hash": "1bfb9e096edb5e6759b062d27bfaf0ee"
+}

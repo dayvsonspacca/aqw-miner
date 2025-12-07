@@ -1,0 +1,15 @@
+{
+    "urlName": "scuttlefish-cape",
+    "url": "http://aqwwiki.wikidot.com/scuttlefish-cape",
+    "name": "Scuttlefish Cape",
+    "type": "capes_&_back_items",
+    "description": "Anyone up for calamari?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DnlkGbA.png"
+    ],
+    "hash": "1b7cbd408de7b66e87960bc3f459870c"
+}

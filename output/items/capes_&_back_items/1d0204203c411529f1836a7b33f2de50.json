@@ -1,0 +1,16 @@
+{
+    "urlName": "bleakwind-mantle",
+    "url": "http://aqwwiki.wikidot.com/bleakwind-mantle",
+    "name": "Bleakwind Mantle",
+    "type": "capes_&_back_items",
+    "description": "This furry cape will help keep you warm on the coldest of nights.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bleakwind-mantle/BleakwindMantle.png"
+    ],
+    "hash": "1d0204203c411529f1836a7b33f2de50"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-caster-arcanist-ring",
+    "url": "http://aqwwiki.wikidot.com/dark-caster-arcanist-ring",
+    "name": "Dark Caster Arcanist Ring",
+    "type": "capes_&_back_items",
+    "description": "Dage's personal rune ring, first crafted for the orignal Dark Caster. This circle of runes is only known by the darkest arcanists.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-caster-arcanist-ring/DarkCasterArcanistRing.png"
+    ],
+    "hash": "4789dbb64d8c28b35963530ebb0207a4"
+}

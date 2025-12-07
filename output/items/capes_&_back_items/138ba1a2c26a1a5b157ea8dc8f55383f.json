@@ -1,0 +1,17 @@
+{
+    "urlName": "battlecon-arena-backflag",
+    "url": "http://aqwwiki.wikidot.com/battlecon-arena-backflag",
+    "name": "BattleCon Arena Backflag",
+    "type": "capes_&_back_items",
+    "description": "You grabbed the flag from the BattleCon Arena and stuck it on your back. Rock on!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/9HM62Ia.png"
+    ],
+    "hash": "138ba1a2c26a1a5b157ea8dc8f55383f"
+}

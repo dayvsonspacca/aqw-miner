@@ -1,0 +1,16 @@
+{
+    "urlName": "aquatic-runes",
+    "url": "http://aqwwiki.wikidot.com/aquatic-runes",
+    "name": "Aquatic Runes",
+    "type": "capes_&_back_items",
+    "description": "Harness the power of Water! This magical rune reflects the great element power within yourself.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/aquatic-runes/AquaticRunes.png"
+    ],
+    "hash": "95ac8fc2a917fd87c334616c1760ef91"
+}

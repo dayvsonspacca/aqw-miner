@@ -1,0 +1,16 @@
+{
+    "urlName": "falcon-wings",
+    "url": "http://aqwwiki.wikidot.com/falcon-wings",
+    "name": "Falcon Wings",
+    "type": "capes_&_back_items",
+    "description": "Thanks to someone who has been genetically enhanced this wings from DragonFable, you are now able to take to the skies like the Falcon.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/falcon-wings/FalconWings.png"
+    ],
+    "hash": "f4723d18e7ec1baa3ff101ac304891aa"
+}

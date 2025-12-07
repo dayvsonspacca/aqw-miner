@@ -1,0 +1,15 @@
+{
+    "urlName": "yellow-cape",
+    "url": "http://aqwwiki.wikidot.com/yellow-cape",
+    "name": "Yellow Cape",
+    "type": "capes_&_back_items",
+    "description": "Yellow cape",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/yellow-cape/YellowCape.png"
+    ],
+    "hash": "f19e1896ce3a04b6fce07bf2d124c842"
+}

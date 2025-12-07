@@ -1,0 +1,16 @@
+{
+    "urlName": "quantum-hourglass",
+    "url": "http://aqwwiki.wikidot.com/quantum-hourglass",
+    "name": "Quantum Hourglass",
+    "type": "capes_&_back_items",
+    "description": "For as long as heroes have existed, Chronomancers have traversed space and time. Quantum Chronomancers have mastered the ability to cross between universes and ages.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/pEbSIXl.png",
+        "https://i.imgur.com/G9rq4ed.png"
+    ],
+    "hash": "df8f363eb03054afb78602ffe2f89040"
+}

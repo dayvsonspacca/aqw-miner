@@ -1,0 +1,15 @@
+{
+    "urlName": "infernus-wings",
+    "url": "http://aqwwiki.wikidot.com/infernus-wings",
+    "name": "Infernus' Wings",
+    "type": "capes_&_back_items",
+    "description": "Inherently magic, dragon wings are a prized possession for any DragonSlayer's collection.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/CZYqktm.png"
+    ],
+    "hash": "e698af1e20ecbc12bb82012fe6bb3496"
+}

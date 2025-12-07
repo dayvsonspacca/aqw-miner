@@ -1,0 +1,16 @@
+{
+    "urlName": "autumn-sprites",
+    "url": "http://aqwwiki.wikidot.com/autumn-sprites",
+    "name": "Autumn Sprites",
+    "type": "capes_&_back_items",
+    "description": "The youngest members of the Fall Fae Court. These infants are so small, you could easily mistake them for butterflies or moths. If they land on your nose, you'll be whisked away.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/S3vR3m8.png"
+    ],
+    "hash": "5e0f54f80d6bb7bf9ef8831c1765b33b"
+}

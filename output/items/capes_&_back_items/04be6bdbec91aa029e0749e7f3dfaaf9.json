@@ -1,0 +1,16 @@
+{
+    "urlName": "fiend-void-particles-ac",
+    "url": "http://aqwwiki.wikidot.com/fiend-void-particles-ac",
+    "name": "Fiend Void Particles (AC)",
+    "type": "capes_&_back_items",
+    "description": "Scraps from the Fiend's Void. They're what's left of Fiends who transformed, reached their potential, and subsequently collapsed in on themselves.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EEHJWXT.png"
+    ],
+    "hash": "04be6bdbec91aa029e0749e7f3dfaaf9"
+}

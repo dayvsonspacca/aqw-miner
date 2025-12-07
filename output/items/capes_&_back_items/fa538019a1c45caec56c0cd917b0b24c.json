@@ -1,0 +1,16 @@
+{
+    "urlName": "onyx-cleric-cape",
+    "url": "http://aqwwiki.wikidot.com/onyx-cleric-cape",
+    "name": "Onyx Cleric Cape",
+    "type": "capes_&_back_items",
+    "description": "Time just isn't on your side, it's on your back!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/onyx-cleric-cape/OnyxClericCape.png"
+    ],
+    "hash": "fa538019a1c45caec56c0cd917b0b24c"
+}

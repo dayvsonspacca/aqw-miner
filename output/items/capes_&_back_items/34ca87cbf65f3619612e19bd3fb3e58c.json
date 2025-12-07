@@ -1,0 +1,17 @@
+{
+    "urlName": "burning-shadowflame-cape",
+    "url": "http://aqwwiki.wikidot.com/burning-shadowflame-cape",
+    "name": "Burning ShadowFlame Cape",
+    "type": "capes_&_back_items",
+    "description": "A simple cape given to those who are just starting their journey in the ShadowFlame.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/burning-shadowflame-cape/BurningShadowflameCape.png"
+    ],
+    "hash": "34ca87cbf65f3619612e19bd3fb3e58c"
+}

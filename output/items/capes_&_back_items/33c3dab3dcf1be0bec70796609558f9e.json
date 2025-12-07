@@ -1,0 +1,16 @@
+{
+    "urlName": "candy-sack",
+    "url": "http://aqwwiki.wikidot.com/candy-sack",
+    "name": "Candy Sack",
+    "type": "capes_&_back_items",
+    "description": "You proudly carry the spoils of a successful trick-of-treating session upon your back. Sharing optional.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/qeJIwoH.png"
+    ],
+    "hash": "33c3dab3dcf1be0bec70796609558f9e"
+}

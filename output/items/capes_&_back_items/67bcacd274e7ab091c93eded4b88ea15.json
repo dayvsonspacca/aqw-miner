@@ -1,0 +1,18 @@
+{
+    "urlName": "elemental-orbs",
+    "url": "http://aqwwiki.wikidot.com/elemental-orbs",
+    "name": "Elemental Orbs",
+    "type": "capes_&_back_items",
+    "description": "You've harnessed the power of Earth, Wind, Fire and Heart! These magical orbs and planet rune will help you keep then on standby for the next putrid polluter you have to put into place!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/MByp1t4.png",
+        "http://i.imgur.com/rKQMZcf.png"
+    ],
+    "hash": "67bcacd274e7ab091c93eded4b88ea15"
+}

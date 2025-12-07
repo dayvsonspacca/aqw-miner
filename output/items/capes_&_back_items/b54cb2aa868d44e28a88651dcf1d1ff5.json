@@ -1,0 +1,16 @@
+{
+    "urlName": "noble-starfall",
+    "url": "http://aqwwiki.wikidot.com/noble-starfall",
+    "name": "Noble Starfall",
+    "type": "capes_&_back_items",
+    "description": "A sparkle that dazzles. When the people see these stars, they know the Knights of Noelle are on the way.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tLmscAs.png"
+    ],
+    "hash": "b54cb2aa868d44e28a88651dcf1d1ff5"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "matrix-hanzo-void-cape-ac",
+    "url": "http://aqwwiki.wikidot.com/matrix-hanzo-void-cape-ac",
+    "name": "Matrix Hanzo Void Cape (AC)",
+    "type": "capes_&_back_items",
+    "description": "Nulgath has rewarded you with a cape to commemorate to the Matrix. Do not take it for granted.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/matrix-hanzo-void-cape-ac/MatrixHanzoVoidCape.png"
+    ],
+    "hash": "850967d7885c409ae20dc46f93b3eb21"
+}

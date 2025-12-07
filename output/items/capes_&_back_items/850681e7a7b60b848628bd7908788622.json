@@ -1,0 +1,16 @@
+{
+    "urlName": "rune-of-the-grove",
+    "url": "http://aqwwiki.wikidot.com/rune-of-the-grove",
+    "name": "Rune of the Grove",
+    "type": "capes_&_back_items",
+    "description": "Blessed by Mother Nature herself, this cape serves as a symbol of protection through the rough times ahead.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rune-of-the-grove/RuneoftheGrove.png"
+    ],
+    "hash": "850681e7a7b60b848628bd7908788622"
+}

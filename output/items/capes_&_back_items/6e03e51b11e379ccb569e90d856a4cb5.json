@@ -1,0 +1,16 @@
+{
+    "urlName": "earth-weilder-tanks",
+    "url": "http://aqwwiki.wikidot.com/earth-weilder-tanks",
+    "name": "Earth Weilder Tanks",
+    "type": "capes_&_back_items",
+    "description": "The gas takes that provide the Earth Weither's few biological components with necessary pressurization and oxygen.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/earth-weilder-tanks/EarthWeilderTanks.png"
+    ],
+    "hash": "6e03e51b11e379ccb569e90d856a4cb5"
+}

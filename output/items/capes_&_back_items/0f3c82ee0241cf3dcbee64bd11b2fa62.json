@@ -1,0 +1,17 @@
+{
+    "urlName": "blood-hanzo-katana-cape",
+    "url": "http://aqwwiki.wikidot.com/blood-hanzo-katana-cape",
+    "name": "Blood Hanzo Katana Cape",
+    "type": "capes_&_back_items",
+    "description": "Nulgath has rewarded you with a golden cape. Do not take it for granted.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-hanzo-katana-cape/BHKCN.png",
+        "http://aqwwiki.wdfiles.com/local--files/blood-hanzo-katana-cape/BHKCA.png"
+    ],
+    "hash": "0f3c82ee0241cf3dcbee64bd11b2fa62"
+}

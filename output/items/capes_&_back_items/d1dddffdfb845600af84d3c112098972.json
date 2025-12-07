@@ -1,0 +1,17 @@
+{
+    "urlName": "crossed-raider-cutlass",
+    "url": "http://aqwwiki.wikidot.com/crossed-raider-cutlass",
+    "name": "Crossed Raider Cutlass",
+    "type": "capes_&_back_items",
+    "description": "A cutlass gleaming with gold that was found inside a wooden chest locked away in an isolated grotto near Dwarfhold Mountains. Legend has it that its user could detect gold coins and valued treasures by how bright it gets.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crossed-raider-cutlass/CrossedRaiderCutlass.png"
+    ],
+    "hash": "d1dddffdfb845600af84d3c112098972"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "frostbringer-s-rune-cape",
+    "url": "http://aqwwiki.wikidot.com/frostbringer-s-rune-cape",
+    "name": "Frostbringer's Rune Cape",
+    "type": "capes_&_back_items",
+    "description": "Children of the ice never freeze nor crack. Their power is an eternal crystal cutting ever sharper.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/w6KfbYh.png",
+        "https://i.imgur.com/RUxCj9W.png"
+    ],
+    "hash": "6b47b23a66a686e10314012ebc302e8e"
+}

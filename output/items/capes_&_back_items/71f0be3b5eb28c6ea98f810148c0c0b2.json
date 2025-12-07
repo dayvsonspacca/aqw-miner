@@ -1,0 +1,16 @@
+{
+    "urlName": "manticore-assassin-wing",
+    "url": "http://aqwwiki.wikidot.com/manticore-assassin-wing",
+    "name": "Manticore Assassin Wing",
+    "type": "capes_&_back_items",
+    "description": "A single mountain manticore wing, to demonstrate that nothing\u2026 even the fearsome manticore\u2026 daunts you.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/manticore-assassin-wing/ManticoreAssassinWing.png"
+    ],
+    "hash": "71f0be3b5eb28c6ea98f810148c0c0b2"
+}

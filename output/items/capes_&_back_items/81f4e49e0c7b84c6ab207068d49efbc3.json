@@ -1,0 +1,16 @@
+{
+    "urlName": "toxian-radiation-vessel",
+    "url": "http://aqwwiki.wikidot.com/toxian-radiation-vessel",
+    "name": "Toxian Radiation Vessel",
+    "type": "capes_&_back_items",
+    "description": "This device could bring an entire continent to ruin, confounding any Mage or Cleric that attempts to counteract its effects.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/af7Wll3.png"
+    ],
+    "hash": "81f4e49e0c7b84c6ab207068d49efbc3"
+}

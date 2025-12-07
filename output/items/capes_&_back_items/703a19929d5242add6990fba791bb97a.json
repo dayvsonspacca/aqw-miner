@@ -1,0 +1,15 @@
+{
+    "urlName": "solar-lorekeeper-cape",
+    "url": "http://aqwwiki.wikidot.com/solar-lorekeeper-cape",
+    "name": "Solar Lorekeeper Cape",
+    "type": "capes_&_back_items",
+    "description": "Dwarfhold's Solar Lorekeepers specialize in studying the history of Embermane, the Steed of Day.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solar-lorekeeper-cape/SolarLorekeeperCape.png"
+    ],
+    "hash": "703a19929d5242add6990fba791bb97a"
+}

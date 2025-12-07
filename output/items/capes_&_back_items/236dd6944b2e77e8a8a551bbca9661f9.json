@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-parrot-cape",
+    "url": "http://aqwwiki.wikidot.com/golden-parrot-cape",
+    "name": "Golden Parrot Cape",
+    "type": "capes_&_back_items",
+    "description": "This bird be the color of treasure\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-parrot-cape/GoldenParrotCape.png",
+        "http://aqwwiki.wdfiles.com/local--files/golden-parrot-cape/GoldenParrotCapeAnim.png"
+    ],
+    "hash": "236dd6944b2e77e8a8a551bbca9661f9"
+}

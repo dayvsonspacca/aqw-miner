@@ -1,0 +1,17 @@
+{
+    "urlName": "charred-shadowflame-cape",
+    "url": "http://aqwwiki.wikidot.com/charred-shadowflame-cape",
+    "name": "Charred ShadowFlame Cape",
+    "type": "capes_&_back_items",
+    "description": "A simple cape given to those who are just starting their journey in the ShadowFlame.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/charred-shadowflame-cape/CharredShadowflameCape.png"
+    ],
+    "hash": "cc07e9f69b55f087bd11799ac5db3759"
+}

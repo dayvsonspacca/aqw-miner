@@ -1,0 +1,16 @@
+{
+    "urlName": "red-flag-cloak",
+    "url": "http://aqwwiki.wikidot.com/red-flag-cloak",
+    "name": "Red Flag Cloak",
+    "type": "capes_&_back_items",
+    "description": "Red flags represents courage, revolution, hardiness, and valor. And yeah, it makes a pretty awesome cape, too!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/gUXHlSX.png"
+    ],
+    "hash": "500f32a39a5c727e45f4fe8904079eb8"
+}

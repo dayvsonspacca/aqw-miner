@@ -1,0 +1,16 @@
+{
+    "urlName": "minty-lantern-candy-cane",
+    "url": "http://aqwwiki.wikidot.com/minty-lantern-candy-cane",
+    "name": "Minty Lantern + Candy Cane",
+    "type": "capes_&_back_items",
+    "description": "This candy cane's made of some sturdy stuff. The lamp's heat won't make it melt.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/IAjYRjK.png"
+    ],
+    "hash": "58c3f138fc99b6bd99be5b55a1bdee7d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "sheathed-incendiary-cutlass-ac",
+    "url": "http://aqwwiki.wikidot.com/sheathed-incendiary-cutlass-ac",
+    "name": "Sheathed Incendiary Cutlass (AC)",
+    "type": "capes_&_back_items",
+    "description": "A cutlass forged from mana-infused, superheated metal. It's extremely volatile, and likely to cause an explosion on impact. Only someone who doesn't sixth-degree burns should wield it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/TvowlrG.png"
+    ],
+    "hash": "bcd095b45c130e9c9c431e983318396a"
+}

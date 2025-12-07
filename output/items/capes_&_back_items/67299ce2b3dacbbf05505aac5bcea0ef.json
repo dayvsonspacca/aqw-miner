@@ -1,0 +1,16 @@
+{
+    "urlName": "lunaris-aura-cloak",
+    "url": "http://aqwwiki.wikidot.com/lunaris-aura-cloak",
+    "name": "Lunaris Aura Cloak",
+    "type": "capes_&_back_items",
+    "description": "A cloak that carries the darkness presided over by the Lunaris Clan's moon, and only their moon. They turn their backs on pretenders circling other planets.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/GkF1bXI.png"
+    ],
+    "hash": "67299ce2b3dacbbf05505aac5bcea0ef"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "turkey-on-your-back",
+    "url": "http://aqwwiki.wikidot.com/turkey-on-your-back",
+    "name": "Turkey on Your Back",
+    "type": "capes_&_back_items",
+    "description": "Hey, you have a turkey on your back! Look!",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/58DBt2g.png",
+        "http://i.imgur.com/OvXCgfQ.png"
+    ],
+    "hash": "31e2fe8f04636d8930cdec7c5270787d"
+}

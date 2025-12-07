@@ -1,0 +1,16 @@
+{
+    "urlName": "void-knight-wings",
+    "url": "http://aqwwiki.wikidot.com/void-knight-wings",
+    "name": "Void Knight Wings",
+    "type": "capes_&_back_items",
+    "description": "Thin, fragile wings that can keep their wearer in midair for longer distances than a dragon of darkness. This item gives 25% more XP and Class Points when equipped.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/pGIWt9H.png"
+    ],
+    "hash": "a7e34001601d75b77d884fcf3d44cfb6"
+}

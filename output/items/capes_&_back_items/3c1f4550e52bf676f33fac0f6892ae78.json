@@ -1,0 +1,17 @@
+{
+    "urlName": "the-wolves-pelt",
+    "url": "http://aqwwiki.wikidot.com/the-wolves-pelt",
+    "name": "The Wolves' Pelt",
+    "type": "capes_&_back_items",
+    "description": "Cloak yourself in the pelt of the wolves you've slain!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-wolves-pelt/TheWolvesPelt.png"
+    ],
+    "hash": "3c1f4550e52bf676f33fac0f6892ae78"
+}

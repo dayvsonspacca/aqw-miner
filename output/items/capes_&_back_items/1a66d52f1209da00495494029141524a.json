@@ -1,0 +1,16 @@
+{
+    "urlName": "mini-aurora-cape",
+    "url": "http://aqwwiki.wikidot.com/mini-aurora-cape",
+    "name": "Mini Aurora Cape",
+    "type": "capes_&_back_items",
+    "description": "The waves of light dance around your shoulders.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0WYh9Bt.png"
+    ],
+    "hash": "1a66d52f1209da00495494029141524a"
+}

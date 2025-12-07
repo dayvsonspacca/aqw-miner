@@ -1,0 +1,16 @@
+{
+    "urlName": "grim-skull-n-flag",
+    "url": "http://aqwwiki.wikidot.com/grim-skull-n-flag",
+    "name": "Grim Skull 'n Flag",
+    "type": "capes_&_back_items",
+    "description": "A flag heralding the arrival of a ship, holding a deadly dungeon and stolen treasures within its hull. If greed won't get challengers inside, the ship will chase them down themselves.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/MnLRVjw.png"
+    ],
+    "hash": "6575a7548511b40cc9729cde74c69f4d"
+}

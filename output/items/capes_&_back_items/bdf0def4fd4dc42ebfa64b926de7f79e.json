@@ -1,0 +1,15 @@
+{
+    "urlName": "atlas-knight-cloak",
+    "url": "http://aqwwiki.wikidot.com/atlas-knight-cloak",
+    "name": "Atlas Knight Cloak",
+    "type": "capes_&_back_items",
+    "description": "Armor, weapons, and cloaks are not passed from one generation to the next. These are meant to be worn by one worthy Knight, adjusted whenever they change bodies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/SEHTso4.png"
+    ],
+    "hash": "bdf0def4fd4dc42ebfa64b926de7f79e"
+}

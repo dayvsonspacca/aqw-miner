@@ -1,0 +1,15 @@
+{
+    "urlName": "moonwalker-pack",
+    "url": "http://aqwwiki.wikidot.com/moonwalker-pack",
+    "name": "Moonwalker Pack",
+    "type": "capes_&_back_items",
+    "description": "It looks heavy but that's just because you're not in zero gravity.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/moonwalker-pack/MoonwalkerPack.png"
+    ],
+    "hash": "9c8f64af629febb11c3316435a52e31f"
+}

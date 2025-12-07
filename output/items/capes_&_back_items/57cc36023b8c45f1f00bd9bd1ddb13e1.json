@@ -1,0 +1,15 @@
+{
+    "urlName": "blue-cape",
+    "url": "http://aqwwiki.wikidot.com/blue-cape",
+    "name": "Blue Cape",
+    "type": "capes_&_back_items",
+    "description": "Blue Cape",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blue-cape/BlueCape.png"
+    ],
+    "hash": "57cc36023b8c45f1f00bd9bd1ddb13e1"
+}

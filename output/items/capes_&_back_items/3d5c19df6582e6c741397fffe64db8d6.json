@@ -1,0 +1,15 @@
+{
+    "urlName": "lunar-lorekeeper-cape",
+    "url": "http://aqwwiki.wikidot.com/lunar-lorekeeper-cape",
+    "name": "Lunar Lorekeeper Cape",
+    "type": "capes_&_back_items",
+    "description": "Dwarfhold's Lunar Lorekeepers specialize in studying the history of Frostmane, the Steed of Night.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunar-lorekeeper-cape/LunarLorekeeperCape.png"
+    ],
+    "hash": "3d5c19df6582e6c741397fffe64db8d6"
+}

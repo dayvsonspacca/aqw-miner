@@ -1,0 +1,17 @@
+{
+    "urlName": "heartcrusher-rune",
+    "url": "http://aqwwiki.wikidot.com/heartcrusher-rune",
+    "name": "HeartCrusher Rune",
+    "type": "capes_&_back_items",
+    "description": "Shot to the heart, and you're too blame. You seek love, glory, and fame. (Changes when in combat)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/DOzRlJL.png",
+        "https://i.imgur.com/UV2NynD.png"
+    ],
+    "hash": "0462043d0cfa11ce05a14b234e410d7e"
+}

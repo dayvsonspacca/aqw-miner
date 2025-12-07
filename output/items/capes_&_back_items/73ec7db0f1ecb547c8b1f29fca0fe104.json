@@ -1,0 +1,16 @@
+{
+    "urlName": "jolly-roger",
+    "url": "http://aqwwiki.wikidot.com/jolly-roger",
+    "name": "Jolly Roger",
+    "type": "capes_&_back_items",
+    "description": "Ye be jolly as a roger with this here pirate's flag! YAR!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/jolly-roger/JR.png"
+    ],
+    "hash": "73ec7db0f1ecb547c8b1f29fca0fe104"
+}

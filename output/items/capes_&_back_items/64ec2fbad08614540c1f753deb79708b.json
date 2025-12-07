@@ -1,0 +1,16 @@
+{
+    "urlName": "erudite-plague-doctor-cloak",
+    "url": "http://aqwwiki.wikidot.com/erudite-plague-doctor-cloak",
+    "name": "Erudite Plague Doctor Cloak",
+    "type": "capes_&_back_items",
+    "description": "This cloak is doused in distilled, herb-infused potions. It's meant to hide the Plague Doctor's presence from Vampires, Werewolves, and other creatures seeking to halt their progress.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Ja7XPCk.png"
+    ],
+    "hash": "64ec2fbad08614540c1f753deb79708b"
+}

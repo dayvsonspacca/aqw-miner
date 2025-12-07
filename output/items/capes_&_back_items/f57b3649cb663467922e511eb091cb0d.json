@@ -1,0 +1,16 @@
+{
+    "urlName": "autumnal-maple-leaves",
+    "url": "http://aqwwiki.wikidot.com/autumnal-maple-leaves",
+    "name": "Autumnal Maple Leaves",
+    "type": "capes_&_back_items",
+    "description": "The fallen leaves swirl in the brisk breeze. You're not responsible for raking them up, so enjoy the view.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5LdCkHH.png"
+    ],
+    "hash": "f57b3649cb663467922e511eb091cb0d"
+}

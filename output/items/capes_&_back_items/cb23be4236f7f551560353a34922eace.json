@@ -1,0 +1,15 @@
+{
+    "urlName": "blizzard-runes-cape",
+    "url": "http://aqwwiki.wikidot.com/blizzard-runes-cape",
+    "name": "Blizzard Runes Cape",
+    "type": "capes_&_back_items",
+    "description": "Channel the power of blizzards and black ice to destroy your enemies!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blizzard-runes-cape/BlizzardRunesCape.png"
+    ],
+    "hash": "cb23be4236f7f551560353a34922eace"
+}

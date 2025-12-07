@@ -1,0 +1,17 @@
+{
+    "urlName": "fall-court-wings",
+    "url": "http://aqwwiki.wikidot.com/fall-court-wings",
+    "name": "Fall Court Wings",
+    "type": "capes_&_back_items",
+    "description": "Delicate wings as fragile as super glass. Just like the fall leaves, they'll disappear when it begins to snow. Their beauty tempts the innocent and naive to join them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/f9ydiQr.png",
+        "https://i.imgur.com/AIeZfBX.png"
+    ],
+    "hash": "8178a2bd50e0158f45065f87308e54b3"
+}

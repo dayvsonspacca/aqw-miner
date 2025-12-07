@@ -1,0 +1,17 @@
+{
+    "urlName": "frozen-back-blades",
+    "url": "http://aqwwiki.wikidot.com/frozen-back-blades",
+    "name": "Frozen Back Blades",
+    "type": "capes_&_back_items",
+    "description": "At the drop of a snow flake, I will bear arms and bring you down!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/LDtLiQB.png"
+    ],
+    "hash": "fff382fa3784c872de0b53f96c4025b0"
+}

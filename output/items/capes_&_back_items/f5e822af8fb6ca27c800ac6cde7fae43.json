@@ -1,0 +1,16 @@
+{
+    "urlName": "frostspawn-rune-cape",
+    "url": "http://aqwwiki.wikidot.com/frostspawn-rune-cape",
+    "name": "FrostSpawn Rune Cape",
+    "type": "capes_&_back_items",
+    "description": "Let the power of Glaceran runes compel you on to glory!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frostspawn-rune-cape/FrostSpawnRuneCape.png"
+    ],
+    "hash": "f5e822af8fb6ca27c800ac6cde7fae43"
+}

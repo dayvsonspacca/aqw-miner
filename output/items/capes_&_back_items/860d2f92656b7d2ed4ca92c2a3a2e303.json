@@ -1,0 +1,17 @@
+{
+    "urlName": "cloak-of-ravens",
+    "url": "http://aqwwiki.wikidot.com/cloak-of-ravens",
+    "name": "Cloak of Ravens",
+    "type": "capes_&_back_items",
+    "description": "The accoutrements of the Ravenlords cannot be wielded by mere mortals\u2026 all who try crumble to dust at the first touch.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cloak-of-ravens/CR.png",
+        "http://aqwwiki.wdfiles.com/local--files/cloak-of-ravens/CRWalk.png"
+    ],
+    "hash": "860d2f92656b7d2ed4ca92c2a3a2e303"
+}

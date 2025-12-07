@@ -1,0 +1,16 @@
+{
+    "urlName": "eventide-sorcerer-s-wings",
+    "url": "http://aqwwiki.wikidot.com/eventide-sorcerer-s-wings",
+    "name": "Eventide Sorcerer's Wings",
+    "type": "capes_&_back_items",
+    "description": "Delicate, seemingly ornamental, bat-like, but quieter than the wingbeats of a moth.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/PekRqQV.png"
+    ],
+    "hash": "5369fcffd1559c7daaef973a406b177d"
+}

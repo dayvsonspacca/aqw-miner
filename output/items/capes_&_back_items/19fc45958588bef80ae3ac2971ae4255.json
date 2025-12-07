@@ -1,0 +1,15 @@
+{
+    "urlName": "golden-skycape",
+    "url": "http://aqwwiki.wikidot.com/golden-skycape",
+    "name": "Golden SkyCape",
+    "type": "capes_&_back_items",
+    "description": "Command the skies, either at the helm of your ship or with the wings right on your back.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/K2E5cTI.png"
+    ],
+    "hash": "19fc45958588bef80ae3ac2971ae4255"
+}

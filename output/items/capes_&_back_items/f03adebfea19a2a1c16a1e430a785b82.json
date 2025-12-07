@@ -1,0 +1,16 @@
+{
+    "urlName": "ignited-cape",
+    "url": "http://aqwwiki.wikidot.com/ignited-cape",
+    "name": "Ignited Cape",
+    "type": "capes_&_back_items",
+    "description": "These sashes represent high ranking members in the Order of the Ignited Ones.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ignited-cape/IgnitedCape.png"
+    ],
+    "hash": "f03adebfea19a2a1c16a1e430a785b82"
+}

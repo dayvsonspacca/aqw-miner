@@ -1,0 +1,17 @@
+{
+    "urlName": "back-up-viper-launcher",
+    "url": "http://aqwwiki.wikidot.com/back-up-viper-launcher",
+    "name": "Back-Up Viper Launcher",
+    "type": "capes_&_back_items",
+    "description": "Sure, it blasts your enemies away. Sure, it's functional even when it's submerged in water. More importantly, the snake is named Nikita.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/CeIO9GP.png"
+    ],
+    "hash": "d773c4bec17576055b22088d0090cd42"
+}

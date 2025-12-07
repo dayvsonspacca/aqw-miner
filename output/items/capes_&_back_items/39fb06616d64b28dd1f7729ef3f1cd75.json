@@ -1,0 +1,15 @@
+{
+    "urlName": "rocket-pack",
+    "url": "http://aqwwiki.wikidot.com/rocket-pack",
+    "name": "Rocket Pack",
+    "type": "capes_&_back_items",
+    "description": "This should get you there faster\u2026",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/gbHVFvK.png"
+    ],
+    "hash": "39fb06616d64b28dd1f7729ef3f1cd75"
+}

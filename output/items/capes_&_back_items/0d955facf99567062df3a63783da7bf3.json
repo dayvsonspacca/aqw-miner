@@ -1,0 +1,17 @@
+{
+    "urlName": "ravens-of-heimland",
+    "url": "http://aqwwiki.wikidot.com/ravens-of-heimland",
+    "name": "Ravens of Heimland",
+    "type": "capes_&_back_items",
+    "description": "The accoutrements of the Ravenlords cannot be wielded by mere mortals\u2026 all who try crumble to dust at the first touch.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ravens-of-heimland/RH.png",
+        "http://aqwwiki.wdfiles.com/local--files/ravens-of-heimland/RHWalk.png"
+    ],
+    "hash": "0d955facf99567062df3a63783da7bf3"
+}

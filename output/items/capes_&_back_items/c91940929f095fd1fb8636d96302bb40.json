@@ -1,0 +1,16 @@
+{
+    "urlName": "runed-knight-s-wings-cape",
+    "url": "http://aqwwiki.wikidot.com/runed-knight-s-wings-cape",
+    "name": "Runed Knight's Wings + Cape",
+    "type": "capes_&_back_items",
+    "description": "You recovered this mysterious item after defeating Lord Reignolds in his lair. It pulses with a strange, unsettling power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wXBe0o2.png"
+    ],
+    "hash": "c91940929f095fd1fb8636d96302bb40"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "falcon-ranger-quiver",
+    "url": "http://aqwwiki.wikidot.com/falcon-ranger-quiver",
+    "name": "Falcon Ranger Quiver",
+    "type": "capes_&_back_items",
+    "description": "One arrow for every life. For the skilled, an arrow can take several lives if aimed at an unstable cliff.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WIh8xrk.png"
+    ],
+    "hash": "9680e89829d1dd0e958eb1fa8f460b85"
+}

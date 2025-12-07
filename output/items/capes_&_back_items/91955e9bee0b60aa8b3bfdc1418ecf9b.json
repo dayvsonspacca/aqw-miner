@@ -1,0 +1,16 @@
+{
+    "urlName": "grimm-trophy",
+    "url": "http://aqwwiki.wikidot.com/grimm-trophy",
+    "name": "Grimm Trophy",
+    "type": "capes_&_back_items",
+    "description": "Carrying staves as trophies is MUCH less bloody then carrying heads! This proves to all who see you that any creature of darkness should flee your approach!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/grimm-trophy/GrimmTrophy.png"
+    ],
+    "hash": "91955e9bee0b60aa8b3bfdc1418ecf9b"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "mediator-wings-ac",
+    "url": "http://aqwwiki.wikidot.com/mediator-wings-ac",
+    "name": "Mediator Wings (AC)",
+    "type": "capes_&_back_items",
+    "description": "An add-on for the Mecha Gear system which provides increased acceleration.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9f6TDfQ.png"
+    ],
+    "hash": "4e5da5c2fca684372136a22cb3ff3a5e"
+}

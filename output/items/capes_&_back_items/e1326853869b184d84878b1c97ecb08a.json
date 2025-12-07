@@ -1,0 +1,15 @@
+{
+    "urlName": "frostguard-s-cloak",
+    "url": "http://aqwwiki.wikidot.com/frostguard-s-cloak",
+    "name": "Frostguard's Cloak",
+    "type": "capes_&_back_items",
+    "description": "A Frostguard's cloak will keep you warm in the coldest of times!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frostguard-s-cloak/FrostguardsCloak.png"
+    ],
+    "hash": "e1326853869b184d84878b1c97ecb08a"
+}

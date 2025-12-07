@@ -1,0 +1,16 @@
+{
+    "urlName": "total-solar-eclipse",
+    "url": "http://aqwwiki.wikidot.com/total-solar-eclipse",
+    "name": "Total Solar Eclipse",
+    "type": "capes_&_back_items",
+    "description": "It's just the moon passing over the sun, but every dark lord and their mysterious grandma are using it to realize evil ambitions. There has to be some sort of wait list for these things.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/zi7T4u2.png"
+    ],
+    "hash": "02bae22880ced60f072ce72f3e48a6e5"
+}

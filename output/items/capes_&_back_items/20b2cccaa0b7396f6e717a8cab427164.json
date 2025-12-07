@@ -1,0 +1,17 @@
+{
+    "urlName": "furred-fir-cloak",
+    "url": "http://aqwwiki.wikidot.com/furred-fir-cloak",
+    "name": "Furred Fir Cloak",
+    "type": "capes_&_back_items",
+    "description": "The accoutrements of the Ravenlords cannot be wielded by mere mortals\u2026 all who try crumble to dust at the first touch.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/furred-fir-cloak/FFC.png",
+        "http://aqwwiki.wdfiles.com/local--files/furred-fir-cloak/FFCWalk.png"
+    ],
+    "hash": "20b2cccaa0b7396f6e717a8cab427164"
+}

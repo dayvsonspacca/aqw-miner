@@ -1,0 +1,15 @@
+{
+    "urlName": "backup-rot-touched-shotgun",
+    "url": "http://aqwwiki.wikidot.com/backup-rot-touched-shotgun",
+    "name": "Backup Rot-Touched Shotgun",
+    "type": "capes_&_back_items",
+    "description": "A shot will kill you, just not right away. The wound starts looking gangrenous, and spreads until your entire body's zombified.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/e3uRFfi.png"
+    ],
+    "hash": "3054a5a2db7b60947b38ddbeed4c0668"
+}

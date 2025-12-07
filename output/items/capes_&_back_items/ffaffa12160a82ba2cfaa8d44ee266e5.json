@@ -1,0 +1,16 @@
+{
+    "urlName": "nightfall-wings",
+    "url": "http://aqwwiki.wikidot.com/nightfall-wings",
+    "name": "Nightfall Wings",
+    "type": "capes_&_back_items",
+    "description": "A pair of dark, leathery wings sprout from your back. Are you a bat, dragon or some form of demon?",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nightfall-wings/NightfallWings.png"
+    ],
+    "hash": "ffaffa12160a82ba2cfaa8d44ee266e5"
+}

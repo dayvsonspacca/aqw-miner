@@ -1,0 +1,16 @@
+{
+    "urlName": "aurora-caller-s-rune",
+    "url": "http://aqwwiki.wikidot.com/aurora-caller-s-rune",
+    "name": "Aurora Caller's Rune",
+    "type": "capes_&_back_items",
+    "description": "A sect of Luminomancers, Aurora Callers summon the northern lights and draw power from the bright magic contained inside them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/27RGtur.png"
+    ],
+    "hash": "96bcef12459376b1bffbf7a2cd02dba8"
+}

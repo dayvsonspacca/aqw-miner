@@ -1,0 +1,16 @@
+{
+    "urlName": "force-marker",
+    "url": "http://aqwwiki.wikidot.com/force-marker",
+    "name": "Force Marker",
+    "type": "capes_&_back_items",
+    "description": "This is your location!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/force-marker/FM.png"
+    ],
+    "hash": "39d94c9321d9b59704118df639b72f18"
+}

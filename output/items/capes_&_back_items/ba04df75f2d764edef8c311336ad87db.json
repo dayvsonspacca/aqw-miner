@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowscythe-katana",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-katana",
+    "name": "Shadowscythe Katana",
+    "type": "capes_&_back_items",
+    "description": "One lonely blade.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-katana/ShadowscytheKatana.png"
+    ],
+    "hash": "ba04df75f2d764edef8c311336ad87db"
+}

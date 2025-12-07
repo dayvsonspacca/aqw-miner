@@ -1,0 +1,16 @@
+{
+    "urlName": "blood-isles-backup-equipment",
+    "url": "http://aqwwiki.wikidot.com/blood-isles-backup-equipment",
+    "name": "Blood Isles Backup Equipment",
+    "type": "capes_&_back_items",
+    "description": "A pair of weapons left behind by a noble seafarer were claimed by the Blood Isles. They gleam, as shiny as they were the day gold poured into the mold.",
+    "rarity": "Seasonal item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0x0qJNH.png"
+    ],
+    "hash": "a69e43bb3b8c43b224cd2bcd0564266c"
+}

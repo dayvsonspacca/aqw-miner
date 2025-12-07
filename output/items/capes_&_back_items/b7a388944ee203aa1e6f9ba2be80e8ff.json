@@ -1,0 +1,16 @@
+{
+    "urlName": "seraphic-wings",
+    "url": "http://aqwwiki.wikidot.com/seraphic-wings",
+    "name": "Seraphic Wings",
+    "type": "capes_&_back_items",
+    "description": "Given to ethereal beings who have earned them. Listen for a bell.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/seraphic-wings/SeraphicWings.png"
+    ],
+    "hash": "b7a388944ee203aa1e6f9ba2be80e8ff"
+}

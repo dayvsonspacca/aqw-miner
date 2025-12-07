@@ -1,0 +1,16 @@
+{
+    "urlName": "friendly-rabbit",
+    "url": "http://aqwwiki.wikidot.com/friendly-rabbit",
+    "name": "Friendly Rabbit",
+    "type": "capes_&_back_items",
+    "description": "This guy's catching a ride to the carrot juice stand.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/G74w1xD.png"
+    ],
+    "hash": "c601aa13bb7a78ea15a64906e3d835dd"
+}

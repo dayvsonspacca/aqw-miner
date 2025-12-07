@@ -1,0 +1,16 @@
+{
+    "urlName": "legacy-nation-cloak-legend",
+    "url": "http://aqwwiki.wikidot.com/legacy-nation-cloak-legend",
+    "name": "Legacy Nation Cloak (Legend)",
+    "type": "capes_&_back_items",
+    "description": "The veterans of the Nation don't need pomp and circumstance. Their simple presence alone rallies armies of Fiends to gather and revel in destruction.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5uJwvWP.png"
+    ],
+    "hash": "bef3816ed2b983e5de78264e705429d9"
+}

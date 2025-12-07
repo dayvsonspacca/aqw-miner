@@ -1,0 +1,18 @@
+{
+    "urlName": "northland-guardian-cape",
+    "url": "http://aqwwiki.wikidot.com/northland-guardian-cape",
+    "name": "Northland Guardian Cape",
+    "type": "capes_&_back_items",
+    "description": "A silent, snowy sentinel watches over the Kings of the Northlands. Only once all threats are gone will his watch be done.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/t8QBv7q.png",
+        "https://i.imgur.com/fVwCtTP.png"
+    ],
+    "hash": "0ae5ba40f7950d7e9b01bd8b80d9de2f"
+}

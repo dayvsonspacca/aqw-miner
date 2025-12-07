@@ -1,0 +1,17 @@
+{
+    "urlName": "lightning-pirate-s-cloud",
+    "url": "http://aqwwiki.wikidot.com/lightning-pirate-s-cloud",
+    "name": "Lightning Pirate's Cloud",
+    "type": "capes_&_back_items",
+    "description": "When ye sail the seas, ye get the storms. Lightnin' crashes and suddenly yer electric!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/PmDSj7B.png",
+        "https://imgur.com/0nBR7M5.png"
+    ],
+    "hash": "f2019c6dfe6b1bd846432bd93aa7903a"
+}

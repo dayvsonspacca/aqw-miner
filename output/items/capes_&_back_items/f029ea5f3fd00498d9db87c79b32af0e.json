@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-soul-shroud",
+    "url": "http://aqwwiki.wikidot.com/undead-soul-shroud",
+    "name": "Undead Soul Shroud",
+    "type": "capes_&_back_items",
+    "description": "You feel nothing for the souls who tried to escape The Underworld. Their eternal punishment is entirely self-inflicted.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-soul-shroud/UndeadSoulShroud.png"
+    ],
+    "hash": "f029ea5f3fd00498d9db87c79b32af0e"
+}

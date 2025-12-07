@@ -1,0 +1,16 @@
+{
+    "urlName": "rune-of-the-void-cloak",
+    "url": "http://aqwwiki.wikidot.com/rune-of-the-void-cloak",
+    "name": "Rune of the Void Cloak",
+    "type": "capes_&_back_items",
+    "description": "A runic circle that can spike the user's accuracy when launching ranged attacks, allowing each strike to be unavoidable.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/dYEPIjE.png"
+    ],
+    "hash": "072141c349f78865d4f8671c679f0696"
+}

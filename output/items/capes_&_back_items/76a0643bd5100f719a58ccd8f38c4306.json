@@ -1,0 +1,17 @@
+{
+    "urlName": "ecto-dragon-cape",
+    "url": "http://aqwwiki.wikidot.com/ecto-dragon-cape",
+    "name": "Ecto Dragon Cape",
+    "type": "capes_&_back_items",
+    "description": "Since it's death, the soul of a Darkovian dragon is bound to the Eergcast Catacombs waiting for a cryptkeeper to use its poisonous fear-inducing power once again to add more souls and empty bones to their body.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ecto-dragon-cape/EctoDragonCapeN.png",
+        "http://aqwwiki.wdfiles.com/local--files/ecto-dragon-cape/EctoDragonCapeO.png"
+    ],
+    "hash": "76a0643bd5100f719a58ccd8f38c4306"
+}

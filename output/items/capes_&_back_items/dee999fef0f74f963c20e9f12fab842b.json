@@ -1,0 +1,16 @@
+{
+    "urlName": "void-parasite-wings",
+    "url": "http://aqwwiki.wikidot.com/void-parasite-wings",
+    "name": "Void Parasite Wings",
+    "type": "capes_&_back_items",
+    "description": "A pair of parasitic wings fit for a denizen of the void. The parasite can camouflage itself into whatever armor color you have set.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-parasite-wings/VoidParasiteWings.png"
+    ],
+    "hash": "dee999fef0f74f963c20e9f12fab842b"
+}

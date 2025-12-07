@@ -1,0 +1,16 @@
+{
+    "urlName": "cursed-anchor-cape",
+    "url": "http://aqwwiki.wikidot.com/cursed-anchor-cape",
+    "name": "Cursed Anchor Cape",
+    "type": "capes_&_back_items",
+    "description": "Be careful when you use this strange anchor to dock. If not landed on a sloped surface, it could actually sink the entire boat in the blink of an eye.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cursed-anchor-cape/CursedAnchorCape.png"
+    ],
+    "hash": "2434b92e62d0f74de7fe7ace46a29252"
+}

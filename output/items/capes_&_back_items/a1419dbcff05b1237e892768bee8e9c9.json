@@ -1,0 +1,16 @@
+{
+    "urlName": "mirror-of-the-galactic-grail",
+    "url": "http://aqwwiki.wikidot.com/mirror-of-the-galactic-grail",
+    "name": "Mirror of the Galactic Grail",
+    "type": "capes_&_back_items",
+    "description": "A tool that Mages and Philosophers use to dream of the stars. It looks deep into the depths of the sky, searching for the birthplace of everything that has ever existed.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1cfW8No.png"
+    ],
+    "hash": "a1419dbcff05b1237e892768bee8e9c9"
+}

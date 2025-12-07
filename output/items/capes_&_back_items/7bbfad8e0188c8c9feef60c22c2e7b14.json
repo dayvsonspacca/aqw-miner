@@ -1,0 +1,16 @@
+{
+    "urlName": "giant-sack-of-gifts",
+    "url": "http://aqwwiki.wikidot.com/giant-sack-of-gifts",
+    "name": "Giant Sack of Gifts",
+    "type": "capes_&_back_items",
+    "description": "Happy Frostval! Carry this sack around with you, and you will never run out of stuff to open!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/KAfS4HU.png"
+    ],
+    "hash": "7bbfad8e0188c8c9feef60c22c2e7b14"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "white-butterflies",
+    "url": "http://aqwwiki.wikidot.com/white-butterflies",
+    "name": "White Butterflies",
+    "type": "capes_&_back_items",
+    "description": "They've mistaken you for a flower!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/rait9zr.png"
+    ],
+    "hash": "53bd9bb520ffb3958f6d6d1b00aaf38c"
+}

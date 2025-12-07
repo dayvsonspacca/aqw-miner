@@ -1,0 +1,16 @@
+{
+    "urlName": "octopus-backpack",
+    "url": "http://aqwwiki.wikidot.com/octopus-backpack",
+    "name": "Octopus Backpack",
+    "type": "capes_&_back_items",
+    "description": "A perfectly mobile solution for those who often write with quills. Can also double as \"seafood-to-go.\"",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/octopus-backpack/OctopusBackpack.png"
+    ],
+    "hash": "7fed055c838dafc746cc9b8087163905"
+}

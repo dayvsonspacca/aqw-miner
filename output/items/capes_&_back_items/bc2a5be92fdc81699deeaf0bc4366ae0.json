@@ -1,0 +1,16 @@
+{
+    "urlName": "lightning-backblades-ac",
+    "url": "http://aqwwiki.wikidot.com/lightning-backblades-ac",
+    "name": "Lightning BackBlades (AC)",
+    "type": "capes_&_back_items",
+    "description": "Who needs a star when you light up the night?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightning-backblades-ac/LBackblades.png"
+    ],
+    "hash": "bc2a5be92fdc81699deeaf0bc4366ae0"
+}

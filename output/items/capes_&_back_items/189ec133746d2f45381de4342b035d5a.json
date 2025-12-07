@@ -1,0 +1,13 @@
+{
+    "urlName": "sack-o-clues",
+    "url": "http://aqwwiki.wikidot.com/sack-o-clues",
+    "name": "Sack o' Clues",
+    "type": "capes_&_back_items",
+    "description": "Who collects the elements and artifacts the Spellswords need to create these weapons? The Artifact Hunters!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/ZBfCUKP.png"
+    ],
+    "hash": "189ec133746d2f45381de4342b035d5a"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "fox-tail",
+    "url": "http://aqwwiki.wikidot.com/fox-tail",
+    "name": "Fox Tail",
+    "type": "capes_&_back_items",
+    "description": "You grow a fox tail!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/D0etUIJ.png"
+    ],
+    "hash": "6cb159435796332ee99710b650cf7568"
+}

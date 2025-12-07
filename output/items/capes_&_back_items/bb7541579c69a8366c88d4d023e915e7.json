@@ -1,0 +1,17 @@
+{
+    "urlName": "wretched-insect-legs",
+    "url": "http://aqwwiki.wikidot.com/wretched-insect-legs",
+    "name": "Wretched Insect Legs",
+    "type": "capes_&_back_items",
+    "description": "They spin webs and the bodies of hapless prey.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cZB4YaE.png",
+        "https://i.imgur.com/znrAGct.png"
+    ],
+    "hash": "bb7541579c69a8366c88d4d023e915e7"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frostlorn-ice-aura-ac",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-ice-aura-ac",
+    "name": "Frostlorn Ice Aura (AC)",
+    "type": "capes_&_back_items",
+    "description": "A freezing power flows from this orb much colder than anything found in the Frostlorn Raiders' homeland; The chill touch of the grave.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0QuubaP.png"
+    ],
+    "hash": "1bbbc5bca77320f8aaf9e910d80b3216"
+}

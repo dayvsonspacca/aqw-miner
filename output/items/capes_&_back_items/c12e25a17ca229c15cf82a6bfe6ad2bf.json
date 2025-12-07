@@ -1,0 +1,17 @@
+{
+    "urlName": "wings-of-cupid",
+    "url": "http://aqwwiki.wikidot.com/wings-of-cupid",
+    "name": "Wings of Cupid",
+    "type": "capes_&_back_items",
+    "description": "PLAYER SUGGESTION: Cupid is known for mischief determining when and how to strike with his arrows. Will you use your wings for mischief, or will you save the day? Suggested by Na Tra.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wings-of-cupid/WingsofCupidN.png",
+        "http://aqwwiki.wdfiles.com/local--files/wings-of-cupid/WingsofCupidA.png"
+    ],
+    "hash": "c12e25a17ca229c15cf82a6bfe6ad2bf"
+}

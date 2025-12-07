@@ -1,0 +1,16 @@
+{
+    "urlName": "oathkeeper-halo-ac",
+    "url": "http://aqwwiki.wikidot.com/oathkeeper-halo-ac",
+    "name": "OathKeeper Halo (AC)",
+    "type": "capes_&_back_items",
+    "description": "Don't be deceived by it's shining light. Instead, pay heed to the sickening feeling that rises in your throat whenever you look at it. Beware this profane symbol!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oathkeeper-halo-ac/OathKeeperHalo.png"
+    ],
+    "hash": "a59eda1b06fa3641204732678e3077cd"
+}

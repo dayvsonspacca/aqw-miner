@@ -1,0 +1,16 @@
+{
+    "urlName": "webwings",
+    "url": "http://aqwwiki.wikidot.com/webwings",
+    "name": "WebWings",
+    "type": "capes_&_back_items",
+    "description": "You might not be able to web sling with these but you'll stand out with these webby wings.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/webwings/WebWings.png"
+    ],
+    "hash": "70f0caf8e609a3cc8314045660550e5c"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "zardian-pilot-jetpack",
+    "url": "http://aqwwiki.wikidot.com/zardian-pilot-jetpack",
+    "name": "Zardian Pilot Jetpack",
+    "type": "capes_&_back_items",
+    "description": "You'll need a good sense of direction with all the dust the jet kicks up on lift off.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/haiSzin.png"
+    ],
+    "hash": "a76c8a29b280f2b0103858d131bb0920"
+}

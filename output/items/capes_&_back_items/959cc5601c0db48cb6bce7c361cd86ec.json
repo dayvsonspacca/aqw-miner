@@ -1,0 +1,16 @@
+{
+    "urlName": "sandstalker-scarf",
+    "url": "http://aqwwiki.wikidot.com/sandstalker-scarf",
+    "name": "SandStalker Scarf",
+    "type": "capes_&_back_items",
+    "description": "Scarves are worn at all times, because you never know when a sandstorm will come!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sandstalker-scarf/SSS.png"
+    ],
+    "hash": "959cc5601c0db48cb6bce7c361cd86ec"
+}

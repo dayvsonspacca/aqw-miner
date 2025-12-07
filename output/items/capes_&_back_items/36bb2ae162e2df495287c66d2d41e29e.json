@@ -1,0 +1,16 @@
+{
+    "urlName": "ghostly-cape",
+    "url": "http://aqwwiki.wikidot.com/ghostly-cape",
+    "name": "Ghostly Cape",
+    "type": "capes_&_back_items",
+    "description": "Might as well make use of this ghost's material.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ByNQsNK.png"
+    ],
+    "hash": "36bb2ae162e2df495287c66d2d41e29e"
+}

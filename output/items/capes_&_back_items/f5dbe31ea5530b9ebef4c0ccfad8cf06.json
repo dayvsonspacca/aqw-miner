@@ -1,0 +1,15 @@
+{
+    "urlName": "astral-runes",
+    "url": "http://aqwwiki.wikidot.com/astral-runes",
+    "name": "Astral Runes",
+    "type": "capes_&_back_items",
+    "description": "A strange aura found only in the para-elemental Plane of Magic. When activated, the otherworldly fragments form a magic rune behind you that attunes itself to your accessory color.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/rqwAHEn.png"
+    ],
+    "hash": "f5dbe31ea5530b9ebef4c0ccfad8cf06"
+}

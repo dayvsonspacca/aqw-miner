@@ -1,0 +1,15 @@
+{
+    "urlName": "battle-oracle-wings",
+    "url": "http://aqwwiki.wikidot.com/battle-oracle-wings",
+    "name": "Battle Oracle Wings",
+    "type": "capes_&_back_items",
+    "description": "Oracles are strong healers and can see into everyone's future, past and present, even if they don't know it! They are excellent at maintaining the health and status of their friends. They can also notify their friends of their opponents weaknesses and strengths, making them the perfect ones to accept a party invite from.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battle-oracle-wings/BattleOracleWings.png"
+    ],
+    "hash": "0b05dcca1b7f2e150ff48fa48943748f"
+}

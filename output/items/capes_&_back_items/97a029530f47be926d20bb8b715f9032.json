@@ -1,0 +1,14 @@
+{
+    "urlName": "blacklight-ning-sprites-cape",
+    "url": "http://aqwwiki.wikidot.com/blacklight-ning-sprites-cape",
+    "name": "Blacklight-ning Sprites (Cape)",
+    "type": "capes_&_back_items",
+    "description": "These blacklight-ning sprites will reverse whatever light or color passes through them.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/OnT9ZtY.png",
+        "http://i.imgur.com/pJAAiRA.png"
+    ],
+    "hash": "97a029530f47be926d20bb8b715f9032"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "bright-paladin-cape",
+    "url": "http://aqwwiki.wikidot.com/bright-paladin-cape",
+    "name": "Bright Paladin Cape",
+    "type": "capes_&_back_items",
+    "description": "Shroud yourself in majesty as you ride your gryphon companion!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bright-paladin-cape/BrightPaladinCapeN.png",
+        "http://aqwwiki.wdfiles.com/local--files/bright-paladin-cape/BrightPaladinCapeO.png"
+    ],
+    "hash": "38b29e4f7c7496291b8f56149b3b0a4d"
+}

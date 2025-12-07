@@ -1,0 +1,16 @@
+{
+    "urlName": "crimsonflame-runes",
+    "url": "http://aqwwiki.wikidot.com/crimsonflame-runes",
+    "name": "CrimsonFlame Runes",
+    "type": "capes_&_back_items",
+    "description": "The CrimsonFlame Fanatics are a small but powerful sect of fire magic users. They travel the land, \"purifying\" evildoers that cross their paths.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/HCWDVmT.png"
+    ],
+    "hash": "75c9ea90057e35bc24719159b9c894a6"
+}

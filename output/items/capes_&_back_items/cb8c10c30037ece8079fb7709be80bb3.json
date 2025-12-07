@@ -1,0 +1,17 @@
+{
+    "urlName": "resting-enchanted-hockey-stick",
+    "url": "http://aqwwiki.wikidot.com/resting-enchanted-hockey-stick",
+    "name": "Resting Enchanted Hockey Stick",
+    "type": "capes_&_back_items",
+    "description": "Hey, that's a high stick! I'm blowing the whistle! Celebrate your victory in the Icestorm Cup finals! (This item is color-customizable.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/nebwOsD.png"
+    ],
+    "hash": "cb8c10c30037ece8079fb7709be80bb3"
+}

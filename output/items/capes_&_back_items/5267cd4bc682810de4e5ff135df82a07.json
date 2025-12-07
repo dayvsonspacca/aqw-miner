@@ -1,0 +1,15 @@
+{
+    "urlName": "shadow-blades",
+    "url": "http://aqwwiki.wikidot.com/shadow-blades",
+    "name": "Shadow Blades",
+    "type": "capes_&_back_items",
+    "description": "You carry dual Shadow Ninja clan blades on your back!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/yC4H9qA.png"
+    ],
+    "hash": "5267cd4bc682810de4e5ff135df82a07"
+}

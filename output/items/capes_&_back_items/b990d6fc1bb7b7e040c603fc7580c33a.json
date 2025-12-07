@@ -1,0 +1,16 @@
+{
+    "urlName": "shamrock-cape",
+    "url": "http://aqwwiki.wikidot.com/shamrock-cape",
+    "name": "Shamrock Cape",
+    "type": "capes_&_back_items",
+    "description": "A cape made from leaves of a giant 4-leaf clover. Does being bigger mean more luck? I hope so!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/FuZBtyJ.png"
+    ],
+    "hash": "b990d6fc1bb7b7e040c603fc7580c33a"
+}

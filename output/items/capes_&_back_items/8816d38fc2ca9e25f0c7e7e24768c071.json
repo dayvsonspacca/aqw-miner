@@ -1,0 +1,16 @@
+{
+    "urlName": "comet-moth-wings",
+    "url": "http://aqwwiki.wikidot.com/comet-moth-wings",
+    "name": "Comet Moth Wings",
+    "type": "capes_&_back_items",
+    "description": "Also known as the Bloodtusk Moon Moth, this ephemeral creature is most active at night, flitting through the rain forests surrounding the ravine. The adult moth cannot feed and only lives for 4-5 days.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DZEXwY7.png"
+    ],
+    "hash": "8816d38fc2ca9e25f0c7e7e24768c071"
+}

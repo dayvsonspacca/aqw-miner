@@ -1,0 +1,16 @@
+{
+    "urlName": "one-eyed-crawler-cape",
+    "url": "http://aqwwiki.wikidot.com/one-eyed-crawler-cape",
+    "name": "One Eyed Crawler Cape",
+    "type": "capes_&_back_items",
+    "description": "Legend says it's in one's best interest to have eyes in the back of your head. The One Eyes Crawler is your second best option. A rare item discovered during the live One-Eyed Doll event.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/one-eyed-crawler-cape/OneEyedCrawlerCape.png"
+    ],
+    "hash": "acb1654d9ac3e789e30447afd9ccf35d"
+}

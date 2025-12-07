@@ -1,0 +1,16 @@
+{
+    "urlName": "avomancer-wings",
+    "url": "http://aqwwiki.wikidot.com/avomancer-wings",
+    "name": "Avomancer Wings",
+    "type": "capes_&_back_items",
+    "description": "Birds of a feather fight together.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/avomancer-wings/AW.png"
+    ],
+    "hash": "609bb92731b80af2d0deed401ad8d9bb"
+}

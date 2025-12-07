@@ -1,0 +1,15 @@
+{
+    "urlName": "warp-pack",
+    "url": "http://aqwwiki.wikidot.com/warp-pack",
+    "name": "Warp Pack",
+    "type": "capes_&_back_items",
+    "description": "A gift from Nulgath to his trusted subjects for moving between dimensions.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warp-pack/WarpPack.png"
+    ],
+    "hash": "c7c8e2643149c15ecbcc1b41554381da"
+}

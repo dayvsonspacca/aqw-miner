@@ -1,0 +1,16 @@
+{
+    "urlName": "chained-coffin-cape",
+    "url": "http://aqwwiki.wikidot.com/chained-coffin-cape",
+    "name": "Chained Coffin Cape",
+    "type": "capes_&_back_items",
+    "description": "They say dead men tell no tales, but the cursed skelly spirits seem to have a lot on their mind and they're making sure you are going to hear their tales wheter you're dead or alive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chained-coffin-cape/ChainedCoffinCape.png"
+    ],
+    "hash": "450d8ce4c25f84f4384ec5b7eade86b4"
+}

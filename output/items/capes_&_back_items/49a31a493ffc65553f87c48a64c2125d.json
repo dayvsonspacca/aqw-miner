@@ -1,0 +1,17 @@
+{
+    "urlName": "pumpkin-patch-cape",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-patch-cape",
+    "name": "Pumpkin Patch Cape",
+    "type": "capes_&_back_items",
+    "description": "The Pumpkin Magi serve at the court of the Harvest Queen and Great Pumpking. Their magic is mighty, and they can squash an enemy with a single blast. Their gourd works are known throughout the land.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/oxpX6OF.png"
+    ],
+    "hash": "49a31a493ffc65553f87c48a64c2125d"
+}

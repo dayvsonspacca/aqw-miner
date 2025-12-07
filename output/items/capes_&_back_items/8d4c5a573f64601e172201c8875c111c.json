@@ -1,0 +1,16 @@
+{
+    "urlName": "grasp-of-doom",
+    "url": "http://aqwwiki.wikidot.com/grasp-of-doom",
+    "name": "Grasp of Doom",
+    "type": "capes_&_back_items",
+    "description": "Shroud yourself in darkness when you equip the Grasp of Doom cape!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/grasp-of-doom/GraspofDoom.png"
+    ],
+    "hash": "8d4c5a573f64601e172201c8875c111c"
+}

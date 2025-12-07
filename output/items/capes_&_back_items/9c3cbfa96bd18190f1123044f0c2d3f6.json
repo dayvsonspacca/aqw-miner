@@ -1,0 +1,17 @@
+{
+    "urlName": "chronoreaper-mantle",
+    "url": "http://aqwwiki.wikidot.com/chronoreaper-mantle",
+    "name": "ChronoReaper Mantle",
+    "type": "capes_&_back_items",
+    "description": "Before Drakath's Chaorruption, the TimeReapers shone the blue of pure mana. It is time you saw them in their purest state!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/qakdzma.png",
+        "http://aqwwiki.wdfiles.com/local--files/chronoreaper-mantle/ChronoReaperMantleOld.png"
+    ],
+    "hash": "9c3cbfa96bd18190f1123044f0c2d3f6"
+}

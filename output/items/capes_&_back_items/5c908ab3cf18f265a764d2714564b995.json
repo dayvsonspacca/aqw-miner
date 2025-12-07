@@ -1,0 +1,17 @@
+{
+    "urlName": "parade-red-cloak",
+    "url": "http://aqwwiki.wikidot.com/parade-red-cloak",
+    "name": "Parade Red Cloak",
+    "type": "capes_&_back_items",
+    "description": "Wear this cloak to ensure good fortune in the new year.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/JMYXSKK.png"
+    ],
+    "hash": "5c908ab3cf18f265a764d2714564b995"
+}

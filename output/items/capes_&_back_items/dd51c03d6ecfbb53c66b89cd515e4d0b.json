@@ -1,0 +1,16 @@
+{
+    "urlName": "coldsteel-rune",
+    "url": "http://aqwwiki.wikidot.com/coldsteel-rune",
+    "name": "ColdSteel Rune",
+    "type": "capes_&_back_items",
+    "description": "Real heroes know when you're up against a fire dragon, you don't fight fire with fire, you use cold, sharp steel.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/wz0bBOm.png"
+    ],
+    "hash": "dd51c03d6ecfbb53c66b89cd515e4d0b"
+}

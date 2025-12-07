@@ -1,0 +1,16 @@
+{
+    "urlName": "radiant-runes",
+    "url": "http://aqwwiki.wikidot.com/radiant-runes",
+    "name": "Radiant Runes",
+    "type": "capes_&_back_items",
+    "description": "Harness the power of Light! This Magical Rune Reflects the great elemental power within yourself.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/radiant-runes/RadiantRunes.png"
+    ],
+    "hash": "219e0d90ec49ecf292e7c687a76b5b7f"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "doom-cloak",
+    "url": "http://aqwwiki.wikidot.com/doom-cloak",
+    "name": "Doom Cloak",
+    "type": "capes_&_back_items",
+    "description": "The style of cloak worn by Doom Knights--",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/iQ0u2DD.png"
+    ],
+    "hash": "8628b9dc8eace05ee178428099b0357b"
+}

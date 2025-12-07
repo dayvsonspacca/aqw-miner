@@ -1,0 +1,16 @@
+{
+    "urlName": "dragoncrest-map",
+    "url": "http://aqwwiki.wikidot.com/dragoncrest-map",
+    "name": "DragonCrest Map",
+    "type": "capes_&_back_items",
+    "description": "A map drafted by Dragons to mark nests and travel routes. That explains the size.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ZQ5CBAC.png"
+    ],
+    "hash": "62335d454f5d63491951a9c538eb1386"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-mage-s-portal",
+    "url": "http://aqwwiki.wikidot.com/shadow-mage-s-portal",
+    "name": "Shadow Mage's Portal",
+    "type": "capes_&_back_items",
+    "description": "The portal leads to a nameless and forbidden wasteland. Doubles as a makeshift trashbin for old notes and annoying neighbors.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/PAqzQBY.png"
+    ],
+    "hash": "474f4df94fe82d04c38a79be68ac7091"
+}

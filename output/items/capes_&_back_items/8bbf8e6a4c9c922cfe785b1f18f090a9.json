@@ -1,0 +1,16 @@
+{
+    "urlName": "eventide-sorcerer-s-rune",
+    "url": "http://aqwwiki.wikidot.com/eventide-sorcerer-s-rune",
+    "name": "Eventide Sorcerer's Rune",
+    "type": "capes_&_back_items",
+    "description": "This rune is part of a cruel spell. No, it's just a party trick for the eyes. That all depends on the night's mood.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/PIZBrni.png"
+    ],
+    "hash": "8bbf8e6a4c9c922cfe785b1f18f090a9"
+}

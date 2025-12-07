@@ -1,0 +1,16 @@
+{
+    "urlName": "havoc-missiles-ac",
+    "url": "http://aqwwiki.wikidot.com/havoc-missiles-ac",
+    "name": "Havoc Missiles (AC)",
+    "type": "capes_&_back_items",
+    "description": "There is no force greater than death. Use it to dominate your enemies.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9KY6V0Z.png"
+    ],
+    "hash": "1ffc09e11ec3bad3ecb94def1fbd6cae"
+}

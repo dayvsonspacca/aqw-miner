@@ -1,0 +1,15 @@
+{
+    "urlName": "squirrel-tail",
+    "url": "http://aqwwiki.wikidot.com/squirrel-tail",
+    "name": "Squirrel Tail",
+    "type": "capes_&_back_items",
+    "description": "The most effective ninjas always have fuzzy tails.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/squirrel-tail/SquirrelTail.png"
+    ],
+    "hash": "3ffeabf8acea31ed723bb7eb8f30cf87"
+}

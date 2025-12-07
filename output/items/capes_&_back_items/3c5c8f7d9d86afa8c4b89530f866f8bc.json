@@ -1,0 +1,16 @@
+{
+    "urlName": "carrot-quiver-cape",
+    "url": "http://aqwwiki.wikidot.com/carrot-quiver-cape",
+    "name": "Carrot Quiver Cape",
+    "type": "capes_&_back_items",
+    "description": "For arrows or extra carrots.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6LMlfgS.png"
+    ],
+    "hash": "3c5c8f7d9d86afa8c4b89530f866f8bc"
+}

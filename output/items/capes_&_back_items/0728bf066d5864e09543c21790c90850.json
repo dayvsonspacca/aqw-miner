@@ -1,0 +1,15 @@
+{
+    "urlName": "steampack",
+    "url": "http://aqwwiki.wikidot.com/steampack",
+    "name": "Steampack",
+    "type": "capes_&_back_items",
+    "description": "An unusual device that contains reserves of steam-powered energy!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/t1PFGCF.png"
+    ],
+    "hash": "0728bf066d5864e09543c21790c90850"
+}

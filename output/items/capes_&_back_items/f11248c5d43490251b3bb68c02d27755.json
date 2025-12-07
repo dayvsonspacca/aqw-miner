@@ -1,0 +1,16 @@
+{
+    "urlName": "neobattleon-duffel-bag",
+    "url": "http://aqwwiki.wikidot.com/neobattleon-duffel-bag",
+    "name": "NeoBattleon Duffel Bag",
+    "type": "capes_&_back_items",
+    "description": "It organizes your items in alphabetical order, by date of acquisition, and even rarity.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/xVCLrmr.png"
+    ],
+    "hash": "f11248c5d43490251b3bb68c02d27755"
+}

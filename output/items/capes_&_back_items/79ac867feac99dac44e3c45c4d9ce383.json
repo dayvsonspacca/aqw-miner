@@ -1,0 +1,17 @@
+{
+    "urlName": "black-hole-cape",
+    "url": "http://aqwwiki.wikidot.com/black-hole-cape",
+    "name": "Black Hole Cape",
+    "type": "capes_&_back_items",
+    "description": "It sucks in all your happiness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-hole-cape/BlackHoleCapeA1.png",
+        "http://aqwwiki.wdfiles.com/local--files/black-hole-cape/BlackHoleCapeA2.png"
+    ],
+    "hash": "79ac867feac99dac44e3c45c4d9ce383"
+}

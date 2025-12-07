@@ -1,0 +1,15 @@
+{
+    "urlName": "cryptic-runes",
+    "url": "http://aqwwiki.wikidot.com/cryptic-runes",
+    "name": "Cryptic Runes",
+    "type": "capes_&_back_items",
+    "description": "Cryptics are Atealan illusionists whose minds are their most powerful weapons. The only limit to their abilities is their imagination.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/1rWLhtx.png"
+    ],
+    "hash": "81c50e774b14a5cf14ccdc10294fb286"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "the-boatman-s-advent",
+    "url": "http://aqwwiki.wikidot.com/the-boatman-s-advent",
+    "name": "The Boatman's Advent",
+    "type": "capes_&_back_items",
+    "description": "The light at the end of the tunnel.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0jqd2pA.png",
+        "https://i.imgur.com/Hpnokta.png"
+    ],
+    "hash": "a59b4df42ea538292211e4e84d4d90ca"
+}

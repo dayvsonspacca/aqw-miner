@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-paragon-pet-cape",
+    "url": "http://aqwwiki.wikidot.com/arcane-paragon-pet-cape",
+    "name": "Arcane Paragon Pet Cape",
+    "type": "capes_&_back_items",
+    "description": "Awww, look at the wee little deathbringer clinging so tightly! SO DEADLY!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/arcane-paragon-pet-cape/ArcaneParagonPetCapeN.png",
+        "http://aqwwiki.wdfiles.com/local--files/arcane-paragon-pet-cape/ArcaneParagonPetCapeC.png"
+    ],
+    "hash": "d8c9ddfeb913505e6274af7cbe743162"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "spires-of-power",
+    "url": "http://aqwwiki.wikidot.com/spires-of-power",
+    "name": "Spires of Power",
+    "type": "capes_&_back_items",
+    "description": "Reaching towards the skies, this majestic spire pulls in power from it's surroundings, feeding the Warlock.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/spires-of-power/SpiresofPower.png"
+    ],
+    "hash": "07c1007c200e1120e7f973e3b5a6d761"
+}

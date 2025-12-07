@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-evolution-halo",
+    "url": "http://aqwwiki.wikidot.com/arcane-evolution-halo",
+    "name": "Arcane Evolution Halo",
+    "type": "capes_&_back_items",
+    "description": "A ring of gold, used to store and focus one's magic. It's an ancient artifact used by one of the original Mages of Greenguard. The Dragonrune Hall's faculty covets rare finds like these.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/SA6Q5xQ.png"
+    ],
+    "hash": "d0d0e102d2261489e8d70fa628ba9ee9"
+}

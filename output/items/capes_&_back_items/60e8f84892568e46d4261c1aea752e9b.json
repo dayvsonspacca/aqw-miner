@@ -1,0 +1,16 @@
+{
+    "urlName": "wretched-cloak",
+    "url": "http://aqwwiki.wikidot.com/wretched-cloak",
+    "name": "Wretched Cloak",
+    "type": "capes_&_back_items",
+    "description": "Hard to be quiet with this cape on!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wretched-cloak/WretchedCloak.png"
+    ],
+    "hash": "60e8f84892568e46d4261c1aea752e9b"
+}

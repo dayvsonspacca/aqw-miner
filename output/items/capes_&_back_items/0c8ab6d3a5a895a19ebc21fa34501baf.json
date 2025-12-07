@@ -1,0 +1,16 @@
+{
+    "urlName": "aulorian-cape",
+    "url": "http://aqwwiki.wikidot.com/aulorian-cape",
+    "name": "Aulorian Cape",
+    "type": "capes_&_back_items",
+    "description": "Let the golden reflections show you the way!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/4pvEHvN.png"
+    ],
+    "hash": "0c8ab6d3a5a895a19ebc21fa34501baf"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "radioactive-blaster-cape",
+    "url": "http://aqwwiki.wikidot.com/radioactive-blaster-cape",
+    "name": "Radioactive Blaster Cape",
+    "type": "capes_&_back_items",
+    "description": "See that glow? That's nuclear. Warning, not responsible if you turn into a giant radioactive mutant.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/FTQmdq8.png",
+        "https://i.imgur.com/qion0Sm.png"
+    ],
+    "hash": "56be505a7aee64d4c8bdf4be103dc222"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "tail-of-kalayo",
+    "url": "http://aqwwiki.wikidot.com/tail-of-kalayo",
+    "name": "Tail of Kalayo",
+    "type": "capes_&_back_items",
+    "description": "A cape meant for the worthy shoulders of those who have dueled Kalayo to prove that their kind are worthy of another chance. If a dwarf, elf, h'orc or otherwise intruded on the volcano, another of their kind would need to duel Kalayo as well.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iiJH6WN.png"
+    ],
+    "hash": "00ed9810dbae24909999961f8f000a64"
+}

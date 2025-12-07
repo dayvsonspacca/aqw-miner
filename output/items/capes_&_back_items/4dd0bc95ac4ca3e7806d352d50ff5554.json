@@ -1,0 +1,16 @@
+{
+    "urlName": "ghost-monkey",
+    "url": "http://aqwwiki.wikidot.com/ghost-monkey",
+    "name": "Ghost Monkey",
+    "type": "capes_&_back_items",
+    "description": "The poor monkey's all eek and no ook.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/WmiwPHv.png",
+        "https://i.imgur.com/W5OTwOb.png"
+    ],
+    "hash": "4dd0bc95ac4ca3e7806d352d50ff5554"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "astral-shadow-wings-ac",
+    "url": "http://aqwwiki.wikidot.com/astral-shadow-wings-ac",
+    "name": "Astral Shadow Wings (AC)",
+    "type": "capes_&_back_items",
+    "description": "The Astral Shadow wings are a mocking, darkened duplicate of the intergalactic wings worn by Astral Guardians.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/astral-shadow-wings-ac/AstralShadowWingsNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/astral-shadow-wings-ac/AstralShadowWingsOld.png"
+    ],
+    "hash": "52bf7d6746ed29f53133f789dfff8217"
+}

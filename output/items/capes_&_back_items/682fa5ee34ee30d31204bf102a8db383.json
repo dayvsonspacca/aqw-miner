@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-flightpack",
+    "url": "http://aqwwiki.wikidot.com/skyguard-flightpack",
+    "name": "Skyguard Flightpack",
+    "type": "capes_&_back_items",
+    "description": "For emergency use only. CAUTION: this safety device has been rated *extremely dangerous* by the Skyguard Research, Design, and Sky Safety team. Monitor steam pressure and heatsinks CAREFULLY!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skyguard-flightpack/SkyguardFlightpack.png"
+    ],
+    "hash": "682fa5ee34ee30d31204bf102a8db383"
+}

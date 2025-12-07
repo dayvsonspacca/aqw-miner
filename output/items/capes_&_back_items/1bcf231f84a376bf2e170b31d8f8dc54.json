@@ -1,0 +1,17 @@
+{
+    "urlName": "runic-universal-shield-ac",
+    "url": "http://aqwwiki.wikidot.com/runic-universal-shield-ac",
+    "name": "Runic Universal Shield (AC)",
+    "type": "capes_&_back_items",
+    "description": "The Runic Universal Shield is the seal often associated with the Astral Guardians, identifying themselves to any and all threats to reality and strengthening their defense against those threats.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/runic-universal-shield-ac/RUSN.png",
+        "http://aqwwiki.wdfiles.com/local--files/runic-universal-shield-ac/RUSO.png"
+    ],
+    "hash": "1bcf231f84a376bf2e170b31d8f8dc54"
+}

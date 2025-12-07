@@ -1,0 +1,16 @@
+{
+    "urlName": "backpack-of-eggs",
+    "url": "http://aqwwiki.wikidot.com/backpack-of-eggs",
+    "name": "Backpack of Eggs",
+    "type": "capes_&_back_items",
+    "description": "Click on this backpack for a clue to rare items!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/oxvqzjy.png"
+    ],
+    "hash": "cd99f0faedc7ac38d26a25aaa4eca0ca"
+}

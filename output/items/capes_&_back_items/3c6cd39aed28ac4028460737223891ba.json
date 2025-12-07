@@ -1,0 +1,16 @@
+{
+    "urlName": "celtic-wings",
+    "url": "http://aqwwiki.wikidot.com/celtic-wings",
+    "name": "Celtic Wings",
+    "type": "capes_&_back_items",
+    "description": "A perfect cape for a Lucky Day fairy.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/BaPMxtO.png"
+    ],
+    "hash": "3c6cd39aed28ac4028460737223891ba"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "evil-pixel-cape",
+    "url": "http://aqwwiki.wikidot.com/evil-pixel-cape",
+    "name": "Evil Pixel Cape",
+    "type": "capes_&_back_items",
+    "description": "That dot on your screen? Yeah, that's not a broken pixel. That's your cape. It's as small as the drop rate! Grats!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evil-pixel-cape/EvilPixelCapeN.png",
+        "http://aqwwiki.wdfiles.com/local--files/evil-pixel-cape/EvilPixelCapeO.png"
+    ],
+    "hash": "fd920c651be92dd13e4cb253e5bfea77"
+}

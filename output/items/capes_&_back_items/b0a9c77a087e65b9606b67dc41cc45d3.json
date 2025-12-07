@@ -1,0 +1,16 @@
+{
+    "urlName": "clovercraft-minion-cape",
+    "url": "http://aqwwiki.wikidot.com/clovercraft-minion-cape",
+    "name": "Clovercraft Minion Cape",
+    "type": "capes_&_back_items",
+    "description": "Be careful he doesn't kick you in the back.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/97hHYe9.png"
+    ],
+    "hash": "b0a9c77a087e65b9606b67dc41cc45d3"
+}

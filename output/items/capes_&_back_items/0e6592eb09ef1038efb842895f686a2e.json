@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-quiver-cape",
+    "url": "http://aqwwiki.wikidot.com/dark-quiver-cape",
+    "name": "Dark Quiver Cape",
+    "type": "capes_&_back_items",
+    "description": "Fire these shiny arrows at a target to give your foes a world-class cold shoulder in the worst way possible.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-quiver-cape/DQC.png"
+    ],
+    "hash": "0e6592eb09ef1038efb842895f686a2e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-cloak-legend",
+    "url": "http://aqwwiki.wikidot.com/nation-cloak-legend",
+    "name": "Nation Cloak (Legend)",
+    "type": "capes_&_back_items",
+    "description": "Fireproof, but it will fray at the edges the longer you fight. Think of it as a mark of experience.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/jZKhmAQ.png"
+    ],
+    "hash": "ee10781625aa57e981c8cfdab988ec94"
+}

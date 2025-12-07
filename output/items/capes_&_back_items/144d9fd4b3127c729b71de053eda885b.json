@@ -1,0 +1,16 @@
+{
+    "urlName": "vendetta-wings",
+    "url": "http://aqwwiki.wikidot.com/vendetta-wings",
+    "name": "Vendetta Wings",
+    "type": "capes_&_back_items",
+    "description": "Sadly, you can't turn into a bat. But at least you've got the wings.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vendetta-wings/VendettaWings.png"
+    ],
+    "hash": "144d9fd4b3127c729b71de053eda885b"
+}

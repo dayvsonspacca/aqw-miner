@@ -1,0 +1,16 @@
+{
+    "urlName": "black-turtle-shell",
+    "url": "http://aqwwiki.wikidot.com/black-turtle-shell",
+    "name": "Black Turtle Shell",
+    "type": "capes_&_back_items",
+    "description": "Your tough shell will protect you in the heat of combat, assuming you are quick enough to get to the mall in the first place.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-turtle-shell/BlackTurtleShell.png"
+    ],
+    "hash": "90c03495c87094b4c10cc4d35f0f4e30"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "teal-voidcaster-rune",
+    "url": "http://aqwwiki.wikidot.com/teal-voidcaster-rune",
+    "name": "Teal VoidCaster Rune",
+    "type": "capes_&_back_items",
+    "description": "A popular gift from Nulgath to those who wish to practice magic. Those esoteric runes can amplify the owners latent magical energy, allowing even the magically inept to cast ferocious spells.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/teal-voidcaster-rune/TealVoidCasterRune.png"
+    ],
+    "hash": "030991df9f865dfd8574ec83a97d3578"
+}

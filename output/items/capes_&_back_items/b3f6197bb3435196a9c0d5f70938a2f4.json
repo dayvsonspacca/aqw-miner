@@ -1,0 +1,17 @@
+{
+    "urlName": "dragon-s-diamond-hoard",
+    "url": "http://aqwwiki.wikidot.com/dragon-s-diamond-hoard",
+    "name": "Dragon's Diamond Hoard",
+    "type": "capes_&_back_items",
+    "description": "Enterprising dragons will steal Diamond Collectors of Nulgath and imprison them. Their fate? To produce gems only for their captor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/L4uIM9v.png",
+        "https://i.imgur.com/YrBdJQW.png"
+    ],
+    "hash": "b3f6197bb3435196a9c0d5f70938a2f4"
+}

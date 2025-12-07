@@ -1,0 +1,17 @@
+{
+    "urlName": "storm-wings",
+    "url": "http://aqwwiki.wikidot.com/storm-wings",
+    "name": "Storm Wings",
+    "type": "capes_&_back_items",
+    "description": "These wings will carry you into the heart of any storm!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/storm-wings/StormWings.png"
+    ],
+    "hash": "00ce658be580b5ce874cef1b2fbfd67e"
+}

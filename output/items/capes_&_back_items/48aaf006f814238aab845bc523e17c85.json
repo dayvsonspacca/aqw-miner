@@ -1,0 +1,17 @@
+{
+    "urlName": "ebil-nanotype-grid",
+    "url": "http://aqwwiki.wikidot.com/ebil-nanotype-grid",
+    "name": "Ebil Nanotype Grid",
+    "type": "capes_&_back_items",
+    "description": "After years of testing and countless dead testing subjects, Ebilcorp has decided to release the Nanobite Cape to all of its assassins. While the cape acts like a shield; side effects may include but not are limited to: death, nausea, memory loss, hearing loss, hunger, starvation and loss in vision. Kind of makes sense why this wasn't approved for release!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ebil-nanotype-grid/EbilNanotypeGridN.png",
+        "http://aqwwiki.wdfiles.com/local--files/ebil-nanotype-grid/EbilNanotypeGridO.png"
+    ],
+    "hash": "48aaf006f814238aab845bc523e17c85"
+}

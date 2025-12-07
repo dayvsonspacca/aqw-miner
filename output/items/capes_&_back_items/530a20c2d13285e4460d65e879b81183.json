@@ -1,0 +1,18 @@
+{
+    "urlName": "cyberfiend-cloak",
+    "url": "http://aqwwiki.wikidot.com/cyberfiend-cloak",
+    "name": "Cyberfiend Cloak",
+    "type": "capes_&_back_items",
+    "description": "Let the energy of the matrix fuel your fiendish plots!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/F8pzgnH.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyberfiend-cloak/CyberfiendCloakN.png",
+        "http://aqwwiki.wdfiles.com/local--files/cyberfiend-cloak/CyberfiendCloakO.png"
+    ],
+    "hash": "530a20c2d13285e4460d65e879b81183"
+}

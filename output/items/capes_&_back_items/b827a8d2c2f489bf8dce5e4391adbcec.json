@@ -1,0 +1,16 @@
+{
+    "urlName": "solar-wings",
+    "url": "http://aqwwiki.wikidot.com/solar-wings",
+    "name": "Solar Wings",
+    "type": "capes_&_back_items",
+    "description": "The ultimate manifestation of Gaia's favor. Through the warriors of the Children desire them above all else, only the Lightbringers have been seen with Solar Wings.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solar-wings/SolarWings.png"
+    ],
+    "hash": "b827a8d2c2f489bf8dce5e4391adbcec"
+}

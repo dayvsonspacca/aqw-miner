@@ -1,0 +1,17 @@
+{
+    "urlName": "neveromancer-minion",
+    "url": "http://aqwwiki.wikidot.com/neveromancer-minion",
+    "name": "NEVERomancer Minion",
+    "type": "capes_&_back_items",
+    "description": "Death cannot stop our true love. All it can do is delay it for a while.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/UxtPiPX.png",
+        "https://i.imgur.com/nCAtLuy.png"
+    ],
+    "hash": "b61a153dc76f2a5e509157005bacbbd9"
+}

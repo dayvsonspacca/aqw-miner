@@ -1,0 +1,15 @@
+{
+    "urlName": "tempest-soldier-jetpack",
+    "url": "http://aqwwiki.wikidot.com/tempest-soldier-jetpack",
+    "name": "Tempest Soldier Jetpack",
+    "type": "capes_&_back_items",
+    "description": "Huge fans of cookies, the Tempest Soldier will follow any orders given just to get more of them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/vJqCzSz.png"
+    ],
+    "hash": "f407f8dcc23ec7ca937b8b54505272bf"
+}

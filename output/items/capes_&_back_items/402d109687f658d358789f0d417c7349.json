@@ -1,0 +1,15 @@
+{
+    "urlName": "chaos-cloak",
+    "url": "http://aqwwiki.wikidot.com/chaos-cloak",
+    "name": "Chaos Cloak",
+    "type": "capes_&_back_items",
+    "description": "A heavy silk cape chaorrupted by Chaos, once worn by the Chaos Shogun Kitsune.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/afgrb3d.png"
+    ],
+    "hash": "402d109687f658d358789f0d417c7349"
+}

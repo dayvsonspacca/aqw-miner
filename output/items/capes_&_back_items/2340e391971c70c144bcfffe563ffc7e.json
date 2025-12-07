@@ -1,0 +1,16 @@
+{
+    "urlName": "flight-of-fae",
+    "url": "http://aqwwiki.wikidot.com/flight-of-fae",
+    "name": "Flight of Fae",
+    "type": "capes_&_back_items",
+    "description": "A beautiful pair of Fae wings that reflect the lush Spring Season.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/flight-of-fae/FlightofFae.png"
+    ],
+    "hash": "2340e391971c70c144bcfffe563ffc7e"
+}

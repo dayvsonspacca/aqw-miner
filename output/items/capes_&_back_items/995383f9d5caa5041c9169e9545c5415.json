@@ -1,0 +1,16 @@
+{
+    "urlName": "chaosweaver-cape-and-spears",
+    "url": "http://aqwwiki.wikidot.com/chaosweaver-cape-and-spears",
+    "name": "ChaosWeaver Cape and Spears",
+    "type": "capes_&_back_items",
+    "description": "Cloaks its wearer in a portal to the void, from which the souls that power the SoulBinder's magic are drawn.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaosweaver-cape-and-spears/CWCS.png"
+    ],
+    "hash": "995383f9d5caa5041c9169e9545c5415"
+}

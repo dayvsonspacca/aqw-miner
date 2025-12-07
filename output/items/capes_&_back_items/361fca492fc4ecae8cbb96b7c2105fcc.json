@@ -1,0 +1,16 @@
+{
+    "urlName": "lunar-parrot-cape",
+    "url": "http://aqwwiki.wikidot.com/lunar-parrot-cape",
+    "name": "Lunar Parrot Cape",
+    "type": "capes_&_back_items",
+    "description": "A nocturnal breed of parrots that takes the skies anytime any hint of the moon is illuminated. If you equip it during the day, unfortunately, it becomes irritable and cranky.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunar-parrot-cape/LunarParrotCape.png",
+        "http://aqwwiki.wdfiles.com/local--files/lunar-parrot-cape/LunarParrotCapeAnim.png"
+    ],
+    "hash": "361fca492fc4ecae8cbb96b7c2105fcc"
+}

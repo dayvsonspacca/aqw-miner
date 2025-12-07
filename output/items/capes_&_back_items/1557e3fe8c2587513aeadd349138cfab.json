@@ -1,0 +1,16 @@
+{
+    "urlName": "guardian-shadow-cape",
+    "url": "http://aqwwiki.wikidot.com/guardian-shadow-cape",
+    "name": "Guardian Shadow (Cape)",
+    "type": "capes_&_back_items",
+    "description": "Only those who have meddled in the dark arts of Necromancy may harness the power of their Guardian Shadow. Its glowing aura is reflected off your own.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/guardian-shadow-cape/GuardianShadow.png"
+    ],
+    "hash": "1557e3fe8c2587513aeadd349138cfab"
+}

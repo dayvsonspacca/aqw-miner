@@ -1,0 +1,16 @@
+{
+    "urlName": "emerald-druid-cape",
+    "url": "http://aqwwiki.wikidot.com/emerald-druid-cape",
+    "name": "Emerald Druid Cape",
+    "type": "capes_&_back_items",
+    "description": "The beautiful greens of Nature re-appear when Pollution is defeated!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fRECXLa.png"
+    ],
+    "hash": "e907c251c6c7b1182cc5e979799557a4"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "magus-mantle",
+    "url": "http://aqwwiki.wikidot.com/magus-mantle",
+    "name": "Magus Mantle",
+    "type": "capes_&_back_items",
+    "description": "Magus Mantles are usually enchanted with protective magics, but the enchantments can vary based on the Magus' fighting style. Some value speed or power over endurance.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/magus-mantle/MagusMantle.png"
+    ],
+    "hash": "d5c82ec900e699a8a54806aa93b1d759"
+}

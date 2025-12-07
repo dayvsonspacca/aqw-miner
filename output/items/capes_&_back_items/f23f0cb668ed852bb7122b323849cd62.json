@@ -1,0 +1,17 @@
+{
+    "urlName": "x-treme-x-zilla-tail",
+    "url": "http://aqwwiki.wikidot.com/x-treme-x-zilla-tail",
+    "name": "X-Treme X-Zilla Tail",
+    "type": "capes_&_back_items",
+    "description": "X-Zilla uses Whirlwind, it's super destructive! (This item has a low chance to play an animation when you use a skill AND do more damage against human enemies.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/x-treme-x-zilla-tail/X-Zilla-Tail.png",
+        "http://aqwwiki.wdfiles.com/local--files/x-treme-x-zilla-tail/X-Zilla-TailA.png"
+    ],
+    "hash": "f23f0cb668ed852bb7122b323849cd62"
+}

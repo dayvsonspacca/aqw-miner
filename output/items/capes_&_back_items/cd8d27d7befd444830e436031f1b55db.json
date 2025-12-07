@@ -1,0 +1,16 @@
+{
+    "urlName": "ravager-spikes",
+    "url": "http://aqwwiki.wikidot.com/ravager-spikes",
+    "name": "Ravager Spikes",
+    "type": "capes_&_back_items",
+    "description": "\"I can tear you apart; I can recombine you!\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ravager-spikes/RavagerSpikes.png"
+    ],
+    "hash": "cd8d27d7befd444830e436031f1b55db"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "doom-banner",
+    "url": "http://aqwwiki.wikidot.com/doom-banner",
+    "name": "Doom Banner",
+    "type": "capes_&_back_items",
+    "description": "A banner with the image of a Doomknight's helm on it. Strap this to your back so you may be recognized on the battlefield.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/zDilGTH.png"
+    ],
+    "hash": "36c0355194ebd3d388efb6e419ed701c"
+}

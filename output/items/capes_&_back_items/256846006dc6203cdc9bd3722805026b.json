@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-infantry-battlecloak",
+    "url": "http://aqwwiki.wikidot.com/undead-infantry-battlecloak",
+    "name": "Undead Infantry BattleCloak",
+    "type": "capes_&_back_items",
+    "description": "A sword or axe within only an arms length away! Best implemented when killing any of Nulgath's followers!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-infantry-battlecloak/UndeadInfantryBattleCloak.png"
+    ],
+    "hash": "256846006dc6203cdc9bd3722805026b"
+}

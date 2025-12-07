@@ -1,0 +1,16 @@
+{
+    "urlName": "cloak-of-the-dark",
+    "url": "http://aqwwiki.wikidot.com/cloak-of-the-dark",
+    "name": "Cloak of the Dark",
+    "type": "capes_&_back_items",
+    "description": "In the night, you must prepare for all the terrors that you may face. Only then will you know of the true horrors!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cloak-of-the-dark/CloakoftheDark.png"
+    ],
+    "hash": "7a5f799f9f00918051358d48438d7638"
+}

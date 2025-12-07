@@ -1,0 +1,15 @@
+{
+    "urlName": "flight-of-the-engineer",
+    "url": "http://aqwwiki.wikidot.com/flight-of-the-engineer",
+    "name": "Flight of the Engineer",
+    "type": "capes_&_back_items",
+    "description": "Defeating the Engineer is no easy feat. Congratulations! Keep his wings as a memento of your victory!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/SuUgJN2.png"
+    ],
+    "hash": "02dfdb56649fb662825c0d15994dd783"
+}

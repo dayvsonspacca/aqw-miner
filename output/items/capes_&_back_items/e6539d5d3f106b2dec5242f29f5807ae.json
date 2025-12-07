@@ -1,0 +1,17 @@
+{
+    "urlName": "maddening-beacon",
+    "url": "http://aqwwiki.wikidot.com/maddening-beacon",
+    "name": "Maddening Beacon",
+    "type": "capes_&_back_items",
+    "description": "Cysero has a bunch of these packed away in old milk cartons. Their rythmic blinking distracts dragons while they fly. Crash incidents increase tenfold.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ZRH10Rk.png",
+        "https://i.imgur.com/pneFgDV.png"
+    ],
+    "hash": "e6539d5d3f106b2dec5242f29f5807ae"
+}

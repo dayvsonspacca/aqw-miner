@@ -1,0 +1,16 @@
+{
+    "urlName": "candy-claws-wings",
+    "url": "http://aqwwiki.wikidot.com/candy-claws-wings",
+    "name": "Candy Claws Wings",
+    "type": "capes_&_back_items",
+    "description": "Normal candy makes people hyper. Hargoyle's candy gives you WINGS!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/candy-claws-wings/CandyClawsWingsN.png",
+        "http://aqwwiki.wdfiles.com/local--files/candy-claws-wings/CandyClawsWingsA.png"
+    ],
+    "hash": "5e0882326c2c9c1a1caf10163e7f0bcb"
+}

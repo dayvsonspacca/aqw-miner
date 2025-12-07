@@ -1,0 +1,16 @@
+{
+    "urlName": "chronobound-portal",
+    "url": "http://aqwwiki.wikidot.com/chronobound-portal",
+    "name": "Chronobound Portal",
+    "type": "capes_&_back_items",
+    "description": "By collecting and storing the polarized light emitted by the wormholes you discover, you're able to fuel your travels through the timestreams that make up our universe!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0IezFav.png"
+    ],
+    "hash": "2100f7d3437224329ab269d6185052b6"
+}

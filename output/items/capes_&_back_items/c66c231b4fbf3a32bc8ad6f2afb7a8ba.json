@@ -1,0 +1,15 @@
+{
+    "urlName": "grim-feathers",
+    "url": "http://aqwwiki.wikidot.com/grim-feathers",
+    "name": "Grim Feathers",
+    "type": "capes_&_back_items",
+    "description": "Beware these black wings of the underworld.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/eJN0s28.png"
+    ],
+    "hash": "c66c231b4fbf3a32bc8ad6f2afb7a8ba"
+}

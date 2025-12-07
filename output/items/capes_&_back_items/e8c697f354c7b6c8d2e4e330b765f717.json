@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-parrot",
+    "url": "http://aqwwiki.wikidot.com/undead-parrot",
+    "name": "Undead Parrot",
+    "type": "capes_&_back_items",
+    "description": "The only parrot in the world that does not eat crackers. Actually\u2026 it looks like this parrot hasn't eaten anything in awhile\u2026",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-parrot/UndeadParrot.png"
+    ],
+    "hash": "e8c697f354c7b6c8d2e4e330b765f717"
+}

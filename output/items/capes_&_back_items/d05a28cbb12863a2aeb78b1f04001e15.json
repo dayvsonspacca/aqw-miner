@@ -1,0 +1,16 @@
+{
+    "urlName": "web-of-curses",
+    "url": "http://aqwwiki.wikidot.com/web-of-curses",
+    "name": "Web of Curses",
+    "type": "capes_&_back_items",
+    "description": "Each thread is woven with a terrible curse. Those caught in your web will never escape your deadly intentions.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/kJbujIe.png"
+    ],
+    "hash": "d05a28cbb12863a2aeb78b1f04001e15"
+}

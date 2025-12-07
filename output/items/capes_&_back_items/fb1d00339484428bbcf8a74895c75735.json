@@ -1,0 +1,15 @@
+{
+    "urlName": "bounded-bat-broad-blade",
+    "url": "http://aqwwiki.wikidot.com/bounded-bat-broad-blade",
+    "name": "Bounded Bat Broad Blade",
+    "type": "capes_&_back_items",
+    "description": "A broad blade this big cannot possibly fit in your inventory. it have been hastily bound to your back with thin linen cloth.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bounded-bat-broad-blade/BoundedBatBroadBlade.png"
+    ],
+    "hash": "fb1d00339484428bbcf8a74895c75735"
+}

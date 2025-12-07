@@ -1,0 +1,16 @@
+{
+    "urlName": "solaris-corona-cloak",
+    "url": "http://aqwwiki.wikidot.com/solaris-corona-cloak",
+    "name": "Solaris Corona Cloak",
+    "type": "capes_&_back_items",
+    "description": "A cloak that holds the warmth of the Solaris Clan's sun, and only their sun. They turn their backs on the false suns of other solar systems.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/oWvywC8.png"
+    ],
+    "hash": "1fcb49ba35297048c36a84af765e0487"
+}

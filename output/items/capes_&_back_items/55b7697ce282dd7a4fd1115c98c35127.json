@@ -1,0 +1,16 @@
+{
+    "urlName": "resting-hockey-sticks",
+    "url": "http://aqwwiki.wikidot.com/resting-hockey-sticks",
+    "name": "Resting Hockey Sticks",
+    "type": "capes_&_back_items",
+    "description": "Hey, that's a high stick! I'm blowing the whistle! Celebrate your victory in the Icestorm Cup finals!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/dlBZvB7.png"
+    ],
+    "hash": "55b7697ce282dd7a4fd1115c98c35127"
+}

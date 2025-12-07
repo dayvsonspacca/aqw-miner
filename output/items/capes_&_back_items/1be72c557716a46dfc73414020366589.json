@@ -1,0 +1,16 @@
+{
+    "urlName": "big-slush",
+    "url": "http://aqwwiki.wikidot.com/big-slush",
+    "name": "Big Slush",
+    "type": "capes_&_back_items",
+    "description": "Sweet dragonslaying treat!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/3oTQJtA.png"
+    ],
+    "hash": "1be72c557716a46dfc73414020366589"
+}

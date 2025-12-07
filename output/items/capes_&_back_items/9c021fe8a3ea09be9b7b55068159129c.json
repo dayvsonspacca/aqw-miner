@@ -1,0 +1,16 @@
+{
+    "urlName": "smelly-flies-ac",
+    "url": "http://aqwwiki.wikidot.com/smelly-flies-ac",
+    "name": "Smelly Flies (AC)",
+    "type": "capes_&_back_items",
+    "description": "I wonder why these flies seem so attracted to you, Hero!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/smelly-flies-ac/SmellyFlies.png"
+    ],
+    "hash": "9c021fe8a3ea09be9b7b55068159129c"
+}

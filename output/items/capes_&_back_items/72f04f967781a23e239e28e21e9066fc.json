@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-dragon-sigil",
+    "url": "http://aqwwiki.wikidot.com/golden-dragon-sigil",
+    "name": "Golden Dragon Sigil",
+    "type": "capes_&_back_items",
+    "description": "A broken gold circle that acts as the Golden Dragonborn's family crest. They have an irresistable urge to run towards anyone that imitates the shape with their arms.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/X1wGt0r.png"
+    ],
+    "hash": "72f04f967781a23e239e28e21e9066fc"
+}

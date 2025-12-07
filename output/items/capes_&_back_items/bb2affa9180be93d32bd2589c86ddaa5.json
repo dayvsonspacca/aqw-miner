@@ -1,0 +1,16 @@
+{
+    "urlName": "groundforce-cape",
+    "url": "http://aqwwiki.wikidot.com/groundforce-cape",
+    "name": "GroundForce Cape",
+    "type": "capes_&_back_items",
+    "description": "A brown-orange cape with silver thread trim, this elegant cape is to be worn when GroundForcers are in their formal uniform. That won't stop you from wearing it into battle, though!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/groundforce-cape/GroundForceCape.png"
+    ],
+    "hash": "bb2affa9180be93d32bd2589c86ddaa5"
+}

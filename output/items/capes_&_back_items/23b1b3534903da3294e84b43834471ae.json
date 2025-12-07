@@ -1,0 +1,16 @@
+{
+    "urlName": "champion-s-sigil-ac",
+    "url": "http://aqwwiki.wikidot.com/champion-s-sigil-ac",
+    "name": "Champion's Sigil (AC)",
+    "type": "capes_&_back_items",
+    "description": "For those who are strong for the weak. For those who face down impossible odds for the greater good. For those who still believe in justice despite the evil in this world. This Sigil is for you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/champion-s-sigil-ac/ChampionsSigil.png"
+    ],
+    "hash": "23b1b3534903da3294e84b43834471ae"
+}

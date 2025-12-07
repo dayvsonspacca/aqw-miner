@@ -1,0 +1,16 @@
+{
+    "urlName": "black-cape",
+    "url": "http://aqwwiki.wikidot.com/black-cape",
+    "name": "Black Cape",
+    "type": "capes_&_back_items",
+    "description": "Happy Black Friday! This should help you slip through the shopping crowds undetected.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/HKhivK0.png"
+    ],
+    "hash": "f988dde5b73610bf4d22fe975ef3e090"
+}

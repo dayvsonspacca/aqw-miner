@@ -1,0 +1,15 @@
+{
+    "urlName": "oni-rune-cape",
+    "url": "http://aqwwiki.wikidot.com/oni-rune-cape",
+    "name": "Oni Rune Cape",
+    "type": "capes_&_back_items",
+    "description": "All runes hold power, however power is easily corruptible.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oni-rune-cape/OniRuneCape.png"
+    ],
+    "hash": "e4b4b3723e870e3b64fc7c4afff20a29"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-bat-wings",
+    "url": "http://aqwwiki.wikidot.com/prismatic-bat-wings",
+    "name": "Prismatic Bat Wings",
+    "type": "capes_&_back_items",
+    "description": "The colors of wings shift shift and change at your command!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-bat-wings/PrismaticBatWings.png"
+    ],
+    "hash": "79b2ec1dfd3ec6d8ded46578902b2bc7"
+}

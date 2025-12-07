@@ -1,0 +1,16 @@
+{
+    "urlName": "xenon-s-cross",
+    "url": "http://aqwwiki.wikidot.com/xenon-s-cross",
+    "name": "Xenon's Cross",
+    "type": "capes_&_back_items",
+    "description": "This elemental force was forged to keep the minions of Shadow Fall at bay. The force has been said to illuminate the path of its owner during grave times.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/xenon-s-cross/Xenon'sCross.png"
+    ],
+    "hash": "ffc34a8fd9775f8a93c5259a1adcdfff"
+}

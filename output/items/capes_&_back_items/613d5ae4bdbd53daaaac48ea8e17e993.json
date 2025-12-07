@@ -1,0 +1,15 @@
+{
+    "urlName": "tengu-wings",
+    "url": "http://aqwwiki.wikidot.com/tengu-wings",
+    "name": "Tengu Wings",
+    "type": "capes_&_back_items",
+    "description": "You grow a pair of great, ominous wings of the Tengu.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/rUjqXM3.png"
+    ],
+    "hash": "613d5ae4bdbd53daaaac48ea8e17e993"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "gold-party-scarf",
+    "url": "http://aqwwiki.wikidot.com/gold-party-scarf",
+    "name": "Gold Party Scarf",
+    "type": "capes_&_back_items",
+    "description": "Party all night long in this sparkling golden outfit!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/E3Ok661.png",
+        "https://i.imgur.com/cVpT1Qo.png"
+    ],
+    "hash": "0e9fe8e4ef93a30f42209a897ba5d495"
+}

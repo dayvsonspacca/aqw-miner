@@ -1,0 +1,16 @@
+{
+    "urlName": "diamond-collector-cape-ac",
+    "url": "http://aqwwiki.wikidot.com/diamond-collector-cape-ac",
+    "name": "Diamond Collector Cape (AC)",
+    "type": "capes_&_back_items",
+    "description": "Nulgath cuts his diamonds extremely sharp. They regularly tear into cloth, and even armor and flesh.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WKbzxhk.png"
+    ],
+    "hash": "270a694aa6c8e430681c2deab218bffd"
+}

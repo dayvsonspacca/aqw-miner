@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-runes",
+    "url": "http://aqwwiki.wikidot.com/chaos-runes",
+    "name": "Chaos Runes",
+    "type": "capes_&_back_items",
+    "description": "Chaos will be known by all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-runes/ChaosRunes.png"
+    ],
+    "hash": "a5abd3ce91c98c185eb78f58de2d5ebd"
+}

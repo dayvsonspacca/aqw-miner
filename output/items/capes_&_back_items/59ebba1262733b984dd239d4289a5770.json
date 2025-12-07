@@ -1,0 +1,17 @@
+{
+    "urlName": "frostmoglin-on-your-back",
+    "url": "http://aqwwiki.wikidot.com/frostmoglin-on-your-back",
+    "name": "Frostmoglin on Your Back",
+    "type": "capes_&_back_items",
+    "description": "Happy Frostval! Keep this little Moglin close, and he will keep you nice and cool in the summer!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/DMScUvJ.png",
+        "http://i.imgur.com/mPkFhw9.png"
+    ],
+    "hash": "59ebba1262733b984dd239d4289a5770"
+}

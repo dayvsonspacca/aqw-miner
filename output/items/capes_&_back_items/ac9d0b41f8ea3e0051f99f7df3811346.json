@@ -1,0 +1,16 @@
+{
+    "urlName": "super-scion-backfan",
+    "url": "http://aqwwiki.wikidot.com/super-scion-backfan",
+    "name": "Super Scion BackFan",
+    "type": "capes_&_back_items",
+    "description": "Becoming a Super Scion is easy, it's the charging up that takes most of the time. Usually close to half an hour. Plus side is you'll look super cool!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/v4Noo77.png"
+    ],
+    "hash": "ac9d0b41f8ea3e0051f99f7df3811346"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "cosmic-frost-rift",
+    "url": "http://aqwwiki.wikidot.com/cosmic-frost-rift",
+    "name": "Cosmic Frost Rift",
+    "type": "capes_&_back_items",
+    "description": "A rift to another galaxy. The stars drift through, taking their fates with them.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EjCoFWD.png"
+    ],
+    "hash": "75c20dcd0965ea583de63bbe7886f028"
+}

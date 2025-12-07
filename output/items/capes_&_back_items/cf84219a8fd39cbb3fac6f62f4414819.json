@@ -1,0 +1,15 @@
+{
+    "urlName": "clockwork-doll-key",
+    "url": "http://aqwwiki.wikidot.com/clockwork-doll-key",
+    "name": "Clockwork Doll Key",
+    "type": "capes_&_back_items",
+    "description": "Don't forget to keep yourself wound up! Once you run out of steam, you can't turn your own key.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/clockwork-doll-key/ClockworkDollKey.png"
+    ],
+    "hash": "cf84219a8fd39cbb3fac6f62f4414819"
+}

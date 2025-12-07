@@ -1,0 +1,15 @@
+{
+    "urlName": "mediator-tail",
+    "url": "http://aqwwiki.wikidot.com/mediator-tail",
+    "name": "Mediator Tail",
+    "type": "capes_&_back_items",
+    "description": "An add-on for the Mecha Gear system which provides increased acceleration.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/sV3c8zU.png"
+    ],
+    "hash": "be97c8c79838887b52abb68a252afbc8"
+}

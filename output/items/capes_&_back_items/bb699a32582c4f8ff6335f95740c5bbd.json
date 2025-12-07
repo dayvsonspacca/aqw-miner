@@ -1,0 +1,16 @@
+{
+    "urlName": "sheathed-rifle",
+    "url": "http://aqwwiki.wikidot.com/sheathed-rifle",
+    "name": "Sheathed Rifle",
+    "type": "capes_&_back_items",
+    "description": "Even though you have a pistol on your hip and a six-shooter in your hand, it's always good to have a back-up plan. On your back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sheathed-rifle/SheathedRifle.png"
+    ],
+    "hash": "bb699a32582c4f8ff6335f95740c5bbd"
+}

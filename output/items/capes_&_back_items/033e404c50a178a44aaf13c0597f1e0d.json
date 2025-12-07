@@ -1,0 +1,15 @@
+{
+    "urlName": "moth-collection",
+    "url": "http://aqwwiki.wikidot.com/moth-collection",
+    "name": "Moth Collection",
+    "type": "capes_&_back_items",
+    "description": "A gathering of moths is called an 'eclipse' because their wings block out the lights they gather around.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/S3m1MXs.png"
+    ],
+    "hash": "033e404c50a178a44aaf13c0597f1e0d"
+}

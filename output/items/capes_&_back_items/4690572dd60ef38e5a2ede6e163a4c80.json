@@ -1,0 +1,16 @@
+{
+    "urlName": "the-eggcubator",
+    "url": "http://aqwwiki.wikidot.com/the-eggcubator",
+    "name": "The Eggcubator",
+    "type": "capes_&_back_items",
+    "description": "Nothing like cooking breakfast on the go!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/XtMiBru.png"
+    ],
+    "hash": "4690572dd60ef38e5a2ede6e163a4c80"
+}

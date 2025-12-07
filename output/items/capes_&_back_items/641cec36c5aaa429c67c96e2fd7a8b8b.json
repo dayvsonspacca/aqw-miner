@@ -1,0 +1,16 @@
+{
+    "urlName": "fright-or-flight",
+    "url": "http://aqwwiki.wikidot.com/fright-or-flight",
+    "name": "Fright or Flight",
+    "type": "capes_&_back_items",
+    "description": "Your only options when you're wearing these wings are being flayed by fear or fleeing in terror. On the plus side, they are pretty intimidating, so it's likely you won't be attacked in the first place.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fright-or-flight/FoF.png"
+    ],
+    "hash": "641cec36c5aaa429c67c96e2fd7a8b8b"
+}

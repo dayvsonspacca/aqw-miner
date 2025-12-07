@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-paragon-cape",
+    "url": "http://aqwwiki.wikidot.com/chaos-paragon-cape",
+    "name": "Chaos Paragon Cape",
+    "type": "capes_&_back_items",
+    "description": "That vendor from the dark alley now has a chaotic version of Dage's cape. Wonder where he got it?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-paragon-cape/ChaosParagonCape.png"
+    ],
+    "hash": "775eac0d7980af68f0125ace556ee750"
+}

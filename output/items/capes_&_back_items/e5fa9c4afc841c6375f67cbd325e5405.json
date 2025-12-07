@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-voidcaster-rune",
+    "url": "http://aqwwiki.wikidot.com/golden-voidcaster-rune",
+    "name": "Golden VoidCaster Rune",
+    "type": "capes_&_back_items",
+    "description": "A popular gift from Nulgath to those who wish to practice magic. Those esoteric runes can amplify the owners latent magical energy, allowing even the magically inept to cast ferocious spells.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-voidcaster-rune/GoldenVoidCasterRune.png"
+    ],
+    "hash": "e5fa9c4afc841c6375f67cbd325e5405"
+}

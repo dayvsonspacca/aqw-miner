@@ -1,0 +1,16 @@
+{
+    "urlName": "ruby-rune-cape",
+    "url": "http://aqwwiki.wikidot.com/ruby-rune-cape",
+    "name": "Ruby Rune Cape",
+    "type": "capes_&_back_items",
+    "description": "This crimson rune promises you aid in battle. And it looks pretty hot too.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ruby-rune-cape/RubyRune.png"
+    ],
+    "hash": "2c59c41a96fe4679b1371ac8bbf21021"
+}

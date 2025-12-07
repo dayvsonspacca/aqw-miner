@@ -1,0 +1,16 @@
+{
+    "urlName": "beast-summoner-rune",
+    "url": "http://aqwwiki.wikidot.com/beast-summoner-rune",
+    "name": "Beast Summoner Rune",
+    "type": "capes_&_back_items",
+    "description": "Ursine mages able to wield the magic of the Celestial Realm are rare, but incredibly powerful. Cross them, and the results will be un-bear-ably painful.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ciaJ86C.png"
+    ],
+    "hash": "7f17ca71f5f5aabcbd307f056ee8d6f6"
+}

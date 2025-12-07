@@ -1,0 +1,16 @@
+{
+    "urlName": "thermodynamic-cape",
+    "url": "http://aqwwiki.wikidot.com/thermodynamic-cape",
+    "name": "Thermodynamic Cape",
+    "type": "capes_&_back_items",
+    "description": "A cloak tailor made for an individual who isn't able to regulate their body temperature. Its colors fluctuate in mesmerizing patterns, causing a hypnotic effect.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/W3QKhSr.png"
+    ],
+    "hash": "31e327653f30e8b856ba348d879e2362"
+}

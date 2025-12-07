@@ -1,0 +1,17 @@
+{
+    "urlName": "twig-animatronic-cape",
+    "url": "http://aqwwiki.wikidot.com/twig-animatronic-cape",
+    "name": "Twig Animatronic Cape",
+    "type": "capes_&_back_items",
+    "description": "Don't hold it against them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/IQgjtn6.png",
+        "https://i.imgur.com/oFSe0A8.png"
+    ],
+    "hash": "667d40e4a0e9a9e892f0459d0a95de0d"
+}

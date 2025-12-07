@@ -1,0 +1,16 @@
+{
+    "urlName": "grim-dungeon-master-s-sigil",
+    "url": "http://aqwwiki.wikidot.com/grim-dungeon-master-s-sigil",
+    "name": "Grim Dungeon Master's Sigil",
+    "type": "capes_&_back_items",
+    "description": "Your own sigil of ultimate power. Let those heroes come, and see if they have the guts to take it from you.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Q6hCFFE.png"
+    ],
+    "hash": "591138e9557bea1559214820858cdcb7"
+}

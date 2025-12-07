@@ -1,0 +1,16 @@
+{
+    "urlName": "sword-in-the-sock-cape",
+    "url": "http://aqwwiki.wikidot.com/sword-in-the-sock-cape",
+    "name": "Sword in the Sock Cape",
+    "type": "capes_&_back_items",
+    "description": "Who knew that lost socks made great sword sheaths?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sword-in-the-sock-cape/SwordinSock.png"
+    ],
+    "hash": "90de51ee633a48a6ab0c2c2eed5a38bd"
+}

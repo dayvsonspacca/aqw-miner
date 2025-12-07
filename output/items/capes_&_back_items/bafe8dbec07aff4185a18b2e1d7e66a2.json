@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-cape",
+    "url": "http://aqwwiki.wikidot.com/golden-cape",
+    "name": "Golden Cape",
+    "type": "capes_&_back_items",
+    "description": "\"A robe and sword are all I need to bring this empire to its knees.\"",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-cape/GoldenCape.png"
+    ],
+    "hash": "bafe8dbec07aff4185a18b2e1d7e66a2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "chasm-guardian-s-cape-ac",
+    "url": "http://aqwwiki.wikidot.com/chasm-guardian-s-cape-ac",
+    "name": "Chasm Guardian's Cape (AC)",
+    "type": "capes_&_back_items",
+    "description": "Protective runes sewn into this cape dampen the alluring voices that whisper from the chasms of the Underworld. They block out lies, but the screaming truth ends up deafening most of the Guardians.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/6rwmNtb.png"
+    ],
+    "hash": "ed22f6b41ae158d209f9c8bd29d8f3fd"
+}

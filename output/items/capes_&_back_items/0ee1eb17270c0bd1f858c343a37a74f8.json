@@ -1,0 +1,16 @@
+{
+    "urlName": "double-candy-canes",
+    "url": "http://aqwwiki.wikidot.com/double-candy-canes",
+    "name": "Double Candy Canes",
+    "type": "capes_&_back_items",
+    "description": "How about a jolly dance with this festive cane. Throw the other to a friend and it'll be a party.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/zOJ84PG.png"
+    ],
+    "hash": "0ee1eb17270c0bd1f858c343a37a74f8"
+}

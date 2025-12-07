@@ -1,0 +1,16 @@
+{
+    "urlName": "festive-snowflakes",
+    "url": "http://aqwwiki.wikidot.com/festive-snowflakes",
+    "name": "Festive Snowflakes",
+    "type": "capes_&_back_items",
+    "description": "As they spin, the flakes grow bigger and more mesmerizing.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/MaBQk6S.png"
+    ],
+    "hash": "e9dfad3a020e7f5b94655734ab85a695"
+}

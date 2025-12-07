@@ -1,0 +1,16 @@
+{
+    "urlName": "mechanical-jetpack",
+    "url": "http://aqwwiki.wikidot.com/mechanical-jetpack",
+    "name": "Mechanical Jetpack",
+    "type": "capes_&_back_items",
+    "description": "Steel and Iron\u2026these are not things that make a superhero! Now if you just have a jetpack, that's a diferent story!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mechanical-jetpack/MechanicalJetpack.png"
+    ],
+    "hash": "4f29fe4c3a8b643fa8f93362ec5183c5"
+}

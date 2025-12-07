@@ -1,0 +1,16 @@
+{
+    "urlName": "plasma-pyro-cape-ac",
+    "url": "http://aqwwiki.wikidot.com/plasma-pyro-cape-ac",
+    "name": "Plasma Pyro Cape (AC)",
+    "type": "capes_&_back_items",
+    "description": "Using mysterious technology, this controlled plasma cape is self contained in an invisible orb.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/plasma-pyro-cape-ac/PlasmaPyroCape.png"
+    ],
+    "hash": "7786d710069748d9676472b0a4c005d6"
+}

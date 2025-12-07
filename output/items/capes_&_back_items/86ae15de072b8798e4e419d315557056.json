@@ -1,0 +1,16 @@
+{
+    "urlName": "cybervoid-wings",
+    "url": "http://aqwwiki.wikidot.com/cybervoid-wings",
+    "name": "CyberVoid Wings",
+    "type": "capes_&_back_items",
+    "description": "Made entirely of digital code, these minions have escaped from the cyberworld to do the bidding of their cyberfiend master.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cybervoid-wings/CyberVoidWings.png"
+    ],
+    "hash": "86ae15de072b8798e4e419d315557056"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "grim-cloak",
+    "url": "http://aqwwiki.wikidot.com/grim-cloak",
+    "name": "Grim Cloak",
+    "type": "capes_&_back_items",
+    "description": "This cloak looks a lot like Soulseeker's cloak. You feel a cold sensation as you near this item.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/2j7NN6Z.png",
+        "http://aqwwiki.wdfiles.com/local--files/grim-cloak/GrimCloakOld.png"
+    ],
+    "hash": "9d15d9f38a4779d6ddee64d5e4cfce66"
+}

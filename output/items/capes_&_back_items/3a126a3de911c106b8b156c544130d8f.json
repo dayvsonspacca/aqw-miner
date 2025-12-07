@@ -1,0 +1,16 @@
+{
+    "urlName": "circle-of-bones",
+    "url": "http://aqwwiki.wikidot.com/circle-of-bones",
+    "name": "Circle of Bones",
+    "type": "capes_&_back_items",
+    "description": "Whatever carnivorous spider once owned these bones is no longer a threat now. No one knows what it is and what it's reputable for and it's probably best if it stays that way.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/circle-of-bones/CircleofBones.png"
+    ],
+    "hash": "3a126a3de911c106b8b156c544130d8f"
+}

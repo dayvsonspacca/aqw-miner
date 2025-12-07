@@ -1,0 +1,15 @@
+{
+    "urlName": "wind-dragon-tail",
+    "url": "http://aqwwiki.wikidot.com/wind-dragon-tail",
+    "name": "Wind Dragon Tail",
+    "type": "capes_&_back_items",
+    "description": "You know, some dragons cannot fly. But Wind Dragons can!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wind-dragon-tail/WindDragonTail.png"
+    ],
+    "hash": "fb569a24b2c65373f7370da93e30b4d1"
+}

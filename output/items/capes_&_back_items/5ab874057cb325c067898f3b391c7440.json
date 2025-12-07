@@ -1,0 +1,16 @@
+{
+    "urlName": "kirin-horns",
+    "url": "http://aqwwiki.wikidot.com/kirin-horns",
+    "name": "Kirin Horns",
+    "type": "capes_&_back_items",
+    "description": "For extra protection, you an even wear kirin horns on your back.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kirin-horns/KH.png"
+    ],
+    "hash": "5ab874057cb325c067898f3b391c7440"
+}

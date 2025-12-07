@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-cloak-ac",
+    "url": "http://aqwwiki.wikidot.com/nation-cloak-ac",
+    "name": "Nation Cloak (AC)",
+    "type": "capes_&_back_items",
+    "description": "Fireproof, but it will fray at the edges the longer you fight. Think of it as a mark of experience.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/jZKhmAQ.png"
+    ],
+    "hash": "4f1485e0ac62774854c088e9f5ad2b5e"
+}

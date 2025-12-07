@@ -1,0 +1,15 @@
+{
+    "urlName": "explorer-s-bag",
+    "url": "http://aqwwiki.wikidot.com/explorer-s-bag",
+    "name": "Explorer's Bag",
+    "type": "capes_&_back_items",
+    "description": "Whenever you rest at home, or even at an inn, a lovingly packed lunch appears inside. Must be magic.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/CAPo8m2.png"
+    ],
+    "hash": "5ba9d508e016d16c12a3c5e20db017e6"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "fiery-parrot",
+    "url": "http://aqwwiki.wikidot.com/fiery-parrot",
+    "name": "Fiery Parrot",
+    "type": "capes_&_back_items",
+    "description": "What is the blazes is THIS here bird doin' on yer shoulder?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fiery-parrot/FP.png"
+    ],
+    "hash": "81475c348d4b9a6adb64b02506a6bc26"
+}

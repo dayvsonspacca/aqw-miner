@@ -1,0 +1,19 @@
+{
+    "urlName": "brightoak-s-bladed-cape",
+    "url": "http://aqwwiki.wikidot.com/brightoak-s-bladed-cape",
+    "name": "Brightoak's Bladed Cape",
+    "type": "capes_&_back_items",
+    "description": "A select few BrightOak Knights can witness what their true passions will be like through a large halo that floats above them, thus encouraging these knights to pursue them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-s-bladed-cape/BrightoakBCNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-s-bladed-cape/Brightoak'sBladedCapeN.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-s-bladed-cape/BrightoakBCNewAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-s-bladed-cape/Brightoak'sBladedCapeA.png"
+    ],
+    "hash": "f7826a670ddcbf4f0914fa59be48968b"
+}

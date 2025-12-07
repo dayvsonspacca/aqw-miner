@@ -1,0 +1,15 @@
+{
+    "urlName": "nation-ritualist-gateway",
+    "url": "http://aqwwiki.wikidot.com/nation-ritualist-gateway",
+    "name": "Nation Ritualist Gateway",
+    "type": "capes_&_back_items",
+    "description": "The arcane practices of the Nation are impossible to master in one lifetime. The Ritualists circumvent this obstacle by engraving spells into their very being. They exchange individuality for magnificent power.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Y3dEyUf.png"
+    ],
+    "hash": "173b3f11f2ff2195e1c68583af05f524"
+}

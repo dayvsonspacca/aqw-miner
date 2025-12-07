@@ -1,0 +1,16 @@
+{
+    "urlName": "rain-of-gold-coins",
+    "url": "http://aqwwiki.wikidot.com/rain-of-gold-coins",
+    "name": "Rain of Gold Coins",
+    "type": "capes_&_back_items",
+    "description": "You're flashing your wealth, and the best part is that you don't need to scuttle back to pick up the coins.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/ee475JS.png"
+    ],
+    "hash": "55efad7b4d3748a2a2c9f4edadf11c4a"
+}

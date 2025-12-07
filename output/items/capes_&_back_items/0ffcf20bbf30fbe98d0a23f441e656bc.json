@@ -1,0 +1,18 @@
+{
+    "urlName": "electro-biobattery-pack",
+    "url": "http://aqwwiki.wikidot.com/electro-biobattery-pack",
+    "name": "Electro BioBattery Pack",
+    "type": "capes_&_back_items",
+    "description": "Danger, danger - HIGH VOLTAGE!! This electrified back item will unlock when the BioBeasts Facebook page reaches 15,000 Likes. Never run out of juice again! Thanks for supporting BioBeasts at http://biobeasts.artix.com",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/electro-biobattery-pack/ElectroBiobatteryPackN.png",
+        "http://aqwwiki.wdfiles.com/local--files/electro-biobattery-pack/ElectroBiobatteryPackA.png"
+    ],
+    "hash": "0ffcf20bbf30fbe98d0a23f441e656bc"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "cardinal-cloak",
+    "url": "http://aqwwiki.wikidot.com/cardinal-cloak",
+    "name": "Cardinal Cloak",
+    "type": "capes_&_back_items",
+    "description": "This cloak will make you look fancy.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/5lceV54.png",
+        "http://aqwwiki.wdfiles.com/local--files/cardinal-cloak/CardinalCloakO.jpg"
+    ],
+    "hash": "98f64751b08a7920d902095c8a0e00f5"
+}

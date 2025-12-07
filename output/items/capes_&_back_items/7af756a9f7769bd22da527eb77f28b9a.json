@@ -1,0 +1,18 @@
+{
+    "urlName": "deathknight-s-shroud",
+    "url": "http://aqwwiki.wikidot.com/deathknight-s-shroud",
+    "name": "DeathKnight's Shroud",
+    "type": "capes_&_back_items",
+    "description": "Covereing the dead with a shroud is an ancient custom. Each DeathKnight created, either raised to serve a lich or some other dark force, wears their own death shroud as a cape.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathknight-s-shroud/Deathknight'sShroud.png"
+    ],
+    "hash": "7af756a9f7769bd22da527eb77f28b9a"
+}

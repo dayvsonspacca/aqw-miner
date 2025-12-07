@@ -1,0 +1,16 @@
+{
+    "urlName": "hunter-s-simple-camo",
+    "url": "http://aqwwiki.wikidot.com/hunter-s-simple-camo",
+    "name": "Hunter's Simple Camo",
+    "type": "capes_&_back_items",
+    "description": "Lay face down in a slightly greenish swamp. Your targets will be none the wiser.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iEwpvqu.png"
+    ],
+    "hash": "44b97e329c251d59f0c257b64fb81516"
+}

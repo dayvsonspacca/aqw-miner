@@ -1,0 +1,16 @@
+{
+    "urlName": "necromancer-fiend-spikes-ac",
+    "url": "http://aqwwiki.wikidot.com/necromancer-fiend-spikes-ac",
+    "name": "Necromancer Fiend Spikes (AC)",
+    "type": "capes_&_back_items",
+    "description": "Protection from an unruly Undead.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necromancer-fiend-spikes-ac/NecromancerFiendSpikes.png"
+    ],
+    "hash": "ebef90332a3ddac8b2c0fc001db02ec2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "alpha-centauri-star-map",
+    "url": "http://aqwwiki.wikidot.com/alpha-centauri-star-map",
+    "name": "Alpha Centauri Star Map",
+    "type": "capes_&_back_items",
+    "description": "This magical projection can be used to navigate the cosmos. Or you can use it to gaze at your favorite constellation. Obviously, it's the horse one. Right?",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/weCHpZ6.png"
+    ],
+    "hash": "435c8858c741521c0e064716bce7cd92"
+}

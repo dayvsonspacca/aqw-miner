@@ -1,0 +1,16 @@
+{
+    "urlName": "shroud-of-the-river-styx",
+    "url": "http://aqwwiki.wikidot.com/shroud-of-the-river-styx",
+    "name": "Shroud of the River Styx",
+    "type": "capes_&_back_items",
+    "description": "Dage accepts all types of capes: worn, torn, aflamed. All act the same in battle.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shroud-of-the-river-styx/ShroudoftheRiverStyx.png"
+    ],
+    "hash": "f6cc57046464be2cc3aca2910da698a0"
+}

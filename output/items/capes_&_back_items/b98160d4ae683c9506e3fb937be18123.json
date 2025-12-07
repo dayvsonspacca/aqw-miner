@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-anchor",
+    "url": "http://aqwwiki.wikidot.com/golden-anchor",
+    "name": "Golden Anchor",
+    "type": "capes_&_back_items",
+    "description": "A strikingly gold anchor that a rich pirate had no problem repeatedly tossing into the sea.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/R8OAWA7.png"
+    ],
+    "hash": "b98160d4ae683c9506e3fb937be18123"
+}

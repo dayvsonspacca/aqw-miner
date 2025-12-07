@@ -1,0 +1,17 @@
+{
+    "urlName": "touch-grass-ac",
+    "url": "http://aqwwiki.wikidot.com/touch-grass-ac",
+    "name": "Touch Grass (AC)",
+    "type": "capes_&_back_items",
+    "description": "You need to get out more.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8HnhseY.png",
+        "https://i.imgur.com/ePQG1Fv.png"
+    ],
+    "hash": "b972cf905cb6db72bfee306d1e784c7f"
+}

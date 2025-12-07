@@ -1,0 +1,16 @@
+{
+    "urlName": "wings-of-the-pain-ac",
+    "url": "http://aqwwiki.wikidot.com/wings-of-the-pain-ac",
+    "name": "Wings of the Pain (AC)",
+    "type": "capes_&_back_items",
+    "description": "They won't make you fly but you'll look \"fly\". Adventurers who exude extraordinary dark energy sometimes sprout these kind of wings.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wings-of-the-pain-ac/WingsofthePain.png"
+    ],
+    "hash": "5381480b8f503502797936c6a0525cc4"
+}

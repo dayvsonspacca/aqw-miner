@@ -1,0 +1,15 @@
+{
+    "urlName": "particle-pack",
+    "url": "http://aqwwiki.wikidot.com/particle-pack",
+    "name": "Particle Pack",
+    "type": "capes_&_back_items",
+    "description": "Particle Cape, particle cape, doesn't have a particle shape. The Combustion from its burners is great for particle effects, though!",
+    "rarity": "Impossible Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/particle-pack/ParticlePack.png"
+    ],
+    "hash": "87ee1f99dc597fc47f61a20c7de1dddb"
+}

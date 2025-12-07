@@ -1,0 +1,16 @@
+{
+    "urlName": "magitech-time-rune-ac",
+    "url": "http://aqwwiki.wikidot.com/magitech-time-rune-ac",
+    "name": "Magitech Time Rune (AC)",
+    "type": "capes_&_back_items",
+    "description": "Instead of finding ways to travel through time, magitech engineers are inventing ways to make time move around them. This is incredibly dangerous magic, a product of hubris instead of altruistic creation.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MUjTVUb.png"
+    ],
+    "hash": "481db10c657ba95818e73cff4c9930e8"
+}

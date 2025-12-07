@@ -1,0 +1,16 @@
+{
+    "urlName": "chip-mate",
+    "url": "http://aqwwiki.wikidot.com/chip-mate",
+    "name": "Chip Mate",
+    "type": "capes_&_back_items",
+    "description": "Upon the Captain's death, the Chip Mate will assume command. Bribing the Chip Mate with extra bananas preceding the Captain's demise will be treated as mutiny!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/EIGltRf.png"
+    ],
+    "hash": "51a78b9e41b394691514cd2a7768a8b6"
+}

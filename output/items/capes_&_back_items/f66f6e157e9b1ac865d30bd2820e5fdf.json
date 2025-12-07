@@ -1,0 +1,17 @@
+{
+    "urlName": "gl-1st-beacon",
+    "url": "http://aqwwiki.wikidot.com/gl-1st-beacon",
+    "name": "GL-1ST Beacon",
+    "type": "capes_&_back_items",
+    "description": "Unlimited data at the cost of the loudest whirring you've ever heard in your life.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GT4cqr3.png",
+        "https://i.imgur.com/lsEAUcl.png"
+    ],
+    "hash": "f66f6e157e9b1ac865d30bd2820e5fdf"
+}

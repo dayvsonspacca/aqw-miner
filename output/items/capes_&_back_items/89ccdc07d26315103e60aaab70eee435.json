@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-ram-banner",
+    "url": "http://aqwwiki.wikidot.com/dark-ram-banner",
+    "name": "Dark Ram Banner",
+    "type": "capes_&_back_items",
+    "description": "Most skulls are just scary, but a ram's can symbolize death and rebirth. You won't see chicken skulls accomplishing any of that.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5J8qybv.png"
+    ],
+    "hash": "89ccdc07d26315103e60aaab70eee435"
+}

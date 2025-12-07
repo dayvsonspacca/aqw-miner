@@ -1,0 +1,15 @@
+{
+    "urlName": "turtle-shell",
+    "url": "http://aqwwiki.wikidot.com/turtle-shell",
+    "name": "Turtle Shell",
+    "type": "capes_&_back_items",
+    "description": "Your tough shell will protect you in the heat of combat, assuming you are quick enough to get there in the first place.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/395mDN7.png"
+    ],
+    "hash": "9b97a07359b6c634d6468bdf428d3063"
+}

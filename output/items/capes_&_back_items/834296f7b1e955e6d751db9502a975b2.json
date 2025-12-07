@@ -1,0 +1,16 @@
+{
+    "urlName": "venom-capsule-ac",
+    "url": "http://aqwwiki.wikidot.com/venom-capsule-ac",
+    "name": "Venom Capsule (AC)",
+    "type": "capes_&_back_items",
+    "description": "\ufeffVenom collected from the fangs of a sea monster, stored away for nefarious purposes. A drop in the bloodstream instantly turns your insides into soup.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/ZEHyx5h.png"
+    ],
+    "hash": "834296f7b1e955e6d751db9502a975b2"
+}

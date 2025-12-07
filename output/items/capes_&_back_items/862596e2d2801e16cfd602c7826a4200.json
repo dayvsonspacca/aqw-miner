@@ -1,0 +1,16 @@
+{
+    "urlName": "summer-flora-wagon",
+    "url": "http://aqwwiki.wikidot.com/summer-flora-wagon",
+    "name": "Summer Flora Wagon",
+    "type": "capes_&_back_items",
+    "description": "A charming little cart of forest flora waiting to find a new home. They're free if you promise to take care of them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/po24O4V.png"
+    ],
+    "hash": "862596e2d2801e16cfd602c7826a4200"
+}

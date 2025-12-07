@@ -1,0 +1,16 @@
+{
+    "urlName": "cape-of-light",
+    "url": "http://aqwwiki.wikidot.com/cape-of-light",
+    "name": "Cape of Light",
+    "type": "capes_&_back_items",
+    "description": "A glowing cape imbued with the Spirit of the Light. Wear it to show your true belief!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cape-of-light/CapeofLight.png"
+    ],
+    "hash": "1cbd5be513c7dd27000a6202b5bf9ce1"
+}

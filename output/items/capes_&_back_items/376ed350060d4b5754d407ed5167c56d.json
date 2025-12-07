@@ -1,0 +1,18 @@
+{
+    "urlName": "legionator-cape",
+    "url": "http://aqwwiki.wikidot.com/legionator-cape",
+    "name": "Legionator Cape",
+    "type": "capes_&_back_items",
+    "description": "Locked and loaded and ready to fight anyone who dares go against Dage's Legion.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/ZO64CpN.png",
+        "http://i.imgur.com/uiKlvqk.png",
+        "http://i.imgur.com/NNRshGy.png"
+    ],
+    "hash": "376ed350060d4b5754d407ed5167c56d"
+}

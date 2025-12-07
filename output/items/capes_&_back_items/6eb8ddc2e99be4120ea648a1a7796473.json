@@ -1,0 +1,16 @@
+{
+    "urlName": "coffee-guzzler",
+    "url": "http://aqwwiki.wikidot.com/coffee-guzzler",
+    "name": "Coffee Guzzler",
+    "type": "capes_&_back_items",
+    "description": "Even when you're dead, you can never escape caffeine addiction.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/IsfiONL.png"
+    ],
+    "hash": "6eb8ddc2e99be4120ea648a1a7796473"
+}

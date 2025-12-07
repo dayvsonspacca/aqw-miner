@@ -1,0 +1,16 @@
+{
+    "urlName": "black-ghost-cape",
+    "url": "http://aqwwiki.wikidot.com/black-ghost-cape",
+    "name": "Black Ghost Cape",
+    "type": "capes_&_back_items",
+    "description": "Whoooooooo I'm a scary ghoooost!! This item has a chance to do the Undead Rush animation each time you auto-attack!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-ghost-cape/BlackGhostCape.png",
+        "http://aqwwiki.wdfiles.com/local--files/black-ghost-cape/BlackGhostCapeAnim.png"
+    ],
+    "hash": "65554d3b9e301215f88e565a4b2ace91"
+}

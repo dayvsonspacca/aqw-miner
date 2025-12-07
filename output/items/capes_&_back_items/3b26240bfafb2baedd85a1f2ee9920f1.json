@@ -1,0 +1,15 @@
+{
+    "urlName": "med-station",
+    "url": "http://aqwwiki.wikidot.com/med-station",
+    "name": "Med-Station",
+    "type": "capes_&_back_items",
+    "description": "The Skyguard Medics carry much more than just a first-aid kit on their backs. You have an entire medical station at your disposal!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/cxB6jKp.png"
+    ],
+    "hash": "3b26240bfafb2baedd85a1f2ee9920f1"
+}

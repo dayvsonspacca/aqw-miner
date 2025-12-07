@@ -1,0 +1,16 @@
+{
+    "urlName": "chiron-s-comet",
+    "url": "http://aqwwiki.wikidot.com/chiron-s-comet",
+    "name": "Chiron's Comet",
+    "type": "capes_&_back_items",
+    "description": "A blazing comet that streaks through the night sky. The hunters who gallop through the stars follow it in earnest wonder, learning how to navigate the cosmos.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/w6KxaFH.png"
+    ],
+    "hash": "a732e05dbec911dd43d00ca0217a60a8"
+}

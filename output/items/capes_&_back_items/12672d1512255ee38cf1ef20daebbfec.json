@@ -1,0 +1,13 @@
+{
+    "urlName": "static-pyro-cape",
+    "url": "http://aqwwiki.wikidot.com/static-pyro-cape",
+    "name": "Static Pyro Cape",
+    "type": "capes_&_back_items",
+    "description": "Using mysterious technology, this controlled plasma cape is self contained in an invisible orb.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/Euifdpy.png"
+    ],
+    "hash": "12672d1512255ee38cf1ef20daebbfec"
+}

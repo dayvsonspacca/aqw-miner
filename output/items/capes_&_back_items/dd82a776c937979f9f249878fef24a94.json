@@ -1,0 +1,17 @@
+{
+    "urlName": "arcane-dark-caster-runes",
+    "url": "http://aqwwiki.wikidot.com/arcane-dark-caster-runes",
+    "name": "Arcane Dark Caster Runes",
+    "type": "capes_&_back_items",
+    "description": "Augment your spellcasting prowess even further with these complex, ancient runes.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/arcane-dark-caster-runes/ArcaneDarkCasterRunesN.png",
+        "http://aqwwiki.wdfiles.com/local--files/arcane-dark-caster-runes/ArcaneDarkCasterRunesO.png"
+    ],
+    "hash": "dd82a776c937979f9f249878fef24a94"
+}

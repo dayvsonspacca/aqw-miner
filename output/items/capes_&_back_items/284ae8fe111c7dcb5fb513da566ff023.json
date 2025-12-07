@@ -1,0 +1,15 @@
+{
+    "urlName": "beach-towel",
+    "url": "http://aqwwiki.wikidot.com/beach-towel",
+    "name": "Beach Towel",
+    "type": "capes_&_back_items",
+    "description": "Makes a great cape! The more it dries, the wetter it becomes. Weird little riddle, huh?",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/L3NaFBB.png"
+    ],
+    "hash": "284ae8fe111c7dcb5fb513da566ff023"
+}

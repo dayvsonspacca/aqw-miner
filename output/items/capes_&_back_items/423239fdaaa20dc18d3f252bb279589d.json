@@ -1,0 +1,16 @@
+{
+    "urlName": "soul-searcher-rune",
+    "url": "http://aqwwiki.wikidot.com/soul-searcher-rune",
+    "name": "Soul Searcher Rune",
+    "type": "capes_&_back_items",
+    "description": "Looking for souls? The magical rune on your back will guide you in the right (and left) direction.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/soul-searcher-rune/SoulSearcherRune.png"
+    ],
+    "hash": "423239fdaaa20dc18d3f252bb279589d"
+}

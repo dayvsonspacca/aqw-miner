@@ -1,0 +1,16 @@
+{
+    "urlName": "electrified-wings",
+    "url": "http://aqwwiki.wikidot.com/electrified-wings",
+    "name": "Electrified Wings",
+    "type": "capes_&_back_items",
+    "description": "The wings of the legendary Krenos.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/electrified-wings/ElectrifiedWings.png"
+    ],
+    "hash": "4cfacfae1e18ab044b75b6eed2af08f9"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "maizelord-rune",
+    "url": "http://aqwwiki.wikidot.com/maizelord-rune",
+    "name": "Maizelord Rune",
+    "type": "capes_&_back_items",
+    "description": "It is a taboo to defile these runes by eating them without dip.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DiNujjy.png"
+    ],
+    "hash": "5de38e4463fa4f220181f177ce82deaa"
+}

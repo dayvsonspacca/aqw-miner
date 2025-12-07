@@ -1,0 +1,17 @@
+{
+    "urlName": "toxic-diviner-rune",
+    "url": "http://aqwwiki.wikidot.com/toxic-diviner-rune",
+    "name": "Toxic Diviner Rune",
+    "type": "capes_&_back_items",
+    "description": "Bido's loyal Diviners don these robes for they are the warlocks who protect the strange relics that Bido has stashed away.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/oxUE7lq.png",
+        "https://i.imgur.com/TMhn1AS.png"
+    ],
+    "hash": "c186f7250cb3251fd92a8599636d5249"
+}

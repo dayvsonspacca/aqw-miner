@@ -1,0 +1,16 @@
+{
+    "urlName": "lightcaster-glowing-runes-ac",
+    "url": "http://aqwwiki.wikidot.com/lightcaster-glowing-runes-ac",
+    "name": "LightCaster Glowing Runes (AC)",
+    "type": "capes_&_back_items",
+    "description": "This golden sigil, worn by expert Luminomancers, is a sign of mastery!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightcaster-glowing-runes-ac/LightCasterGlowingRunes.png"
+    ],
+    "hash": "86a25d2ac44f72bc511aca3a7e4395ee"
+}

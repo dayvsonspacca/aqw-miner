@@ -1,0 +1,15 @@
+{
+    "urlName": "dragon-banner",
+    "url": "http://aqwwiki.wikidot.com/dragon-banner",
+    "name": "Dragon Banner",
+    "type": "capes_&_back_items",
+    "description": "A banner with a fire breathing dragon image on it. Strap this to your back so you may be recognized on the battlefield.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/09KlkBk.png"
+    ],
+    "hash": "92f49a325b685d4dbbd586b0e0117a35"
+}

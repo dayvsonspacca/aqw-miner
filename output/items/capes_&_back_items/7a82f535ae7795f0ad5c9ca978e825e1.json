@@ -1,0 +1,17 @@
+{
+    "urlName": "golf-bag",
+    "url": "http://aqwwiki.wikidot.com/golf-bag",
+    "name": "Golf Bag",
+    "type": "capes_&_back_items",
+    "description": "Perfect for the golfer on the go, this bag allows you to protect and carry your clubs in style.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/kfwQ4TR.png"
+    ],
+    "hash": "7a82f535ae7795f0ad5c9ca978e825e1"
+}

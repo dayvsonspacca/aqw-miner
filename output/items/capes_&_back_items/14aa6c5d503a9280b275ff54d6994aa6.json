@@ -1,0 +1,16 @@
+{
+    "urlName": "overlord-s-rune",
+    "url": "http://aqwwiki.wikidot.com/overlord-s-rune",
+    "name": "Overlord's Rune",
+    "type": "capes_&_back_items",
+    "description": "These minions spawned in the deepest pit of the Underworld. No one knows exactly where and so far no-one has been brave enough to try to find out.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ADh1Hde.png"
+    ],
+    "hash": "14aa6c5d503a9280b275ff54d6994aa6"
+}

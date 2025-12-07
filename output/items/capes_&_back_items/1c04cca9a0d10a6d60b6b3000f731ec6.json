@@ -1,0 +1,16 @@
+{
+    "urlName": "os-founder-cloak",
+    "url": "http://aqwwiki.wikidot.com/os-founder-cloak",
+    "name": "OS Founder Cloak",
+    "type": "capes_&_back_items",
+    "description": "The bright red cloak of the Founder Knight Order of Oversoul. It serves as a challenge to the enemies of the founding order.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/os-founder-cloak/OSFounderCloak.png"
+    ],
+    "hash": "1c04cca9a0d10a6d60b6b3000f731ec6"
+}

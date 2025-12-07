@@ -1,0 +1,16 @@
+{
+    "urlName": "ruby-eternal-flame",
+    "url": "http://aqwwiki.wikidot.com/ruby-eternal-flame",
+    "name": "Ruby Eternal Flame",
+    "type": "capes_&_back_items",
+    "description": "Red is the color of heroes, and of luck. On the day of Lady Azjurai's wedding, we wish her and her fiance eternal happiness and felicity as they both battle through life together!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ruby-eternal-flame/RubyEternalFlame.png"
+    ],
+    "hash": "89c218869df8acf6fe7063d4efe03fb3"
+}

@@ -1,0 +1,20 @@
+{
+    "urlName": "synderes-cape-of-doom",
+    "url": "http://aqwwiki.wikidot.com/synderes-cape-of-doom",
+    "name": "Synderes' Cape of Doom",
+    "type": "capes_&_back_items",
+    "description": "Click on this cape to open its shop and get the Synderes Blade of Shadows!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/CxoRXSp.png",
+        "https://i.imgur.com/sWEqlSy.png",
+        "https://i.imgur.com/t6gvTrk.png",
+        "http://i.imgur.com/c7SAMkG.png",
+        "http://aqwwiki.wdfiles.com/local--files/synderes-cape-of-doom/SynderesCapeofDoom.png",
+        "http://aqwwiki.wdfiles.com/local--files/synderes-cape-of-doom/SynderesCapeofDoomAnimated.png"
+    ],
+    "hash": "6f2fbf15927799ab87d641e966d0f08c"
+}

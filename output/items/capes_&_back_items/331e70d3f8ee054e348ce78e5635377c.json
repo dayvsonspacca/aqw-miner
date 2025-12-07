@@ -1,0 +1,18 @@
+{
+    "urlName": "explosive-rocket-backpack",
+    "url": "http://aqwwiki.wikidot.com/explosive-rocket-backpack",
+    "name": "Explosive Rocket Backpack",
+    "type": "capes_&_back_items",
+    "description": "Click and launch this rocket--",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ZCxWAaQ.png",
+        "http://i.imgur.com/A0jzBA4.png"
+    ],
+    "hash": "331e70d3f8ee054e348ce78e5635377c"
+}

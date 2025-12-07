@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-squid-cape",
+    "url": "http://aqwwiki.wikidot.com/chaos-squid-cape",
+    "name": "Chaos Squid Cape",
+    "type": "capes_&_back_items",
+    "description": "A tentacle for your mug, a tentacle for your cutlas, a tentacle t' scratch your black, and a tenticle t' make those scallywags walk t' plank!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-squid-cape/ChaosSquidCape.png"
+    ],
+    "hash": "d7b723460f1d11607c2faaed70f608db"
+}

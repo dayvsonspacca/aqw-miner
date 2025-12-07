@@ -1,0 +1,18 @@
+{
+    "urlName": "green-dragon-cloak",
+    "url": "http://aqwwiki.wikidot.com/green-dragon-cloak",
+    "name": "Green Dragon Cloak",
+    "type": "capes_&_back_items",
+    "description": "You can't necessarily fly with this on, but the tough hide reassures that you won't be back stabbed anytime soon!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/OuMb5Sr.png"
+    ],
+    "hash": "c33c003b88abe6764841fc12cab606e9"
+}

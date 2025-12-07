@@ -1,0 +1,15 @@
+{
+    "urlName": "miners-tailgate-flag",
+    "url": "http://aqwwiki.wikidot.com/miners-tailgate-flag",
+    "name": "Miners Tailgate Flag",
+    "type": "capes_&_back_items",
+    "description": "Show your support at any tailgate party with this epic flag.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/sqwqFyk.png"
+    ],
+    "hash": "b3713ba6fdaecf4fed47280feea4a522"
+}

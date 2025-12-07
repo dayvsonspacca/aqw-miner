@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-runic-wings",
+    "url": "http://aqwwiki.wikidot.com/prismatic-runic-wings",
+    "name": "Prismatic Runic Wings",
+    "type": "capes_&_back_items",
+    "description": "These colorfull wings and holy glyphs will protect you, but only if your intentions are of good nature.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-runic-wings/PrismaticRunicWings.png"
+    ],
+    "hash": "44cf41dd4d48118830bd2a8d1163f572"
+}

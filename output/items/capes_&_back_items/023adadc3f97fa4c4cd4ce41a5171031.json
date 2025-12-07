@@ -1,0 +1,17 @@
+{
+    "urlName": "astral-guardian-wings-ac",
+    "url": "http://aqwwiki.wikidot.com/astral-guardian-wings-ac",
+    "name": "Astral Guardian Wings (AC)",
+    "type": "capes_&_back_items",
+    "description": "The wings of the Astral Guardian are not real wings, but only visual metaphors of the power to fly between galaxies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/astral-guardian-wings-ac/AstralGuardianWingsNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/astral-guardian-wings-ac/AstralGuardianWingsOld.png"
+    ],
+    "hash": "023adadc3f97fa4c4cd4ce41a5171031"
+}

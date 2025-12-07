@@ -1,0 +1,17 @@
+{
+    "urlName": "omega-pirate-mech-parrot",
+    "url": "http://aqwwiki.wikidot.com/omega-pirate-mech-parrot",
+    "name": "Omega Pirate Mech Parrot",
+    "type": "capes_&_back_items",
+    "description": "At the end of it all, it's good to have a friend at your back. Or at least a mechanical friend on your shoulder.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/omega-pirate-mech-parrot/OmegaPirateMechParrotN.png",
+        "http://aqwwiki.wdfiles.com/local--files/omega-pirate-mech-parrot/OmegaPirateMechParrotM.png"
+    ],
+    "hash": "06dcbc45a6c1cf9590d3dd657a901ef3"
+}

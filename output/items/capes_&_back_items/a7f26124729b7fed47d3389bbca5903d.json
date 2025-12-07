@@ -1,0 +1,16 @@
+{
+    "urlName": "lightning-mage-cape",
+    "url": "http://aqwwiki.wikidot.com/lightning-mage-cape",
+    "name": "Lightning Mage Cape",
+    "type": "capes_&_back_items",
+    "description": "Seize the power of lightning from the sky! Using electrical magic hamess the bolts and from them into weapons.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iIm4Atx.png"
+    ],
+    "hash": "a7f26124729b7fed47d3389bbca5903d"
+}

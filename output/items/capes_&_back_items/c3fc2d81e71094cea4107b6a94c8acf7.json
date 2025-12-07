@@ -1,0 +1,17 @@
+{
+    "urlName": "doom-starsword-backblades",
+    "url": "http://aqwwiki.wikidot.com/doom-starsword-backblades",
+    "name": "Doom Starsword Backblades",
+    "type": "capes_&_back_items",
+    "description": "Specifically designed so not to cut thru your armor. Or you.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doom-starsword-backblades/DoomStarswordBackbladesN.png",
+        "http://aqwwiki.wdfiles.com/local--files/doom-starsword-backblades/DoomStarswordBackbladesA.png"
+    ],
+    "hash": "c3fc2d81e71094cea4107b6a94c8acf7"
+}

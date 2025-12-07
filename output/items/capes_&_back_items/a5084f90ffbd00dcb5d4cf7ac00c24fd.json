@@ -1,0 +1,17 @@
+{
+    "urlName": "a-gourdly-spirit",
+    "url": "http://aqwwiki.wikidot.com/a-gourdly-spirit",
+    "name": "A Gourdly Spirit",
+    "type": "capes_&_back_items",
+    "description": "A haunting little spirit keeps watch over your shoulder.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/o0XC1Mk.png",
+        "https://i.imgur.com/OlYErDm.png"
+    ],
+    "hash": "a5084f90ffbd00dcb5d4cf7ac00c24fd"
+}

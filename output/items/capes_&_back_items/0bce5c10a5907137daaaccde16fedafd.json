@@ -1,0 +1,16 @@
+{
+    "urlName": "shredwake-hydrocore-unit",
+    "url": "http://aqwwiki.wikidot.com/shredwake-hydrocore-unit",
+    "name": "Shredwake HydroCore Unit",
+    "type": "capes_&_back_items",
+    "description": "Foldable sensors that can detect changes in electric currents, allowing you to sense the movements of your prey. Warning - systems will fail if you get turned upside down.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/vlKCl8V.png"
+    ],
+    "hash": "0bce5c10a5907137daaaccde16fedafd"
+}

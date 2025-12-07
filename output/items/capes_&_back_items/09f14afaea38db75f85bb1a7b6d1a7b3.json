@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-sea-captain-s-ship",
+    "url": "http://aqwwiki.wikidot.com/dark-sea-captain-s-ship",
+    "name": "Dark Sea Captain's Ship",
+    "type": "capes_&_back_items",
+    "description": "Tempted by the lure of wealth, power, and more loot than in Swordhaven's treasure house, you agreed to conquer the Dark Seas in Malgor the ShadowFlame's name.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/I9qUhMQ.png"
+    ],
+    "hash": "09f14afaea38db75f85bb1a7b6d1a7b3"
+}

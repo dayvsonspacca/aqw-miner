@@ -1,0 +1,17 @@
+{
+    "urlName": "ambassador-cape",
+    "url": "http://aqwwiki.wikidot.com/ambassador-cape",
+    "name": "Ambassador Cape",
+    "type": "capes_&_back_items",
+    "description": "Equip this cape to show you are ready and willing to help other players in the game. Then you know you're make the game a better, happier place for everyone.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ambassador-cape/AmbassadorCape.png"
+    ],
+    "hash": "a494d65f212bf7d6d56486e6b913289a"
+}

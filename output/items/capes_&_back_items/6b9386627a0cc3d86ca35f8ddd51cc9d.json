@@ -1,0 +1,16 @@
+{
+    "urlName": "platinum-chevalier-cloak-ac",
+    "url": "http://aqwwiki.wikidot.com/platinum-chevalier-cloak-ac",
+    "name": "Platinum Chevalier Cloak (AC)",
+    "type": "capes_&_back_items",
+    "description": "The Chevalier's steed can run so fast that they can't hear commands. Throwing a cloak over their heads quickly convinces them that it's time to sleep.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/dnxxXp1.png"
+    ],
+    "hash": "6b9386627a0cc3d86ca35f8ddd51cc9d"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "cardcape",
+    "url": "http://aqwwiki.wikidot.com/cardcape",
+    "name": "CardCape",
+    "type": "capes_&_back_items",
+    "description": "You recieved the Color Custom CardCape from your purchase of the AQW BattleCard Game. Won't keep you very warm but you might be able to win a warm cloak from someone. Matches your Eye color.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/NNK8GtC.png"
+    ],
+    "hash": "1f6b416086cc02cb1bf9c0e04e05419f"
+}

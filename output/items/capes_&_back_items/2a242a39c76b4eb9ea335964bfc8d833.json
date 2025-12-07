@@ -1,0 +1,16 @@
+{
+    "urlName": "portable-grimskull",
+    "url": "http://aqwwiki.wikidot.com/portable-grimskull",
+    "name": "Portable GrimSkull",
+    "type": "capes_&_back_items",
+    "description": "GrimSkull's catching a free ride to find the next venue for a new dastardly dungeon.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/o7VISMl.png",
+        "https://i.imgur.com/yyMo5TB.png"
+    ],
+    "hash": "2a242a39c76b4eb9ea335964bfc8d833"
+}

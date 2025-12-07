@@ -1,0 +1,16 @@
+{
+    "urlName": "ecto-minions-cape",
+    "url": "http://aqwwiki.wikidot.com/ecto-minions-cape",
+    "name": "Ecto Minions Cape",
+    "type": "capes_&_back_items",
+    "description": "Sometimes, a cryptkreeper trainee does not live to become a master and are stuck as spectral minions to existing keepers, trapped in agonizing regret and fear forever. At least, these traits are what remain of their former humanity.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ecto-minions-cape/EctoMinionsCape.png"
+    ],
+    "hash": "86ca85f82413d1f8f4f7ed00a7897f2a"
+}

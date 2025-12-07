@@ -1,0 +1,17 @@
+{
+    "urlName": "frozendawn-cloak",
+    "url": "http://aqwwiki.wikidot.com/frozendawn-cloak",
+    "name": "FrozenDawn Cloak",
+    "type": "capes_&_back_items",
+    "description": "As the first rays of the sun rise over the Northlands, the FrozenDawn Herald calls out with joy to welcome the start of the Frostval in July holiday!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DTXZBY0.png"
+    ],
+    "hash": "541b40bd9395cc863dc2855d20cd3f3c"
+}

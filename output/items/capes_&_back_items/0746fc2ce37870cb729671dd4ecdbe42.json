@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-fighter-cape",
+    "url": "http://aqwwiki.wikidot.com/legion-fighter-cape",
+    "name": "Legion Fighter Cape",
+    "type": "capes_&_back_items",
+    "description": "\"Let our threads flow in the wind of battle!\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-fighter-cape/LegionFighterCape.png"
+    ],
+    "hash": "0746fc2ce37870cb729671dd4ecdbe42"
+}

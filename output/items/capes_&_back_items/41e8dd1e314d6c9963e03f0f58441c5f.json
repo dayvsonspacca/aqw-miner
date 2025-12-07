@@ -1,0 +1,16 @@
+{
+    "urlName": "singularity-techcannon",
+    "url": "http://aqwwiki.wikidot.com/singularity-techcannon",
+    "name": "Singularity TechCannon",
+    "type": "capes_&_back_items",
+    "description": "Take an entire star, and compress down to a single infinitely small point, and you achieve a singularity. You don't want to be at the wrong end of this cannon.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/singularity-techcannon/SingularityTechcannon.png"
+    ],
+    "hash": "41e8dd1e314d6c9963e03f0f58441c5f"
+}

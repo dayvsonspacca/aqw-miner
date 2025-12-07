@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowbound-magus-cloak",
+    "url": "http://aqwwiki.wikidot.com/shadowbound-magus-cloak",
+    "name": "Shadowbound Magus Cloak",
+    "type": "capes_&_back_items",
+    "description": "The Magi work tirelessly in the darkness of the Shadowscythe's fortress. When they leave to do their Empress' bidding, it's as if they have to their their own bodies away from the shadows.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tmGhpNm.png"
+    ],
+    "hash": "f295d6562fb95085f1c44e86013d107a"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "void-gate-cape-legend",
+    "url": "http://aqwwiki.wikidot.com/void-gate-cape-legend",
+    "name": "Void Gate Cape (Legend)",
+    "type": "capes_&_back_items",
+    "description": "A broken circle that once lead to the Fiend's Void. It still exudes an aura that twists flesh, and can only be carried by the already monstrously mutated Fiend Devourers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/P9viP86.png"
+    ],
+    "hash": "cf3cf4e0ec4920abcf29fd2edada5326"
+}
