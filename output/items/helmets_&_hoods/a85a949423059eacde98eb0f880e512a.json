@@ -1,0 +1,17 @@
+{
+    "urlName": "commander-s-battle-helm",
+    "url": "http://aqwwiki.wikidot.com/commander-s-battle-helm",
+    "name": "Commander's Battle Helm",
+    "type": "helmets_&_hoods",
+    "description": "Though the helmet causes moderate blindness, it comes with equipped sonar and the stars of the galaxy can be heard.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/commander-s-battle-helm/Commander'sBattleHelm.png"
+    ],
+    "hash": "a85a949423059eacde98eb0f880e512a"
+}

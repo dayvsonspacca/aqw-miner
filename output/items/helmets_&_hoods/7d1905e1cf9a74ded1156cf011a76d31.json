@@ -1,0 +1,13 @@
+{
+    "urlName": "block-head",
+    "url": "http://aqwwiki.wikidot.com/block-head",
+    "name": "Block Head",
+    "type": "helmets_&_hoods",
+    "description": "You craft a helmet out of the stone golem's head.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/MR2sbWm.png"
+    ],
+    "hash": "7d1905e1cf9a74ded1156cf011a76d31"
+}

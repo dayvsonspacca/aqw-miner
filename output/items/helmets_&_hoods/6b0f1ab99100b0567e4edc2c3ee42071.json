@@ -1,0 +1,17 @@
+{
+    "urlName": "brightscythe-helm",
+    "url": "http://aqwwiki.wikidot.com/brightscythe-helm",
+    "name": "BrightScythe Helm",
+    "type": "helmets_&_hoods",
+    "description": "As intimidating as it might appear to be, this helm of gleaming gold was blessed by the light and it is ready to protect its wearer from the onslaught of despair and anguish.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/t4sa0bz.png"
+    ],
+    "hash": "6b0f1ab99100b0567e4edc2c3ee42071"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-mage-helm-1",
+    "url": "http://aqwwiki.wikidot.com/chaos-mage-helm-1",
+    "name": "Chaos Mage Helm (1)",
+    "type": "helmets_&_hoods",
+    "description": "Double, double chaotic trouble; Lore will burn and cauldron bubble.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-mage-helm-1/ChaosMageHelm.png"
+    ],
+    "hash": "e1eaee2109baa1adea04d5019bf4cff9"
+}

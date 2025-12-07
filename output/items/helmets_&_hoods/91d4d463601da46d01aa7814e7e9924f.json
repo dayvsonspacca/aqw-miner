@@ -1,0 +1,15 @@
+{
+    "urlName": "ragnarok-cavalier-helm",
+    "url": "http://aqwwiki.wikidot.com/ragnarok-cavalier-helm",
+    "name": "Ragnarok Cavalier Helm",
+    "type": "helmets_&_hoods",
+    "description": "These warriors have an iron clad will which makes them impenetrable to the snow and ice of the Northlands.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/MZWiKJA.png"
+    ],
+    "hash": "91d4d463601da46d01aa7814e7e9924f"
+}

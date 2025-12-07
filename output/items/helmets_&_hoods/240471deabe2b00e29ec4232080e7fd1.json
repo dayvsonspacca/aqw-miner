@@ -1,0 +1,15 @@
+{
+    "urlName": "chrono-dataknight-helm",
+    "url": "http://aqwwiki.wikidot.com/chrono-dataknight-helm",
+    "name": "Chrono DataKnight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Battle alongside the Dragons of Time as you attempt to command the universe!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/HhtuKhN.png"
+    ],
+    "hash": "240471deabe2b00e29ec4232080e7fd1"
+}

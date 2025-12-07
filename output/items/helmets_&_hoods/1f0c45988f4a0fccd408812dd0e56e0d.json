@@ -1,0 +1,16 @@
+{
+    "urlName": "mystical-crest-helm",
+    "url": "http://aqwwiki.wikidot.com/mystical-crest-helm",
+    "name": "Mystical Crest Helm",
+    "type": "helmets_&_hoods",
+    "description": "We've got magic to do. Just for\u2026 YOU.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mystical-crest-helm/MysticalCrestHelm.png"
+    ],
+    "hash": "1f0c45988f4a0fccd408812dd0e56e0d"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "reindeer-beanie",
+    "url": "http://aqwwiki.wikidot.com/reindeer-beanie",
+    "name": "Reindeer Beanie",
+    "type": "helmets_&_hoods",
+    "description": "Don't blame us if you're mistaken for a working reindeer. Rumor is that you get time and a half on holiday shifts!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/xzvEyvf.png"
+    ],
+    "hash": "656d85fd3fa12f77a8279bd356fc28a3"
+}

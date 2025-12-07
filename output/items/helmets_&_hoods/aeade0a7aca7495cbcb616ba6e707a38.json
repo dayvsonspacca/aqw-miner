@@ -1,0 +1,15 @@
+{
+    "urlName": "paladorian-apprentice-helm",
+    "url": "http://aqwwiki.wikidot.com/paladorian-apprentice-helm",
+    "name": "Paladorian Apprentice Helm",
+    "type": "helmets_&_hoods",
+    "description": "Fighting for Good: This is the way.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/5e5T5EG.png"
+    ],
+    "hash": "aeade0a7aca7495cbcb616ba6e707a38"
+}

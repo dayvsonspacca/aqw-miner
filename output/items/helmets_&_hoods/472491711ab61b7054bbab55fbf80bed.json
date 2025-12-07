@@ -1,0 +1,15 @@
+{
+    "urlName": "legion-protoparagon-helm",
+    "url": "http://aqwwiki.wikidot.com/legion-protoparagon-helm",
+    "name": "Legion ProtoParagon Helm",
+    "type": "helmets_&_hoods",
+    "description": "Supercharge the darkness with the Protoparagon X1 and dominate the Legion!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-protoparagon-helm/LegionProtoParagonHelm.png"
+    ],
+    "hash": "472491711ab61b7054bbab55fbf80bed"
+}

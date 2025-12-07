@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-draco-knight-helmet",
+    "url": "http://aqwwiki.wikidot.com/golden-draco-knight-helmet",
+    "name": "Golden Draco Knight Helmet",
+    "type": "helmets_&_hoods",
+    "description": "A helmet with decorative wings. Drakkar Knights tend to take them off during actual flight. It's not very aerodynamic. (Click to transform)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1OB1dmH.png",
+        "https://i.imgur.com/KipNWWT.png"
+    ],
+    "hash": "1df4af2a537bfc2fb4fab30f38d44498"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "sea-scourge-s-captain-hat",
+    "url": "http://aqwwiki.wikidot.com/sea-scourge-s-captain-hat",
+    "name": "Sea Scourge's Captain Hat",
+    "type": "helmets_&_hoods",
+    "description": "The ghost ship, known as the Spectral Scourge, glides above the ocean waves. At its helm, the captain hunts for sea vessels worthy of battle to add to their spectral pirate fleet.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/FaDIPmT.png"
+    ],
+    "hash": "e315e02c2508e8639bf9b044c15bbcdb"
+}

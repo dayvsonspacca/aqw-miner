@@ -1,0 +1,16 @@
+{
+    "urlName": "red-reject-helm",
+    "url": "http://aqwwiki.wikidot.com/red-reject-helm",
+    "name": "Red Reject Helm",
+    "type": "helmets_&_hoods",
+    "description": "Looks like you've only mutated half-way. You might want to see a doctor about that.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/red-reject-helm/RedRejectHelm.png"
+    ],
+    "hash": "29c94b97d72eeaa13a07fba9752ca113"
+}

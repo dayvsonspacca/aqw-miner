@@ -1,0 +1,16 @@
+{
+    "urlName": "male-beret",
+    "url": "http://aqwwiki.wikidot.com/male-beret",
+    "name": "Male Beret",
+    "type": "helmets_&_hoods",
+    "description": "Infiltrate in STYLE with this secret ops beret.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/male-beret/MaleBeret.png"
+    ],
+    "hash": "32f186b03d26c3ce67506b8647528a6d"
+}

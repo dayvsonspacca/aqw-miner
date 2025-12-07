@@ -1,0 +1,15 @@
+{
+    "urlName": "loyalist-locks",
+    "url": "http://aqwwiki.wikidot.com/loyalist-locks",
+    "name": "Loyalist Locks",
+    "type": "helmets_&_hoods",
+    "description": "For those who don't want a skull on their head but still want to root for the team.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/cSKWuOH.png"
+    ],
+    "hash": "484f65409db229dfac5ae9fa035647d6"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-legion",
+    "url": "http://aqwwiki.wikidot.com/undead-legion",
+    "name": "Undead Legion",
+    "type": "helmets_&_hoods",
+    "description": "The face of the legion, after awaking from THE deep slumber.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-legion/UndeadLegion.png"
+    ],
+    "hash": "227fbb27e6caed8689543489d05ba155"
+}

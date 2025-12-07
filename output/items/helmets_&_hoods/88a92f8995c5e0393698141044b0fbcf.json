@@ -1,0 +1,16 @@
+{
+    "urlName": "warden-of-hours-cowl",
+    "url": "http://aqwwiki.wikidot.com/warden-of-hours-cowl",
+    "name": "Warden of Hours Cowl",
+    "type": "helmets_&_hoods",
+    "description": "The Warden of Hours' tasks require great precision, accuracy, and a sharp memory. Inconsistencies in the river of time can be as minute as a fly buzzing in the wrong room. But, a small stone can lead to an avalanche.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YtZchaH.png"
+    ],
+    "hash": "88a92f8995c5e0393698141044b0fbcf"
+}

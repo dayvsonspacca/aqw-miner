@@ -1,0 +1,15 @@
+{
+    "urlName": "vordred-s-helm",
+    "url": "http://aqwwiki.wikidot.com/vordred-s-helm",
+    "name": "Vordred's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Is this his head, or a helmet? At least you won't have to listen to it talk.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/6GTXkyA.png"
+    ],
+    "hash": "7a58198b17fe591f1471428c9ac28e71"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "lucky-paragon-helm-merge",
+    "url": "http://aqwwiki.wikidot.com/lucky-paragon-helm-merge",
+    "name": "Lucky Paragon Helm (Merge)",
+    "type": "helmets_&_hoods",
+    "description": "Top o' the morning to ya Legion gombeens. Feeling lucky today?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/aMByavb.png"
+    ],
+    "hash": "6a4d004d0c69d84b7533ffab73acd998"
+}

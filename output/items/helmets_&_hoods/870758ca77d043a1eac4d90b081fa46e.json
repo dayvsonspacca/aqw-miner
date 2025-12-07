@@ -1,0 +1,16 @@
+{
+    "urlName": "armored-avomancer-helm",
+    "url": "http://aqwwiki.wikidot.com/armored-avomancer-helm",
+    "name": "Armored Avomancer Helm",
+    "type": "helmets_&_hoods",
+    "description": "A perfect helm when you suspect fowl play.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/sk2RFwy.png"
+    ],
+    "hash": "870758ca77d043a1eac4d90b081fa46e"
+}

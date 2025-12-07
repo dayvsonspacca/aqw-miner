@@ -1,0 +1,16 @@
+{
+    "urlName": "white-hot-winged-helm",
+    "url": "http://aqwwiki.wikidot.com/white-hot-winged-helm",
+    "name": "White-hot Winged Helm",
+    "type": "helmets_&_hoods",
+    "description": "With wings of fire on your head set off on paths none have tread.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/white-hot-winged-helm/White-hotWingedHelm.png"
+    ],
+    "hash": "5d836d199388e82d857c986c3952b7a0"
+}

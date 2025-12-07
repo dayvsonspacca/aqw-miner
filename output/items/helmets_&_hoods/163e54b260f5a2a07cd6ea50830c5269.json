@@ -1,0 +1,16 @@
+{
+    "urlName": "candycorn-hat",
+    "url": "http://aqwwiki.wikidot.com/candycorn-hat",
+    "name": "CandyCorn Hat",
+    "type": "helmets_&_hoods",
+    "description": "This sweet set is made of one of Oishii's tastiest harvest treats \u2014 CANDY CORN! /Equip it at your own risk, the chances of monsters eating you will increase by 100% if worn in battle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/omqI9Dz.png"
+    ],
+    "hash": "163e54b260f5a2a07cd6ea50830c5269"
+}

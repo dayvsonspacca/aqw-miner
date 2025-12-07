@@ -1,0 +1,16 @@
+{
+    "urlName": "mindbreaker-helm",
+    "url": "http://aqwwiki.wikidot.com/mindbreaker-helm",
+    "name": "MindBreaker Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm is especially crafted for you and attuned to your mind's own frequency. It serves to help focus your psionic attacks while protecting you from outside psychic interference.",
+    "rarity": "Artifact",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/xBUtMYt.png"
+    ],
+    "hash": "e30e6b8f50c050e58480d33c7081abb9"
+}

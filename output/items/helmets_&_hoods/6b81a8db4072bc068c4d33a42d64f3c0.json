@@ -1,0 +1,17 @@
+{
+    "urlName": "scrooge-mcluck-helm",
+    "url": "http://aqwwiki.wikidot.com/scrooge-mcluck-helm",
+    "name": "Scrooge McLuck Helm",
+    "type": "helmets_&_hoods",
+    "description": "The tophat to outdo all tophats. the luck that pours off this hat is so much that you may have trouble containing yourself. The four leaf clovers add a spark of pizzazz; the hair the perfect impression of fun.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/tXJ0OyW.png"
+    ],
+    "hash": "6b81a8db4072bc068c4d33a42d64f3c0"
+}

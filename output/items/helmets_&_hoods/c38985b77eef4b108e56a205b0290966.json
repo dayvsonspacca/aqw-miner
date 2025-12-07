@@ -1,0 +1,16 @@
+{
+    "urlName": "aurora-caller-s-helm",
+    "url": "http://aqwwiki.wikidot.com/aurora-caller-s-helm",
+    "name": "Aurora Caller's Helm",
+    "type": "helmets_&_hoods",
+    "description": "A sect of Luminomancers, Aurora Callers summon the northern lights and draw power from the bright magic contained inside them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/PMpCuDL.png"
+    ],
+    "hash": "c38985b77eef4b108e56a205b0290966"
+}

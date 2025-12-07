@@ -1,0 +1,15 @@
+{
+    "urlName": "aero-mask",
+    "url": "http://aqwwiki.wikidot.com/aero-mask",
+    "name": "Aero Mask",
+    "type": "helmets_&_hoods",
+    "description": "This will keep you from getting the Black lung. Cough! Cough!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/pTEIFZH.png"
+    ],
+    "hash": "c84dad0ed9e01d6345fb4c13388b7ead"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "blood-sorceress-helm",
+    "url": "http://aqwwiki.wikidot.com/blood-sorceress-helm",
+    "name": "Blood Sorceress Helm",
+    "type": "helmets_&_hoods",
+    "description": "Annihilate your enemies as a Blood Sorcerer, and make them tremble at the power of your terrifying blood magic!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-sorceress-helm/BloodSorceressHelm.png"
+    ],
+    "hash": "5a6bf7ee2ece106fbb91a44daabab8de"
+}

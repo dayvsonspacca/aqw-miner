@@ -1,0 +1,16 @@
+{
+    "urlName": "lunaris-exemplar-morph",
+    "url": "http://aqwwiki.wikidot.com/lunaris-exemplar-morph",
+    "name": "Lunaris Exemplar Morph",
+    "type": "helmets_&_hoods",
+    "description": "The Lunaris are members of a clan that worship the moon. Redeemers do not partake in the hunt for Sol and Luna. They seek to capture members of the Solaris to commit them to darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MErbLnb.png"
+    ],
+    "hash": "9517e09066a118f6df8a59dab452220f"
+}

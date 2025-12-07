@@ -1,0 +1,16 @@
+{
+    "urlName": "great-game-helmet",
+    "url": "http://aqwwiki.wikidot.com/great-game-helmet",
+    "name": "Great Game! Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Wow! It MUST have been a great game if it ended with the snack bowl upturned over your head!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/great-game-helmet/GreatGameHelmet.png"
+    ],
+    "hash": "e1f60213cabcb4828add73e33741a71c"
+}

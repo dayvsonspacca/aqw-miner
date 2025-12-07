@@ -1,0 +1,16 @@
+{
+    "urlName": "bloody-vaden-s-helm",
+    "url": "http://aqwwiki.wikidot.com/bloody-vaden-s-helm",
+    "name": "Bloody Vaden's Helm",
+    "type": "helmets_&_hoods",
+    "description": "A version of Vaden's helm. It's not exactly like his, but close enough!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bloody-vaden-s-helm/BVHelm.png"
+    ],
+    "hash": "8a3f3b0746e7e65b86f70ac37707b4e0"
+}

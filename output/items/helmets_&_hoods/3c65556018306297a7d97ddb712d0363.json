@@ -1,0 +1,17 @@
+{
+    "urlName": "derp-melon",
+    "url": "http://aqwwiki.wikidot.com/derp-melon",
+    "name": "Derp Melon",
+    "type": "helmets_&_hoods",
+    "description": "DERP! Heroes love a good derp watermelon. SMASH!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/YV7xLfX.png",
+        "https://imgur.com/EOfcM2Y.png"
+    ],
+    "hash": "3c65556018306297a7d97ddb712d0363"
+}

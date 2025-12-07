@@ -1,0 +1,16 @@
+{
+    "urlName": "j6-helmet",
+    "url": "http://aqwwiki.wikidot.com/j6-helmet",
+    "name": "J6 Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Collectors helmet received when purchasing a J6\u00a0T-Shirt.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/z12iofw.png"
+    ],
+    "hash": "c78681c5b3ab6398be46481b46db529d"
+}

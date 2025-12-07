@@ -1,0 +1,15 @@
+{
+    "urlName": "gourdello-locks",
+    "url": "http://aqwwiki.wikidot.com/gourdello-locks",
+    "name": "Gourdello Locks",
+    "type": "helmets_&_hoods",
+    "description": "For when you really want to look like a Pumpkin Spice-y Mad Scientist!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/LB8g6B5.png"
+    ],
+    "hash": "a8f0161e488b816b441221e60efed4ce"
+}

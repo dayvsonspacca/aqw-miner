@@ -1,0 +1,16 @@
+{
+    "urlName": "boo-tiful-hair",
+    "url": "http://aqwwiki.wikidot.com/boo-tiful-hair",
+    "name": "BOO-tiful Hair",
+    "type": "helmets_&_hoods",
+    "description": "BOO! (This helm is a gift from your little ectoplasmic buddy, Boo.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/bFEGk3H.png"
+    ],
+    "hash": "010ecc9018116c9850c3f88cf461ff5d"
+}

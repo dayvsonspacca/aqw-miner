@@ -1,0 +1,16 @@
+{
+    "urlName": "gl-1st-helm",
+    "url": "http://aqwwiki.wikidot.com/gl-1st-helm",
+    "name": "GL-1ST Helm",
+    "type": "helmets_&_hoods",
+    "description": "An older and grittier droid model's head that had all of its gold and glamor stripped off. They've long outlived their warranty.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0A43Ri2.png"
+    ],
+    "hash": "5368f3bcf837a68514caf7f86c710057"
+}

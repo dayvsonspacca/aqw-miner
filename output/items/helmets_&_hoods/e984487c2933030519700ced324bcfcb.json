@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-on-fire-helm",
+    "url": "http://aqwwiki.wikidot.com/chaos-on-fire-helm",
+    "name": "Chaos on Fire Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hi, your head's on fire.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/1RoyUt8.png",
+        "http://i.imgur.com/z8ugIN4.png"
+    ],
+    "hash": "e984487c2933030519700ced324bcfcb"
+}

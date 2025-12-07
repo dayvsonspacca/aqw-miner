@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-commander-s-morph-locks",
+    "url": "http://aqwwiki.wikidot.com/celestial-commander-s-morph-locks",
+    "name": "Celestial Commander's Morph + Locks",
+    "type": "helmets_&_hoods",
+    "description": "Whether you sail the seas or the skies, victory is always within your reach.(Item does 30% more damage to all tagged monsters when equipped.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6J59BfD.png",
+        "https://i.imgur.com/X72EhW7.png"
+    ],
+    "hash": "ef4b12e1ca0975e25b9693267831318e"
+}

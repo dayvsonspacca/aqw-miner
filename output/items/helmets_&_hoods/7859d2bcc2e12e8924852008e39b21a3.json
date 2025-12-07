@@ -1,0 +1,16 @@
+{
+    "urlName": "battle-q-pid-helmet",
+    "url": "http://aqwwiki.wikidot.com/battle-q-pid-helmet",
+    "name": "Battle Q-Pid Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Although not the type of robots to reveal their faces, if need be, they could pull up a holographic projection of various faces of organisms since they can read emotions as if they are a written language.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battle-q-pid-helmet/BattleQ-PidHelmet.png"
+    ],
+    "hash": "7859d2bcc2e12e8924852008e39b21a3"
+}

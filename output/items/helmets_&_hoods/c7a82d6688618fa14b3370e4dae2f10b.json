@@ -1,0 +1,15 @@
+{
+    "urlName": "muenster-monster-helm",
+    "url": "http://aqwwiki.wikidot.com/muenster-monster-helm",
+    "name": "Muenster Monster Helm",
+    "type": "helmets_&_hoods",
+    "description": "An official Muenster Monsters helmet you scored for yourself! Just replace the cheese after a while, okay?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/muenster-monster-helm/MuensterMonsterHelm.png"
+    ],
+    "hash": "c7a82d6688618fa14b3370e4dae2f10b"
+}

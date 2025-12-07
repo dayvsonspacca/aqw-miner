@@ -1,0 +1,17 @@
+{
+    "urlName": "paragon-helm",
+    "url": "http://aqwwiki.wikidot.com/paragon-helm",
+    "name": "Paragon Helm",
+    "type": "helmets_&_hoods",
+    "description": "Imitation is the sincerest form of flattery\u2026with that said, just remember who commands the Legion and who is just a grunt!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paragon-helm/ParagonHelm.png",
+        "http://aqwwiki.wdfiles.com/local--files/paragon-helm/ParagonHelmO.png"
+    ],
+    "hash": "29008fb6a3cdea1702b0539215466e6d"
+}

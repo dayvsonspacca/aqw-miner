@@ -1,0 +1,16 @@
+{
+    "urlName": "hypochondriacal-scientist-helm",
+    "url": "http://aqwwiki.wikidot.com/hypochondriacal-scientist-helm",
+    "name": "Hypochondriacal Scientist Helm",
+    "type": "helmets_&_hoods",
+    "description": "Your EXPERIMENTS are the ones who should get sick. Not YOU! Taking proper precautions is very important in Mad Labs!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hypochondriacal-scientist-helm/HypochondriacalScientistHelm.png"
+    ],
+    "hash": "d72dcdb9a726db1b3738013fe2f15896"
+}

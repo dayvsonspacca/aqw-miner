@@ -1,0 +1,15 @@
+{
+    "urlName": "paintball-faceguard",
+    "url": "http://aqwwiki.wikidot.com/paintball-faceguard",
+    "name": "Paintball FaceGuard",
+    "type": "helmets_&_hoods",
+    "description": "Paint the town red! (And blue, green, yellow, purple, pink, black\u2026) this April Fool's Day! Show those bland corporate suits that they can't take away AQW's color!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paintball-faceguard/PaintballFaceguard.png"
+    ],
+    "hash": "b060b716146f929964631fb39423c6f6"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "snowman-head",
+    "url": "http://aqwwiki.wikidot.com/snowman-head",
+    "name": "Snowman Head",
+    "type": "helmets_&_hoods",
+    "description": "Happy Frostval! Now you can be just like Frosty!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/rojqCoL.png"
+    ],
+    "hash": "3e245565c867b6d3168a1ff7ad83a10e"
+}

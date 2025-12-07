@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowed-drow-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/shadowed-drow-helm-legend",
+    "name": "Shadowed Drow Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "Nothing escapes your gaze. You can spot a dead man from a thousand paces. And if he's not dead, well, you can fix that.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/59efIKT.png"
+    ],
+    "hash": "6bc44c1c6b596d6808b29d0e5053f9f7"
+}

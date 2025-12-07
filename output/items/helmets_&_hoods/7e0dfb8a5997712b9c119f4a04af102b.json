@@ -1,0 +1,13 @@
+{
+    "urlName": "knight-s-helm",
+    "url": "http://aqwwiki.wikidot.com/knight-s-helm",
+    "name": "Knight's Helm",
+    "type": "helmets_&_hoods",
+    "description": "A basic helm with chainmail for the discerning Knight of the realm.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/18yLufV.png"
+    ],
+    "hash": "7e0dfb8a5997712b9c119f4a04af102b"
+}

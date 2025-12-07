@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-slayer-hood",
+    "url": "http://aqwwiki.wikidot.com/chaos-slayer-hood",
+    "name": "Chaos Slayer Hood",
+    "type": "helmets_&_hoods",
+    "description": "Hide your face from chaorruption of Chaos.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-slayer-hood/ChaosSlayerHood.png"
+    ],
+    "hash": "4c34edc301d92aacc759a32fb003f845"
+}

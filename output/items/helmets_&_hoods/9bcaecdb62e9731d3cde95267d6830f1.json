@@ -1,0 +1,16 @@
+{
+    "urlName": "gravelyn-s-champion-helm",
+    "url": "http://aqwwiki.wikidot.com/gravelyn-s-champion-helm",
+    "name": "Gravelyn's Champion Helm",
+    "type": "helmets_&_hoods",
+    "description": "Strike fear into the hearts of your foes and exclaim LONG UN-LIVE THE SHADOWSCYTHE! (5% chance to do the Meteor Shower attack animation, 15% XP boost non-stackable)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/9zj2Eb7.png",
+        "http://i.imgur.com/lG68IHR.png"
+    ],
+    "hash": "9bcaecdb62e9731d3cde95267d6830f1"
+}

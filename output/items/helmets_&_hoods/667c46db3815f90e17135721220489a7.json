@@ -1,0 +1,16 @@
+{
+    "urlName": "dragontamer-mask",
+    "url": "http://aqwwiki.wikidot.com/dragontamer-mask",
+    "name": "Dragontamer Mask",
+    "type": "helmets_&_hoods",
+    "description": "The mask worn by the elite order of Dragontamers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragontamer-mask/DragontamerMask.png"
+    ],
+    "hash": "667c46db3815f90e17135721220489a7"
+}

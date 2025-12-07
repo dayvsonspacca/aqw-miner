@@ -1,0 +1,16 @@
+{
+    "urlName": "beastmaster-ravager-helm",
+    "url": "http://aqwwiki.wikidot.com/beastmaster-ravager-helm",
+    "name": "Beastmaster Ravager Helm",
+    "type": "helmets_&_hoods",
+    "description": "Ravager's bring devastation and destruction to where ever they go. (3% chance to do shadowburst animation, 5% Class Points Boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/aNFsXNi.png",
+        "http://i.imgur.com/CDaIm2l.png"
+    ],
+    "hash": "33d59f32490b5155a42e85a749148887"
+}

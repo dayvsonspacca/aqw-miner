@@ -1,0 +1,16 @@
+{
+    "urlName": "doomknight-mech-helmet",
+    "url": "http://aqwwiki.wikidot.com/doomknight-mech-helmet",
+    "name": "DoomKnight Mech Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Every mech requires guards to prevent sabotage (and DOOM) from enemies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/e1F1Pc6.png"
+    ],
+    "hash": "3689f084196fc3494c15e3ba6e72290a"
+}

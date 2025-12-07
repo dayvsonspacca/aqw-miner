@@ -1,0 +1,15 @@
+{
+    "urlName": "blue-talking-hat-locks",
+    "url": "http://aqwwiki.wikidot.com/blue-talking-hat-locks",
+    "name": "Blue Talking Hat + Locks",
+    "type": "helmets_&_hoods",
+    "description": "If you listen it'll tell you what DragonRune house you're in.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/eAnkcYk.png"
+    ],
+    "hash": "203ae08dcaabaf3d53a739f4e6319aca"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "bleakwind-locks",
+    "url": "http://aqwwiki.wikidot.com/bleakwind-locks",
+    "name": "Bleakwind Locks",
+    "type": "helmets_&_hoods",
+    "description": "Keeping you warm and stylish, even in the depths of the Bleakwind Mountains!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bleakwind-locks/BleakwindLocks.png"
+    ],
+    "hash": "76377fdf60c8f91bc6149d698a0ca6c0"
+}

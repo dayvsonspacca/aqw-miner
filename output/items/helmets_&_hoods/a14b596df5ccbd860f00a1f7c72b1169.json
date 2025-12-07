@@ -1,0 +1,16 @@
+{
+    "urlName": "ebilcorp-fishman-helm",
+    "url": "http://aqwwiki.wikidot.com/ebilcorp-fishman-helm",
+    "name": "EbilCorp Fishman Helm",
+    "type": "helmets_&_hoods",
+    "description": "It's said that fish have a three second memory. So they won't remember if this year's bonus was bigger than the last.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/R2Vp0Hm.png"
+    ],
+    "hash": "a14b596df5ccbd860f00a1f7c72b1169"
+}

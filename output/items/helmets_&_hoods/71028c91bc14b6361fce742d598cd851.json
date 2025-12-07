@@ -1,0 +1,16 @@
+{
+    "urlName": "midnight-hanzo-void-helm",
+    "url": "http://aqwwiki.wikidot.com/midnight-hanzo-void-helm",
+    "name": "Midnight Hanzo Void Helm",
+    "type": "helmets_&_hoods",
+    "description": "All chances of weapons piercing this mask are Nul and void.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/midnight-hanzo-void-helm/MidnightHanzoVoidHelm.png"
+    ],
+    "hash": "71028c91bc14b6361fce742d598cd851"
+}

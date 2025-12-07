@@ -1,0 +1,18 @@
+{
+    "urlName": "ultra-ringmaster-tophat",
+    "url": "http://aqwwiki.wikidot.com/ultra-ringmaster-tophat",
+    "name": "Ultra Ringmaster Tophat",
+    "type": "helmets_&_hoods",
+    "description": "It just keeps going and going and going and going and going and going and going and going and going and going and going and going. (Gives more XP and CP when equipped)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ultra-ringmaster-tophat/UltraRingmasterTophatN.png",
+        "http://aqwwiki.wdfiles.com/local--files/ultra-ringmaster-tophat/UltraRingmasterTophatO.png",
+        "http://aqwwiki.wdfiles.com/local--files/ultra-ringmaster-tophat/UltraRingmasterTophatF.png"
+    ],
+    "hash": "e2625c31cd7e1b881f9641af57dd06c4"
+}

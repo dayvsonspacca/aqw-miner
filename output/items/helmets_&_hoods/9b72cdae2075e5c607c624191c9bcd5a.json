@@ -1,0 +1,16 @@
+{
+    "urlName": "molten-phoenix-helm",
+    "url": "http://aqwwiki.wikidot.com/molten-phoenix-helm",
+    "name": "Molten Phoenix Helm",
+    "type": "helmets_&_hoods",
+    "description": "How can anything exist behind the mask of a monster? Two flickers of flame still shine but only to seek a path of destruction.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/molten-phoenix-helm/MoltenPhoenixHelm.png"
+    ],
+    "hash": "9b72cdae2075e5c607c624191c9bcd5a"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "forest-rogue-hat",
+    "url": "http://aqwwiki.wikidot.com/forest-rogue-hat",
+    "name": "Forest Rogue Hat",
+    "type": "helmets_&_hoods",
+    "description": "With your bow and arrow, you patrol the forest taking from the rich and defending the poor. The villagers are so thankful you are near.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/RYyjp9t.png"
+    ],
+    "hash": "35414722829d5549c701a13ada4e0d63"
+}

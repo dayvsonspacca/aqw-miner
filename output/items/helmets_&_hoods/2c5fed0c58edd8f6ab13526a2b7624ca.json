@@ -1,0 +1,15 @@
+{
+    "urlName": "knightmare-helm",
+    "url": "http://aqwwiki.wikidot.com/knightmare-helm",
+    "name": "Knightmare Helm",
+    "type": "helmets_&_hoods",
+    "description": "You feel a strange power surge through you when you wear this helmet. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/PRDCIyb.png"
+    ],
+    "hash": "2c5fed0c58edd8f6ab13526a2b7624ca"
+}

@@ -1,0 +1,14 @@
+{
+    "urlName": "hydra-battle-helm",
+    "url": "http://aqwwiki.wikidot.com/hydra-battle-helm",
+    "name": "Hydra Battle Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm is harnesses power of the Hydra",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/Pyl7Kqf.png",
+        "http://i.imgur.com/Bb6nKRQ.png"
+    ],
+    "hash": "1fd154998df2ee38347a264eb2a4bd1e"
+}

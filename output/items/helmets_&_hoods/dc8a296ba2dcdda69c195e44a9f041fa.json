@@ -1,0 +1,16 @@
+{
+    "urlName": "frostberge-knight-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/frostberge-knight-helm-ac",
+    "name": "Frostberge Knight Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Forged from enchanted flames frozen in the middle of a blizzard, the Frostberge Knight is at home in the tundra or the halls of the highest Northlands border lords.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/p6OGvV8.png"
+    ],
+    "hash": "dc8a296ba2dcdda69c195e44a9f041fa"
+}

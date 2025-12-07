@@ -1,0 +1,17 @@
+{
+    "urlName": "black-cowl",
+    "url": "http://aqwwiki.wikidot.com/black-cowl",
+    "name": "Black Cowl",
+    "type": "helmets_&_hoods",
+    "description": "Happy Black Friday! You'll need this when spawn-camping your favorite electronics store.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/G9AK48C.png"
+    ],
+    "hash": "a381c5a1b4925502625a2ba8ae7c6842"
+}

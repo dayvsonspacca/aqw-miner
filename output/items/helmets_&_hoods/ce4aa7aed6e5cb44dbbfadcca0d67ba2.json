@@ -1,0 +1,16 @@
+{
+    "urlName": "electromage-helmet-ac",
+    "url": "http://aqwwiki.wikidot.com/electromage-helmet-ac",
+    "name": "ElectroMage Helmet (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Cyber Magic flows through the veins of ElectroMages. Mastering their power is vital; the energy even an untrained mage can produce level an entire city.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5aFeSaZ.png"
+    ],
+    "hash": "ce4aa7aed6e5cb44dbbfadcca0d67ba2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "horned-galactic-helm",
+    "url": "http://aqwwiki.wikidot.com/horned-galactic-helm",
+    "name": "Horned Galactic Helm",
+    "type": "helmets_&_hoods",
+    "description": "This horns will warn away your foes as you go on many adventures.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/horned-galactic-helm/HornedGalacticHelm.png"
+    ],
+    "hash": "daa45ca8c4a5c5a6c86c0e20d1caaad3"
+}

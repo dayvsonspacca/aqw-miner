@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-warrior-pelt-helm-locks",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-warrior-pelt-helm-locks",
+    "name": "Frostlorn Warrior Pelt Helm + Locks",
+    "type": "helmets_&_hoods",
+    "description": "The Frostlorn Raiders wear the pelt of a great northern bear as a symbol of their strength and might. Also keeps their ears warm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WjzgzPU.png",
+        "https://i.imgur.com/zcqkgZr.png"
+    ],
+    "hash": "ab3b92c1d833748519faa1dbfc753cb7"
+}

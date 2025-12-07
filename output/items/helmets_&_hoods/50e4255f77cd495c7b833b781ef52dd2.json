@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-the-ice-beasts",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-ice-beasts",
+    "name": "Helm of the Ice Beasts",
+    "type": "helmets_&_hoods",
+    "description": "To instill fear into your opponents is the first step of survival.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-the-ice-beasts/HelmoftheIceBeasts.png"
+    ],
+    "hash": "50e4255f77cd495c7b833b781ef52dd2"
+}

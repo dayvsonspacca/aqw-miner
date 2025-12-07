@@ -1,0 +1,16 @@
+{
+    "urlName": "explorer-tricorn",
+    "url": "http://aqwwiki.wikidot.com/explorer-tricorn",
+    "name": "Explorer Tricorn",
+    "type": "helmets_&_hoods",
+    "description": "Any pirate be ship shape with this elegant hat.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/explorer-tricorn/ExplorerTricorn.png"
+    ],
+    "hash": "3e87e0216df7a294dd91b11e6145ad45"
+}

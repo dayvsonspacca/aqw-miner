@@ -1,0 +1,16 @@
+{
+    "urlName": "frozen-magma-helm",
+    "url": "http://aqwwiki.wikidot.com/frozen-magma-helm",
+    "name": "Frozen Magma Helm",
+    "type": "helmets_&_hoods",
+    "description": "Your magma has hardened into a sharp-looking helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frozen-magma-helm/FMH.png"
+    ],
+    "hash": "42615f621fac6a0bd01c8c89df69f70d"
+}

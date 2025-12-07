@@ -1,0 +1,16 @@
+{
+    "urlName": "bucket-head",
+    "url": "http://aqwwiki.wikidot.com/bucket-head",
+    "name": "Bucket Head",
+    "type": "helmets_&_hoods",
+    "description": "Once a rusty bucket, now a Warrior's helm! Celebrate Earth Day this year and help make the world a cleaner, better place!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/8mP5McC.png"
+    ],
+    "hash": "81c05143e856163c3f7662e32b89e20e"
+}

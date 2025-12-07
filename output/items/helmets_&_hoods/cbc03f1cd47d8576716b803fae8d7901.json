@@ -1,0 +1,16 @@
+{
+    "urlName": "dravir-helm",
+    "url": "http://aqwwiki.wikidot.com/dravir-helm",
+    "name": "Dravir Helm",
+    "type": "helmets_&_hoods",
+    "description": "Modeled after the Dravir in DragonFable, the Dravir Soldiers' beady eyes and sharp fangs make for creatures that you do NOT want to run into a dark alleyway.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dravir-helm/DravirHelm.png"
+    ],
+    "hash": "cbc03f1cd47d8576716b803fae8d7901"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "antlered-bone-locks",
+    "url": "http://aqwwiki.wikidot.com/antlered-bone-locks",
+    "name": "Antlered Bone Locks",
+    "type": "helmets_&_hoods",
+    "description": "After the hunt, it's traditional to celebrate with a masquerade ball.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/antlered-bone-locks/AntleredBoneLocks.png"
+    ],
+    "hash": "122e15ebcfbbd8efef5693c467539218"
+}

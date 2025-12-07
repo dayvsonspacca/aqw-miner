@@ -1,0 +1,16 @@
+{
+    "urlName": "harvest-hair",
+    "url": "http://aqwwiki.wikidot.com/harvest-hair",
+    "name": "Harvest Hair",
+    "type": "helmets_&_hoods",
+    "description": "A new 'do for the new season!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/nR9r9Ea.png"
+    ],
+    "hash": "32534f1547af67b1fbbc82f194090af9"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "chrono-dragonknight-helm",
+    "url": "http://aqwwiki.wikidot.com/chrono-dragonknight-helm",
+    "name": "Chrono DragonKnight Helm",
+    "type": "helmets_&_hoods",
+    "description": "While traveling through time, it's important to conceal one's true identity.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chrono-dragonknight-helm/ChronoDragonknightHelm.png"
+    ],
+    "hash": "7da50f32d20f51cb2a7a8a31f7d7bd5b"
+}

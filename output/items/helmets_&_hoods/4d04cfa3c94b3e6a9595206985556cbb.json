@@ -1,0 +1,17 @@
+{
+    "urlName": "evolved-chronospike-helm",
+    "url": "http://aqwwiki.wikidot.com/evolved-chronospike-helm",
+    "name": "Evolved Chronospike Helm",
+    "type": "helmets_&_hoods",
+    "description": "Decimate your opponents with each of the ten spikes on your helmet. It's time for them to know your power!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-chronospike-helm/EvolvedChronospikeHelm.png"
+    ],
+    "hash": "4d04cfa3c94b3e6a9595206985556cbb"
+}

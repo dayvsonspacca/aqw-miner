@@ -1,0 +1,16 @@
+{
+    "urlName": "boreal-cavalier-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/boreal-cavalier-helm-ac",
+    "name": "Boreal Cavalier Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The dawn shines on these knights of the frozen Northlands.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/U1qtNGy.png"
+    ],
+    "hash": "b5a85ea013d2dcf148d145d03a118ada"
+}

@@ -1,0 +1,13 @@
+{
+    "urlName": "horc-helm",
+    "url": "http://aqwwiki.wikidot.com/horc-helm",
+    "name": "Horc (Helm)",
+    "type": "helmets_&_hoods",
+    "description": "A helm that magically makes you take on the appearance of a Horc. Very handy for infiltrating the Fort.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/S1z9YKE.png"
+    ],
+    "hash": "21b19eeb79e079818dce944a26d07599"
+}

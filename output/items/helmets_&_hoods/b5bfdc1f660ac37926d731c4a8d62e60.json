@@ -1,0 +1,15 @@
+{
+    "urlName": "chaos-slayer-helm",
+    "url": "http://aqwwiki.wikidot.com/chaos-slayer-helm",
+    "name": "Chaos Slayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm is covered in the remains of the monsters you have slain! With every step you take, you show chaos that you are the one to be feared!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/jo112R1.png"
+    ],
+    "hash": "b5bfdc1f660ac37926d731c4a8d62e60"
+}

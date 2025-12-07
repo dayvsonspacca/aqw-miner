@@ -1,0 +1,16 @@
+{
+    "urlName": "astrum-vela-locks",
+    "url": "http://aqwwiki.wikidot.com/astrum-vela-locks",
+    "name": "Astrum Vela Locks",
+    "type": "helmets_&_hoods",
+    "description": "Most Astrum Vela disciples are related by blood. Blue hair and the natural ability to sense lies was given to their shared ancestor by a passing comet.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/lD49qeJ.png"
+    ],
+    "hash": "233d0d9de19615ceed3e6f89c4c3042d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "pancake-hat",
+    "url": "http://aqwwiki.wikidot.com/pancake-hat",
+    "name": "Pancake Hat",
+    "type": "helmets_&_hoods",
+    "description": "Simple and elegant. Well, simple at any rate.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/VhJrsqa.png"
+    ],
+    "hash": "c238e12c9e7e1510f86a3970d8867a20"
+}

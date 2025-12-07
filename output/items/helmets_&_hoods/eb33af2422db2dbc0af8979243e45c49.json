@@ -1,0 +1,15 @@
+{
+    "urlName": "burning-souleater-helm",
+    "url": "http://aqwwiki.wikidot.com/burning-souleater-helm",
+    "name": "Burning Souleater (Helm)",
+    "type": "helmets_&_hoods",
+    "description": "Your head is morphed into a Souleater! You have a sudden craving for flies!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/5DH5WZb.png"
+    ],
+    "hash": "eb33af2422db2dbc0af8979243e45c49"
+}

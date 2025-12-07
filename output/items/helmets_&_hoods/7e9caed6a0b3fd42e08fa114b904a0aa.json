@@ -1,0 +1,16 @@
+{
+    "urlName": "chronobound-headset-locks",
+    "url": "http://aqwwiki.wikidot.com/chronobound-headset-locks",
+    "name": "Chronobound Headset + Locks",
+    "type": "helmets_&_hoods",
+    "description": "By collecting and storing the polarized light emitted by the wormholes you discover, you're able to fuel your travels through the timestreams that make up our universe!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Dms3Uyb.png"
+    ],
+    "hash": "7e9caed6a0b3fd42e08fa114b904a0aa"
+}

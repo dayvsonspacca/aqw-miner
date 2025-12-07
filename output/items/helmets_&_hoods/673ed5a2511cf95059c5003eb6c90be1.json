@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-the-honorbound",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-honorbound",
+    "name": "Helm of the Honorbound",
+    "type": "helmets_&_hoods",
+    "description": "Those who fighting shall know no other calling besides the call of honor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-the-honorbound/HelmoftheHonorbound.png"
+    ],
+    "hash": "673ed5a2511cf95059c5003eb6c90be1"
+}

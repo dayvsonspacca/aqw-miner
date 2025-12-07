@@ -1,0 +1,15 @@
+{
+    "urlName": "miners-helm",
+    "url": "http://aqwwiki.wikidot.com/miners-helm",
+    "name": "Miners Helm",
+    "type": "helmets_&_hoods",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7GkCQZE.png"
+    ],
+    "hash": "bb1b33f96fff5ff82d2f8fde76d18aad"
+}

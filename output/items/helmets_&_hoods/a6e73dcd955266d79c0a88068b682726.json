@@ -1,0 +1,16 @@
+{
+    "urlName": "tactical-agent-bravo-helm",
+    "url": "http://aqwwiki.wikidot.com/tactical-agent-bravo-helm",
+    "name": "Tactical Agent Bravo Helm",
+    "type": "helmets_&_hoods",
+    "description": "A tactical squad prepared demolish all threats, whether it's an emergency at some haunted house or a massive breakout of rabies in a big city. These star agents can handle it all.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xDjAo7d.png"
+    ],
+    "hash": "a6e73dcd955266d79c0a88068b682726"
+}

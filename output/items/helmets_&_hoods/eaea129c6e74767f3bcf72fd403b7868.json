@@ -1,0 +1,17 @@
+{
+    "urlName": "frostbreath-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/frostbreath-helm-ac",
+    "name": "Frostbreath Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The frozen Northlands builds the fiercest warriors. No amount of cold will stop these generals from conquering.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/CLc6ypZ.png",
+        "https://imgur.com/yHAAQas.png"
+    ],
+    "hash": "eaea129c6e74767f3bcf72fd403b7868"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-sorceress-hat",
+    "url": "http://aqwwiki.wikidot.com/dark-sorceress-hat",
+    "name": "Dark Sorceress Hat",
+    "type": "helmets_&_hoods",
+    "description": "This type of forest hat is unaffected by any weather condition. They are worn by dark sorcerers to protect their heads, but because they are constantly stiff, it does get rather uncomfortable over time. To prevent this discomfort happening to you, always check the size.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-sorceress-hat/DSHat.png"
+    ],
+    "hash": "b4dd586a11a28b602ae45a60c3508506"
+}

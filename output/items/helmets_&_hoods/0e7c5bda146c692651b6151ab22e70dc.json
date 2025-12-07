@@ -1,0 +1,16 @@
+{
+    "urlName": "doommage-helmet",
+    "url": "http://aqwwiki.wikidot.com/doommage-helmet",
+    "name": "DoomMage Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Malevolence shows its face in many forms. (3% chance to do shadowburst animation and 15% rep boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/UVBk7cs.png",
+        "http://i.imgur.com/sTNiyWL.png"
+    ],
+    "hash": "0e7c5bda146c692651b6151ab22e70dc"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "coolmint-flopper",
+    "url": "http://aqwwiki.wikidot.com/coolmint-flopper",
+    "name": "Coolmint Flopper",
+    "type": "helmets_&_hoods",
+    "description": "Wear this, you'll look dapper as a flopper.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/0Klc5zd.png"
+    ],
+    "hash": "3fcfcc95f1cd45b1f997395217debe58"
+}

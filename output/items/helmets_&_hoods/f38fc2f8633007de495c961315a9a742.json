@@ -1,0 +1,16 @@
+{
+    "urlName": "bearded-cryptkeeper",
+    "url": "http://aqwwiki.wikidot.com/bearded-cryptkeeper",
+    "name": "Bearded CryptKeeper",
+    "type": "helmets_&_hoods",
+    "description": "The cryptkeeper trainees have little interest in their outward appearances because after their corruption takes its toll, they will not matter. One styled their hair after the long-gone banished prince, Drakath.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bearded-cryptkeeper/BeardedCryptkeeper.png"
+    ],
+    "hash": "f38fc2f8633007de495c961315a9a742"
+}

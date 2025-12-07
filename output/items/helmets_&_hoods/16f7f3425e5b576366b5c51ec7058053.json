@@ -1,0 +1,16 @@
+{
+    "urlName": "octopus-captain-hat",
+    "url": "http://aqwwiki.wikidot.com/octopus-captain-hat",
+    "name": "Octopus Captain Hat",
+    "type": "helmets_&_hoods",
+    "description": "Only a true ship's captain can wear the Octopus!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/octopus-captain-hat/OctopusCaptainHat.png"
+    ],
+    "hash": "16f7f3425e5b576366b5c51ec7058053"
+}

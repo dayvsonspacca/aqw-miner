@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-on-fire",
+    "url": "http://aqwwiki.wikidot.com/helm-on-fire",
+    "name": "Helm on Fire",
+    "type": "helmets_&_hoods",
+    "description": "You will ignite the world with your passion to be the best. All those that stand in your path will fall!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-on-fire/HelmonFire.png"
+    ],
+    "hash": "7d3ba020444231732de54c19f5ccaed7"
+}

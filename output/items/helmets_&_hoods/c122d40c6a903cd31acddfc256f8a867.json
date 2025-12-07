@@ -1,0 +1,16 @@
+{
+    "urlName": "deathmask-ac",
+    "url": "http://aqwwiki.wikidot.com/deathmask-ac",
+    "name": "DeathMask (AC)",
+    "type": "helmets_&_hoods",
+    "description": "You're a Death Rider. You're a freak. You're on a wicked killing streak. Now go out there and show the world who's boss. (This item has a 30% chance to do the Shadowburst attack animation.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathmask-ac/DeathMask.png"
+    ],
+    "hash": "c122d40c6a903cd31acddfc256f8a867"
+}

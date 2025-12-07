@@ -1,0 +1,17 @@
+{
+    "urlName": "deathrider-locks-ac",
+    "url": "http://aqwwiki.wikidot.com/deathrider-locks-ac",
+    "name": "DeathRider Locks (AC)",
+    "type": "helmets_&_hoods",
+    "description": "You're a Death Rider. You're a freak. You're on a wicked killing streak. Now go out there and show the world who's boss. (This item has a 30% chance to do the Shadowburst attack animation.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathrider-locks-ac/DeathRiderLocks.png",
+        "http://aqwwiki.wdfiles.com/local--files/deathrider-locks-ac/DeathRiderLocksAnimation.png"
+    ],
+    "hash": "29487f344a46520e5988647e5e2ea611"
+}

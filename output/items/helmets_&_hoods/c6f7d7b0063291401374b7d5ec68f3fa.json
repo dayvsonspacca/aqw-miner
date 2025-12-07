@@ -1,0 +1,16 @@
+{
+    "urlName": "paper-bag-head",
+    "url": "http://aqwwiki.wikidot.com/paper-bag-head",
+    "name": "Paper Bag Head",
+    "type": "helmets_&_hoods",
+    "description": "I am a Paper Bag Helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paper-bag-head/PaperBagHead.png"
+    ],
+    "hash": "c6f7d7b0063291401374b7d5ec68f3fa"
+}

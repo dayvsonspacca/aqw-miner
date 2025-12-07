@@ -1,0 +1,16 @@
+{
+    "urlName": "gothika-locks",
+    "url": "http://aqwwiki.wikidot.com/gothika-locks",
+    "name": "Gothika Locks",
+    "type": "helmets_&_hoods",
+    "description": "This hair will make everyone say oh my goth!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gothika-locks/GothikaLocks.png"
+    ],
+    "hash": "1f422eeca5b253e1beab9f4e29d6bf40"
+}

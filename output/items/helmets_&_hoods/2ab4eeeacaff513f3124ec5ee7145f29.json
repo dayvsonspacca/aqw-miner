@@ -1,0 +1,16 @@
+{
+    "urlName": "derp-star-helm",
+    "url": "http://aqwwiki.wikidot.com/derp-star-helm",
+    "name": "Derp Star Helm",
+    "type": "helmets_&_hoods",
+    "description": "It's alive and gumming at your head. Stars don't have teeth so you're pretty much safe.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cjM31sd.png"
+    ],
+    "hash": "2ab4eeeacaff513f3124ec5ee7145f29"
+}

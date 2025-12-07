@@ -1,0 +1,16 @@
+{
+    "urlName": "paragon-tricorn-locks",
+    "url": "http://aqwwiki.wikidot.com/paragon-tricorn-locks",
+    "name": "Paragon Tricorn Locks",
+    "type": "helmets_&_hoods",
+    "description": "A once-prized and noble hat has over time been twisted with shadow and strife after being worn by a ghost that hunted a grotto rumored to be a secret entrance to the underworld.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paragon-tricorn-locks/ParagonTricornLocks.png"
+    ],
+    "hash": "afe0d99eb6e8ef6d4cb9f9912de72c4b"
+}

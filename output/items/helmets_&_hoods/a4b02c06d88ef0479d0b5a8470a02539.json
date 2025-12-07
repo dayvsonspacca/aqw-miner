@@ -1,0 +1,15 @@
+{
+    "urlName": "miner-helm",
+    "url": "http://aqwwiki.wikidot.com/miner-helm",
+    "name": "Miner Helm",
+    "type": "helmets_&_hoods",
+    "description": "There's gold in them thar Crows\u2026 in their teeth. LET'S KNOCK 'EM OUT!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/miner-helm/MinerHelm.png"
+    ],
+    "hash": "a4b02c06d88ef0479d0b5a8470a02539"
+}

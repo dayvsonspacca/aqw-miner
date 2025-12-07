@@ -1,0 +1,16 @@
+{
+    "urlName": "seaweed-hat",
+    "url": "http://aqwwiki.wikidot.com/seaweed-hat",
+    "name": "Seaweed Hat",
+    "type": "helmets_&_hoods",
+    "description": "A hearty sailor's hat found at the bottom of Davy Jones' Locker. Wonder who it belonged to..?",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/seaweed-hat/SeaweedHat.png"
+    ],
+    "hash": "dda3fd51632b2aa727defdba6b8e7e0c"
+}

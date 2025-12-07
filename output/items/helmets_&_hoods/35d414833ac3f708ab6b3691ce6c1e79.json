@@ -1,0 +1,16 @@
+{
+    "urlName": "delta-v-open-pilot",
+    "url": "http://aqwwiki.wikidot.com/delta-v-open-pilot",
+    "name": "Delta V Open Pilot",
+    "type": "helmets_&_hoods",
+    "description": "Only the most gallant of pilots are able to navigate through frozen tundra of the Frysteland to the narrow caverns of the Infernal Mines.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Yv2r3nI.png"
+    ],
+    "hash": "35d414833ac3f708ab6b3691ce6c1e79"
+}

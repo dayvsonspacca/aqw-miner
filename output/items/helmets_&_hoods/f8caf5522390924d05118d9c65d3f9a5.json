@@ -1,0 +1,16 @@
+{
+    "urlName": "paragon-of-light-helm",
+    "url": "http://aqwwiki.wikidot.com/paragon-of-light-helm",
+    "name": "Paragon of Light Helm",
+    "type": "helmets_&_hoods",
+    "description": "Because it is made in the likeness of Dage the Evil, the helmet may seem intimidating at first. If you look closely, it actually houses a small portion of the sun. Its light is the reason for its golden color.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paragon-of-light-helm/ParagonofLightHelm.png"
+    ],
+    "hash": "f8caf5522390924d05118d9c65d3f9a5"
+}

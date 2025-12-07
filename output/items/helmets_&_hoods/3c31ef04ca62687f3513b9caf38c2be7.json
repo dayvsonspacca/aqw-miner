@@ -1,0 +1,15 @@
+{
+    "urlName": "mad-scientist-locks",
+    "url": "http://aqwwiki.wikidot.com/mad-scientist-locks",
+    "name": "Mad Scientist Locks",
+    "type": "helmets_&_hoods",
+    "description": "Ideal for mad scientists whose hair needs a couple of straps to keep away from any liquid that's not conditioner.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/Q5OyZZ1.png"
+    ],
+    "hash": "3c31ef04ca62687f3513b9caf38c2be7"
+}

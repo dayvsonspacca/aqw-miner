@@ -1,0 +1,16 @@
+{
+    "urlName": "hungry-pumpking-helm",
+    "url": "http://aqwwiki.wikidot.com/hungry-pumpking-helm",
+    "name": "Hungry Pumpking Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm will carve your face!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hwWmvq2.png"
+    ],
+    "hash": "e16ecaabb0eba007d8d75569b4bfc23b"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "laken-helm",
+    "url": "http://aqwwiki.wikidot.com/laken-helm",
+    "name": "Laken Helm",
+    "type": "helmets_&_hoods",
+    "description": "The helmet of a Legion member from the future, who has returned to aid his master!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/laken-helm/LakenHelm.png"
+    ],
+    "hash": "00c2498f938a739a9eff438421441dac"
+}

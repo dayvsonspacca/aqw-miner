@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-dragonrune-diadem",
+    "url": "http://aqwwiki.wikidot.com/prismatic-dragonrune-diadem",
+    "name": "Prismatic Dragonrune Diadem",
+    "type": "helmets_&_hoods",
+    "description": "The Sorting Helm allows you to decide what Dragonrune house you will preside in.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-dragonrune-diadem/PrismaticDragonruneDiadem.png"
+    ],
+    "hash": "49e0443edd96654034b800c2cf96e120"
+}

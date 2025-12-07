@@ -1,0 +1,17 @@
+{
+    "urlName": "mustached-chef-hat",
+    "url": "http://aqwwiki.wikidot.com/mustached-chef-hat",
+    "name": "Mustached Chef Hat",
+    "type": "helmets_&_hoods",
+    "description": "This chef hat lets you grow an ample mustache\u2026 because yes, it is really that cool!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/BnzFvoH.png"
+    ],
+    "hash": "814a67e68af6b7b5dc48834dcba6d3b9"
+}

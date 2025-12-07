@@ -1,0 +1,15 @@
+{
+    "urlName": "bearded-dead-knight-helm",
+    "url": "http://aqwwiki.wikidot.com/bearded-dead-knight-helm",
+    "name": "Bearded Dead Knight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Found in a pile of bones and armor from an ancient invading army, this helm still has a full skull with a VERY full beard attached inside of it. Are you sure you want to wear that?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bearded-dead-knight-helm/BeardedDeadKnightHelm.png"
+    ],
+    "hash": "1861aff548ab3aede6bd797b72cda78b"
+}

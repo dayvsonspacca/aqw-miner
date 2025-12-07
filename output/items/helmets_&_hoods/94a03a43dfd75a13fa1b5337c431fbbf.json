@@ -1,0 +1,15 @@
+{
+    "urlName": "heart-for-hermes-helm",
+    "url": "http://aqwwiki.wikidot.com/heart-for-hermes-helm",
+    "name": "Heart For Hermes Helm",
+    "type": "helmets_&_hoods",
+    "description": "A Hermes helm for the hero.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/heart-for-hermes-helm/HeartForHermesHelm.png"
+    ],
+    "hash": "94a03a43dfd75a13fa1b5337c431fbbf"
+}

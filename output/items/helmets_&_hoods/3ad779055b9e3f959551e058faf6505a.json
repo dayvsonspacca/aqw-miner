@@ -1,0 +1,15 @@
+{
+    "urlName": "arctic-invader-helm",
+    "url": "http://aqwwiki.wikidot.com/arctic-invader-helm",
+    "name": "Arctic Invader Helm",
+    "type": "helmets_&_hoods",
+    "description": "You are ready to explore the Northlands!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/hr5zKht.png"
+    ],
+    "hash": "3ad779055b9e3f959551e058faf6505a"
+}

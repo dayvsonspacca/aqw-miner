@@ -1,0 +1,16 @@
+{
+    "urlName": "giftbox-helm-2020-b",
+    "url": "http://aqwwiki.wikidot.com/giftbox-helm-2020-b",
+    "name": "Giftbox Helm 2020 B",
+    "type": "helmets_&_hoods",
+    "description": "Festive Frostval! These giftboxes will NOT open.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ELNS6cT.png"
+    ],
+    "hash": "5cfdf15c3d2a0d9b846b6eca9db4883e"
+}

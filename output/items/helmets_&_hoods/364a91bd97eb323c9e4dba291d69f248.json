@@ -1,0 +1,15 @@
+{
+    "urlName": "blood-hawk-helm",
+    "url": "http://aqwwiki.wikidot.com/blood-hawk-helm",
+    "name": "Blood Hawk Helm",
+    "type": "helmets_&_hoods",
+    "description": "For fans of the Blood Hawk team.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-hawk-helm/BloodHawkHelm.png"
+    ],
+    "hash": "364a91bd97eb323c9e4dba291d69f248"
+}

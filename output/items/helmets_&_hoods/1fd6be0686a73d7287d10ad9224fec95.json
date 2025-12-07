@@ -1,0 +1,16 @@
+{
+    "urlName": "gelid-locks",
+    "url": "http://aqwwiki.wikidot.com/gelid-locks",
+    "name": "Gelid Locks",
+    "type": "helmets_&_hoods",
+    "description": "You will always keep your cool in this helm.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/cKAJWvf.png"
+    ],
+    "hash": "1fd6be0686a73d7287d10ad9224fec95"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowed-drow-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/shadowed-drow-helm-ac",
+    "name": "Shadowed Drow Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Nothing escapes your gaze. You can spot a dead man from a thousand paces. And if he's not dead, well, you can fix that.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/59efIKT.png"
+    ],
+    "hash": "f08768ffcf4c0fb10e500a67903bfe1a"
+}

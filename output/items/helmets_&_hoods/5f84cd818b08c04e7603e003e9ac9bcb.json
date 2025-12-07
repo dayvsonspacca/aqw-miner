@@ -1,0 +1,16 @@
+{
+    "urlName": "carbon-warrior-helm",
+    "url": "http://aqwwiki.wikidot.com/carbon-warrior-helm",
+    "name": "Carbon Warrior Helm",
+    "type": "helmets_&_hoods",
+    "description": "This stark helm will terrorize your opponents when they try to stare you down. NO ONE outmatches an Iron Warrior!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/carbon-warrior-helm/CarbonWarriorHelm.png"
+    ],
+    "hash": "5f84cd818b08c04e7603e003e9ac9bcb"
+}

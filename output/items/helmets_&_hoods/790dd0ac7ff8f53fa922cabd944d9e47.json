@@ -1,0 +1,16 @@
+{
+    "urlName": "sombrero",
+    "url": "http://aqwwiki.wikidot.com/sombrero",
+    "name": "Sombrero",
+    "type": "helmets_&_hoods",
+    "description": "Made of the finest felt, this Sombrero has seen many adventures. It has been cursed, caught on fire, shot, and in one instance bitten. What adventures will you take it on? Happy Cinco de Mayo!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/gWHMA8q.png"
+    ],
+    "hash": "790dd0ac7ff8f53fa922cabd944d9e47"
+}

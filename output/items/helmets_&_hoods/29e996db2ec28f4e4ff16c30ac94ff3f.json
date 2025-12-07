@@ -1,0 +1,17 @@
+{
+    "urlName": "bearded-centaur-guard-helm",
+    "url": "http://aqwwiki.wikidot.com/bearded-centaur-guard-helm",
+    "name": "Bearded Centaur Guard Helm",
+    "type": "helmets_&_hoods",
+    "description": "Centaur warriors have long been some of Lore's fiercest and fastest fighters.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bearded-centaur-guard-helm/BeardedCentaurGuardHelm.png"
+    ],
+    "hash": "29e996db2ec28f4e4ff16c30ac94ff3f"
+}

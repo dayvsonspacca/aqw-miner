@@ -1,0 +1,16 @@
+{
+    "urlName": "knight-great-helm",
+    "url": "http://aqwwiki.wikidot.com/knight-great-helm",
+    "name": "Knight Great Helm",
+    "type": "helmets_&_hoods",
+    "description": "The classic knight, straight out of a fairy tale or chivalric legend, are hard to come by these days.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Uc3qbpF.png"
+    ],
+    "hash": "87153a45b4aed81d8f59d62de25ca53f"
+}

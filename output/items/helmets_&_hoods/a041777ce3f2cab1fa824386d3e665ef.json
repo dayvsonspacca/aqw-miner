@@ -1,0 +1,15 @@
+{
+    "urlName": "collector-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/collector-helm-ac",
+    "name": "Collector Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Last time you beat the Collector, now you are him! Bigger in the inside dome sold separately.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/KhYOHzq.png"
+    ],
+    "hash": "a041777ce3f2cab1fa824386d3e665ef"
+}

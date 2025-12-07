@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-claws-helm",
+    "url": "http://aqwwiki.wikidot.com/chaos-claws-helm",
+    "name": "Chaos Claws Helm",
+    "type": "helmets_&_hoods",
+    "description": "While this helm may not make you very jolly, it will certainly make your enemies think twice before action",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-claws-helm/ChaosClawsHelm.png"
+    ],
+    "hash": "a2b2646cc1e94620c46a096699483130"
+}

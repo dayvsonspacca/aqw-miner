@@ -1,0 +1,15 @@
+{
+    "urlName": "imperial-guard-helm",
+    "url": "http://aqwwiki.wikidot.com/imperial-guard-helm",
+    "name": "Imperial Guard Helm",
+    "type": "helmets_&_hoods",
+    "description": "As the name suggests, this helm was once worn by the Imperial Guards on Yokai Island. No one will ever question your authority ever again.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/imperial-guard-helm/IGH.png"
+    ],
+    "hash": "8ece597a207e641fa3f81b1e837cc362"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "bearded-sapphire-helm",
+    "url": "http://aqwwiki.wikidot.com/bearded-sapphire-helm",
+    "name": "Bearded Sapphire Helm",
+    "type": "helmets_&_hoods",
+    "description": "The undaunted courage of a Sapphire Knight is not something fit for everyone.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bearded-sapphire-helm/BSH.png"
+    ],
+    "hash": "e49c5f72aa11a119c834e257658f1594"
+}

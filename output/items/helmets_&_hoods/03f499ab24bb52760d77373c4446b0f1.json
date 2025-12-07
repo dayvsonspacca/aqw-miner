@@ -1,0 +1,16 @@
+{
+    "urlName": "gilded-togrulek-helm",
+    "url": "http://aqwwiki.wikidot.com/gilded-togrulek-helm",
+    "name": "Gilded Togrulek Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Mog is strong with this one.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gilded-togrulek-helm/GildedTogrulekHelm.png"
+    ],
+    "hash": "03f499ab24bb52760d77373c4446b0f1"
+}

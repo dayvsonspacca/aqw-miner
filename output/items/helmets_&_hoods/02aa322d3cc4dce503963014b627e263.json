@@ -1,0 +1,16 @@
+{
+    "urlName": "oculus-ripped-helm",
+    "url": "http://aqwwiki.wikidot.com/oculus-ripped-helm",
+    "name": "Oculus Ripped Helm",
+    "type": "helmets_&_hoods",
+    "description": "Must obtain MARKER. (Item gives 20% more XP and Class Points when equipped.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oculus-ripped-helm/OculusRippedHelm.png"
+    ],
+    "hash": "02aa322d3cc4dce503963014b627e263"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "terror-guard",
+    "url": "http://aqwwiki.wikidot.com/terror-guard",
+    "name": "Terror Guard",
+    "type": "helmets_&_hoods",
+    "description": "This alien looking helmet is said to infuse it's user with an unnatural desire for battle. Almost transforming it's host into a true monster. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/mAmvz6w.png",
+        "http://aqwwiki.wdfiles.com/local--files/terror-guard/TerrorGuardOld.png"
+    ],
+    "hash": "a468941c15f93a128037b1afdcd42ee3"
+}

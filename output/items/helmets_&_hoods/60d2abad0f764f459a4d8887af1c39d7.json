@@ -1,0 +1,14 @@
+{
+    "urlName": "glacial-envoy-s-helm",
+    "url": "http://aqwwiki.wikidot.com/glacial-envoy-s-helm",
+    "name": "Glacial Envoy's Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Warriors of Kyanos have very special gear to help handle the cold as they battle through the icy lands of Glacera.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/Vy9eF96.png",
+        "https://i.imgur.com/TRFsqqa.png"
+    ],
+    "hash": "60d2abad0f764f459a4d8887af1c39d7"
+}

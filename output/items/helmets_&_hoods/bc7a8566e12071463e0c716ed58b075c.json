@@ -1,0 +1,15 @@
+{
+    "urlName": "rabbit-morph",
+    "url": "http://aqwwiki.wikidot.com/rabbit-morph",
+    "name": "Rabbit Morph",
+    "type": "helmets_&_hoods",
+    "description": "Your head has been polymorphed into a rabbit's head. You have a craving for carrots. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/P2QUj9E.png"
+    ],
+    "hash": "bc7a8566e12071463e0c716ed58b075c"
+}

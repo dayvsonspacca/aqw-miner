@@ -1,0 +1,16 @@
+{
+    "urlName": "frostval-dragonslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/frostval-dragonslayer-helm",
+    "name": "Frostval DragonSlayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "RAAAAWR! Even DragonSlayers like to look festive during the holidays.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/XAdorZ6.png"
+    ],
+    "hash": "2e4375432046f4afb6016739df9b6334"
+}

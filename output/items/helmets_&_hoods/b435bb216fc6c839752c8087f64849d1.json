@@ -1,0 +1,15 @@
+{
+    "urlName": "exoskeletal-hair",
+    "url": "http://aqwwiki.wikidot.com/exoskeletal-hair",
+    "name": "ExoSkeletal Hair",
+    "type": "helmets_&_hoods",
+    "description": "Much more durable and heart-stopping than an average skull. Plus, it comes with enhanced night vision.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/exoskeletal-hair/ExoskeletalHair.png"
+    ],
+    "hash": "b435bb216fc6c839752c8087f64849d1"
+}

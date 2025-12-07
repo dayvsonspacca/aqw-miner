@@ -1,0 +1,16 @@
+{
+    "urlName": "sambista-helm",
+    "url": "http://aqwwiki.wikidot.com/sambista-helm",
+    "name": "Sambista Helm",
+    "type": "helmets_&_hoods",
+    "description": "Vamos, Sambista: \u00e9 hora de dan\u00e7ar, festejar, lutar! For\u00e7a!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/NuRGcrw.png"
+    ],
+    "hash": "53227926f56b09d85e351c6b8506452c"
+}

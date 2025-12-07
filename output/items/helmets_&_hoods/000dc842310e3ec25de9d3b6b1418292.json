@@ -1,0 +1,16 @@
+{
+    "urlName": "gearslinger-hat",
+    "url": "http://aqwwiki.wikidot.com/gearslinger-hat",
+    "name": "Gearslinger Hat",
+    "type": "helmets_&_hoods",
+    "description": "That ace he keeps in the brim is just a distraction. He's got another one up his sleeve.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gearslinger-hat/GearslingerHat.png"
+    ],
+    "hash": "000dc842310e3ec25de9d3b6b1418292"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "popcorn-mask",
+    "url": "http://aqwwiki.wikidot.com/popcorn-mask",
+    "name": "Popcorn Mask",
+    "type": "helmets_&_hoods",
+    "description": "Freshly popped corn seasoned with dandruff.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/GWMZdQU.png",
+        "https://i.imgur.com/pbmQTPD.png"
+    ],
+    "hash": "0ff0a2d7a8d0ab0b24a4415788afc256"
+}

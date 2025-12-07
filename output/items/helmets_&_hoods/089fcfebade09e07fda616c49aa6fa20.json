@@ -1,0 +1,16 @@
+{
+    "urlName": "guardian-s-cowl",
+    "url": "http://aqwwiki.wikidot.com/guardian-s-cowl",
+    "name": "Guardian's Cowl",
+    "type": "helmets_&_hoods",
+    "description": "As a guardian of the Forgotten Tombs, Vokun was tasked with being a representative of the sacred tombs. As a guardian of the tombs, you devote your life to its protection. To prove their royalty, they all wear the same cowl, to show that they and the tombs are one and the same.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/guardian-s-cowl/Guardian'sCowl.png"
+    ],
+    "hash": "089fcfebade09e07fda616c49aa6fa20"
+}

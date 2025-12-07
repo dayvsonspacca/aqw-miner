@@ -1,0 +1,16 @@
+{
+    "urlName": "glare-of-the-permafrost",
+    "url": "http://aqwwiki.wikidot.com/glare-of-the-permafrost",
+    "name": "Glare of the Permafrost",
+    "type": "helmets_&_hoods",
+    "description": "Gaze down on your enemies through cold, blue eyes, freezing them in place as you cut them down. Enjoy knowing that the last thing they saw were your cold, unfeeling eyes.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glare-of-the-permafrost/GlareofthePermafrost.png"
+    ],
+    "hash": "8666bb1217b7fdb1add305b1521ae016"
+}

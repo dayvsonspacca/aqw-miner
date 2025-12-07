@@ -1,0 +1,16 @@
+{
+    "urlName": "locks-of-granite",
+    "url": "http://aqwwiki.wikidot.com/locks-of-granite",
+    "name": "Locks of Granite",
+    "type": "helmets_&_hoods",
+    "description": "Rocky steady.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/locks-of-granite/LG.png"
+    ],
+    "hash": "534b3b0855456a92988d576c8bdd6c10"
+}

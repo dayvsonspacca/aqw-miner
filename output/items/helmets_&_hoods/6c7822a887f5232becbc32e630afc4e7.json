@@ -1,0 +1,17 @@
+{
+    "urlName": "brightfall-locks",
+    "url": "http://aqwwiki.wikidot.com/brightfall-locks",
+    "name": "BrightFall Locks",
+    "type": "helmets_&_hoods",
+    "description": "The virtuous hair of the commanders.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brightfall-locks/BrightfallLocks.png"
+    ],
+    "hash": "6c7822a887f5232becbc32e630afc4e7"
+}

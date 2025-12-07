@@ -1,0 +1,16 @@
+{
+    "urlName": "matchmaker-lagomorph",
+    "url": "http://aqwwiki.wikidot.com/matchmaker-lagomorph",
+    "name": "MatchMaker LagoMorph",
+    "type": "helmets_&_hoods",
+    "description": "No hero will be able to resist your matchmaking machinations when invite them to join you on your next adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/isqWNWD.png"
+    ],
+    "hash": "993badbf32f403bf0dcc06021709b2f4"
+}

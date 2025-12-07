@@ -1,0 +1,15 @@
+{
+    "urlName": "the-mistress-hat",
+    "url": "http://aqwwiki.wikidot.com/the-mistress-hat",
+    "name": "The Mistress' Hat",
+    "type": "helmets_&_hoods",
+    "description": "Say something nice.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-mistress-hat/TheMistressHat.png"
+    ],
+    "hash": "ef2160c4947e347c6c56ad7cbf6c1e70"
+}

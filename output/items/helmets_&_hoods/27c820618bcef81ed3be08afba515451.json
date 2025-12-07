@@ -1,0 +1,16 @@
+{
+    "urlName": "nax-s-hood",
+    "url": "http://aqwwiki.wikidot.com/nax-s-hood",
+    "name": "Nax's Hood",
+    "type": "helmets_&_hoods",
+    "description": "An insulated hood to keep you frosty.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nax-s-hood/HoodedNaxSkull.png"
+    ],
+    "hash": "27c820618bcef81ed3be08afba515451"
+}

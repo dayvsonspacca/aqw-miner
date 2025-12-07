@@ -1,0 +1,16 @@
+{
+    "urlName": "magmamancer-s-guard",
+    "url": "http://aqwwiki.wikidot.com/magmamancer-s-guard",
+    "name": "Magmamancer's Guard",
+    "type": "helmets_&_hoods",
+    "description": "This helmet completes the Magmamancer's magically reinforced armor, which can withstand hellish heat and unimaginable pressure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/magmamancer-s-guard/Magmamancer'sGuard.png"
+    ],
+    "hash": "e7d6c601f39a95038caabcffa5751ccb"
+}

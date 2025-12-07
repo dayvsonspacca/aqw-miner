@@ -1,0 +1,16 @@
+{
+    "urlName": "deathbringer-helm",
+    "url": "http://aqwwiki.wikidot.com/deathbringer-helm",
+    "name": "DeathBringer Helm",
+    "type": "helmets_&_hoods",
+    "description": "All I see is death and decay in your near future.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathbringer-helm/DeathbringerHelm.png"
+    ],
+    "hash": "10508158aba97a92a1232edbb472caa2"
+}

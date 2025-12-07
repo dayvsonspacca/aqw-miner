@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-druid-horned-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-druid-horned-helm",
+    "name": "Dark Druid Horned-helm",
+    "type": "helmets_&_hoods",
+    "description": "The typical ram's-horn helm worm by Dark Druids who have reached the master level of their evil practices.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-druid-horned-helm/DarkDruidHorned-helm.png"
+    ],
+    "hash": "14c8b5166ad3d7f6b2755c6a7dfd60df"
+}

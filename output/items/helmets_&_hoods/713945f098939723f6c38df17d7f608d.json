@@ -1,0 +1,16 @@
+{
+    "urlName": "pumpkin-deviant-helmet",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-deviant-helmet",
+    "name": "Pumpkin Deviant Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Your head is transformed into a sinister pumpkin head.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/zDphLq6.png"
+    ],
+    "hash": "713945f098939723f6c38df17d7f608d"
+}

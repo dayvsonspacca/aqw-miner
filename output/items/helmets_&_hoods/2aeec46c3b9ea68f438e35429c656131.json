@@ -1,0 +1,15 @@
+{
+    "urlName": "vaxen-minion-hood",
+    "url": "http://aqwwiki.wikidot.com/vaxen-minion-hood",
+    "name": "Vaxen Minion Hood",
+    "type": "helmets_&_hoods",
+    "description": "Even minions can afford to look stylish sometimes. As long as they're not in blue overalls.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vaxen-minion-hood/VMH.png"
+    ],
+    "hash": "2aeec46c3b9ea68f438e35429c656131"
+}

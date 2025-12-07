@@ -1,0 +1,16 @@
+{
+    "urlName": "port-a-pwnzor-helm",
+    "url": "http://aqwwiki.wikidot.com/port-a-pwnzor-helm",
+    "name": "Port-A-Pwnzor Helm",
+    "type": "helmets_&_hoods",
+    "description": "Have a Potty mouth? Yes, yes you do.",
+    "rarity": "Crazy Rarity",
+    "tags": [
+        "Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/qapJlBl.png"
+    ],
+    "hash": "b2bd76c4276bf00ffa737b603696e47f"
+}

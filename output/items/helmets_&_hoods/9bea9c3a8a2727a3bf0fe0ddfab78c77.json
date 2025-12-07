@@ -1,0 +1,16 @@
+{
+    "urlName": "deepdweller-sea-hat",
+    "url": "http://aqwwiki.wikidot.com/deepdweller-sea-hat",
+    "name": "DeepDweller Sea Hat",
+    "type": "helmets_&_hoods",
+    "description": "Aye, the sails are set for R'lyeh! The Great Old One waits. Cthulhu fhtagn.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Pjv3EQ7.png"
+    ],
+    "hash": "9bea9c3a8a2727a3bf0fe0ddfab78c77"
+}

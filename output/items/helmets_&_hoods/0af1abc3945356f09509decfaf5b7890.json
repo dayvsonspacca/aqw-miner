@@ -1,0 +1,16 @@
+{
+    "urlName": "giftbox-helm-2022",
+    "url": "http://aqwwiki.wikidot.com/giftbox-helm-2022",
+    "name": "Giftbox Helm 2022",
+    "type": "helmets_&_hoods",
+    "description": "Happy Frostval 2022! These giftboxes will NOT open.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kYTPMjm.png"
+    ],
+    "hash": "0af1abc3945356f09509decfaf5b7890"
+}

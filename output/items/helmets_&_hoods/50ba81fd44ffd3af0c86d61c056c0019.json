@@ -1,0 +1,16 @@
+{
+    "urlName": "skypiercer-turret-helm",
+    "url": "http://aqwwiki.wikidot.com/skypiercer-turret-helm",
+    "name": "Skypiercer Turret Helm",
+    "type": "helmets_&_hoods",
+    "description": "A flying weapon was refashioned into a wearable suit of armor, cool turret helmet included. Warning: you won't be able to see.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/61H8JuD.png"
+    ],
+    "hash": "50ba81fd44ffd3af0c86d61c056c0019"
+}

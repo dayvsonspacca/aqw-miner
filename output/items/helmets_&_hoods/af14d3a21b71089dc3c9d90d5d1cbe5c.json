@@ -1,0 +1,16 @@
+{
+    "urlName": "mediator-visor-legend",
+    "url": "http://aqwwiki.wikidot.com/mediator-visor-legend",
+    "name": "Mediator Visor (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "Built to withstand high altitudes, the streamline design increases aerodynamics while providing a great range of vision and defenses.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kl0XRfa.png"
+    ],
+    "hash": "af14d3a21b71089dc3c9d90d5d1cbe5c"
+}

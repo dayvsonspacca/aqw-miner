@@ -1,0 +1,16 @@
+{
+    "urlName": "silver-dragon-helm",
+    "url": "http://aqwwiki.wikidot.com/silver-dragon-helm",
+    "name": "Silver Dragon Helm",
+    "type": "helmets_&_hoods",
+    "description": "The bumished glow of this silver helm will recall good times sitting around the fire trading stories and jokes with your companions. A welcome distraction when you're mired in battle and bathed in blood.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/silver-dragon-helm/SilverDragonHelm.png"
+    ],
+    "hash": "a373d08a76d436c7ca166a5e3a6678d6"
+}

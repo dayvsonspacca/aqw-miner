@@ -1,0 +1,16 @@
+{
+    "urlName": "nightmare-helm",
+    "url": "http://aqwwiki.wikidot.com/nightmare-helm",
+    "name": "Nightmare Helm",
+    "type": "helmets_&_hoods",
+    "description": "Once thought to have caused knightmares, the Nightmare Helm forces the wearer to stay wide-awake, even in the late hours of night.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nightmare-helm/NightmareHelm.png"
+    ],
+    "hash": "a1930a1188294a2313a2635b384377e4"
+}

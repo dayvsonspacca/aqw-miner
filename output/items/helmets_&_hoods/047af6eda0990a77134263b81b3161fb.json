@@ -1,0 +1,16 @@
+{
+    "urlName": "reindeer-antlers",
+    "url": "http://aqwwiki.wikidot.com/reindeer-antlers",
+    "name": "Reindeer Antlers",
+    "type": "helmets_&_hoods",
+    "description": "Happy Frostval! Now you have your very own antlers.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/OFsQnts.png"
+    ],
+    "hash": "047af6eda0990a77134263b81b3161fb"
+}

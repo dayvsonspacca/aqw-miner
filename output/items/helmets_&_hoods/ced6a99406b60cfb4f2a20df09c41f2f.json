@@ -1,0 +1,15 @@
+{
+    "urlName": "doctorfez",
+    "url": "http://aqwwiki.wikidot.com/doctorfez",
+    "name": "DoctorFez",
+    "type": "helmets_&_hoods",
+    "description": "Fezzes are cool.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/qb06BQa.png"
+    ],
+    "hash": "ced6a99406b60cfb4f2a20df09c41f2f"
+}

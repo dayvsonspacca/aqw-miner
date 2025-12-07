@@ -1,0 +1,16 @@
+{
+    "urlName": "vv-pumpkin-hat",
+    "url": "http://aqwwiki.wikidot.com/vv-pumpkin-hat",
+    "name": "^vv^ Pumpkin Hat",
+    "type": "helmets_&_hoods",
+    "description": "^vv^",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Dy3BOnz.png"
+    ],
+    "hash": "a6b354bd25d0af5f4fd0bcb885d016a3"
+}

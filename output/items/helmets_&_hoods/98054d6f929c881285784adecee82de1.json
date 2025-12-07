@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-the-gourdian",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-gourdian",
+    "name": "Helm of the Gourdian",
+    "type": "helmets_&_hoods",
+    "description": "Gourdians have to look sharp on the pumpkin & battle fields. The color custom fringe assures victory in both combat and fashion.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/2Vq5krE.png"
+    ],
+    "hash": "98054d6f929c881285784adecee82de1"
+}

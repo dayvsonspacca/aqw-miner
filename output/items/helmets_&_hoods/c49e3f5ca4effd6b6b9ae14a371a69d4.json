@@ -1,0 +1,16 @@
+{
+    "urlName": "glorified-helm",
+    "url": "http://aqwwiki.wikidot.com/glorified-helm",
+    "name": "Glorified Helm",
+    "type": "helmets_&_hoods",
+    "description": "Immaculate wings and halo show everyone the Good in you.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glorified-helm/GlorifiedHelm.png"
+    ],
+    "hash": "c49e3f5ca4effd6b6b9ae14a371a69d4"
+}

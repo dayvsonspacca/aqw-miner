@@ -1,0 +1,18 @@
+{
+    "urlName": "dark-exosuit-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-exosuit-helm",
+    "name": "Dark ExoSuit Helm",
+    "type": "helmets_&_hoods",
+    "description": "*No description*",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BiQbnOI.png",
+        "https://i.imgur.com/E8nb6Rd.png",
+        "https://i.imgur.com/q2AUVcs.png"
+    ],
+    "hash": "8f0fe3ae35bcb5acf244a8a687c720c3"
+}

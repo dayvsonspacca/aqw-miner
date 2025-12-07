@@ -1,0 +1,15 @@
+{
+    "urlName": "horned-druid-helm",
+    "url": "http://aqwwiki.wikidot.com/horned-druid-helm",
+    "name": "Horned Druid Helm",
+    "type": "helmets_&_hoods",
+    "description": "Don't let the other tree branches tangle you in these. It is a frequent pet peeve to some druids.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/z8JhpS5.png"
+    ],
+    "hash": "5197d1642d747cd2ffa61c895e3891e8"
+}

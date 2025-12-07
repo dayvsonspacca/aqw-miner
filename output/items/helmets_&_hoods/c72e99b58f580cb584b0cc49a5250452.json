@@ -1,0 +1,16 @@
+{
+    "urlName": "mecha-defender-helm",
+    "url": "http://aqwwiki.wikidot.com/mecha-defender-helm",
+    "name": "Mecha Defender (Helm)",
+    "type": "helmets_&_hoods",
+    "description": "The mobile mecha suit is the pinnacle of emerging technologies coming out of Lore.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mecha-defender-helm/MechaDefender.png"
+    ],
+    "hash": "c72e99b58f580cb584b0cc49a5250452"
+}

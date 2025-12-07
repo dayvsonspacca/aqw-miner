@@ -1,0 +1,15 @@
+{
+    "urlName": "digital-lion-helm",
+    "url": "http://aqwwiki.wikidot.com/digital-lion-helm",
+    "name": "Digital Lion Helm",
+    "type": "helmets_&_hoods",
+    "description": "You have been morphed into a fearless lion who never backs down from a fight.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/digital-lion-helm/DigitalLionHelm.png"
+    ],
+    "hash": "1e7fd7a6f34d5019ce611cdc6957814b"
+}

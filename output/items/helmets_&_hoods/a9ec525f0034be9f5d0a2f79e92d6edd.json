@@ -1,0 +1,16 @@
+{
+    "urlName": "moglotron-controller-helm",
+    "url": "http://aqwwiki.wikidot.com/moglotron-controller-helm",
+    "name": "Moglotron Controller Helm",
+    "type": "helmets_&_hoods",
+    "description": "\"Your scientists were so preoccupied with whether or not they could that they didn't stop to think if they should.\"",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/tP6itm0.png"
+    ],
+    "hash": "a9ec525f0034be9f5d0a2f79e92d6edd"
+}

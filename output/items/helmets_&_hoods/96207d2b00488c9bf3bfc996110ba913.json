@@ -1,0 +1,16 @@
+{
+    "urlName": "the-unhinged-s-hood",
+    "url": "http://aqwwiki.wikidot.com/the-unhinged-s-hood",
+    "name": "The Unhinged's Hood",
+    "type": "helmets_&_hoods",
+    "description": "The light of day has become to much even for the Unhinged. They now scurry into the shadows, waiting for the darkness to come once again.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-unhinged-s-hood/TheUnhinged'sHood.png"
+    ],
+    "hash": "96207d2b00488c9bf3bfc996110ba913"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "kaiju-morph-helm",
+    "url": "http://aqwwiki.wikidot.com/kaiju-morph-helm",
+    "name": "Kaiju Morph Helm",
+    "type": "helmets_&_hoods",
+    "description": "A face only a mother monster could love. (This item has a low chance to play an animation when you use a skill AND do more damage against human enemies.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kaiju-morph-helm/KaijuMorphHelm.png",
+        "http://aqwwiki.wdfiles.com/local--files/kaiju-morph-helm/KaijuMorphHelmA.png"
+    ],
+    "hash": "70d1c0e16d98008b810b999a9aa8f050"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-cyber-visor",
+    "url": "http://aqwwiki.wikidot.com/undead-cyber-visor",
+    "name": "Undead Cyber Visor",
+    "type": "helmets_&_hoods",
+    "description": "Must obtain MARKER.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-cyber-visor/UndeadCyberVisor.png"
+    ],
+    "hash": "84f0fec22b20f0e5fc72c8cf9de80e52"
+}

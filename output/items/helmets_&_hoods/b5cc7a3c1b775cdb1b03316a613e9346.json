@@ -1,0 +1,16 @@
+{
+    "urlName": "grim-stalker-helm",
+    "url": "http://aqwwiki.wikidot.com/grim-stalker-helm",
+    "name": "Grim Stalker Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hide your eyes to avoid being bewitched!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/grim-stalker-helm/GrimStalkerHelm.png"
+    ],
+    "hash": "b5cc7a3c1b775cdb1b03316a613e9346"
+}

@@ -1,0 +1,13 @@
+{
+    "urlName": "evolved-solarflux-helm",
+    "url": "http://aqwwiki.wikidot.com/evolved-solarflux-helm",
+    "name": "Evolved Solarflux Helm",
+    "type": "helmets_&_hoods",
+    "description": "The evolution of Solarflux. A design inspired by your fellow player Reddy.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/sn0aVcd.png"
+    ],
+    "hash": "1d3f451bd44fb7608f76994bdce609b0"
+}

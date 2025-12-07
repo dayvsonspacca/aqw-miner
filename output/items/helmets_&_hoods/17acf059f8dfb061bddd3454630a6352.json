@@ -1,0 +1,15 @@
+{
+    "urlName": "adept-of-awe-hood",
+    "url": "http://aqwwiki.wikidot.com/adept-of-awe-hood",
+    "name": "Adept of Awe Hood",
+    "type": "helmets_&_hoods",
+    "description": "Garments that are awarded to notable contributors of Lore's Conservators. This item does 10% more damage to all tagged monsters when equipped.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Lb3FHmf.png"
+    ],
+    "hash": "17acf059f8dfb061bddd3454630a6352"
+}

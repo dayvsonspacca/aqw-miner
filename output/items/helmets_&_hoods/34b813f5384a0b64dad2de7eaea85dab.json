@@ -1,0 +1,16 @@
+{
+    "urlName": "eyepatch-zard",
+    "url": "http://aqwwiki.wikidot.com/eyepatch-zard",
+    "name": "Eyepatch Zard",
+    "type": "helmets_&_hoods",
+    "description": "Periodic blinking and a snap of a zard's jaw can signify a desire to be friendly, or its a warning of bloodthirsty aggression.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/aqRxdYf.png",
+        "https://i.imgur.com/CC5r0UV.png"
+    ],
+    "hash": "34b813f5384a0b64dad2de7eaea85dab"
+}

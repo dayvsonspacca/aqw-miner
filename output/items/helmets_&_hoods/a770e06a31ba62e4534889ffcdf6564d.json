@@ -1,0 +1,16 @@
+{
+    "urlName": "female-guardian-helm",
+    "url": "http://aqwwiki.wikidot.com/female-guardian-helm",
+    "name": "Female Guardian Helm",
+    "type": "helmets_&_hoods",
+    "description": "An otherworldy feeling overcomes you as you equip the Guardian Helm; centuries of Trollic Lore and history flood your mind. You are now a Guardian",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/female-guardian-helm/FGH.png"
+    ],
+    "hash": "a770e06a31ba62e4534889ffcdf6564d"
+}

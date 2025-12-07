@@ -1,0 +1,16 @@
+{
+    "urlName": "leprechaun-hat",
+    "url": "http://aqwwiki.wikidot.com/leprechaun-hat",
+    "name": "Leprechaun Hat",
+    "type": "helmets_&_hoods",
+    "description": "Lucky hat! Somewhere a cereal box character is wondering why his head is cold. Happy Lucky Day!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/B6KwxmW.png"
+    ],
+    "hash": "2367cce283cc2a3d2e2a5145c7250ab1"
+}

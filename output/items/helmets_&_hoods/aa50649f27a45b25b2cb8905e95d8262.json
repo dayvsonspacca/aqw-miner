@@ -1,0 +1,17 @@
+{
+    "urlName": "girly-arctic-goggles",
+    "url": "http://aqwwiki.wikidot.com/girly-arctic-goggles",
+    "name": "Girly Arctic Goggles",
+    "type": "helmets_&_hoods",
+    "description": "Finally a helm to refract snow blindness.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/eW8Eiys.png"
+    ],
+    "hash": "aa50649f27a45b25b2cb8905e95d8262"
+}

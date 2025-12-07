@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-dreadhaven-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-dreadhaven-helm-ac",
+    "name": "Dark Dreadhaven Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Wear this, you'll look dapper as a flopper.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-dreadhaven-helm-ac/DarkDreadhavenHelm.png"
+    ],
+    "hash": "a24409c01967ef1e68dcd2e72034adf5"
+}

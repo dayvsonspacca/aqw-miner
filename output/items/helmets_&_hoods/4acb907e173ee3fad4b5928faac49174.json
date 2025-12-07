@@ -1,0 +1,16 @@
+{
+    "urlName": "icy-voidpirate-helm",
+    "url": "http://aqwwiki.wikidot.com/icy-voidpirate-helm",
+    "name": "Icy VoidPirate Helm",
+    "type": "helmets_&_hoods",
+    "description": "Void Pirates dun be usin' Parley\u2026ye be warned.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/icy-voidpirate-helm/IVH.png"
+    ],
+    "hash": "4acb907e173ee3fad4b5928faac49174"
+}

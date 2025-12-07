@@ -1,0 +1,16 @@
+{
+    "urlName": "fear-s-head",
+    "url": "http://aqwwiki.wikidot.com/fear-s-head",
+    "name": "Fear's Head",
+    "type": "helmets_&_hoods",
+    "description": "With rivers of burning lava pouring from your eyesockets, you will cause all before you to run screaming from you in fear, their hearts pounding and their hair curling in fright. This is not a helm for the faint of heart.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fear-s-head/FH.png"
+    ],
+    "hash": "c5b314af21d9da07d8282ac14d9af7d5"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "candycaster-witch-hat",
+    "url": "http://aqwwiki.wikidot.com/candycaster-witch-hat",
+    "name": "CandyCaster Witch Hat",
+    "type": "helmets_&_hoods",
+    "description": "Pretty fashionable, but it won't save your hair from a sticky situation with all your candy.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/g67JW3B.png"
+    ],
+    "hash": "cdb295345a7d9cc89400ddb016964f98"
+}

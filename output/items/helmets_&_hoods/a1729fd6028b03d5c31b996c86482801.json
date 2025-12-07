@@ -1,0 +1,16 @@
+{
+    "urlName": "archfiend-commandant-s-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/archfiend-commandant-s-helm-ac",
+    "name": "ArchFiend Commandant's Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The ArchFiend's Commandant is entrusted to review, vet, and test those whom Nulgath is considering for further advancement. It is a postition very rarely granted.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/HgqVMA9.png"
+    ],
+    "hash": "a1729fd6028b03d5c31b996c86482801"
+}

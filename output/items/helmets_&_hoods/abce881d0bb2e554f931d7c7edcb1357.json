@@ -1,0 +1,16 @@
+{
+    "urlName": "gravefang-s-helm",
+    "url": "http://aqwwiki.wikidot.com/gravefang-s-helm",
+    "name": "Gravefang's Helm",
+    "type": "helmets_&_hoods",
+    "description": "It's best to keep the face clean while slashing one's way through enemy hordes. This helm does this and more in the latest and greatest of undead styles.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gravefang-s-helm/Gravefang'sHelm.png"
+    ],
+    "hash": "abce881d0bb2e554f931d7c7edcb1357"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "iron-fang-unkempt-helm",
+    "url": "http://aqwwiki.wikidot.com/iron-fang-unkempt-helm",
+    "name": "Iron Fang Unkempt Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Iron Fang warriors strike quickly, and leave nothing behind. They feast in the wilds, Kings of a land that will only bow to their jagged steal.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lfxiWoT.png"
+    ],
+    "hash": "7961b1ec639da50e2d4a3baa2f1b5e7f"
+}

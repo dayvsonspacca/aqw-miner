@@ -1,0 +1,16 @@
+{
+    "urlName": "treasured-helm-of-gold",
+    "url": "http://aqwwiki.wikidot.com/treasured-helm-of-gold",
+    "name": "Treasured Helm of Gold",
+    "type": "helmets_&_hoods",
+    "description": "This set is 100% gold. Literally. Made out of the many gold coins you've saved up while adventuring. Talk about a status symbol!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tM0Oty9.png"
+    ],
+    "hash": "24f1bc943dbde120828096f8188e0814"
+}

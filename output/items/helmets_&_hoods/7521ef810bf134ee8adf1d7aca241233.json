@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-maugs-helm",
+    "url": "http://aqwwiki.wikidot.com/prismatic-maugs-helm",
+    "name": "Prismatic Maugs Helm",
+    "type": "helmets_&_hoods",
+    "description": "The great beast has awakened\u2026 the dragon awaits! But one does not simply SLAY Maugs\u2026 one must defeat him honorably. This item is color-customizable.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-maugs-helm/PMH.png"
+    ],
+    "hash": "7521ef810bf134ee8adf1d7aca241233"
+}

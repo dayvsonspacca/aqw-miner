@@ -1,0 +1,15 @@
+{
+    "urlName": "intergalactic-harvester-helm",
+    "url": "http://aqwwiki.wikidot.com/intergalactic-harvester-helm",
+    "name": "Intergalactic Harvester Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hired by the Furbles, these mercenaries follow them from world to world over what the Furbles leave behind.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/fmJMtTj.png"
+    ],
+    "hash": "519f47daabda2ca1dffc29df38109064"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "gilded-knight-great-helm",
+    "url": "http://aqwwiki.wikidot.com/gilded-knight-great-helm",
+    "name": "Gilded Knight Great Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helm that, over time, was gilded gold through the accomplishments of its wearer.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5lEXBDo.png"
+    ],
+    "hash": "830afd29ff19cf58880953d74ae28062"
+}

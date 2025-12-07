@@ -1,0 +1,15 @@
+{
+    "urlName": "proto-champion-helm",
+    "url": "http://aqwwiki.wikidot.com/proto-champion-helm",
+    "name": "Proto-Champion Helm",
+    "type": "helmets_&_hoods",
+    "description": "Aeons before Drakath, this bestial warrior served the Queen of Monsters with a loyalty that could not be shattered.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/Cn1mCQN.png"
+    ],
+    "hash": "700e56a0b98e29a7f20f6f7edfac6001"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "corpse-knight-helm",
+    "url": "http://aqwwiki.wikidot.com/corpse-knight-helm",
+    "name": "Corpse Knight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Skeletal helm of the Corpse Knight, designed not just to strike fear into the heartsof warrior's foes, but rather meant to drive them insane with fear.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/corpse-knight-helm/CorpseKnightHelm.png"
+    ],
+    "hash": "fe9672d9bebb6b944c3df4d78fe93499"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "darkside-trooper-helm",
+    "url": "http://aqwwiki.wikidot.com/darkside-trooper-helm",
+    "name": "Darkside Trooper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Give in to the darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darkside-trooper-helm/DTH.png"
+    ],
+    "hash": "f1269fed7193fc49cb5fe08e8147e753"
+}

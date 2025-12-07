@@ -1,0 +1,16 @@
+{
+    "urlName": "bucket-hat",
+    "url": "http://aqwwiki.wikidot.com/bucket-hat",
+    "name": "Bucket Hat",
+    "type": "helmets_&_hoods",
+    "description": "Wear it to the beach! It'll keep the sun off your scalp, and if you get bored, you can use it to make a sandcastle!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/TOkPvkp.png"
+    ],
+    "hash": "f2276f61e7d8ae7d1629b05aa999f94e"
+}

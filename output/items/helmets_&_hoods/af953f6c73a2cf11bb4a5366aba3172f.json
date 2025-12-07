@@ -1,0 +1,16 @@
+{
+    "urlName": "seraphic-gunslinger-hat",
+    "url": "http://aqwwiki.wikidot.com/seraphic-gunslinger-hat",
+    "name": "Seraphic Gunslinger Hat",
+    "type": "helmets_&_hoods",
+    "description": "Sly gunmen devoted to Laken don't need a dime; only their leader's loyalty and stolen Legion treasures in exchange for their services.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/seraphic-gunslinger-hat/SeraphicGunslingerHat.png"
+    ],
+    "hash": "af953f6c73a2cf11bb4a5366aba3172f"
+}

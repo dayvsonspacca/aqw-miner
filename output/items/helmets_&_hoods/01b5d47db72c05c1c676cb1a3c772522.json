@@ -1,0 +1,16 @@
+{
+    "urlName": "onyx-cleric-helm",
+    "url": "http://aqwwiki.wikidot.com/onyx-cleric-helm",
+    "name": "Onyx Cleric Helm",
+    "type": "helmets_&_hoods",
+    "description": "An iron helm to go with an onyx armor.",
+    "rarity": "Rare Rarity.",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/onyx-cleric-helm/OnyxClericHelm.png"
+    ],
+    "hash": "01b5d47db72c05c1c676cb1a3c772522"
+}

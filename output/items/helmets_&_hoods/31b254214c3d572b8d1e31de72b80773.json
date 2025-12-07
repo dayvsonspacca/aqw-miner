@@ -1,0 +1,16 @@
+{
+    "urlName": "chrononaut-helm",
+    "url": "http://aqwwiki.wikidot.com/chrononaut-helm",
+    "name": "Chrononaut Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm is made with the most advanced technology available but it was designed to protect the wearer from the dangers of TIME RAYS!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chrononaut-helm/ChrononautHelm.png"
+    ],
+    "hash": "31b254214c3d572b8d1e31de72b80773"
+}

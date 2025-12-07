@@ -1,0 +1,13 @@
+{
+    "urlName": "bucket-of-paint-helm",
+    "url": "http://aqwwiki.wikidot.com/bucket-of-paint-helm",
+    "name": "Bucket of Paint Helm",
+    "type": "helmets_&_hoods",
+    "description": "Is it paint or is it slime? One way to find out.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/aml9Gqc.png"
+    ],
+    "hash": "3894a4c2db2732af0f03e72362b6c609"
+}

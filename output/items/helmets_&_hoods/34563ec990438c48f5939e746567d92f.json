@@ -1,0 +1,16 @@
+{
+    "urlName": "abomineator-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/abomineator-helm-ac",
+    "name": "Abomineator Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "No one is even going to think to take the last piece of turkey from you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/abomineator-helm-ac/AbomineatorHelm.png"
+    ],
+    "hash": "34563ec990438c48f5939e746567d92f"
+}

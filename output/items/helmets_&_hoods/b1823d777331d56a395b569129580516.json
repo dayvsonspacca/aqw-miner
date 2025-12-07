@@ -1,0 +1,16 @@
+{
+    "urlName": "acid-rain-hat",
+    "url": "http://aqwwiki.wikidot.com/acid-rain-hat",
+    "name": "Acid Rain Hat",
+    "type": "helmets_&_hoods",
+    "description": "Using their magic to pollute and cause harm to Lore, these acidic magi gain their powers from dirty sludge and other toxins.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UJWY9QA.png"
+    ],
+    "hash": "b1823d777331d56a395b569129580516"
+}

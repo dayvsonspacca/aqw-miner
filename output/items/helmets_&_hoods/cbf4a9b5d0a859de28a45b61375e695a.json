@@ -1,0 +1,17 @@
+{
+    "urlName": "lim-lookalike",
+    "url": "http://aqwwiki.wikidot.com/lim-lookalike",
+    "name": "Lim Lookalike",
+    "type": "helmets_&_hoods",
+    "description": "You face looks a lot like Lim's now!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ghKDmaD.png"
+    ],
+    "hash": "cbf4a9b5d0a859de28a45b61375e695a"
+}

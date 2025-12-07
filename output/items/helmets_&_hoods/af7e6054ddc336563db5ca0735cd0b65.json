@@ -1,0 +1,16 @@
+{
+    "urlName": "tactical-agent-bravo-locks",
+    "url": "http://aqwwiki.wikidot.com/tactical-agent-bravo-locks",
+    "name": "Tactical Agent Bravo Locks",
+    "type": "helmets_&_hoods",
+    "description": "The mission can't wait. Besides, do I look like a waiter to you?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ClepeTr.png"
+    ],
+    "hash": "af7e6054ddc336563db5ca0735cd0b65"
+}

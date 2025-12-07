@@ -1,0 +1,16 @@
+{
+    "urlName": "deathscar-hawk",
+    "url": "http://aqwwiki.wikidot.com/deathscar-hawk",
+    "name": "DeathScar Hawk",
+    "type": "helmets_&_hoods",
+    "description": "You're a Death Rider. You're a freak. You're on a wicked killing streak. Now go out there and show the world who's boss. (This item has a 30% chance to do the Shadowburst attack animation.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathscar-hawk/DeathScarHawk.png"
+    ],
+    "hash": "3b83145b20ff476c5b3ad1fa5e073a39"
+}

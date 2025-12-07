@@ -1,0 +1,15 @@
+{
+    "urlName": "unseelie-glassbinder-helm",
+    "url": "http://aqwwiki.wikidot.com/unseelie-glassbinder-helm",
+    "name": "Unseelie Glassbinder Helm",
+    "type": "helmets_&_hoods",
+    "description": "A simple crown of glass shards.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/JmydIxR.png"
+    ],
+    "hash": "0df22c5fc8ef51d2092ae041b003f16e"
+}

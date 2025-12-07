@@ -1,0 +1,16 @@
+{
+    "urlName": "light-ring-mask",
+    "url": "http://aqwwiki.wikidot.com/light-ring-mask",
+    "name": "Light Ring Mask",
+    "type": "helmets_&_hoods",
+    "description": "Shine some light on the situation! Who needs makeup anyway with a face that glows like yours?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/light-ring-mask/LightRingMask.png"
+    ],
+    "hash": "e2cf279ca2ef13b20e6b65fc54c3f672"
+}

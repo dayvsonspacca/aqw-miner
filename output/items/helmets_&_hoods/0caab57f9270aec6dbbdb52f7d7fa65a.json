@@ -1,0 +1,16 @@
+{
+    "urlName": "painadin-overlord-helm",
+    "url": "http://aqwwiki.wikidot.com/painadin-overlord-helm",
+    "name": "Painadin Overlord Helm",
+    "type": "helmets_&_hoods",
+    "description": "The terrifying face of the undead soldiers of darkness known as the Painadin Overlord.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/painadin-overlord-helm/PainadinOverlordHelm.png"
+    ],
+    "hash": "0caab57f9270aec6dbbdb52f7d7fa65a"
+}

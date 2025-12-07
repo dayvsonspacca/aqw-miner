@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-legion-vampire-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-legion-vampire-helm",
+    "name": "Dark Legion Vampire Helm",
+    "type": "helmets_&_hoods",
+    "description": "Nothing says dark and foreboding like a skull.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-legion-vampire-helm/DarkLegionVampireHelm.png"
+    ],
+    "hash": "b46d7134104a34be26d4dd5e16b9984e"
+}

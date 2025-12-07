@@ -1,0 +1,15 @@
+{
+    "urlName": "loyalist-helm-1",
+    "url": "http://aqwwiki.wikidot.com/loyalist-helm-1",
+    "name": "Loyalist Helm (1)",
+    "type": "helmets_&_hoods",
+    "description": "For fans of the Loyalist Team. OMG PvP! (eye color custom)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/loyalist-helm-1/LoyalistHelm.png"
+    ],
+    "hash": "cbda2f7d256c6f60c86ca3cbfab8f9b6"
+}

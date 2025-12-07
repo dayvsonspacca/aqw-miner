@@ -1,0 +1,15 @@
+{
+    "urlName": "ladies-fez",
+    "url": "http://aqwwiki.wikidot.com/ladies-fez",
+    "name": "Ladies' Fez",
+    "type": "helmets_&_hoods",
+    "description": "Fezzes are cool.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ladies-fez/Ladies'Fez.png"
+    ],
+    "hash": "2a9803988bdfea25e02895d6e1dbf67c"
+}

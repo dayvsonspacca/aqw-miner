@@ -1,0 +1,13 @@
+{
+    "urlName": "tempest-general-helm",
+    "url": "http://aqwwiki.wikidot.com/tempest-general-helm",
+    "name": "Tempest General Helm",
+    "type": "helmets_&_hoods",
+    "description": "General's need to be noticed and command attention.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/6QK5bGZ.png"
+    ],
+    "hash": "847d5cc705b8ab283eea8d0fa104059c"
+}

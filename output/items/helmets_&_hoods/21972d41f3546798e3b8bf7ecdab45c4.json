@@ -1,0 +1,15 @@
+{
+    "urlName": "astravian-soldier-helm",
+    "url": "http://aqwwiki.wikidot.com/astravian-soldier-helm",
+    "name": "Astravian Soldier Helm",
+    "type": "helmets_&_hoods",
+    "description": "A standard helmet for Astravian soldiers. This model comes with display monitors on the inside.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/K9EBeWM.png"
+    ],
+    "hash": "21972d41f3546798e3b8bf7ecdab45c4"
+}

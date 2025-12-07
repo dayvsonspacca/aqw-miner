@@ -1,0 +1,16 @@
+{
+    "urlName": "galactic-eyepatch",
+    "url": "http://aqwwiki.wikidot.com/galactic-eyepatch",
+    "name": "Galactic Eyepatch",
+    "type": "helmets_&_hoods",
+    "description": "Set sail into the uncharted depths of the universe, but always be keepin' ye eye(patch) on the lookout for booty!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/galactic-eyepatch/GalacticEyepatch.png"
+    ],
+    "hash": "06d3ab07ff799a1a7625058c695c9e45"
+}

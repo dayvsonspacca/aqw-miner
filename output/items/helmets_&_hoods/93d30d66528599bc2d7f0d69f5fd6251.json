@@ -1,0 +1,15 @@
+{
+    "urlName": "asgardian-helm",
+    "url": "http://aqwwiki.wikidot.com/asgardian-helm",
+    "name": "Asgardian Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helmet forged for and by the gods, this",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/2YuizhU.png"
+    ],
+    "hash": "93d30d66528599bc2d7f0d69f5fd6251"
+}

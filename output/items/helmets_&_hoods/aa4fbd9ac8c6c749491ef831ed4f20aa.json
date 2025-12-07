@@ -1,0 +1,16 @@
+{
+    "urlName": "mediator-headgear",
+    "url": "http://aqwwiki.wikidot.com/mediator-headgear",
+    "name": "Mediator Headgear",
+    "type": "helmets_&_hoods",
+    "description": "Expose your face for all to see. Let all who gaze upon your visage burn your image into their memory.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/OZpOVrm.png"
+    ],
+    "hash": "aa4fbd9ac8c6c749491ef831ed4f20aa"
+}

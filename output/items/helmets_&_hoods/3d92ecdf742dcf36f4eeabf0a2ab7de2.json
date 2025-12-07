@@ -1,0 +1,16 @@
+{
+    "urlName": "purified-soulbinder-locks",
+    "url": "http://aqwwiki.wikidot.com/purified-soulbinder-locks",
+    "name": "Purified SoulBinder Locks",
+    "type": "helmets_&_hoods",
+    "description": "It is not clear to those untrained in the art of SoulBinding what these masks are meant to protect against.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/purified-soulbinder-locks/PSL.png"
+    ],
+    "hash": "3d92ecdf742dcf36f4eeabf0a2ab7de2"
+}

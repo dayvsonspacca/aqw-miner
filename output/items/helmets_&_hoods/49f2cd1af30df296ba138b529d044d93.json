@@ -1,0 +1,16 @@
+{
+    "urlName": "frostlorn-warrior-helm",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-warrior-helm",
+    "name": "Frostlorn Warrior Helm",
+    "type": "helmets_&_hoods",
+    "description": "Eyes flash dangerously through the stilted visor of the Frostlorn Warrior helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/YsFNfuC.png"
+    ],
+    "hash": "49f2cd1af30df296ba138b529d044d93"
+}

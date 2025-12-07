@@ -1,0 +1,16 @@
+{
+    "urlName": "lord-of-time-helm",
+    "url": "http://aqwwiki.wikidot.com/lord-of-time-helm",
+    "name": "Lord of Time Helm",
+    "type": "helmets_&_hoods",
+    "description": "Even without the hat a timely gentleman always has the proper elegant attire.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lord-of-time-helm/LoTHelm.png"
+    ],
+    "hash": "f8ffb524b695680e4b915f969fdb02d5"
+}

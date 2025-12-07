@@ -1,0 +1,16 @@
+{
+    "urlName": "novac-sal-crew-morph",
+    "url": "http://aqwwiki.wikidot.com/novac-sal-crew-morph",
+    "name": "Novac Sal Crew Morph",
+    "type": "helmets_&_hoods",
+    "description": "It takes a good deal of grit, or a healthy amount of greed, to hop on a ship and call yourself a pirate. The seas are packed. Established crews will eat these guppies alive if they don't have what it takes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Lrfy6VR.png"
+    ],
+    "hash": "1591ee42459822480dc5ef915efcbd29"
+}

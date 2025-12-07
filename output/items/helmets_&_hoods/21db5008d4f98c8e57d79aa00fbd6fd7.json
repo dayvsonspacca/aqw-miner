@@ -1,0 +1,15 @@
+{
+    "urlName": "disgruntled-gourdo-helm",
+    "url": "http://aqwwiki.wikidot.com/disgruntled-gourdo-helm",
+    "name": "Disgruntled Gourdo Helm",
+    "type": "helmets_&_hoods",
+    "description": "Such as disgruntled pumpkin.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/BtkB1lb.png"
+    ],
+    "hash": "21db5008d4f98c8e57d79aa00fbd6fd7"
+}

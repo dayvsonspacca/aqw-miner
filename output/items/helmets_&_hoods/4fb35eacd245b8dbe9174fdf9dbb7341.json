@@ -1,0 +1,16 @@
+{
+    "urlName": "mummy-mask",
+    "url": "http://aqwwiki.wikidot.com/mummy-mask",
+    "name": "Mummy Mask",
+    "type": "helmets_&_hoods",
+    "description": "A face that only a Mummy could love!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/DKU9COB.png"
+    ],
+    "hash": "4fb35eacd245b8dbe9174fdf9dbb7341"
+}

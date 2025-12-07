@@ -1,0 +1,15 @@
+{
+    "urlName": "zeph",
+    "url": "http://aqwwiki.wikidot.com/zeph",
+    "name": "Zeph",
+    "type": "helmets_&_hoods",
+    "description": "He's the white sock with the goatee and blue button nose.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/zeph/Zeph.png"
+    ],
+    "hash": "adf35019c6e05560bd50bffcab991b42"
+}

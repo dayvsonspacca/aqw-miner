@@ -1,0 +1,16 @@
+{
+    "urlName": "elf-hat",
+    "url": "http://aqwwiki.wikidot.com/elf-hat",
+    "name": "Elf Hat",
+    "type": "helmets_&_hoods",
+    "description": "This hat is perfect headwear to show your holiday spirit! Great job not letting the weather bring you down as you shared holiday cheer throughout Lore 12 days in a row!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elf-hat/ElfHat.png"
+    ],
+    "hash": "0f331793fe0bdd7a64f8a135baa59199"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "salakot-hat",
+    "url": "http://aqwwiki.wikidot.com/salakot-hat",
+    "name": "Salakot Hat",
+    "type": "helmets_&_hoods",
+    "description": "Maligayang Araw ng Kalayaan sa lahat ng manlalaro sa Pilipinas.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/eGAg8Wk.png"
+    ],
+    "hash": "933e0b4d4c0d16185ee4f6e88d7da90d"
+}

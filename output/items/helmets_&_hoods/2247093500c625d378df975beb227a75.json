@@ -1,0 +1,16 @@
+{
+    "urlName": "titanium-frostelf-helm",
+    "url": "http://aqwwiki.wikidot.com/titanium-frostelf-helm",
+    "name": "Titanium FrostElf Helm",
+    "type": "helmets_&_hoods",
+    "description": "The High FrostElf Kings and Queens have ruled over the frosty, frigid Northlands for millennia. This battle gear is worn during challenges to take the throne.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/D8YKgBx.png"
+    ],
+    "hash": "2247093500c625d378df975beb227a75"
+}

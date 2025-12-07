@@ -1,0 +1,16 @@
+{
+    "urlName": "leonides-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/leonides-helm-ac",
+    "name": "Leonides Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The Lionisters of Swordhaven are an ancient and noble family. Their Frostval celebrations are legendarily gilded. Hear them ROAR!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Qk0nlgo.png"
+    ],
+    "hash": "58262b9f5e17daca9024394519a872b8"
+}

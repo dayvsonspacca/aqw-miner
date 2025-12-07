@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-leprechaun-hat",
+    "url": "http://aqwwiki.wikidot.com/golden-leprechaun-hat",
+    "name": "Golden Leprechaun Hat",
+    "type": "helmets_&_hoods",
+    "description": "Ye may not be a true Leprechaun there, lads and lassies but ye still be lucky today!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/HS1wWyW.png"
+    ],
+    "hash": "dced59a661b428a1ba11e43bb25ca60a"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "fiendish-magus-hat-morph-ac",
+    "url": "http://aqwwiki.wikidot.com/fiendish-magus-hat-morph-ac",
+    "name": "Fiendish Magus Hat Morph (AC)",
+    "type": "helmets_&_hoods",
+    "description": "A classic hat retailored to fit the image of a Nation Cultist. They say they closely follow in the footsteps of their Master Nulgath, but he's allergic to hats. (Click hat to show horns)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/yVsSqep.png",
+        "https://i.imgur.com/CLoPn3K.png",
+        "https://i.imgur.com/TUgqADo.png"
+    ],
+    "hash": "24a91f1439078cebd630c0f7d36200b9"
+}

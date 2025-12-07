@@ -1,0 +1,15 @@
+{
+    "urlName": "legion-mercenary-helm",
+    "url": "http://aqwwiki.wikidot.com/legion-mercenary-helm",
+    "name": "Legion Mercenary Helm",
+    "type": "helmets_&_hoods",
+    "description": "Worn by the Legion Mercenaries, this hood hides their true form as they move undetected through crowds in search of their next bounty.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-mercenary-helm/LegionMercenaryHelm.png"
+    ],
+    "hash": "e9b2b98b02dbce9e481b195a78f77318"
+}

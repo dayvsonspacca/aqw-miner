@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-keeper-s-locks",
+    "url": "http://aqwwiki.wikidot.com/prismatic-keeper-s-locks",
+    "name": "Prismatic Keeper's Locks",
+    "type": "helmets_&_hoods",
+    "description": "The raincloud-covered cowl is intended to be a recreation of a sacred Wardkeeper relic that had been long lost for decades.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-keeper-s-locks/PKL.png"
+    ],
+    "hash": "a239c90a1af1d1cb7aa832993918de4a"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "infernal-shadowmage",
+    "url": "http://aqwwiki.wikidot.com/infernal-shadowmage",
+    "name": "Infernal Shadowmage",
+    "type": "helmets_&_hoods",
+    "description": "Just what's underneath the helm anyway?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/infernal-shadowmage/IS.png"
+    ],
+    "hash": "d268be4a54ae629970396dd59b65fcc7"
+}

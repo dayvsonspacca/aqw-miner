@@ -1,0 +1,16 @@
+{
+    "urlName": "bladelord-helm-of-vokun",
+    "url": "http://aqwwiki.wikidot.com/bladelord-helm-of-vokun",
+    "name": "Bladelord Helm of Vokun",
+    "type": "helmets_&_hoods",
+    "description": "A good defender needs a protection on every side.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bladelord-helm-of-vokun/BHoV.png"
+    ],
+    "hash": "21b0c77b6d7e5847bf65e804c15235e0"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "short-stack-fez",
+    "url": "http://aqwwiki.wikidot.com/short-stack-fez",
+    "name": "Short-Stack Fez",
+    "type": "helmets_&_hoods",
+    "description": "One's not enough. Five? Just right. Like pancakes!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/short-stack-fez/SSF.png"
+    ],
+    "hash": "45aca8af72288074507a438ecd040d11"
+}

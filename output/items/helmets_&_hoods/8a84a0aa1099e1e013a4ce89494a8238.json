@@ -1,0 +1,17 @@
+{
+    "urlName": "frostbreath-facemask-ac",
+    "url": "http://aqwwiki.wikidot.com/frostbreath-facemask-ac",
+    "name": "FrostBreath FaceMask (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The frozen Northlands builds the fiercest warriors. No amount of cold will stop these generals from conquering.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/cRYyi1v.png",
+        "https://imgur.com/xTqvfA7.png"
+    ],
+    "hash": "8a84a0aa1099e1e013a4ce89494a8238"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-shadow",
+    "url": "http://aqwwiki.wikidot.com/helm-of-shadow",
+    "name": "Helm of Shadow",
+    "type": "helmets_&_hoods",
+    "description": "Shadows have nowhere to run in the true face of darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-shadow/HelmofShadow.png"
+    ],
+    "hash": "fddcba7b71792f33adc3d8d7eb0b4b79"
+}

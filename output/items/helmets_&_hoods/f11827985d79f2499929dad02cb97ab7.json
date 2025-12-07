@@ -1,0 +1,16 @@
+{
+    "urlName": "envenomed-spiked-locks-ac",
+    "url": "http://aqwwiki.wikidot.com/envenomed-spiked-locks-ac",
+    "name": "Envenomed Spiked Locks (AC)",
+    "type": "helmets_&_hoods",
+    "description": "One prick of the poisoned spines on your helm will send your enemies into the greatest agony!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/envenomed-spiked-locks-ac/EnvenomedSpikedLocks.png"
+    ],
+    "hash": "f11827985d79f2499929dad02cb97ab7"
+}

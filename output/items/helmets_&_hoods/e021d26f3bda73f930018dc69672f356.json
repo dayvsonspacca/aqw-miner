@@ -1,0 +1,15 @@
+{
+    "urlName": "elegant-hat",
+    "url": "http://aqwwiki.wikidot.com/elegant-hat",
+    "name": "Elegant Hat",
+    "type": "helmets_&_hoods",
+    "description": "The Sheevra Masquerade party is the BEST excuse for dressing up.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/F6A20Gk.png"
+    ],
+    "hash": "e021d26f3bda73f930018dc69672f356"
+}

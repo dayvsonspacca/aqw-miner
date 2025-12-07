@@ -1,0 +1,17 @@
+{
+    "urlName": "trophyhunter-helm",
+    "url": "http://aqwwiki.wikidot.com/trophyhunter-helm",
+    "name": "TrophyHunter Helm",
+    "type": "helmets_&_hoods",
+    "description": "Intimidate your foes. all who see you will know fear as you take the trophies for which you came!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/trophyhunter-helm/TrophyHunterHelm.png"
+    ],
+    "hash": "e199a0a01f7e9679f1fc1b52c98069fc"
+}

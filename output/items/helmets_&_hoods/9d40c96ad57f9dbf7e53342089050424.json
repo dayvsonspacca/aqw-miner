@@ -1,0 +1,15 @@
+{
+    "urlName": "kat-burglar-helm",
+    "url": "http://aqwwiki.wikidot.com/kat-burglar-helm",
+    "name": "Kat Burglar Helm",
+    "type": "helmets_&_hoods",
+    "description": "This is the purr-fect helm to keep your face hidden from those pesky security cameras.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/ZaNcOyG.png"
+    ],
+    "hash": "9d40c96ad57f9dbf7e53342089050424"
+}

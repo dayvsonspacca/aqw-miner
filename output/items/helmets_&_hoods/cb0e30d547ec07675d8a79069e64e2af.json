@@ -1,0 +1,16 @@
+{
+    "urlName": "lucky-dragonslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/lucky-dragonslayer-helm",
+    "name": "Lucky DragonSlayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Your hair is going to be messy after being in a helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lucky-dragonslayer-helm/LuckyDragonslayerHelm.png"
+    ],
+    "hash": "cb0e30d547ec07675d8a79069e64e2af"
+}

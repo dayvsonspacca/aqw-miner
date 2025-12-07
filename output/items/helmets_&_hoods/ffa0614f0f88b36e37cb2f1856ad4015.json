@@ -1,0 +1,16 @@
+{
+    "urlName": "frostborne-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/frostborne-helm-ac",
+    "name": "Frostborne Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "A helmet sculpted by ancient bronze and worn out jade, yet it is so cold that you won't feel the metal when you put it on.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/x8zrooJ.png"
+    ],
+    "hash": "ffa0614f0f88b36e37cb2f1856ad4015"
+}

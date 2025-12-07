@@ -1,0 +1,13 @@
+{
+    "urlName": "mage-s-hood",
+    "url": "http://aqwwiki.wikidot.com/mage-s-hood",
+    "name": "Mage's Hood",
+    "type": "helmets_&_hoods",
+    "description": "A basic Mage's hood. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/qGKJj5o.png"
+    ],
+    "hash": "106639c1cf0bda50280356a6eef32e3c"
+}

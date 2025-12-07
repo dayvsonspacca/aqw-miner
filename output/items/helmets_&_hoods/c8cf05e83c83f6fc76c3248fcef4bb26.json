@@ -1,0 +1,16 @@
+{
+    "urlName": "blessed-knight-locks",
+    "url": "http://aqwwiki.wikidot.com/blessed-knight-locks",
+    "name": "Blessed Knight Locks",
+    "type": "helmets_&_hoods",
+    "description": "These rare Knights are affiliated with the Order of Paladins, but channel a special type of light magic which melds with their armor, hair, and weapons over time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blessed-knight-locks/BlessedKnightLocks.png"
+    ],
+    "hash": "c8cf05e83c83f6fc76c3248fcef4bb26"
+}

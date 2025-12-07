@@ -1,0 +1,16 @@
+{
+    "urlName": "solar-warlock-hat",
+    "url": "http://aqwwiki.wikidot.com/solar-warlock-hat",
+    "name": "Solar Warlock Hat",
+    "type": "helmets_&_hoods",
+    "description": "Solar Witches and Warlocks are rare, but they are among the most powerful mages to walk the dark paths winding through Mystcroft. The light they shine can blind or cure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/X9QARbK.png"
+    ],
+    "hash": "13b6ebd44a22b60136bad0adb5b73a6d"
+}

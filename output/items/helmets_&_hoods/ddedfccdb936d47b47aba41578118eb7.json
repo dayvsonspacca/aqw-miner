@@ -1,0 +1,15 @@
+{
+    "urlName": "marauder-scout-helm",
+    "url": "http://aqwwiki.wikidot.com/marauder-scout-helm",
+    "name": "Marauder Scout Helm",
+    "type": "helmets_&_hoods",
+    "description": "A marauder most be imposing to the enemy, hence the teeth.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/glhnY7a.png"
+    ],
+    "hash": "ddedfccdb936d47b47aba41578118eb7"
+}

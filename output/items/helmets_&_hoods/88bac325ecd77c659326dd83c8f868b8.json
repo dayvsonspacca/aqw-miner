@@ -1,0 +1,15 @@
+{
+    "urlName": "lumenomancer-s-helm",
+    "url": "http://aqwwiki.wikidot.com/lumenomancer-s-helm",
+    "name": "Lumenomancer's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Found not in a dragon's den, but rather in the Dark Dungeon itself. And it fits!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/HKThvUN.png"
+    ],
+    "hash": "88bac325ecd77c659326dd83c8f868b8"
+}

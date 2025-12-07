@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-granite",
+    "url": "http://aqwwiki.wikidot.com/helm-of-granite",
+    "name": "Helm of Granite",
+    "type": "helmets_&_hoods",
+    "description": "Rock steady.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-granite/HG.png"
+    ],
+    "hash": "5ef9768c02ad17e871098f2b57378d3d"
+}

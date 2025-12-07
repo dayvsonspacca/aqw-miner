@@ -1,0 +1,15 @@
+{
+    "urlName": "warhorses-helm",
+    "url": "http://aqwwiki.wikidot.com/warhorses-helm",
+    "name": "Warhorses Helm",
+    "type": "helmets_&_hoods",
+    "description": "For fans of the Warhorses. OMG PvP! Coming Soon! (eye color custom)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warhorses-helm/WarhorsesHelm.png"
+    ],
+    "hash": "1c49a0d3d9d2e49d0588456c0b86cf84"
+}

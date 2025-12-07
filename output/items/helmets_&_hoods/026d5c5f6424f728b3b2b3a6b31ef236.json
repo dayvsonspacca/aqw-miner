@@ -1,0 +1,16 @@
+{
+    "urlName": "sorcerer-s-apprentice-hat",
+    "url": "http://aqwwiki.wikidot.com/sorcerer-s-apprentice-hat",
+    "name": "Sorcerer's Apprentice Hat",
+    "type": "helmets_&_hoods",
+    "description": "A magically enchanced hat obtainable only by Sorcerers' Apprentices. This hat also features color custom Base and Trim to match your magical taste in fashion.",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sorcerer-s-apprentice-hat/Sorcerer'sApprenticeHat.png"
+    ],
+    "hash": "026d5c5f6424f728b3b2b3a6b31ef236"
+}

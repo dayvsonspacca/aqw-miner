@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-battle-visor",
+    "url": "http://aqwwiki.wikidot.com/golden-battle-visor",
+    "name": "Golden Battle Visor",
+    "type": "helmets_&_hoods",
+    "description": "Prepare for glory!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-battle-visor/GoldenBattleVisor.png"
+    ],
+    "hash": "416bca36425bd66bd128d255f02ddb90"
+}

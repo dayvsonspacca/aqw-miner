@@ -1,0 +1,16 @@
+{
+    "urlName": "rocker-hawk",
+    "url": "http://aqwwiki.wikidot.com/rocker-hawk",
+    "name": "Rocker Hawk",
+    "type": "helmets_&_hoods",
+    "description": "Punk rock dude let's go slamdance (5% gold boost when equipped)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/NDHM3a7.png",
+        "http://i.imgur.com/gp5I0ZH.png"
+    ],
+    "hash": "2ee93411ff373872213a1c9560d29417"
+}

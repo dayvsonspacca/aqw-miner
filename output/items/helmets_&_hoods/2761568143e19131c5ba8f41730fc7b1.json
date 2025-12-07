@@ -1,0 +1,16 @@
+{
+    "urlName": "muertos-sombrero",
+    "url": "http://aqwwiki.wikidot.com/muertos-sombrero",
+    "name": "Muertos Sombrero",
+    "type": "helmets_&_hoods",
+    "description": "Try to blend in with those zombies with this sombrero.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/RpYByAt.png"
+    ],
+    "hash": "2761568143e19131c5ba8f41730fc7b1"
+}

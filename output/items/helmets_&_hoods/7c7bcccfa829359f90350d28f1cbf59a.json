@@ -1,0 +1,16 @@
+{
+    "urlName": "shark-bite",
+    "url": "http://aqwwiki.wikidot.com/shark-bite",
+    "name": "Shark Bite",
+    "type": "helmets_&_hoods",
+    "description": "Eh, well, at least he's too small to get my entire head in his mouth, you know?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shark-bite/SharkBite.png"
+    ],
+    "hash": "7c7bcccfa829359f90350d28f1cbf59a"
+}

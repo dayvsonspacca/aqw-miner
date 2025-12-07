@@ -1,0 +1,16 @@
+{
+    "urlName": "ardent-shadowslayer-hat",
+    "url": "http://aqwwiki.wikidot.com/ardent-shadowslayer-hat",
+    "name": "Ardent Shadowslayer Hat",
+    "type": "helmets_&_hoods",
+    "description": "You battle the shadows, but that doesn't mean you have stay in them ALL the time.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/zBEs2uZ.png"
+    ],
+    "hash": "fa1af7571711365cc380cb7fd4dd6943"
+}

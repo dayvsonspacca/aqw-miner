@@ -1,0 +1,15 @@
+{
+    "urlName": "formal-void-helm",
+    "url": "http://aqwwiki.wikidot.com/formal-void-helm",
+    "name": "Formal Void Helm",
+    "type": "helmets_&_hoods",
+    "description": "Colored after the bride, this helmet is formal attire for a wedding such as this. With all the Void creatures that could be attending, it's best to keep yourself dapper, yet defended.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/formal-void-helm/FVH.png"
+    ],
+    "hash": "7fa4562a848f7a1284c01c041bed5e9e"
+}

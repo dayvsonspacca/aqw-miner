@@ -1,0 +1,16 @@
+{
+    "urlName": "rabid-s-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/rabid-s-helm-ac",
+    "name": "Rabid's Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Meld with the Unifying Intellect as an Elk Clan druid!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rabid-s-helm-ac/Rabid'sHelm.png"
+    ],
+    "hash": "da9fe52a60bd875459d1a22bd7aa9aef"
+}

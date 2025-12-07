@@ -1,0 +1,15 @@
+{
+    "urlName": "daemon-kin-horns",
+    "url": "http://aqwwiki.wikidot.com/daemon-kin-horns",
+    "name": "Daemon Kin Horns",
+    "type": "helmets_&_hoods",
+    "description": "Only the brave and the bold will wear the Daemon Kin Horns that were designed by Hero Demon.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/meUVjeX.png"
+    ],
+    "hash": "eb42109a5a3fad2f5fd0bd9dc893abd7"
+}

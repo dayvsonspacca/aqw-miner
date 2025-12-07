@@ -1,0 +1,17 @@
+{
+    "urlName": "shinigami-skull",
+    "url": "http://aqwwiki.wikidot.com/shinigami-skull",
+    "name": "Shinigami Skull",
+    "type": "helmets_&_hoods",
+    "description": "Do not stare into the eyes of the Shinigami, if you wish to keep your sanity.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shinigami-skull/ShinigamiSkull.png"
+    ],
+    "hash": "c9d67a008a72e6268423cba2aac80367"
+}

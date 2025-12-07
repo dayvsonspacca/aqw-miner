@@ -1,0 +1,15 @@
+{
+    "urlName": "fenrir-faceplate-helm",
+    "url": "http://aqwwiki.wikidot.com/fenrir-faceplate-helm",
+    "name": "Fenrir Faceplate Helm",
+    "type": "helmets_&_hoods",
+    "description": "The taste for the Nation's flesh lingers on the tips of their fangs!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fenrir-faceplate-helm/FFH.png"
+    ],
+    "hash": "645bd0a0977bd7c3920a628232ba30e8"
+}

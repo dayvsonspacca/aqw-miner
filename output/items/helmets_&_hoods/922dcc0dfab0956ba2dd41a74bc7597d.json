@@ -1,0 +1,17 @@
+{
+    "urlName": "jiangshi-cap",
+    "url": "http://aqwwiki.wikidot.com/jiangshi-cap",
+    "name": "Jiangshi Cap",
+    "type": "helmets_&_hoods",
+    "description": "If a body does not rot even long after its death, they are likely to become a jiangshi. Desecration of the body for any reason is considered taboo so talismans are placed in futile efforts to keep them from moving.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kT4nm5a.png"
+    ],
+    "hash": "922dcc0dfab0956ba2dd41a74bc7597d"
+}

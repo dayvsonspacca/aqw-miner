@@ -1,0 +1,16 @@
+{
+    "urlName": "enchanted-beret",
+    "url": "http://aqwwiki.wikidot.com/enchanted-beret",
+    "name": "Enchanted Beret",
+    "type": "helmets_&_hoods",
+    "description": "Imbued with the power of magic by a Libran Astromancer, this helm will move your soul and change color. (Item is color-customizable to trim and accessory)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/IDFAerz.png"
+    ],
+    "hash": "0b32953e1049a4c20eef51e95c1667a3"
+}

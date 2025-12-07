@@ -1,0 +1,15 @@
+{
+    "urlName": "miners-hat-locks",
+    "url": "http://aqwwiki.wikidot.com/miners-hat-locks",
+    "name": "Miners Hat + Locks",
+    "type": "helmets_&_hoods",
+    "description": "For those who aren't on the field, but want to cheer on their team!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/31gqchZ.png"
+    ],
+    "hash": "7b200d183ebe36c499cfedc9c902887a"
+}

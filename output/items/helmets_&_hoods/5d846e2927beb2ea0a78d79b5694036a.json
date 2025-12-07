@@ -1,0 +1,16 @@
+{
+    "urlName": "votari-mage-wreath",
+    "url": "http://aqwwiki.wikidot.com/votari-mage-wreath",
+    "name": "Votari Mage Wreath",
+    "type": "helmets_&_hoods",
+    "description": "A shorter hairstyle favored by the Votari Magi.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/EO6YH9T.png"
+    ],
+    "hash": "5d846e2927beb2ea0a78d79b5694036a"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "blood-void-helm",
+    "url": "http://aqwwiki.wikidot.com/blood-void-helm",
+    "name": "Blood Void Helm",
+    "type": "helmets_&_hoods",
+    "description": "Once a white helm, now is stained with the blood of its latest victims.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fn7XLSc.png"
+    ],
+    "hash": "93d73d8089440a44109a540bffdbe24a"
+}

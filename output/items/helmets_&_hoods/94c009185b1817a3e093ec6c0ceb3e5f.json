@@ -1,0 +1,17 @@
+{
+    "urlName": "electro-biobeast-helm",
+    "url": "http://aqwwiki.wikidot.com/electro-biobeast-helm",
+    "name": "Electro BioBeast Helm",
+    "type": "helmets_&_hoods",
+    "description": "Want to be creepy? Mission accomplished! This exclusive helm will unlock when the BioBeasts Facebook page reaches 7,000 Likes. Thanks for all your support! http://biobeasts.artix.com",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/electro-biobeast-helm/ElectroBiobeastHelm.png"
+    ],
+    "hash": "94c009185b1817a3e093ec6c0ceb3e5f"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "draconic-deacon-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/draconic-deacon-helm-ac",
+    "name": "Draconic Deacon Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The Deacons are inspired by the form of dragons, and envy them. They begin as Dragonslayers in the employ of Nulgath, before undergoing a process that turns them into a Dragonslayer's nightmare.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Dfr8fYx.png"
+    ],
+    "hash": "3eef1fc5868b93ce69aa85dfa50b2ac8"
+}

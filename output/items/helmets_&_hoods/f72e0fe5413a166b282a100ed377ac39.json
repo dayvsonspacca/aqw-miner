@@ -1,0 +1,17 @@
+{
+    "urlName": "lucky-knight-s-helm",
+    "url": "http://aqwwiki.wikidot.com/lucky-knight-s-helm",
+    "name": "Lucky Knight's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Do ya feel LUK-y, Hero? You can raise or lower your visor to protect your face! Visor goes up, visor goes down. Visor goes up, visor goes down!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/y3y1YKc.png",
+        "http://i.imgur.com/7YpzMaE.png"
+    ],
+    "hash": "f72e0fe5413a166b282a100ed377ac39"
+}

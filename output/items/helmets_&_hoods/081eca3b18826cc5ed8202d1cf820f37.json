@@ -1,0 +1,16 @@
+{
+    "urlName": "mad-crush",
+    "url": "http://aqwwiki.wikidot.com/mad-crush",
+    "name": "Mad Crush",
+    "type": "helmets_&_hoods",
+    "description": "You better run. This guy has a crazy crush on YOU!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mdxvY64.png"
+    ],
+    "hash": "081eca3b18826cc5ed8202d1cf820f37"
+}

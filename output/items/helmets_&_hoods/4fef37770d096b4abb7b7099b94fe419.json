@@ -1,0 +1,15 @@
+{
+    "urlName": "nibbleon-defense-helm",
+    "url": "http://aqwwiki.wikidot.com/nibbleon-defense-helm",
+    "name": "NibbleOn Defense Helm",
+    "type": "helmets_&_hoods",
+    "description": "You've been given the task to defend NibbleOn!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/zmCmmNX.png"
+    ],
+    "hash": "4fef37770d096b4abb7b7099b94fe419"
+}

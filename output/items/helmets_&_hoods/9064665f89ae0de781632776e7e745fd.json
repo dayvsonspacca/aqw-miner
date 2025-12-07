@@ -1,0 +1,16 @@
+{
+    "urlName": "frostval-fiend-horns",
+    "url": "http://aqwwiki.wikidot.com/frostval-fiend-horns",
+    "name": "Frostval Fiend Horns",
+    "type": "helmets_&_hoods",
+    "description": "Even fiends can be festive.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frostval-fiend-horns/FrostvalFiendHorns.png"
+    ],
+    "hash": "9064665f89ae0de781632776e7e745fd"
+}

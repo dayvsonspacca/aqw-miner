@@ -1,0 +1,17 @@
+{
+    "urlName": "infinity-tricorn",
+    "url": "http://aqwwiki.wikidot.com/infinity-tricorn",
+    "name": "Infinity Tricorn",
+    "type": "helmets_&_hoods",
+    "description": "Is it a tricorn? Is it a top hat? I just don't know! Hat is NOT color-custom.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/r1g6pb4.png",
+        "http://aqwwiki.wdfiles.com/local--files/infinity-tricorn/IT.png"
+    ],
+    "hash": "b43db05098b74a58002da86e0d1bfcd9"
+}

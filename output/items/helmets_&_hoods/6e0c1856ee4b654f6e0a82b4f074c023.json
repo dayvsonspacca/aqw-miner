@@ -1,0 +1,20 @@
+{
+    "urlName": "microwave-head",
+    "url": "http://aqwwiki.wikidot.com/microwave-head",
+    "name": "Microwave Head",
+    "type": "helmets_&_hoods",
+    "description": "You can eat while you heat your own 3 AM breakfast. (Randomizes item)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cJZAYyK.png",
+        "https://i.imgur.com/CPSHXcl.png",
+        "https://i.imgur.com/VwDOJTY.png",
+        "https://i.imgur.com/jr6Wzsx.png"
+    ],
+    "hash": "6e0c1856ee4b654f6e0a82b4f074c023"
+}

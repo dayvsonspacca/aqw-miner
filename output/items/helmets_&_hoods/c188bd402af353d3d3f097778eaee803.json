@@ -1,0 +1,16 @@
+{
+    "urlName": "winged-visor",
+    "url": "http://aqwwiki.wikidot.com/winged-visor",
+    "name": "Winged Visor",
+    "type": "helmets_&_hoods",
+    "description": "Using the element of wind, one might be distracted by their blowing hair and locks. This faceplate solves this issue.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/kLkkt7K.png"
+    ],
+    "hash": "c188bd402af353d3d3f097778eaee803"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "grove-buns",
+    "url": "http://aqwwiki.wikidot.com/grove-buns",
+    "name": "Grove Buns",
+    "type": "helmets_&_hoods",
+    "description": "These nymphs of the forest help the plants flourish with their powers. Small seeds suddenly become towering trees in their presence.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/UubT8Ci.png"
+    ],
+    "hash": "408c5c9279b734750ba43693f25c6fee"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "prismatic-doomknight-helm",
+    "url": "http://aqwwiki.wikidot.com/prismatic-doomknight-helm",
+    "name": "Prismatic Doomknight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Lose yourself forever those who wear this helm of doom.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/Hz1Os5x.png",
+        "https://i.imgur.com/Nwbje1O.png"
+    ],
+    "hash": "65fdb9e37b80086fd02db740922204c6"
+}

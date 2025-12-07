@@ -1,0 +1,14 @@
+{
+    "urlName": "combat-helm",
+    "url": "http://aqwwiki.wikidot.com/combat-helm",
+    "name": "Combat Helm",
+    "type": "helmets_&_hoods",
+    "description": "You have one mission: Destroy.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/fwpFJAG.png",
+        "http://i.imgur.com/qmYOHlq.png"
+    ],
+    "hash": "605d8ec11532a440c1cedf78f47841b7"
+}

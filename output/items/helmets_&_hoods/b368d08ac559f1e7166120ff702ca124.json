@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-lord-sepulchure-helm",
+    "url": "http://aqwwiki.wikidot.com/doom-lord-sepulchure-helm",
+    "name": "Doom Lord Sepulchure Helm",
+    "type": "helmets_&_hoods",
+    "description": "A fierce, lifeless armet belonging to the man whose singular goal is to vanquish the light, unleash doom upon the world, and resurrect a lost love. This helm goes 25% more damage to humans",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doom-lord-sepulchure-helm/SeppyHelm.png"
+    ],
+    "hash": "b368d08ac559f1e7166120ff702ca124"
+}

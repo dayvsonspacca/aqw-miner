@@ -1,0 +1,16 @@
+{
+    "urlName": "tribal-horc-locks",
+    "url": "http://aqwwiki.wikidot.com/tribal-horc-locks",
+    "name": "Tribal Horc Locks",
+    "type": "helmets_&_hoods",
+    "description": "According to the tribal tradition, orcs who prefer long hair were required to braid chunks of it so that it does not obscure their sight and mind.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tribal-horc-locks/TribalHorcLocks.png"
+    ],
+    "hash": "852835f93c8a1aa95252988567b5c3b4"
+}

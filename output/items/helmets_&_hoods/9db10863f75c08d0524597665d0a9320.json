@@ -1,0 +1,16 @@
+{
+    "urlName": "penance-hood",
+    "url": "http://aqwwiki.wikidot.com/penance-hood",
+    "name": "Penance Hood",
+    "type": "helmets_&_hoods",
+    "description": "Every Stylish penitant needs a hood!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/penance-hood/PenanceHood.png"
+    ],
+    "hash": "9db10863f75c08d0524597665d0a9320"
+}

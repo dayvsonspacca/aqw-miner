@@ -1,0 +1,16 @@
+{
+    "urlName": "astro-helm",
+    "url": "http://aqwwiki.wikidot.com/astro-helm",
+    "name": "Astro-Helm",
+    "type": "helmets_&_hoods",
+    "description": "Make sure you helm is screwed on tight, or in space everyone will able to hear your scream. HeroSmash Beta Rare!",
+    "rarity": "Ultra Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/astro-helm/AstroHelmN.png",
+        "http://aqwwiki.wdfiles.com/local--files/astro-helm/AstroHelm.png"
+    ],
+    "hash": "762d11ba75d611f3e59c81c213a63393"
+}

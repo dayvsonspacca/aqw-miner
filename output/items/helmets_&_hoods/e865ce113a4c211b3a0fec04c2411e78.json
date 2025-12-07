@@ -1,0 +1,16 @@
+{
+    "urlName": "j6-commander-helm",
+    "url": "http://aqwwiki.wikidot.com/j6-commander-helm",
+    "name": "J6 Commander Helm",
+    "type": "helmets_&_hoods",
+    "description": "Take command of the stars! The distinctive black stripe marks you as a legendary Space Commander! J6 says \"thank you\" for helping him get one step closer to his dream of visiting space!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/j6-commander-helm/J6SHC.png"
+    ],
+    "hash": "e865ce113a4c211b3a0fec04c2411e78"
+}

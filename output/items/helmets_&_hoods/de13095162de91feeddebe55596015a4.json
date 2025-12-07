@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-wisdom",
+    "url": "http://aqwwiki.wikidot.com/helm-of-wisdom",
+    "name": "Helm of Wisdom",
+    "type": "helmets_&_hoods",
+    "description": "Only the oldest, most venerated members of this ancient Order of Paladins are awarded this helm. It announces their experience and the wisdom gained through decades of battling their Order's enemies.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/8hP4xhp.png"
+    ],
+    "hash": "de13095162de91feeddebe55596015a4"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "doomhood",
+    "url": "http://aqwwiki.wikidot.com/doomhood",
+    "name": "DoomHood",
+    "type": "helmets_&_hoods",
+    "description": "For those seeking the services of Death - or wishing to server AS him - this cowl will intimidate any unlucky enough to cross your path.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doomhood/Doomhood.png"
+    ],
+    "hash": "e579a5b16dadb7bfb8e71bc0a75326e0"
+}

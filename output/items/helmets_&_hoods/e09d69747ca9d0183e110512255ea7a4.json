@@ -1,0 +1,16 @@
+{
+    "urlName": "wyrmhunter-s-cowl",
+    "url": "http://aqwwiki.wikidot.com/wyrmhunter-s-cowl",
+    "name": "WyrmHunter's Cowl",
+    "type": "helmets_&_hoods",
+    "description": "You've proven to Zoshi how awesome you are. Here is your reward. No monster in Lore stand a chance against you now.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wyrmhunter-s-cowl/WHCowl.png"
+    ],
+    "hash": "e09d69747ca9d0183e110512255ea7a4"
+}

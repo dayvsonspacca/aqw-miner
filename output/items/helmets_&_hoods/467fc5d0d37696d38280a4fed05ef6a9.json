@@ -1,0 +1,16 @@
+{
+    "urlName": "matchmaker-tophat",
+    "url": "http://aqwwiki.wikidot.com/matchmaker-tophat",
+    "name": "MatchMaker TopHat",
+    "type": "helmets_&_hoods",
+    "description": "No hero will be able to resist your matchmaking machinations when invite them to join you on your next adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JWjKeEu.png"
+    ],
+    "hash": "467fc5d0d37696d38280a4fed05ef6a9"
+}

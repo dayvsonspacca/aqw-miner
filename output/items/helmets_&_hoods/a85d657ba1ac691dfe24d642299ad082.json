@@ -1,0 +1,16 @@
+{
+    "urlName": "bucket-o-gold",
+    "url": "http://aqwwiki.wikidot.com/bucket-o-gold",
+    "name": "Bucket O' Gold",
+    "type": "helmets_&_hoods",
+    "description": "Crafted from solid cast-iron, this helm allows you to always keep gold on the mind. Er, head. You get the idea. Happy Lucky Day 2015!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Y71qgmJ.png"
+    ],
+    "hash": "a85d657ba1ac691dfe24d642299ad082"
+}

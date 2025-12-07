@@ -1,0 +1,16 @@
+{
+    "urlName": "faraday-hood",
+    "url": "http://aqwwiki.wikidot.com/faraday-hood",
+    "name": "Faraday Hood",
+    "type": "helmets_&_hoods",
+    "description": "Wearing the Faraday Hood is a hair-rasing experience, but no one can tell.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/faraday-hood/FaradayHood.png"
+    ],
+    "hash": "7b18dbae91e8502586851b0bd6b11dc5"
+}

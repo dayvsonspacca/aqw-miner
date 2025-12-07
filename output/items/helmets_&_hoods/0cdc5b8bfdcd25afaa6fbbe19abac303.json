@@ -1,0 +1,17 @@
+{
+    "urlName": "doomdragon-s-helm",
+    "url": "http://aqwwiki.wikidot.com/doomdragon-s-helm",
+    "name": "DoomDragon's Helm",
+    "type": "helmets_&_hoods",
+    "description": "You have the power of a DoomKnight and the strength of a dragon.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doomdragon-s-helm/DoomDragon'sHelm.png"
+    ],
+    "hash": "0cdc5b8bfdcd25afaa6fbbe19abac303"
+}

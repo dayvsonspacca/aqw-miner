@@ -1,0 +1,16 @@
+{
+    "urlName": "gelid-cap",
+    "url": "http://aqwwiki.wikidot.com/gelid-cap",
+    "name": "Gelid Cap",
+    "type": "helmets_&_hoods",
+    "description": "You will always keep your cool in this helm.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ScBq9gx.png"
+    ],
+    "hash": "a2881415a1ba451f9a26b80152bdd006"
+}

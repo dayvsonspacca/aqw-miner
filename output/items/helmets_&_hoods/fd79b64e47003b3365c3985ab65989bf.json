@@ -1,0 +1,16 @@
+{
+    "urlName": "bleakwind-hood",
+    "url": "http://aqwwiki.wikidot.com/bleakwind-hood",
+    "name": "Bleakwind Hood",
+    "type": "helmets_&_hoods",
+    "description": "Stylish and warm, this hood will help keep the cold out - even the cold of Bleakwind!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bleakwind-hood/BleakwindHood.png"
+    ],
+    "hash": "fd79b64e47003b3365c3985ab65989bf"
+}

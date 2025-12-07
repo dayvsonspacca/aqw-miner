@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowmaster-of-nulgath-helm",
+    "url": "http://aqwwiki.wikidot.com/shadowmaster-of-nulgath-helm",
+    "name": "Shadowmaster of Nulgath Helm",
+    "type": "helmets_&_hoods",
+    "description": "Fiendishly glowing green eyes gives the nefarious aura.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowmaster-of-nulgath-helm/SoNH.png"
+    ],
+    "hash": "b463ea0c2a5417fa37e83784d61960f1"
+}

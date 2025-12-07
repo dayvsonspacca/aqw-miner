@@ -1,0 +1,16 @@
+{
+    "urlName": "sheng-long-helm",
+    "url": "http://aqwwiki.wikidot.com/sheng-long-helm",
+    "name": "Sheng Long Helm",
+    "type": "helmets_&_hoods",
+    "description": "Do not neglect the legendary Imperial Dragon.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sheng-long-helm/ShengLongHelm.png"
+    ],
+    "hash": "d94630748c34d93f976987cab46e6651"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "hyperborean-hat",
+    "url": "http://aqwwiki.wikidot.com/hyperborean-hat",
+    "name": "Hyperborean Hat",
+    "type": "helmets_&_hoods",
+    "description": "You'll look really cool wearing this hat!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hyperborean-hat/HyperboreanHat.png"
+    ],
+    "hash": "494900f49503b61849acba48c5538957"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "glacier-lord-faceplate",
+    "url": "http://aqwwiki.wikidot.com/glacier-lord-faceplate",
+    "name": "Glacier Lord Faceplate",
+    "type": "helmets_&_hoods",
+    "description": "The icy stare shows you're devoid of warmth and cordiality. The faceplate protects against inclement weather.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glacier-lord-faceplate/GlacierLordFaceplate.png"
+    ],
+    "hash": "44517342b85c2615b621ea9b3f659646"
+}

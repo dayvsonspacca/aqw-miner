@@ -1,0 +1,15 @@
+{
+    "urlName": "cat-morph",
+    "url": "http://aqwwiki.wikidot.com/cat-morph",
+    "name": "Cat Morph",
+    "type": "helmets_&_hoods",
+    "description": "Your head has been morphed into a cute cat's head. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/CgQufio.png"
+    ],
+    "hash": "98f91f99d735f5348b4e5e876c16fdfb"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "blazing-golden-helm",
+    "url": "http://aqwwiki.wikidot.com/blazing-golden-helm",
+    "name": "Blazing Golden Helm",
+    "type": "helmets_&_hoods",
+    "description": "Burning with the intensity of a thousand suns, these warriors fight for Tyndarius and the Queen. Their loyalty shines as brightly as they do.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blazing-golden-helm/BlazingGoldenHelm.png"
+    ],
+    "hash": "84c8114329285d88f61f3fbe2a2573bb"
+}

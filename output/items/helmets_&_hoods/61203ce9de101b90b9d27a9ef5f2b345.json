@@ -1,0 +1,15 @@
+{
+    "urlName": "shadowslicer-helm",
+    "url": "http://aqwwiki.wikidot.com/shadowslicer-helm",
+    "name": "Shadowslicer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Slide through the shadows stealithy to cut your enemies down before they even know you're there!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/DNwYaNj.png"
+    ],
+    "hash": "61203ce9de101b90b9d27a9ef5f2b345"
+}

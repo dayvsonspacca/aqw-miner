@@ -1,0 +1,16 @@
+{
+    "urlName": "chronolord-tricorn",
+    "url": "http://aqwwiki.wikidot.com/chronolord-tricorn",
+    "name": "ChronoLord Tricorn",
+    "type": "helmets_&_hoods",
+    "description": "ChronoLords always have the time to look swanky in them Tricorn pirate hats.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chronolord-tricorn/ChronoLordTricorn.png"
+    ],
+    "hash": "27ad1d61ae5b0ca83c575cb51e9d6b87"
+}

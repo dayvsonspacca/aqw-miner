@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-judgment",
+    "url": "http://aqwwiki.wikidot.com/helm-of-judgment",
+    "name": "Helm of Judgment",
+    "type": "helmets_&_hoods",
+    "description": "What cannot be bound or conquered must be destroyed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/UhJtghl.png"
+    ],
+    "hash": "6a5540f9c204c02e25b4564bc619331b"
+}

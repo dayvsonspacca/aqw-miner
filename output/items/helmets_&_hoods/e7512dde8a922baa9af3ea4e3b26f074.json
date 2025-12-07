@@ -1,0 +1,15 @@
+{
+    "urlName": "harpies-beaked-helm",
+    "url": "http://aqwwiki.wikidot.com/harpies-beaked-helm",
+    "name": "Harpies Beaked Helm",
+    "type": "helmets_&_hoods",
+    "description": "If you're on the field, you'd better protect your head!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/OK3c8gL.png"
+    ],
+    "hash": "e7512dde8a922baa9af3ea4e3b26f074"
+}

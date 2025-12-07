@@ -1,0 +1,16 @@
+{
+    "urlName": "runed-knight-s-helm",
+    "url": "http://aqwwiki.wikidot.com/runed-knight-s-helm",
+    "name": "Runed Knight's Helm",
+    "type": "helmets_&_hoods",
+    "description": "You recovered this mysterious item after defeating Lord Reingold in his lair. It pulses with a strange, unsettling power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/o1aplXn.png"
+    ],
+    "hash": "4a6a872df7e07d4b8b7066827bbc4c95"
+}

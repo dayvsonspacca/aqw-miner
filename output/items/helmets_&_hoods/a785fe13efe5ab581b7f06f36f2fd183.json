@@ -1,0 +1,15 @@
+{
+    "urlName": "anime-goggles",
+    "url": "http://aqwwiki.wikidot.com/anime-goggles",
+    "name": "Anime Goggles",
+    "type": "helmets_&_hoods",
+    "description": "These are set on the forehead, not the eyes. (With spiky hair.)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/02vk3oy.png"
+    ],
+    "hash": "a785fe13efe5ab581b7f06f36f2fd183"
+}

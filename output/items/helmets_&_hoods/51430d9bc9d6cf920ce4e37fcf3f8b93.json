@@ -1,0 +1,16 @@
+{
+    "urlName": "battle-clawshelm-non-ac",
+    "url": "http://aqwwiki.wikidot.com/battle-clawshelm-non-ac",
+    "name": "Battle Clawshelm (Non-AC)",
+    "type": "helmets_&_hoods",
+    "description": "This isn't your ordinary Santa hat. Forged from the same metal as the Empowered Clawsuit, this sturdy helm will protect you whether you choose to be naughty or nice.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battle-clawshelm-non-ac/BattleClawshelm.png"
+    ],
+    "hash": "51430d9bc9d6cf920ce4e37fcf3f8b93"
+}

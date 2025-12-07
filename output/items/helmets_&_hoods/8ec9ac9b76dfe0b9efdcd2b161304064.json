@@ -1,0 +1,15 @@
+{
+    "urlName": "total-eclipse-solar-glasses",
+    "url": "http://aqwwiki.wikidot.com/total-eclipse-solar-glasses",
+    "name": "Total Eclipse Solar Glasses",
+    "type": "helmets_&_hoods",
+    "description": "You're not supposed to stare directly at an eclipse, but this probably isn't a normal skin reaction.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/FuYaBes.png"
+    ],
+    "hash": "8ec9ac9b76dfe0b9efdcd2b161304064"
+}

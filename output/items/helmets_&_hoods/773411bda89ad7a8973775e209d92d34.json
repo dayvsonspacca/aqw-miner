@@ -1,0 +1,16 @@
+{
+    "urlName": "bonelord-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/bonelord-helm-ac",
+    "name": "Bonelord Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "A lord of the dead that saps the energy of fallen souls to rule the battlefield. Sometimes, a stronger member of its amalgam overtakes the host, and becomes the new Bonelord.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kjyV8mh.png"
+    ],
+    "hash": "773411bda89ad7a8973775e209d92d34"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "skelly-hug-hair",
+    "url": "http://aqwwiki.wikidot.com/skelly-hug-hair",
+    "name": "Skelly Hug Hair",
+    "type": "helmets_&_hoods",
+    "description": "It's giving you a hug.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/dAD0IZ1.png"
+    ],
+    "hash": "ddb4ccc921fc0672d5532382e13a0b1b"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "wacky-top-hat",
+    "url": "http://aqwwiki.wikidot.com/wacky-top-hat",
+    "name": "Wacky Top Hat",
+    "type": "helmets_&_hoods",
+    "description": "It's a fantastic top hat!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DhCEGuk.png"
+    ],
+    "hash": "e7581430a2fd3bd6e07066e5d94de48c"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "fir-s-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/fir-s-helm-ac",
+    "name": "Fir's Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Meld with the Unifying Intellect as an Elk Clan druid!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fir-s-helm-ac/FH.png"
+    ],
+    "hash": "30c80b0cfee4e9322f9ceafef4594e37"
+}

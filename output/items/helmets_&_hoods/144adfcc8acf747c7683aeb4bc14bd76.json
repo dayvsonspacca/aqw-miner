@@ -1,0 +1,16 @@
+{
+    "urlName": "zombieslayer-hat",
+    "url": "http://aqwwiki.wikidot.com/zombieslayer-hat",
+    "name": "ZombieSlayer Hat",
+    "type": "helmets_&_hoods",
+    "description": "You used your BRAAAAAAAAAAINS to stay alive! The stench zombie hand strapped to your hat SHOULD fool the undead long enough for you to escape.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/M7SDAfC.png"
+    ],
+    "hash": "144adfcc8acf747c7683aeb4bc14bd76"
+}

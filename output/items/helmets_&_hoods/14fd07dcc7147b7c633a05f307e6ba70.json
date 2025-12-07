@@ -1,0 +1,16 @@
+{
+    "urlName": "darker-fiend-helm",
+    "url": "http://aqwwiki.wikidot.com/darker-fiend-helm",
+    "name": "Darker Fiend Helm",
+    "type": "helmets_&_hoods",
+    "description": "You've morphed into an even Darker Fiend, able to rip your opponents limb from limb with your claws",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/darker-fiend-helm/DarkerFiendHelm.png"
+    ],
+    "hash": "14fd07dcc7147b7c633a05f307e6ba70"
+}

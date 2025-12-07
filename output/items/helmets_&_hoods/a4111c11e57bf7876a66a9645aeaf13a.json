@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-naval-hat",
+    "url": "http://aqwwiki.wikidot.com/legion-naval-hat",
+    "name": "Legion Naval Hat",
+    "type": "helmets_&_hoods",
+    "description": "Ye in the Undead Legion? Ye be needin' a sea-worthy hat for ye Undead adventures.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-naval-hat/LegionNavalHat.png"
+    ],
+    "hash": "a4111c11e57bf7876a66a9645aeaf13a"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "paladorian-helm",
+    "url": "http://aqwwiki.wikidot.com/paladorian-helm",
+    "name": "Paladorian Helm",
+    "type": "helmets_&_hoods",
+    "description": "Fighting for Good: This is the way.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/5O1jUKb.png"
+    ],
+    "hash": "e6e6a8208725e49bd0f87b1c8602bd64"
+}

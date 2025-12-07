@@ -1,0 +1,16 @@
+{
+    "urlName": "solar-naval-locks",
+    "url": "http://aqwwiki.wikidot.com/solar-naval-locks",
+    "name": "Solar Naval Locks",
+    "type": "helmets_&_hoods",
+    "description": "A gleaming hat of reddish tan that represents the dawn. In that case, it gives rise to a new day out at sea.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solar-naval-locks/SolarNavalLocks.png"
+    ],
+    "hash": "7b5576feeb269ceb5444ce05b68c1d7b"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "tainted-crown",
+    "url": "http://aqwwiki.wikidot.com/tainted-crown",
+    "name": "Tainted Crown",
+    "type": "helmets_&_hoods",
+    "description": "You found this on Groglurk. There's something very corrupt about this crown. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/XX2N24D.png",
+        "http://i.imgur.com/WI0JjZ3.png"
+    ],
+    "hash": "2436a0e8120827b3a0e2cbf082d11ea4"
+}

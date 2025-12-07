@@ -1,0 +1,16 @@
+{
+    "urlName": "runed-knight-s-morph",
+    "url": "http://aqwwiki.wikidot.com/runed-knight-s-morph",
+    "name": "Runed Knight's Morph",
+    "type": "helmets_&_hoods",
+    "description": "You recovered this mysterious item after defeating Lord Reignolds in his lair. It pulses with a strange, unsettling power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/opiOdwH.png"
+    ],
+    "hash": "7f83235f3904b7f1e5a91abd67daa7de"
+}

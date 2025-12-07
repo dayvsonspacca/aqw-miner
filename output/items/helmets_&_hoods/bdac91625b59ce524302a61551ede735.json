@@ -1,0 +1,16 @@
+{
+    "urlName": "locks-of-light",
+    "url": "http://aqwwiki.wikidot.com/locks-of-light",
+    "name": "Locks Of Light",
+    "type": "helmets_&_hoods",
+    "description": "A one-of-a-kind crown that is said to have come from the Elemental Plane of Light, but fell into the mortal world and was a mystery to all for countless eras until it eventually found its way to Gravelyn. Now it belongs to you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/locks-of-light/LoL.png"
+    ],
+    "hash": "bdac91625b59ce524302a61551ede735"
+}

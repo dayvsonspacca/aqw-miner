@@ -1,0 +1,16 @@
+{
+    "urlName": "omega-pirate-scarf",
+    "url": "http://aqwwiki.wikidot.com/omega-pirate-scarf",
+    "name": "Omega Pirate Scarf",
+    "type": "helmets_&_hoods",
+    "description": "When other pirates see you flying the flag of the Omega Pirate, they turn their ships and flee.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/omega-pirate-scarf/OmegaPirateScarf.png"
+    ],
+    "hash": "835e61f30004e717e26b52a9c552976a"
+}

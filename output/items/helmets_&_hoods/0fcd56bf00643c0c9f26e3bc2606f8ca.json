@@ -1,0 +1,16 @@
+{
+    "urlName": "minotaur-trophy-helm",
+    "url": "http://aqwwiki.wikidot.com/minotaur-trophy-helm",
+    "name": "Minotaur Trophy Helm",
+    "type": "helmets_&_hoods",
+    "description": "Defeat the Beast, then wear this trophy helm to prove YOU are the Minotaur Slayer! Victory is yours!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/SeUTq4v.png"
+    ],
+    "hash": "0fcd56bf00643c0c9f26e3bc2606f8ca"
+}

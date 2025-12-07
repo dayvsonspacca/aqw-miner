@@ -1,0 +1,15 @@
+{
+    "urlName": "timeseeker-s-hat",
+    "url": "http://aqwwiki.wikidot.com/timeseeker-s-hat",
+    "name": "Timeseeker's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Only the most skilled Treasurehunters become Timeseekers, questing across the timestreams that make up the fabric of our universe.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/x2wsOSP.png"
+    ],
+    "hash": "f3d2f0ed477cf213ea7f9def11e51fd4"
+}

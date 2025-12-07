@@ -1,0 +1,16 @@
+{
+    "urlName": "tau-ceti-morph",
+    "url": "http://aqwwiki.wikidot.com/tau-ceti-morph",
+    "name": "Tau Ceti Morph",
+    "type": "helmets_&_hoods",
+    "description": "A color custom airlock helm built by Reddy, the Tau Ceti Morph allows the Tau Ceti Soldiers to travel from planet to planet without having to reveal their faces to a new species.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/14ZLMG1.png",
+        "http://i.imgur.com/oTalyhp.png"
+    ],
+    "hash": "de786cb74237252516f19e6dbc774efb"
+}

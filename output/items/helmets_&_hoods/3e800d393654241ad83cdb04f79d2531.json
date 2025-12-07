@@ -1,0 +1,16 @@
+{
+    "urlName": "pomegranate-top",
+    "url": "http://aqwwiki.wikidot.com/pomegranate-top",
+    "name": "Pomegranate Top",
+    "type": "helmets_&_hoods",
+    "description": "A little twist on the top hat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/6LWK3Db.png"
+    ],
+    "hash": "3e800d393654241ad83cdb04f79d2531"
+}

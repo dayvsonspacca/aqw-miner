@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-helm-of-vokun",
+    "url": "http://aqwwiki.wikidot.com/shadow-helm-of-vokun",
+    "name": "Shadow Helm of Vokun",
+    "type": "helmets_&_hoods",
+    "description": "A good defender needs a protection on every side.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-helm-of-vokun/SHoV.png"
+    ],
+    "hash": "eb1d7b7e0b0bc8eb073c186fc3cb8bce"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "shadow-conqueror-helm",
+    "url": "http://aqwwiki.wikidot.com/shadow-conqueror-helm",
+    "name": "Shadow Conqueror Helm",
+    "type": "helmets_&_hoods",
+    "description": "A devious helm suited for conquerors with a crest that matches your unnatural hair color.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/J5XsxEU.png"
+    ],
+    "hash": "4698aac5e6727490a07e416b1334811e"
+}

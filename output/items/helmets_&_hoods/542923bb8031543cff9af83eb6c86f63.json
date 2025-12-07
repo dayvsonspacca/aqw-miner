@@ -1,0 +1,16 @@
+{
+    "urlName": "ebil-company-helmet",
+    "url": "http://aqwwiki.wikidot.com/ebil-company-helmet",
+    "name": "Ebil Company Helmet",
+    "type": "helmets_&_hoods",
+    "description": "A protective helmet that won't muffle your speech. This way, you'll know exactly when you've lost a team mate, and need to get outta there.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/4Sgb1ew.png"
+    ],
+    "hash": "542923bb8031543cff9af83eb6c86f63"
+}

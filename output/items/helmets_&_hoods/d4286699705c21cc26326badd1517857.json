@@ -1,0 +1,16 @@
+{
+    "urlName": "glacial-frostscythe-helm",
+    "url": "http://aqwwiki.wikidot.com/glacial-frostscythe-helm",
+    "name": "Glacial FrostScythe Helm",
+    "type": "helmets_&_hoods",
+    "description": "Even the worst ice and snow is no match for these warriors!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1UNELLC.png"
+    ],
+    "hash": "d4286699705c21cc26326badd1517857"
+}

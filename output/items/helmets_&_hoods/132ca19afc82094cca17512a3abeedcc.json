@@ -1,0 +1,15 @@
+{
+    "urlName": "valor-domed-helm",
+    "url": "http://aqwwiki.wikidot.com/valor-domed-helm",
+    "name": "Valor Domed Helm",
+    "type": "helmets_&_hoods",
+    "description": "Charge into battle with this gilded helmet of the heavens!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/Skmld4T.png"
+    ],
+    "hash": "132ca19afc82094cca17512a3abeedcc"
+}

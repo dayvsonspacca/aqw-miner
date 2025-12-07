@@ -1,0 +1,16 @@
+{
+    "urlName": "fallen-faceplate",
+    "url": "http://aqwwiki.wikidot.com/fallen-faceplate",
+    "name": "Fallen Faceplate",
+    "type": "helmets_&_hoods",
+    "description": "Shunned from society, the Shaman choose to hide their faces.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-faceplate/FallenFaceplate.png"
+    ],
+    "hash": "3f902dbaa53afdef10c0080e678c5c49"
+}

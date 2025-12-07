@@ -1,0 +1,16 @@
+{
+    "urlName": "blade-warrior-head-unit",
+    "url": "http://aqwwiki.wikidot.com/blade-warrior-head-unit",
+    "name": "Blade Warrior Head Unit",
+    "type": "helmets_&_hoods",
+    "description": "Able to detect the slightest movements and heat signatures, these mounted units come preinstalled with the latest in sensor and processing technology.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blade-warrior-head-unit/BladeWarriorHeadUnit.png"
+    ],
+    "hash": "a6e7cd4b6dbd6c649ebac58211678eaa"
+}

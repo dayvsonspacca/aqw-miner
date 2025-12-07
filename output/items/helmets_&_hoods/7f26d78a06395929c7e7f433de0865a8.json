@@ -1,0 +1,15 @@
+{
+    "urlName": "grand-inquisitor-s-helm",
+    "url": "http://aqwwiki.wikidot.com/grand-inquisitor-s-helm",
+    "name": "Grand Inquisitor's Helm",
+    "type": "helmets_&_hoods",
+    "description": "The grand Inquisitor is defeated and his helm is your proof.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/nWBynbs.png"
+    ],
+    "hash": "7f26d78a06395929c7e7f433de0865a8"
+}

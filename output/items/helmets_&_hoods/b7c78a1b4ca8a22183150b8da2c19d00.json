@@ -1,0 +1,16 @@
+{
+    "urlName": "ironwood-s-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/ironwood-s-helm-ac",
+    "name": "Ironwood's Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Meld with the Unifying Intellect as an Elk Clan druid!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ironwood-s-helm-ac/IH.png"
+    ],
+    "hash": "b7c78a1b4ca8a22183150b8da2c19d00"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "werepyre-slayer-helm",
+    "url": "http://aqwwiki.wikidot.com/werepyre-slayer-helm",
+    "name": "Werepyre Slayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Being called \"4 eyes\" never looked so awesome! A rare helm awarded to those who have proven their ferocity in combat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/werepyre-slayer-helm/WerepyreSlayerHelm.png"
+    ],
+    "hash": "f3baf78e6842c00ff6a5620f6ebd42ca"
+}

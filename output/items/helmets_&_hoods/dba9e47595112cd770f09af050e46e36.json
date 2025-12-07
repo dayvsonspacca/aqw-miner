@@ -1,0 +1,16 @@
+{
+    "urlName": "captain-lore-locks",
+    "url": "http://aqwwiki.wikidot.com/captain-lore-locks",
+    "name": "Captain Lore Locks",
+    "type": "helmets_&_hoods",
+    "description": "GO LORE!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/captain-lore-locks/CaptainLoreLocks.png"
+    ],
+    "hash": "dba9e47595112cd770f09af050e46e36"
+}

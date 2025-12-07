@@ -1,0 +1,16 @@
+{
+    "urlName": "one-eyed-drow-helm-5",
+    "url": "http://aqwwiki.wikidot.com/one-eyed-drow-helm-5",
+    "name": "One-Eyed Drow Helm +5",
+    "type": "helmets_&_hoods",
+    "description": "\"Hey. Wait. If you're an Archer, how do you aim with just one eye?\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/one-eyed-drow-helm-5/OneEyedDrowHelm.png"
+    ],
+    "hash": "f2ccefc520dda892142cc5fd38589b88"
+}

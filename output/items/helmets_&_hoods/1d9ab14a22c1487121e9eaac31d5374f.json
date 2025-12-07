@@ -1,0 +1,16 @@
+{
+    "urlName": "orca-helmet",
+    "url": "http://aqwwiki.wikidot.com/orca-helmet",
+    "name": "Orca Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Charge head into the fray with the Orca team helmet on your head!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/orca-helmet/OrcaHelmet.png"
+    ],
+    "hash": "1d9ab14a22c1487121e9eaac31d5374f"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "makeshift-wizard-hat",
+    "url": "http://aqwwiki.wikidot.com/makeshift-wizard-hat",
+    "name": "Makeshift Wizard Hat",
+    "type": "helmets_&_hoods",
+    "description": "This hat has certainly seen some better days. But you've gotta have a hat. Every wizard has some form of wizard hat.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/7jFknNh.png"
+    ],
+    "hash": "e9bd8e895891a365b39f2ef841208272"
+}

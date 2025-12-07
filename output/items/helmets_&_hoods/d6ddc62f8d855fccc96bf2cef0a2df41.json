@@ -1,0 +1,16 @@
+{
+    "urlName": "slayer-recruit-helm",
+    "url": "http://aqwwiki.wikidot.com/slayer-recruit-helm",
+    "name": "Slayer Recruit Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hate dragons? Did one burn down your house? Does the name Targaryen cause rage? Then you've joined the right squad!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/NqENHMi.png",
+        "https://i.imgur.com/VJ57O5O.png"
+    ],
+    "hash": "d6ddc62f8d855fccc96bf2cef0a2df41"
+}

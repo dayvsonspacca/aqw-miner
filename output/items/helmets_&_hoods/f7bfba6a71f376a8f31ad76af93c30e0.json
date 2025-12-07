@@ -1,0 +1,16 @@
+{
+    "urlName": "rheyl-s-helm",
+    "url": "http://aqwwiki.wikidot.com/rheyl-s-helm",
+    "name": "Rheyl's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Helm crafted by Vhall for one of his viceroys in the Undead Legion.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vLvdrog.png"
+    ],
+    "hash": "f7bfba6a71f376a8f31ad76af93c30e0"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "plasma-pyro-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/plasma-pyro-helm-ac",
+    "name": "Plasma Pyro Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Some might say you're hot headed. And they couldn't be more right.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/plasma-pyro-helm-ac/PlasmaPyroHelm.png"
+    ],
+    "hash": "b15c220d0a11094f3abfd929d293f8bd"
+}

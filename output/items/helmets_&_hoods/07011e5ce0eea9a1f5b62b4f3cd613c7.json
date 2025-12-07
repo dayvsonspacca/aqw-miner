@@ -1,0 +1,16 @@
+{
+    "urlName": "holly-helm",
+    "url": "http://aqwwiki.wikidot.com/holly-helm",
+    "name": "Holly Helm",
+    "type": "helmets_&_hoods",
+    "description": "A gift to the Holly Knights from the Silent Knights.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://imgur.com/MEagOYT.png"
+    ],
+    "hash": "07011e5ce0eea9a1f5b62b4f3cd613c7"
+}

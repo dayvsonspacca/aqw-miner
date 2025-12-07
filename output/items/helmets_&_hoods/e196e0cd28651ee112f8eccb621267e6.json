@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-operative-hood",
+    "url": "http://aqwwiki.wikidot.com/legion-operative-hood",
+    "name": "Legion Operative Hood",
+    "type": "helmets_&_hoods",
+    "description": "Legion Operatives move stealthily through the shadows, carrying out Dage the Evil's dark work in silence.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AAelBnL.png"
+    ],
+    "hash": "e196e0cd28651ee112f8eccb621267e6"
+}

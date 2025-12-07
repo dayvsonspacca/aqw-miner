@@ -1,0 +1,17 @@
+{
+    "urlName": "fiery-jack-o-face",
+    "url": "http://aqwwiki.wikidot.com/fiery-jack-o-face",
+    "name": "Fiery Jack o' Face",
+    "type": "helmets_&_hoods",
+    "description": "This is what happens when you put 25 candles in your jack-o-lantern.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/SkVxsVi.png"
+    ],
+    "hash": "c2a8102bbb8786631cc4274d8b4e1363"
+}

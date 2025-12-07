@@ -1,0 +1,16 @@
+{
+    "urlName": "earthen-locks",
+    "url": "http://aqwwiki.wikidot.com/earthen-locks",
+    "name": "Earthen Locks",
+    "type": "helmets_&_hoods",
+    "description": "Choppy as a sharp cliffside, softer than clay.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8K94ZtS.png"
+    ],
+    "hash": "3d1fc33fabd54a0ae0ae7401d1b494dd"
+}

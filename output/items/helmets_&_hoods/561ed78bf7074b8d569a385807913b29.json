@@ -1,0 +1,16 @@
+{
+    "urlName": "agent-s-locks-and-shades",
+    "url": "http://aqwwiki.wikidot.com/agent-s-locks-and-shades",
+    "name": "Agent's Locks and Shades",
+    "type": "helmets_&_hoods",
+    "description": "Bright lights are distracting. The shades are to help keep focus.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/l8QyHN6.png"
+    ],
+    "hash": "561ed78bf7074b8d569a385807913b29"
+}

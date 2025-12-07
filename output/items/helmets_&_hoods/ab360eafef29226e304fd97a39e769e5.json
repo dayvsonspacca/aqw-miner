@@ -1,0 +1,16 @@
+{
+    "urlName": "earth-weilder-helm",
+    "url": "http://aqwwiki.wikidot.com/earth-weilder-helm",
+    "name": "Earth Weilder Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hermetically sealed, pressurized, filtered, magic darkvision lenses and real-time location and environment monitoring from 300 data points on the armor make this helm the ideal companion to the Earth Weilder armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/earth-weilder-helm/EarthWielderHelm.png"
+    ],
+    "hash": "ab360eafef29226e304fd97a39e769e5"
+}

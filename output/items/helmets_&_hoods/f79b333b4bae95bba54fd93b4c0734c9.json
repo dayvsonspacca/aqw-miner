@@ -1,0 +1,16 @@
+{
+    "urlName": "astravian-enforcer-locks",
+    "url": "http://aqwwiki.wikidot.com/astravian-enforcer-locks",
+    "name": "Astravian Enforcer Locks",
+    "type": "helmets_&_hoods",
+    "description": "If the barber leaves even one strand out of place, they'll be saying goodbye to their fingers.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7R5LMjo.png"
+    ],
+    "hash": "f79b333b4bae95bba54fd93b4c0734c9"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-knight-locks",
+    "url": "http://aqwwiki.wikidot.com/frost-knight-locks",
+    "name": "Frost Knight Locks",
+    "type": "helmets_&_hoods",
+    "description": "Small, sparkling crystalline rocks rest in your hair, allowing you to brave your way through the thickest of blizzards in style. Are those diamonds?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-knight-locks/FKLocks.png"
+    ],
+    "hash": "2845d6071f802b3fd3cedae0308e25bc"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "royal-raider-hat",
+    "url": "http://aqwwiki.wikidot.com/royal-raider-hat",
+    "name": "Royal Raider Hat",
+    "type": "helmets_&_hoods",
+    "description": "A savvy hat for every well dressed pirate on the open seas. They'll be no denying your bounty from your enemies when they see these threads.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/royal-raider-hat/RRHat.png"
+    ],
+    "hash": "15f557c8d6bf9013ba5ebd3fd2ca6fcf"
+}

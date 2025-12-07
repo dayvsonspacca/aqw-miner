@@ -1,0 +1,17 @@
+{
+    "urlName": "pilgrim-rogue-hat",
+    "url": "http://aqwwiki.wikidot.com/pilgrim-rogue-hat",
+    "name": "Pilgrim Rogue Hat",
+    "type": "helmets_&_hoods",
+    "description": "This pilgrim hat has gone rogue.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/7rFQtfz.png"
+    ],
+    "hash": "1d2a52a1ed0644ed5178b6031bd7093b"
+}

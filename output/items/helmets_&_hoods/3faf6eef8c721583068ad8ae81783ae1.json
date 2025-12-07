@@ -1,0 +1,16 @@
+{
+    "urlName": "glowing-minion-hood",
+    "url": "http://aqwwiki.wikidot.com/glowing-minion-hood",
+    "name": "Glowing Minion Hood",
+    "type": "helmets_&_hoods",
+    "description": "Even minions can afford to look stylish sometimes. As long as they're not in blue overalls.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glowing-minion-hood/GMH.png"
+    ],
+    "hash": "3faf6eef8c721583068ad8ae81783ae1"
+}

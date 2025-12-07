@@ -1,0 +1,16 @@
+{
+    "urlName": "new-minion-morph",
+    "url": "http://aqwwiki.wikidot.com/new-minion-morph",
+    "name": "New Minion Morph",
+    "type": "helmets_&_hoods",
+    "description": "You need guts to serve the Shadow Lich Lord, thankfully yours are showing.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/SHicIfv.png"
+    ],
+    "hash": "dc21444eb0557ad1d51f213cb4619ef6"
+}

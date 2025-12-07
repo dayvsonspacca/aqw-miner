@@ -1,0 +1,19 @@
+{
+    "urlName": "fancy-new-years-hat",
+    "url": "http://aqwwiki.wikidot.com/fancy-new-years-hat",
+    "name": "Fancy New Years Hat",
+    "type": "helmets_&_hoods",
+    "description": "Ring in the new year with class AND style!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/9K1JhSj.png",
+        "https://i.imgur.com/Uyfv81q.png",
+        "https://i.imgur.com/pjhDko7.png"
+    ],
+    "hash": "7648a9c8d222e9312febb61d872cd2a2"
+}

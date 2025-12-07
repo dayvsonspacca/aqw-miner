@@ -1,0 +1,15 @@
+{
+    "urlName": "aqua-scout-helm",
+    "url": "http://aqwwiki.wikidot.com/aqua-scout-helm",
+    "name": "Aqua Scout Helm",
+    "type": "helmets_&_hoods",
+    "description": "With these eyes, you'll be able to see enemies coming underwater for miles! Eye sea you! HeroSmash Beta Rare!",
+    "rarity": "Ultra Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/aqua-scout-helm/AquaScoutHelm.png"
+    ],
+    "hash": "30fb70b59530f848bec12c6710eada06"
+}

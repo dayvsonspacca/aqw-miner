@@ -1,0 +1,15 @@
+{
+    "urlName": "void-beetle-general-helm",
+    "url": "http://aqwwiki.wikidot.com/void-beetle-general-helm",
+    "name": "Void Beetle General Helm",
+    "type": "helmets_&_hoods",
+    "description": "The inpenetrable exoskeleton hides the unspeakable horrors of the void within.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/v1idsGC.png"
+    ],
+    "hash": "a00374869c19408d78b0aefdb34ed01b"
+}

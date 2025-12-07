@@ -1,0 +1,16 @@
+{
+    "urlName": "solar-lorekeeper-s-locks",
+    "url": "http://aqwwiki.wikidot.com/solar-lorekeeper-s-locks",
+    "name": "Solar Lorekeeper's Locks",
+    "type": "helmets_&_hoods",
+    "description": "Keep your hair back with a shiny bit of headgarb that shows off your favorite subject of study!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solar-lorekeeper-s-locks/SolarLorekeeper'sLocks.png"
+    ],
+    "hash": "efb37ab568f99da0bfc4eee3ba0dd826"
+}

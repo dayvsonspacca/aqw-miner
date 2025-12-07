@@ -1,0 +1,15 @@
+{
+    "urlName": "hot-head",
+    "url": "http://aqwwiki.wikidot.com/hot-head",
+    "name": "Hot Head",
+    "type": "helmets_&_hoods",
+    "description": "This hairstyle is hot!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/pWO53Uz.png"
+    ],
+    "hash": "cf054e1cecb1c3a385ccc2bde8551b1d"
+}

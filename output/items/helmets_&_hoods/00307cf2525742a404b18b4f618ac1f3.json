@@ -1,0 +1,16 @@
+{
+    "urlName": "chef-hat",
+    "url": "http://aqwwiki.wikidot.com/chef-hat",
+    "name": "Chef Hat",
+    "type": "helmets_&_hoods",
+    "description": "Get to work! You've got a large dinner to make!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/xWdvY0y.png"
+    ],
+    "hash": "00307cf2525742a404b18b4f618ac1f3"
+}

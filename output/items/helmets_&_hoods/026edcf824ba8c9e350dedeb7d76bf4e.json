@@ -1,0 +1,15 @@
+{
+    "urlName": "glacier-helm",
+    "url": "http://aqwwiki.wikidot.com/glacier-helm",
+    "name": "Glacier Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helm that redefines the cool persona. Not recommended for hot-headed warriors.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/q8pwXHL.png"
+    ],
+    "hash": "026edcf824ba8c9e350dedeb7d76bf4e"
+}

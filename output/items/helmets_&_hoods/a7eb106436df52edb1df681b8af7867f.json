@@ -1,0 +1,15 @@
+{
+    "urlName": "horned-groglurk-helm",
+    "url": "http://aqwwiki.wikidot.com/horned-groglurk-helm",
+    "name": "Horned Groglurk Helm",
+    "type": "helmets_&_hoods",
+    "description": "Not the best helm when you're trying to make your way through a dark maze.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/9XxBY2J.png"
+    ],
+    "hash": "a7eb106436df52edb1df681b8af7867f"
+}

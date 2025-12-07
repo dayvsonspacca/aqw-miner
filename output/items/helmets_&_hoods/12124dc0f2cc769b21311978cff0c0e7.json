@@ -1,0 +1,17 @@
+{
+    "urlName": "avomancer-helm",
+    "url": "http://aqwwiki.wikidot.com/avomancer-helm",
+    "name": "Avomancer Helm",
+    "type": "helmets_&_hoods",
+    "description": "A perfect helm when you suspect fowl play.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hj2NfrC.png",
+        "http://aqwwiki.wdfiles.com/local--files/avomancer-helm/AH.png"
+    ],
+    "hash": "12124dc0f2cc769b21311978cff0c0e7"
+}

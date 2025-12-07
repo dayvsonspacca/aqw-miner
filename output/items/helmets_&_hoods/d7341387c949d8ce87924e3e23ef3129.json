@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-hair",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-hair",
+    "name": "Frostlorn Hair",
+    "type": "helmets_&_hoods",
+    "description": "The magic of the Frostlorn Summoner is most powerful when the moon is high and the winds blow cold enough to turn a water elemental into ice.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AUDtdp7.png",
+        "https://i.imgur.com/7Fi9AFF.png"
+    ],
+    "hash": "d7341387c949d8ce87924e3e23ef3129"
+}

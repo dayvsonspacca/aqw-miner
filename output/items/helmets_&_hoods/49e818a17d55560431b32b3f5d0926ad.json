@@ -1,0 +1,16 @@
+{
+    "urlName": "lavastorm-lord-helm",
+    "url": "http://aqwwiki.wikidot.com/lavastorm-lord-helm",
+    "name": "Lavastorm Lord Helm",
+    "type": "helmets_&_hoods",
+    "description": "Searing eyes peer from this hood. The faceplate protects against the harsh elements.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lavastorm-lord-helm/LavastormLordHelm.png"
+    ],
+    "hash": "49e818a17d55560431b32b3f5d0926ad"
+}

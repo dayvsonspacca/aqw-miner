@@ -1,0 +1,16 @@
+{
+    "urlName": "malevolent-scarecrow-sack",
+    "url": "http://aqwwiki.wikidot.com/malevolent-scarecrow-sack",
+    "name": "Malevolent Scarecrow Sack",
+    "type": "helmets_&_hoods",
+    "description": "This used to hold potatoes. Now it holds some scares.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DSZ2RIi.png"
+    ],
+    "hash": "12483f8c415386dc80e30c71363beff0"
+}

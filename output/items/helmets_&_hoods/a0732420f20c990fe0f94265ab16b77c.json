@@ -1,0 +1,16 @@
+{
+    "urlName": "sand-golem-helm",
+    "url": "http://aqwwiki.wikidot.com/sand-golem-helm",
+    "name": "Sand Golem Helm",
+    "type": "helmets_&_hoods",
+    "description": "Formed from the essence of your dreams, the Sand Golem has come to life to inhabit your waking world.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/vUTeYTX.png"
+    ],
+    "hash": "a0732420f20c990fe0f94265ab16b77c"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "nocturan-adept-helm",
+    "url": "http://aqwwiki.wikidot.com/nocturan-adept-helm",
+    "name": "Nocturan Adept Helm",
+    "type": "helmets_&_hoods",
+    "description": "After the dusk settles, there are those who come out at night only to cause terror. The Nocturan will be there to protect and serve.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/w1DhtKZ.png"
+    ],
+    "hash": "9aa490b1bf194c7ec8e66452ff77b515"
+}

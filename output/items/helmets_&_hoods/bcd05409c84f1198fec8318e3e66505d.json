@@ -1,0 +1,16 @@
+{
+    "urlName": "ms-drow-marshal-hat",
+    "url": "http://aqwwiki.wikidot.com/ms-drow-marshal-hat",
+    "name": "Ms. Drow Marshal Hat",
+    "type": "helmets_&_hoods",
+    "description": "Howdy partner! Got tickets to the gun show? If you're an enemy to the Drow Marshal, you won't need a ticket\u2026 just a funeral reservation.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ms-drow-marshal-hat/MsDrowMarshalHat.png"
+    ],
+    "hash": "bcd05409c84f1198fec8318e3e66505d"
+}

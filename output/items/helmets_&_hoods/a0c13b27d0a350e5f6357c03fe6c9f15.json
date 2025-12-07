@@ -1,0 +1,18 @@
+{
+    "urlName": "fiendish-magus-hat-visage-ac",
+    "url": "http://aqwwiki.wikidot.com/fiendish-magus-hat-visage-ac",
+    "name": "Fiendish Magus Hat Visage (AC)",
+    "type": "helmets_&_hoods",
+    "description": "A classic hat retailored to fit the image of a Nation Cultist. They say they closely follow in the footsteps of their Master Nulgath, but he's allergic to hats.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Gjegh74.png",
+        "https://i.imgur.com/ZugdbQw.png",
+        "https://i.imgur.com/rt5EsLn.png"
+    ],
+    "hash": "a0c13b27d0a350e5f6357c03fe6c9f15"
+}

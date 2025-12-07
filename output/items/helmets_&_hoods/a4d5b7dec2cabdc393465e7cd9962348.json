@@ -1,0 +1,16 @@
+{
+    "urlName": "temporal-aurora-morph",
+    "url": "http://aqwwiki.wikidot.com/temporal-aurora-morph",
+    "name": "Temporal Aurora Morph",
+    "type": "helmets_&_hoods",
+    "description": "Crafted from chunks of frozen Aurora Borealis mined by Astromancers in the far Northlands, if you look deep into the blue-green material, you may become transfixed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/qfqGjim.png"
+    ],
+    "hash": "a4d5b7dec2cabdc393465e7cd9962348"
+}

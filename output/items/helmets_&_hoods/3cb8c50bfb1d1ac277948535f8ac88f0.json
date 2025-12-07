@@ -1,0 +1,16 @@
+{
+    "urlName": "boxadin-helm",
+    "url": "http://aqwwiki.wikidot.com/boxadin-helm",
+    "name": "Boxadin Helm",
+    "type": "helmets_&_hoods",
+    "description": "Boxadins are the eco-friendly protectors of\u2026 BOXES! This helm is using recycled cellophane tape to hold the faceplate on.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/dpZfhsc.png"
+    ],
+    "hash": "3cb8c50bfb1d1ac277948535f8ac88f0"
+}

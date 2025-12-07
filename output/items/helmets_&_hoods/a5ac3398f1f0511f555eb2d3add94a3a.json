@@ -1,0 +1,15 @@
+{
+    "urlName": "mediator-locks",
+    "url": "http://aqwwiki.wikidot.com/mediator-locks",
+    "name": "Mediator Locks",
+    "type": "helmets_&_hoods",
+    "description": "Expose your face for all to see. Let all who gaze upon your visage burn your image into their memory.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wFqv894.png"
+    ],
+    "hash": "a5ac3398f1f0511f555eb2d3add94a3a"
+}

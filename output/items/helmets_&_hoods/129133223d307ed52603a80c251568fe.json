@@ -1,0 +1,15 @@
+{
+    "urlName": "frost-ninja-hair",
+    "url": "http://aqwwiki.wikidot.com/frost-ninja-hair",
+    "name": "Frost Ninja Hair",
+    "type": "helmets_&_hoods",
+    "description": "Your hair! It looks frozen!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-ninja-hair/FrostNinjaHair.png"
+    ],
+    "hash": "129133223d307ed52603a80c251568fe"
+}

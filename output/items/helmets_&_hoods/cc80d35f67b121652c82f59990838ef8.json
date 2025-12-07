@@ -1,0 +1,16 @@
+{
+    "urlName": "gilded-knight-grand-sallet",
+    "url": "http://aqwwiki.wikidot.com/gilded-knight-grand-sallet",
+    "name": "Gilded Knight Grand Sallet",
+    "type": "helmets_&_hoods",
+    "description": "The winged helm of a gilded knight known by their actions more than they were called by their birth name.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8MhcmZF.png"
+    ],
+    "hash": "cc80d35f67b121652c82f59990838ef8"
+}

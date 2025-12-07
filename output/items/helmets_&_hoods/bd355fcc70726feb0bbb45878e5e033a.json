@@ -1,0 +1,17 @@
+{
+    "urlName": "chapeu-encantado",
+    "url": "http://aqwwiki.wikidot.com/chapeu-encantado",
+    "name": "Chapeu Encantado",
+    "type": "helmets_&_hoods",
+    "description": "Todos na cidade v\u00e3o admir\u00e1-lo quando voc\u00ea usar isso. (Everyone in town will admire you when you wear this.) (This item is color customizable.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KQ5jANw.png"
+    ],
+    "hash": "bd355fcc70726feb0bbb45878e5e033a"
+}

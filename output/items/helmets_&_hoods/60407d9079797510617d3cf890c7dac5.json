@@ -1,0 +1,16 @@
+{
+    "urlName": "scarred-mask-ac",
+    "url": "http://aqwwiki.wikidot.com/scarred-mask-ac",
+    "name": "Scarred Mask (AC)",
+    "type": "helmets_&_hoods",
+    "description": "You're a Death Rider. You're a freak. You're on a wicked killing streak. Now go out there and show the world who's boss. (This item has a 30% chance to do the Shadowburst attack animation.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/scarred-mask-ac/ScarredMask.png"
+    ],
+    "hash": "60407d9079797510617d3cf890c7dac5"
+}

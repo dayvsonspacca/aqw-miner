@@ -1,0 +1,16 @@
+{
+    "urlName": "ebil-creeper-helm",
+    "url": "http://aqwwiki.wikidot.com/ebil-creeper-helm",
+    "name": "Ebil Creeper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Nothing is creepier than a box of nails with an evil Ebil logo on it!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ebil-creeper-helm/EbilCreeperHelm.png"
+    ],
+    "hash": "303f300a165f2e5dfcc83eb6e401e14b"
+}

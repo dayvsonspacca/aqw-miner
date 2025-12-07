@@ -1,0 +1,15 @@
+{
+    "urlName": "iron-bat-helm",
+    "url": "http://aqwwiki.wikidot.com/iron-bat-helm",
+    "name": "Iron Bat Helm",
+    "type": "helmets_&_hoods",
+    "description": "For the stylish vampire bat who likes to keep their identity hidden.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/iron-bat-helm/IBH.jpg"
+    ],
+    "hash": "3e969200260700a2d6263d8d64327d3f"
+}

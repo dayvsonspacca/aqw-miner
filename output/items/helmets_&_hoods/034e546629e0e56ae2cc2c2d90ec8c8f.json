@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-nightmare-mask",
+    "url": "http://aqwwiki.wikidot.com/shadow-nightmare-mask",
+    "name": "Shadow Nightmare Mask",
+    "type": "helmets_&_hoods",
+    "description": "A darkened version of the infamous thief's helm that comes with high-resolution night vision technology, ideal for navigating pitch-black environments.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-nightmare-mask/SNM.png"
+    ],
+    "hash": "034e546629e0e56ae2cc2c2d90ec8c8f"
+}

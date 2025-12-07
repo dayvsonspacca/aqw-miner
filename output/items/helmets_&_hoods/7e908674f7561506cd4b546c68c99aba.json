@@ -1,0 +1,16 @@
+{
+    "urlName": "deathblood-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/deathblood-helm-ac",
+    "name": "DeathBlood Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Join the ranks of the DeathBlood Warriors as you prepare to face the Death Pits!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathblood-helm-ac/DeathBloodHelm.png"
+    ],
+    "hash": "7e908674f7561506cd4b546c68c99aba"
+}

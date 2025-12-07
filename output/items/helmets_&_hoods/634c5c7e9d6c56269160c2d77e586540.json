@@ -1,0 +1,16 @@
+{
+    "urlName": "alpha-hunter-helm",
+    "url": "http://aqwwiki.wikidot.com/alpha-hunter-helm",
+    "name": "Alpha Hunter Helm",
+    "type": "helmets_&_hoods",
+    "description": "No better outfit to wear while rebelling against the rampant consumerism of the approaching holiday season!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ws8KHgn.png"
+    ],
+    "hash": "634c5c7e9d6c56269160c2d77e586540"
+}

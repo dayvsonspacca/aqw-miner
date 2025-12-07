@@ -1,0 +1,16 @@
+{
+    "urlName": "first-mate-s-hat",
+    "url": "http://aqwwiki.wikidot.com/first-mate-s-hat",
+    "name": "First Mate's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Aye as the Cap'n second in command ye better have yer ship ready for sailin'",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/CDXMBtV.png"
+    ],
+    "hash": "fb3bc4ca48ce71906a778571996418fe"
+}

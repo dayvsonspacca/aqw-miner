@@ -1,0 +1,15 @@
+{
+    "urlName": "grenadier-helm",
+    "url": "http://aqwwiki.wikidot.com/grenadier-helm",
+    "name": "Grenadier Helm",
+    "type": "helmets_&_hoods",
+    "description": "Grenadiers often lead charges and assaults. A lot of their fellow skysailers consider them insane or suicidal but if you look at the special construction of this helm you can tell that, while they ARE brave, they want to keep their heads like everyone else.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/fIZTfo1.png"
+    ],
+    "hash": "68598e62fe9ebd2c9c736e93e8f751fc"
+}

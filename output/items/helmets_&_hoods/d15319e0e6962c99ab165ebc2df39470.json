@@ -1,0 +1,16 @@
+{
+    "urlName": "light-witch-helm",
+    "url": "http://aqwwiki.wikidot.com/light-witch-helm",
+    "name": "Light Witch Helm",
+    "type": "helmets_&_hoods",
+    "description": "The streaks of white in your hair are a sign that you have worked with great power for many years.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/light-witch-helm/LightWitchHelm.png"
+    ],
+    "hash": "d15319e0e6962c99ab165ebc2df39470"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "mystical-hydraslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/mystical-hydraslayer-helm",
+    "name": "Mystical Hydraslayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm was crafted from the remains of one left by a fallen HydraSlayer.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/L8PxGLP.png",
+        "https://imgur.com/HbVv3sQ.png"
+    ],
+    "hash": "523a9960801016ee1961f69a2017fa6c"
+}

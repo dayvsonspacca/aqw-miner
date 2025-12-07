@@ -1,0 +1,16 @@
+{
+    "urlName": "evergreen-rogue-hood",
+    "url": "http://aqwwiki.wikidot.com/evergreen-rogue-hood",
+    "name": "Evergreen Rogue Hood",
+    "type": "helmets_&_hoods",
+    "description": "While hiking up Mt. Neverest, your breath literally turns to ice. Because ice crystals on that mountain are extremely hazardous, covering your mouth with a wrap enchanted in ice is the safest precaution you can take.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evergreen-rogue-hood/EvergreenRogueHood.png"
+    ],
+    "hash": "62975d2a4fb2e5008009f251610fabfc"
+}

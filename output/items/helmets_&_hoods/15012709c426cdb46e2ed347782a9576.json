@@ -1,0 +1,17 @@
+{
+    "urlName": "archfiend-stormbringer-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/archfiend-stormbringer-helm-ac",
+    "name": "ArchFiend Stormbringer Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The Archfiend continuously shocks would-be Stormbringers with lightning magic tainted by his Void. The ones that survive fuse with his energy.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Bn4VrnH.png",
+        "https://i.imgur.com/9T36lTV.png"
+    ],
+    "hash": "15012709c426cdb46e2ed347782a9576"
+}

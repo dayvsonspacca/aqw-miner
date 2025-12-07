@@ -1,0 +1,15 @@
+{
+    "urlName": "moonhead",
+    "url": "http://aqwwiki.wikidot.com/moonhead",
+    "name": "Moonhead",
+    "type": "helmets_&_hoods",
+    "description": "That's no moon\u2026 it's your head!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/moonhead/Moonhead.png"
+    ],
+    "hash": "350d58f3898f47345f4abd74eea52b47"
+}

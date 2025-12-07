@@ -1,0 +1,16 @@
+{
+    "urlName": "fleecy-twig-hood",
+    "url": "http://aqwwiki.wikidot.com/fleecy-twig-hood",
+    "name": "Fleecy Twig Hood",
+    "type": "helmets_&_hoods",
+    "description": "It's stainproof, so you can roll in all the icecream and fish slime you want.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/fjsiorb.png"
+    ],
+    "hash": "8875d3244ff259690ae68da9295f8258"
+}

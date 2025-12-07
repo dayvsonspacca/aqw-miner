@@ -1,0 +1,15 @@
+{
+    "urlName": "rancherito-helm",
+    "url": "http://aqwwiki.wikidot.com/rancherito-helm",
+    "name": "Rancherito Helm",
+    "type": "helmets_&_hoods",
+    "description": "Ah used to be a cattle-man until that bull ate mah GOOD hat. Now i'm left with this ol' thang. and Ah'm reduced to banditry.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rancherito-helm/Rancherito.png"
+    ],
+    "hash": "f138e58304d0b9d0f30d5626fa94c216"
+}

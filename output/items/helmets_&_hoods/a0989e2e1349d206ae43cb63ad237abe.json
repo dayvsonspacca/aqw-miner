@@ -1,0 +1,16 @@
+{
+    "urlName": "sheared-horn-helm",
+    "url": "http://aqwwiki.wikidot.com/sheared-horn-helm",
+    "name": "Sheared Horn Helm",
+    "type": "helmets_&_hoods",
+    "description": "Not as impressive and ancient as the original war helm, but those who wear it are believed to be seen as equals in Kezeroth's eyes should he be released from his restraints. On the bright side, this replica can fit any head size.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/D36tSNW.png"
+    ],
+    "hash": "a0989e2e1349d206ae43cb63ad237abe"
+}

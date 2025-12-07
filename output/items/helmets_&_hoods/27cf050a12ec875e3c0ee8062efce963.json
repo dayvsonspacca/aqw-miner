@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-diamond-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-diamond-helm",
+    "name": "Dark Diamond Helm",
+    "type": "helmets_&_hoods",
+    "description": "Only a real ol' C (for champion) rocks out wit dis! We party harda than you battle!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-diamond-helm/DDhelm.png"
+    ],
+    "hash": "27cf050a12ec875e3c0ee8062efce963"
+}

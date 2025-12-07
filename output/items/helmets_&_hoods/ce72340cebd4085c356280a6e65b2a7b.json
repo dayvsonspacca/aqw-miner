@@ -1,0 +1,16 @@
+{
+    "urlName": "mummy-face",
+    "url": "http://aqwwiki.wikidot.com/mummy-face",
+    "name": "Mummy Face",
+    "type": "helmets_&_hoods",
+    "description": "Hi mum! I've just been mummified!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/omhPPNC.png"
+    ],
+    "hash": "ce72340cebd4085c356280a6e65b2a7b"
+}

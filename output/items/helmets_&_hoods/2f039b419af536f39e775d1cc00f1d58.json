@@ -1,0 +1,16 @@
+{
+    "urlName": "headbox",
+    "url": "http://aqwwiki.wikidot.com/headbox",
+    "name": "HeadBox",
+    "type": "helmets_&_hoods",
+    "description": "I'm a man trapped in a box. Won't you come and help me?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/headbox/Headbox.png"
+    ],
+    "hash": "2f039b419af536f39e775d1cc00f1d58"
+}

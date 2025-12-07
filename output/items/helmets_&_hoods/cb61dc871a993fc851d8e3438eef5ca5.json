@@ -1,0 +1,15 @@
+{
+    "urlName": "abyssal-hood",
+    "url": "http://aqwwiki.wikidot.com/abyssal-hood",
+    "name": "Abyssal Hood",
+    "type": "helmets_&_hoods",
+    "description": "Wearing this is undeniably a bad idea, even for an Acolyte. Serving the Abyss doesn't mean sacrificing yourself. Maybe.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/abyssal-hood/AbyssalHood.png"
+    ],
+    "hash": "cb61dc871a993fc851d8e3438eef5ca5"
+}

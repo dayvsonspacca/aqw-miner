@@ -1,0 +1,16 @@
+{
+    "urlName": "azure-dragonvisor",
+    "url": "http://aqwwiki.wikidot.com/azure-dragonvisor",
+    "name": "Azure Dragonvisor",
+    "type": "helmets_&_hoods",
+    "description": "Azure visors are enchanted to enhance the sight of members of the DragonGuard. With these equipped, you can see in the darkest night or deepest cavern as if it were bright day!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/azure-dragonvisor/AzureDragonvisor.png"
+    ],
+    "hash": "1444ca9cf93fe4d96c20e4c6bf2b9525"
+}

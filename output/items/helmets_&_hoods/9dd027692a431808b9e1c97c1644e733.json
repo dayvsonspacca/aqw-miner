@@ -1,0 +1,17 @@
+{
+    "urlName": "mistress-mummy-morph",
+    "url": "http://aqwwiki.wikidot.com/mistress-mummy-morph",
+    "name": "Mistress Mummy Morph",
+    "type": "helmets_&_hoods",
+    "description": "Looks like you're a little wrapped up in your work! (Click to see Mogloween transformation!)",
+    "rarity": "Rare",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mistress-mummy-morph/MistressMummyMorphN.png",
+        "http://aqwwiki.wdfiles.com/local--files/mistress-mummy-morph/MistressMummyMorphC.png"
+    ],
+    "hash": "9dd027692a431808b9e1c97c1644e733"
+}

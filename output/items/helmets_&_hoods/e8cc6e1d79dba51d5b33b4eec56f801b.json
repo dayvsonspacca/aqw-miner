@@ -1,0 +1,16 @@
+{
+    "urlName": "pony-maul-head",
+    "url": "http://aqwwiki.wikidot.com/pony-maul-head",
+    "name": "Pony Maul Head",
+    "type": "helmets_&_hoods",
+    "description": "Pink is on the Outer Rim. Rare, but oh, so powerful.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pony-maul-head/PonyMaulHead.png"
+    ],
+    "hash": "e8cc6e1d79dba51d5b33b4eec56f801b"
+}

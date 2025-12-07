@@ -1,0 +1,16 @@
+{
+    "urlName": "yellow-coward-cowl",
+    "url": "http://aqwwiki.wikidot.com/yellow-coward-cowl",
+    "name": "Yellow Coward Cowl",
+    "type": "helmets_&_hoods",
+    "description": "If they can't see you, they can't kil you. That's how last works, right?",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/yellow-coward-cowl/YellowCowardCowl.png"
+    ],
+    "hash": "1fdcdc1d23fb89aaf4731073b0deec5c"
+}

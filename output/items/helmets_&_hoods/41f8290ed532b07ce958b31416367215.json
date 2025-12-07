@@ -1,0 +1,15 @@
+{
+    "urlName": "cuca-s-apprentice-hat",
+    "url": "http://aqwwiki.wikidot.com/cuca-s-apprentice-hat",
+    "name": "Cuca's Apprentice Hat",
+    "type": "helmets_&_hoods",
+    "description": "Cuca has started training apprentices in order to gather more children to her side.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vtxT1lc.png"
+    ],
+    "hash": "41f8290ed532b07ce958b31416367215"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "mana-guardian-s-helm",
+    "url": "http://aqwwiki.wikidot.com/mana-guardian-s-helm",
+    "name": "Mana Guardian's Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Mana Core contains the most pure magic available. Any mage drawing from the Core would be flooded with pure magic, overcome in a deluge of power which would burn through their physical, mental, and magical veins. It MUST be guarded to protect our world.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/n9kbiLF.png",
+        "https://i.imgur.com/bHzVUn1.png"
+    ],
+    "hash": "5f35ba11c97bb330e7586d4c94a51713"
+}

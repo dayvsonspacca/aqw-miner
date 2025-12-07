@@ -1,0 +1,16 @@
+{
+    "urlName": "blinded-helm-of-vokun",
+    "url": "http://aqwwiki.wikidot.com/blinded-helm-of-vokun",
+    "name": "Blinded Helm of Vokun",
+    "type": "helmets_&_hoods",
+    "description": "Ones eyesight is not always necessary in the Tombs. Trust your instincts.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blinded-helm-of-vokun/BHoV.png"
+    ],
+    "hash": "39201fd9ace78af68e69dd22ecf0628c"
+}

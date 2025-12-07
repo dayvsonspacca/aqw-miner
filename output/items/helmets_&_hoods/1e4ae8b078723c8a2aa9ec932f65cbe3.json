@@ -1,0 +1,16 @@
+{
+    "urlName": "avis-feathered-hair",
+    "url": "http://aqwwiki.wikidot.com/avis-feathered-hair",
+    "name": "Avis Feathered Hair",
+    "type": "helmets_&_hoods",
+    "description": "Avis Magi have mastered the feathered hairstyle. Tousle your tresses and fly into battle!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/avis-feathered-hair/AvisFeatheredHair.png"
+    ],
+    "hash": "1e4ae8b078723c8a2aa9ec932f65cbe3"
+}

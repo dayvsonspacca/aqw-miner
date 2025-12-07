@@ -1,0 +1,16 @@
+{
+    "urlName": "exoskeletal-face",
+    "url": "http://aqwwiki.wikidot.com/exoskeletal-face",
+    "name": "ExoSkeletal Face",
+    "type": "helmets_&_hoods",
+    "description": "Much more durable and heart-stopping than an average skull. Plus, it comes with enhanced night vision.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/exoskeletal-face/ExoskeletalFace.png"
+    ],
+    "hash": "1c985ea80f61bdc4ecf23bd066cdef6f"
+}

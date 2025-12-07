@@ -1,0 +1,15 @@
+{
+    "urlName": "archlich-helm",
+    "url": "http://aqwwiki.wikidot.com/archlich-helm",
+    "name": "ArchLich Helm",
+    "type": "helmets_&_hoods",
+    "description": "This lich crowned themself in honor of their profane achievements - that is, if you think spouting technological jargon is on par with forbidden chants.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/wpNJyl5.png"
+    ],
+    "hash": "3d2fd23a994cef0fdd39c4086a6f2de2"
+}

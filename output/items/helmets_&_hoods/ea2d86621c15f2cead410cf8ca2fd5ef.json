@@ -1,0 +1,16 @@
+{
+    "urlName": "necrovoid-lich-skull",
+    "url": "http://aqwwiki.wikidot.com/necrovoid-lich-skull",
+    "name": "NecroVoid Lich Skull",
+    "type": "helmets_&_hoods",
+    "description": "The Void disguises itself with the remains of the dead. All life came from nothing, and it will return to nothing. If you plunge into an endless fall, the cycle of life and death will never find you again.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/3LRqBqx.png"
+    ],
+    "hash": "ea2d86621c15f2cead410cf8ca2fd5ef"
+}

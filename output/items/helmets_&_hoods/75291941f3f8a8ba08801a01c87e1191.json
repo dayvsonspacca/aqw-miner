@@ -1,0 +1,16 @@
+{
+    "urlName": "kirin-s-avatar-helm",
+    "url": "http://aqwwiki.wikidot.com/kirin-s-avatar-helm",
+    "name": "Kirin's Avatar Helm",
+    "type": "helmets_&_hoods",
+    "description": "If there was ever a helm meant for headbutting, this is it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kirin-s-avatar-helm/KAH.png"
+    ],
+    "hash": "75291941f3f8a8ba08801a01c87e1191"
+}

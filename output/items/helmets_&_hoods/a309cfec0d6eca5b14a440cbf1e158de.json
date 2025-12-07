@@ -1,0 +1,15 @@
+{
+    "urlName": "derp-panda-helm",
+    "url": "http://aqwwiki.wikidot.com/derp-panda-helm",
+    "name": "Derp Panda Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helmet that makes it look like a big pink panda mistook your head for some tasty bamboo.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/w6lFKwL.png"
+    ],
+    "hash": "a309cfec0d6eca5b14a440cbf1e158de"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "battle-priest-helm",
+    "url": "http://aqwwiki.wikidot.com/battle-priest-helm",
+    "name": "Battle Priest Helm",
+    "type": "helmets_&_hoods",
+    "description": "Used by Battle Priests of Blood Dancers sect, this Trollish helm is only granted to those fierce in battle!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battle-priest-helm/BattlePriestHelm.png"
+    ],
+    "hash": "d7f76b5de6b9425667f2c88bf7bef791"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "crested-sapphire-helmet",
+    "url": "http://aqwwiki.wikidot.com/crested-sapphire-helmet",
+    "name": "Crested Sapphire Helmet",
+    "type": "helmets_&_hoods",
+    "description": "The undaunted courage of a Sapphire Knight is not something fit for everyone.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crested-sapphire-helmet/CSH.png"
+    ],
+    "hash": "f5e23a5faa99ad4e765b6e05c59996cc"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "grove-locks",
+    "url": "http://aqwwiki.wikidot.com/grove-locks",
+    "name": "Grove Locks",
+    "type": "helmets_&_hoods",
+    "description": "These nymphs of the forest help the plants flourish with their powers. Small seeds suddenly become towering trees in their presence.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/ZEm67Ia.png"
+    ],
+    "hash": "af45d72130276e43c884f998381c86b9"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "gold-dragon-helm",
+    "url": "http://aqwwiki.wikidot.com/gold-dragon-helm",
+    "name": "Gold Dragon Helm",
+    "type": "helmets_&_hoods",
+    "description": "The bumished glow of this gold helm will recall good times sitting around the fire trading stories and jokes with your companions. A welcome distraction when you're mired in battle and bathed in blood.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gold-dragon-helm/GoldDragonHelm.png"
+    ],
+    "hash": "112a2de8f28dc8582dd4fa6e8210468e"
+}

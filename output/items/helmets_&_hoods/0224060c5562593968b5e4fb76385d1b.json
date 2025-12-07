@@ -1,0 +1,15 @@
+{
+    "urlName": "augmented-vision-helm",
+    "url": "http://aqwwiki.wikidot.com/augmented-vision-helm",
+    "name": "Augmented Vision Helm",
+    "type": "helmets_&_hoods",
+    "description": "You can see in the dark with these! And in the light! (Though that's much less impressive!)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/EfsJkJt.png"
+    ],
+    "hash": "0224060c5562593968b5e4fb76385d1b"
+}

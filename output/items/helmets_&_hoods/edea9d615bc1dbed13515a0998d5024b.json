@@ -1,0 +1,15 @@
+{
+    "urlName": "cavern-horns",
+    "url": "http://aqwwiki.wikidot.com/cavern-horns",
+    "name": "Cavern Horns",
+    "type": "helmets_&_hoods",
+    "description": "A sinister helm built out of stalagmite and stalactite found in the Shattersword Cavern.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/AwL8nK8.png"
+    ],
+    "hash": "edea9d615bc1dbed13515a0998d5024b"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "lethe-helm-of-vokun",
+    "url": "http://aqwwiki.wikidot.com/lethe-helm-of-vokun",
+    "name": "Lethe Helm Of Vokun",
+    "type": "helmets_&_hoods",
+    "description": "Covered in rusty chains that slash and ensnare their foes, these deadly minions of Vokun send anyone who crosses them to oblivion.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lethe-helm-of-vokun/LetheHelmofVokun.png"
+    ],
+    "hash": "60990feb40f7d40817fd38363bc011c0"
+}

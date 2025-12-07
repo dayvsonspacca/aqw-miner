@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowed-elven-locks",
+    "url": "http://aqwwiki.wikidot.com/shadowed-elven-locks",
+    "name": "Shadowed Elven Locks",
+    "type": "helmets_&_hoods",
+    "description": "Even some Grovebreak elves need a break from the light and hide their faces time and time again.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowed-elven-locks/ShadowedElvenLocks.png"
+    ],
+    "hash": "1f6ee88b1140dcc09ede18aeb2ff504b"
+}

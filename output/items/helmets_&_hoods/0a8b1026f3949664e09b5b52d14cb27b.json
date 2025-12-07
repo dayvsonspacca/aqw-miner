@@ -1,0 +1,16 @@
+{
+    "urlName": "primal-hanzo-void-helm",
+    "url": "http://aqwwiki.wikidot.com/primal-hanzo-void-helm",
+    "name": "Primal Hanzo Void Helm",
+    "type": "helmets_&_hoods",
+    "description": "These imperial Voids of Nulgath's army possess qualities that normal primal Voids do not have, hence why they are prized by the ArchFiend.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ZnJSdkQ.png"
+    ],
+    "hash": "0a8b1026f3949664e09b5b52d14cb27b"
+}

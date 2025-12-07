@@ -1,0 +1,15 @@
+{
+    "urlName": "chicken-helm",
+    "url": "http://aqwwiki.wikidot.com/chicken-helm",
+    "name": "Chicken Helm",
+    "type": "helmets_&_hoods",
+    "description": "Without this helm, you would look just plain silly while wearing a Chicken suit\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chicken-helm/ChickenHelm.png"
+    ],
+    "hash": "067cf67ccc3600013cb84f4dae595794"
+}

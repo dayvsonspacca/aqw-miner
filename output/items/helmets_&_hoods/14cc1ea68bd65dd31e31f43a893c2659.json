@@ -1,0 +1,17 @@
+{
+    "urlName": "gmo-corn-horn",
+    "url": "http://aqwwiki.wikidot.com/gmo-corn-horn",
+    "name": "GMO Corn Horn",
+    "type": "helmets_&_hoods",
+    "description": "What happens when you were too busy thinking about if you could do it, no one asked if we should do it. This item has a chance to do the Undead Rush animation each time you auto-attack.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gmo-corn-horn/GMOCornHorn.png",
+        "http://aqwwiki.wdfiles.com/local--files/gmo-corn-horn/GMOCornHornAnim.png"
+    ],
+    "hash": "14cc1ea68bd65dd31e31f43a893c2659"
+}

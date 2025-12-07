@@ -1,0 +1,16 @@
+{
+    "urlName": "frostval-ice-blessing-helm",
+    "url": "http://aqwwiki.wikidot.com/frostval-ice-blessing-helm",
+    "name": "Frostval Ice Blessing Helm",
+    "type": "helmets_&_hoods",
+    "description": "That gift box might be possessed, but it still holds a lot of awesome loot! Happy Frostval!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UT95Zwc.png"
+    ],
+    "hash": "207563f05f5bd46579ea8a9f2b3e2815"
+}

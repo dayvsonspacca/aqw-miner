@@ -1,0 +1,16 @@
+{
+    "urlName": "silver-azurite-helm",
+    "url": "http://aqwwiki.wikidot.com/silver-azurite-helm",
+    "name": "Silver Azurite Helm",
+    "type": "helmets_&_hoods",
+    "description": "Gleaming in the waning winter sun, this helm will be a beacon of hope to those who fight beside you and sign of doom to those you oppose.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/silver-azurite-helm/SAH.png"
+    ],
+    "hash": "5cdb2ea3062cea691872fd5eeaf3594e"
+}

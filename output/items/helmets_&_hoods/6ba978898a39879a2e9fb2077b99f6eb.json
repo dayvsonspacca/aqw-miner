@@ -1,0 +1,16 @@
+{
+    "urlName": "mer-unit-operator-hair",
+    "url": "http://aqwwiki.wikidot.com/mer-unit-operator-hair",
+    "name": "Mer-Unit Operator Hair",
+    "type": "helmets_&_hoods",
+    "description": "Hunting sea leviathans is a profession that's high in demand, and incredibly dangerous. The current tech isn't enough. Some resort to genetic modification to acquire shark-like attributes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kqPS9kh.png"
+    ],
+    "hash": "6ba978898a39879a2e9fb2077b99f6eb"
+}

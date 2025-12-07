@@ -1,0 +1,16 @@
+{
+    "urlName": "masked-repo-agent-hood",
+    "url": "http://aqwwiki.wikidot.com/masked-repo-agent-hood",
+    "name": "Masked Repo Agent Hood",
+    "type": "helmets_&_hoods",
+    "description": "No law-abiding resident of DoomWood will stand your presence in their town. So it's best not to let them see who you REALLY are, or you'll be tossed into Lightguard Keep's jail before you can say \"repo\"!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/masked-repo-agent-hood/MaskedRepoAgentHood.png"
+    ],
+    "hash": "8bd9b6d31b147150757dcadf35826643"
+}

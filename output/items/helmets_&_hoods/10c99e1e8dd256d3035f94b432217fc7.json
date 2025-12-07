@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-awe",
+    "url": "http://aqwwiki.wikidot.com/helm-of-awe",
+    "name": "Helm of Awe",
+    "type": "helmets_&_hoods",
+    "description": "Gilded and golden this AWE-some helm shows true Awe spirt! Gives 25% more rep, gold, XP, and class points when equipped.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/YxW4Y11.png"
+    ],
+    "hash": "10c99e1e8dd256d3035f94b432217fc7"
+}

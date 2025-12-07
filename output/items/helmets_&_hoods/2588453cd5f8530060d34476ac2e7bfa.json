@@ -1,0 +1,15 @@
+{
+    "urlName": "solar-viewer-locks",
+    "url": "http://aqwwiki.wikidot.com/solar-viewer-locks",
+    "name": "Solar Viewer Locks",
+    "type": "helmets_&_hoods",
+    "description": "Don't stare directly at the eclipse! Safety + science = awesome!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/mbW5mSI.png"
+    ],
+    "hash": "2588453cd5f8530060d34476ac2e7bfa"
+}

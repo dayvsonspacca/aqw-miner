@@ -1,0 +1,16 @@
+{
+    "urlName": "toxic-alchemist-locks",
+    "url": "http://aqwwiki.wikidot.com/toxic-alchemist-locks",
+    "name": "Toxic Alchemist Locks",
+    "type": "helmets_&_hoods",
+    "description": "Hair of any alchemist that has dabbled in the use of toxic magic.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Eq1B6jX.png"
+    ],
+    "hash": "b366cbb322119361676dd81b516a04e5"
+}

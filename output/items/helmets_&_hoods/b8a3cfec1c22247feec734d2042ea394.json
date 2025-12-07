@@ -1,0 +1,17 @@
+{
+    "urlName": "gaze-of-light",
+    "url": "http://aqwwiki.wikidot.com/gaze-of-light",
+    "name": "Gaze Of Light",
+    "type": "helmets_&_hoods",
+    "description": "Sometimes you just have to look around to see what could be happening around you. After all, anyone could be after your crown!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gaze-of-light/GoL.png",
+        "http://aqwwiki.wdfiles.com/local--files/gaze-of-light/GoLanim.png"
+    ],
+    "hash": "b8a3cfec1c22247feec734d2042ea394"
+}

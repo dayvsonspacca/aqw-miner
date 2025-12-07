@@ -1,0 +1,16 @@
+{
+    "urlName": "pumpkin-magus-locks",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-magus-locks",
+    "name": "Pumpkin Magus Locks",
+    "type": "helmets_&_hoods",
+    "description": "The Pumpkin Magi serve at the court of the Harvest Queen and Great Pumpking. Their magic is mighty, and they can squash an enemy with a single blast. Their gourd works are known throughout the land.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/qxfvPbi.png"
+    ],
+    "hash": "5adb9b82b3cf3b0586ef313e180e2e57"
+}

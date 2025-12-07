@@ -1,0 +1,15 @@
+{
+    "urlName": "apprentice-of-awe-hood",
+    "url": "http://aqwwiki.wikidot.com/apprentice-of-awe-hood",
+    "name": "Apprentice of Awe Hood",
+    "type": "helmets_&_hoods",
+    "description": "Garments given to new members of Lore's Conservators. This item gives 15% more rep, gold, XP, and class points when equipped.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/dI4qHus.png"
+    ],
+    "hash": "c84f41dda87121e17c3a7bcfc6f561f2"
+}

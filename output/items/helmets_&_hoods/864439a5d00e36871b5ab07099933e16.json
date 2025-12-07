@@ -1,0 +1,16 @@
+{
+    "urlName": "well-water-hair-helm",
+    "url": "http://aqwwiki.wikidot.com/well-water-hair-helm",
+    "name": "Well-Water Hair Helm",
+    "type": "helmets_&_hoods",
+    "description": "Well water does wonders for your hair AND your complexion!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/well-water-hair-helm/Well-WaterHairHelm.png"
+    ],
+    "hash": "864439a5d00e36871b5ab07099933e16"
+}

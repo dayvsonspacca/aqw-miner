@@ -1,0 +1,16 @@
+{
+    "urlName": "queen-s-crown",
+    "url": "http://aqwwiki.wikidot.com/queen-s-crown",
+    "name": "Queen's Crown",
+    "type": "helmets_&_hoods",
+    "description": "You won this crown from a distant king during a card game. You shouldn't even be wearing it out in public. At least your hair looks absolutely BEAUTIFUL darling.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/JJxpFPd.png"
+    ],
+    "hash": "f62b30d37cd335ce14076b92b1108a6b"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "jade-samurai-helm",
+    "url": "http://aqwwiki.wikidot.com/jade-samurai-helm",
+    "name": "Jade Samurai Helm",
+    "type": "helmets_&_hoods",
+    "description": "For the honor of Lore!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/jade-samurai-helm/JadeSamuraiHelm.png"
+    ],
+    "hash": "76f67f5ea37faefad826e0b39c6abc60"
+}

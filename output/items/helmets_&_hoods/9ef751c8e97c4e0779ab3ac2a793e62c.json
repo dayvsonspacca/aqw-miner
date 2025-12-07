@@ -1,0 +1,13 @@
+{
+    "urlName": "light-warden-helm",
+    "url": "http://aqwwiki.wikidot.com/light-warden-helm",
+    "name": "Light Warden Helm",
+    "type": "helmets_&_hoods",
+    "description": "A divine helm suited for Wardens with a crest that matches your natural hair color.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/MZ3uCG4.png"
+    ],
+    "hash": "9ef751c8e97c4e0779ab3ac2a793e62c"
+}

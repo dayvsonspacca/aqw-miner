@@ -1,0 +1,14 @@
+{
+    "urlName": "ghoul-curse",
+    "url": "http://aqwwiki.wikidot.com/ghoul-curse",
+    "name": "Ghoul Curse",
+    "type": "helmets_&_hoods",
+    "description": "Your head is morphed into a ghoul's head! (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://imgur.com/DhwxV7u.png",
+        "http://aqwwiki.wdfiles.com/local--files/ghoul-curse/GCOld.png"
+    ],
+    "hash": "01b50e1d274d216145302430eab42493"
+}

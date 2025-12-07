@@ -1,0 +1,16 @@
+{
+    "urlName": "wyrmtamer-helm",
+    "url": "http://aqwwiki.wikidot.com/wyrmtamer-helm",
+    "name": "WyrmTamer Helm",
+    "type": "helmets_&_hoods",
+    "description": "If one is to tame a wyrm, one needs to protect the rather good looking face that makes you, well, you. You really don't want some vapor or fire to scar that face, now do you?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wyrmtamer-helm/WyrmTamerHelm.png"
+    ],
+    "hash": "b47ad5b476de00cfb5d0d1904527105b"
+}

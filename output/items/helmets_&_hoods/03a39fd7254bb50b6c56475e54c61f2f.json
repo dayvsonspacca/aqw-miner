@@ -1,0 +1,15 @@
+{
+    "urlName": "eclipse-viewers",
+    "url": "http://aqwwiki.wikidot.com/eclipse-viewers",
+    "name": "Eclipse Viewers",
+    "type": "helmets_&_hoods",
+    "description": "Don't stare directly at the eclipse! Safety + science = awesome!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/glcA59Z.png"
+    ],
+    "hash": "03a39fd7254bb50b6c56475e54c61f2f"
+}

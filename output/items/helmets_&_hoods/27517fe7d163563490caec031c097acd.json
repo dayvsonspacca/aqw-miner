@@ -1,0 +1,15 @@
+{
+    "urlName": "flamescourge-hood",
+    "url": "http://aqwwiki.wikidot.com/flamescourge-hood",
+    "name": "FlameScourge Hood",
+    "type": "helmets_&_hoods",
+    "description": "Crafted from igneous rock located in the Etherstorm, this helmet allows its wearer to endure through volcanic temperatures for a prolonged period of time.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/uXER0OC.png"
+    ],
+    "hash": "27517fe7d163563490caec031c097acd"
+}

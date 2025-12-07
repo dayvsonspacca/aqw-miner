@@ -1,0 +1,16 @@
+{
+    "urlName": "light-battlemage-morph",
+    "url": "http://aqwwiki.wikidot.com/light-battlemage-morph",
+    "name": "Light BattleMage Morph",
+    "type": "helmets_&_hoods",
+    "description": "A certain sect of Mages have blood ties to Celestial Light trains in secrecy. All are fated to fall, and their successors are tasked with dispelling the shadows they became.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/AlY6qnH.png"
+    ],
+    "hash": "c26d9b44bbefd4292f2f6c1a84960a09"
+}

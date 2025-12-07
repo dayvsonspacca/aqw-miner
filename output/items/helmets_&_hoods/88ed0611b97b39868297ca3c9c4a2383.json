@@ -1,0 +1,16 @@
+{
+    "urlName": "happy-gourdo-helm",
+    "url": "http://aqwwiki.wikidot.com/happy-gourdo-helm",
+    "name": "Happy Gourdo Helm",
+    "type": "helmets_&_hoods",
+    "description": "Such as happy pumpkin.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/7fjVgSL.png"
+    ],
+    "hash": "88ed0611b97b39868297ca3c9c4a2383"
+}

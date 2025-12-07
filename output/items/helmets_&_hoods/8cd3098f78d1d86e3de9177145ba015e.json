@@ -1,0 +1,16 @@
+{
+    "urlName": "earthen-hair",
+    "url": "http://aqwwiki.wikidot.com/earthen-hair",
+    "name": "Earthen Hair",
+    "type": "helmets_&_hoods",
+    "description": "Choppy as a sharp cliffside, softer than clay.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/4TH7Sev.png"
+    ],
+    "hash": "8cd3098f78d1d86e3de9177145ba015e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "prismastealth-cyborg-helm",
+    "url": "http://aqwwiki.wikidot.com/prismastealth-cyborg-helm",
+    "name": "Prismastealth Cyborg Helm",
+    "type": "helmets_&_hoods",
+    "description": "A cybernetic helm that gives an alter-ego to an already elusive serpent.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/AOuIZjE.png"
+    ],
+    "hash": "bc0b794cd3662d559f718b8d4d111377"
+}

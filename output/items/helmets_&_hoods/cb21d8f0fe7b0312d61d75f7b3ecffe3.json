@@ -1,0 +1,16 @@
+{
+    "urlName": "deathstare-helm",
+    "url": "http://aqwwiki.wikidot.com/deathstare-helm",
+    "name": "Deathstare Helm",
+    "type": "helmets_&_hoods",
+    "description": "There is only one thing we say to death:\"What? No, you're looking for that other hero. Easy mistake to make.\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathstare-helm/DeathstareHelm.png"
+    ],
+    "hash": "cb21d8f0fe7b0312d61d75f7b3ecffe3"
+}

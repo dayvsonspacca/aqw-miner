@@ -1,0 +1,15 @@
+{
+    "urlName": "black-fez",
+    "url": "http://aqwwiki.wikidot.com/black-fez",
+    "name": "Black Fez",
+    "type": "helmets_&_hoods",
+    "description": "Fezzes are cool.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-fez/BlackFez.png"
+    ],
+    "hash": "1687d4f35780e36fab4af47e385720e0"
+}

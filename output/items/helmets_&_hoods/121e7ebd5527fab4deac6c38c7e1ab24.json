@@ -1,0 +1,17 @@
+{
+    "urlName": "chaos-shaper-helm",
+    "url": "http://aqwwiki.wikidot.com/chaos-shaper-helm",
+    "name": "Chaos Shaper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Embracing Chaos is as difficult as anything can possibly be. The mystical design of this helm not only protects your head from unexpected accidents, it also magically holds your mind together.",
+    "rarity": "Expensive Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/Pviy4M7.png",
+        "https://i.imgur.com/0OCaOcP.png"
+    ],
+    "hash": "121e7ebd5527fab4deac6c38c7e1ab24"
+}

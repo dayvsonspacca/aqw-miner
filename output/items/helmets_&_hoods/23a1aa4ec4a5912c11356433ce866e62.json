@@ -1,0 +1,15 @@
+{
+    "urlName": "kallus-mask",
+    "url": "http://aqwwiki.wikidot.com/kallus-mask",
+    "name": "Kallus Mask",
+    "type": "helmets_&_hoods",
+    "description": "Because every awesome villain wears a mask.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/kallus-mask/KallusMask.png"
+    ],
+    "hash": "23a1aa4ec4a5912c11356433ce866e62"
+}

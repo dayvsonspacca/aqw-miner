@@ -1,0 +1,15 @@
+{
+    "urlName": "dark-snug-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-snug-helm",
+    "name": "Dark Snug Helm",
+    "type": "helmets_&_hoods",
+    "description": "A snuggly wuggly big dark bear-now that's a first!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-snug-helm/DarkSnugHelm.png"
+    ],
+    "hash": "eb7d9fd87f18e7f2cef0d26101e08931"
+}

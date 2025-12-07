@@ -1,0 +1,16 @@
+{
+    "urlName": "trouble-locks",
+    "url": "http://aqwwiki.wikidot.com/trouble-locks",
+    "name": "Trouble Locks",
+    "type": "helmets_&_hoods",
+    "description": "This helm really gets you into \"Trouble\".",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/8KKDXno.png"
+    ],
+    "hash": "9bb40b22cab5534414ad5f5836b9aa1b"
+}

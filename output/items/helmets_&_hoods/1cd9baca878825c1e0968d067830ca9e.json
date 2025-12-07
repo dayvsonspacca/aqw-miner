@@ -1,0 +1,16 @@
+{
+    "urlName": "nebula-dragonslayer-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/nebula-dragonslayer-helm-legend",
+    "name": "Nebula Dragonslayer Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "Whether we chase the dragons to the stars or they hunt us to the ends of the galaxy, we'll need a way to breathe outside the atmosphere.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/AdBNfXe.png"
+    ],
+    "hash": "1cd9baca878825c1e0968d067830ca9e"
+}

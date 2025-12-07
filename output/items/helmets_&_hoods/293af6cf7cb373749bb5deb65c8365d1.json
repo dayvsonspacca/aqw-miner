@@ -1,0 +1,16 @@
+{
+    "urlName": "terra-topper",
+    "url": "http://aqwwiki.wikidot.com/terra-topper",
+    "name": "Terra Topper",
+    "type": "helmets_&_hoods",
+    "description": "You've got the whole world on your face! HAPPY EARTH DAY!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/terra-topper/TerraTopper.png"
+    ],
+    "hash": "293af6cf7cb373749bb5deb65c8365d1"
+}

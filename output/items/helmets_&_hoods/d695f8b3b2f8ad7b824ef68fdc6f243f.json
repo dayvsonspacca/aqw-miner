@@ -1,0 +1,16 @@
+{
+    "urlName": "composers-helmet",
+    "url": "http://aqwwiki.wikidot.com/composers-helmet",
+    "name": "Composers Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Keep yourself calm, collected, and composed when orchestrating your musical minions!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/M3N7i9E.png"
+    ],
+    "hash": "d695f8b3b2f8ad7b824ef68fdc6f243f"
+}

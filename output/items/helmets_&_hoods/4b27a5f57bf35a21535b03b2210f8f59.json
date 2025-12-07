@@ -1,0 +1,16 @@
+{
+    "urlName": "bright-elven-locks",
+    "url": "http://aqwwiki.wikidot.com/bright-elven-locks",
+    "name": "Bright Elven Locks",
+    "type": "helmets_&_hoods",
+    "description": "The elegant sun like hair of the Grovebreak elves shines the brightest in the morning sun. Many elves usually comb their hair to match the sun's shape.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bright-elven-locks/BrightElvenLocks.png"
+    ],
+    "hash": "4b27a5f57bf35a21535b03b2210f8f59"
+}

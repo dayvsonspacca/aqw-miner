@@ -1,0 +1,16 @@
+{
+    "urlName": "twig-animatronic-helm",
+    "url": "http://aqwwiki.wikidot.com/twig-animatronic-helm",
+    "name": "Twig Animatronic Helm",
+    "type": "helmets_&_hoods",
+    "description": "Don't hold it against them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9dupbPA.png"
+    ],
+    "hash": "804d871a25c80cfbbbda47cdbbf99969"
+}

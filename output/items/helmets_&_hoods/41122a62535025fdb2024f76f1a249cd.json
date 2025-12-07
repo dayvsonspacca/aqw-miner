@@ -1,0 +1,16 @@
+{
+    "urlName": "male-gear-patch",
+    "url": "http://aqwwiki.wikidot.com/male-gear-patch",
+    "name": "Male Gear Patch",
+    "type": "helmets_&_hoods",
+    "description": "Arg, these clogs have blurred me vision.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/MTeCybi.png",
+        "https://i.imgur.com/4lDsRJm.png"
+    ],
+    "hash": "41122a62535025fdb2024f76f1a249cd"
+}

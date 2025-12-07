@@ -1,0 +1,16 @@
+{
+    "urlName": "pumpkin-witch-locks",
+    "url": "http://aqwwiki.wikidot.com/pumpkin-witch-locks",
+    "name": "Pumpkin Witch Locks",
+    "type": "helmets_&_hoods",
+    "description": "Be wary of any gourd that appears on your doorstep unannounced. This gift could be a nasty trick. Jack-o-lanterns are meant to ward off evil, but the Pumpkin Witch uses them to trap dark spirits and powerful entities.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/D0uHTnH.png"
+    ],
+    "hash": "6ae43c599d2fb195750b817f50ab7983"
+}

@@ -1,0 +1,13 @@
+{
+    "urlName": "tiki-locks",
+    "url": "http://aqwwiki.wikidot.com/tiki-locks",
+    "name": "Tiki Locks",
+    "type": "helmets_&_hoods",
+    "description": "A pretty flower lei to spruce up your hair!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/CVPqCUW.png"
+    ],
+    "hash": "bc7b2c8f1ea45e06b621f8e5b6e1edb1"
+}

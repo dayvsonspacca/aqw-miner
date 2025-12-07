@@ -1,0 +1,16 @@
+{
+    "urlName": "apple-face-helm",
+    "url": "http://aqwwiki.wikidot.com/apple-face-helm",
+    "name": "Apple Face Helm",
+    "type": "helmets_&_hoods",
+    "description": "Beating up enemies with your face? Now THAT's using your head!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/pGW67yS.png"
+    ],
+    "hash": "c98735f96d75ebd90e2d25813702a319"
+}

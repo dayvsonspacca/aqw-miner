@@ -1,0 +1,15 @@
+{
+    "urlName": "razor-cap",
+    "url": "http://aqwwiki.wikidot.com/razor-cap",
+    "name": "Razor Cap",
+    "type": "helmets_&_hoods",
+    "description": "Dashing? Deadly? So hard to tell. The two so often go hand in hand here in Battleon.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/razor-cap/RazorCap.png"
+    ],
+    "hash": "31267f58339997a58672e0220df9b60c"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "deathmonger-helm",
+    "url": "http://aqwwiki.wikidot.com/deathmonger-helm",
+    "name": "Deathmonger Helm",
+    "type": "helmets_&_hoods",
+    "description": "Horcs are brutal warriors notorious for their ruthless fighting style. The DeathMonger helm symbolizes their many battles waged in the past, present, and in the near future.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathmonger-helm/DeathmongerHelm.png"
+    ],
+    "hash": "40a9e6be3903c7eca8ac0a4cbf3e5a05"
+}

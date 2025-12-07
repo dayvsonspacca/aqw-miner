@@ -1,0 +1,16 @@
+{
+    "urlName": "winged-golden-helm",
+    "url": "http://aqwwiki.wikidot.com/winged-golden-helm",
+    "name": "Winged Golden Helm",
+    "type": "helmets_&_hoods",
+    "description": "This is a replica of a helm worn by the Knights of the North as they ride into battle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/WnsWe82.png"
+    ],
+    "hash": "03f5772f25ac788125a2c2352312b7bf"
+}

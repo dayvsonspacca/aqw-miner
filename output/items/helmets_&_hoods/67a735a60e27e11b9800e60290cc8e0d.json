@@ -1,0 +1,16 @@
+{
+    "urlName": "molten-headgear",
+    "url": "http://aqwwiki.wikidot.com/molten-headgear",
+    "name": "Molten Headgear",
+    "type": "helmets_&_hoods",
+    "description": "Taking the phrase \"you're hot\" to an entirely new level. (This item has a low chance to play an animation when you use a skill AND do more damage elemental",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/molten-headgear/MoltenHeadgear.png"
+    ],
+    "hash": "67a735a60e27e11b9800e60290cc8e0d"
+}

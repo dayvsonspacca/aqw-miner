@@ -1,0 +1,16 @@
+{
+    "urlName": "ebilnet-helm",
+    "url": "http://aqwwiki.wikidot.com/ebilnet-helm",
+    "name": "EbilNet Helm",
+    "type": "helmets_&_hoods",
+    "description": "Numbers are the basis of the entire universe, but they're not going to help you see.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/iEZQxYr.png"
+    ],
+    "hash": "2a44083dac635cc27b9f3b04be70093a"
+}

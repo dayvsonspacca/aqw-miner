@@ -1,0 +1,16 @@
+{
+    "urlName": "iceten-space-helmet",
+    "url": "http://aqwwiki.wikidot.com/iceten-space-helmet",
+    "name": "IceTen Space Helmet",
+    "type": "helmets_&_hoods",
+    "description": "In a game with this kind of crazy-awesome logic, a helmet isn't all that necessary. But hey, at least this thing look cool!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/iceten-space-helmet/IceTenSpaceHelmet.png"
+    ],
+    "hash": "c3db4068959b35310cb809bcc368fa81"
+}

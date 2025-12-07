@@ -1,0 +1,16 @@
+{
+    "urlName": "gold-parade-helm",
+    "url": "http://aqwwiki.wikidot.com/gold-parade-helm",
+    "name": "Gold Parade Helm",
+    "type": "helmets_&_hoods",
+    "description": "The head of the Golden Dragon Snake!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2aWGNEA.png"
+    ],
+    "hash": "256f866cffd90b4c60c5aca7a38a90d7"
+}

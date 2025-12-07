@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-sentinel-helm",
+    "url": "http://aqwwiki.wikidot.com/underworld-sentinel-helm",
+    "name": "Underworld Sentinel Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Sentinels were trained on the River Acheron, where fighting the most restless and dangerous unfulfilled souls filters out the weak.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UIAN21s.png"
+    ],
+    "hash": "d2f0b6e249a2b27913eec7ee1cda9d69"
+}

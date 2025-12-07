@@ -1,0 +1,16 @@
+{
+    "urlName": "groundforce-helm",
+    "url": "http://aqwwiki.wikidot.com/groundforce-helm",
+    "name": "GroundForce Helm",
+    "type": "helmets_&_hoods",
+    "description": "Only the most fundamental GroundForce are allowed to wear such a renowned hat with their hair up..",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/groundforce-helm/GroundForceHelm.png"
+    ],
+    "hash": "e204815384893cdfd614fc73f2f77c24"
+}

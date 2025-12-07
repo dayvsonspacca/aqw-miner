@@ -1,0 +1,16 @@
+{
+    "urlName": "paper-bag",
+    "url": "http://aqwwiki.wikidot.com/paper-bag",
+    "name": "Paper Bag",
+    "type": "helmets_&_hoods",
+    "description": "If you're too lazy to get a costume or simply mask your identity, this is the way to go! Happy Mogloween!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Z3qKWZz.png"
+    ],
+    "hash": "21eab9dac84712ccf094dbd5263c47b7"
+}

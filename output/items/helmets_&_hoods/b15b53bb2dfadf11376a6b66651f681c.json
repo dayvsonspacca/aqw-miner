@@ -1,0 +1,16 @@
+{
+    "urlName": "deathscar-locks-ac",
+    "url": "http://aqwwiki.wikidot.com/deathscar-locks-ac",
+    "name": "DeathScar Locks (AC)",
+    "type": "helmets_&_hoods",
+    "description": "You're a Death Rider. You're a freak. You're on a wicked killing streak. Now go out there and show the world who's boss. (This item has a 30% chance to do the Shadowburst attack animation.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathscar-locks-ac/DeathScarLocks.png"
+    ],
+    "hash": "b15b53bb2dfadf11376a6b66651f681c"
+}

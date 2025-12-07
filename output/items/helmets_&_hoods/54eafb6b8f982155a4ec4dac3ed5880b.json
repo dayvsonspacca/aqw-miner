@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-electromage-helm",
+    "url": "http://aqwwiki.wikidot.com/underworld-electromage-helm",
+    "name": "Underworld ElectroMage Helm",
+    "type": "helmets_&_hoods",
+    "description": "Cyber Magic flows through the veins of ElectroMages. Mastering their power is vital; the energy even an untrained mage can produce could level an entire city.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fJnXRW4.png"
+    ],
+    "hash": "54eafb6b8f982155a4ec4dac3ed5880b"
+}

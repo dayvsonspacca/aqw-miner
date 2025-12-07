@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-vordred-helm",
+    "url": "http://aqwwiki.wikidot.com/shadow-vordred-helm",
+    "name": "Shadow Vordred Helm",
+    "type": "helmets_&_hoods",
+    "description": "Is this his head, or a helmet? At least you won't have to listen to it talk.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Lt1laJR.png"
+    ],
+    "hash": "e02cccc751e0538f4b3675ba54c13451"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "vanir-beard-helm",
+    "url": "http://aqwwiki.wikidot.com/vanir-beard-helm",
+    "name": "Vanir Beard Helm",
+    "type": "helmets_&_hoods",
+    "description": "Heavy and ornate, this helm will protect both you and your beard from weapons, falling rocks, and mind-control.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/l8vnf1c.png"
+    ],
+    "hash": "1c9b07f4a79f8a4b3a8d5daa5e4fdbaf"
+}

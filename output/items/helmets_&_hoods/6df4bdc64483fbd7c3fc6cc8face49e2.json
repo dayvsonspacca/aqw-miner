@@ -1,0 +1,16 @@
+{
+    "urlName": "infused-ender-s-helm",
+    "url": "http://aqwwiki.wikidot.com/infused-ender-s-helm",
+    "name": "Infused Ender's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Not as impressive and ancient as the original war helm, but those who wear it are believed to be seen as equals in Kezeroth's eyes should he be released from his restraints. On the bright side, this replica can fit any head size.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/t8YjEgX.png"
+    ],
+    "hash": "6df4bdc64483fbd7c3fc6cc8face49e2"
+}

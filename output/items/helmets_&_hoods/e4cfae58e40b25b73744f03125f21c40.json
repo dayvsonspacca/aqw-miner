@@ -1,0 +1,16 @@
+{
+    "urlName": "lunarmancer-helm",
+    "url": "http://aqwwiki.wikidot.com/lunarmancer-helm",
+    "name": "Lunarmancer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Lunarmancer's need to be able to focus their power, this helm helps block out any surrounding noise.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunarmancer-helm/LunarmancerHelm.png"
+    ],
+    "hash": "e4cfae58e40b25b73744f03125f21c40"
+}

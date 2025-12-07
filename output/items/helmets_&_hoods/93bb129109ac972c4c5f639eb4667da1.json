@@ -1,0 +1,15 @@
+{
+    "urlName": "holiday-tophat",
+    "url": "http://aqwwiki.wikidot.com/holiday-tophat",
+    "name": "Holiday TopHat",
+    "type": "helmets_&_hoods",
+    "description": "A fancy TopHat for the most discerning of men. Equipped with its very own mistletoe, hand-tied by the fashionable hero Deum!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/holiday-tophat/HolidayTopHat.png"
+    ],
+    "hash": "93bb129109ac972c4c5f639eb4667da1"
+}

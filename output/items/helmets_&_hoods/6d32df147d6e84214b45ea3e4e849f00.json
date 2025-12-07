@@ -1,0 +1,16 @@
+{
+    "urlName": "aqueduct-conjurer-s-hood",
+    "url": "http://aqwwiki.wikidot.com/aqueduct-conjurer-s-hood",
+    "name": "Aqueduct Conjurer's Hood",
+    "type": "helmets_&_hoods",
+    "description": "Whether you are burrowing throw tunnels or moving barricades with spells, make sure you wear a hood and mask to protect you from all of the debris. Don't want to catch the black lung, do you?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/aqueduct-conjurer-s-hood/AqueductConjurer'sHood.png"
+    ],
+    "hash": "6d32df147d6e84214b45ea3e4e849f00"
+}

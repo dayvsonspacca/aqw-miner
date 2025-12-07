@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-solar-naval-locks",
+    "url": "http://aqwwiki.wikidot.com/prismatic-solar-naval-locks",
+    "name": "Prismatic Solar Naval Locks",
+    "type": "helmets_&_hoods",
+    "description": "A gleaming hat of reddish tan that represents the dawn. In that case, it gives rise to a new day out at sea.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-solar-naval-locks/PrismaticSolarNavalLocks.png"
+    ],
+    "hash": "523b6aa52989d1697bc0103bc2739eb6"
+}

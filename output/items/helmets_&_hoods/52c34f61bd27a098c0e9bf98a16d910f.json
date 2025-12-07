@@ -1,0 +1,16 @@
+{
+    "urlName": "lycan-growler-helm",
+    "url": "http://aqwwiki.wikidot.com/lycan-growler-helm",
+    "name": "Lycan Growler Helm",
+    "type": "helmets_&_hoods",
+    "description": "How about we play fetch with Nulgath's bones?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/JHWrHCY.png"
+    ],
+    "hash": "52c34f61bd27a098c0e9bf98a16d910f"
+}

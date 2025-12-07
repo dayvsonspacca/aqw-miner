@@ -1,0 +1,16 @@
+{
+    "urlName": "countdown-s-protection",
+    "url": "http://aqwwiki.wikidot.com/countdown-s-protection",
+    "name": "Countdown's Protection",
+    "type": "helmets_&_hoods",
+    "description": "While your armor taunts your adversaries with their countdown to doom, you can stay head injury free with this sleek helm. Does not guarantee complete protection from New Year's Eve Party shenanigans.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/koR1CDt.png"
+    ],
+    "hash": "dd8b1ab0072df422e83e4c701f0f3cf8"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-void-horns",
+    "url": "http://aqwwiki.wikidot.com/dark-void-horns",
+    "name": "Dark Void Horns",
+    "type": "helmets_&_hoods",
+    "description": "Your horns are proof of how long you've served Revonthus and his master. And you'll continue to do so\u2026 for all of eternity.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-void-horns/DarkVoidHorns.png"
+    ],
+    "hash": "039002fb55edd74befaf7536ae908cdc"
+}

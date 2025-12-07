@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-spectacles-visage",
+    "url": "http://aqwwiki.wikidot.com/arcane-spectacles-visage",
+    "name": "Arcane Spectacles Visage",
+    "type": "helmets_&_hoods",
+    "description": "Fireball, Ice Shard, and Arcane Shield are basic skills taught to beginner Mages. Though simple and easy to learn, they have a storied past, being the first spells to ever be wielded by humankind.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/YlnOJmU.png"
+    ],
+    "hash": "c46ed7549d3de0a2b5e6da81b24f7f6c"
+}

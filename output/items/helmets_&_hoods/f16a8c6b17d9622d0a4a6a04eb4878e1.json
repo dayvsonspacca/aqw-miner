@@ -1,0 +1,16 @@
+{
+    "urlName": "blessed-knight-hair",
+    "url": "http://aqwwiki.wikidot.com/blessed-knight-hair",
+    "name": "Blessed Knight Hair",
+    "type": "helmets_&_hoods",
+    "description": "These rare Knights are affiliated with the Order of Paladins, but channel a special type of light magic which melds with their armor, hair, and weapons over time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blessed-knight-hair/BlessedKnightHair.png"
+    ],
+    "hash": "f16a8c6b17d9622d0a4a6a04eb4878e1"
+}

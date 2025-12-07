@@ -1,0 +1,16 @@
+{
+    "urlName": "malachite-mask",
+    "url": "http://aqwwiki.wikidot.com/malachite-mask",
+    "name": "Malachite Mask",
+    "type": "helmets_&_hoods",
+    "description": "Complete the look with this smooth helm, adding a bit of mystery to your Malachite Merc. The helm's ability to hide your emotions, coupled with the glow of golden eyes, will only confound you enemies more.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/malachite-mask/MalachiteMask.png"
+    ],
+    "hash": "35a8c4d3960f312fcd48fda0c6503668"
+}

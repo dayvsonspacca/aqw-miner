@@ -1,0 +1,15 @@
+{
+    "urlName": "the-unholy-helm",
+    "url": "http://aqwwiki.wikidot.com/the-unholy-helm",
+    "name": "The Unholy Helm",
+    "type": "helmets_&_hoods",
+    "description": "You are evil personified!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/Aj9731q.png"
+    ],
+    "hash": "ca65ba8a18c08f7e5bb0c7a2bd1c5937"
+}

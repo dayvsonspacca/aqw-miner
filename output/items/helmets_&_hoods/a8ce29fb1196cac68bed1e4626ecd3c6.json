@@ -1,0 +1,13 @@
+{
+    "urlName": "vanir-helm",
+    "url": "http://aqwwiki.wikidot.com/vanir-helm",
+    "name": "Vanir Helm",
+    "type": "helmets_&_hoods",
+    "description": "A thick battle helm made to commemorate those who have lost their beard during war.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/LnuMCOW.png"
+    ],
+    "hash": "a8ce29fb1196cac68bed1e4626ecd3c6"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "artix-s-helm",
+    "url": "http://aqwwiki.wikidot.com/artix-s-helm",
+    "name": "Artix's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Artix has given you his own helm to demonstrate his belief in your ability to lead the Paladin Order. It still smells like his shampoo.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/Pc6KtvO.png"
+    ],
+    "hash": "6ecaffc9acd6bc7098d91a4a020ed2af"
+}

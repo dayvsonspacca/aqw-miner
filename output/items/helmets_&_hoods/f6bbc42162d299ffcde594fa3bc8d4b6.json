@@ -1,0 +1,17 @@
+{
+    "urlName": "werewolf-morph-2",
+    "url": "http://aqwwiki.wikidot.com/werewolf-morph-2",
+    "name": "Werewolf Morph (2)",
+    "type": "helmets_&_hoods",
+    "description": "Hey man, looks like you could use a haircut - WHOA! And a shave! (Click to see Mogloween transformation!)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/werewolf-morph-2/WerewolfMorphN.png",
+        "http://aqwwiki.wdfiles.com/local--files/werewolf-morph-2/WerewolfMorphC.png"
+    ],
+    "hash": "f6bbc42162d299ffcde594fa3bc8d4b6"
+}

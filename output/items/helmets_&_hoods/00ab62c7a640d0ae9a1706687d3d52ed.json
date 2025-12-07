@@ -1,0 +1,16 @@
+{
+    "urlName": "void-ring-mask",
+    "url": "http://aqwwiki.wikidot.com/void-ring-mask",
+    "name": "Void Ring Mask",
+    "type": "helmets_&_hoods",
+    "description": "Masks help disguise our true identity. And if you hail from the Void, then it's best to help your face hidden\u2026 for now\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-ring-mask/VoidRingMask.png"
+    ],
+    "hash": "00ab62c7a640d0ae9a1706687d3d52ed"
+}

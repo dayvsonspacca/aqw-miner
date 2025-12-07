@@ -1,0 +1,16 @@
+{
+    "urlName": "moglitech-visor",
+    "url": "http://aqwwiki.wikidot.com/moglitech-visor",
+    "name": "MogliTech Visor",
+    "type": "helmets_&_hoods",
+    "description": "Battlenator 7: Rise of the MOGBOTS.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Hu9tkfC.png"
+    ],
+    "hash": "19cf73912bfa3a75f679eefd9e675b7e"
+}

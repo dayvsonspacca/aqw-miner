@@ -1,0 +1,16 @@
+{
+    "urlName": "bearded-red-dwarf-helm",
+    "url": "http://aqwwiki.wikidot.com/bearded-red-dwarf-helm",
+    "name": "Bearded Red Dwarf Helm",
+    "type": "helmets_&_hoods",
+    "description": "Fact: Dwarves have the best beards in the world but also the worlds worst guitar players.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bearded-red-dwarf-helm/BeardedRedDwarfHelm.png"
+    ],
+    "hash": "075fcc58abad2cc9aa15d3ccc7c4a970"
+}

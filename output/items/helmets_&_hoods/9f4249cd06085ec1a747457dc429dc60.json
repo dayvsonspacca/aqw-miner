@@ -1,0 +1,16 @@
+{
+    "urlName": "diamond-collector-hood-ac",
+    "url": "http://aqwwiki.wikidot.com/diamond-collector-hood-ac",
+    "name": "Diamond Collector Hood (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Diamond Collectors of the Nation play an important role in keeping the Fiend Shards under control. Despite this being well known, other Fiends regularly attack them for their gems.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/0q2xIjQ.png"
+    ],
+    "hash": "9f4249cd06085ec1a747457dc429dc60"
+}

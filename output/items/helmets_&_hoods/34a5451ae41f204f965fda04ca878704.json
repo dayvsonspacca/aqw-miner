@@ -1,0 +1,13 @@
+{
+    "urlName": "eyepatch",
+    "url": "http://aqwwiki.wikidot.com/eyepatch",
+    "name": "Eyepatch",
+    "type": "helmets_&_hoods",
+    "description": "Basic Pirate eyepatch.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/2ZAEHup.png"
+    ],
+    "hash": "34a5451ae41f204f965fda04ca878704"
+}

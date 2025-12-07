@@ -1,0 +1,16 @@
+{
+    "urlName": "valentine-warrior-helm",
+    "url": "http://aqwwiki.wikidot.com/valentine-warrior-helm",
+    "name": "Valentine Warrior Helm",
+    "type": "helmets_&_hoods",
+    "description": "Pink and red armor fit only for the most romantic of knights!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/valentine-warrior-helm/ValentineWarriorHelm.png"
+    ],
+    "hash": "0c32fe91e58b2b08be64ebff416d0173"
+}

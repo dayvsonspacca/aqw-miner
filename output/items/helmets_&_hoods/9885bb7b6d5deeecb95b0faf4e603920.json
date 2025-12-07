@@ -1,0 +1,16 @@
+{
+    "urlName": "tidal-helm",
+    "url": "http://aqwwiki.wikidot.com/tidal-helm",
+    "name": "Tidal Helm",
+    "type": "helmets_&_hoods",
+    "description": "A wave frozen by magic at its peak\u2026 the best thing to wear during the spring storms!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tidal-helm/TidalHelm.png"
+    ],
+    "hash": "9885bb7b6d5deeecb95b0faf4e603920"
+}

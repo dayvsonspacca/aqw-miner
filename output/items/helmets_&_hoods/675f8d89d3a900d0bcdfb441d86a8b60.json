@@ -1,0 +1,16 @@
+{
+    "urlName": "gryphon-rider-helm",
+    "url": "http://aqwwiki.wikidot.com/gryphon-rider-helm",
+    "name": "Gryphon Rider Helm",
+    "type": "helmets_&_hoods",
+    "description": "You HAVE to watch out for those tail whips, they'll take an eye out.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gryphon-rider-helm/GryphonRiderHelm.png"
+    ],
+    "hash": "675f8d89d3a900d0bcdfb441d86a8b60"
+}

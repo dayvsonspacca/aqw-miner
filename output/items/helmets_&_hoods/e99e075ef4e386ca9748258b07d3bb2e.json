@@ -1,0 +1,16 @@
+{
+    "urlName": "enchanted-light-hood",
+    "url": "http://aqwwiki.wikidot.com/enchanted-light-hood",
+    "name": "Enchanted Light Hood",
+    "type": "helmets_&_hoods",
+    "description": "Shine on, Celestial Hero!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/enchanted-light-hood/EnchantedLightHood.png"
+    ],
+    "hash": "e99e075ef4e386ca9748258b07d3bb2e"
+}

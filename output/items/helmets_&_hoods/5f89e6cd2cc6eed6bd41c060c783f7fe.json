@@ -1,0 +1,16 @@
+{
+    "urlName": "cryptkeeper-plague-doctor",
+    "url": "http://aqwwiki.wikidot.com/cryptkeeper-plague-doctor",
+    "name": "CryptKeeper Plague Doctor",
+    "type": "helmets_&_hoods",
+    "description": "Not all Eergcast Catacombs cryptkeepers dwell underground. Some occupy the mauseloms above and have used cloth masks sewen after crows to hide their true identities and the fact that they are neither dead nor living.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cryptkeeper-plague-doctor/CryptkeeperPlagueDoctor.png"
+    ],
+    "hash": "5f89e6cd2cc6eed6bd41c060c783f7fe"
+}

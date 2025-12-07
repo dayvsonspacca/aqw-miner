@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-victory",
+    "url": "http://aqwwiki.wikidot.com/helm-of-victory",
+    "name": "Helm of Victory",
+    "type": "helmets_&_hoods",
+    "description": "There once was a self-absorbed knight who once he saw his own reflection, he got so scared of it he never dared wanted to see it again. That is why those who wear this strange helmet are usually blind, but highly aware of their surroundings.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-victory/HelmofVictory.png"
+    ],
+    "hash": "805a9bbfe116f7eaa21dcba10be95671"
+}

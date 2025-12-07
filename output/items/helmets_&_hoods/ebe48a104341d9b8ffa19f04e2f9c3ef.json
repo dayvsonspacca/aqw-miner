@@ -1,0 +1,17 @@
+{
+    "urlName": "tactical-agent-alpha-morph",
+    "url": "http://aqwwiki.wikidot.com/tactical-agent-alpha-morph",
+    "name": "Tactical Agent Alpha Morph",
+    "type": "helmets_&_hoods",
+    "description": "Don't get lost in the mayhem. Most people can't tell one bloodstain from another.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ET7In5k.png"
+    ],
+    "hash": "ebe48a104341d9b8ffa19f04e2f9c3ef"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "gi-j6-helm",
+    "url": "http://aqwwiki.wikidot.com/gi-j6-helm",
+    "name": "GI J6 Helm",
+    "type": "helmets_&_hoods",
+    "description": "Head into battle with your GI J6 Helmet!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gi-j6-helm/GIJ6Helm.png"
+    ],
+    "hash": "830aab33dcc778ee7e58ee3a21f05d9d"
+}

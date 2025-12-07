@@ -1,0 +1,16 @@
+{
+    "urlName": "sentinel-helm",
+    "url": "http://aqwwiki.wikidot.com/sentinel-helm",
+    "name": "Sentinel Helm",
+    "type": "helmets_&_hoods",
+    "description": "The elite helm of the Sentinels.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/aMWnhQO.png"
+    ],
+    "hash": "125060bcdb5c2c245a93dcad66681a8b"
+}

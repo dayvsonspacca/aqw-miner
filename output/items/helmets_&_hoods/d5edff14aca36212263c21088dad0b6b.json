@@ -1,0 +1,15 @@
+{
+    "urlName": "golden-phoenix-helm",
+    "url": "http://aqwwiki.wikidot.com/golden-phoenix-helm",
+    "name": "Golden Phoenix Helm",
+    "type": "helmets_&_hoods",
+    "description": "A sacred helmet only worn by the order of the Golden Onslaught.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-phoenix-helm/GoldenPhoenixHelm.png"
+    ],
+    "hash": "d5edff14aca36212263c21088dad0b6b"
+}

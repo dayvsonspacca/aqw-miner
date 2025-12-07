@@ -1,0 +1,15 @@
+{
+    "urlName": "soda-cap",
+    "url": "http://aqwwiki.wikidot.com/soda-cap",
+    "name": "Soda Cap",
+    "type": "helmets_&_hoods",
+    "description": "Need a cold drink? Don't want to wait in line at Yulgars? Here's your soda-tastic solution!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/soda-cap/SodaCap.png"
+    ],
+    "hash": "000bafc3dc6782b393f9a38875917b7f"
+}

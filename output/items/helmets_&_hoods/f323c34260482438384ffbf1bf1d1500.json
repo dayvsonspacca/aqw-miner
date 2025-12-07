@@ -1,0 +1,16 @@
+{
+    "urlName": "the-muenster-master",
+    "url": "http://aqwwiki.wikidot.com/the-muenster-master",
+    "name": "The Muenster Master",
+    "type": "helmets_&_hoods",
+    "description": "You sure know how to look extra sharp on Cheese Day!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-muenster-master/TheMuensterMaster.png"
+    ],
+    "hash": "f323c34260482438384ffbf1bf1d1500"
+}

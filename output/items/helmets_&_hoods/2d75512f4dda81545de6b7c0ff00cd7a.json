@@ -1,0 +1,15 @@
+{
+    "urlName": "miners-hat",
+    "url": "http://aqwwiki.wikidot.com/miners-hat",
+    "name": "Miners Hat",
+    "type": "helmets_&_hoods",
+    "description": "For those who aren't on the field, but want to cheer on their team!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/dHiuixx.png"
+    ],
+    "hash": "2d75512f4dda81545de6b7c0ff00cd7a"
+}

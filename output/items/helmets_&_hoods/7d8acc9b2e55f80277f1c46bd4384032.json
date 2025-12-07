@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-thunderous-applause",
+    "url": "http://aqwwiki.wikidot.com/helm-of-thunderous-applause",
+    "name": "Helm of Thunderous Applause",
+    "type": "helmets_&_hoods",
+    "description": "Shadowed by might, this helm's unique energy streaks will help to repel any attack that comes your way. The unique horns pull all energy into the helm, causing not only a display of power, but a formidable defense.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/P72NnMF.png",
+        "https://i.imgur.com/esvw9jh.png"
+    ],
+    "hash": "7d8acc9b2e55f80277f1c46bd4384032"
+}

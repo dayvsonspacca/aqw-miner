@@ -1,0 +1,16 @@
+{
+    "urlName": "nefarious-elven-locks",
+    "url": "http://aqwwiki.wikidot.com/nefarious-elven-locks",
+    "name": "Nefarious Elven Locks",
+    "type": "helmets_&_hoods",
+    "description": "Even a soul of pure light can hide a little bit of shadows. The wicked smile causes that shadow to become more noticeable.",
+    "rarity": "Rare Raity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nefarious-elven-locks/NefariousElvenLocks.png"
+    ],
+    "hash": "b4658165efeab1c35e6e438462e680f7"
+}

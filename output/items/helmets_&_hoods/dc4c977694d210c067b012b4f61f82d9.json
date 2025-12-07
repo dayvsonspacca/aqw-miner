@@ -1,0 +1,16 @@
+{
+    "urlName": "pony-fett-helm",
+    "url": "http://aqwwiki.wikidot.com/pony-fett-helm",
+    "name": "Pony Fett Helm",
+    "type": "helmets_&_hoods",
+    "description": "Much more stylish than J6's helm!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pony-fett-helm/PonyFettHelm.png"
+    ],
+    "hash": "dc4c977694d210c067b012b4f61f82d9"
+}

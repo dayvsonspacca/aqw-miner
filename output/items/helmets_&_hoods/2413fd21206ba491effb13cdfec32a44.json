@@ -1,0 +1,17 @@
+{
+    "urlName": "legionator-faceplate",
+    "url": "http://aqwwiki.wikidot.com/legionator-faceplate",
+    "name": "Legionator Faceplate",
+    "type": "helmets_&_hoods",
+    "description": "Nobody knows if you are dead and alive. Not that it will matter anyway because either word is meaningless as you gaze at your foe through this tinlike exterior that is veiled carefully.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/CkMpv0v.png",
+        "https://i.imgur.com/BSZvyaW.png"
+    ],
+    "hash": "2413fd21206ba491effb13cdfec32a44"
+}

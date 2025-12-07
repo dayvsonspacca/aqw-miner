@@ -1,0 +1,16 @@
+{
+    "urlName": "deadly-dragonskull-helm",
+    "url": "http://aqwwiki.wikidot.com/deadly-dragonskull-helm",
+    "name": "Deadly DragonSkull Helm",
+    "type": "helmets_&_hoods",
+    "description": "Sometimes when raising the Undead parts are left over, why not make a helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deadly-dragonskull-helm/DeadlyDragonskullHelm.png"
+    ],
+    "hash": "240e8c49b1a200f6d157a3d48997b273"
+}

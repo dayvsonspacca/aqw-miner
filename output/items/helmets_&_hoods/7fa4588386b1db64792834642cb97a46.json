@@ -1,0 +1,17 @@
+{
+    "urlName": "pumpkernnunos-helm",
+    "url": "http://aqwwiki.wikidot.com/pumpkernnunos-helm",
+    "name": "PumpKernnunos Helm",
+    "type": "helmets_&_hoods",
+    "description": "A spine-chilling helm crafted in the likeness of the Mystcroft deity PumpKernnunos, also referred to as 'The Horned One.'",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/qKSFN8i.png"
+    ],
+    "hash": "7fa4588386b1db64792834642cb97a46"
+}

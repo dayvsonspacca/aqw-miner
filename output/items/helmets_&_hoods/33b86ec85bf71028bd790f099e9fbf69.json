@@ -1,0 +1,16 @@
+{
+    "urlName": "mana-helm",
+    "url": "http://aqwwiki.wikidot.com/mana-helm",
+    "name": "Mana Helm",
+    "type": "helmets_&_hoods",
+    "description": "Your proximity to the Mana Core has transmuted your form into a half-human, half-mana elemental!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mana-helm/ManaHelm.png"
+    ],
+    "hash": "33b86ec85bf71028bd790f099e9fbf69"
+}

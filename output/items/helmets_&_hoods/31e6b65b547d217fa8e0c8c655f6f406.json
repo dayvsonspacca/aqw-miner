@@ -1,0 +1,17 @@
+{
+    "urlName": "chef-s-toque-bangs",
+    "url": "http://aqwwiki.wikidot.com/chef-s-toque-bangs",
+    "name": "Chef's Toque + Bangs",
+    "type": "helmets_&_hoods",
+    "description": "Every diner and Inn needs a good chef, and every chef needs a good hat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/x5g9XIX.png"
+    ],
+    "hash": "31e6b65b547d217fa8e0c8c655f6f406"
+}

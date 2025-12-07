@@ -1,0 +1,15 @@
+{
+    "urlName": "mediator-cut",
+    "url": "http://aqwwiki.wikidot.com/mediator-cut",
+    "name": "Mediator Cut",
+    "type": "helmets_&_hoods",
+    "description": "Expose your face for all to see. Let all who gaze upon your visage burn your image into their memory.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uxzFDOz.png"
+    ],
+    "hash": "3f06ac386e7e0c168aa36055dd53a1d3"
+}

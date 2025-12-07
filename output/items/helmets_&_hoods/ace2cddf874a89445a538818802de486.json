@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-hood-ac",
+    "url": "http://aqwwiki.wikidot.com/nation-hood-ac",
+    "name": "Nation Hood (AC)",
+    "type": "helmets_&_hoods",
+    "description": "A general yet recognizable hood. Exerting fear and might won't always convince potential minions into accepting a contract.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/H4dx46h.png"
+    ],
+    "hash": "ace2cddf874a89445a538818802de486"
+}

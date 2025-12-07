@@ -1,0 +1,17 @@
+{
+    "urlName": "goggles-and-locks",
+    "url": "http://aqwwiki.wikidot.com/goggles-and-locks",
+    "name": "Goggles and Locks",
+    "type": "helmets_&_hoods",
+    "description": "Have you been working on the time traveling railroad all the life long-day, or were just trying to pass through time today?",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/goggles-and-locks/GogglesandLocksN.png",
+        "http://aqwwiki.wdfiles.com/local--files/goggles-and-locks/GogglesandLocksO.png"
+    ],
+    "hash": "11a35b170ec9566bfbb86925833a9fd8"
+}

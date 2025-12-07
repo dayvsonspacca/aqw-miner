@@ -1,0 +1,16 @@
+{
+    "urlName": "alpha-rogue-hat",
+    "url": "http://aqwwiki.wikidot.com/alpha-rogue-hat",
+    "name": "Alpha Rogue Hat",
+    "type": "helmets_&_hoods",
+    "description": "This hat makes it really easy to watch everyone around you - they can't see your eyes! (Or most of your face..)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/cddciWx.png"
+    ],
+    "hash": "dd095716cf6304ff186413a550bde2c9"
+}

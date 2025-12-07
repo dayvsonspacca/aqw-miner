@@ -1,0 +1,16 @@
+{
+    "urlName": "protoparagon-helm",
+    "url": "http://aqwwiki.wikidot.com/protoparagon-helm",
+    "name": "ProtoParagon Helm",
+    "type": "helmets_&_hoods",
+    "description": "A digital paragon of Dage intended for use in the datastream",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/protoparagon-helm/ProtoParagonHelm.png"
+    ],
+    "hash": "86b94b22f7d983397be7756db05d7f99"
+}

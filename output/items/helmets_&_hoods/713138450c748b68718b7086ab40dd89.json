@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-pirate-captain-hat",
+    "url": "http://aqwwiki.wikidot.com/golden-pirate-captain-hat",
+    "name": "Golden Pirate Captain Hat",
+    "type": "helmets_&_hoods",
+    "description": "Do not be deceived by this shining gold hat. Just because it is as bright as an immortalized statue doesn't make the captain wearing it any less dangerous than their skill with a long-range pistol.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-pirate-captain-hat/GoldenPCHat.png"
+    ],
+    "hash": "713138450c748b68718b7086ab40dd89"
+}

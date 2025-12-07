@@ -1,0 +1,15 @@
+{
+    "urlName": "golden-centurion-helm",
+    "url": "http://aqwwiki.wikidot.com/golden-centurion-helm",
+    "name": "Golden Centurion Helm",
+    "type": "helmets_&_hoods",
+    "description": "Vastly superior to Centurion Helms from the fables",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-centurion-helm/GCH.png"
+    ],
+    "hash": "937d44096f265e1a13a174a9006d8d9e"
+}

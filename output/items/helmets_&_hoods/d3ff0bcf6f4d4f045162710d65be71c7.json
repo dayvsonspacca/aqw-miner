@@ -1,0 +1,16 @@
+{
+    "urlName": "short-blazing-bandana",
+    "url": "http://aqwwiki.wikidot.com/short-blazing-bandana",
+    "name": "Short Blazing Bandana",
+    "type": "helmets_&_hoods",
+    "description": "Hoist t' colors o' your ship's flag while wipin' down t' deck.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/short-blazing-bandana/SBB.png"
+    ],
+    "hash": "d3ff0bcf6f4d4f045162710d65be71c7"
+}

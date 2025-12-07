@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-founder-morph",
+    "url": "http://aqwwiki.wikidot.com/arcane-founder-morph",
+    "name": "Arcane Founder Morph",
+    "type": "helmets_&_hoods",
+    "description": "The founding Mages who crafted the first spells in Greenguard occupy a near-mythical chapter in history. Some scholars argue if they were real, or fabrications made to glorify an age where humans were seen as cowardly prey.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uWFNryc.png"
+    ],
+    "hash": "50eac8aa8859b271015137ea5a55ff8e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "cryptkeeper-cowl",
+    "url": "http://aqwwiki.wikidot.com/cryptkeeper-cowl",
+    "name": "CryptKeeper Cowl",
+    "type": "helmets_&_hoods",
+    "description": "If the cowl fits, you have gotten just as shady as the shadow that obscures your face or you needed to keep it from the hardened, unnatural chill in the catacombs.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cryptkeeper-cowl/CryptkeeperCowl.png"
+    ],
+    "hash": "98cc8e4e8fa24f6aca9f74fac2bc8e4c"
+}

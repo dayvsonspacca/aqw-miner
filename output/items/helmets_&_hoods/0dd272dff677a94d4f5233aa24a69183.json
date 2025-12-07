@@ -1,0 +1,16 @@
+{
+    "urlName": "sea-captain-s-hat",
+    "url": "http://aqwwiki.wikidot.com/sea-captain-s-hat",
+    "name": "Sea Captain's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Avast! This hat be one o' thee savviest in all thee seven seas!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sea-captain-s-hat/SeaCaptain'sHat.png"
+    ],
+    "hash": "0dd272dff677a94d4f5233aa24a69183"
+}

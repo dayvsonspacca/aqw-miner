@@ -1,0 +1,15 @@
+{
+    "urlName": "mocking-kat-helm",
+    "url": "http://aqwwiki.wikidot.com/mocking-kat-helm",
+    "name": "Mocking Kat Helm",
+    "type": "helmets_&_hoods",
+    "description": "An adorable cat needs an equally adorable name, why not Buttercup?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Zq191JQ.png"
+    ],
+    "hash": "67598275390e9a550df20d54e21b7368"
+}

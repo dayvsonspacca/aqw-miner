@@ -1,0 +1,15 @@
+{
+    "urlName": "top-hat-helm",
+    "url": "http://aqwwiki.wikidot.com/top-hat-helm",
+    "name": "Top Hat (Helm)",
+    "type": "helmets_&_hoods",
+    "description": "A tall, cylindrical hat with a stiff brim usually slightly curved on the sides, worn by noblemen in King Alteon's court.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/zcZB0b0.png"
+    ],
+    "hash": "bd714f83e729c9400daf527bd0200573"
+}

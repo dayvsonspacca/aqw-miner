@@ -1,0 +1,17 @@
+{
+    "urlName": "silver-falcon-helmet",
+    "url": "http://aqwwiki.wikidot.com/silver-falcon-helmet",
+    "name": "Silver Falcon Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Never take the skies in the celestial realm without wearing this first. It provides smoother and balanced control in midair and if the metallic feathers move slightly, a small boost of speed is granted.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/silver-falcon-helmet/SilverFalconHelmet.png"
+    ],
+    "hash": "d584f277576b9d8d79716bb99f49e0e7"
+}

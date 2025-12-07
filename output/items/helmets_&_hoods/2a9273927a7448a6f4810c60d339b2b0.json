@@ -1,0 +1,15 @@
+{
+    "urlName": "galactwig-helm",
+    "url": "http://aqwwiki.wikidot.com/galactwig-helm",
+    "name": "Galactwig Helm",
+    "type": "helmets_&_hoods",
+    "description": "Beware of brain freeze!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/XHibowk.png"
+    ],
+    "hash": "2a9273927a7448a6f4810c60d339b2b0"
+}

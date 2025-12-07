@@ -1,0 +1,17 @@
+{
+    "urlName": "royal-crested-helm",
+    "url": "http://aqwwiki.wikidot.com/royal-crested-helm",
+    "name": "Royal Crested Helm",
+    "type": "helmets_&_hoods",
+    "description": "You unlocked this helm and the rest of the Royal Commander set when you become one of the Lore\u2019s greatest Heroes with a 1 month upgrade!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/royal-crested-helm/RoyalCrestedHelm.png"
+    ],
+    "hash": "ca8ed7a3d54145356fd7b8b019547c1c"
+}

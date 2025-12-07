@@ -1,0 +1,16 @@
+{
+    "urlName": "flaming-head",
+    "url": "http://aqwwiki.wikidot.com/flaming-head",
+    "name": "Flaming Head",
+    "type": "helmets_&_hoods",
+    "description": "Is it a little hot in here? Or is it just you? LOLZ!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/flaming-head/FlamingHead.png"
+    ],
+    "hash": "2f93ed702bd415e623f655f219ac71eb"
+}

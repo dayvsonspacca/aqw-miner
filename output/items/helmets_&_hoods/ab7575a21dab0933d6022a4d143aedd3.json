@@ -1,0 +1,16 @@
+{
+    "urlName": "repo-agent-hood",
+    "url": "http://aqwwiki.wikidot.com/repo-agent-hood",
+    "name": "Repo Agent Hood",
+    "type": "helmets_&_hoods",
+    "description": "You are so confident with your skill and dexterity - sure that you are can make a quick graveyard gateway - that you are not concerned about showing the world your identity!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/repo-agent-hood/RepoAgentHood.png"
+    ],
+    "hash": "ab7575a21dab0933d6022a4d143aedd3"
+}

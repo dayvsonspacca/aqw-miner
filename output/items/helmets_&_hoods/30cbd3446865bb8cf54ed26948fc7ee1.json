@@ -1,0 +1,16 @@
+{
+    "urlName": "royal-zombieslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/royal-zombieslayer-helm",
+    "name": "Royal ZombieSlayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Helm of the Zombie Killers, defenders of the living and destroyers of the undead! Don't get too close to any kings-they might think you're making fun on them.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/royal-zombieslayer-helm/RZH.png"
+    ],
+    "hash": "30cbd3446865bb8cf54ed26948fc7ee1"
+}

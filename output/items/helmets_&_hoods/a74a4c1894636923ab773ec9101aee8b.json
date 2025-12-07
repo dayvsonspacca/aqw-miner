@@ -1,0 +1,17 @@
+{
+    "urlName": "apocalypse-mask",
+    "url": "http://aqwwiki.wikidot.com/apocalypse-mask",
+    "name": "Apocalypse Mask",
+    "type": "helmets_&_hoods",
+    "description": "Death Riders and bad to their bones. Now get out there and smash some skulls. (This item has a 30% chance to do the Shadowburst attack animation.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/apocalypse-mask/ApocalypseMask.png",
+        "http://aqwwiki.wdfiles.com/local--files/apocalypse-mask/AMA.png"
+    ],
+    "hash": "a74a4c1894636923ab773ec9101aee8b"
+}

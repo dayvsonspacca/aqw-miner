@@ -1,0 +1,16 @@
+{
+    "urlName": "creeper-legion-helm",
+    "url": "http://aqwwiki.wikidot.com/creeper-legion-helm",
+    "name": "Creeper Legion Helm",
+    "type": "helmets_&_hoods",
+    "description": "All the tricks, without the treat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/e247QyS.png"
+    ],
+    "hash": "7e72dd1ce0ffce9d92425b748713580c"
+}

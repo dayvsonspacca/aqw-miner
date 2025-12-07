@@ -1,0 +1,16 @@
+{
+    "urlName": "mechachillid-helm",
+    "url": "http://aqwwiki.wikidot.com/mechachillid-helm",
+    "name": "Mechachillid Helm",
+    "type": "helmets_&_hoods",
+    "description": "Forged in the mines of Delta V, this dense exoskeleton offers excellent protection from all hazards of daily life\u2026if your daily life is diving for shiny rocks in the face-meltingly hot magma.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mechachillid-helm/MechachillidHelm.png"
+    ],
+    "hash": "999c11d09e29879d42b5a059e77a2b95"
+}

@@ -1,0 +1,13 @@
+{
+    "urlName": "engineerer-helm",
+    "url": "http://aqwwiki.wikidot.com/engineerer-helm",
+    "name": "Engineerer Helm",
+    "type": "helmets_&_hoods",
+    "description": "This hard hat shall protect you from those dangerous stalactites. FACT: Stalactites are leaded cause of death for all engineers besides blades, gun fire, magic, maces, axes, and drowning.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/NnrkYJ6.png"
+    ],
+    "hash": "6c2bd38c4bdc5611eb16a043095ad8c7"
+}

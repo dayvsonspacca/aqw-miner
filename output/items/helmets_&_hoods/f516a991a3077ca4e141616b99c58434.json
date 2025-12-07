@@ -1,0 +1,15 @@
+{
+    "urlName": "bug-hunter-locks",
+    "url": "http://aqwwiki.wikidot.com/bug-hunter-locks",
+    "name": "Bug Hunter Locks",
+    "type": "helmets_&_hoods",
+    "description": "Bugs won't get in your hair with this helm!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/pjT36FJ.png"
+    ],
+    "hash": "f516a991a3077ca4e141616b99c58434"
+}

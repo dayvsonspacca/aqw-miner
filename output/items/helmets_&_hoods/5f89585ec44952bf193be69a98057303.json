@@ -1,0 +1,17 @@
+{
+    "urlName": "radioactive-biobeast-helm",
+    "url": "http://aqwwiki.wikidot.com/radioactive-biobeast-helm",
+    "name": "Radioactive BioBeast Helm",
+    "type": "helmets_&_hoods",
+    "description": "Bad guys beware! Just standing next to the Radioactive Hazard BioBeast could be enough to damage you!",
+    "rarity": "Promotional Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/radioactive-biobeast-helm/RBH.png"
+    ],
+    "hash": "5f89585ec44952bf193be69a98057303"
+}

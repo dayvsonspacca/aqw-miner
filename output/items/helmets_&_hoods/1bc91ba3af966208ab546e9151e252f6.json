@@ -1,0 +1,16 @@
+{
+    "urlName": "crystallis-trainer-locks",
+    "url": "http://aqwwiki.wikidot.com/crystallis-trainer-locks",
+    "name": "Crystallis Trainer Locks",
+    "type": "helmets_&_hoods",
+    "description": "The streets need order, and you can't keep order if you're slacking at the gym.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2N70tOE.png"
+    ],
+    "hash": "1bc91ba3af966208ab546e9151e252f6"
+}

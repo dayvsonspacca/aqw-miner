@@ -1,0 +1,16 @@
+{
+    "urlName": "magma-mane",
+    "url": "http://aqwwiki.wikidot.com/magma-mane",
+    "name": "Magma Mane",
+    "type": "helmets_&_hoods",
+    "description": "Let the magma flow around you and you'll never be cold!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/magma-mane/MagmaMane.png"
+    ],
+    "hash": "cc98ce65c712f2d3b6a3dc4fce0d8cff"
+}

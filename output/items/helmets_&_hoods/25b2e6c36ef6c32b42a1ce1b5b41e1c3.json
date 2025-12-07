@@ -1,0 +1,16 @@
+{
+    "urlName": "galleon-locks",
+    "url": "http://aqwwiki.wikidot.com/galleon-locks",
+    "name": "Galleon Locks",
+    "type": "helmets_&_hoods",
+    "description": "Yarrr! It be dark days. Man t' wheel as you and your hearties turn t' gears on your ship as you venture for treasure and adventure on t' open sea!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/LPMlrkN.png"
+    ],
+    "hash": "25b2e6c36ef6c32b42a1ce1b5b41e1c3"
+}

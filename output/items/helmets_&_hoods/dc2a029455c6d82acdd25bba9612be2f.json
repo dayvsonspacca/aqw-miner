@@ -1,0 +1,16 @@
+{
+    "urlName": "matchmaker-hair",
+    "url": "http://aqwwiki.wikidot.com/matchmaker-hair",
+    "name": "MatchMaker Hair",
+    "type": "helmets_&_hoods",
+    "description": "No hero will be able to resist your matchmaking machinations when invite them to join you on your next adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/tPAcNo9.png"
+    ],
+    "hash": "dc2a029455c6d82acdd25bba9612be2f"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "tenticap",
+    "url": "http://aqwwiki.wikidot.com/tenticap",
+    "name": "Tenticap",
+    "type": "helmets_&_hoods",
+    "description": "Only if they'd turn your foe to stone!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tenticap/Tenticap.png"
+    ],
+    "hash": "8f22199cdc2c927b14e3f9bd620aa618"
+}

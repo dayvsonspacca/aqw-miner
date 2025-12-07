@@ -1,0 +1,16 @@
+{
+    "urlName": "archfiend-deathlord-helmet",
+    "url": "http://aqwwiki.wikidot.com/archfiend-deathlord-helmet",
+    "name": "ArchFiend Deathlord Helmet",
+    "type": "helmets_&_hoods",
+    "description": "(Item does 20% more damage to all tagged monsters when equipped.)\"You can't think positive with a helm which can't protect your head.\" ~Vulnios, Void DeathKnight of the Nulgath Nation",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/0Q4GZv1.png",
+        "https://i.imgur.com/U9uiSnI.png"
+    ],
+    "hash": "7feec85b45a0a3ff02b979f1eb7702a5"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "collector-helm-merge",
+    "url": "http://aqwwiki.wikidot.com/collector-helm-merge",
+    "name": "Collector Helm (Merge)",
+    "type": "helmets_&_hoods",
+    "description": "Last time you beat the Collector, now you are him! Bigger in the inside dome sold separately.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/KhYOHzq.png"
+    ],
+    "hash": "5952d005b758b94caab55d58efe90ec4"
+}

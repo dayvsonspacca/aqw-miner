@@ -1,0 +1,16 @@
+{
+    "urlName": "tilted-shorthat",
+    "url": "http://aqwwiki.wikidot.com/tilted-shorthat",
+    "name": "Tilted ShortHat",
+    "type": "helmets_&_hoods",
+    "description": "Don't look like a numpty and fix you hat!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tilted-shorthat/TiltedShorthat.png"
+    ],
+    "hash": "be87e24cc0193d06ff774e890cfa7194"
+}

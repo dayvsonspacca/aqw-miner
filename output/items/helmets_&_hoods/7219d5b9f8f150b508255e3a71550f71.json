@@ -1,0 +1,17 @@
+{
+    "urlName": "tall-stack-fez",
+    "url": "http://aqwwiki.wikidot.com/tall-stack-fez",
+    "name": "Tall-Stack Fez",
+    "type": "helmets_&_hoods",
+    "description": "When a short stack just isn't enough.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/WF48Bv3.png",
+        "http://aqwwiki.wdfiles.com/local--files/tall-stack-fez/TallStackFez.png"
+    ],
+    "hash": "7219d5b9f8f150b508255e3a71550f71"
+}

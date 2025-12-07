@@ -1,0 +1,16 @@
+{
+    "urlName": "archer-drow-helm",
+    "url": "http://aqwwiki.wikidot.com/archer-drow-helm",
+    "name": "Archer Drow Helm",
+    "type": "helmets_&_hoods",
+    "description": "Nothing escapes your gaze. You can spot a dead man from a thousand paces. And if he's not dead, well, you can fix that.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/archer-drow-helm/ArcherDrowHelm.png"
+    ],
+    "hash": "24533600400c8e8e71cf44799d4b2952"
+}

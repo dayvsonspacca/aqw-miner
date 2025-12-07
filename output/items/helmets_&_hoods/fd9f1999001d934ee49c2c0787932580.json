@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-wolf-helm",
+    "url": "http://aqwwiki.wikidot.com/frost-wolf-helm",
+    "name": "Frost Wolf Helm",
+    "type": "helmets_&_hoods",
+    "description": "Don this head and not a tear will be shed tonight when the hunt has begun for its crystalline fur still lingers with the essence of the recently slain wolf.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/zfd5kf3.png"
+    ],
+    "hash": "fd9f1999001d934ee49c2c0787932580"
+}

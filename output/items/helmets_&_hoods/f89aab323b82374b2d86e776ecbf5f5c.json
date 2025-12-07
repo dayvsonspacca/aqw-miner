@@ -1,0 +1,16 @@
+{
+    "urlName": "mediator-headgear-locks",
+    "url": "http://aqwwiki.wikidot.com/mediator-headgear-locks",
+    "name": "Mediator Headgear + Locks",
+    "type": "helmets_&_hoods",
+    "description": "Expose your face for all to see. Let all who gaze upon your visage burn your image into their memory.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/VgFsw5w.png"
+    ],
+    "hash": "f89aab323b82374b2d86e776ecbf5f5c"
+}

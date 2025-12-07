@@ -1,0 +1,16 @@
+{
+    "urlName": "ancient-cryomancer-hat",
+    "url": "http://aqwwiki.wikidot.com/ancient-cryomancer-hat",
+    "name": "Ancient Cryomancer Hat",
+    "type": "helmets_&_hoods",
+    "description": "keeps the frost away from casting spells.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ancient-cryomancer-hat/AncientCryomancerHat.png"
+    ],
+    "hash": "aa6064a8430230914a68d9782e549c3c"
+}

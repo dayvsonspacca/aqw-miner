@@ -1,0 +1,16 @@
+{
+    "urlName": "skelly-hug-locks",
+    "url": "http://aqwwiki.wikidot.com/skelly-hug-locks",
+    "name": "Skelly Hug Locks",
+    "type": "helmets_&_hoods",
+    "description": "It's giving you a hug.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BqtRmu5.png"
+    ],
+    "hash": "6657e13d92bf04ebde2275bd352c7f9d"
+}

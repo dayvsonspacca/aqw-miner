@@ -1,0 +1,13 @@
+{
+    "urlName": "flight-goggles",
+    "url": "http://aqwwiki.wikidot.com/flight-goggles",
+    "name": "Flight Goggles",
+    "type": "helmets_&_hoods",
+    "description": "This will keep the wind out of your eyes.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/ux5IlQr.png"
+    ],
+    "hash": "52b73e20c6bfd32a8ad90a022bfe7096"
+}

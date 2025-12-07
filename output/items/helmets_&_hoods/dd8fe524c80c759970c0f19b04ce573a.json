@@ -1,0 +1,16 @@
+{
+    "urlName": "blister-s-bag",
+    "url": "http://aqwwiki.wikidot.com/blister-s-bag",
+    "name": "Blister's Bag",
+    "type": "helmets_&_hoods",
+    "description": "Are you sure you want to put this over your head?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/nrpOpXw.png"
+    ],
+    "hash": "dd8fe524c80c759970c0f19b04ce573a"
+}

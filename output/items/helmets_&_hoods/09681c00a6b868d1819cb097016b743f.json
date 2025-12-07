@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowscythe-faceguard",
+    "url": "http://aqwwiki.wikidot.com/shadowscythe-faceguard",
+    "name": "ShadowScythe Faceguard",
+    "type": "helmets_&_hoods",
+    "description": "A helm worthy of the ShadowScythe.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowscythe-faceguard/SSF.png"
+    ],
+    "hash": "09681c00a6b868d1819cb097016b743f"
+}

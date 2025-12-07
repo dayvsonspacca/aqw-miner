@@ -1,0 +1,15 @@
+{
+    "urlName": "red-santy-hat",
+    "url": "http://aqwwiki.wikidot.com/red-santy-hat",
+    "name": "Red Santy Hat",
+    "type": "helmets_&_hoods",
+    "description": "A fluffy fur cap to set the Frostval mood wherever you go.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ewIxHtS.png"
+    ],
+    "hash": "4a07187047661c1b1bfe18d7755787a4"
+}

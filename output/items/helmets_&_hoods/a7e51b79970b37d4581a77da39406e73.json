@@ -1,0 +1,16 @@
+{
+    "urlName": "bearded-leprechaun-hat",
+    "url": "http://aqwwiki.wikidot.com/bearded-leprechaun-hat",
+    "name": "Bearded Leprechaun Hat",
+    "type": "helmets_&_hoods",
+    "description": "Lucky hat! That beard gives +.005% bonus to fooling the locals with your imitation Irish accent. Happy Lucky Day!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ePrkOPe.png"
+    ],
+    "hash": "a7e51b79970b37d4581a77da39406e73"
+}

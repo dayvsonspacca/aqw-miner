@@ -1,0 +1,16 @@
+{
+    "urlName": "lord-brentan-s-helm",
+    "url": "http://aqwwiki.wikidot.com/lord-brentan-s-helm",
+    "name": "Lord Brentan's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Lord Brentan's own helm, crafted long ago by one of the loyal smithing families owing fealty to the Brentons.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lord-brentan-s-helm/LordBrentan'sHelm.png"
+    ],
+    "hash": "21ce87c49dfb81585764524df1ddf92e"
+}

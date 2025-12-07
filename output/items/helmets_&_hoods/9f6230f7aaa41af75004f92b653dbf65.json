@@ -1,0 +1,17 @@
+{
+    "urlName": "frostborne-dragonslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/frostborne-dragonslayer-helm",
+    "name": "Frostborne Dragonslayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Ice Dragon who transformed these Dragonslayers was fond of hoarding living sculptures. They were a diluted blood descendant of an extinct Draconic hierarchy, able to transform flesh into enthralled ice.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/3976426.png",
+        "https://i.imgur.com/gCyiCeM.png"
+    ],
+    "hash": "9f6230f7aaa41af75004f92b653dbf65"
+}

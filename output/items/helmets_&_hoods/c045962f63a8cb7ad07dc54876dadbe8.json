@@ -1,0 +1,16 @@
+{
+    "urlName": "infinity-hood",
+    "url": "http://aqwwiki.wikidot.com/infinity-hood",
+    "name": "Infinity Hood",
+    "type": "helmets_&_hoods",
+    "description": "Seeing into the infinite reaches of space, you might want to hide your face.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/infinity-hood/InfiniteHood.png"
+    ],
+    "hash": "c045962f63a8cb7ad07dc54876dadbe8"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "chaonslaught-war-helm",
+    "url": "http://aqwwiki.wikidot.com/chaonslaught-war-helm",
+    "name": "Chaonslaught War Helm",
+    "type": "helmets_&_hoods",
+    "description": "Part man, part machine, but all CHAOS!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaonslaught-war-helm/ChaonslaughtWarHelm.png"
+    ],
+    "hash": "22b38c04558573c2d52edda544667f18"
+}

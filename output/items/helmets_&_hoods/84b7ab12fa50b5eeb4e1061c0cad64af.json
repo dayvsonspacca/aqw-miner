@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-destruction",
+    "url": "http://aqwwiki.wikidot.com/helm-of-destruction",
+    "name": "Helm of Destruction",
+    "type": "helmets_&_hoods",
+    "description": "This helmet longs for battle and bloodshed. (color custom: eyes, trim, accessory)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/KhmlhHh.png"
+    ],
+    "hash": "84b7ab12fa50b5eeb4e1061c0cad64af"
+}

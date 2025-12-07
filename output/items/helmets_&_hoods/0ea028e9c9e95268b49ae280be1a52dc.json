@@ -1,0 +1,16 @@
+{
+    "urlName": "fiending-face",
+    "url": "http://aqwwiki.wikidot.com/fiending-face",
+    "name": "Fiending Face",
+    "type": "helmets_&_hoods",
+    "description": "Fashioned after the yaks that dwell in the coldest parts of the Northlands, this icy face can allow you to see past cruel blizzards and avalanches.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fiending-face/FiendingFace.png"
+    ],
+    "hash": "0ea028e9c9e95268b49ae280be1a52dc"
+}

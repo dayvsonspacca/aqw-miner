@@ -1,0 +1,15 @@
+{
+    "urlName": "zardman-head",
+    "url": "http://aqwwiki.wikidot.com/zardman-head",
+    "name": "Zardman Head",
+    "type": "helmets_&_hoods",
+    "description": "Your head is morphed into a Zardman's head!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/VaV5wGA.png"
+    ],
+    "hash": "5c046bddf39e0d4fb11c8e1ab1615b0c"
+}

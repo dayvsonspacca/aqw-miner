@@ -1,0 +1,16 @@
+{
+    "urlName": "fallen-warrior-helm",
+    "url": "http://aqwwiki.wikidot.com/fallen-warrior-helm",
+    "name": "Fallen Warrior Helm",
+    "type": "helmets_&_hoods",
+    "description": "Some seriously cool hair.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-warrior-helm/FallenWarriorHelm.png"
+    ],
+    "hash": "cb19841f6ea586717fac5167925a4588"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-the-grid",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-grid",
+    "name": "Helm of the Grid",
+    "type": "helmets_&_hoods",
+    "description": "You shall protect all of those in cyberspace and beyond!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/OHJUjmH.png"
+    ],
+    "hash": "b49ff248f38b7466a57f4170fbda58c6"
+}

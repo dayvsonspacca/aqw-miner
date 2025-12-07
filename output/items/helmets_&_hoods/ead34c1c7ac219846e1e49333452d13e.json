@@ -1,0 +1,16 @@
+{
+    "urlName": "giftbox-helm-2016-quest",
+    "url": "http://aqwwiki.wikidot.com/giftbox-helm-2016-quest",
+    "name": "Giftbox Helm 2016 (Quest)",
+    "type": "helmets_&_hoods",
+    "description": "Festive Frostvale 2016! These giftboxes will open on January 1st, 2017 to reveal your EPIC Frostval set!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/dJVpZ1G.png"
+    ],
+    "hash": "ead34c1c7ac219846e1e49333452d13e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frostlorn-titan-helm",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-titan-helm",
+    "name": "Frostlorn Titan Helm",
+    "type": "helmets_&_hoods",
+    "description": "Once worn by frost giants, this helm's terrifying visage signals the doom of your enemies.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5VD7GR9.png"
+    ],
+    "hash": "cbc2be8d93110f57617c62e064948fa3"
+}

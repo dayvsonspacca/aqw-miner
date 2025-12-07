@@ -1,0 +1,16 @@
+{
+    "urlName": "astravian-mercenary-s-hat",
+    "url": "http://aqwwiki.wikidot.com/astravian-mercenary-s-hat",
+    "name": "Astravian Mercenary's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Worn by the mercenaries of Astravia, these hats shielded their eyes from the cursed moon.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/m1KkHx2.png"
+    ],
+    "hash": "b32f1562e414d895d12c71d3ec27dd50"
+}

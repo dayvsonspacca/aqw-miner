@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowmage-hood-1",
+    "url": "http://aqwwiki.wikidot.com/shadowmage-hood-1",
+    "name": "ShadowMage Hood (1)",
+    "type": "helmets_&_hoods",
+    "description": "Shadows conceal something sinister. (3% chance to do the smokebomb animation, and 5% XP boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/Z2aSu8u.png",
+        "http://i.imgur.com/enxLOT2.png"
+    ],
+    "hash": "c3f3b594b30f6902518812d5d4b8960b"
+}

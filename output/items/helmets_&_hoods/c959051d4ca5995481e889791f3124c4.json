@@ -1,0 +1,16 @@
+{
+    "urlName": "scarab-fiend-helm",
+    "url": "http://aqwwiki.wikidot.com/scarab-fiend-helm",
+    "name": "Scarab Fiend Helm",
+    "type": "helmets_&_hoods",
+    "description": "Scarab Bloodrunners were once among the Sandsea's greatest warriors. Once they swore allegiance to Nulgath and embraced a new role as Fiends, they became some of his fiercest defenders.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/MXrxLwq.png"
+    ],
+    "hash": "c959051d4ca5995481e889791f3124c4"
+}

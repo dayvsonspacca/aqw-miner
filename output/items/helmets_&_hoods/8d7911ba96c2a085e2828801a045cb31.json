@@ -1,0 +1,15 @@
+{
+    "urlName": "warden-s-aegis-helm",
+    "url": "http://aqwwiki.wikidot.com/warden-s-aegis-helm",
+    "name": "Warden's Aegis Helm",
+    "type": "helmets_&_hoods",
+    "description": "Doning this majestic helm makes you immune to the manipulative voices of the darkness.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/JPO4Ge5.png"
+    ],
+    "hash": "8d7911ba96c2a085e2828801a045cb31"
+}

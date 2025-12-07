@@ -1,0 +1,16 @@
+{
+    "urlName": "rugged-mercenary-helm",
+    "url": "http://aqwwiki.wikidot.com/rugged-mercenary-helm",
+    "name": "Rugged Mercenary Helm",
+    "type": "helmets_&_hoods",
+    "description": "A shield for hire, able to wield a sword if the client provides one. A drifter's life is rough but it tempers skill. This merc can crush a ten-man bandit attack to a pulpy mess.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/e43YAa0.png"
+    ],
+    "hash": "1c8c0cd5dc1ea67535e3f35db8dc3e40"
+}

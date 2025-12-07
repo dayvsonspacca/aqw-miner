@@ -1,0 +1,16 @@
+{
+    "urlName": "casque-d-amour",
+    "url": "http://aqwwiki.wikidot.com/casque-d-amour",
+    "name": "Casque d'Amour",
+    "type": "helmets_&_hoods",
+    "description": "With an armored helm made of love (and hearts!), your head will always stay safe.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/APi4tuC.png"
+    ],
+    "hash": "fa588eed061befabedb09f946211a35e"
+}

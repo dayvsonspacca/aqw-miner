@@ -1,0 +1,15 @@
+{
+    "urlName": "broncolich-helm",
+    "url": "http://aqwwiki.wikidot.com/broncolich-helm",
+    "name": "Broncolich Helm",
+    "type": "helmets_&_hoods",
+    "description": "Terrify you opponents as they look into your broncolich's undead eyes!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/broncolich-helm/BroncolichHelm.png"
+    ],
+    "hash": "4a47469b37b6b44e34e5a5e0d91094bb"
+}

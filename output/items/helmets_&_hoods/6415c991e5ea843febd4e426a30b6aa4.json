@@ -1,0 +1,17 @@
+{
+    "urlName": "fremitus-leo-helm",
+    "url": "http://aqwwiki.wikidot.com/fremitus-leo-helm",
+    "name": "Fremitus Leo Helm",
+    "type": "helmets_&_hoods",
+    "description": "The wicked will tremble at the sight of your visage, but this gilded helm will prevent their distraught cries from ever reaching your ears.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/aluXL6P.png"
+    ],
+    "hash": "6415c991e5ea843febd4e426a30b6aa4"
+}

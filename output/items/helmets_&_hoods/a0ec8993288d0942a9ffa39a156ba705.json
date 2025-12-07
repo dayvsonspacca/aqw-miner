@@ -1,0 +1,15 @@
+{
+    "urlName": "thermal-flame-hood",
+    "url": "http://aqwwiki.wikidot.com/thermal-flame-hood",
+    "name": "Thermal Flame Hood",
+    "type": "helmets_&_hoods",
+    "description": "The best way to protect yourself from fire is to control the flame. Own the flame.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/4xpz7x6.png"
+    ],
+    "hash": "a0ec8993288d0942a9ffa39a156ba705"
+}

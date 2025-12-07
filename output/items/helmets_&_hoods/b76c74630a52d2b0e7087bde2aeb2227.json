@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-dreadmarch-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-dreadmarch-helm-ac",
+    "name": "Legion Dreadmarch Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Fear is a weapon. The grim, skeletal visage of the Legion Dreadmarch is hidden behind this grim helm until the time is right to remove it and show terror's true face.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-dreadmarch-helm-ac/LDH.png"
+    ],
+    "hash": "b76c74630a52d2b0e7087bde2aeb2227"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "archmage-of-nulgath-helm",
+    "url": "http://aqwwiki.wikidot.com/archmage-of-nulgath-helm",
+    "name": "ArchMage of Nulgath Helm",
+    "type": "helmets_&_hoods",
+    "description": "The hood of those who magic is only for Nulgath.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/archmage-of-nulgath-helm/AoNH.png"
+    ],
+    "hash": "bf5657f30e3c95c5554ca58e8081e938"
+}

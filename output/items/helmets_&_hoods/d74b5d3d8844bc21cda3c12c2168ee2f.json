@@ -1,0 +1,16 @@
+{
+    "urlName": "night-mare-helm",
+    "url": "http://aqwwiki.wikidot.com/night-mare-helm",
+    "name": "Night Mare Helm",
+    "type": "helmets_&_hoods",
+    "description": "Terror lurks in the night. Horror is embodied by a disembodied horse's head. Beware the Night Mare.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/night-mare-helm/NightMareHelm.png"
+    ],
+    "hash": "d74b5d3d8844bc21cda3c12c2168ee2f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "skullmask-ac",
+    "url": "http://aqwwiki.wikidot.com/skullmask-ac",
+    "name": "SkullMask (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Death Riders are bad to their bones. Now get out there and smash some skulls. (This item has 30% chance to do Shadowburst attack animation).",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skullmask-ac/SkullMask.png",
+        "http://aqwwiki.wdfiles.com/local--files/skullmask-ac/SkullMaskAnimation.png"
+    ],
+    "hash": "feb14055bc6b4679757742774cf8880e"
+}

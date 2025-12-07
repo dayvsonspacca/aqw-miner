@@ -1,0 +1,15 @@
+{
+    "urlName": "crown-of-wrath",
+    "url": "http://aqwwiki.wikidot.com/crown-of-wrath",
+    "name": "Crown of Wrath",
+    "type": "helmets_&_hoods",
+    "description": "This item does 30% more damage to Undead monsters when equipped. Wrath will make you lose yourself in the fight, lose your humanity. Do not let it overtake you. Keep yourself calm.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/6qn4mVa.png"
+    ],
+    "hash": "049464f22614a960e1922d8e6854e603"
+}

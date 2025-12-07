@@ -1,0 +1,15 @@
+{
+    "urlName": "tribal-chieftains-helm",
+    "url": "http://aqwwiki.wikidot.com/tribal-chieftains-helm",
+    "name": "Tribal Chieftains Helm",
+    "type": "helmets_&_hoods",
+    "description": "*No description*",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UemGmLs.png"
+    ],
+    "hash": "ed735f74ea130362f015adc525c1bce3"
+}

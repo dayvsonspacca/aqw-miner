@@ -1,0 +1,16 @@
+{
+    "urlName": "mistfall-lich-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/mistfall-lich-helm-ac",
+    "name": "Mistfall Lich Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "This helmet used to be a heroic mask worn by a hero loyal to their ruler. They became too popular, and were tasked with a fatal mission. When they returned, their helm became a mask of terror.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/OndTyYz.png"
+    ],
+    "hash": "9ee84125c2d7a9b9b34f32b0a620ba8c"
+}

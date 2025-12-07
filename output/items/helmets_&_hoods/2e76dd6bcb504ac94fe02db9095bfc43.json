@@ -1,0 +1,15 @@
+{
+    "urlName": "master-trainer-s-helm",
+    "url": "http://aqwwiki.wikidot.com/master-trainer-s-helm",
+    "name": "Master Trainer's Helm",
+    "type": "helmets_&_hoods",
+    "description": "After defeating the esteemed Training Golem, you've earned the right to call yourself a\u2026 Master Trainer! Enjoy your reward. (This item does 10% more damage to all monsters.)",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/e9tUCuQ.png"
+    ],
+    "hash": "2e76dd6bcb504ac94fe02db9095bfc43"
+}

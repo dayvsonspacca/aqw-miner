@@ -1,0 +1,16 @@
+{
+    "urlName": "rouge-intrigue-helm",
+    "url": "http://aqwwiki.wikidot.com/rouge-intrigue-helm",
+    "name": "Rouge Intrigue Helm",
+    "type": "helmets_&_hoods",
+    "description": "Never let them see you sweat\u2026 by never showing your face until the time is right!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rouge-intrigue-helm/RIH.png"
+    ],
+    "hash": "8b84a671c7f539f77401602b3e73a499"
+}

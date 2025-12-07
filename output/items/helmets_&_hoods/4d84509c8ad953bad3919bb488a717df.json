@@ -1,0 +1,17 @@
+{
+    "urlName": "heretic-helm",
+    "url": "http://aqwwiki.wikidot.com/heretic-helm",
+    "name": "Heretic Helm",
+    "type": "helmets_&_hoods",
+    "description": "This mask is used to protect lore\u2026because what you see\u2026 you SLAY!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/heretic-helm/HM.png"
+    ],
+    "hash": "4d84509c8ad953bad3919bb488a717df"
+}

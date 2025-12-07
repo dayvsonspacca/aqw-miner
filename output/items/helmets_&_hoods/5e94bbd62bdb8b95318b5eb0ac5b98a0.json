@@ -1,0 +1,15 @@
+{
+    "urlName": "blackbolt-hood",
+    "url": "http://aqwwiki.wikidot.com/blackbolt-hood",
+    "name": "BlackBolt Hood",
+    "type": "helmets_&_hoods",
+    "description": "The hood protects you from lightning bolts flying around you.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/bu7kgQn.png"
+    ],
+    "hash": "5e94bbd62bdb8b95318b5eb0ac5b98a0"
+}

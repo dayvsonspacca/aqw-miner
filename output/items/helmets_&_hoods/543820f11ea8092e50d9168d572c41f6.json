@@ -1,0 +1,15 @@
+{
+    "urlName": "tech-archer-visor",
+    "url": "http://aqwwiki.wikidot.com/tech-archer-visor",
+    "name": "Tech Archer Visor",
+    "type": "helmets_&_hoods",
+    "description": "When using this visor, the Tech Archers are able to spot and see a HUD of their targets vitals as well as other information on their screen.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://imgur.com/QysH42Y.png"
+    ],
+    "hash": "543820f11ea8092e50d9168d572c41f6"
+}

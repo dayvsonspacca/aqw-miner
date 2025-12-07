@@ -1,0 +1,16 @@
+{
+    "urlName": "solo-sailor-locks",
+    "url": "http://aqwwiki.wikidot.com/solo-sailor-locks",
+    "name": "Solo Sailor Locks",
+    "type": "helmets_&_hoods",
+    "description": "You are the master of your fate. You are the captain of your solo ship.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/aumR3Dm.png"
+    ],
+    "hash": "c84e5ed2666b7aaa2582f35732b472d5"
+}

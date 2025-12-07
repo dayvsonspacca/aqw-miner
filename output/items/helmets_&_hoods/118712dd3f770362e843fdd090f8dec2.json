@@ -1,0 +1,16 @@
+{
+    "urlName": "mer-unit-operator-helm",
+    "url": "http://aqwwiki.wikidot.com/mer-unit-operator-helm",
+    "name": "Mer-Unit Operator Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helm that can provide an hour of air underwater, lacking the weight of a cumbersome scuba tank. It'll just feel like you're wearing a cannonball on your head when crawl back to the shore.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/eAuAjMk.png"
+    ],
+    "hash": "118712dd3f770362e843fdd090f8dec2"
+}

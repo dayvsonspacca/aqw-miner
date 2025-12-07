@@ -1,0 +1,17 @@
+{
+    "urlName": "gobble-helmet",
+    "url": "http://aqwwiki.wikidot.com/gobble-helmet",
+    "name": "Gobble Helmet",
+    "type": "helmets_&_hoods",
+    "description": "What better way to infiltrate the Gobble Clan then dressing up as one!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/eX5Q2ag.png"
+    ],
+    "hash": "d22c064e2a20484d228703b04be286ab"
+}

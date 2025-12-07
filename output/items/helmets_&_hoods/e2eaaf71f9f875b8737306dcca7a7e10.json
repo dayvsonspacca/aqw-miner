@@ -1,0 +1,16 @@
+{
+    "urlName": "voltaire-hat",
+    "url": "http://aqwwiki.wikidot.com/voltaire-hat",
+    "name": "Voltaire Hat",
+    "type": "helmets_&_hoods",
+    "description": "It's Voltaire Time!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/voltaire-hat/VoltaireHat.png"
+    ],
+    "hash": "e2eaaf71f9f875b8737306dcca7a7e10"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "goldenstag-horned-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/goldenstag-horned-helm-ac",
+    "name": "GoldenStag Horned Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Defenders of the Northlands borders, the GoldenStag Warrior Chiefs swear a binding blood oath on the horns of a slain Blight Deer to protect and serve.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8B8Wnmm.png"
+    ],
+    "hash": "c876b62e17301c3080fe17a69bd16c1b"
+}

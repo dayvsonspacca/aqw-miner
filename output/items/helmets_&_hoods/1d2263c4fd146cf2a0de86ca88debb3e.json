@@ -1,0 +1,16 @@
+{
+    "urlName": "bone-terror-skull",
+    "url": "http://aqwwiki.wikidot.com/bone-terror-skull",
+    "name": "Bone Terror Skull",
+    "type": "helmets_&_hoods",
+    "description": "You take the Undead Terror's head for your helm.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/R8ayQQ5.png",
+        "http://aqwwiki.wdfiles.com/local--files/bone-terror-skull/BoneTerrorSkullOld.png"
+    ],
+    "hash": "1d2263c4fd146cf2a0de86ca88debb3e"
+}

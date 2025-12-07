@@ -1,0 +1,16 @@
+{
+    "urlName": "shorn-legacy-hair",
+    "url": "http://aqwwiki.wikidot.com/shorn-legacy-hair",
+    "name": "Shorn Legacy Hair",
+    "type": "helmets_&_hoods",
+    "description": "If it is a clean look you are seeking, then look no further than the shorn look of the Legacy armor. Sleek and easy to maintain, all you have to worry about is the errant swing of the enemy's blade while the sun reflects off your head.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shorn-legacy-hair/SLH.png"
+    ],
+    "hash": "29be2aa3d9be98cece3aea2b9f8cf818"
+}

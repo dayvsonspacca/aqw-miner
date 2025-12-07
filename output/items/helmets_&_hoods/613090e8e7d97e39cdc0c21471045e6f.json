@@ -1,0 +1,16 @@
+{
+    "urlName": "ruby-kitsune-duelist-helm",
+    "url": "http://aqwwiki.wikidot.com/ruby-kitsune-duelist-helm",
+    "name": "Ruby Kitsune Duelist Helm",
+    "type": "helmets_&_hoods",
+    "description": "Skills taught to mortal warriors by Yokai are often used to hunt other Yokai. Their masters find it amusing, and a sign of how good of a teacher they were.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/O5HXUd1.png"
+    ],
+    "hash": "613090e8e7d97e39cdc0c21471045e6f"
+}

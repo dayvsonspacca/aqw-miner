@@ -1,0 +1,17 @@
+{
+    "urlName": "candy-top",
+    "url": "http://aqwwiki.wikidot.com/candy-top",
+    "name": "Candy Top",
+    "type": "helmets_&_hoods",
+    "description": "Top o the Frostval to you!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/BInaI3Z.png"
+    ],
+    "hash": "fd2d81e2ac84190f7e86093e10ab235f"
+}

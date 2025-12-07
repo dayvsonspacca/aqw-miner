@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-guardian-visage",
+    "url": "http://aqwwiki.wikidot.com/arcane-guardian-visage",
+    "name": "Arcane Guardian Visage",
+    "type": "helmets_&_hoods",
+    "description": "Fireball, Ice Shard, and Arcane Shield are basic skills taught to beginner Mages. Though simple and easy to learn, they have a storied past, being the first spells to ever be wielded by humankind.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/q481eNV.png"
+    ],
+    "hash": "a4deec1f361dc060664f457968cb8383"
+}

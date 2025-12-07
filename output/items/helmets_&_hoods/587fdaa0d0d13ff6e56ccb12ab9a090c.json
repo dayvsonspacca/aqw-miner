@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-knight-hair",
+    "url": "http://aqwwiki.wikidot.com/frost-knight-hair",
+    "name": "Frost Knight Hair",
+    "type": "helmets_&_hoods",
+    "description": "Small, sparkling crystalline rocks rest in your hair, allowing you to brave your way through the thickest of blizzards in style. Are those diamonds?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-knight-hair/FKHair.png",
+        "http://aqwwiki.wdfiles.com/local--files/frost-knight-hair/FKHairOld.png"
+    ],
+    "hash": "587fdaa0d0d13ff6e56ccb12ab9a090c"
+}

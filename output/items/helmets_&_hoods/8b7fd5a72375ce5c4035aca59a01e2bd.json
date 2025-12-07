@@ -1,0 +1,17 @@
+{
+    "urlName": "jiangshi-bandages",
+    "url": "http://aqwwiki.wikidot.com/jiangshi-bandages",
+    "name": "Jiangshi Bandages",
+    "type": "helmets_&_hoods",
+    "description": "Jiangshi are terrified of their own reflections, which means a mirror can ward them away. Sorcerors found a work around by covering their faces in bandages.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0162sCe.png"
+    ],
+    "hash": "8b7fd5a72375ce5c4035aca59a01e2bd"
+}

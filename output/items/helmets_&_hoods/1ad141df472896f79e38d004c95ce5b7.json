@@ -1,0 +1,17 @@
+{
+    "urlName": "dragonsworn-helmet",
+    "url": "http://aqwwiki.wikidot.com/dragonsworn-helmet",
+    "name": "Dragonsworn Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Those who serve the ancient dragons serve for life. Click the faceplate to raise the visor on this helm!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragonsworn-helmet/DragonswornHelmetN.png",
+        "http://aqwwiki.wdfiles.com/local--files/dragonsworn-helmet/DragonswornHelmetC.png"
+    ],
+    "hash": "1ad141df472896f79e38d004c95ce5b7"
+}

@@ -1,0 +1,18 @@
+{
+    "urlName": "exosuit-binsoku-helm",
+    "url": "http://aqwwiki.wikidot.com/exosuit-binsoku-helm",
+    "name": "ExoSuit Binsoku Helm",
+    "type": "helmets_&_hoods",
+    "description": "This epically transforming helm will astonish your friends and terrify your foes! Click to reveal the healthy glow of your steely stare and show off the scarf that look like it could maim you if you got to close.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8WHYmGP.png",
+        "https://i.imgur.com/xhhXjNF.png",
+        "https://i.imgur.com/EVX4DUQ.png"
+    ],
+    "hash": "70f260439b90ad4c6853f163b016caba"
+}

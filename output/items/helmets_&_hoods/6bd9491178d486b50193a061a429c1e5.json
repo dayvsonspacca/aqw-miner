@@ -1,0 +1,16 @@
+{
+    "urlName": "prometheus-helm",
+    "url": "http://aqwwiki.wikidot.com/prometheus-helm",
+    "name": "Prometheus Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helmet is imbued with the ability to see the energies of creation. Every living thing gives off an aura that you can now see. Nothing escapes your sight. Nothing escapes you, ever.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ymd0tws.png"
+    ],
+    "hash": "6bd9491178d486b50193a061a429c1e5"
+}

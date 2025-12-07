@@ -1,0 +1,17 @@
+{
+    "urlName": "helm-of-the-dragon-dance",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-dragon-dance",
+    "name": "Helm of the Dragon Dance",
+    "type": "helmets_&_hoods",
+    "description": "A helmet modeled after a Chinese dragon. Put this on to help scare away evil spirits that mean you harm.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/8QqX4SX.png"
+    ],
+    "hash": "98ad2e72ddaeaf9a5dd3b94c53c8bb2f"
+}

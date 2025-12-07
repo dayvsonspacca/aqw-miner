@@ -1,0 +1,15 @@
+{
+    "urlName": "rancheritrix-helm",
+    "url": "http://aqwwiki.wikidot.com/rancheritrix-helm",
+    "name": "Rancheritrix Helm",
+    "type": "helmets_&_hoods",
+    "description": "Ah used to be a cow-girl until that bull ate mah GOOD hat. Now I'm left with this ol' thang, and Ah'm reduced to banditry.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rancheritrix-helm/Rancheritrix.png"
+    ],
+    "hash": "d264fb3f9a5d031f98c2e2590cdd4717"
+}

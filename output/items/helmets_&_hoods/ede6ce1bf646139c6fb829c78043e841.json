@@ -1,0 +1,16 @@
+{
+    "urlName": "bucket-locks",
+    "url": "http://aqwwiki.wikidot.com/bucket-locks",
+    "name": "Bucket Locks",
+    "type": "helmets_&_hoods",
+    "description": "Wear it to the beach! It'll keep the sun off your scalp, and if you get bored, you can use it to make a sandcastle!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/174b8h8.png"
+    ],
+    "hash": "ede6ce1bf646139c6fb829c78043e841"
+}

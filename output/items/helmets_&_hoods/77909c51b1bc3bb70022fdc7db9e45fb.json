@@ -1,0 +1,17 @@
+{
+    "urlName": "captain-o-awe-patch",
+    "url": "http://aqwwiki.wikidot.com/captain-o-awe-patch",
+    "name": "Captain o' Awe Patch",
+    "type": "helmets_&_hoods",
+    "description": "If these pirates did indeed plunder treasures of Awe, then they've become a target themselves. Black flags have been flown solely to hunt and plunder this ship of legend.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/c6Q0SPt.png"
+    ],
+    "hash": "77909c51b1bc3bb70022fdc7db9e45fb"
+}

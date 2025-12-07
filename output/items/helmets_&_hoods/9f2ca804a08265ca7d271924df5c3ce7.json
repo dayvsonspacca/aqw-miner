@@ -1,0 +1,14 @@
+{
+    "urlName": "hot-head-helm",
+    "url": "http://aqwwiki.wikidot.com/hot-head-helm",
+    "name": "Hot Head Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hot headed? Fiery temper? Yeah, we can tell.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/ZkZKeHW.png",
+        "http://aqwwiki.wdfiles.com/local--files/hot-head-helm/HotHeadHelmOld.png"
+    ],
+    "hash": "9f2ca804a08265ca7d271924df5c3ce7"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "cryptkeeper-hawk",
+    "url": "http://aqwwiki.wikidot.com/cryptkeeper-hawk",
+    "name": "CryptKeeper Hawk",
+    "type": "helmets_&_hoods",
+    "description": "The cryptkeeper trainees have little interest in their outward appearances because after their corruption takes it toll, they will not matter. One styled their hair after the long-gone banished prince. Drakath.",
+    "rarity": "Rare Rariry",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cryptkeeper-hawk/CryptkeeperHawk.png"
+    ],
+    "hash": "413bd9cdd20e5ecf82b4309ee2a793c7"
+}

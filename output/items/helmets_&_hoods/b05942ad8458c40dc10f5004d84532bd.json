@@ -1,0 +1,16 @@
+{
+    "urlName": "lightcaster-hood-ac",
+    "url": "http://aqwwiki.wikidot.com/lightcaster-hood-ac",
+    "name": "LightCaster Hood (AC)",
+    "type": "helmets_&_hoods",
+    "description": "LightCaster Battlemages wear the hood of concealment to prevent their enemies from seeing their faces before they attack.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightcaster-hood-ac/LightCasterHood.png"
+    ],
+    "hash": "b05942ad8458c40dc10f5004d84532bd"
+}

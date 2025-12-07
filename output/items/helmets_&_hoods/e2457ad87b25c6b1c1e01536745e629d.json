@@ -1,0 +1,17 @@
+{
+    "urlName": "gl-24k-visor",
+    "url": "http://aqwwiki.wikidot.com/gl-24k-visor",
+    "name": "GL-24K Visor",
+    "type": "helmets_&_hoods",
+    "description": "Fashioned with a gilded chassis, these droids are the perfect attendants and bodyguards. Some even grow an ego and strike out on their own.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QkppzNK.png"
+    ],
+    "hash": "e2457ad87b25c6b1c1e01536745e629d"
+}

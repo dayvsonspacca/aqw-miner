@@ -1,0 +1,16 @@
+{
+    "urlName": "pyromancer-evolution-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/pyromancer-evolution-helm-ac",
+    "name": "Pyromancer Evolution Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "This skull is literally on FIRE!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pyromancer-evolution-helm-ac/PyromancerEvolutionHelm.png"
+    ],
+    "hash": "dab927bb9fe1c0b7fa52027c6a03736c"
+}

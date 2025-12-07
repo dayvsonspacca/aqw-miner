@@ -1,0 +1,15 @@
+{
+    "urlName": "borgrix-ocular-interface",
+    "url": "http://aqwwiki.wikidot.com/borgrix-ocular-interface",
+    "name": "Borgrix Ocular Interface",
+    "type": "helmets_&_hoods",
+    "description": "We are Borgrix, resistance will not be tolerated.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/PhqP3LE.png"
+    ],
+    "hash": "1f845e114fd36ade97ab0c8f61393cdb"
+}

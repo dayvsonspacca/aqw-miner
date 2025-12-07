@@ -1,0 +1,17 @@
+{
+    "urlName": "shadow-sorceress-helm",
+    "url": "http://aqwwiki.wikidot.com/shadow-sorceress-helm",
+    "name": "Shadow Sorceress Helm",
+    "type": "helmets_&_hoods",
+    "description": "Control the shadows as a Shadow Sorcerer, and make your enemies weep\u2026 with fear of you AND the darkness!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-sorceress-helm/ShadowSorceressHelm.png"
+    ],
+    "hash": "f87098f09d00fb0143e8bc135c8a77e5"
+}

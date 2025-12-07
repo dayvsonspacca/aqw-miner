@@ -1,0 +1,16 @@
+{
+    "urlName": "chibi-twig-hat",
+    "url": "http://aqwwiki.wikidot.com/chibi-twig-hat",
+    "name": "Chibi Twig Hat",
+    "type": "helmets_&_hoods",
+    "description": "Teeny-tiny Twig on your head. So cute!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/bYLhmXY.png"
+    ],
+    "hash": "7a2d16dc44ef1e0d961b75fe1b3935f9"
+}

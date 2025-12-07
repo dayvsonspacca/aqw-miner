@@ -1,0 +1,15 @@
+{
+    "urlName": "grove-curls",
+    "url": "http://aqwwiki.wikidot.com/grove-curls",
+    "name": "Grove Curls",
+    "type": "helmets_&_hoods",
+    "description": "These nymphs of the forest help the plants flourish with their powers. Small seeds suddenly become towering trees in their presence.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/6rk3J6o.png"
+    ],
+    "hash": "3e3aa399ec3e41dd4a15d8f7c8429547"
+}

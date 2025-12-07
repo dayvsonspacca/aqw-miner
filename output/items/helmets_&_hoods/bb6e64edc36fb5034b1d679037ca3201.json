@@ -1,0 +1,16 @@
+{
+    "urlName": "overgeared-tophat",
+    "url": "http://aqwwiki.wikidot.com/overgeared-tophat",
+    "name": "OverGeared Tophat",
+    "type": "helmets_&_hoods",
+    "description": "As a chrononaut, you must look tip top as you pass through time.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/overgeared-tophat/OverGearedTopHat.png"
+    ],
+    "hash": "bb6e64edc36fb5034b1d679037ca3201"
+}

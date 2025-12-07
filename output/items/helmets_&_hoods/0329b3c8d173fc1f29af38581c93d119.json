@@ -1,0 +1,16 @@
+{
+    "urlName": "alien-mask",
+    "url": "http://aqwwiki.wikidot.com/alien-mask",
+    "name": "Alien Mask",
+    "type": "helmets_&_hoods",
+    "description": "This plasti-tronic helm will keep the space out and your air in. The Collector's prison-bubble is made of the same material.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/alien-mask/AlienMask.png"
+    ],
+    "hash": "0329b3c8d173fc1f29af38581c93d119"
+}

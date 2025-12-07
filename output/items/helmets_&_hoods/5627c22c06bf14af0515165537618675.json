@@ -1,0 +1,16 @@
+{
+    "urlName": "protoblaster-gas-mask",
+    "url": "http://aqwwiki.wikidot.com/protoblaster-gas-mask",
+    "name": "ProtoBlaster Gas-Mask",
+    "type": "helmets_&_hoods",
+    "description": "The future isn't bright and honestly doesn't smell all the great either.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/protoblaster-gas-mask/PBGasMask.png"
+    ],
+    "hash": "5627c22c06bf14af0515165537618675"
+}

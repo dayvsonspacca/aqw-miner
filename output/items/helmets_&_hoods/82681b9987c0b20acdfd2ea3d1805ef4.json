@@ -1,0 +1,16 @@
+{
+    "urlName": "snowview-innkeeper-winking-morph",
+    "url": "http://aqwwiki.wikidot.com/snowview-innkeeper-winking-morph",
+    "name": "Snowview Innkeeper Winking Morph",
+    "type": "helmets_&_hoods",
+    "description": "All of you belongings are safe at the Inn! Only the Innkeeper has the keys to your room, and she'll put all of your clothes, letters, and royal secrets back where she found them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vzLbKgA.png"
+    ],
+    "hash": "82681b9987c0b20acdfd2ea3d1805ef4"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "void-tricorn",
+    "url": "http://aqwwiki.wikidot.com/void-tricorn",
+    "name": "Void Tricorn",
+    "type": "helmets_&_hoods",
+    "description": "Run yer crew through th' void!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-tricorn/VoidTricorn.png"
+    ],
+    "hash": "f989badf505b1e41cfcbf91bd8c9e02a"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "seahorc-helm",
+    "url": "http://aqwwiki.wikidot.com/seahorc-helm",
+    "name": "Seahorc Helm",
+    "type": "helmets_&_hoods",
+    "description": "Never be afraid to go head-to horc with THESE horns. LET'S KNOCK 'EM OUT!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/seahorc-helm/SeahorcHelm.png"
+    ],
+    "hash": "e827f145a4e6dc46a72dc36cd1ca9928"
+}

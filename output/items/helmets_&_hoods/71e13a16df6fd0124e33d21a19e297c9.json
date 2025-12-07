@@ -1,0 +1,16 @@
+{
+    "urlName": "monitor-blank-helm",
+    "url": "http://aqwwiki.wikidot.com/monitor-blank-helm",
+    "name": "Monitor Blank Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hm. The instructions said this was a VR helm, but I see nothing!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/eKD9zOj.png"
+    ],
+    "hash": "71e13a16df6fd0124e33d21a19e297c9"
+}

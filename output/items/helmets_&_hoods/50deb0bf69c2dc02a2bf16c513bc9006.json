@@ -1,0 +1,15 @@
+{
+    "urlName": "medic-masked-helmet",
+    "url": "http://aqwwiki.wikidot.com/medic-masked-helmet",
+    "name": "Medic Masked Helmet",
+    "type": "helmets_&_hoods",
+    "description": "When dealing with the sick, you can never be too careful! This revolutionary medical mask prevents infection.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/qyHGory.png"
+    ],
+    "hash": "50deb0bf69c2dc02a2bf16c513bc9006"
+}

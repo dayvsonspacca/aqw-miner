@@ -1,0 +1,16 @@
+{
+    "urlName": "oathkeeper-shroud-ac",
+    "url": "http://aqwwiki.wikidot.com/oathkeeper-shroud-ac",
+    "name": "OathKeeper Shroud (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Every foul, dark deed yeams for something to mast it from the light of day. Dage is happy to oblige. What secrets do YOU want hidden?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oathkeeper-shroud-ac/OathKeeperShroud.png"
+    ],
+    "hash": "e18560bb50f9f8918f10a5474c500049"
+}

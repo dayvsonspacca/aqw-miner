@@ -1,0 +1,15 @@
+{
+    "urlName": "loretrek-tophat",
+    "url": "http://aqwwiki.wikidot.com/loretrek-tophat",
+    "name": "LoreTrek TopHat",
+    "type": "helmets_&_hoods",
+    "description": "Grab a trobbolier and some chewing gum and get to planet Necronus!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/loretrek-tophat/LoretrekTophat.png"
+    ],
+    "hash": "48aed6a92e691c3638a15f88e70387b1"
+}

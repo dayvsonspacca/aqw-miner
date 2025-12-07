@@ -1,0 +1,16 @@
+{
+    "urlName": "cheery-hat",
+    "url": "http://aqwwiki.wikidot.com/cheery-hat",
+    "name": "Cheery Hat",
+    "type": "helmets_&_hoods",
+    "description": "CheerCasters are human mages who have tapped into one of the most powerful emotions on Lore --",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GhTRVq7.png"
+    ],
+    "hash": "e9036701785df50e6e5e5f4f444cc86e"
+}

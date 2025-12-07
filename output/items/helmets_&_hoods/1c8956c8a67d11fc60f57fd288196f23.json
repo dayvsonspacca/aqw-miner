@@ -1,0 +1,16 @@
+{
+    "urlName": "paragon-faceplate",
+    "url": "http://aqwwiki.wikidot.com/paragon-faceplate",
+    "name": "Paragon Faceplate",
+    "type": "helmets_&_hoods",
+    "description": "In the name of the Undead Legion, you plunder port towns by stealing their loot, livestock, and their souls. Dage will be so proud.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paragon-faceplate/ParagonFaceplate.png"
+    ],
+    "hash": "1c8956c8a67d11fc60f57fd288196f23"
+}

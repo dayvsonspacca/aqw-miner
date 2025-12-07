@@ -1,0 +1,17 @@
+{
+    "urlName": "frost-guard",
+    "url": "http://aqwwiki.wikidot.com/frost-guard",
+    "name": "Frost Guard",
+    "type": "helmets_&_hoods",
+    "description": "The magical helmet that brought the snow golem to life is now yours. (color custom)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/25yQ08i.png"
+    ],
+    "hash": "606d9373f0a4b5131e22bf8c87be753b"
+}

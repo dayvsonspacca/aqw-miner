@@ -1,0 +1,16 @@
+{
+    "urlName": "smooth-dead-knight-helm",
+    "url": "http://aqwwiki.wikidot.com/smooth-dead-knight-helm",
+    "name": "Smooth Dead Knight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Found in a pile of bones and armor from an ancient invading army, the helm clearly belong to a minor soldier of that force. Didn't seem to do that guy much good. Might be cursed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/smooth-dead-knight-helm/SmoothDeadKnightHelm.png"
+    ],
+    "hash": "3c9880dea1e4322b303b7beaea6d45a2"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "greenguard-druid-helm",
+    "url": "http://aqwwiki.wikidot.com/greenguard-druid-helm",
+    "name": "Greenguard Druid Helm",
+    "type": "helmets_&_hoods",
+    "description": "Because the forest is a holy place to many, Greenguard Druids do there best to keep it healthy and clean for all those who dwell in it.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/3D6jLdW.png"
+    ],
+    "hash": "3786002dcd0f28e251e08d17d12db883"
+}

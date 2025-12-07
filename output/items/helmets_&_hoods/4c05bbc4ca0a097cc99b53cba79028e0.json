@@ -1,0 +1,16 @@
+{
+    "urlName": "paragon-mask-tophat",
+    "url": "http://aqwwiki.wikidot.com/paragon-mask-tophat",
+    "name": "Paragon Mask TopHat",
+    "type": "helmets_&_hoods",
+    "description": "In the name of the Undead Legion, you plunder port towns by stealing their loot, livestock, and their souls. Dage will be so proud.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paragon-mask-tophat/ParagonMaskTophat.png"
+    ],
+    "hash": "4c05bbc4ca0a097cc99b53cba79028e0"
+}

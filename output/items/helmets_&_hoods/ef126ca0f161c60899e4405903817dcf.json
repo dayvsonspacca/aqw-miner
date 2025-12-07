@@ -1,0 +1,16 @@
+{
+    "urlName": "world-peas-helm",
+    "url": "http://aqwwiki.wikidot.com/world-peas-helm",
+    "name": "World Peas Helm",
+    "type": "helmets_&_hoods",
+    "description": "Beating up enemies with your face? Now THAT's using your head!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/TlU9NI6.png"
+    ],
+    "hash": "ef126ca0f161c60899e4405903817dcf"
+}

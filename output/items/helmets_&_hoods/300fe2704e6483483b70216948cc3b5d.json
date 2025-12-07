@@ -1,0 +1,17 @@
+{
+    "urlName": "forever-provolone-ac",
+    "url": "http://aqwwiki.wikidot.com/forever-provolone-ac",
+    "name": "Forever Provolone (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Could it be the stinky cheese smell driving everyone away?!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/forever-provolone-ac/FPN.png",
+        "http://aqwwiki.wdfiles.com/local--files/forever-provolone-ac/FPA.png"
+    ],
+    "hash": "300fe2704e6483483b70216948cc3b5d"
+}

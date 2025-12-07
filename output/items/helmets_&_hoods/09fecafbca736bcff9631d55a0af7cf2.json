@@ -1,0 +1,17 @@
+{
+    "urlName": "lightstrike-helm",
+    "url": "http://aqwwiki.wikidot.com/lightstrike-helm",
+    "name": "Lightstrike Helm",
+    "type": "helmets_&_hoods",
+    "description": "Because your eyes are shielded from the sun or moonlight by the polished glass, aiming for the stars won't obscure your sight anymore.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/XObhstq.png"
+    ],
+    "hash": "09fecafbca736bcff9631d55a0af7cf2"
+}

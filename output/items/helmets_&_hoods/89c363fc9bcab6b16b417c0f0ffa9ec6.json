@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-face-eater",
+    "url": "http://aqwwiki.wikidot.com/dark-face-eater",
+    "name": "Dark Face Eater",
+    "type": "helmets_&_hoods",
+    "description": "This helm gives the wearer one free pass to eat someone's face. Every subsequent nomming will cost you a little bit of your spirit.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Md6Du94.png",
+        "https://i.imgur.com/37P5dwK.png"
+    ],
+    "hash": "89c363fc9bcab6b16b417c0f0ffa9ec6"
+}

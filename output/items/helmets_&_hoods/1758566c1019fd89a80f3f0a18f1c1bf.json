@@ -1,0 +1,16 @@
+{
+    "urlName": "rare-helm",
+    "url": "http://aqwwiki.wikidot.com/rare-helm",
+    "name": "RARE Helm",
+    "type": "helmets_&_hoods",
+    "description": "Literally a Rare Helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/R92tDEF.png"
+    ],
+    "hash": "1758566c1019fd89a80f3f0a18f1c1bf"
+}

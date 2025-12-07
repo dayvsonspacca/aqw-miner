@@ -1,0 +1,16 @@
+{
+    "urlName": "fortress-guardian-hood-ac",
+    "url": "http://aqwwiki.wikidot.com/fortress-guardian-hood-ac",
+    "name": "Fortress Guardian Hood (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Star Core Guardians see everything within the fortress using a surveillance system etched inside these helmets. Unfortunately, the system's ISO number is dangerously high, explaining why the thick, cowl covers most of the helmet.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fortress-guardian-hood-ac/FortressGuardianHood.png"
+    ],
+    "hash": "90aa46f7b50266e63321d9f29ed706a0"
+}

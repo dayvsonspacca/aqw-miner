@@ -1,0 +1,16 @@
+{
+    "urlName": "junior-student-hat",
+    "url": "http://aqwwiki.wikidot.com/junior-student-hat",
+    "name": "Junior Student Hat",
+    "type": "helmets_&_hoods",
+    "description": "This hat is worn by junior school age students in Swordhaven's Hero Academy when they aren't in combat training.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gPyGdFX.png"
+    ],
+    "hash": "5da02a45d1f8cf7d0e5d2bb5ae4b66b4"
+}

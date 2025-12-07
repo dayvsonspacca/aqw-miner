@@ -1,0 +1,16 @@
+{
+    "urlName": "chaotic-dragonknight-helm",
+    "url": "http://aqwwiki.wikidot.com/chaotic-dragonknight-helm",
+    "name": "Chaotic DragonKnight Helm",
+    "type": "helmets_&_hoods",
+    "description": "The only thing that the Chaotic Dragon Lord Knights see is chaos. Their thirst for anarchy and disorder knows no bounds.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaotic-dragonknight-helm/ChaoticDragonKnightHelm.png"
+    ],
+    "hash": "3937b89d89701ef513a16e9f7172a3ff"
+}

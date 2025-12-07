@@ -1,0 +1,17 @@
+{
+    "urlName": "anti-kaiju-agent-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/anti-kaiju-agent-helm-ac",
+    "name": "Anti-Kaiju Agent Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Well-equipped to defend against threats of massive scale? Don't stop there. Destroy the Kaiju if necessary, or detain them. Who wouldn't want a walking hurricane as a pet?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/aZReyDM.png",
+        "https://i.imgur.com/KzYvT0Y.png"
+    ],
+    "hash": "c3250e272ca6ce47ecb388a493819432"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-cryocaster-mask",
+    "url": "http://aqwwiki.wikidot.com/underworld-cryocaster-mask",
+    "name": "Underworld CryoCaster Mask",
+    "type": "helmets_&_hoods",
+    "description": "These casters are submerged in the painfully frigid waters of the River Cocytus in order to sharpen their ice magic. The weak never make it back to shore.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GZQj3uU.png",
+        "https://i.imgur.com/tcuqJff.png"
+    ],
+    "hash": "0d71dbf06908751daa832beed210bd03"
+}

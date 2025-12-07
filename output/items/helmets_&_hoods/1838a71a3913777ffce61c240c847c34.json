@@ -1,0 +1,16 @@
+{
+    "urlName": "locks-on-fire",
+    "url": "http://aqwwiki.wikidot.com/locks-on-fire",
+    "name": "Locks on Fire",
+    "type": "helmets_&_hoods",
+    "description": "A blaze is set up upon Lore!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/locks-on-fire/LocksonFire.png"
+    ],
+    "hash": "1838a71a3913777ffce61c240c847c34"
+}

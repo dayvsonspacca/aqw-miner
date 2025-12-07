@@ -1,0 +1,16 @@
+{
+    "urlName": "asbestos-hood",
+    "url": "http://aqwwiki.wikidot.com/asbestos-hood",
+    "name": "Asbestos Hood",
+    "type": "helmets_&_hoods",
+    "description": "Worn by the monster hiding in Oishii's oven.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/asbestos-hood/AsbestosHood.png"
+    ],
+    "hash": "4885dc05f4625f1a6ec07b8085cbe8f1"
+}

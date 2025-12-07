@@ -1,0 +1,16 @@
+{
+    "urlName": "acolyte-s-wrap-helm",
+    "url": "http://aqwwiki.wikidot.com/acolyte-s-wrap-helm",
+    "name": "Acolyte's Wrap Helm",
+    "type": "helmets_&_hoods",
+    "description": "This is the headpiece of the fighters who number themselves among the Children of Light.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/acolyte-s-wrap-helm/Acolyte'sWrapHelm.png"
+    ],
+    "hash": "66dea347d228bb426a1c7e9e391e16c0"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-helm-of-horns",
+    "url": "http://aqwwiki.wikidot.com/chaos-helm-of-horns",
+    "name": "Chaos Helm of Horns",
+    "type": "helmets_&_hoods",
+    "description": "Double, double, chaotic trouble; Lore will burn and cauldron bubble.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-helm-of-horns/ChaosHelmofHorns.png"
+    ],
+    "hash": "b6cf1e19dac93b741602a9a8d95c8b34"
+}

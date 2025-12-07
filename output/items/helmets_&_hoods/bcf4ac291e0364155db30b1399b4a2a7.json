@@ -1,0 +1,16 @@
+{
+    "urlName": "v2-swoop-cowl",
+    "url": "http://aqwwiki.wikidot.com/v2-swoop-cowl",
+    "name": "V2 Swoop Cowl",
+    "type": "helmets_&_hoods",
+    "description": "The V2 Cowl translates your vocal resonance into reconizable data, thus making voice based spell casting a reality.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/v2-swoop-cowl/V2SwoopCowl.png"
+    ],
+    "hash": "bcf4ac291e0364155db30b1399b4a2a7"
+}

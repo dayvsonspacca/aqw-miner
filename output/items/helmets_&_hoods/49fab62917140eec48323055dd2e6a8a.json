@@ -1,0 +1,16 @@
+{
+    "urlName": "pilgrim-hat",
+    "url": "http://aqwwiki.wikidot.com/pilgrim-hat",
+    "name": "Pilgrim Hat",
+    "type": "helmets_&_hoods",
+    "description": "This is what pilgrims wore back in olden times. Bring back the vintage look in style!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/22ukrrW.png"
+    ],
+    "hash": "49fab62917140eec48323055dd2e6a8a"
+}

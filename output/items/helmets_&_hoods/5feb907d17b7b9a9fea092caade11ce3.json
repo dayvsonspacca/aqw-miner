@@ -1,0 +1,15 @@
+{
+    "urlName": "king-scorpion-helm",
+    "url": "http://aqwwiki.wikidot.com/king-scorpion-helm",
+    "name": "King Scorpion Helm",
+    "type": "helmets_&_hoods",
+    "description": "Scorpion Riders wear these helms into battle. The thick metal protects the head from accidental accidents.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/king-scorpion-helm/KSH.png"
+    ],
+    "hash": "5feb907d17b7b9a9fea092caade11ce3"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "draconic-acolyte-hood",
+    "url": "http://aqwwiki.wikidot.com/draconic-acolyte-hood",
+    "name": "Draconic Acolyte Hood",
+    "type": "helmets_&_hoods",
+    "description": "Sometimes Oracles need a way to help themselves focus.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/draconic-acolyte-hood/DOH.png"
+    ],
+    "hash": "3fb87e1c3b7e78f58269e5d8e45cd5de"
+}

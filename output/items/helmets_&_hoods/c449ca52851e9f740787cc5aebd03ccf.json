@@ -1,0 +1,16 @@
+{
+    "urlName": "prisma-hair-helm",
+    "url": "http://aqwwiki.wikidot.com/prisma-hair-helm",
+    "name": "Prisma Hair Helm",
+    "type": "helmets_&_hoods",
+    "description": "Not impressed, but love shifting colors? These are the locks for you.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/tI7amqm.gif"
+    ],
+    "hash": "c449ca52851e9f740787cc5aebd03ccf"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-necronaut-helm",
+    "url": "http://aqwwiki.wikidot.com/doom-necronaut-helm",
+    "name": "Doom Necronaut Helm",
+    "type": "helmets_&_hoods",
+    "description": "The failing life-support system of a Necronaut. Use at your own peril.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doom-necronaut-helm/DoomNecronautHelm.png"
+    ],
+    "hash": "c764b0ecce57ce3aba6aabb2e5884a2b"
+}

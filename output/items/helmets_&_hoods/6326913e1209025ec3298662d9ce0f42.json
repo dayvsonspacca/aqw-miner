@@ -1,0 +1,13 @@
+{
+    "urlName": "shadow-helm",
+    "url": "http://aqwwiki.wikidot.com/shadow-helm",
+    "name": "Shadow Helm",
+    "type": "helmets_&_hoods",
+    "description": "A deviously charred helm that was once worn by Shadow Guards.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/zolLoDL.png"
+    ],
+    "hash": "6326913e1209025ec3298662d9ce0f42"
+}

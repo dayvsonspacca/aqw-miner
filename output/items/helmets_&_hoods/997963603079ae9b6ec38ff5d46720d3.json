@@ -1,0 +1,16 @@
+{
+    "urlName": "northlands-defender-helm",
+    "url": "http://aqwwiki.wikidot.com/northlands-defender-helm",
+    "name": "Northlands Defender Helm",
+    "type": "helmets_&_hoods",
+    "description": "The golem's massive pointy horns and their nomadic secluded lifestyles may strike fear into the local villages.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/WTA3Xrr.png"
+    ],
+    "hash": "997963603079ae9b6ec38ff5d46720d3"
+}

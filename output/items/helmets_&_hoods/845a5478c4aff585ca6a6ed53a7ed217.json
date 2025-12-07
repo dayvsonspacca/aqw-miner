@@ -1,0 +1,16 @@
+{
+    "urlName": "blazing-inferno-helm",
+    "url": "http://aqwwiki.wikidot.com/blazing-inferno-helm",
+    "name": "Blazing Inferno Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helm so hot it burns!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blazing-inferno-helm/BlazingInfernoHelm.png"
+    ],
+    "hash": "845a5478c4aff585ca6a6ed53a7ed217"
+}

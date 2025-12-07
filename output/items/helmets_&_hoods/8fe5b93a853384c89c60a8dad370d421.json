@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-jester-hair",
+    "url": "http://aqwwiki.wikidot.com/shadow-jester-hair",
+    "name": "Shadow Jester Hair",
+    "type": "helmets_&_hoods",
+    "description": "A jolly hat for a screaming good time.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/nvwsWDs.png"
+    ],
+    "hash": "8fe5b93a853384c89c60a8dad370d421"
+}

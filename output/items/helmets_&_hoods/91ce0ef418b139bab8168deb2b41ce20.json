@@ -1,0 +1,16 @@
+{
+    "urlName": "riptide-helicoprion-helm",
+    "url": "http://aqwwiki.wikidot.com/riptide-helicoprion-helm",
+    "name": "Riptide Helicoprion Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm is made from a form of aurichalcum. It passed through the digestive system of a deep sea leviathan, gaining strange properties. Becoming partly biological, the material molds itself to fit its symbiosis partner.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/N5NIq2z.png"
+    ],
+    "hash": "91ce0ef418b139bab8168deb2b41ce20"
+}

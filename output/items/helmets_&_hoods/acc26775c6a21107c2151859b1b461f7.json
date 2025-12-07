@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-legion-naval-hat",
+    "url": "http://aqwwiki.wikidot.com/undead-legion-naval-hat",
+    "name": "Undead Legion Naval Hat",
+    "type": "helmets_&_hoods",
+    "description": "Ye be in the Undead Legion? Captain Dage says ye be needin' a sea-worthy hat for all ye Undead adventures.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-legion-naval-hat/ULNH.png"
+    ],
+    "hash": "acc26775c6a21107c2151859b1b461f7"
+}

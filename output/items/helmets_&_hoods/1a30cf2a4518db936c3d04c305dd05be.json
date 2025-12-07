@@ -1,0 +1,16 @@
+{
+    "urlName": "abyssal-horde-captain-s-beard",
+    "url": "http://aqwwiki.wikidot.com/abyssal-horde-captain-s-beard",
+    "name": "Abyssal Horde Captain's Beard",
+    "type": "helmets_&_hoods",
+    "description": "The beard stays when you transform into a Werewolf during the fullmoon. It also sticks around if you end up with more vampiric traits.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iWFXExP.png"
+    ],
+    "hash": "1a30cf2a4518db936c3d04c305dd05be"
+}

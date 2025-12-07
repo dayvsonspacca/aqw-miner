@@ -1,0 +1,17 @@
+{
+    "urlName": "golden-helm",
+    "url": "http://aqwwiki.wikidot.com/golden-helm",
+    "name": "Golden Helm",
+    "type": "helmets_&_hoods",
+    "description": "Only fit for a king, this golden helm shows your nation that you posses the cunning skills that are needed to rule the land and battlefield.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-helm/GoldenHelm.png"
+    ],
+    "hash": "a5a928d11396b9cdce95a605364ce837"
+}

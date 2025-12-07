@@ -1,0 +1,17 @@
+{
+    "urlName": "gl-1st-visor",
+    "url": "http://aqwwiki.wikidot.com/gl-1st-visor",
+    "name": "GL-1ST Visor",
+    "type": "helmets_&_hoods",
+    "description": "An older and grittier droid model's head that had all of its gold and glamor stripped off. They've long outlived their warranty.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Vm9efLz.png"
+    ],
+    "hash": "7a1170be5898f9f631f55ec9dda208b9"
+}

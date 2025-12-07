@@ -1,0 +1,16 @@
+{
+    "urlName": "voidwarlord-of-nulgath-helm",
+    "url": "http://aqwwiki.wikidot.com/voidwarlord-of-nulgath-helm",
+    "name": "VoidWarlord of Nulgath Helm",
+    "type": "helmets_&_hoods",
+    "description": "Nulgath has bestowed his finest warriors with this fitting helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/voidwarlord-of-nulgath-helm/VoNH.png"
+    ],
+    "hash": "3b0d67e77cc14272e40b044f64f76e56"
+}

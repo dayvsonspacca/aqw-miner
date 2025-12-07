@@ -1,0 +1,15 @@
+{
+    "urlName": "azure-cleric-locks",
+    "url": "http://aqwwiki.wikidot.com/azure-cleric-locks",
+    "name": "Azure Cleric Locks",
+    "type": "helmets_&_hoods",
+    "description": "A silvery helm to go with an ornate armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/azure-cleric-locks/AzureClericLocks.png"
+    ],
+    "hash": "629bb0f762488eeec100dc488c498d04"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "chevalier-of-love-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/chevalier-of-love-helm-ac",
+    "name": "Chevalier of Love Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Ever wonder what your knight in shining armor looks like? Open up and be dazzled or freaked out.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chevalier-of-love-helm-ac/ChevalierofLoveHelm.png"
+    ],
+    "hash": "be5044de4c2d856c463c088953cc48d1"
+}

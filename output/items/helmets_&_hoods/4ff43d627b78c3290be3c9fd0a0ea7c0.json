@@ -1,0 +1,17 @@
+{
+    "urlName": "draconic-oracle-morph",
+    "url": "http://aqwwiki.wikidot.com/draconic-oracle-morph",
+    "name": "Draconic Oracle Morph",
+    "type": "helmets_&_hoods",
+    "description": "Never seen a draconian oracle before? Well now you have.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/draconic-oracle-morph/DOMNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/draconic-oracle-morph/DOM.png"
+    ],
+    "hash": "4ff43d627b78c3290be3c9fd0a0ea7c0"
+}

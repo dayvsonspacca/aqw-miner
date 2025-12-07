@@ -1,0 +1,16 @@
+{
+    "urlName": "tacobender",
+    "url": "http://aqwwiki.wikidot.com/tacobender",
+    "name": "Tacobender",
+    "type": "helmets_&_hoods",
+    "description": "Tacos rule!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/0Ypn0qj.png"
+    ],
+    "hash": "f9aba5919606d2ad7d4f83cf94cecfd3"
+}

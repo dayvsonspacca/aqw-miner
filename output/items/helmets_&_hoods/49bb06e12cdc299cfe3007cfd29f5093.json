@@ -1,0 +1,15 @@
+{
+    "urlName": "bearded-yang-helm",
+    "url": "http://aqwwiki.wikidot.com/bearded-yang-helm",
+    "name": "Bearded Yang Helm",
+    "type": "helmets_&_hoods",
+    "description": "May this golden helm bring you luck on the battlefield.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/milVLKL.png"
+    ],
+    "hash": "49bb06e12cdc299cfe3007cfd29f5093"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "hal-3030-helm",
+    "url": "http://aqwwiki.wikidot.com/hal-3030-helm",
+    "name": "HAL 3030 Helm",
+    "type": "helmets_&_hoods",
+    "description": "No matter what I'm doing in VR, this helm keeps calling me Dave\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/u1mTPOz.png"
+    ],
+    "hash": "a6f84685eb92fa38a5d4003d24970406"
+}

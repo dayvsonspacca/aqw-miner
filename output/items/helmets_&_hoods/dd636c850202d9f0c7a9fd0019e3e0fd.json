@@ -1,0 +1,16 @@
+{
+    "urlName": "deathfiend-hood",
+    "url": "http://aqwwiki.wikidot.com/deathfiend-hood",
+    "name": "Deathfiend Hood",
+    "type": "helmets_&_hoods",
+    "description": "The true face of Nulgath's dark sorcerers.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathfiend-hood/DeathfiendHood.png"
+    ],
+    "hash": "dd636c850202d9f0c7a9fd0019e3e0fd"
+}

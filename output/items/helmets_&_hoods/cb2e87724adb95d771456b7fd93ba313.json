@@ -1,0 +1,16 @@
+{
+    "urlName": "guncraft-locks",
+    "url": "http://aqwwiki.wikidot.com/guncraft-locks",
+    "name": "Guncraft Locks",
+    "type": "helmets_&_hoods",
+    "description": "Spend enough ttime shooting at shadows and you'll start looking like them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KUauMyO.png"
+    ],
+    "hash": "cb2e87724adb95d771456b7fd93ba313"
+}

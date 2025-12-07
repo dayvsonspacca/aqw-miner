@@ -1,0 +1,15 @@
+{
+    "urlName": "nakhiir-helm",
+    "url": "http://aqwwiki.wikidot.com/nakhiir-helm",
+    "name": "Nakhiir Helm",
+    "type": "helmets_&_hoods",
+    "description": "This spawn of a curse void has roamed the lowest caverns of Lore for thousands of years but rarely have they been seen.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/t67oVIh.png"
+    ],
+    "hash": "34b5eb6e66934092c7597d5411eef93d"
+}

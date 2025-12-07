@@ -1,0 +1,16 @@
+{
+    "urlName": "irradiated-wanderer-mask",
+    "url": "http://aqwwiki.wikidot.com/irradiated-wanderer-mask",
+    "name": "Irradiated Wanderer Mask",
+    "type": "helmets_&_hoods",
+    "description": "See that glow? That's nuclear. Warning, not responsible if you turn into a giant radioactive mutant.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/OZnND7n.png"
+    ],
+    "hash": "5bc1db38d4c798f5cf57746c2b25c14f"
+}

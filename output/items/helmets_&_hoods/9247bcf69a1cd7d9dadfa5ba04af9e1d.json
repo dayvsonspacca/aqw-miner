@@ -1,0 +1,15 @@
+{
+    "urlName": "guardian-helmet",
+    "url": "http://aqwwiki.wikidot.com/guardian-helmet",
+    "name": "Guardian Helmet",
+    "type": "helmets_&_hoods",
+    "description": "The elite Helmet of Guardians. Guardians live to serve and protect. Unlocked by purchasing a Guardian package in the original AdventureQuest.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/Ce5yP0N.png"
+    ],
+    "hash": "9247bcf69a1cd7d9dadfa5ba04af9e1d"
+}

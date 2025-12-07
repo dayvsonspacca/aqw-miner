@@ -1,0 +1,16 @@
+{
+    "urlName": "force-guardian-helm",
+    "url": "http://aqwwiki.wikidot.com/force-guardian-helm",
+    "name": "Force Guardian Helm",
+    "type": "helmets_&_hoods",
+    "description": "A true Force Guardian feels the everything flow through them while keeping their emotions in check.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/FowuHdc.png"
+    ],
+    "hash": "f32322ad387a0f7952e93b71739af717"
+}

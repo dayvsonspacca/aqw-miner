@@ -1,0 +1,17 @@
+{
+    "urlName": "frostlorn-locks",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-locks",
+    "name": "Frostlorn Locks",
+    "type": "helmets_&_hoods",
+    "description": "The magic of the Frostlorn Summoner is most powerful when the moon is high and the winds blow cold enough to turn a water elemental into ice.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/bcSrqXr.png",
+        "https://i.imgur.com/8rzk3ZE.png"
+    ],
+    "hash": "3e625349583ec41325d266da3b28606c"
+}

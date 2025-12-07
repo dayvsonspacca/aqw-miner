@@ -1,0 +1,16 @@
+{
+    "urlName": "galactic-mark",
+    "url": "http://aqwwiki.wikidot.com/galactic-mark",
+    "name": "Galactic Mark",
+    "type": "helmets_&_hoods",
+    "description": "This mark will bring many adventures, it's up to you to decide which one to go on.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/galactic-mark/GalacticMark.png"
+    ],
+    "hash": "7ace38509dc0e60086031d3d3b48c741"
+}

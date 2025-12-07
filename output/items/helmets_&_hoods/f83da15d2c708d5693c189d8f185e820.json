@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-asgardian-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-asgardian-helm",
+    "name": "Dark Asgardian Helm",
+    "type": "helmets_&_hoods",
+    "description": "Forged in the land of the underworld gods, this dark plate commands the fury and anger of the deities it was forged by. Every strike cracks with the intensity of lightning.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ajgZ1eA.png"
+    ],
+    "hash": "f83da15d2c708d5693c189d8f185e820"
+}

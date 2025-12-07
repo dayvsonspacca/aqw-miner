@@ -1,0 +1,17 @@
+{
+    "urlName": "undercover-ebilcorp-scalper-morph",
+    "url": "http://aqwwiki.wikidot.com/undercover-ebilcorp-scalper-morph",
+    "name": "Undercover EbilCorp Scalper Morph",
+    "type": "helmets_&_hoods",
+    "description": "These types of EbilCorp employees tend to be loud and attention hungry. They can't ignore the urge to spill company secrets. That's fine by management. It gives them a reason to 'terminate' the scalpers before they demand higher pay.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uK8rrcE.png"
+    ],
+    "hash": "edcd4c54684d437a5c56b26c8453d418"
+}

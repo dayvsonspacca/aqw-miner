@@ -1,0 +1,17 @@
+{
+    "urlName": "hooded-unhallowed-wight-mask",
+    "url": "http://aqwwiki.wikidot.com/hooded-unhallowed-wight-mask",
+    "name": "Hooded Unhallowed Wight Mask",
+    "type": "helmets_&_hoods",
+    "description": "A skull inherited by the newest generation of Unhallowed Wights. They override the wearer's original personality, and erase their identity. These children will only exist to ensure their creators' supremacy.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/SeVFj4S.png"
+    ],
+    "hash": "36ba4328035d9cc43742bc03be4350b2"
+}

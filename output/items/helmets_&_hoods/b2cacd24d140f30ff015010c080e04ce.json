@@ -1,0 +1,16 @@
+{
+    "urlName": "wacky-top-hat-locks",
+    "url": "http://aqwwiki.wikidot.com/wacky-top-hat-locks",
+    "name": "Wacky Top Hat + Locks",
+    "type": "helmets_&_hoods",
+    "description": "It's wacky, it's wild, it's a teeny tiny little top hat!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GIilX7z.png"
+    ],
+    "hash": "b2cacd24d140f30ff015010c080e04ce"
+}

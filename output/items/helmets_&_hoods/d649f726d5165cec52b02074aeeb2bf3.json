@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-cryocaster-locks",
+    "url": "http://aqwwiki.wikidot.com/underworld-cryocaster-locks",
+    "name": "Underworld CryoCaster Locks",
+    "type": "helmets_&_hoods",
+    "description": "These casters are also known as the chains of the underworld, trapping traitors at the bottom of the wailing River Cocytus.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BxheF4T.png"
+    ],
+    "hash": "d649f726d5165cec52b02074aeeb2bf3"
+}

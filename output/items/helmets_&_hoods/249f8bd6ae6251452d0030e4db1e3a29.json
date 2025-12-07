@@ -1,0 +1,16 @@
+{
+    "urlName": "guncraft-stetson",
+    "url": "http://aqwwiki.wikidot.com/guncraft-stetson",
+    "name": "Guncraft Stetson",
+    "type": "helmets_&_hoods",
+    "description": "The wide brim tends to hide the glint in your eye. They won't see where you're aiming.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mWzL9R5.png"
+    ],
+    "hash": "249f8bd6ae6251452d0030e4db1e3a29"
+}

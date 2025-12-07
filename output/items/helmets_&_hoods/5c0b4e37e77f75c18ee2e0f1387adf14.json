@@ -1,0 +1,15 @@
+{
+    "urlName": "slick-chops-helm",
+    "url": "http://aqwwiki.wikidot.com/slick-chops-helm",
+    "name": "Slick Chops Helm",
+    "type": "helmets_&_hoods",
+    "description": "Nice hair, bub.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Y3GqQYH.png"
+    ],
+    "hash": "5c0b4e37e77f75c18ee2e0f1387adf14"
+}

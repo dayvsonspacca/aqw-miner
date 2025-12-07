@@ -1,0 +1,16 @@
+{
+    "urlName": "hyper-helmet",
+    "url": "http://aqwwiki.wikidot.com/hyper-helmet",
+    "name": "Hyper Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Blast off as you SMASH ON! with this hyper-awesome mega-helm! HeroSmash Beta rare!",
+    "rarity": "Ultra Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hyper-helmet/HyperHelmet.png"
+    ],
+    "hash": "91ea456028ca6d55b86060a9b19a90cd"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-reaper-helm",
+    "url": "http://aqwwiki.wikidot.com/prismatic-reaper-helm",
+    "name": "Prismatic Reaper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Doning this majestic helm makes you immune to the manipulative voices of darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/GIq1vCK.png"
+    ],
+    "hash": "bc5e55bed528f36ac1410959b356a176"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-the-light-seekers",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-light-seekers",
+    "name": "Helm of the Light Seekers",
+    "type": "helmets_&_hoods",
+    "description": "Only they understand the true meaning of the light! In the darkest of the nights, they know that a bright day is right around the corner. Let that day come and illuminate their parth on the battledfield.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-the-light-seekers/HotLS.png"
+    ],
+    "hash": "4bf604f816a2844eca3d62474f3aa301"
+}

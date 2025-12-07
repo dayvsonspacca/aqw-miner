@@ -1,0 +1,17 @@
+{
+    "urlName": "nocturan-guard",
+    "url": "http://aqwwiki.wikidot.com/nocturan-guard",
+    "name": "Nocturan Guard",
+    "type": "helmets_&_hoods",
+    "description": "After the dusk settles, there are those who come out at night only to cause terror. The Nocturnan will be there to protect and serve.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5hrYPvS.png"
+    ],
+    "hash": "a8cd57f267fae362945220b65e628ab1"
+}

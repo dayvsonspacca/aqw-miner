@@ -1,0 +1,16 @@
+{
+    "urlName": "votari-mage-locks",
+    "url": "http://aqwwiki.wikidot.com/votari-mage-locks",
+    "name": "Votari Mage Locks",
+    "type": "helmets_&_hoods",
+    "description": "One of the styles of free flowing hair that is favored by the voted magi.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/i9ZWtht.png"
+    ],
+    "hash": "37d4d7af4d2611e9a3c00b3b60861ce0"
+}

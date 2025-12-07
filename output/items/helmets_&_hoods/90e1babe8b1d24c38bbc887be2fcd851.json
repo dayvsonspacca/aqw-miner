@@ -1,0 +1,16 @@
+{
+    "urlName": "eggsplorer-mask",
+    "url": "http://aqwwiki.wikidot.com/eggsplorer-mask",
+    "name": "Eggsplorer Mask",
+    "type": "helmets_&_hoods",
+    "description": "No one likes the pungent oder of rotting eggs.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/HE46biU.png"
+    ],
+    "hash": "90e1babe8b1d24c38bbc887be2fcd851"
+}

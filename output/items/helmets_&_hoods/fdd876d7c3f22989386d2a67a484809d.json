@@ -1,0 +1,16 @@
+{
+    "urlName": "doommage-skull",
+    "url": "http://aqwwiki.wikidot.com/doommage-skull",
+    "name": "DoomMage Skull",
+    "type": "helmets_&_hoods",
+    "description": "Malevolence shows its face in many forms. (3% chance to do shadowburst animation and 15% rep boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/spuSl0P.png",
+        "http://i.imgur.com/sTNiyWL.png"
+    ],
+    "hash": "fdd876d7c3f22989386d2a67a484809d"
+}

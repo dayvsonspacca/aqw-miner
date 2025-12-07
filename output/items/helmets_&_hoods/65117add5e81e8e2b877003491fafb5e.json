@@ -1,0 +1,16 @@
+{
+    "urlName": "astral-wanderer-hood-ac",
+    "url": "http://aqwwiki.wikidot.com/astral-wanderer-hood-ac",
+    "name": "Astral Wanderer Hood (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The hoods worn by the Astral Wanderers are as much to protect those who see them as they are to protect the wearer. Most terrestrials simply can't fathom the true form of an Astral Wanderer and the hood shields.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/astral-wanderer-hood-ac/AstralWandererHood.png"
+    ],
+    "hash": "65117add5e81e8e2b877003491fafb5e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "skypiercer-helm",
+    "url": "http://aqwwiki.wikidot.com/skypiercer-helm",
+    "name": "Skypiercer Helm",
+    "type": "helmets_&_hoods",
+    "description": "A flying weapon was refashioned into a wearable suit of armor, cool helmet included. Warning: the G-Force is always worse than you think.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Bv1MW4x.png"
+    ],
+    "hash": "58c5eb57b836683d8bf76d04e40dd165"
+}

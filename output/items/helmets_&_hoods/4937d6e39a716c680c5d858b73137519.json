@@ -1,0 +1,16 @@
+{
+    "urlName": "quantum-centaur-helm",
+    "url": "http://aqwwiki.wikidot.com/quantum-centaur-helm",
+    "name": "Quantum Centaur Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Interstellar Centaurs once galloped across the stars, hunting comets and asteroids. They protected planets from meteoric destruction, but became a far more terrifying threat when malevolent forces fused them with black holes.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/KhPiJGS.png"
+    ],
+    "hash": "4937d6e39a716c680c5d858b73137519"
+}

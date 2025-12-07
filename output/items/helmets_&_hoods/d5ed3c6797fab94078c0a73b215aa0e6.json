@@ -1,0 +1,17 @@
+{
+    "urlName": "paladinslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/paladinslayer-helm",
+    "name": "PaladinSlayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "WITH THIS HELM, YOU WILL BE ABLE TO SEE INTO THE HEARTS AND SOULS OF MEN. ENSLAVE THEM, DESTROY THEM, MAKE THEM ACKNOWLEDGE YOUR POWER!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paladinslayer-helm/PaladinSlayerHelm.png"
+    ],
+    "hash": "d5ed3c6797fab94078c0a73b215aa0e6"
+}

@@ -1,0 +1,19 @@
+{
+    "urlName": "deathknight-helm-1",
+    "url": "http://aqwwiki.wikidot.com/deathknight-helm-1",
+    "name": "DeathKnight Helm (1)",
+    "type": "helmets_&_hoods",
+    "description": "You are now EVIL incarnate as you don this foul helm.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/RXCEMFf.png",
+        "https://i.imgur.com/sWyRUVs.png"
+    ],
+    "hash": "a8668f48c136882128827b1769084c45"
+}

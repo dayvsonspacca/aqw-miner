@@ -1,0 +1,16 @@
+{
+    "urlName": "blue-snug-helm",
+    "url": "http://aqwwiki.wikidot.com/blue-snug-helm",
+    "name": "Blue Snug Helm",
+    "type": "helmets_&_hoods",
+    "description": "A snuggly wuggly big blue bear--",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/0hSzqWd.png"
+    ],
+    "hash": "dec54ab5a02ed5132df9e1a24a812631"
+}

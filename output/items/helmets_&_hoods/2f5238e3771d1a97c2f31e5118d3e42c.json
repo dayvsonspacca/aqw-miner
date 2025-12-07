@@ -1,0 +1,16 @@
+{
+    "urlName": "bearded-battlemage-helm",
+    "url": "http://aqwwiki.wikidot.com/bearded-battlemage-helm",
+    "name": "Bearded Battlemage Helm",
+    "type": "helmets_&_hoods",
+    "description": "Beards make everything better.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bearded-battlemage-helm/BeardedBattlemageHelm.png"
+    ],
+    "hash": "2f5238e3771d1a97c2f31e5118d3e42c"
+}

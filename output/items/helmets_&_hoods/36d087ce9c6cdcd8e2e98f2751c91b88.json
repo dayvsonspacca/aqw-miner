@@ -1,0 +1,16 @@
+{
+    "urlName": "pandaplush-hood",
+    "url": "http://aqwwiki.wikidot.com/pandaplush-hood",
+    "name": "PandaPlush Hood",
+    "type": "helmets_&_hoods",
+    "description": "You can wiggle the ears either manually, or by knitting your brow.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yTaiI7q.png"
+    ],
+    "hash": "36d087ce9c6cdcd8e2e98f2751c91b88"
+}

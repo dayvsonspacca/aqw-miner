@@ -1,0 +1,16 @@
+{
+    "urlName": "vaal-top-hat",
+    "url": "http://aqwwiki.wikidot.com/vaal-top-hat",
+    "name": "Vaal Top Hat",
+    "type": "helmets_&_hoods",
+    "description": "Even a Doom Lord needs some style.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vaal-top-hat/VaalHat.png"
+    ],
+    "hash": "88382b5787df15a9ccd69d66cca454a5"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "quantum-centurion-helm",
+    "url": "http://aqwwiki.wikidot.com/quantum-centurion-helm",
+    "name": "Quantum Centurion Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helmet forged once per century embedded with the birthstones of the hero it was meant for. The Chronoforge Master stopped creating them after the Centurions lost themselves to ambition.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/T2nAFqK.png"
+    ],
+    "hash": "01697236bc730579aa0326feaccf6a02"
+}

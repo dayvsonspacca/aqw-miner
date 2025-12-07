@@ -1,0 +1,15 @@
+{
+    "urlName": "golden-reaper-helm",
+    "url": "http://aqwwiki.wikidot.com/golden-reaper-helm",
+    "name": "Golden Reaper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Doning this majestic helm makes you immune to the manipulative voices of darkness",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/wIgly73.png"
+    ],
+    "hash": "95c30f6a7e9feeb0c2de17f060b056f7"
+}

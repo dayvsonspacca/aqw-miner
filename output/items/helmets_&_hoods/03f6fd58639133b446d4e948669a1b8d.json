@@ -1,0 +1,15 @@
+{
+    "urlName": "darkness-hood",
+    "url": "http://aqwwiki.wikidot.com/darkness-hood",
+    "name": "Darkness Hood",
+    "type": "helmets_&_hoods",
+    "description": "Your hooded helm matches your hooded gaze. No one can see your face, nor can they tell what plots and plans are brewing in your head. Make no friends, for they will only betray you!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/qYbz4sJ.png"
+    ],
+    "hash": "03f6fd58639133b446d4e948669a1b8d"
+}

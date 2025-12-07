@@ -1,0 +1,15 @@
+{
+    "urlName": "harpies-helm",
+    "url": "http://aqwwiki.wikidot.com/harpies-helm",
+    "name": "Harpies Helm",
+    "type": "helmets_&_hoods",
+    "description": "If you're on the field, you'd better protect your head!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gNSVZza.png"
+    ],
+    "hash": "2d99f197d2830581715cf3a5d8ccd292"
+}

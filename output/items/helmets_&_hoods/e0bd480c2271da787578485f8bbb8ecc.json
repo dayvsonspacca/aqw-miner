@@ -1,0 +1,16 @@
+{
+    "urlName": "dragonknight-helm",
+    "url": "http://aqwwiki.wikidot.com/dragonknight-helm",
+    "name": "DragonKnight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Only those who seek fame will fall while those who seek to protect will gain fame.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragonknight-helm/DragonKnightHelm.png"
+    ],
+    "hash": "e0bd480c2271da787578485f8bbb8ecc"
+}

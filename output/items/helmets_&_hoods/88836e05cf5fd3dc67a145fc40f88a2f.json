@@ -1,0 +1,15 @@
+{
+    "urlName": "faces-of-violence",
+    "url": "http://aqwwiki.wikidot.com/faces-of-violence",
+    "name": "Faces of Violence",
+    "type": "helmets_&_hoods",
+    "description": "This item does 30% more damage to Human monsters when equipped. Violence does not rely on cheap tricks to defeat his opponents. He will continue to strike until he is defeated.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/RurSsn6.png"
+    ],
+    "hash": "88836e05cf5fd3dc67a145fc40f88a2f"
+}

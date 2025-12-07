@@ -1,0 +1,16 @@
+{
+    "urlName": "dogged-professor",
+    "url": "http://aqwwiki.wikidot.com/dogged-professor",
+    "name": "Dogged Professor",
+    "type": "helmets_&_hoods",
+    "description": "20/20 vision is best for battle. Also makes me look smarter.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2uKbroH.png"
+    ],
+    "hash": "d739130d143623378f6ec98a7cc2b53c"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "thunderhorn-helm",
+    "url": "http://aqwwiki.wikidot.com/thunderhorn-helm",
+    "name": "ThunderHorn Helm",
+    "type": "helmets_&_hoods",
+    "description": "Call down the lightning and summon thunder to terrify your foes with this helm from Twilly's Spring Seasonal 2013 shop!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/thunderhorn-helm/ThunderhornHelm.png"
+    ],
+    "hash": "4d3592a745cbc83792aaea3af43cce3c"
+}

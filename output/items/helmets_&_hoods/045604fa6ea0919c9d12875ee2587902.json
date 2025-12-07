@@ -1,0 +1,16 @@
+{
+    "urlName": "cryostorm-troll-helm",
+    "url": "http://aqwwiki.wikidot.com/cryostorm-troll-helm",
+    "name": "Cryostorm Troll Helm",
+    "type": "helmets_&_hoods",
+    "description": "*No description*",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cryostorm-troll-helm/CryostormTrollHelm.png"
+    ],
+    "hash": "045604fa6ea0919c9d12875ee2587902"
+}

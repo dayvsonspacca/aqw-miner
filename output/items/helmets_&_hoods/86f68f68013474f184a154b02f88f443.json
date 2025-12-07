@@ -1,0 +1,15 @@
+{
+    "urlName": "underworld-gatekeeper-helm",
+    "url": "http://aqwwiki.wikidot.com/underworld-gatekeeper-helm",
+    "name": "Underworld Gatekeeper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Loyal souls forged into Underworld Gatekeepers can open all paths in the Underworld. Or, they turn their keys towards their chests, and lock themselves in place. They become a seal binding an unbreakable prison.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/4AnWZcn.png"
+    ],
+    "hash": "86f68f68013474f184a154b02f88f443"
+}

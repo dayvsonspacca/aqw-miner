@@ -1,0 +1,16 @@
+{
+    "urlName": "rust-bot-helmet",
+    "url": "http://aqwwiki.wikidot.com/rust-bot-helmet",
+    "name": "Rust Bot Helmet",
+    "type": "helmets_&_hoods",
+    "description": "If you prick me, do I not leak oil?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rust-bot-helmet/RustBotHelmet.png"
+    ],
+    "hash": "51d93f2945121169728809a9577b9a31"
+}

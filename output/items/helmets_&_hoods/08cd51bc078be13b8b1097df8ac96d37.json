@@ -1,0 +1,16 @@
+{
+    "urlName": "ebilcorp-scalper-locks",
+    "url": "http://aqwwiki.wikidot.com/ebilcorp-scalper-locks",
+    "name": "EbilCorp Scalper Locks",
+    "type": "helmets_&_hoods",
+    "description": "In EbilCorp, it's every corporate slave for themselves. Even the Scalpers will undermine each other to get ahead of the line, and fist fight in front of the shelves. It's great for marketing.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/d2laaiR.png"
+    ],
+    "hash": "08cd51bc078be13b8b1097df8ac96d37"
+}

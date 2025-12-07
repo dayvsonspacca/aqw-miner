@@ -1,0 +1,15 @@
+{
+    "urlName": "oakheart-magic-helm",
+    "url": "http://aqwwiki.wikidot.com/oakheart-magic-helm",
+    "name": "Oakheart Magic Helm",
+    "type": "helmets_&_hoods",
+    "description": "OakHearts are magical Forest Guardians. But magic cannot protect against allergens! Luckily this helm is fully equipped to be hypoallergenic. Now that's MAGIC!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oakheart-magic-helm/OakHeartMagicHelm.png"
+    ],
+    "hash": "4129f7d05ba8e0f3c9c874d5624d759b"
+}

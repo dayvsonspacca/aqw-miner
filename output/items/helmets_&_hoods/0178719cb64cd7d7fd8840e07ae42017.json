@@ -1,0 +1,16 @@
+{
+    "urlName": "universe-hood",
+    "url": "http://aqwwiki.wikidot.com/universe-hood",
+    "name": "Universe Hood",
+    "type": "helmets_&_hoods",
+    "description": "Your hood is the size of the entire universe. Not that we're saying you have a big head. Not at all.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/universe-hood/UniverseHood.png"
+    ],
+    "hash": "0178719cb64cd7d7fd8840e07ae42017"
+}

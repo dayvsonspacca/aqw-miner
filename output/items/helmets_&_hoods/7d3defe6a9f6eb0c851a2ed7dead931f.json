@@ -1,0 +1,15 @@
+{
+    "urlName": "royal-fang-helm",
+    "url": "http://aqwwiki.wikidot.com/royal-fang-helm",
+    "name": "Royal Fang Helm",
+    "type": "helmets_&_hoods",
+    "description": "This golden armet, crafted by your fellow player Royal Knight, bears the teeth and mane of a mighty wolf, buffing your spirit with ferocity while showering your enemies with fear.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/6ouAo9t.png"
+    ],
+    "hash": "7d3defe6a9f6eb0c851a2ed7dead931f"
+}

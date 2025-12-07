@@ -1,0 +1,17 @@
+{
+    "urlName": "tactical-agent-alpha-visage",
+    "url": "http://aqwwiki.wikidot.com/tactical-agent-alpha-visage",
+    "name": "Tactical Agent Alpha Visage",
+    "type": "helmets_&_hoods",
+    "description": "Dangerous hot spots like haunted houses and evil lairs are filled with traps. Make you don't get crushed into an agent-sandwich.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/nH950H5.png"
+    ],
+    "hash": "103ae468df6a96887a75513cfa6cbe2d"
+}

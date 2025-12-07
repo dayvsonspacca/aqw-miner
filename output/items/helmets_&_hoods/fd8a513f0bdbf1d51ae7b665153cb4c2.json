@@ -1,0 +1,16 @@
+{
+    "urlName": "lavamorph-visor",
+    "url": "http://aqwwiki.wikidot.com/lavamorph-visor",
+    "name": "Lavamorph Visor",
+    "type": "helmets_&_hoods",
+    "description": "This face plate, made out of lava rock found underneath BattleOn both generates heat and protects your face from melting.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/Ap9hs88.png",
+        "http://i.imgur.com/Bcso86A.png"
+    ],
+    "hash": "fd8a513f0bdbf1d51ae7b665153cb4c2"
+}

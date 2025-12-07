@@ -1,0 +1,17 @@
+{
+    "urlName": "the-full-stack",
+    "url": "http://aqwwiki.wikidot.com/the-full-stack",
+    "name": "The Full Stack",
+    "type": "helmets_&_hoods",
+    "description": "All the way up!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/nwMFBlG.png"
+    ],
+    "hash": "3a53f3a7beb8c9c83acd07d7645891a6"
+}

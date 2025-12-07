@@ -1,0 +1,15 @@
+{
+    "urlName": "broncolich-locks",
+    "url": "http://aqwwiki.wikidot.com/broncolich-locks",
+    "name": "Broncolich Locks",
+    "type": "helmets_&_hoods",
+    "description": "For those who don't want a skull on their head but still want to root for the team.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/broncolich-locks/BroncolichLocks.png"
+    ],
+    "hash": "60407c24e929f8b904abf2f17e30a63a"
+}

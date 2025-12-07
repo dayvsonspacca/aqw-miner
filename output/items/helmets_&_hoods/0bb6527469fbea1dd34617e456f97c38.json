@@ -1,0 +1,16 @@
+{
+    "urlName": "garaja-face-morph",
+    "url": "http://aqwwiki.wikidot.com/garaja-face-morph",
+    "name": "Garaja Face Morph",
+    "type": "helmets_&_hoods",
+    "description": "The visage of the ice mage Garaja. Mastery over the art of snowglobe crafting is rare indeed.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/NdQNLth.png"
+    ],
+    "hash": "0bb6527469fbea1dd34617e456f97c38"
+}

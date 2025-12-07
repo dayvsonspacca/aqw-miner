@@ -1,0 +1,16 @@
+{
+    "urlName": "kala-mask-helm",
+    "url": "http://aqwwiki.wikidot.com/kala-mask-helm",
+    "name": "Kala Mask Helm",
+    "type": "helmets_&_hoods",
+    "description": "The nightmarish visage of Kala; would be useful to scare off burglars!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/1lcv7HY.png"
+    ],
+    "hash": "bfc84d3f02a4ec7d76525214be2f501c"
+}

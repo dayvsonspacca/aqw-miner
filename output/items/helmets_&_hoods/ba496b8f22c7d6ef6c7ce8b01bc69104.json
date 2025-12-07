@@ -1,0 +1,16 @@
+{
+    "urlName": "ionized-helm",
+    "url": "http://aqwwiki.wikidot.com/ionized-helm",
+    "name": "Ionized Helm",
+    "type": "helmets_&_hoods",
+    "description": "Your face is flickering. Might need to wash it with static cling-remover!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ionized-helm/IH.png"
+    ],
+    "hash": "ba496b8f22c7d6ef6c7ce8b01bc69104"
+}

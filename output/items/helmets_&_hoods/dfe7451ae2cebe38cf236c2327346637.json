@@ -1,0 +1,15 @@
+{
+    "urlName": "invoker-mask",
+    "url": "http://aqwwiki.wikidot.com/invoker-mask",
+    "name": "Invoker Mask",
+    "type": "helmets_&_hoods",
+    "description": "Invoker's mask shields the user from exerting too much power. (Gives 15% more rep and 3% more Class Points when equipped)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/iO5xkjf.png"
+    ],
+    "hash": "dfe7451ae2cebe38cf236c2327346637"
+}

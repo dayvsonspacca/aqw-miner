@@ -1,0 +1,15 @@
+{
+    "urlName": "lorekeeper-s-hair",
+    "url": "http://aqwwiki.wikidot.com/lorekeeper-s-hair",
+    "name": "Lorekeeper's Hair",
+    "type": "helmets_&_hoods",
+    "description": "It's ok to take your headgarb off sometimes.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lorekeeper-s-hair/Lorekeeper'sHair.png"
+    ],
+    "hash": "28f17ebca246a8c9504575f6dad5c92e"
+}

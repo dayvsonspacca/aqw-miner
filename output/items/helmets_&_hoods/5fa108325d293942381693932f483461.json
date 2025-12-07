@@ -1,0 +1,16 @@
+{
+    "urlName": "lesser-deadknight-helm",
+    "url": "http://aqwwiki.wikidot.com/lesser-deadknight-helm",
+    "name": "Lesser DeadKnight Helm",
+    "type": "helmets_&_hoods",
+    "description": "A metal mask deprives your victim of seeing any signs of leftlover humanity in your eyes. Your steel-gray visage will turn their courage to cowering fear!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lesser-deadknight-helm/LesserDeadKnightHelm.png"
+    ],
+    "hash": "5fa108325d293942381693932f483461"
+}

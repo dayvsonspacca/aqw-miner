@@ -1,0 +1,16 @@
+{
+    "urlName": "knife-biter-helm",
+    "url": "http://aqwwiki.wikidot.com/knife-biter-helm",
+    "name": "Knife-biter Helm",
+    "type": "helmets_&_hoods",
+    "description": "Keep this vital tool of your trade always at hand\u2026 by keeping it on your mouth!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/knife-biter-helm/KH.png"
+    ],
+    "hash": "1fc862ecb95c531ae363f04e46cebcb4"
+}

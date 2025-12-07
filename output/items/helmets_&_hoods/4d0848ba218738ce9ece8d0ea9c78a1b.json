@@ -1,0 +1,17 @@
+{
+    "urlName": "big-sombrero",
+    "url": "http://aqwwiki.wikidot.com/big-sombrero",
+    "name": "Big Sombrero",
+    "type": "helmets_&_hoods",
+    "description": "We can wear it. Bigger. Better. Extra-wide. Happy Cinco de Mayo 2015!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/yACBJOv.png"
+    ],
+    "hash": "4d0848ba218738ce9ece8d0ea9c78a1b"
+}

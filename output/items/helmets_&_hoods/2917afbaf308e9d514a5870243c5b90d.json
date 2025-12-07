@@ -1,0 +1,16 @@
+{
+    "urlName": "lich-locks",
+    "url": "http://aqwwiki.wikidot.com/lich-locks",
+    "name": "Lich Locks",
+    "type": "helmets_&_hoods",
+    "description": "Everyone be like, \"Lich please, you look fabulous\".",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lich-locks/LichLocks.png"
+    ],
+    "hash": "2917afbaf308e9d514a5870243c5b90d"
+}

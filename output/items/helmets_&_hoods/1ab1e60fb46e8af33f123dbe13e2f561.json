@@ -1,0 +1,17 @@
+{
+    "urlName": "mars-showstopper-helm",
+    "url": "http://aqwwiki.wikidot.com/mars-showstopper-helm",
+    "name": "Mars Showstopper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Mars is an amazing planet, and its namesake Bruno is an amazing performer!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mars-showstopper-helm/MarsShowstopperHelm.png",
+        "http://aqwwiki.wdfiles.com/local--files/mars-showstopper-helm/MarsShowstopperHelmO.png"
+    ],
+    "hash": "1ab1e60fb46e8af33f123dbe13e2f561"
+}

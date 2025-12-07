@@ -1,0 +1,16 @@
+{
+    "urlName": "welder-tricorn-mask-goggles",
+    "url": "http://aqwwiki.wikidot.com/welder-tricorn-mask-goggles",
+    "name": "Welder Tricorn Mask + Goggles",
+    "type": "helmets_&_hoods",
+    "description": "Whether it's exploring volcanoes or working in the boiler room of steam-powered ships, it is always a-must to protect your face. All it takes is a sheet of metal with a square hole.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/welder-tricorn-mask-goggles/WelderTricornMaskGoggles.png"
+    ],
+    "hash": "70ea8c1937d8e938a7ccd59b9be692f5"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-jolly-roger-helm",
+    "url": "http://aqwwiki.wikidot.com/legion-jolly-roger-helm",
+    "name": "Legion Jolly Roger Helm",
+    "type": "helmets_&_hoods",
+    "description": "A Pirate Captain is nothing without a tri-corner hat to signify his rank! That true even in Underworld.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legion-jolly-roger-helm/LJRH.png"
+    ],
+    "hash": "b05a3967baca41321517b5bdb4b8d680"
+}

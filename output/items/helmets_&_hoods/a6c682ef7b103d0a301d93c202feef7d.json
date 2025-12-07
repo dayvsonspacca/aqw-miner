@@ -1,0 +1,16 @@
+{
+    "urlName": "loki-headshield",
+    "url": "http://aqwwiki.wikidot.com/loki-headshield",
+    "name": "Loki Headshield",
+    "type": "helmets_&_hoods",
+    "description": "Retrieved during Maypril, from the Lore of AdventureQuest, Loki's headshield acted as a mask that a jester might wear to amuse royalty or the townspeople for a small price.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/loki-headshield/LokiHeadshield.png"
+    ],
+    "hash": "a6c682ef7b103d0a301d93c202feef7d"
+}

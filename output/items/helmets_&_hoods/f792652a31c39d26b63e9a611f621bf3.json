@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-patronum",
+    "url": "http://aqwwiki.wikidot.com/helm-of-patronum",
+    "name": "Helm Of Patronum",
+    "type": "helmets_&_hoods",
+    "description": "This spiked crown is a symbol of the bridge between winter and spring. Despite the fact that Brightoak druids don't have a monarchy, it was kept as a decorative artifact until now.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/rK7BpkS.png"
+    ],
+    "hash": "f792652a31c39d26b63e9a611f621bf3"
+}

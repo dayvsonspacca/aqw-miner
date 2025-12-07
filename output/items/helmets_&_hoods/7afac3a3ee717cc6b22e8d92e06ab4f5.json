@@ -1,0 +1,16 @@
+{
+    "urlName": "magus-spellcrown",
+    "url": "http://aqwwiki.wikidot.com/magus-spellcrown",
+    "name": "Magus Spellcrown",
+    "type": "helmets_&_hoods",
+    "description": "Spellcrowns are made to aid a magus who focuses their might into spellcasting. The crown aids their mana reserves, allowing them to channel more power for a longer period of time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/magus-spellcrown/MagusSpellcrown.png"
+    ],
+    "hash": "7afac3a3ee717cc6b22e8d92e06ab4f5"
+}

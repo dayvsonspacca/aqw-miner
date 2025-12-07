@@ -1,0 +1,16 @@
+{
+    "urlName": "senior-student-hat-locks",
+    "url": "http://aqwwiki.wikidot.com/senior-student-hat-locks",
+    "name": "Senior Student Hat + Locks",
+    "type": "helmets_&_hoods",
+    "description": "This hat is worn by senior school age students in Swordhaven's Hero Academy when they aren't in combat training.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/PW07Kn1.png"
+    ],
+    "hash": "f3e999dffd8a5716e8d030dd8407e47b"
+}

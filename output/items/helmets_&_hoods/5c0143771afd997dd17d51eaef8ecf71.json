@@ -1,0 +1,15 @@
+{
+    "urlName": "leprechaun-lord-helm",
+    "url": "http://aqwwiki.wikidot.com/leprechaun-lord-helm",
+    "name": "Leprechaun Lord Helm",
+    "type": "helmets_&_hoods",
+    "description": "Ye may not be a true Leprechaun there, lads and lassies but ye still be lucky today!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/J6ByJVJ.png"
+    ],
+    "hash": "5c0143771afd997dd17d51eaef8ecf71"
+}

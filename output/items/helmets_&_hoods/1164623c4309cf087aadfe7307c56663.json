@@ -1,0 +1,16 @@
+{
+    "urlName": "nation-s-paragon-helm-merge",
+    "url": "http://aqwwiki.wikidot.com/nation-s-paragon-helm-merge",
+    "name": "Nation's Paragon Helm (Merge)",
+    "type": "helmets_&_hoods",
+    "description": "A Paragon in the Nation? Interesting.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/qCeFcqD.png"
+    ],
+    "hash": "1164623c4309cf087aadfe7307c56663"
+}

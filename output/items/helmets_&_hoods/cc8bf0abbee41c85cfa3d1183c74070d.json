@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-squid",
+    "url": "http://aqwwiki.wikidot.com/chaos-squid",
+    "name": "Chaos Squid",
+    "type": "helmets_&_hoods",
+    "description": "\"T' seas shall know me wrath! Whoop Whoop Whoop\" (muttered in a diabolical tone!)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-squid/ChaosSquid.png"
+    ],
+    "hash": "cc8bf0abbee41c85cfa3d1183c74070d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "dat-sock-helm",
+    "url": "http://aqwwiki.wikidot.com/dat-sock-helm",
+    "name": "Dat Sock Helm",
+    "type": "helmets_&_hoods",
+    "description": "Yeah that's right. Dage made dat sock helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dat-sock-helm/DatSockHelm.png"
+    ],
+    "hash": "366bb07263e9739dc450e3e5d36eeed4"
+}

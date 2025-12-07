@@ -1,0 +1,16 @@
+{
+    "urlName": "electromage-horns-ac",
+    "url": "http://aqwwiki.wikidot.com/electromage-horns-ac",
+    "name": "ElectroMage Horns (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Cyber Magic flows through the veins of ElectroMages. Mastering their power is vital; the energy even an untrained mage can produce level an entire city.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/f4ocroA.png"
+    ],
+    "hash": "cbff12d3d077228eb01a5fd91578324b"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "love-hat",
+    "url": "http://aqwwiki.wikidot.com/love-hat",
+    "name": "Love Hat",
+    "type": "helmets_&_hoods",
+    "description": "Bow Chicka WOW WOW!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/7qqYkqw.png"
+    ],
+    "hash": "a287d324a06c29ac952503e1a96aec2a"
+}

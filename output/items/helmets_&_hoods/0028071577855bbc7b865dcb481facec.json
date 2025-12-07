@@ -1,0 +1,16 @@
+{
+    "urlName": "enchanted-hood",
+    "url": "http://aqwwiki.wikidot.com/enchanted-hood",
+    "name": "Enchanted Hood",
+    "type": "helmets_&_hoods",
+    "description": "This awesome (and colorful) hoodie helps keep you warm and cozy while fighting in the Northlands.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2eHtL6E.png"
+    ],
+    "hash": "0028071577855bbc7b865dcb481facec"
+}

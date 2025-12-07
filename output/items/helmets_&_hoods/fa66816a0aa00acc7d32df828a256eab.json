@@ -1,0 +1,19 @@
+{
+    "urlName": "geotic-chronomancer-s-locks-goggles",
+    "url": "http://aqwwiki.wikidot.com/geotic-chronomancer-s-locks-goggles",
+    "name": "Geotic Chronomancer's Locks + Goggles",
+    "type": "helmets_&_hoods",
+    "description": "Only Chronomancers of Nature can wield the combined might of Lore's ancient, fundamental magic mixed with the temporal aether that permeates the TimeVoid.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/GQjxuDr.png",
+        "https://i.imgur.com/1FBA6Ae.png",
+        "https://i.imgur.com/ic4B3UB.png",
+        "https://i.imgur.com/RdfYHjL.png"
+    ],
+    "hash": "fa66816a0aa00acc7d32df828a256eab"
+}

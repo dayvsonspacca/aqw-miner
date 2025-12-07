@@ -1,0 +1,14 @@
+{
+    "urlName": "dark-element-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-element-helm",
+    "name": "Dark Element Helm",
+    "type": "helmets_&_hoods",
+    "description": "A horned skull of the Dark Elementalists.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/uRq3hVD.png",
+        "http://i.imgur.com/AEZINPr.png"
+    ],
+    "hash": "11e219628abb7b0c2fe47c868313c250"
+}

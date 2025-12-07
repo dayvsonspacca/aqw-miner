@@ -1,0 +1,16 @@
+{
+    "urlName": "sketchy-bandana",
+    "url": "http://aqwwiki.wikidot.com/sketchy-bandana",
+    "name": "Sketchy Bandana",
+    "type": "helmets_&_hoods",
+    "description": "This pirate hat looks pretty sketchy to me. ( But then, what would you expect from gear you found inside a Sketchy Dragon?)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/UkfoAPV.png"
+    ],
+    "hash": "e32ce08029657e7a4781053e7b5fc2dd"
+}

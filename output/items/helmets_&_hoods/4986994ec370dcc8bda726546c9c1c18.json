@@ -1,0 +1,16 @@
+{
+    "urlName": "infinite-visor",
+    "url": "http://aqwwiki.wikidot.com/infinite-visor",
+    "name": "Infinite Visor",
+    "type": "helmets_&_hoods",
+    "description": "See to infinity and even beyond that.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/infinite-visor/InfiniteVisor.png"
+    ],
+    "hash": "4986994ec370dcc8bda726546c9c1c18"
+}

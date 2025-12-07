@@ -1,0 +1,16 @@
+{
+    "urlName": "infernal-cyber-doomknight-helm",
+    "url": "http://aqwwiki.wikidot.com/infernal-cyber-doomknight-helm",
+    "name": "Infernal Cyber Doomknight Helm",
+    "type": "helmets_&_hoods",
+    "description": "The blinding neon light emitted by the mechanically enhanced helmet can temporarily blind its wearer's target within a moment, demonstrating that this light is active to attract beauty for a deceiving reason.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/infernal-cyber-doomknight-helm/ICDKHelm.png"
+    ],
+    "hash": "207738eb73014d11c1a75a01ee2d800b"
+}

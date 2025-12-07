@@ -1,0 +1,16 @@
+{
+    "urlName": "shroomknight-helm",
+    "url": "http://aqwwiki.wikidot.com/shroomknight-helm",
+    "name": "ShroomKnight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Most heroes believe the ShroomKnight shows little sympathy for humans. But once you get to know him, he's really a fungi.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kKiYGZd.png"
+    ],
+    "hash": "adf8607bf013a368432dc9f781798a4b"
+}

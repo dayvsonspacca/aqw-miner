@@ -1,0 +1,16 @@
+{
+    "urlName": "diamond-collector-helm-0-ac",
+    "url": "http://aqwwiki.wikidot.com/diamond-collector-helm-0-ac",
+    "name": "Diamond Collector Helm (0 AC)",
+    "type": "helmets_&_hoods",
+    "description": "Being the hardest gem known to Lore and the Void, Nulgath's diamonds can only be cut by each other. A helm studded by diamonds rends blades useless.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/mqj99kZ.png"
+    ],
+    "hash": "23bc124929914376fdafc1456eac58dc"
+}

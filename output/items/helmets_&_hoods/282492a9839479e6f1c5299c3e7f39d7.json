@@ -1,0 +1,15 @@
+{
+    "urlName": "legion-blacksmith-helm",
+    "url": "http://aqwwiki.wikidot.com/legion-blacksmith-helm",
+    "name": "Legion Blacksmith Helm",
+    "type": "helmets_&_hoods",
+    "description": "Not sure why skeletons need helmets, it's not like there's a brain to protect.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/1Lf0xAJ.png"
+    ],
+    "hash": "282492a9839479e6f1c5299c3e7f39d7"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "courage-helm",
+    "url": "http://aqwwiki.wikidot.com/courage-helm",
+    "name": "Courage Helm",
+    "type": "helmets_&_hoods",
+    "description": "For the most courageous of heroes, this helm only makes them look good. For those who still find themselves facing their fears from time to time, this helm helps them overcome fright.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/courage-helm/CourageHelm.png"
+    ],
+    "hash": "5733ecacb3613a4aa2c9f4dab71119a4"
+}

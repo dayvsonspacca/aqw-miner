@@ -1,0 +1,15 @@
+{
+    "urlName": "jaan-sentinel-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/jaan-sentinel-helm-legend",
+    "name": "Jaan Sentinel Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "The Jaan serve as the guardian spirits of the Djinn Realm. If you want to proceed you must pass their trials.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/AlzBCWA.png"
+    ],
+    "hash": "907c370e267b3797c7536b4d96887576"
+}

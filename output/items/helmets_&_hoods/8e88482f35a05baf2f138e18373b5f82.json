@@ -1,0 +1,17 @@
+{
+    "urlName": "ultrahat",
+    "url": "http://aqwwiki.wikidot.com/ultrahat",
+    "name": "ULTRAHAT",
+    "type": "helmets_&_hoods",
+    "description": "DO NOT BUY THIS HAT. If you have already purchased this hat, please ignore the previous statement. But if you DO buy the hat, it's color custom.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/1cyxl2M.png",
+        "http://aqwwiki.wdfiles.com/local--files/ultrahat/ULTRAHAT.png"
+    ],
+    "hash": "8e88482f35a05baf2f138e18373b5f82"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "female-dirge-helm",
+    "url": "http://aqwwiki.wikidot.com/female-dirge-helm",
+    "name": "Female Dirge Helm",
+    "type": "helmets_&_hoods",
+    "description": "A sad, silent mask for a sad, silent song.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/female-dirge-helm/FDH.png"
+    ],
+    "hash": "e305331ca86e1081622ac96ee5db709b"
+}

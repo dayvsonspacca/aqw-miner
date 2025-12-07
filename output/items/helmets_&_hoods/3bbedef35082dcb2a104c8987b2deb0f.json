@@ -1,0 +1,16 @@
+{
+    "urlName": "ravenous-reaver-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/ravenous-reaver-helm-ac",
+    "name": "Ravenous Reaver Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Reavers eat anything and everything in an attempt to fill the gaping void in their lives (and chest).",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/3ylczUb.png"
+    ],
+    "hash": "3bbedef35082dcb2a104c8987b2deb0f"
+}

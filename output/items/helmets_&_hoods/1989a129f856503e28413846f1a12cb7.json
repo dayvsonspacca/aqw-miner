@@ -1,0 +1,16 @@
+{
+    "urlName": "festive-lights-helm",
+    "url": "http://aqwwiki.wikidot.com/festive-lights-helm",
+    "name": "Festive Lights Helm",
+    "type": "helmets_&_hoods",
+    "description": "Taking deck the halls to the extreme!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/festive-lights-helm/FLH.png"
+    ],
+    "hash": "1989a129f856503e28413846f1a12cb7"
+}

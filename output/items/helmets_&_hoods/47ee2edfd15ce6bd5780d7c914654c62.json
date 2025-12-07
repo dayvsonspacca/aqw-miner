@@ -1,0 +1,16 @@
+{
+    "urlName": "coldsteel-helm",
+    "url": "http://aqwwiki.wikidot.com/coldsteel-helm",
+    "name": "ColdSteel Helm",
+    "type": "helmets_&_hoods",
+    "description": "Real heroes know when you're up against a fire dragon, you don't fight fire with fire, you use cold, sharp steel.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/a29zqOZ.png"
+    ],
+    "hash": "47ee2edfd15ce6bd5780d7c914654c62"
+}

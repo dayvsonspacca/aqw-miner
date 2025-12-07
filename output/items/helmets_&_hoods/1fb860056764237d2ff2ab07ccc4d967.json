@@ -1,0 +1,15 @@
+{
+    "urlName": "underhammer-helm",
+    "url": "http://aqwwiki.wikidot.com/underhammer-helm",
+    "name": "UnderHammer Helm",
+    "type": "helmets_&_hoods",
+    "description": "This is the style of helm worn by the elite UnderHammer dwarven fighting force.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/LhUIUZc.png"
+    ],
+    "hash": "1fb860056764237d2ff2ab07ccc4d967"
+}

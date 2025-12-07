@@ -1,0 +1,16 @@
+{
+    "urlName": "chrono-centurion-helm",
+    "url": "http://aqwwiki.wikidot.com/chrono-centurion-helm",
+    "name": "Chrono Centurion Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helmet forged once per century embedded with the birthstones of the hero it was meant for. The Chronoforge Master stopped creating them after the Centurions lost themselves to ambition. (This item is color-customizable.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/sJjkTwX.png"
+    ],
+    "hash": "7bf76a6fda2424ce35f2938798dcc56f"
+}

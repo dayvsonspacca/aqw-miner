@@ -1,0 +1,17 @@
+{
+    "urlName": "operative-s-locks",
+    "url": "http://aqwwiki.wikidot.com/operative-s-locks",
+    "name": "Operative's Locks",
+    "type": "helmets_&_hoods",
+    "description": "Legion Operatives move stealthily through the shadows, carrying out Dage the Evil's dark work in silence.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/coLYemF.png",
+        "https://i.imgur.com/TeVnEBc.png"
+    ],
+    "hash": "1853520f9b3a3c3c56a0404cfa8c899f"
+}

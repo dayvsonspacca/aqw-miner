@@ -1,0 +1,16 @@
+{
+    "urlName": "fiendish-horns-and-locks",
+    "url": "http://aqwwiki.wikidot.com/fiendish-horns-and-locks",
+    "name": "Fiendish Horns and Locks",
+    "type": "helmets_&_hoods",
+    "description": "You're looking mighty fiendish today, Hero. Must be something you've done with your hair!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fiendish-horns-and-locks/FiendishHornsandLocks.png"
+    ],
+    "hash": "f9b7d63d6a2f82e2c3766df41604f9ed"
+}

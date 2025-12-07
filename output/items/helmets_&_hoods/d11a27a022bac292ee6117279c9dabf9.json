@@ -1,0 +1,17 @@
+{
+    "urlName": "black-dragonslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/black-dragonslayer-helm",
+    "name": "Black Dragonslayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Helm worn by the elite order of Dragonslayers except it's black.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/RhZQ68i.png"
+    ],
+    "hash": "d11a27a022bac292ee6117279c9dabf9"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "pirate-ninja-hat",
+    "url": "http://aqwwiki.wikidot.com/pirate-ninja-hat",
+    "name": "Pirate Ninja Hat",
+    "type": "helmets_&_hoods",
+    "description": "Are you a pirate? Are you a ninja? Mostly I think you're just confused.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pirate-ninja-hat/PNH.png"
+    ],
+    "hash": "cc0b64d422754b671f35956294e45f40"
+}

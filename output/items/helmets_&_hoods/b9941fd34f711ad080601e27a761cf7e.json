@@ -1,0 +1,16 @@
+{
+    "urlName": "guncraft-sheriff-hat",
+    "url": "http://aqwwiki.wikidot.com/guncraft-sheriff-hat",
+    "name": "Guncraft Sheriff Hat",
+    "type": "helmets_&_hoods",
+    "description": "No matter how many rounds you fire, you always seem to have extras waiting on the brim of your hat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6cq1Ens.png"
+    ],
+    "hash": "b9941fd34f711ad080601e27a761cf7e"
+}

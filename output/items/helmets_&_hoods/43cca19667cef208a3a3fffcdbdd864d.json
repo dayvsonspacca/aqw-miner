@@ -1,0 +1,16 @@
+{
+    "urlName": "aqua-warrior-helm",
+    "url": "http://aqwwiki.wikidot.com/aqua-warrior-helm",
+    "name": "Aqua Warrior Helm",
+    "type": "helmets_&_hoods",
+    "description": "The facial tattoos on this helm are warning signs to all you opponents: Stay back, or get SMASHED! HeroSmash Beta Rare!",
+    "rarity": "Ultra Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/aqua-warrior-helm/AquaWarriorHelm.png"
+    ],
+    "hash": "43cca19667cef208a3a3fffcdbdd864d"
+}

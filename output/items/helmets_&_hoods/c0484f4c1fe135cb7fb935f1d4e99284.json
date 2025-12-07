@@ -1,0 +1,16 @@
+{
+    "urlName": "warden-of-hours-scarf",
+    "url": "http://aqwwiki.wikidot.com/warden-of-hours-scarf",
+    "name": "Warden of Hours Scarf",
+    "type": "helmets_&_hoods",
+    "description": "Going completely unnoticed is the Warden of Hours main goal. Fix inconsistencies, and quietly let time march on. It's a thankless job, but most prefer anonymity to absolute disaster.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/1YXPzdQ.png"
+    ],
+    "hash": "c0484f4c1fe135cb7fb935f1d4e99284"
+}

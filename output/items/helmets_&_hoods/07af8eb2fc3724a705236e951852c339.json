@@ -1,0 +1,16 @@
+{
+    "urlName": "dragonsworn-locks",
+    "url": "http://aqwwiki.wikidot.com/dragonsworn-locks",
+    "name": "Dragonsworn Locks",
+    "type": "helmets_&_hoods",
+    "description": "Shockingly good hair.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragonsworn-locks/DragonswornLocks.png"
+    ],
+    "hash": "07af8eb2fc3724a705236e951852c339"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-of-the-frost-helm",
+    "url": "http://aqwwiki.wikidot.com/shadow-of-the-frost-helm",
+    "name": "Shadow Of The Frost Helm",
+    "type": "helmets_&_hoods",
+    "description": "Born in the shadows, they wait for a kind or queen to lead them into the light of battle and annihilation!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-of-the-frost-helm/SotFH.png"
+    ],
+    "hash": "4cd67634286b94c97f6743d2b868de42"
+}

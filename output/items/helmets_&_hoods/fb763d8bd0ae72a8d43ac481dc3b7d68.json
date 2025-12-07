@@ -1,0 +1,16 @@
+{
+    "urlName": "knight-sallet",
+    "url": "http://aqwwiki.wikidot.com/knight-sallet",
+    "name": "Knight Sallet",
+    "type": "helmets_&_hoods",
+    "description": "The classic knight, straight out of a fairy tale or chivalric legend, are hard to come by these days.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/jNaOJG5.png"
+    ],
+    "hash": "fb763d8bd0ae72a8d43ac481dc3b7d68"
+}

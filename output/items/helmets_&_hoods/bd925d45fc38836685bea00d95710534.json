@@ -1,0 +1,18 @@
+{
+    "urlName": "fiendish-magus-hat-legend",
+    "url": "http://aqwwiki.wikidot.com/fiendish-magus-hat-legend",
+    "name": "Fiendish Magus Hat (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "A classic hat retailored to fit the image of a Nation Cultist. They say they closely follow in the footsteps of their Master Nulgath, but he's allergic to hats. (Click hat to show horns)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/kkT5JFu.png",
+        "https://i.imgur.com/hHRo5Bl.png",
+        "https://i.imgur.com/2zrw8Cb.png"
+    ],
+    "hash": "bd925d45fc38836685bea00d95710534"
+}

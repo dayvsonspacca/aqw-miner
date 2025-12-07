@@ -1,0 +1,15 @@
+{
+    "urlName": "lifeguard-cap",
+    "url": "http://aqwwiki.wikidot.com/lifeguard-cap",
+    "name": "LifeGuard Cap",
+    "type": "helmets_&_hoods",
+    "description": "When you hang out by the beach, it's always safest when the LifeGuard are around!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/pRhVDSo.png"
+    ],
+    "hash": "2491d1290ded27de4a08efd6221431c0"
+}

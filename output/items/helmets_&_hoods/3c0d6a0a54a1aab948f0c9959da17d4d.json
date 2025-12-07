@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-maiden-s-aegis-helm",
+    "url": "http://aqwwiki.wikidot.com/prismatic-maiden-s-aegis-helm",
+    "name": "Prismatic Maiden's Aegis Helm",
+    "type": "helmets_&_hoods",
+    "description": "Doning this majestic helm makes you immune to the manipulative voices of the darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-maiden-s-aegis-helm/PMAH.png"
+    ],
+    "hash": "3c0d6a0a54a1aab948f0c9959da17d4d"
+}

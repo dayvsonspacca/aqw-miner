@@ -1,0 +1,17 @@
+{
+    "urlName": "legion-doomknight-helm-merge",
+    "url": "http://aqwwiki.wikidot.com/legion-doomknight-helm-merge",
+    "name": "Legion DoomKnight Helm (Merge)",
+    "type": "helmets_&_hoods",
+    "description": "You only serve the one true Dark Lord, Dage. (Has a chance to do the Shadowburst animation when equipped)",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/3D5Sdpz.png",
+        "http://i.imgur.com/meGMADv.png"
+    ],
+    "hash": "014e1d72d65d100672f6a68d5534ad89"
+}

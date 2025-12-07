@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-witchy-hat",
+    "url": "http://aqwwiki.wikidot.com/dark-witchy-hat",
+    "name": "Dark & Witchy Hat",
+    "type": "helmets_&_hoods",
+    "description": "The one time of year when people don't look askance at your wonderful dark and witchy outfits.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/2NxI9Dt.png"
+    ],
+    "hash": "c12e75598aa05ef0f613d7bc574f8331"
+}

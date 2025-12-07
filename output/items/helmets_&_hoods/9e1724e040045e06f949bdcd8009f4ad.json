@@ -1,0 +1,16 @@
+{
+    "urlName": "paladin-commander-helm",
+    "url": "http://aqwwiki.wikidot.com/paladin-commander-helm",
+    "name": "Paladin Commander Helm",
+    "type": "helmets_&_hoods",
+    "description": "The newly redeemed paladin commanders wear this to temporarily remain anonymous. Because the eyes are nearly difficult to notice, the helm might slightly blind its wearer at first.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paladin-commander-helm/PalCommHelm.png"
+    ],
+    "hash": "9e1724e040045e06f949bdcd8009f4ad"
+}

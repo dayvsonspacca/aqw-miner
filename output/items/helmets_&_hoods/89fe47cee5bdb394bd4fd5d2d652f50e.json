@@ -1,0 +1,16 @@
+{
+    "urlName": "viking-beard-helm",
+    "url": "http://aqwwiki.wikidot.com/viking-beard-helm",
+    "name": "Viking Beard Helm",
+    "type": "helmets_&_hoods",
+    "description": "In the heat off batter, who has time to shave?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/viking-beard-helm/VikingBeardHelm.png"
+    ],
+    "hash": "89fe47cee5bdb394bd4fd5d2d652f50e"
+}

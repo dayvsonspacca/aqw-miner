@@ -1,0 +1,17 @@
+{
+    "urlName": "turkeyassassin-cowl",
+    "url": "http://aqwwiki.wikidot.com/turkeyassassin-cowl",
+    "name": "TurkeyAssassin Cowl",
+    "type": "helmets_&_hoods",
+    "description": "This assasin's hood ensures that your identity is kept a secret as well as protecting you from the fowl elements.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/RG8iKL8.png"
+    ],
+    "hash": "53ff7d0ce953d8f3255ae002f57d5e3f"
+}

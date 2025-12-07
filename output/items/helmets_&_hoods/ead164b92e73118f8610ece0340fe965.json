@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-yang-helm",
+    "url": "http://aqwwiki.wikidot.com/golden-yang-helm",
+    "name": "Golden Yang Helm",
+    "type": "helmets_&_hoods",
+    "description": "May this golden helm bring you luck on the battlefield.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/uSMqj0g.png"
+    ],
+    "hash": "ead164b92e73118f8610ece0340fe965"
+}

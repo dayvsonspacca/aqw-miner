@@ -1,0 +1,16 @@
+{
+    "urlName": "big-boned-red-dwarf",
+    "url": "http://aqwwiki.wikidot.com/big-boned-red-dwarf",
+    "name": "Big Boned Red Dwarf",
+    "type": "helmets_&_hoods",
+    "description": "The long, lustrous braid covers the fact that your head looks like a D20 that got stuck in the trash compactor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/big-boned-red-dwarf/BigBonedRedDwarf.png"
+    ],
+    "hash": "9ec0757a2248b4808773fd2d9ec719e0"
+}

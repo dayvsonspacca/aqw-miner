@@ -1,0 +1,15 @@
+{
+    "urlName": "lolosian-corsairs-helm",
+    "url": "http://aqwwiki.wikidot.com/lolosian-corsairs-helm",
+    "name": "Lolosian Corsairs Helm",
+    "type": "helmets_&_hoods",
+    "description": "Gotta wear this to protect your head!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ez5ieDD.png"
+    ],
+    "hash": "280b2792510340f14572edb1f6d41551"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "fancy-locks",
+    "url": "http://aqwwiki.wikidot.com/fancy-locks",
+    "name": "Fancy Locks",
+    "type": "helmets_&_hoods",
+    "description": "You know you're looking good when you rock these locks, no matter how fancy the /party or how chill the evening hangout.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Z25jnrw.png"
+    ],
+    "hash": "e480a28e4d1163571ef7b5bcc87ebba7"
+}

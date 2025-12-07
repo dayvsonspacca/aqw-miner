@@ -1,0 +1,16 @@
+{
+    "urlName": "rocker-stripe",
+    "url": "http://aqwwiki.wikidot.com/rocker-stripe",
+    "name": "Rocker Stripe",
+    "type": "helmets_&_hoods",
+    "description": "Get ready to mosh!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/RuyFXNS.png"
+    ],
+    "hash": "8017ba092d2698e32c6db2a21b8e6fdb"
+}

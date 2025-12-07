@@ -1,0 +1,16 @@
+{
+    "urlName": "seraph-s-headband",
+    "url": "http://aqwwiki.wikidot.com/seraph-s-headband",
+    "name": "Seraph's Headband",
+    "type": "helmets_&_hoods",
+    "description": "They will praise your name throughout Lore long after you're gone. Just remember that no one ever forgets a good dead.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/seraph-s-headband/Seraph'sHeadband.png"
+    ],
+    "hash": "edc16ea1152aa6c90bcaaf4edb312048"
+}

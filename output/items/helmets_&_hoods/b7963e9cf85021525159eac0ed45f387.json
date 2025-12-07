@@ -1,0 +1,16 @@
+{
+    "urlName": "harvest-headband",
+    "url": "http://aqwwiki.wikidot.com/harvest-headband",
+    "name": "Harvest Headband",
+    "type": "helmets_&_hoods",
+    "description": "An adorable new 'do for the new season!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/a0cT79f.png"
+    ],
+    "hash": "b7963e9cf85021525159eac0ed45f387"
+}

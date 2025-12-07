@@ -1,0 +1,16 @@
+{
+    "urlName": "evolved-paragon-helm",
+    "url": "http://aqwwiki.wikidot.com/evolved-paragon-helm",
+    "name": "Evolved Paragon Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Paragon is back and more brutal than ever!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/evolved-paragon-helm/EvolvedParagonHelm.png"
+    ],
+    "hash": "dd1265ddaf80a987e11d5bf5637a4d90"
+}

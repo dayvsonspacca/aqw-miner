@@ -1,0 +1,16 @@
+{
+    "urlName": "guardian-prime-helm",
+    "url": "http://aqwwiki.wikidot.com/guardian-prime-helm",
+    "name": "Guardian Prime Helm",
+    "type": "helmets_&_hoods",
+    "description": "The helm of the Guardians who guard the tower.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/YfxyTiH.png"
+    ],
+    "hash": "2720756c48503383039f6083bf0fd0a1"
+}

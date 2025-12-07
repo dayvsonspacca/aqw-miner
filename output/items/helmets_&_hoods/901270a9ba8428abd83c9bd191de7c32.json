@@ -1,0 +1,16 @@
+{
+    "urlName": "girly-santa-hat",
+    "url": "http://aqwwiki.wikidot.com/girly-santa-hat",
+    "name": "Girly Santa Hat",
+    "type": "helmets_&_hoods",
+    "description": "With lovely locks of hair.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/f2arPvP.png"
+    ],
+    "hash": "901270a9ba8428abd83c9bd191de7c32"
+}

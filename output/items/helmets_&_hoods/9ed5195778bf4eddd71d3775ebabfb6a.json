@@ -1,0 +1,16 @@
+{
+    "urlName": "kinnaree-locks",
+    "url": "http://aqwwiki.wikidot.com/kinnaree-locks",
+    "name": "Kinnaree Locks",
+    "type": "helmets_&_hoods",
+    "description": "Dance away the night.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Ve6HNWI.png"
+    ],
+    "hash": "9ed5195778bf4eddd71d3775ebabfb6a"
+}

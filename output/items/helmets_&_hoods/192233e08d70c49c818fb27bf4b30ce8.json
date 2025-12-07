@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-the-lost-1",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-lost-1",
+    "name": "Helm of the Lost (1)",
+    "type": "helmets_&_hoods",
+    "description": "Although it's badly rusted from the years it was left in the sewer, the steel of this helm is surprisingly sturdy.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/Spa9T67.png"
+    ],
+    "hash": "192233e08d70c49c818fb27bf4b30ce8"
+}

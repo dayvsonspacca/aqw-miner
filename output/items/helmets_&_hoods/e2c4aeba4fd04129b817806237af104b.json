@@ -1,0 +1,15 @@
+{
+    "urlName": "realm-guardian-helm",
+    "url": "http://aqwwiki.wikidot.com/realm-guardian-helm",
+    "name": "Realm Guardian Helm",
+    "type": "helmets_&_hoods",
+    "description": "You have defended the area outside Swordhaven valiantly! King Alteon the Good thanks you, and wishes to reward you with this helm.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/3gJzOEt.png"
+    ],
+    "hash": "e2c4aeba4fd04129b817806237af104b"
+}

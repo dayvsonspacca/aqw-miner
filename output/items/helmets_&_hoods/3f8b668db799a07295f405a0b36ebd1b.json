@@ -1,0 +1,16 @@
+{
+    "urlName": "agent-of-chaos-cowl",
+    "url": "http://aqwwiki.wikidot.com/agent-of-chaos-cowl",
+    "name": "Agent of Chaos Cowl",
+    "type": "helmets_&_hoods",
+    "description": "Chaos agents speak only when spoken to but kill when they're not even provoked.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/agent-of-chaos-cowl/AgentofChaosCowl.png"
+    ],
+    "hash": "3f8b668db799a07295f405a0b36ebd1b"
+}

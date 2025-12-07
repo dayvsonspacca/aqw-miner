@@ -1,0 +1,16 @@
+{
+    "urlName": "hunter-mask",
+    "url": "http://aqwwiki.wikidot.com/hunter-mask",
+    "name": "Hunter Mask",
+    "type": "helmets_&_hoods",
+    "description": "Look onto your prey with accuracy with this high-tech mask.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/hunter-mask/HunterMask.png"
+    ],
+    "hash": "f1308725043787bf1e15a034a03fb7b4"
+}

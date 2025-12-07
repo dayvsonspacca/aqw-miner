@@ -1,0 +1,16 @@
+{
+    "urlName": "winged-titanium-helm",
+    "url": "http://aqwwiki.wikidot.com/winged-titanium-helm",
+    "name": "Winged Titanium Helm",
+    "type": "helmets_&_hoods",
+    "description": "This is a replica of a helm worn by the Knights of the North as they ride into battle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/qILJjRK.png"
+    ],
+    "hash": "26e254ca5fd983c4d7796076e1ce8b04"
+}

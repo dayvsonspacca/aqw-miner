@@ -1,0 +1,16 @@
+{
+    "urlName": "mystic-adventurer-s-hood",
+    "url": "http://aqwwiki.wikidot.com/mystic-adventurer-s-hood",
+    "name": "Mystic Adventurer's Hood",
+    "type": "helmets_&_hoods",
+    "description": "The Mystic Adventurers must hide in the shadows staying unknown to the creatures that they stalk.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mystic-adventurer-s-hood/MysticAdventurer'sHood.png"
+    ],
+    "hash": "7679f992cc326ea20c51e93b7ac4ebe8"
+}

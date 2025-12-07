@@ -1,0 +1,16 @@
+{
+    "urlName": "solar-naval-tricorn",
+    "url": "http://aqwwiki.wikidot.com/solar-naval-tricorn",
+    "name": "Solar Naval Tricorn",
+    "type": "helmets_&_hoods",
+    "description": "A gleaming hat of reddish tan that represents the dawn. In that case, it gives rise to a new day out at sea.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solar-naval-tricorn/SolarNavalTricorn.png"
+    ],
+    "hash": "9577f45d24872e54696f4cf9c8b99118"
+}

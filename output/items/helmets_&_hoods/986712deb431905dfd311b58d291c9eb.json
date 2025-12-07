@@ -1,0 +1,16 @@
+{
+    "urlName": "leonides-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/leonides-helm-legend",
+    "name": "Leonides Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "The Lionisters of Swordhaven are an ancient and noble family. Their Frostval celebrations are legendarily gilded. Hear them ROAR!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Qk0nlgo.png"
+    ],
+    "hash": "986712deb431905dfd311b58d291c9eb"
+}

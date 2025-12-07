@@ -1,0 +1,17 @@
+{
+    "urlName": "male-fatale-morph",
+    "url": "http://aqwwiki.wikidot.com/male-fatale-morph",
+    "name": "Male Fatale Morph",
+    "type": "helmets_&_hoods",
+    "description": "Oh, what a nice young man you are! Here, have some Halloween ca- aaaaaaah! Get away! You don't sparkle! (Click to see Mogloween transformation!)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/male-fatale-morph/MaleFataleMorphN.png",
+        "http://aqwwiki.wdfiles.com/local--files/male-fatale-morph/MaleFataleMorphC.png"
+    ],
+    "hash": "fa4063a4b7fe7f8d8bb12439c81ed55d"
+}

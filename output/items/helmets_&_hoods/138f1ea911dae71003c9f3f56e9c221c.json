@@ -1,0 +1,16 @@
+{
+    "urlName": "derp-donut",
+    "url": "http://aqwwiki.wikidot.com/derp-donut",
+    "name": "Derp Donut",
+    "type": "helmets_&_hoods",
+    "description": "DERP! Heroes love a good derp donut. YUM!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ZRlskqE.png"
+    ],
+    "hash": "138f1ea911dae71003c9f3f56e9c221c"
+}

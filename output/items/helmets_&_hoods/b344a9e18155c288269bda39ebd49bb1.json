@@ -1,0 +1,16 @@
+{
+    "urlName": "maugs-helm",
+    "url": "http://aqwwiki.wikidot.com/maugs-helm",
+    "name": "Maugs Helm",
+    "type": "helmets_&_hoods",
+    "description": "The great beast has awakened\u2026 the dragon awaits! But one does not simply SLAY Maughs\u2026 one must defeat him honorably.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/maugs-helm/MaugsHelm.png"
+    ],
+    "hash": "b344a9e18155c288269bda39ebd49bb1"
+}

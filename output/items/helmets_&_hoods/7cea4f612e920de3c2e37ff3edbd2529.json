@@ -1,0 +1,15 @@
+{
+    "urlName": "devoid-swoop-magitech-visor",
+    "url": "http://aqwwiki.wikidot.com/devoid-swoop-magitech-visor",
+    "name": "Devoid Swoop Magitech Visor",
+    "type": "helmets_&_hoods",
+    "description": "A full armament of contraband Magitech headgear, straight from the black market. Can also be used as a Halloween mask in a pinch.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/devoid-swoop-magitech-visor/DevoidSwoopMagitechVisor.png"
+    ],
+    "hash": "7cea4f612e920de3c2e37ff3edbd2529"
+}

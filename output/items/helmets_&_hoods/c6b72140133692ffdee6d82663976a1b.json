@@ -1,0 +1,16 @@
+{
+    "urlName": "v2-visor",
+    "url": "http://aqwwiki.wikidot.com/v2-visor",
+    "name": "V2 Visor",
+    "type": "helmets_&_hoods",
+    "description": "The V2 visor recognizes heat signature and area's of magical concentraion, insuring that nothign escapes your gaze.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/v2-visor/V2Visor.png"
+    ],
+    "hash": "c6b72140133692ffdee6d82663976a1b"
+}

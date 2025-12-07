@@ -1,0 +1,16 @@
+{
+    "urlName": "doomknight-tricorn",
+    "url": "http://aqwwiki.wikidot.com/doomknight-tricorn",
+    "name": "DoomKnight Tricorn",
+    "type": "helmets_&_hoods",
+    "description": "Walk down the street in a hat like that, you're not afraid of anything.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doomknight-tricorn/DoomknightTricorn.png"
+    ],
+    "hash": "b09cf00e77a6f6d1738936409d9a92c1"
+}

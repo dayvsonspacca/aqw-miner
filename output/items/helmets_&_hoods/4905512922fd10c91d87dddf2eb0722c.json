@@ -1,0 +1,17 @@
+{
+    "urlName": "necromancer-fiend-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/necromancer-fiend-helm-ac",
+    "name": "Necromancer Fiend Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Embrace your inner beast.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necromancer-fiend-helm-ac/NecromancerFiendHelmN.png",
+        "http://aqwwiki.wdfiles.com/local--files/necromancer-fiend-helm-ac/NecromancerFiendHelmO.png"
+    ],
+    "hash": "4905512922fd10c91d87dddf2eb0722c"
+}

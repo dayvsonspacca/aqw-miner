@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-good-evil",
+    "url": "http://aqwwiki.wikidot.com/helm-of-good-evil",
+    "name": "Helm of Good & Evil",
+    "type": "helmets_&_hoods",
+    "description": "The fight between Good and Evil is never more apparent than when it takes over your entire being. Which way do you lean?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/e38cfMk.png"
+    ],
+    "hash": "b8aeb541fc56b23b704fb2b90b2a2483"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-sacrificer-helm",
+    "url": "http://aqwwiki.wikidot.com/underworld-sacrificer-helm",
+    "name": "Underworld Sacrificer Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Underworld Sacrificers see the realm of the dead as the heart of the Black Sun - the origin of all souls. By flooding it with blood, the Black Sun will awaken and rule the stars.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/c3UVEvY.png"
+    ],
+    "hash": "2b52a6d4fc4e52e0a6a2148968d6a230"
+}

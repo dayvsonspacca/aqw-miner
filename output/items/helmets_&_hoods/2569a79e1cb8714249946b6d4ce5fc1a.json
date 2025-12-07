@@ -1,0 +1,16 @@
+{
+    "urlName": "mystic-caster-hat",
+    "url": "http://aqwwiki.wikidot.com/mystic-caster-hat",
+    "name": "Mystic Caster Hat",
+    "type": "helmets_&_hoods",
+    "description": "Witch helm would you like? Oh, this one? Spooktacular choice!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mystic-caster-hat/MysticCasterHat.png"
+    ],
+    "hash": "2569a79e1cb8714249946b6d4ce5fc1a"
+}

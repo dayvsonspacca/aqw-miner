@@ -1,0 +1,17 @@
+{
+    "urlName": "underworld-cryocaster-mask-morph",
+    "url": "http://aqwwiki.wikidot.com/underworld-cryocaster-mask-morph",
+    "name": "Underworld CryoCaster Mask Morph",
+    "type": "helmets_&_hoods",
+    "description": "These casters are submerged in the painfully frigid waters of the River Cocytus in order to sharpen their ice magic. The weak never make it back to shore.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/bOURvYQ.png",
+        "https://imgur.com/mE5lSVN.png"
+    ],
+    "hash": "1bc363ebb98543c04e4e6c2756a24c67"
+}

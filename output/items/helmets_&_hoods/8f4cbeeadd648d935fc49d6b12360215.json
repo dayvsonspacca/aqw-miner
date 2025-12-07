@@ -1,0 +1,16 @@
+{
+    "urlName": "thunderhead-helm",
+    "url": "http://aqwwiki.wikidot.com/thunderhead-helm",
+    "name": "Thunderhead Helm",
+    "type": "helmets_&_hoods",
+    "description": "You'll look as ferocious as the storms breaking over Thunderforge when you equip this helm!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/thunderhead-helm/ThunderheadHelm.png"
+    ],
+    "hash": "8f4cbeeadd648d935fc49d6b12360215"
+}

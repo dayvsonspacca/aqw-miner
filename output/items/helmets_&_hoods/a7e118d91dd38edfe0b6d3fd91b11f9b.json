@@ -1,0 +1,16 @@
+{
+    "urlName": "pomegranate-locks",
+    "url": "http://aqwwiki.wikidot.com/pomegranate-locks",
+    "name": "Pomegranate Locks",
+    "type": "helmets_&_hoods",
+    "description": "A little twist on the top hat.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ommjJg5.png"
+    ],
+    "hash": "a7e118d91dd38edfe0b6d3fd91b11f9b"
+}

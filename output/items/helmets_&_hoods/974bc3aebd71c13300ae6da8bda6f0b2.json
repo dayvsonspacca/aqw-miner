@@ -1,0 +1,15 @@
+{
+    "urlName": "mammoth-helm",
+    "url": "http://aqwwiki.wikidot.com/mammoth-helm",
+    "name": "Mammoth Helm",
+    "type": "helmets_&_hoods",
+    "description": "An official Muenster Monsters helm you scored for yourself! Just replace the cheese after a while, okay?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/wJXpVsB.png"
+    ],
+    "hash": "974bc3aebd71c13300ae6da8bda6f0b2"
+}

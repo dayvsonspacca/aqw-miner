@@ -1,0 +1,16 @@
+{
+    "urlName": "brain-in-a-jar-helm",
+    "url": "http://aqwwiki.wikidot.com/brain-in-a-jar-helm",
+    "name": "Brain In A Jar Helm",
+    "type": "helmets_&_hoods",
+    "description": "A good question is, \"whose brain IS this?\" A better question is\u2026 \"why am I wearing it on MY head!?\"",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yIimWA1.png"
+    ],
+    "hash": "cfcc4a56f8512cc02ea9e3d437090c25"
+}

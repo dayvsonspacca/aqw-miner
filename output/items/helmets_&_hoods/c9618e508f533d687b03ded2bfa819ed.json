@@ -1,0 +1,15 @@
+{
+    "urlName": "void-ripper-helm",
+    "url": "http://aqwwiki.wikidot.com/void-ripper-helm",
+    "name": "Void Ripper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Those who serve the will of the Archfiend will always be rewarded.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/raJoGic.png"
+    ],
+    "hash": "c9618e508f533d687b03ded2bfa819ed"
+}

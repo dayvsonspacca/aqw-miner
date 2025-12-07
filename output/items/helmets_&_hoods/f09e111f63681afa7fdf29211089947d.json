@@ -1,0 +1,16 @@
+{
+    "urlName": "brotherhood-of-skulls-helm",
+    "url": "http://aqwwiki.wikidot.com/brotherhood-of-skulls-helm",
+    "name": "Brotherhood of Skulls Helm",
+    "type": "helmets_&_hoods",
+    "description": "You look a bit red in the face.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/6db2VjJ.png"
+    ],
+    "hash": "f09e111f63681afa7fdf29211089947d"
+}

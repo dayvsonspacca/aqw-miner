@@ -1,0 +1,15 @@
+{
+    "urlName": "drakonus-helm",
+    "url": "http://aqwwiki.wikidot.com/drakonus-helm",
+    "name": "Drakonus Helm",
+    "type": "helmets_&_hoods",
+    "description": "A protective helm once worn by ancient Quantum Mages. Inspired by the player Drakonus.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/YehwHeT.png"
+    ],
+    "hash": "2f423b3de78cbbca6dab6eefa1a3813d"
+}

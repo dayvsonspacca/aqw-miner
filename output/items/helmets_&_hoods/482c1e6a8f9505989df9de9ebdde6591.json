@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-auril-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-auril-helm",
+    "name": "Dark Auril Helm",
+    "type": "helmets_&_hoods",
+    "description": "Dark panda morph - if you're stuck in panda form, you might as well match!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-auril-helm/DarkAurilHelm.png"
+    ],
+    "hash": "482c1e6a8f9505989df9de9ebdde6591"
+}

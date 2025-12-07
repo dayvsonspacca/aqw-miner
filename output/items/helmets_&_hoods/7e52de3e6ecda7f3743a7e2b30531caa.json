@@ -1,0 +1,16 @@
+{
+    "urlName": "flaming-jack-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/flaming-jack-helm-ac",
+    "name": "Flaming Jack Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Well, that's one way to make a jack-o'-lantern\u2026 (This item will return every Halloween.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/z52n3fx.png"
+    ],
+    "hash": "7e52de3e6ecda7f3743a7e2b30531caa"
+}

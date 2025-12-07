@@ -1,0 +1,16 @@
+{
+    "urlName": "lightning-pirate-s-locks",
+    "url": "http://aqwwiki.wikidot.com/lightning-pirate-s-locks",
+    "name": "Lightning Pirate's Locks",
+    "type": "helmets_&_hoods",
+    "description": "When ye sail the seas, ye get the storms. Lightnin' crashes and suddenly yer electric!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/2VJsCNS.png"
+    ],
+    "hash": "70f1515bb80e4aeedf03beac46c352da"
+}

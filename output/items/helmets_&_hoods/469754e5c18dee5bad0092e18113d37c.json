@@ -1,0 +1,13 @@
+{
+    "urlName": "metalhead",
+    "url": "http://aqwwiki.wikidot.com/metalhead",
+    "name": "MetalHead",
+    "type": "helmets_&_hoods",
+    "description": "An iron mask - found deep in a dungeon, no one knows who forged them, or why.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/0HEGGAL.png"
+    ],
+    "hash": "469754e5c18dee5bad0092e18113d37c"
+}

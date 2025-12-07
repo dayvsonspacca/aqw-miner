@@ -1,0 +1,16 @@
+{
+    "urlName": "nebula-dragonslayer-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/nebula-dragonslayer-helm-ac",
+    "name": "Nebula Dragonslayer Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Whether we chase the dragons to the stars or they hunt us to the ends of the galaxy, we'll need a way to breathe outside the atmosphere.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/AdBNfXe.png"
+    ],
+    "hash": "6b55e4a88729d4c2c9000790a66d4fc6"
+}

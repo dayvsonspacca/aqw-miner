@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-lass-tophat",
+    "url": "http://aqwwiki.wikidot.com/arcane-lass-tophat",
+    "name": "Arcane Lass Tophat",
+    "type": "helmets_&_hoods",
+    "description": "The elegance of using mana as an art tool lives on in the world of privacy. The borders around the helm glow in the dark, Illuminating a clearer path in a pitch black night.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/arcane-lass-tophat/ArcaneLassTophat.png"
+    ],
+    "hash": "3108e3886ab474291e6ef20effeacbf8"
+}

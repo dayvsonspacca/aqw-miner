@@ -1,0 +1,16 @@
+{
+    "urlName": "sir-roderick-s-helm",
+    "url": "http://aqwwiki.wikidot.com/sir-roderick-s-helm",
+    "name": "Sir Roderick's Helm",
+    "type": "helmets_&_hoods",
+    "description": "The helm of the brutal Sir Roderick, the Darkest Knight. Crafted to strike fear into his opponents on the field of combat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sir-roderick-s-helm/SirRoderick'sHelm.png"
+    ],
+    "hash": "2dd69f9a23071d7b2154377db2c1e75f"
+}

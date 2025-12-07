@@ -1,0 +1,16 @@
+{
+    "urlName": "ashen-helm-of-fury",
+    "url": "http://aqwwiki.wikidot.com/ashen-helm-of-fury",
+    "name": "Ashen Helm of Fury",
+    "type": "helmets_&_hoods",
+    "description": "Let's hope this doesn't cloud your vision.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ashen-helm-of-fury/AshenHelmofFury.png"
+    ],
+    "hash": "0185683dbbb87a4a7206b5a36658e523"
+}

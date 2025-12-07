@@ -1,0 +1,16 @@
+{
+    "urlName": "gifthunter-s-hat",
+    "url": "http://aqwwiki.wikidot.com/gifthunter-s-hat",
+    "name": "GiftHunter's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Dashing through the snow, giving gifts to one and all.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/KDDQZQc.png"
+    ],
+    "hash": "e57a08a5b40095d96fffbf3fe35427fa"
+}

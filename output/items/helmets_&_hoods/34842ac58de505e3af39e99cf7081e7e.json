@@ -1,0 +1,17 @@
+{
+    "urlName": "animated-radioactive-wanderer",
+    "url": "http://aqwwiki.wikidot.com/animated-radioactive-wanderer",
+    "name": "Animated Radioactive Wanderer",
+    "type": "helmets_&_hoods",
+    "description": "See that glow? That's nuclear. Warning, not responsible if you turn into a giant radioactive mutant.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/rXX8kys.png",
+        "https://i.imgur.com/PgIro0w.png"
+    ],
+    "hash": "34842ac58de505e3af39e99cf7081e7e"
+}

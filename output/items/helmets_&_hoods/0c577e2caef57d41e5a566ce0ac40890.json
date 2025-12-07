@@ -1,0 +1,16 @@
+{
+    "urlName": "high-galactic-mage-hood",
+    "url": "http://aqwwiki.wikidot.com/high-galactic-mage-hood",
+    "name": "High Galactic Mage Hood",
+    "type": "helmets_&_hoods",
+    "description": "This hood will cover you as you go on many adventures, it's up to you to decide which path to take.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/high-galactic-mage-hood/HighGalacticMageHood.png"
+    ],
+    "hash": "0c577e2caef57d41e5a566ce0ac40890"
+}

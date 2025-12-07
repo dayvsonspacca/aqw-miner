@@ -1,0 +1,16 @@
+{
+    "urlName": "minotiger-morph-helm",
+    "url": "http://aqwwiki.wikidot.com/minotiger-morph-helm",
+    "name": "Minotiger Morph Helm",
+    "type": "helmets_&_hoods",
+    "description": "With the head of a tiger and the horns of a bull, you're bound to get noticed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/minotiger-morph-helm/MinotigerMorphHelm.png"
+    ],
+    "hash": "36d0c976db375a339a714db353e68066"
+}

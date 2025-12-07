@@ -1,0 +1,16 @@
+{
+    "urlName": "necrotic-deathday-helm",
+    "url": "http://aqwwiki.wikidot.com/necrotic-deathday-helm",
+    "name": "Necrotic Deathday Helm",
+    "type": "helmets_&_hoods",
+    "description": "A devious helm crafted for the Dark Lord of the Undead Legion's birthday. Although\u2026those who are undead don't exactly celebrate their birthdays anymore\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necrotic-deathday-helm/NDH.png"
+    ],
+    "hash": "49c8a896aa9bb70df4bc7a6febeb3c78"
+}

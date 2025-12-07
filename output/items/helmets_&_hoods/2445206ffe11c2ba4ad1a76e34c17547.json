@@ -1,0 +1,15 @@
+{
+    "urlName": "tidal-crest-helm",
+    "url": "http://aqwwiki.wikidot.com/tidal-crest-helm",
+    "name": "Tidal Crest Helm",
+    "type": "helmets_&_hoods",
+    "description": "Drown your foe all the way to Davy Jones.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/etiwkPH.jpg*"
+    ],
+    "hash": "2445206ffe11c2ba4ad1a76e34c17547"
+}

@@ -1,0 +1,13 @@
+{
+    "urlName": "cerberus-helm",
+    "url": "http://aqwwiki.wikidot.com/cerberus-helm",
+    "name": "Cerberus Helm",
+    "type": "helmets_&_hoods",
+    "description": "The bestial guardian of the Underworld, Cerberus calls no man master. If you want your enemies to keep their distance, use the Helm of Cerberus!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/KgG36vz.png"
+    ],
+    "hash": "9c493e79c0e050ccc33f0a5da68e21cf"
+}

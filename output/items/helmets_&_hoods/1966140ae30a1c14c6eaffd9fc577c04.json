@@ -1,0 +1,13 @@
+{
+    "urlName": "pyromancer-artifact",
+    "url": "http://aqwwiki.wikidot.com/pyromancer-artifact",
+    "name": "Pyromancer Artifact",
+    "type": "helmets_&_hoods",
+    "description": "You have recovered an ancient pyromantic artifact. Wearing this searing helm could unlock pyromancer secrets in your mind or burn away your sanity.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/el8YazK.png"
+    ],
+    "hash": "1966140ae30a1c14c6eaffd9fc577c04"
+}

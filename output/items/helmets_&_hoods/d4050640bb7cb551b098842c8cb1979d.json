@@ -1,0 +1,16 @@
+{
+    "urlName": "chill-hat-hair",
+    "url": "http://aqwwiki.wikidot.com/chill-hat-hair",
+    "name": "Chill Hat + Hair",
+    "type": "helmets_&_hoods",
+    "description": "Are you up to something? Nah, you're just chilling.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BqNWvsq.png"
+    ],
+    "hash": "d4050640bb7cb551b098842c8cb1979d"
+}

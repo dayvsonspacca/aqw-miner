@@ -1,0 +1,15 @@
+{
+    "urlName": "vaden-s-helm",
+    "url": "http://aqwwiki.wikidot.com/vaden-s-helm",
+    "name": "Vaden's Helm",
+    "type": "helmets_&_hoods",
+    "description": "A version of Vaden's Helm. It's not exactly like his, but close enough!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/58SgyQq.png"
+    ],
+    "hash": "e04d1c160e40ebbf85546219c9b3457e"
+}

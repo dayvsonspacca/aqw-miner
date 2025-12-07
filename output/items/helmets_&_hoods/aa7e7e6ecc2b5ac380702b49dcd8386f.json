@@ -1,0 +1,16 @@
+{
+    "urlName": "void-champion-locks",
+    "url": "http://aqwwiki.wikidot.com/void-champion-locks",
+    "name": "Void Champion Locks",
+    "type": "helmets_&_hoods",
+    "description": "You see stylish horns. I see the marks of a dragon.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-champion-locks/VoidChampionLocks.png"
+    ],
+    "hash": "aa7e7e6ecc2b5ac380702b49dcd8386f"
+}

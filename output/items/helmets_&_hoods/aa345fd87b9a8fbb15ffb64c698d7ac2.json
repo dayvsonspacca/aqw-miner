@@ -1,0 +1,16 @@
+{
+    "urlName": "autumnal-locks",
+    "url": "http://aqwwiki.wikidot.com/autumnal-locks",
+    "name": "Autumnal Locks",
+    "type": "helmets_&_hoods",
+    "description": "Suddenly, the urge to collect acorns and roast chestnuts takes over completely.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/WpP1nOc.png"
+    ],
+    "hash": "aa345fd87b9a8fbb15ffb64c698d7ac2"
+}

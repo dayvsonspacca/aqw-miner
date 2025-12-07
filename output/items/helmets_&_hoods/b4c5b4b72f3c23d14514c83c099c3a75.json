@@ -1,0 +1,15 @@
+{
+    "urlName": "plumed-dragonberserker-helm",
+    "url": "http://aqwwiki.wikidot.com/plumed-dragonberserker-helm",
+    "name": "Plumed DragonBerserker Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm has a wilder look. It lets other Dragonlords know that the wearer spends too much time with their Dragon, and eats with their bare hands.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/GnfzTFg.png"
+    ],
+    "hash": "b4c5b4b72f3c23d14514c83c099c3a75"
+}

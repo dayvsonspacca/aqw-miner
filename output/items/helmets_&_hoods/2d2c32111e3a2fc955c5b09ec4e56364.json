@@ -1,0 +1,16 @@
+{
+    "urlName": "prismodian-guard-helm",
+    "url": "http://aqwwiki.wikidot.com/prismodian-guard-helm",
+    "name": "Prismodian Guard Helm",
+    "type": "helmets_&_hoods",
+    "description": "The colorfully elite unit of the Shadowscythe Army, used mostly for guarding VIPs or putting down rebellions.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Qh4XjD2.png"
+    ],
+    "hash": "2d2c32111e3a2fc955c5b09ec4e56364"
+}

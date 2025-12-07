@@ -1,0 +1,16 @@
+{
+    "urlName": "yguazu-helm",
+    "url": "http://aqwwiki.wikidot.com/yguazu-helm",
+    "name": "Yguazu Helm",
+    "type": "helmets_&_hoods",
+    "description": "Meant for protection, and to pay respect to the gods. It's believed that the mask's materials were made from the remains of one.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ii2hD6c.png"
+    ],
+    "hash": "b4b653d2d3466d0c6d40afbf648af9b4"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "evil-jack-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/evil-jack-helm-ac",
+    "name": "Evil Jack Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "All the tricks, without the treat. (This item will return every Halloween.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/xGBX7Sk.png"
+    ],
+    "hash": "1df25bdb16dbafe72981bcad26d6bc7c"
+}

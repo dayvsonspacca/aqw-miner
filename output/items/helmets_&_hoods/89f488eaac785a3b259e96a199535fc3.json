@@ -1,0 +1,15 @@
+{
+    "urlName": "gardener-bun",
+    "url": "http://aqwwiki.wikidot.com/gardener-bun",
+    "name": "Gardener Bun",
+    "type": "helmets_&_hoods",
+    "description": "Carrots and tomatoes need elbow grease just as much as water, soil, and sun.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/0yXIMGl.png"
+    ],
+    "hash": "89f488eaac785a3b259e96a199535fc3"
+}

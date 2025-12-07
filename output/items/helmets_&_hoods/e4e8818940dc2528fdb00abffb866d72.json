@@ -1,0 +1,20 @@
+{
+    "urlName": "furred-ranger-cap",
+    "url": "http://aqwwiki.wikidot.com/furred-ranger-cap",
+    "name": "Furred Ranger Cap",
+    "type": "helmets_&_hoods",
+    "description": "A cozy whiplike fur hat is possessed by a forest ghost, but keeps the head from getting brain freeze on the outside. Also, if it sees that you are sleeping, it will wake you up with a pile of snow that it enjoys collecting as a hobby.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/furred-ranger-cap/FRC.png",
+        "http://aqwwiki.wdfiles.com/local--files/furred-ranger-cap/FRCOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/furred-ranger-cap/FRCAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/furred-ranger-cap/FRCAnimOld.png"
+    ],
+    "hash": "e4e8818940dc2528fdb00abffb866d72"
+}

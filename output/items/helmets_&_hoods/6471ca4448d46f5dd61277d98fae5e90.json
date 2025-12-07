@@ -1,0 +1,16 @@
+{
+    "urlName": "bloody-battle-gear",
+    "url": "http://aqwwiki.wikidot.com/bloody-battle-gear",
+    "name": "Bloody Battle Gear",
+    "type": "helmets_&_hoods",
+    "description": "Although it was just recently in style on Skullpunch Island, it came from a long-gone band of landlubbers that adjusted to the hardship of savagery. Thankfully, the lifestyle is no longer embraced.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bloody-battle-gear/BloodyBattleGear.png"
+    ],
+    "hash": "6471ca4448d46f5dd61277d98fae5e90"
+}

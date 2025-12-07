@@ -1,0 +1,16 @@
+{
+    "urlName": "jaunty-shorthat",
+    "url": "http://aqwwiki.wikidot.com/jaunty-shorthat",
+    "name": "Jaunty ShortHat",
+    "type": "helmets_&_hoods",
+    "description": "Don't look like a numpty and fix you hat!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/jaunty-shorthat/JSH.png"
+    ],
+    "hash": "94b94bb53c7aca94387952d38753010e"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "agent-s-morph-locks",
+    "url": "http://aqwwiki.wikidot.com/agent-s-morph-locks",
+    "name": "Agent's Morph + Locks",
+    "type": "helmets_&_hoods",
+    "description": "Keep your head in the game.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7E13aAF.png"
+    ],
+    "hash": "26c8f15b65265f71e6e9a57806a6dfdc"
+}

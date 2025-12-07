@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-gold",
+    "url": "http://aqwwiki.wikidot.com/helm-of-gold",
+    "name": "Helm of Gold",
+    "type": "helmets_&_hoods",
+    "description": "This set is 100% gold. Literally. Made out of the many gold coins you've saved up while adventuring. Talk about a status symbol!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tM0Oty9.png"
+    ],
+    "hash": "98bdeecf032bea3c485c1cedfc671ce3"
+}

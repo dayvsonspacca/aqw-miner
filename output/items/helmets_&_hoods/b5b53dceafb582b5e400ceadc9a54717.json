@@ -1,0 +1,13 @@
+{
+    "urlName": "ledge-head",
+    "url": "http://aqwwiki.wikidot.com/ledge-head",
+    "name": "Ledge Head",
+    "type": "helmets_&_hoods",
+    "description": "Using some of Ledgermayne's leftover mana, you create an illusion spell to make your head looks like Ledgermayne's! Unfortunately, it turns your vision pink. Is that a bad thing?",
+    "rarity": "Boss Drop Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/gvAezMf.png"
+    ],
+    "hash": "b5b53dceafb582b5e400ceadc9a54717"
+}

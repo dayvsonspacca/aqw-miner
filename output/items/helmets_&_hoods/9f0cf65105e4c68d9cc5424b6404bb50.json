@@ -1,0 +1,15 @@
+{
+    "urlName": "water-snake-helm",
+    "url": "http://aqwwiki.wikidot.com/water-snake-helm",
+    "name": "Water Snake Helm",
+    "type": "helmets_&_hoods",
+    "description": "*No description*",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/water-snake-helm/WaterSnakeHelm.png"
+    ],
+    "hash": "9f0cf65105e4c68d9cc5424b6404bb50"
+}

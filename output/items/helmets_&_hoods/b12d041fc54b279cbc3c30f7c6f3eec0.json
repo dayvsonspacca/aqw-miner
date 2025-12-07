@@ -1,0 +1,17 @@
+{
+    "urlName": "male-seeker-s-helm",
+    "url": "http://aqwwiki.wikidot.com/male-seeker-s-helm",
+    "name": "Male Seeker's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Those who seek order are those pure of body, soul, and mind.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/male-seeker-s-helm/MaleSeeker'sHelm.png"
+    ],
+    "hash": "b12d041fc54b279cbc3c30f7c6f3eec0"
+}

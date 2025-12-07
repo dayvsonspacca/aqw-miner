@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-vokun",
+    "url": "http://aqwwiki.wikidot.com/helm-of-vokun",
+    "name": "Helm of Vokun",
+    "type": "helmets_&_hoods",
+    "description": "After leaving the fallen Forgotten Tombs, Vokun constructed a helm strong enough to withstand any and all incoming attacks. The newly formed helm will protect the dark lord from any danger that he may face during his travels.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-vokun/HelmofVokun.png"
+    ],
+    "hash": "34ac03bf7ba13b7d073c1414f9dd4ffb"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "lich-helm",
+    "url": "http://aqwwiki.wikidot.com/lich-helm",
+    "name": "Lich Helm",
+    "type": "helmets_&_hoods",
+    "description": "Everyone be like, \"Lich please, you look fabulous\".",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lich-helm/LichHelm.png"
+    ],
+    "hash": "72395923d292f3cd8a747e2a9fbd6def"
+}

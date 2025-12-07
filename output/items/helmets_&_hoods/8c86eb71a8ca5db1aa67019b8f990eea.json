@@ -1,0 +1,16 @@
+{
+    "urlName": "noble-arcanist-locks",
+    "url": "http://aqwwiki.wikidot.com/noble-arcanist-locks",
+    "name": "Noble Arcanist Locks",
+    "type": "helmets_&_hoods",
+    "description": "The halls of Swordhaven whisper with the remnants of the spells you weave.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/noble-arcanist-locks/NobleArcanistLocks.png"
+    ],
+    "hash": "8c86eb71a8ca5db1aa67019b8f990eea"
+}

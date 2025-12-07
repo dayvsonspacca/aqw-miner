@@ -1,0 +1,16 @@
+{
+    "urlName": "icebreaker-helm",
+    "url": "http://aqwwiki.wikidot.com/icebreaker-helm",
+    "name": "IceBreaker Helm",
+    "type": "helmets_&_hoods",
+    "description": "Only a warrior that stays true to their cause shall don this helm, which will protect them from the bitterness of the cold.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/icebreaker-helm/IH.png"
+    ],
+    "hash": "92f9e2b5197b53db3ff797b18ea7da97"
+}

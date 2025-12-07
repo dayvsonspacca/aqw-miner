@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowfire-skull",
+    "url": "http://aqwwiki.wikidot.com/shadowfire-skull",
+    "name": "Shadowfire Skull",
+    "type": "helmets_&_hoods",
+    "description": "These helms were made and worn by the warrior monks of the Shadowfire, an elite cadre of scythe wielding troops that excelled in espionage and guerilla warfare.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowfire-skull/ShadowfireSkull.png"
+    ],
+    "hash": "d3d77040da0312a833189d6eb4d9031c"
+}

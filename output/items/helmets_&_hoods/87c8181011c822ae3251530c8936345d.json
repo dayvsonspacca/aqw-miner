@@ -1,0 +1,17 @@
+{
+    "urlName": "mer-unit-operator-visage",
+    "url": "http://aqwwiki.wikidot.com/mer-unit-operator-visage",
+    "name": "Mer-Unit Operator Visage",
+    "type": "helmets_&_hoods",
+    "description": "Hunting sea leviathans is a profession that's high in demand, and incredibly dangerous. The current tech isn't enough. Some resort to genetic modification to acquire shark-like attributes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UqRazRW.png"
+    ],
+    "hash": "87c8181011c822ae3251530c8936345d"
+}

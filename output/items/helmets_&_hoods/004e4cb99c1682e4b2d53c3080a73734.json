@@ -1,0 +1,17 @@
+{
+    "urlName": "snow-globe-helm",
+    "url": "http://aqwwiki.wikidot.com/snow-globe-helm",
+    "name": "Snow Globe Helm",
+    "type": "helmets_&_hoods",
+    "description": "The perfect helm for those who love snow globes as much as Garaja. Be careful: it's fragile!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/yc699RS.png",
+        "https://i.imgur.com/OxJlAl5.png"
+    ],
+    "hash": "004e4cb99c1682e4b2d53c3080a73734"
+}

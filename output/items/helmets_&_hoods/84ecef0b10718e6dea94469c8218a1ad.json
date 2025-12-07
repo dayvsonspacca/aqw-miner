@@ -1,0 +1,16 @@
+{
+    "urlName": "hexosuit-hat",
+    "url": "http://aqwwiki.wikidot.com/hexosuit-hat",
+    "name": "Hexosuit Hat",
+    "type": "helmets_&_hoods",
+    "description": "Magitech Mages are known for having the most intimidating stare.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/DDnRhEZ.png"
+    ],
+    "hash": "84ecef0b10718e6dea94469c8218a1ad"
+}

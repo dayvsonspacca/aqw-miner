@@ -1,0 +1,16 @@
+{
+    "urlName": "oathkeeper-cowl",
+    "url": "http://aqwwiki.wikidot.com/oathkeeper-cowl",
+    "name": "OathKeeper Cowl",
+    "type": "helmets_&_hoods",
+    "description": "There's no reason for those horns to be there. Dage thought that they looked cool, so he jammed them onto the finished product. In his defense, it DOES look pretty cool.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oathkeeper-cowl/OathKeeperCowl.png"
+    ],
+    "hash": "515befc4da6fb45f9685111f4d429473"
+}

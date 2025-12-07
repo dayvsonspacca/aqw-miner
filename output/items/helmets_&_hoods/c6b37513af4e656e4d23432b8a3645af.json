@@ -1,0 +1,16 @@
+{
+    "urlName": "moglin-self-helm",
+    "url": "http://aqwwiki.wikidot.com/moglin-self-helm",
+    "name": "Moglin Self Helm",
+    "type": "helmets_&_hoods",
+    "description": "After the Embero Spell was cast, it was revealed that your true inner form is that of magical moglin! You possess the capacity for loyalty, skill at healing and magic, and a nature which can be trusted (whether it should be or not).",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/qDfHK0O.png",
+        "http://i.imgur.com/BazAtG1.png"
+    ],
+    "hash": "c6b37513af4e656e4d23432b8a3645af"
+}

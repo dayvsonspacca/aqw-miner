@@ -1,0 +1,16 @@
+{
+    "urlName": "turkey-avenger-helm",
+    "url": "http://aqwwiki.wikidot.com/turkey-avenger-helm",
+    "name": "Turkey Avenger Helm",
+    "type": "helmets_&_hoods",
+    "description": "Turkeys can't exactly fly yet their beaks always manage to reach the eyes somehow. Charge at your foes with the same tenacity!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/BW7ilC1.png"
+    ],
+    "hash": "f34e3a734da080e676a12df3eb09867a"
+}

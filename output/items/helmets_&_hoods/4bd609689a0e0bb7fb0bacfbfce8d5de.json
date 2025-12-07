@@ -1,0 +1,17 @@
+{
+    "urlName": "dark-seas-hat",
+    "url": "http://aqwwiki.wikidot.com/dark-seas-hat",
+    "name": "Dark Seas Hat",
+    "type": "helmets_&_hoods",
+    "description": "A savvy hat for every well dressed pirate on the open seas. They'll be no denying your bounty from your enemies when they see these threads.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-seas-hat/DSHat.png"
+    ],
+    "hash": "4bd609689a0e0bb7fb0bacfbfce8d5de"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "mer-unit-operator-morph",
+    "url": "http://aqwwiki.wikidot.com/mer-unit-operator-morph",
+    "name": "Mer-Unit Operator Morph",
+    "type": "helmets_&_hoods",
+    "description": "Hunting sea leviathans is a profession that's high in demand, and incredibly dangerous. The current tech isn't enough. Some resort to genetic modification to acquire shark-like attributes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QwIFpof.png"
+    ],
+    "hash": "d693614884ba3ddbb86b4e780687d3da"
+}

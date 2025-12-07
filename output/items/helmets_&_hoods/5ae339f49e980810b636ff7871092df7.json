@@ -1,0 +1,16 @@
+{
+    "urlName": "colorless-pumpkin-helm",
+    "url": "http://aqwwiki.wikidot.com/colorless-pumpkin-helm",
+    "name": "Colorless Pumpkin Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm will carve your face!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/fI6cfDr.png"
+    ],
+    "hash": "5ae339f49e980810b636ff7871092df7"
+}

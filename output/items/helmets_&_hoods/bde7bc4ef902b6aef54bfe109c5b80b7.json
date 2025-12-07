@@ -1,0 +1,15 @@
+{
+    "urlName": "zep-s-hat",
+    "url": "http://aqwwiki.wikidot.com/zep-s-hat",
+    "name": "Zep's Hat",
+    "type": "helmets_&_hoods",
+    "description": "During Carnaval, everyone comes out to party! Even a certain famous lady with a delicious hat - and her dance partner!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/KcaFnHz.png"
+    ],
+    "hash": "bde7bc4ef902b6aef54bfe109c5b80b7"
+}

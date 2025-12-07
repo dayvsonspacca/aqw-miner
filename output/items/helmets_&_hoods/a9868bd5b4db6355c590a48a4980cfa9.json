@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-frostelf-helm",
+    "url": "http://aqwwiki.wikidot.com/golden-frostelf-helm",
+    "name": "Golden FrostElf Helm",
+    "type": "helmets_&_hoods",
+    "description": "The High FrostElf Kings and Queens have ruled over the frosty, frigid Northlands for millennia. This ceremonial regalia is worn for winter court audiences.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/7zCzmX9.png"
+    ],
+    "hash": "a9868bd5b4db6355c590a48a4980cfa9"
+}

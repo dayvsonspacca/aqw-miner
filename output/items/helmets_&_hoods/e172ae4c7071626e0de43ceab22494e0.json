@@ -1,0 +1,13 @@
+{
+    "urlName": "wizard-hat",
+    "url": "http://aqwwiki.wikidot.com/wizard-hat",
+    "name": "Wizard Hat",
+    "type": "helmets_&_hoods",
+    "description": "This magic hat",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/0X6BUkr.png"
+    ],
+    "hash": "e172ae4c7071626e0de43ceab22494e0"
+}

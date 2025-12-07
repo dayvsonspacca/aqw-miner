@@ -1,0 +1,15 @@
+{
+    "urlName": "shadowcats-helm",
+    "url": "http://aqwwiki.wikidot.com/shadowcats-helm",
+    "name": "Shadowcats Helm",
+    "type": "helmets_&_hoods",
+    "description": "Time to sink your claws into this game!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowcats-helm/ShadowcatsHelm.png"
+    ],
+    "hash": "651a71a5f36fe62a78875c62de352aa6"
+}

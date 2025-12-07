@@ -1,0 +1,13 @@
+{
+    "urlName": "empty-cauldron-helm",
+    "url": "http://aqwwiki.wikidot.com/empty-cauldron-helm",
+    "name": "Empty Cauldron Helm",
+    "type": "helmets_&_hoods",
+    "description": "Even though this helm was crafted from solid cast-iron, once it got a hole in it, it made a better hat than cauldron.",
+    "rarity": "Crazy Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/jhQBhp9.png"
+    ],
+    "hash": "8b1501f3ef19df131b9f6e606107b88f"
+}

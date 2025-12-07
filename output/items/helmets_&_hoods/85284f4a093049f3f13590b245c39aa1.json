@@ -1,0 +1,16 @@
+{
+    "urlName": "wretched-onyx-helmet",
+    "url": "http://aqwwiki.wikidot.com/wretched-onyx-helmet",
+    "name": "Wretched Onyx Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Even the caged need to live by their own rules! And some of us don't have time to die.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/wretched-onyx-helmet/WretchedOnyxHelmet.png"
+    ],
+    "hash": "85284f4a093049f3f13590b245c39aa1"
+}

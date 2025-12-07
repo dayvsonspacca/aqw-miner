@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-fiend-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/shadow-fiend-of-nulgath",
+    "name": "Shadow Fiend of Nulgath",
+    "type": "helmets_&_hoods",
+    "description": "The Shadow Fiends are a specialized branch of the Blood Fiends who lurk in the shadows, anticipating their enemies next move before a calculated, yet malicious strike.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-fiend-of-nulgath/SFoN.png"
+    ],
+    "hash": "6295773cdcd36744962746675cf619d4"
+}

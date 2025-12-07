@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-mime-hat",
+    "url": "http://aqwwiki.wikidot.com/dark-mime-hat",
+    "name": "Dark Mime Hat",
+    "type": "helmets_&_hoods",
+    "description": "You'll be the Life of all undead parties with you trapped in a box routine",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-mime-hat/DMhat.png"
+    ],
+    "hash": "57e2138f69260dba185f098f2e1ca0b2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "sheng-chi-mask",
+    "url": "http://aqwwiki.wikidot.com/sheng-chi-mask",
+    "name": "Sheng Chi Mask",
+    "type": "helmets_&_hoods",
+    "description": "Alas, there's no place to drink your Chai tea in this Sheng Chi mask!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sheng-chi-mask/ShengChiMask.png"
+    ],
+    "hash": "e06fffec2169be9a3aa2be7ffbb6ea7b"
+}

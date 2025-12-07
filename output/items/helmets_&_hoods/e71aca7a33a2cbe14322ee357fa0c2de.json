@@ -1,0 +1,18 @@
+{
+    "urlName": "tarandus-battle-helm",
+    "url": "http://aqwwiki.wikidot.com/tarandus-battle-helm",
+    "name": "Tarandus Battle Helm",
+    "type": "helmets_&_hoods",
+    "description": "The greatest of the Tarandus warriors is said to be the crimson nosed Rudox. The helm is fashioned after his description.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/BrZ5POU.png"
+    ],
+    "hash": "e71aca7a33a2cbe14322ee357fa0c2de"
+}

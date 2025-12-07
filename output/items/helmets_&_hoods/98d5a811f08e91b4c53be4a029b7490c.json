@@ -1,0 +1,17 @@
+{
+    "urlName": "deathrider-skull-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/deathrider-skull-helm-ac",
+    "name": "DeathRider Skull (Helm) (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Death Riders are bad to their bones. Now get out there and smash some skulls. (This item has",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Iuck5Vl.png",
+        "http://aqwwiki.wdfiles.com/local--files/deathrider-skull-helm-ac/DeathRiderSkull.png"
+    ],
+    "hash": "98d5a811f08e91b4c53be4a029b7490c"
+}

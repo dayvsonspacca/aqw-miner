@@ -1,0 +1,16 @@
+{
+    "urlName": "knight-armet",
+    "url": "http://aqwwiki.wikidot.com/knight-armet",
+    "name": "Knight Armet",
+    "type": "helmets_&_hoods",
+    "description": "The classic knight, straight out of a fairy tale or chivalric legend, are hard to come by these days.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Rtg7bdV.png"
+    ],
+    "hash": "a55f1a305f9024a5952feadb1110b418"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "mechanical-tricorn",
+    "url": "http://aqwwiki.wikidot.com/mechanical-tricorn",
+    "name": "Mechanical Tricorn",
+    "type": "helmets_&_hoods",
+    "description": "Red is traditional among noblemen in Ruwa Village. Admirals there believe that sailors who wear the color red are more recognizable at sea should they be pulled away during storms. It's good for their allies, but they make easy targets. Whoops.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mechanical-tricorn/MechanicalTricorn.png"
+    ],
+    "hash": "3a73eb01f9d8407ab365a8e4c6debc73"
+}

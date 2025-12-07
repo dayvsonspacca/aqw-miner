@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-the-highlord",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-highlord",
+    "name": "Helm of the Highlord",
+    "type": "helmets_&_hoods",
+    "description": "The cries of foes who fell to the hands of Void Highlords echo through this helmet's history of slaughter",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/Izk7NpV.png",
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-the-highlord/HotHOld.png"
+    ],
+    "hash": "4c204cb467b29cb2dc1608ce3392df1c"
+}

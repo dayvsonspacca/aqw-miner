@@ -1,0 +1,16 @@
+{
+    "urlName": "bearded-crimson-helm",
+    "url": "http://aqwwiki.wikidot.com/bearded-crimson-helm",
+    "name": "Bearded Crimson Helm",
+    "type": "helmets_&_hoods",
+    "description": "The undaunted courage of a Crimson Knight is not something fit for everyone.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bearded-crimson-helm/BeardedCrimsonHelm.png"
+    ],
+    "hash": "1320dd727d9ab90f80e5ce76a1275673"
+}

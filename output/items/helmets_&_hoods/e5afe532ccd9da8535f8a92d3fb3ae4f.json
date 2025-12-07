@@ -1,0 +1,13 @@
+{
+    "urlName": "undead-helm",
+    "url": "http://aqwwiki.wikidot.com/undead-helm",
+    "name": "Undead Helm",
+    "type": "helmets_&_hoods",
+    "description": "The basic helm of the undead Soldier",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/JQuD30e.png"
+    ],
+    "hash": "e5afe532ccd9da8535f8a92d3fb3ae4f"
+}

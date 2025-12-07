@@ -1,0 +1,16 @@
+{
+    "urlName": "undead-legacy-helm",
+    "url": "http://aqwwiki.wikidot.com/undead-legacy-helm",
+    "name": "Undead Legacy Helm",
+    "type": "helmets_&_hoods",
+    "description": "A gift given to those who live\u2026 up to Dage's expectations.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/undead-legacy-helm/UndeadLegacyHelm.png"
+    ],
+    "hash": "d87028040278e61c3d6b974a69bb6054"
+}

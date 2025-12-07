@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-commander-helm",
+    "url": "http://aqwwiki.wikidot.com/skyguard-commander-helm",
+    "name": "Skyguard Commander Helm",
+    "type": "helmets_&_hoods",
+    "description": "The ultimate helm for the highest ranking Skyguard knights. When one of these is spotted on the battlefield, all but the most vile of villains turn tail and run. Go forth and defend Lore in King Alteon's name.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skyguard-commander-helm/SCH.png"
+    ],
+    "hash": "923c60cb21573c0df53f11ff072a2101"
+}

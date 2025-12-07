@@ -1,0 +1,16 @@
+{
+    "urlName": "legendary-member-helm",
+    "url": "http://aqwwiki.wikidot.com/legendary-member-helm",
+    "name": "Legendary Member Helm",
+    "type": "helmets_&_hoods",
+    "description": "This item, featuring the Membership symbol, will show the world that you have supported AdventureQuest Worlds. Thank you for being legendary!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/friRqVS.png"
+    ],
+    "hash": "97389cb317bf862616d99e5817869dc1"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "skyguard-rockethelm",
+    "url": "http://aqwwiki.wikidot.com/skyguard-rockethelm",
+    "name": "Skyguard Rockethelm",
+    "type": "helmets_&_hoods",
+    "description": "In case of emergency aboard a Skyguard vessel, equip this helm. It's sleek aerodynamic design will allow you to slightly change the direction of your fall to aim for something less hard then the other things around it.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skyguard-rockethelm/SkyguardRockethelm.png"
+    ],
+    "hash": "7589651c683feea21aa40783d341f7bd"
+}

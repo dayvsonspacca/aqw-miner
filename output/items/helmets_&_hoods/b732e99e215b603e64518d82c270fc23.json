@@ -1,0 +1,15 @@
+{
+    "urlName": "fjord-visor",
+    "url": "http://aqwwiki.wikidot.com/fjord-visor",
+    "name": "Fjord Visor",
+    "type": "helmets_&_hoods",
+    "description": "Hewn from enormous icy canyons over distant seas, the Fjord Visor is empowered by the might of the Frozen Northlands.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://imgur.com/xWwaZN8.png"
+    ],
+    "hash": "b732e99e215b603e64518d82c270fc23"
+}

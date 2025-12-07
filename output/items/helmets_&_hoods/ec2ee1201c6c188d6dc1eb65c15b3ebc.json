@@ -1,0 +1,16 @@
+{
+    "urlName": "veiled-high-mage-hood",
+    "url": "http://aqwwiki.wikidot.com/veiled-high-mage-hood",
+    "name": "Veiled High Mage Hood",
+    "type": "helmets_&_hoods",
+    "description": "Although you can openly see your surroundings, onlookers can only guess as to who shrouds themselves beneath the hood.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/veiled-high-mage-hood/VeiledHighMageHood.png"
+    ],
+    "hash": "ec2ee1201c6c188d6dc1eb65c15b3ebc"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "silphium-alchemist-locks",
+    "url": "http://aqwwiki.wikidot.com/silphium-alchemist-locks",
+    "name": "Silphium Alchemist Locks",
+    "type": "helmets_&_hoods",
+    "description": "These alchemists brew sweet potions and craft sparkling wands from extremely dangerous reagents. The waters of the Lethe, the branches of a hanging tree, and delusion daturas hide in their drawers.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gfeDk7O.png"
+    ],
+    "hash": "0963025f792ffd9935bd9aaa6a397e64"
+}

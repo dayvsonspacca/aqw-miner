@@ -1,0 +1,15 @@
+{
+    "urlName": "cerulean-flame-helm",
+    "url": "http://aqwwiki.wikidot.com/cerulean-flame-helm",
+    "name": "Cerulean Flame Helm",
+    "type": "helmets_&_hoods",
+    "description": "Watch out for the horns when you put this on.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/mA04cv6.png"
+    ],
+    "hash": "b891d7f790f36ad0d6d9ef4b21ec54dc"
+}

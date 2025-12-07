@@ -1,0 +1,15 @@
+{
+    "urlName": "bearded-explorer-helm",
+    "url": "http://aqwwiki.wikidot.com/bearded-explorer-helm",
+    "name": "Bearded Explorer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Ev'ry good swashbuckler need a beard says I!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/G5nSuVx.png"
+    ],
+    "hash": "4d9d72fcd2d223411971351eb09bff8b"
+}

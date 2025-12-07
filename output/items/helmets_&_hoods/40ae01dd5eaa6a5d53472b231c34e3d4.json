@@ -1,0 +1,15 @@
+{
+    "urlName": "lavamorph-helm",
+    "url": "http://aqwwiki.wikidot.com/lavamorph-helm",
+    "name": "Lavamorph Helm",
+    "type": "helmets_&_hoods",
+    "description": "This face plate, made out of lava rock found underneath BattleOn both generates heat and protects your face from melting.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/A5RKQ27.png"
+    ],
+    "hash": "40ae01dd5eaa6a5d53472b231c34e3d4"
+}

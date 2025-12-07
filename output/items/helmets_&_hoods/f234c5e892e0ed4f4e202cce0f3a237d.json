@@ -1,0 +1,16 @@
+{
+    "urlName": "brilliant-eyepatch",
+    "url": "http://aqwwiki.wikidot.com/brilliant-eyepatch",
+    "name": "Brilliant Eyepatch",
+    "type": "helmets_&_hoods",
+    "description": "A fine hat for worthy seadog.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brilliant-eyepatch/BrilliantEyepatch.png"
+    ],
+    "hash": "f234c5e892e0ed4f4e202cce0f3a237d"
+}

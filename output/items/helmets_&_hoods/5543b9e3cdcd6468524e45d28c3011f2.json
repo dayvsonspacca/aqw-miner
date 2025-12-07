@@ -1,0 +1,16 @@
+{
+    "urlName": "the-dracoplate-helm",
+    "url": "http://aqwwiki.wikidot.com/the-dracoplate-helm",
+    "name": "The DracoPlate Helm",
+    "type": "helmets_&_hoods",
+    "description": "It's rumored to have been created from the scales of an undead male dragon under the control of Dage the Evil.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-dracoplate-helm/TheDracoplateHelm.png"
+    ],
+    "hash": "5543b9e3cdcd6468524e45d28c3011f2"
+}

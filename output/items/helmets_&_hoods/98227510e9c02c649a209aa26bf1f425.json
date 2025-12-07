@@ -1,0 +1,17 @@
+{
+    "urlName": "azul-clinger-helm",
+    "url": "http://aqwwiki.wikidot.com/azul-clinger-helm",
+    "name": "Azul Clinger Helm",
+    "type": "helmets_&_hoods",
+    "description": "You unlocked this badge by purchasing an upgrade through Paymentez! Battle On!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/azul-clinger-helm/AzulClingerHelm.png"
+    ],
+    "hash": "98227510e9c02c649a209aa26bf1f425"
+}

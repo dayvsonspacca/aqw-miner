@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-legion-vampire-helm",
+    "url": "http://aqwwiki.wikidot.com/shadow-legion-vampire-helm",
+    "name": "Shadow Legion Vampire Helm",
+    "type": "helmets_&_hoods",
+    "description": "Legion Vampires have the coolest hair. Your functionally fashionable 'do will make jealous onlookers curl up and dye.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-legion-vampire-helm/ShadowLegionVampireHelm.png"
+    ],
+    "hash": "487fa5b11ccf6e63c4f5cb537dea503f"
+}

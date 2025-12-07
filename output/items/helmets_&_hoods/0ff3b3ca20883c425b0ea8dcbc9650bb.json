@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowslayer-leather-hat",
+    "url": "http://aqwwiki.wikidot.com/shadowslayer-leather-hat",
+    "name": "ShadowSlayer Leather Hat",
+    "type": "helmets_&_hoods",
+    "description": "A simple handcrafted leather hat, decorated with a discolored peacock feather. It's a souvenir from a gala thrown by the vampiric court that was ruined by a ShadowSlayer ambush.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/D4h9w0d.png"
+    ],
+    "hash": "0ff3b3ca20883c425b0ea8dcbc9650bb"
+}

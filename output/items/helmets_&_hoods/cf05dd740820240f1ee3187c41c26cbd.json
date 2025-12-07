@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-druid-stag-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/shadow-druid-stag-helm-ac",
+    "name": "Shadow Druid Stag Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "This is the helm of the High Dark Druid. It can only be worn by one who's heart can pump nothing but darkness through their veins.(CC to accessory)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/U5nzx6K.png"
+    ],
+    "hash": "cf05dd740820240f1ee3187c41c26cbd"
+}

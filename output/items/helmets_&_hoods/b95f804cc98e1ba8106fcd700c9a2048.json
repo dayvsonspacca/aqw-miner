@@ -1,0 +1,15 @@
+{
+    "urlName": "minstrel-s-hat",
+    "url": "http://aqwwiki.wikidot.com/minstrel-s-hat",
+    "name": "Minstrel's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Hark! Do ye have a festive song for us?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/sW1QdCO.png"
+    ],
+    "hash": "b95f804cc98e1ba8106fcd700c9a2048"
+}

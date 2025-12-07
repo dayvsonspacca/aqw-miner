@@ -1,0 +1,15 @@
+{
+    "urlName": "dragonslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/dragonslayer-helm",
+    "name": "Dragonslayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Helm worn by the elite order of Dragonslayers.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dragonslayer-helm-beta/DragonSlayerHelm.png"
+    ],
+    "hash": "cad51a4a4cdcba1f56c9f941f426fb26"
+}

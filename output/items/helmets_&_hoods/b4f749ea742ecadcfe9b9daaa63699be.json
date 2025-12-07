@@ -1,0 +1,15 @@
+{
+    "urlName": "lamp-shade",
+    "url": "http://aqwwiki.wikidot.com/lamp-shade",
+    "name": "Lamp Shade",
+    "type": "helmets_&_hoods",
+    "description": "Its not a party until someone puts a lampshade on their head!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lamp-shade/LampShade.png"
+    ],
+    "hash": "b4f749ea742ecadcfe9b9daaa63699be"
+}

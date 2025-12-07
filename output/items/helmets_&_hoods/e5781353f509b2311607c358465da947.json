@@ -1,0 +1,17 @@
+{
+    "urlName": "panda-face",
+    "url": "http://aqwwiki.wikidot.com/panda-face",
+    "name": "Panda Face",
+    "type": "helmets_&_hoods",
+    "description": "I heard you like pandas, so I put a panda face on your panda hoodie.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/cfFFVB1.png",
+        "http://i.imgur.com/axRPEax.png"
+    ],
+    "hash": "e5781353f509b2311607c358465da947"
+}

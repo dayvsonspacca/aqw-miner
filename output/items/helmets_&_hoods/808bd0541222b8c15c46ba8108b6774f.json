@@ -1,0 +1,16 @@
+{
+    "urlName": "chaosweaver-locks",
+    "url": "http://aqwwiki.wikidot.com/chaosweaver-locks",
+    "name": "ChaosWeaver Locks",
+    "type": "helmets_&_hoods",
+    "description": "All your victories can be counted on this helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaosweaver-locks/CWL.png"
+    ],
+    "hash": "808bd0541222b8c15c46ba8108b6774f"
+}

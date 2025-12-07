@@ -1,0 +1,17 @@
+{
+    "urlName": "diamond-collector-guard-ac",
+    "url": "http://aqwwiki.wikidot.com/diamond-collector-guard-ac",
+    "name": "Diamond Collector Guard (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Being the hardest gem known to Lore and the Void, Nulgath's diamonds can only be cut by each other. A helm studded by diamonds rends blades useless.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Tzco6wt.png",
+        "https://i.imgur.com/JZNEmAX.png"
+    ],
+    "hash": "1fffb95ac705dc3a1d601008a0b3f7dd"
+}

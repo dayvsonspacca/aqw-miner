@@ -1,0 +1,13 @@
+{
+    "urlName": "copper-bucket",
+    "url": "http://aqwwiki.wikidot.com/copper-bucket",
+    "name": "Copper Bucket",
+    "type": "helmets_&_hoods",
+    "description": "Once a rusty bucket, now a Warrior's Helm!",
+    "rarity": "Junk Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/ehl075l.png"
+    ],
+    "hash": "1f3be3735c2c296bd05f10c3012b0da0"
+}

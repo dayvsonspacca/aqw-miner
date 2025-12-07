@@ -1,0 +1,16 @@
+{
+    "urlName": "copper-dragon-helm",
+    "url": "http://aqwwiki.wikidot.com/copper-dragon-helm",
+    "name": "Copper Dragon Helm",
+    "type": "helmets_&_hoods",
+    "description": "The bumished glow of this copper helm will recall good times sitting around the fire trading stories and jokes with your companions. A welcome distraction when you're mired in battle and bathed in blood.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/copper-dragon-helm/CopperDragonHelm.png"
+    ],
+    "hash": "323cd16ac574733bab6935484f2154e6"
+}

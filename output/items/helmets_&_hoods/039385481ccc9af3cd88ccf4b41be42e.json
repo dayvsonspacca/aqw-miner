@@ -1,0 +1,15 @@
+{
+    "urlName": "cookie-helm",
+    "url": "http://aqwwiki.wikidot.com/cookie-helm",
+    "name": "Cookie Helm",
+    "type": "helmets_&_hoods",
+    "description": "I clicked on a cookie, and now it's on my head!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cookie-helm/CookieHelm.png"
+    ],
+    "hash": "039385481ccc9af3cd88ccf4b41be42e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "roaming-spacer-helm",
+    "url": "http://aqwwiki.wikidot.com/roaming-spacer-helm",
+    "name": "Roaming Spacer Helm",
+    "type": "helmets_&_hoods",
+    "description": "You never know when you're going to end up on a planet with a toxic atmosphere.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/roaming-spacer-helm/RoamingSpacerHelm.png"
+    ],
+    "hash": "280b75f3d5e1b77a88403ae831b2337b"
+}

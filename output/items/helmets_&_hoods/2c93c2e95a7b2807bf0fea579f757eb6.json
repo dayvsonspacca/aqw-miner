@@ -1,0 +1,15 @@
+{
+    "urlName": "lucky-top-hat",
+    "url": "http://aqwwiki.wikidot.com/lucky-top-hat",
+    "name": "Lucky Top Hat",
+    "type": "helmets_&_hoods",
+    "description": "The hat itself might not be lucky, but that 4-leaf clover sure is!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/lkrGGf4.png"
+    ],
+    "hash": "2c93c2e95a7b2807bf0fea579f757eb6"
+}

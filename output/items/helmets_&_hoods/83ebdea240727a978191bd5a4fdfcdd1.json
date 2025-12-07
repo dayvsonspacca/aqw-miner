@@ -1,0 +1,16 @@
+{
+    "urlName": "deathsworn-helm",
+    "url": "http://aqwwiki.wikidot.com/deathsworn-helm",
+    "name": "DeathSworn Helm",
+    "type": "helmets_&_hoods",
+    "description": "The DeathSworn arm themselves with relics and spells that require a sacrifice of life in exchange for deadly power. While it's easier to offer the lives of others, relinquishing one's own lifeforce yields far more effective results.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/v3b4IX3.png"
+    ],
+    "hash": "83ebdea240727a978191bd5a4fdfcdd1"
+}

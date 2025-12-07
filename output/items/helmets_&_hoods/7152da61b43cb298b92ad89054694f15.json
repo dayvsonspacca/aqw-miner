@@ -1,0 +1,15 @@
+{
+    "urlName": "soda-cap-and-locks",
+    "url": "http://aqwwiki.wikidot.com/soda-cap-and-locks",
+    "name": "Soda Cap and Locks",
+    "type": "helmets_&_hoods",
+    "description": "Need a cold drink? Don't want to wait in line at Yulgars? Here's your soda-tastic solution!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/soda-cap-and-locks/SodaCapandLocks.png"
+    ],
+    "hash": "7152da61b43cb298b92ad89054694f15"
+}

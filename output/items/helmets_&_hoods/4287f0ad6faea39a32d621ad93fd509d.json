@@ -1,0 +1,16 @@
+{
+    "urlName": "open-high-mage-hood",
+    "url": "http://aqwwiki.wikidot.com/open-high-mage-hood",
+    "name": "Open High Mage Hood",
+    "type": "helmets_&_hoods",
+    "description": "Bombard the opposition with an array of devastating spells while shrouding your true identity with the High Mage Hood!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/open-high-mage-hood/OpenHighMageHood.png"
+    ],
+    "hash": "4287f0ad6faea39a32d621ad93fd509d"
+}

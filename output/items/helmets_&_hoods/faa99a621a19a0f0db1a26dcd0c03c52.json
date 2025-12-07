@@ -1,0 +1,16 @@
+{
+    "urlName": "metal-spikes",
+    "url": "http://aqwwiki.wikidot.com/metal-spikes",
+    "name": "Metal Spikes",
+    "type": "helmets_&_hoods",
+    "description": "Be careful around these\u2026 they can cause serious damage while headbanging.",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/BlsLtZr.png"
+    ],
+    "hash": "faa99a621a19a0f0db1a26dcd0c03c52"
+}

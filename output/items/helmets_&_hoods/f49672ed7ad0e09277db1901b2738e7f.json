@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-druid-skull-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-druid-skull-helm",
+    "name": "Dark Druid Skull-helm",
+    "type": "helmets_&_hoods",
+    "description": "The typical animal-skull helm worm by the Dark Druids initiates as they conduct their evil rites and raise the skeletons of beasts to serve as their minions",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-druid-skull-helm/DarkDruidSkullHelm.png"
+    ],
+    "hash": "f49672ed7ad0e09277db1901b2738e7f"
+}

@@ -1,0 +1,13 @@
+{
+    "urlName": "trislayer-helm",
+    "url": "http://aqwwiki.wikidot.com/trislayer-helm",
+    "name": "TriSlayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "The thick plating of this full helm helm keep your head in a pleasantly unsmashed state.",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/DVYcsca.png"
+    ],
+    "hash": "b59d036b265630a7a758d63561f7ad39"
+}

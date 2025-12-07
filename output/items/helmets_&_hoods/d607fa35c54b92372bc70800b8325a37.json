@@ -1,0 +1,16 @@
+{
+    "urlName": "capuccino-hat",
+    "url": "http://aqwwiki.wikidot.com/capuccino-hat",
+    "name": "CAPuccino Hat",
+    "type": "helmets_&_hoods",
+    "description": "For the barista who just can't leave his work at home.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/j0yi0EB.png"
+    ],
+    "hash": "d607fa35c54b92372bc70800b8325a37"
+}

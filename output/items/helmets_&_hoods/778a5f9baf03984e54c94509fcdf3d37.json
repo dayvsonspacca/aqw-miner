@@ -1,0 +1,16 @@
+{
+    "urlName": "ultra-blessed-knight-helm",
+    "url": "http://aqwwiki.wikidot.com/ultra-blessed-knight-helm",
+    "name": "Ultra Blessed Knight Helm",
+    "type": "helmets_&_hoods",
+    "description": "These rare Knights are affiliated with the Order of Paladins, but channel a special type of light magic which melds with their armor, hair, and weapons over time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ultra-blessed-knight-helm/UltraBlessedKnightHelm.png"
+    ],
+    "hash": "778a5f9baf03984e54c94509fcdf3d37"
+}

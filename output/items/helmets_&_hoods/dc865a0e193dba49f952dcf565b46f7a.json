@@ -1,0 +1,16 @@
+{
+    "urlName": "00-x-dungeoneer-hat-legend",
+    "url": "http://aqwwiki.wikidot.com/00-x-dungeoneer-hat-legend",
+    "name": "00-X Dungeoneer Hat (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "Sometimes, the master of a dungeon will recognize that an artist is adding value to their architecture. The traps quietly disable until the work is done.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/EDcizFC.png"
+    ],
+    "hash": "dc865a0e193dba49f952dcf565b46f7a"
+}

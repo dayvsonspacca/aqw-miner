@@ -1,0 +1,17 @@
+{
+    "urlName": "maximillian-s-arctic-helm",
+    "url": "http://aqwwiki.wikidot.com/maximillian-s-arctic-helm",
+    "name": "Maximillian's Arctic Helm",
+    "type": "helmets_&_hoods",
+    "description": "An elegant battle helmet forged from enchanted Deep Ice and real polar bear fur.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/gt2jR7E.png"
+    ],
+    "hash": "bd947d26ba2e9744178bb6aaeb97e316"
+}

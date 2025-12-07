@@ -1,0 +1,16 @@
+{
+    "urlName": "boo-tiful-locks",
+    "url": "http://aqwwiki.wikidot.com/boo-tiful-locks",
+    "name": "BOO-tiful Locks",
+    "type": "helmets_&_hoods",
+    "description": "BOO! (This helm is a gift from your little ectoplasmic buddy, Boo.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Qxa3oed.png"
+    ],
+    "hash": "b9f943a7b8321099f2ffd3d16d31223d"
+}

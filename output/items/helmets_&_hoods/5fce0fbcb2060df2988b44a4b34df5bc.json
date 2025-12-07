@@ -1,0 +1,16 @@
+{
+    "urlName": "gatot-visor-helm",
+    "url": "http://aqwwiki.wikidot.com/gatot-visor-helm",
+    "name": "Gatot Visor Helm",
+    "type": "helmets_&_hoods",
+    "description": "Through your courage, strength and humility, truth and justice will spread throughout the land.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TGhBAiW.png"
+    ],
+    "hash": "5fce0fbcb2060df2988b44a4b34df5bc"
+}

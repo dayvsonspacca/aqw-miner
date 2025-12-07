@@ -1,0 +1,16 @@
+{
+    "urlName": "garth-maul-hat",
+    "url": "http://aqwwiki.wikidot.com/garth-maul-hat",
+    "name": "Garth Maul Hat",
+    "type": "helmets_&_hoods",
+    "description": "A protective hat that was once worn by ChickenCowboys but now resides on your noggin.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/garth-maul-hat/GarthMaulHat.png"
+    ],
+    "hash": "13a9bf413b957f52e7b2c51f837343f4"
+}

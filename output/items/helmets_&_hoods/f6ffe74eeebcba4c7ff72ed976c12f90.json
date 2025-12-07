@@ -1,0 +1,16 @@
+{
+    "urlName": "battlemage-locks",
+    "url": "http://aqwwiki.wikidot.com/battlemage-locks",
+    "name": "Battlemage Locks",
+    "type": "helmets_&_hoods",
+    "description": "Even in the heat of battle, you should look good.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battlemage-locks/BattlemageLocks.png"
+    ],
+    "hash": "f6ffe74eeebcba4c7ff72ed976c12f90"
+}

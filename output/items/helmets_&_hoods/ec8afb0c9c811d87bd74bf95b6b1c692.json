@@ -1,0 +1,16 @@
+{
+    "urlName": "solid-metal-head-gear",
+    "url": "http://aqwwiki.wikidot.com/solid-metal-head-gear",
+    "name": "Solid Metal Head Gear",
+    "type": "helmets_&_hoods",
+    "description": "A protective helm worn by a clan of ninjas known as the Gray Hounds.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/solid-metal-head-gear/SMHG.png"
+    ],
+    "hash": "ec8afb0c9c811d87bd74bf95b6b1c692"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "fallen-guardian-helm",
+    "url": "http://aqwwiki.wikidot.com/fallen-guardian-helm",
+    "name": "Fallen Guardian Helm",
+    "type": "helmets_&_hoods",
+    "description": "Some fallen guardians are naturally blind, leaving them to rely on echolocation and through a blank eye that is usually never opened unless this guardian is on the brink of losing. Don't ask what happens if that eye opens.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-guardian-helm/FallenGuardianHelm.png"
+    ],
+    "hash": "ac5677c79364cb5b22081778eb46fa7c"
+}

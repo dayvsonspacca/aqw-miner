@@ -1,0 +1,17 @@
+{
+    "urlName": "bright-grove-fairy-crown-locks",
+    "url": "http://aqwwiki.wikidot.com/bright-grove-fairy-crown-locks",
+    "name": "Bright Grove Fairy Crown + Locks",
+    "type": "helmets_&_hoods",
+    "description": "Native to the Grove, some fairies only appear when Lucky Day is near.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/txyVb1d.png",
+        "https://i.imgur.com/gtGntUO.png"
+    ],
+    "hash": "ce482ca517d31bac4f4456195fa9640b"
+}

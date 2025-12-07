@@ -1,0 +1,16 @@
+{
+    "urlName": "lightcaster-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/lightcaster-helm-ac",
+    "name": "LightCaster Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "The gold leaves encircling this helm denote a high tank inside of the Order of LightCasters!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lightcaster-helm-ac/LightCasterHelm.png"
+    ],
+    "hash": "8a9beed72a86224d964a9d9945d70138"
+}

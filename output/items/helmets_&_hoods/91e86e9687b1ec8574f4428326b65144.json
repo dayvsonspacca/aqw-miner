@@ -1,0 +1,16 @@
+{
+    "urlName": "necrovoid-lich-morph",
+    "url": "http://aqwwiki.wikidot.com/necrovoid-lich-morph",
+    "name": "NecroVoid Lich Morph",
+    "type": "helmets_&_hoods",
+    "description": "The Void disguises itself with the remains of the dead. All life came from nothing, and it will return to nothing. If you plunge into an endless fall, the cycle of life and death will never find you again.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/rqsn094.png"
+    ],
+    "hash": "91e86e9687b1ec8574f4428326b65144"
+}

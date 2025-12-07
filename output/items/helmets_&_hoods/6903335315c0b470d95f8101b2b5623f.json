@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-centurion-commander-helm",
+    "url": "http://aqwwiki.wikidot.com/golden-centurion-commander-helm",
+    "name": "Golden Centurion Commander Helm",
+    "type": "helmets_&_hoods",
+    "description": "Worn by the elite commanders of the army from the fabled sunken city. It has a Water Dragon claw mark on it.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/golden-centurion-commander-helm/GCCH.png"
+    ],
+    "hash": "6903335315c0b470d95f8101b2b5623f"
+}

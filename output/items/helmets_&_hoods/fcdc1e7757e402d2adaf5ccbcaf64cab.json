@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-flame-visage",
+    "url": "http://aqwwiki.wikidot.com/dark-flame-visage",
+    "name": "Dark Flame Visage",
+    "type": "helmets_&_hoods",
+    "description": "Nulgath taints your visage with his dark power.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/VOijk8Y.png"
+    ],
+    "hash": "fcdc1e7757e402d2adaf5ccbcaf64cab"
+}

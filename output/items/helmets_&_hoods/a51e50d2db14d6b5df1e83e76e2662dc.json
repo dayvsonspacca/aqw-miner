@@ -1,0 +1,15 @@
+{
+    "urlName": "quantum-chronomancer-helm",
+    "url": "http://aqwwiki.wikidot.com/quantum-chronomancer-helm",
+    "name": "Quantum Chronomancer Helm",
+    "type": "helmets_&_hoods",
+    "description": "For as long as heroes have existed, Chronomancers have traversed space and time. Quantum Chronomancers have mastered the ability to cross between universes and ages.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/C598oYZ.png"
+    ],
+    "hash": "a51e50d2db14d6b5df1e83e76e2662dc"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "fallen-wanderer-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/fallen-wanderer-helm-ac",
+    "name": "Fallen Wanderer Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Cold? Bah! Who's cold with all this armor on? You think you have the guts to wander the Northlands? Well bring on the cold!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/mKVLqI1.png"
+    ],
+    "hash": "27520f25bde4d92e4b64ba935ffdfe22"
+}

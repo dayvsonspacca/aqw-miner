@@ -1,0 +1,15 @@
+{
+    "urlName": "tomcat-helm",
+    "url": "http://aqwwiki.wikidot.com/tomcat-helm",
+    "name": "Tomcat Helm",
+    "type": "helmets_&_hoods",
+    "description": "This mystical feline you serve holds many secrets, and its dragontastic powers may one day save your life! Attend it well and you will be rewarded!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tomcat-helm/TomcatHelm.png"
+    ],
+    "hash": "3e1fa548759466141fc1fab9889f68ad"
+}

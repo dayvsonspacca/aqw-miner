@@ -1,0 +1,15 @@
+{
+    "urlName": "parodian-guard-helm",
+    "url": "http://aqwwiki.wikidot.com/parodian-guard-helm",
+    "name": "Parodian Guard Helm",
+    "type": "helmets_&_hoods",
+    "description": "The elite unit of the Shadowscythe Army, used most for guarding VIPs or putting down rebellions.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/oMn13T1.png"
+    ],
+    "hash": "6fbe49a0d0396ded1ad887928220097a"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "cryostorm-rider-helm",
+    "url": "http://aqwwiki.wikidot.com/cryostorm-rider-helm",
+    "name": "Cryostorm Rider Helm",
+    "type": "helmets_&_hoods",
+    "description": "Whether farming ice is a necessity or trudging through a blizzard, covering your entire head is highly recommended by the inhabitants near the Cryozen Lakes. The mouth, of course, always stays open because catching snowflakes is a must.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cryostorm-rider-helm/CryostormRiderHelm.png"
+    ],
+    "hash": "ec81b1b6efaea0d3ce774a4232ccd751"
+}

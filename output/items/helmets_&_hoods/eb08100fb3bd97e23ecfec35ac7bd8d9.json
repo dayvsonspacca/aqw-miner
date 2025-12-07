@@ -1,0 +1,16 @@
+{
+    "urlName": "jiangshi-talisman-locks",
+    "url": "http://aqwwiki.wikidot.com/jiangshi-talisman-locks",
+    "name": "Jiangshi Talisman Locks",
+    "type": "helmets_&_hoods",
+    "description": "If a body does not rot even long after its death, they are likely to become a jiangshi. Desecration of the body for any reason is considered taboo so talismans are placed in futile efforts to keep them from moving.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/EwEHfBi.png"
+    ],
+    "hash": "eb08100fb3bd97e23ecfec35ac7bd8d9"
+}

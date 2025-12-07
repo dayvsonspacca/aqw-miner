@@ -1,0 +1,16 @@
+{
+    "urlName": "sandstalker-helmet",
+    "url": "http://aqwwiki.wikidot.com/sandstalker-helmet",
+    "name": "SandStalker Helmet",
+    "type": "helmets_&_hoods",
+    "description": "The helm of the elite SandStalkers of the desert.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sandstalker-helmet/SSH.png"
+    ],
+    "hash": "0736fd9eccab339775af15f37e13da69"
+}

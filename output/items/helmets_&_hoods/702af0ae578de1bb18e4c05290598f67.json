@@ -1,0 +1,16 @@
+{
+    "urlName": "root-of-chaos-helm",
+    "url": "http://aqwwiki.wikidot.com/root-of-chaos-helm",
+    "name": "Root of Chaos Helm",
+    "type": "helmets_&_hoods",
+    "description": "It's not a surprise that the forest has fallen to Chaos after a plague has consumed Lore.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/root-of-chaos-helm/RoCH.png"
+    ],
+    "hash": "702af0ae578de1bb18e4c05290598f67"
+}

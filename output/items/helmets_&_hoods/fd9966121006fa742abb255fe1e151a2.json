@@ -1,0 +1,17 @@
+{
+    "urlName": "hyperborean-holiday-hat",
+    "url": "http://aqwwiki.wikidot.com/hyperborean-holiday-hat",
+    "name": "Hyperborean Holiday Hat",
+    "type": "helmets_&_hoods",
+    "description": "You'll look really cool wearing this hat!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/OgG819v.png"
+    ],
+    "hash": "fd9966121006fa742abb255fe1e151a2"
+}

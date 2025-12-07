@@ -1,0 +1,15 @@
+{
+    "urlName": "timewalker-helm",
+    "url": "http://aqwwiki.wikidot.com/timewalker-helm",
+    "name": "Timewalker Helm",
+    "type": "helmets_&_hoods",
+    "description": "For 13 years, you have battled through AdventureQuest Worlds, a merge of 3 different timelines. You've traveled lightyears already, but our adventures together are far from over!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/GsOznEN.png"
+    ],
+    "hash": "bf555960f54474ea4be9c87806567d1a"
+}

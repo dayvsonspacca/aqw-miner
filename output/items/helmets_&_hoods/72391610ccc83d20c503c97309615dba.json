@@ -1,0 +1,17 @@
+{
+    "urlName": "gloomcaster-hat",
+    "url": "http://aqwwiki.wikidot.com/gloomcaster-hat",
+    "name": "Gloomcaster Hat",
+    "type": "helmets_&_hoods",
+    "description": "This elegant hat shows off the Gloomcaster's playful side. I mean of course it's still Mogloween for them too.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/TxmAUVq.png"
+    ],
+    "hash": "72391610ccc83d20c503c97309615dba"
+}

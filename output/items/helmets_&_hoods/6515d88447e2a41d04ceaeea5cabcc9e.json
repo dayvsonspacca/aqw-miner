@@ -1,0 +1,16 @@
+{
+    "urlName": "possessed-pumpkin-helm",
+    "url": "http://aqwwiki.wikidot.com/possessed-pumpkin-helm",
+    "name": "Possessed Pumpkin Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm will carve your face!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/MwSY0X2.png"
+    ],
+    "hash": "6515d88447e2a41d04ceaeea5cabcc9e"
+}

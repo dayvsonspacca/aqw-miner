@@ -1,0 +1,16 @@
+{
+    "urlName": "noxus-top-hat",
+    "url": "http://aqwwiki.wikidot.com/noxus-top-hat",
+    "name": "Noxus Top Hat",
+    "type": "helmets_&_hoods",
+    "description": "Even a Doom Lord needs some style.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/noxus-top-hat/NoxusHat.png"
+    ],
+    "hash": "2105443b68f4aa1a2675392cf3e0af31"
+}

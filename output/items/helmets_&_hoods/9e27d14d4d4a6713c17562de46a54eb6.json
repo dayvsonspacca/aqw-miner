@@ -1,0 +1,16 @@
+{
+    "urlName": "liberty-helm",
+    "url": "http://aqwwiki.wikidot.com/liberty-helm",
+    "name": "Liberty Helm",
+    "type": "helmets_&_hoods",
+    "description": "A spiky crown that symbolizes peace and freedom!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/m7YxQfx.png"
+    ],
+    "hash": "9e27d14d4d4a6713c17562de46a54eb6"
+}

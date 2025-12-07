@@ -1,0 +1,16 @@
+{
+    "urlName": "northlands-paladin-helm",
+    "url": "http://aqwwiki.wikidot.com/northlands-paladin-helm",
+    "name": "Northlands Paladin Helm",
+    "type": "helmets_&_hoods",
+    "description": "Battling undead through the frozen wastes, you draw strength from the otherworldly, shimmering light of the aurora borealis.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/nrSe1uO.png"
+    ],
+    "hash": "b9ca9958866ffcfc880a71cb8acaf605"
+}

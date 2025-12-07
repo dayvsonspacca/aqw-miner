@@ -1,0 +1,15 @@
+{
+    "urlName": "paladu-apprentice-helm",
+    "url": "http://aqwwiki.wikidot.com/paladu-apprentice-helm",
+    "name": "PalaDu Apprentice Helm",
+    "type": "helmets_&_hoods",
+    "description": "Fighting for Good: This is the way.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/IhdfHmy.png"
+    ],
+    "hash": "4becf137c1aacc9a1d1d7fd37f2364c9"
+}

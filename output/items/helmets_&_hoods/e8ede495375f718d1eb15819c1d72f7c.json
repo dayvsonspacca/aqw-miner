@@ -1,0 +1,17 @@
+{
+    "urlName": "zeph-gorog-head",
+    "url": "http://aqwwiki.wikidot.com/zeph-gorog-head",
+    "name": "Zeph'gorog Head",
+    "type": "helmets_&_hoods",
+    "description": "The spirit of Zeph'gorog has infused this armor - it is so strong that all who equip it look the same!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9P7k6QZ.png"
+    ],
+    "hash": "e8ede495375f718d1eb15819c1d72f7c"
+}

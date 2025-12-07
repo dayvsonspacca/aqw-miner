@@ -1,0 +1,15 @@
+{
+    "urlName": "marauder-legionary-helm",
+    "url": "http://aqwwiki.wikidot.com/marauder-legionary-helm",
+    "name": "Marauder Legionary Helm",
+    "type": "helmets_&_hoods",
+    "description": "A marauder most be imposing to the enemy, hence the teeth.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/xllU4GK.png"
+    ],
+    "hash": "da6b3d579188ac2d542e0dfbcd0b443b"
+}

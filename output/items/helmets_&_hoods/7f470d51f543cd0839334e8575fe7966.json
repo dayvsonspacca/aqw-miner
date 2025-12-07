@@ -1,0 +1,17 @@
+{
+    "urlName": "celestial-commander-s-hat-morph",
+    "url": "http://aqwwiki.wikidot.com/celestial-commander-s-hat-morph",
+    "name": "Celestial Commander's Hat + Morph",
+    "type": "helmets_&_hoods",
+    "description": "Whether you sail the seas or the skies, victory is always within your reach.(Item does 30% more damage to all tagged monsters when equipped.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/IgqLzh9.png",
+        "https://i.imgur.com/csKrlKN.png"
+    ],
+    "hash": "7f470d51f543cd0839334e8575fe7966"
+}

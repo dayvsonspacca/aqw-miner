@@ -1,0 +1,16 @@
+{
+    "urlName": "aulorian-helm",
+    "url": "http://aqwwiki.wikidot.com/aulorian-helm",
+    "name": "Aulorian Helm",
+    "type": "helmets_&_hoods",
+    "description": "Let the golden reflections show you the way!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/6pvDsak.png"
+    ],
+    "hash": "5d211271ea1e5d51cc1c1d0bdf9503de"
+}

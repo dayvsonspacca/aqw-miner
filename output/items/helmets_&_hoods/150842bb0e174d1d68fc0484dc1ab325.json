@@ -1,0 +1,13 @@
+{
+    "urlName": "anubis-helm",
+    "url": "http://aqwwiki.wikidot.com/anubis-helm",
+    "name": "Anubis Helm",
+    "type": "helmets_&_hoods",
+    "description": "The iconic headdress belonging to jackal-headed god of afterlife, Anubis.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/6rmRC2b.png"
+    ],
+    "hash": "150842bb0e174d1d68fc0484dc1ab325"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "fancy-top-hat",
+    "url": "http://aqwwiki.wikidot.com/fancy-top-hat",
+    "name": "Fancy Top Hat",
+    "type": "helmets_&_hoods",
+    "description": "When you need a Top Hat for a special occasion\u2026 you can change the colour of this one to match anything you want.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/yWB2tR2.png"
+    ],
+    "hash": "42b24e9eeefa0a0ceb5d25bdbdf7823c"
+}

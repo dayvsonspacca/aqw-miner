@@ -1,0 +1,16 @@
+{
+    "urlName": "xeph",
+    "url": "http://aqwwiki.wikidot.com/xeph",
+    "name": "Xeph",
+    "type": "helmets_&_hoods",
+    "description": "He's the black sock with the red whiskers and glowing red eyes.",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/xeph/Xeph.png"
+    ],
+    "hash": "0feb32d88be29796611e0c12354e19d5"
+}

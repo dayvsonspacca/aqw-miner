@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-masquerade-locks",
+    "url": "http://aqwwiki.wikidot.com/dark-masquerade-locks",
+    "name": "Dark Masquerade Locks",
+    "type": "helmets_&_hoods",
+    "description": "A feathered, shaded mask ideal for those who don't want their vampiric status known and so people won't ask what their eye color is.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-masquerade-locks/DML.png"
+    ],
+    "hash": "dc72c7ac4aaf6a4a5bd5d8a431ec02c7"
+}

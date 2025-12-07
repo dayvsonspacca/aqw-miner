@@ -1,0 +1,15 @@
+{
+    "urlName": "pactagonal-helm",
+    "url": "http://aqwwiki.wikidot.com/pactagonal-helm",
+    "name": "Pactagonal Helm",
+    "type": "helmets_&_hoods",
+    "description": "As a Knight of the Pactagonal Table, you've earned the right to wear this helm!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/INkIVFz.png"
+    ],
+    "hash": "66bba1654b48e8eb9ffc7affcd8282fc"
+}

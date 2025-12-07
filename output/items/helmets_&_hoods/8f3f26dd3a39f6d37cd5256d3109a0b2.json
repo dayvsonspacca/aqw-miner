@@ -1,0 +1,16 @@
+{
+    "urlName": "legacy-locks",
+    "url": "http://aqwwiki.wikidot.com/legacy-locks",
+    "name": "Legacy Locks",
+    "type": "helmets_&_hoods",
+    "description": "Long flowing locks, pulled back in a right dangerous ponytail, accent your armor. Don't be fooled, as this is a weapon too.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legacy-locks/LegacyLocks.png"
+    ],
+    "hash": "8f3f26dd3a39f6d37cd5256d3109a0b2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-malevolence-0-ac",
+    "url": "http://aqwwiki.wikidot.com/helm-of-malevolence-0-ac",
+    "name": "Helm of Malevolence (0 AC)",
+    "type": "helmets_&_hoods",
+    "description": "Equipping this ancient, magically-crafted artifact will ensure that you will be fueled in battle by a malevolent fury strong enough to last beyond death.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/3QkWO6Y.png"
+    ],
+    "hash": "42a4661844e401406af5918270f5e2e3"
+}

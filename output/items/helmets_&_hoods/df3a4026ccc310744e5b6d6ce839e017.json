@@ -1,0 +1,16 @@
+{
+    "urlName": "vampireknight-helm-of-nulgath",
+    "url": "http://aqwwiki.wikidot.com/vampireknight-helm-of-nulgath",
+    "name": "Vampireknight Helm of Nulgath",
+    "type": "helmets_&_hoods",
+    "description": "A high ranking member in Nulgath's army, the Vampireknight helm drains the life force of its victims.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vampireknight-helm-of-nulgath/VampireknightHelmofNulgath.jpg"
+    ],
+    "hash": "df3a4026ccc310744e5b6d6ce839e017"
+}

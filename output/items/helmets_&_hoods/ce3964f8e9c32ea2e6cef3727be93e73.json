@@ -1,0 +1,16 @@
+{
+    "urlName": "muted-helm",
+    "url": "http://aqwwiki.wikidot.com/muted-helm",
+    "name": "Muted Helm",
+    "type": "helmets_&_hoods",
+    "description": "The detail is marvelous!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/muted-helm/MutedHelm.png"
+    ],
+    "hash": "ce3964f8e9c32ea2e6cef3727be93e73"
+}

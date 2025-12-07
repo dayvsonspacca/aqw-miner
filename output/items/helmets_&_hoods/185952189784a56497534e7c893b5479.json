@@ -1,0 +1,16 @@
+{
+    "urlName": "frostborne-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/frostborne-helm-legend",
+    "name": "Frostborne Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "A helmet sculpted by ancient bronze and worn out jade, yet it is so cold that you won't feel the metal when you put it on.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/x8zrooJ.png"
+    ],
+    "hash": "185952189784a56497534e7c893b5479"
+}

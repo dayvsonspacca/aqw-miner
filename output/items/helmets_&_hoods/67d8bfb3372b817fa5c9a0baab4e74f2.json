@@ -1,0 +1,16 @@
+{
+    "urlName": "honor-of-onslaught-helm",
+    "url": "http://aqwwiki.wikidot.com/honor-of-onslaught-helm",
+    "name": "Honor of Onslaught Helm",
+    "type": "helmets_&_hoods",
+    "description": "In their eyes, the only honorable kill is one that is perpetrated with force and brutality.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/honor-of-onslaught-helm/HoOH.png"
+    ],
+    "hash": "67d8bfb3372b817fa5c9a0baab4e74f2"
+}

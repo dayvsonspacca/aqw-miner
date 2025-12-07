@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-full-helm",
+    "url": "http://aqwwiki.wikidot.com/skyguard-full-helm",
+    "name": "Skyguard Full Helm",
+    "type": "helmets_&_hoods",
+    "description": "A helm issued to all Skyguard knights who wish to keep their face and identity safe. Evil will think twice when they see legions of these staring back at them.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skyguard-full-helm/SFH.png"
+    ],
+    "hash": "56c5174ccff6f88b2f1138dc5c61764f"
+}

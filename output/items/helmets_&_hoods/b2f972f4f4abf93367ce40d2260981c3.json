@@ -1,0 +1,16 @@
+{
+    "urlName": "black-mage-hat",
+    "url": "http://aqwwiki.wikidot.com/black-mage-hat",
+    "name": "Black Mage Hat",
+    "type": "helmets_&_hoods",
+    "description": "Sometimes a mage just wants to wear a nice, black hat.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/black-mage-hat/BlackMageHat.png"
+    ],
+    "hash": "b2f972f4f4abf93367ce40d2260981c3"
+}

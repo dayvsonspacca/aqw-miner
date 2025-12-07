@@ -1,0 +1,16 @@
+{
+    "urlName": "agent-s-locks",
+    "url": "http://aqwwiki.wikidot.com/agent-s-locks",
+    "name": "Agent's Locks",
+    "type": "helmets_&_hoods",
+    "description": "Keep your head in the game.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/HPBva6A.png"
+    ],
+    "hash": "30530508963dcfeef085cfd9f517a78a"
+}

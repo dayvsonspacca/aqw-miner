@@ -1,0 +1,16 @@
+{
+    "urlName": "maned-attendant-helm",
+    "url": "http://aqwwiki.wikidot.com/maned-attendant-helm",
+    "name": "Maned Attendant Helm",
+    "type": "helmets_&_hoods",
+    "description": "The mystical feline you serve holds many secrets, and its dragontastic powers may one day save your life! The mane signifies that you have pleased the DoomKitten.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/maned-attendant-helm/ManedAttendantHelm.png"
+    ],
+    "hash": "9e1e90db82f5b3c47705837b86140f19"
+}

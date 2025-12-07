@@ -1,0 +1,16 @@
+{
+    "urlName": "metal-dreads",
+    "url": "http://aqwwiki.wikidot.com/metal-dreads",
+    "name": "Metal Dreads",
+    "type": "helmets_&_hoods",
+    "description": "Duuuude, awesome dreads.",
+    "rarity": "Event Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/loBdK5J.png"
+    ],
+    "hash": "3bcfb5175cb68d63abb2db9a06c77196"
+}

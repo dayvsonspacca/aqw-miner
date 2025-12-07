@@ -1,0 +1,16 @@
+{
+    "urlName": "gryphonclaw-warrior-s-crested-helm",
+    "url": "http://aqwwiki.wikidot.com/gryphonclaw-warrior-s-crested-helm",
+    "name": "GryphonClaw Warrior's Crested Helm",
+    "type": "helmets_&_hoods",
+    "description": "A warrior must swear several oaths upon joining the martial Order of the GryphonClaw. The first two are: 1) To defend and protect any creature in danger. 2) To be as brave as a lion and as loyal as an eagle.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/1jEigyi.png"
+    ],
+    "hash": "d983461b7c4270bbe539c218940b19a6"
+}

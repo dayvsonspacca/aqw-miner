@@ -1,0 +1,20 @@
+{
+    "urlName": "icy-hunter-s-cap",
+    "url": "http://aqwwiki.wikidot.com/icy-hunter-s-cap",
+    "name": "Icy Hunter's Cap",
+    "type": "helmets_&_hoods",
+    "description": "This particular Northland hat is possessed by an ice ghost, causing it's wearer to undergo breeze freeze on the outside. A side of hot chocolate or Scarbucks would neutralize this frost from the head for an estimated fifteen hours or more even on a warmer climate.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/icy-hunter-s-cap/IHC.png",
+        "http://aqwwiki.wdfiles.com/local--files/icy-hunter-s-cap/IHCOld.png",
+        "http://aqwwiki.wdfiles.com/local--files/icy-hunter-s-cap/IHCAnim.png",
+        "http://aqwwiki.wdfiles.com/local--files/icy-hunter-s-cap/IHCAnimOld.png"
+    ],
+    "hash": "0f936ff7a8b5361594631f665a26baef"
+}

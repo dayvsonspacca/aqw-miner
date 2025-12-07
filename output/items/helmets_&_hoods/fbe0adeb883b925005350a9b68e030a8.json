@@ -1,0 +1,16 @@
+{
+    "urlName": "holiday-enforcer-helm",
+    "url": "http://aqwwiki.wikidot.com/holiday-enforcer-helm",
+    "name": "Holiday Enforcer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Don this helm proudly, for the joy of the holidays burn brightly as the light glints off its golden visor. If that doesn't blind your foe, then showering them with holiday cheer, via our weapon, will certainly dominate them.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/holiday-enforcer-helm/HolidayEnforcerHelm.png"
+    ],
+    "hash": "fbe0adeb883b925005350a9b68e030a8"
+}

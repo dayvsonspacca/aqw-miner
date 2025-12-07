@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowsnow-helm",
+    "url": "http://aqwwiki.wikidot.com/shadowsnow-helm",
+    "name": "ShadowSnow Helm",
+    "type": "helmets_&_hoods",
+    "description": "And you thought it was safe to play in the snow\u2026HA!",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowsnow-helm/ShadowsnowHelm.png"
+    ],
+    "hash": "07b6f60d6fe39873978bd93e4177419c"
+}

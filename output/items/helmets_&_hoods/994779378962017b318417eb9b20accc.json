@@ -1,0 +1,16 @@
+{
+    "urlName": "the-big-breakfast",
+    "url": "http://aqwwiki.wikidot.com/the-big-breakfast",
+    "name": "The BIG Breakfast",
+    "type": "helmets_&_hoods",
+    "description": "For the hungry, hungry heroes in Yulgar's Inn.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/MWzZnYO.png"
+    ],
+    "hash": "994779378962017b318417eb9b20accc"
+}

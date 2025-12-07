@@ -1,0 +1,16 @@
+{
+    "urlName": "pirate-captain-s-hat",
+    "url": "http://aqwwiki.wikidot.com/pirate-captain-s-hat",
+    "name": "Pirate Captain's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Everyone knows you're in charge now. Make those scallywags walk the plank!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/pirate-captain-s-hat/PirateCaptain'sHat.jpg"
+    ],
+    "hash": "924f86f41537c7418e7892c1ccd5c116"
+}

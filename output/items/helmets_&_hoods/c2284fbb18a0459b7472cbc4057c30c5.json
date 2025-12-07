@@ -1,0 +1,15 @@
+{
+    "urlName": "chaos-lionfang-helm",
+    "url": "http://aqwwiki.wikidot.com/chaos-lionfang-helm",
+    "name": "Chaos Lionfang Helm",
+    "type": "helmets_&_hoods",
+    "description": "Face down your enemies while wearing a lion's face! The terror in their eyes will be an added bonus!",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/zai6YAO.png"
+    ],
+    "hash": "c2284fbb18a0459b7472cbc4057c30c5"
+}

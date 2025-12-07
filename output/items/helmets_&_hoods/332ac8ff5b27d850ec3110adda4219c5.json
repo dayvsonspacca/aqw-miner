@@ -1,0 +1,16 @@
+{
+    "urlName": "fallenfiremage-plated-helm",
+    "url": "http://aqwwiki.wikidot.com/fallenfiremage-plated-helm",
+    "name": "FallenFiremage Plated Helm",
+    "type": "helmets_&_hoods",
+    "description": "Those who play with fire often get burned, unless they have this.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallenfiremage-plated-helm/FallenFiremagePlatedHelm.png"
+    ],
+    "hash": "332ac8ff5b27d850ec3110adda4219c5"
+}

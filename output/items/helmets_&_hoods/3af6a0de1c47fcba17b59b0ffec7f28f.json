@@ -1,0 +1,16 @@
+{
+    "urlName": "male-dirge-helm",
+    "url": "http://aqwwiki.wikidot.com/male-dirge-helm",
+    "name": "Male Dirge Helm",
+    "type": "helmets_&_hoods",
+    "description": "A sad, silent mask for a sad, silent song.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/male-dirge-helm/MaleDirgeHelm.png"
+    ],
+    "hash": "3af6a0de1c47fcba17b59b0ffec7f28f"
+}

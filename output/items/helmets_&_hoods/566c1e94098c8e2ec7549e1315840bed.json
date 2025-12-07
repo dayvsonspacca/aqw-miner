@@ -1,0 +1,16 @@
+{
+    "urlName": "holiday-paragon-helm",
+    "url": "http://aqwwiki.wikidot.com/holiday-paragon-helm",
+    "name": "Holiday Paragon Helm",
+    "type": "helmets_&_hoods",
+    "description": "The jollier side of Dage the Evil. Fond of milk, snickerdoodles, and wrecking the halls.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/holiday-paragon-helm/HolidayParagonHelm.png"
+    ],
+    "hash": "566c1e94098c8e2ec7549e1315840bed"
+}

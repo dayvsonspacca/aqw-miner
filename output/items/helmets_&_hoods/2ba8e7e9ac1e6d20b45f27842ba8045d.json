@@ -1,0 +1,16 @@
+{
+    "urlName": "astral-space-helmet",
+    "url": "http://aqwwiki.wikidot.com/astral-space-helmet",
+    "name": "Astral Space Helmet",
+    "type": "helmets_&_hoods",
+    "description": "To restore order and beyond!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/astral-space-helmet/AstralSpaceHelmet.png"
+    ],
+    "hash": "2ba8e7e9ac1e6d20b45f27842ba8045d"
+}

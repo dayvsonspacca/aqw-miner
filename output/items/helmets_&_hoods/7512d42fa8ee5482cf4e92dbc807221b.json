@@ -1,0 +1,16 @@
+{
+    "urlName": "deep-miner-helm",
+    "url": "http://aqwwiki.wikidot.com/deep-miner-helm",
+    "name": "Deep Miner Helm",
+    "type": "helmets_&_hoods",
+    "description": "A pressurized suit helm with a 2 million candle power headlamp for seeing in the darkest depths of the world.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deep-miner-helm/DeepMinerHelm.png"
+    ],
+    "hash": "7512d42fa8ee5482cf4e92dbc807221b"
+}

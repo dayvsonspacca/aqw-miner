@@ -1,0 +1,16 @@
+{
+    "urlName": "mediator-visor-ac",
+    "url": "http://aqwwiki.wikidot.com/mediator-visor-ac",
+    "name": "Mediator Visor (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Built to withstand high altitudes, the streamline design increases aerodynamics while providing a great range of vision and defenses.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/kl0XRfa.png"
+    ],
+    "hash": "73fe0aacb5ce8e5fc67414ea7c72bfbc"
+}

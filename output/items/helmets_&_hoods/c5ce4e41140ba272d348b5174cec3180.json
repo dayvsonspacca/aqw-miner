@@ -1,0 +1,16 @@
+{
+    "urlName": "glacial-warlord-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/glacial-warlord-helm-ac",
+    "name": "Glacial Warlord Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Wrap yourself in the power of the glacier and know the immense pressure that comes with bearing the weight of time!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glacial-warlord-helm-ac/GlacialWarlordHelm.png"
+    ],
+    "hash": "c5ce4e41140ba272d348b5174cec3180"
+}

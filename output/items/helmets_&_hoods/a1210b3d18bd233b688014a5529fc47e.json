@@ -1,0 +1,16 @@
+{
+    "urlName": "doom-of-lore-helm",
+    "url": "http://aqwwiki.wikidot.com/doom-of-lore-helm",
+    "name": "Doom of Lore Helm",
+    "type": "helmets_&_hoods",
+    "description": "When you appear, the tension in the air can be cut with a knife\u2026 or your helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doom-of-lore-helm/DoomofLoreHelm.png"
+    ],
+    "hash": "a1210b3d18bd233b688014a5529fc47e"
+}

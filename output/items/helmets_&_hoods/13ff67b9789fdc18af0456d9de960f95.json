@@ -1,0 +1,16 @@
+{
+    "urlName": "void-knight-helm",
+    "url": "http://aqwwiki.wikidot.com/void-knight-helm",
+    "name": "Void Knight Helm",
+    "type": "helmets_&_hoods",
+    "description": "A Void Knight's vision is able to withstand extreme light when they wear their sunproof helms of crimson obsidian. This item gives 25% more XP and Class Points when equipped.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/an5paV8.png"
+    ],
+    "hash": "13ff67b9789fdc18af0456d9de960f95"
+}

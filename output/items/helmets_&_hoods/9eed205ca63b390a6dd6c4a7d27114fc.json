@@ -1,0 +1,16 @@
+{
+    "urlName": "bearded-barbarian-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/bearded-barbarian-helm-legend",
+    "name": "Bearded Barbarian Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "During Frostval these nomadic wanderers from the north travel from town to town giving gifts and protecting those in need. You don't want to be on their naughty list though, else be on the receiving end of their most infamous gift - their pure rage.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Hc29Hhm.png"
+    ],
+    "hash": "9eed205ca63b390a6dd6c4a7d27114fc"
+}

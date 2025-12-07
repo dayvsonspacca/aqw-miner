@@ -1,0 +1,16 @@
+{
+    "urlName": "dragon-s-guard",
+    "url": "http://aqwwiki.wikidot.com/dragon-s-guard",
+    "name": "Dragon's Guard",
+    "type": "helmets_&_hoods",
+    "description": "An ornate helm for those who guard the Dragons.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/UN5VM4A.png"
+    ],
+    "hash": "1e8a070a2fd6cadc765e956238a0e126"
+}

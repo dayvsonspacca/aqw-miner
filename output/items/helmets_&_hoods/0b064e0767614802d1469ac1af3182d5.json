@@ -1,0 +1,17 @@
+{
+    "urlName": "native-chief-hat",
+    "url": "http://aqwwiki.wikidot.com/native-chief-hat",
+    "name": "Native Chief Hat",
+    "type": "helmets_&_hoods",
+    "description": "You're Chief in this town.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/native-chief-hat/NCH.png"
+    ],
+    "hash": "0b064e0767614802d1469ac1af3182d5"
+}

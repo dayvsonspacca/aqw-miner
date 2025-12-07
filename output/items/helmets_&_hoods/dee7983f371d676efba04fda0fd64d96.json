@@ -1,0 +1,15 @@
+{
+    "urlName": "medic-helmet",
+    "url": "http://aqwwiki.wikidot.com/medic-helmet",
+    "name": "Medic Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Standart helmet issued to all Skyguard Medics.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/fVzMjMb.png"
+    ],
+    "hash": "dee7983f371d676efba04fda0fd64d96"
+}

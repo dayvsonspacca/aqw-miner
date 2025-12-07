@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-deathmask-non-ac",
+    "url": "http://aqwwiki.wikidot.com/legion-deathmask-non-ac",
+    "name": "Legion DeathMask (Non-AC)",
+    "type": "helmets_&_hoods",
+    "description": "This skull ignites a passion for death only souls can quench. (This item has a 15% chance to do the Shadowburst attack animation.)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/M6bOxau.png",
+        "http://i.imgur.com/3VV4G4n.png"
+    ],
+    "hash": "5fed2ef69472bfaf41cf0c32a113ed78"
+}

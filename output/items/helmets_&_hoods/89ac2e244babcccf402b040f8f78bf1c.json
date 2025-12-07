@@ -1,0 +1,16 @@
+{
+    "urlName": "void-champion-helm",
+    "url": "http://aqwwiki.wikidot.com/void-champion-helm",
+    "name": "Void Champion Helm",
+    "type": "helmets_&_hoods",
+    "description": "You must fill the void of your fallen comrades. The fight can be won.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-champion-helm/VoidChampionHelm.png"
+    ],
+    "hash": "89ac2e244babcccf402b040f8f78bf1c"
+}

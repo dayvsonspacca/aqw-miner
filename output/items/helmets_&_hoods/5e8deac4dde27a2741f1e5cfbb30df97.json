@@ -1,0 +1,17 @@
+{
+    "urlName": "arctic-defender-helm",
+    "url": "http://aqwwiki.wikidot.com/arctic-defender-helm",
+    "name": "Arctic Defender Helm",
+    "type": "helmets_&_hoods",
+    "description": "You will always keep your cool in this helm.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/1pLwGK7.png"
+    ],
+    "hash": "5e8deac4dde27a2741f1e5cfbb30df97"
+}

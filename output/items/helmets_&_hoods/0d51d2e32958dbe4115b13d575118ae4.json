@@ -1,0 +1,16 @@
+{
+    "urlName": "mr-potaderp-head",
+    "url": "http://aqwwiki.wikidot.com/mr-potaderp-head",
+    "name": "Mr. Potaderp Head",
+    "type": "helmets_&_hoods",
+    "description": "Something has happened to this potato. It has been animated and is now stuck to your head.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/w5V25Zq.png"
+    ],
+    "hash": "0d51d2e32958dbe4115b13d575118ae4"
+}

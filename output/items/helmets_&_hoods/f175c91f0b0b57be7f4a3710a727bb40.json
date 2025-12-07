@@ -1,0 +1,16 @@
+{
+    "urlName": "frostlorn-hooded-skull-ac",
+    "url": "http://aqwwiki.wikidot.com/frostlorn-hooded-skull-ac",
+    "name": "Frostlorn Hooded Skull (AC)",
+    "type": "helmets_&_hoods",
+    "description": "It's a tradition among Frostlorn Necromancers to use the skull of your first reanimated skeleton to craft your own mask.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/9aXyYdY.png"
+    ],
+    "hash": "f175c91f0b0b57be7f4a3710a727bb40"
+}

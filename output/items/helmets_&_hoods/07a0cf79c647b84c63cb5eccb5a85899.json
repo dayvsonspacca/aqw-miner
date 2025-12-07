@@ -1,0 +1,15 @@
+{
+    "urlName": "chaotic-warmage-helm",
+    "url": "http://aqwwiki.wikidot.com/chaotic-warmage-helm",
+    "name": "Chaotic WarMage Helm",
+    "type": "helmets_&_hoods",
+    "description": "The power of Chaos can be used in many different ways. The Chaotic WarMage uses it to boost their own personal power in battle.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/liXUQQ1.png"
+    ],
+    "hash": "07a0cf79c647b84c63cb5eccb5a85899"
+}

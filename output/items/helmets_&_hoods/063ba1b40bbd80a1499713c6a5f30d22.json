@@ -1,0 +1,16 @@
+{
+    "urlName": "santa-hunk",
+    "url": "http://aqwwiki.wikidot.com/santa-hunk",
+    "name": "Santa Hunk",
+    "type": "helmets_&_hoods",
+    "description": "An awesome Santa hat for the boys! Comes with color-customizable hair, of course!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/santa-hunk/SantaHunk.png"
+    ],
+    "hash": "063ba1b40bbd80a1499713c6a5f30d22"
+}

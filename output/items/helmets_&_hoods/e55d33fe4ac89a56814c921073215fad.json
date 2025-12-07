@@ -1,0 +1,17 @@
+{
+    "urlName": "arctic-goggles",
+    "url": "http://aqwwiki.wikidot.com/arctic-goggles",
+    "name": "Arctic Goggles",
+    "type": "helmets_&_hoods",
+    "description": "Finally a helm to refract snow blindness.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/ZZT2mbp.png"
+    ],
+    "hash": "e55d33fe4ac89a56814c921073215fad"
+}

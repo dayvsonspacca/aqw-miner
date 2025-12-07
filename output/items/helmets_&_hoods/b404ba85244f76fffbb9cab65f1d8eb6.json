@@ -1,0 +1,17 @@
+{
+    "urlName": "vampire-locks",
+    "url": "http://aqwwiki.wikidot.com/vampire-locks",
+    "name": "Vampire Locks",
+    "type": "helmets_&_hoods",
+    "description": "Vampire hair-dos never suck. Lock on to your latest victim with these classic vampire locks!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/QuLgw3t.png"
+    ],
+    "hash": "b404ba85244f76fffbb9cab65f1d8eb6"
+}

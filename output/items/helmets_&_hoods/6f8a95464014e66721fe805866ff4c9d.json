@@ -1,0 +1,17 @@
+{
+    "urlName": "shadowfire-battlecowl",
+    "url": "http://aqwwiki.wikidot.com/shadowfire-battlecowl",
+    "name": "Shadowfire Battlecowl",
+    "type": "helmets_&_hoods",
+    "description": "Worn by the warrior-monks of the Shadowfire Dynasty. Ancient ruins in the Sandsea still hold relics such as these.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowfire-battlecowl/ShadowfireBattlecowl.png"
+    ],
+    "hash": "6f8a95464014e66721fe805866ff4c9d"
+}

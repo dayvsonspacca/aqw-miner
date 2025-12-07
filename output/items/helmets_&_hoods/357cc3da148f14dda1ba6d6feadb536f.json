@@ -1,0 +1,16 @@
+{
+    "urlName": "gilded-knight-armet",
+    "url": "http://aqwwiki.wikidot.com/gilded-knight-armet",
+    "name": "Gilded Knight Armet",
+    "type": "helmets_&_hoods",
+    "description": "A helm that, over time, was gilded gold through the accomplishments of its wearer.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/X8MouHw.png"
+    ],
+    "hash": "357cc3da148f14dda1ba6d6feadb536f"
+}

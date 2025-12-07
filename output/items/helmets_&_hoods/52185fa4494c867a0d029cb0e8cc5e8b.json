@@ -1,0 +1,16 @@
+{
+    "urlName": "adamas-tenebris-helm",
+    "url": "http://aqwwiki.wikidot.com/adamas-tenebris-helm",
+    "name": "Adamas Tenebris Helm",
+    "type": "helmets_&_hoods",
+    "description": "In the shadows of the ancient mountains, the Drow had unity and strength that they never found again. Even their memory became nothing more than a fantasy to their descendants. With enough envy, even diamonds can be broken.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/NKMPsHq.png"
+    ],
+    "hash": "52185fa4494c867a0d029cb0e8cc5e8b"
+}

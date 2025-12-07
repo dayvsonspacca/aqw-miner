@@ -1,0 +1,16 @@
+{
+    "urlName": "mocking-mask-tophat",
+    "url": "http://aqwwiki.wikidot.com/mocking-mask-tophat",
+    "name": "Mocking Mask + Tophat",
+    "type": "helmets_&_hoods",
+    "description": "No hero will be able to resist your matchmaking machinations when invite them to join you on your next adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/KxFs1WI.png"
+    ],
+    "hash": "a11e3ea4415887c2c954b7a8d4e1f552"
+}

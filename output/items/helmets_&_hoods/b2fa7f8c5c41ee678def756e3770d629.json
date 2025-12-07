@@ -1,0 +1,15 @@
+{
+    "urlName": "skeletal-helm-of-the-lost",
+    "url": "http://aqwwiki.wikidot.com/skeletal-helm-of-the-lost",
+    "name": "Skeletal Helm of the Lost",
+    "type": "helmets_&_hoods",
+    "description": "This rusty helm offers more protection than you'd think - not that its owner seems to need it.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/tUM3nPb.png"
+    ],
+    "hash": "b2fa7f8c5c41ee678def756e3770d629"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "native-feathered-hat",
+    "url": "http://aqwwiki.wikidot.com/native-feathered-hat",
+    "name": "Native Feathered hat",
+    "type": "helmets_&_hoods",
+    "description": "You are now part of the Native people of Lore.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/native-feathered-hat/IFH08.png"
+    ],
+    "hash": "670ca45a195816a603466d7b4cd1521e"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "galatea-head-legend",
+    "url": "http://aqwwiki.wikidot.com/galatea-head-legend",
+    "name": "Galatea Head (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "The cockpit from which Galatea controls her mech. This description doesn't have a reference crammed into it, so don't look for one.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/cDaiQb5.png",
+        "http://i.imgur.com/6KrCcTU.png"
+    ],
+    "hash": "afa08ec3f262fd88eab3939d4a8cb8e5"
+}

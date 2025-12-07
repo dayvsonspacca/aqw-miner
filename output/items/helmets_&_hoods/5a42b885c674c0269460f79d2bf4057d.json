@@ -1,0 +1,15 @@
+{
+    "urlName": "lightninglord-helm",
+    "url": "http://aqwwiki.wikidot.com/lightninglord-helm",
+    "name": "LightningLord Helm",
+    "type": "helmets_&_hoods",
+    "description": "LightningLords collect the power of lightning, and store it in special gems scattered across their robes for use in battle. ZZZap!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/QagtvhF.png"
+    ],
+    "hash": "5a42b885c674c0269460f79d2bf4057d"
+}

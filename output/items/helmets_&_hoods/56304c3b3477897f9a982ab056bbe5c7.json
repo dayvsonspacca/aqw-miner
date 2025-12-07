@@ -1,0 +1,17 @@
+{
+    "urlName": "groundhog-hat",
+    "url": "http://aqwwiki.wikidot.com/groundhog-hat",
+    "name": "Groundhog Hat",
+    "type": "helmets_&_hoods",
+    "description": "Celebrate Groundhog Day in style with a classic groundhog morph and bucket hat. Happy Groundhog Day! (Dynamite not included)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": {
+        "0": "Seasonal",
+        "1": "Rare",
+        "8": "Legend"
+    },
+    "images": [
+        "http://i.imgur.com/PesfL5h.png"
+    ],
+    "hash": "56304c3b3477897f9a982ab056bbe5c7"
+}

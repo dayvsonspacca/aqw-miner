@@ -1,0 +1,16 @@
+{
+    "urlName": "smuggler-s-bandana",
+    "url": "http://aqwwiki.wikidot.com/smuggler-s-bandana",
+    "name": "Smuggler's Bandana",
+    "type": "helmets_&_hoods",
+    "description": "Some pirates are only attacking ships who mean to steal from Greenguard. The practiced accents, the subtly painted skull accessories\u2026Well, if they're paying for the next round of grog, who's going to ask questions?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/y0stjsF.png"
+    ],
+    "hash": "574dc80fd2172c2c5dc554229385e3b0"
+}

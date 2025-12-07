@@ -1,0 +1,16 @@
+{
+    "urlName": "thanatos-helm",
+    "url": "http://aqwwiki.wikidot.com/thanatos-helm",
+    "name": "Thanatos Helm",
+    "type": "helmets_&_hoods",
+    "description": "The brutal war helmet belonging to Thanatos himself. It takes a great amount of physical and mental sacrifice to don the helm of Thanatos. Gives 20% more rep when equipped.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/thanatos-helm/ThanatosHelm.png"
+    ],
+    "hash": "872b414dc51d5a7dca6af7677ff7ac7d"
+}

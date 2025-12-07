@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-higher-power",
+    "url": "http://aqwwiki.wikidot.com/helm-of-higher-power",
+    "name": "Helm of Higher Power",
+    "type": "helmets_&_hoods",
+    "description": "This helmet is encrusted with decorations and gemstones fit for you",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/FBP0hUU.png"
+    ],
+    "hash": "3536c46622e668ab2ecccd15239d92be"
+}

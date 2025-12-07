@@ -1,0 +1,16 @@
+{
+    "urlName": "shades-of-chaos-helm",
+    "url": "http://aqwwiki.wikidot.com/shades-of-chaos-helm",
+    "name": "Shades of Chaos Helm",
+    "type": "helmets_&_hoods",
+    "description": "When darkness become your only friend, Chaos is waiting to embrace you like a parent.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shades-of-chaos-helm/ShadesofChaosHelm.png"
+    ],
+    "hash": "591b76a8c5645bbb8c7012e1fd13ad11"
+}

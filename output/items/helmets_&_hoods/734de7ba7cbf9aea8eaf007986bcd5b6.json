@@ -1,0 +1,16 @@
+{
+    "urlName": "haggard-beard",
+    "url": "http://aqwwiki.wikidot.com/haggard-beard",
+    "name": "Haggard Beard",
+    "type": "helmets_&_hoods",
+    "description": "A well brushed beard that looks it best even when its heavy with sighs.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vUhzlRh.png"
+    ],
+    "hash": "734de7ba7cbf9aea8eaf007986bcd5b6"
+}

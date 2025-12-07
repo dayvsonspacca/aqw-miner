@@ -1,0 +1,17 @@
+{
+    "urlName": "mr-yes-helm",
+    "url": "http://aqwwiki.wikidot.com/mr-yes-helm",
+    "name": "Mr Yes Helm",
+    "type": "helmets_&_hoods",
+    "description": "Do you like this look, yes or yes?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/amx86Wj.png",
+        "https://imgur.com/FWZd7PT.png"
+    ],
+    "hash": "2233d662473975e0976b193c243b175f"
+}

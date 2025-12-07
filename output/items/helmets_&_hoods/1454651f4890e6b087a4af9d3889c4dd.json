@@ -1,0 +1,16 @@
+{
+    "urlName": "prometheus-guard",
+    "url": "http://aqwwiki.wikidot.com/prometheus-guard",
+    "name": "Prometheus Guard",
+    "type": "helmets_&_hoods",
+    "description": "This helm is further attuned to the used to form all life on Lore.The more fearsome visage keeps your foes at bay.You know where their every essence flows\u2026who wouldn't be afraid?",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prometheus-guard/PrometheusGuard.png"
+    ],
+    "hash": "1454651f4890e6b087a4af9d3889c4dd"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "matchmaker-gatsby-hat",
+    "url": "http://aqwwiki.wikidot.com/matchmaker-gatsby-hat",
+    "name": "MatchMaker Gatsby Hat",
+    "type": "helmets_&_hoods",
+    "description": "No hero will be able to resist your matchmaking machinations when invite them to join you on your next adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/LcJyWBl.png"
+    ],
+    "hash": "a162a362a634a538f2103f3f1c1589d1"
+}

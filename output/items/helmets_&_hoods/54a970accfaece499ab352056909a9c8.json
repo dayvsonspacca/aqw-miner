@@ -1,0 +1,15 @@
+{
+    "urlName": "battle-oracle-hood",
+    "url": "http://aqwwiki.wikidot.com/battle-oracle-hood",
+    "name": "Battle Oracle Hood",
+    "type": "helmets_&_hoods",
+    "description": "Oracles are strong healers and can see into everyone's future, past and present, even if they don't know it! They are excellent at maintaining the health and status of their friends. They can also notify their friends of their opponents weaknesses and strengths, making them the perfect ones to accept a party invite from.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/battle-oracle-hood/BattleOracleHood.png"
+    ],
+    "hash": "54a970accfaece499ab352056909a9c8"
+}

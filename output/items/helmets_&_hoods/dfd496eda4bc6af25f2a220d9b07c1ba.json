@@ -1,0 +1,16 @@
+{
+    "urlName": "uw3017-helm",
+    "url": "http://aqwwiki.wikidot.com/uw3017-helm",
+    "name": "Uw3017 Helm",
+    "type": "helmets_&_hoods",
+    "description": "Nobody knows if you are dead or alive. Not that it will matter anyway because either word is meaningless as you gaze at your foe through this tinlike exterior that is veiled carefully.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/tsRpnl8.png",
+        "http://i.imgur.com/vw9rTHB.png"
+    ],
+    "hash": "dfd496eda4bc6af25f2a220d9b07c1ba"
+}

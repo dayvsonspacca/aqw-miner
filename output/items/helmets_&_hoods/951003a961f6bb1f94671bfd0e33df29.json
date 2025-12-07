@@ -1,0 +1,17 @@
+{
+    "urlName": "prismatic-war-room-helm",
+    "url": "http://aqwwiki.wikidot.com/prismatic-war-room-helm",
+    "name": "Prismatic War Room Helm",
+    "type": "helmets_&_hoods",
+    "description": "THIS IS LORE! Tonight we shall dine in the SECRET UNDERGROUND LAB\u2026 with this custom helm!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-war-room-helm/PWRH.png"
+    ],
+    "hash": "951003a961f6bb1f94671bfd0e33df29"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "sky-frost-helm",
+    "url": "http://aqwwiki.wikidot.com/sky-frost-helm",
+    "name": "Sky Frost Helm",
+    "type": "helmets_&_hoods",
+    "description": "Ice blue and ready to move, this helm will create an effective barrier, protecting you as you fight the enemy.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sky-frost-helm/SkyFrostHelm.png"
+    ],
+    "hash": "a0da0dfc2984ac368e614ec8beb3c562"
+}

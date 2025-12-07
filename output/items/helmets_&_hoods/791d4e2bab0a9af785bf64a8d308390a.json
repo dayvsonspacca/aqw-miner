@@ -1,0 +1,17 @@
+{
+    "urlName": "timemage-hood",
+    "url": "http://aqwwiki.wikidot.com/timemage-hood",
+    "name": "TimeMage Hood",
+    "type": "helmets_&_hoods",
+    "description": "Who wears this prismatic hood sometimes. No, that's not a question.",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/timemage-hood/TimemageHoodNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/timemage-hood/TimemageHood.png"
+    ],
+    "hash": "791d4e2bab0a9af785bf64a8d308390a"
+}

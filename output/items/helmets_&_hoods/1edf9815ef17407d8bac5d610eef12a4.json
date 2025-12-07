@@ -1,0 +1,16 @@
+{
+    "urlName": "arch-anjelus-helm",
+    "url": "http://aqwwiki.wikidot.com/arch-anjelus-helm",
+    "name": "Arch Anjelus Helm",
+    "type": "helmets_&_hoods",
+    "description": "You'll look divine with this helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/arch-anjelus-helm/ArchAnjelusHelm.png"
+    ],
+    "hash": "1edf9815ef17407d8bac5d610eef12a4"
+}

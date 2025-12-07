@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-general-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/underworld-general-helm-ac",
+    "name": "Underworld General Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "To gain acces to the Underword you must defeat one of the many Generals which roam the forsaken land looking for souls to harvest.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/eoGJhPw.png"
+    ],
+    "hash": "f530ee80e4a94a2b814c4a3fd535ef49"
+}

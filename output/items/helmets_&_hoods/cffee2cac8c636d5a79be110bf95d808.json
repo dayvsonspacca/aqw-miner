@@ -1,0 +1,16 @@
+{
+    "urlName": "lunar-pirate-locks",
+    "url": "http://aqwwiki.wikidot.com/lunar-pirate-locks",
+    "name": "Lunar Pirate Locks",
+    "type": "helmets_&_hoods",
+    "description": "The less moonlight there is at night, the stronger the glow of this majestic hat, granting you a suitable nightlight when sailing when there is no moon or sun to be seen.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunar-pirate-locks/LunarPirateLocks.png"
+    ],
+    "hash": "cffee2cac8c636d5a79be110bf95d808"
+}

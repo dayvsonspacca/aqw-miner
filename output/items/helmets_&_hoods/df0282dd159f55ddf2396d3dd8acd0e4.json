@@ -1,0 +1,16 @@
+{
+    "urlName": "toxic-alchemist-hair",
+    "url": "http://aqwwiki.wikidot.com/toxic-alchemist-hair",
+    "name": "Toxic Alchemist Hair",
+    "type": "helmets_&_hoods",
+    "description": "Hair of any alchemist that has dabbled in the use of toxic magic.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/14g2IW6.png"
+    ],
+    "hash": "df0282dd159f55ddf2396d3dd8acd0e4"
+}

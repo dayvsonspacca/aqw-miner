@@ -1,0 +1,16 @@
+{
+    "urlName": "erudite-plague-doctor-locks",
+    "url": "http://aqwwiki.wikidot.com/erudite-plague-doctor-locks",
+    "name": "Erudite Plague Doctor Locks",
+    "type": "helmets_&_hoods",
+    "description": "These doctors must wear masks for the safety of their own patients. Having studied infections of malevolent origins, darkness seeped into their skin. They're only welcomed into villages when absolutely necessary.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/IgYlhKV.png"
+    ],
+    "hash": "e44d83bc7c1f35412ff00e21656998d4"
+}

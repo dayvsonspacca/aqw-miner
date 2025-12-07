@@ -1,0 +1,16 @@
+{
+    "urlName": "legend-helm",
+    "url": "http://aqwwiki.wikidot.com/legend-helm",
+    "name": "Legend Helm",
+    "type": "helmets_&_hoods",
+    "description": "You are truly one of Lore's greatest heroes! Because of your support and efforts in battle, the world will be saved!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/EgXw68N.png"
+    ],
+    "hash": "22ac36cefb8d70f67b17223f4e5908aa"
+}

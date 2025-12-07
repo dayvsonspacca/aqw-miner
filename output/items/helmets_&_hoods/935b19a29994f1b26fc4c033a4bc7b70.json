@@ -1,0 +1,16 @@
+{
+    "urlName": "legacy-of-nulgath-helm",
+    "url": "http://aqwwiki.wikidot.com/legacy-of-nulgath-helm",
+    "name": "Legacy of Nulgath Helm",
+    "type": "helmets_&_hoods",
+    "description": "Nicely done, Abyssal Army! From Nulgath: Given to his loyal followers for victory in the Summer of Evil war! (Color custom!)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/legacy-of-nulgath-helm/LegacyofNulgathHelm.png"
+    ],
+    "hash": "935b19a29994f1b26fc4c033a4bc7b70"
+}

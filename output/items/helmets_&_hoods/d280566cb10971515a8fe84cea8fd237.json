@@ -1,0 +1,15 @@
+{
+    "urlName": "phoenix-reign-helm",
+    "url": "http://aqwwiki.wikidot.com/phoenix-reign-helm",
+    "name": "Phoenix Reign Helm",
+    "type": "helmets_&_hoods",
+    "description": "The regalia of rulers long forgotten. In your hands, this warm steel achieves new life and glory - burning fresh scars into the battlefield.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/2ftcEdJ.png"
+    ],
+    "hash": "d280566cb10971515a8fe84cea8fd237"
+}

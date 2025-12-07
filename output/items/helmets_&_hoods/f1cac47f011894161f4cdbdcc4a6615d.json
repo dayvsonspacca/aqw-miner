@@ -1,0 +1,16 @@
+{
+    "urlName": "festive-hair",
+    "url": "http://aqwwiki.wikidot.com/festive-hair",
+    "name": "Festive Hair",
+    "type": "helmets_&_hoods",
+    "description": "The perfect hairstyle to wear to a holiday /party.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UCJTwD4.png"
+    ],
+    "hash": "f1cac47f011894161f4cdbdcc4a6615d"
+}

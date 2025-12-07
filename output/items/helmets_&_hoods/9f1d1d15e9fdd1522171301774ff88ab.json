@@ -1,0 +1,16 @@
+{
+    "urlName": "dread-rider-helm",
+    "url": "http://aqwwiki.wikidot.com/dread-rider-helm",
+    "name": "Dread Rider Helm",
+    "type": "helmets_&_hoods",
+    "description": "Gryphon's not the most pleasant smelling creatures.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dread-rider-helm/DreadRiderHelm.png"
+    ],
+    "hash": "9f1d1d15e9fdd1522171301774ff88ab"
+}

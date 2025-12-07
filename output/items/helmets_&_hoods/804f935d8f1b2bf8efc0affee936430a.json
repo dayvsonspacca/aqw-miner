@@ -1,0 +1,13 @@
+{
+    "urlName": "basic-helm",
+    "url": "http://aqwwiki.wikidot.com/basic-helm",
+    "name": "Basic Helm",
+    "type": "helmets_&_hoods",
+    "description": "A basic leather helm with metal.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "https://i.imgur.com/3m1DAxY.png"
+    ],
+    "hash": "804f935d8f1b2bf8efc0affee936430a"
+}

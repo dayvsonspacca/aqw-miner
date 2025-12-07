@@ -1,0 +1,17 @@
+{
+    "urlName": "noble-recruit-s-helm",
+    "url": "http://aqwwiki.wikidot.com/noble-recruit-s-helm",
+    "name": "Noble Recruit's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hate dragons? Did one burn down your house? Does the name Targaryen cause rage? Then you've joined the right squad!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/RjV3NE5.png",
+        "https://i.imgur.com/94UgVzu.png"
+    ],
+    "hash": "83e3c78294e56a365e013b12ed30f167"
+}

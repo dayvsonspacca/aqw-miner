@@ -1,0 +1,16 @@
+{
+    "urlName": "radioactive-wanderer-beard",
+    "url": "http://aqwwiki.wikidot.com/radioactive-wanderer-beard",
+    "name": "Radioactive Wanderer Beard",
+    "type": "helmets_&_hoods",
+    "description": "See that glow? That's nuclear. Warning, not responsible if you turn into a giant radioactive mutant.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Pd1qMIt.png"
+    ],
+    "hash": "f500afe1d892decf4bcbc3882328b1c8"
+}

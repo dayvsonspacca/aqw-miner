@@ -1,0 +1,16 @@
+{
+    "urlName": "brutalcorn-helm",
+    "url": "http://aqwwiki.wikidot.com/brutalcorn-helm",
+    "name": "Brutalcorn!",
+    "type": "helmets_&_hoods",
+    "description": "This unicorn is BRUTAL!",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brutalcorn-helm/Brutalcorn.png"
+    ],
+    "hash": "6c7c2885cd760e1fa0bfbcc4d8162249"
+}

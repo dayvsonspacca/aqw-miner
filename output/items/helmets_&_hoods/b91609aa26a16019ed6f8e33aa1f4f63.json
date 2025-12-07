@@ -1,0 +1,16 @@
+{
+    "urlName": "silver-warrior-helm",
+    "url": "http://aqwwiki.wikidot.com/silver-warrior-helm",
+    "name": "Silver Warrior Helm",
+    "type": "helmets_&_hoods",
+    "description": "This stark helm will terrorize your opponents when they try to stare you down. NO ONE outmatches an Iron Warrior!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/silver-warrior-helm/SilverWarriorHelm.png"
+    ],
+    "hash": "b91609aa26a16019ed6f8e33aa1f4f63"
+}

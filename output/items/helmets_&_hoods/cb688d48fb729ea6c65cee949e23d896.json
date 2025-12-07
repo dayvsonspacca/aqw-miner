@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-bandit-hat-ac",
+    "url": "http://aqwwiki.wikidot.com/dark-bandit-hat-ac",
+    "name": "Dark Bandit Hat (AC)",
+    "type": "helmets_&_hoods",
+    "description": "A bandit is a thug no matter how well they dress. The black just hides the stains better.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/ourkjVS.png"
+    ],
+    "hash": "cb688d48fb729ea6c65cee949e23d896"
+}

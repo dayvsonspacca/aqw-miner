@@ -1,0 +1,16 @@
+{
+    "urlName": "toil-locks",
+    "url": "http://aqwwiki.wikidot.com/toil-locks",
+    "name": "Toil Locks",
+    "type": "helmets_&_hoods",
+    "description": "Don't \"Toil\" over this hair.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/sOeCVGh.png"
+    ],
+    "hash": "de886cbc198c18e95404483468c6354c"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "ben",
+    "url": "http://aqwwiki.wikidot.com/ben",
+    "name": "Ben",
+    "type": "helmets_&_hoods",
+    "description": "Every school has a Ben.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8MkOj0K.png"
+    ],
+    "hash": "604465552f05de6043a88ba11b8a4cb1"
+}

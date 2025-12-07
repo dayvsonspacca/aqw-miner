@@ -1,0 +1,16 @@
+{
+    "urlName": "arcane-founder-locks",
+    "url": "http://aqwwiki.wikidot.com/arcane-founder-locks",
+    "name": "Arcane Founder Locks",
+    "type": "helmets_&_hoods",
+    "description": "Fireball, Ice Shard, and Arcane Shield are basic skills taught to beginner Mages. Though simple and easy to learn, they have a storied past, being the first spells to ever be wielded by humankind.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/DMAvNDO.png"
+    ],
+    "hash": "92cf3adef7f70ae1de390717f449a515"
+}

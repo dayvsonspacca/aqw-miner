@@ -1,0 +1,17 @@
+{
+    "urlName": "timedragon-s-crest-helm",
+    "url": "http://aqwwiki.wikidot.com/timedragon-s-crest-helm",
+    "name": "Timedragon's Crest Helm",
+    "type": "helmets_&_hoods",
+    "description": "The time dragon thanks you for your valiant efforts defending its life!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/timedragon-s-crest-helm/Timedragon'sCrestHelm.png"
+    ],
+    "hash": "4e6baf19d3e4e247695739fab8aecc6e"
+}

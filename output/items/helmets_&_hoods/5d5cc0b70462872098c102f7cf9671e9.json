@@ -1,0 +1,17 @@
+{
+    "urlName": "proto-paragon-helm",
+    "url": "http://aqwwiki.wikidot.com/proto-paragon-helm",
+    "name": "Proto-Paragon Helm",
+    "type": "helmets_&_hoods",
+    "description": "BEFORE Dage the Evil created the Paragon helm, he made this one. Only his most devoted fans will ever be able to /equip this gear\u2026 and it looks like YOU are up for the challenge! Serve the Evil One well, warrior!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/proto-paragon-helm/Proto-ParagonHelm.png"
+    ],
+    "hash": "5d5cc0b70462872098c102f7cf9671e9"
+}

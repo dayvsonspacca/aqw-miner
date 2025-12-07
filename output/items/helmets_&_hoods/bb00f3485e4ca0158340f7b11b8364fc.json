@@ -1,0 +1,15 @@
+{
+    "urlName": "sand-bandit-s-helm",
+    "url": "http://aqwwiki.wikidot.com/sand-bandit-s-helm",
+    "name": "Sand Bandit's Helm",
+    "type": "helmets_&_hoods",
+    "description": "The bandits roaming the endless dunes of the Sandsea desert are fierce, deadly, and mortal enemies of the SandSea Guardians!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/E4LBLcj.png"
+    ],
+    "hash": "bb00f3485e4ca0158340f7b11b8364fc"
+}

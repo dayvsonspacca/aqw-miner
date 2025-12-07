@@ -1,0 +1,15 @@
+{
+    "urlName": "talking-hat",
+    "url": "http://aqwwiki.wikidot.com/talking-hat",
+    "name": "Talking Hat",
+    "type": "helmets_&_hoods",
+    "description": "If you listen it'll tell you what DragonRune house you're in.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Yr8uhJ3.png"
+    ],
+    "hash": "5e464f1ff699b433fc095e1bdaba7ac0"
+}

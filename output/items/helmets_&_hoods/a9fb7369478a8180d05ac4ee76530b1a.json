@@ -1,0 +1,16 @@
+{
+    "urlName": "envenomed-void-spikes-ac",
+    "url": "http://aqwwiki.wikidot.com/envenomed-void-spikes-ac",
+    "name": "Envenomed Void Spikes (AC)",
+    "type": "helmets_&_hoods",
+    "description": "One prick of the poisoned spines on your helm will send your enemies into the greatest agony!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/envenomed-void-spikes-ac/EnvenomedVoidSpikes.png"
+    ],
+    "hash": "a9fb7369478a8180d05ac4ee76530b1a"
+}

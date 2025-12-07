@@ -1,0 +1,16 @@
+{
+    "urlName": "aurus-via-helm",
+    "url": "http://aqwwiki.wikidot.com/aurus-via-helm",
+    "name": "Aurus Via Helm",
+    "type": "helmets_&_hoods",
+    "description": "*no description*",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/aurus-via-helm/AurusViaHelm.png"
+    ],
+    "hash": "47f6c16fdf74b55f4e2398b672901cbe"
+}

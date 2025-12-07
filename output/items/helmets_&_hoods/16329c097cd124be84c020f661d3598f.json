@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-jester-mask",
+    "url": "http://aqwwiki.wikidot.com/shadow-jester-mask",
+    "name": "Shadow Jester Mask",
+    "type": "helmets_&_hoods",
+    "description": "A jolly hat for a screaming good time.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/b51Rwo5.png"
+    ],
+    "hash": "16329c097cd124be84c020f661d3598f"
+}

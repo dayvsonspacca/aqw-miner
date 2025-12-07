@@ -1,0 +1,16 @@
+{
+    "urlName": "necrayaya-helm-stache",
+    "url": "http://aqwwiki.wikidot.com/necrayaya-helm-stache",
+    "name": "Necrayaya Helm + Stache",
+    "type": "helmets_&_hoods",
+    "description": "Celebrate Cinco de Mayo! When the band is made up of undead mariachi musicians, the /party will NEVER stop!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8Ol7c52.png"
+    ],
+    "hash": "102fb3aefec0c9a91809cd9496a40d58"
+}

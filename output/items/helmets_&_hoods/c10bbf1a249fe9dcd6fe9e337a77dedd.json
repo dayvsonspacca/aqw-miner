@@ -1,0 +1,16 @@
+{
+    "urlName": "valkyrie-locks-helm",
+    "url": "http://aqwwiki.wikidot.com/valkyrie-locks-helm",
+    "name": "Valkyrie Locks Helm",
+    "type": "helmets_&_hoods",
+    "description": "Let your locks flow in the heat of battle!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/valkyrie-locks-helm/ValkyrieLocksHelm.png"
+    ],
+    "hash": "c10bbf1a249fe9dcd6fe9e337a77dedd"
+}

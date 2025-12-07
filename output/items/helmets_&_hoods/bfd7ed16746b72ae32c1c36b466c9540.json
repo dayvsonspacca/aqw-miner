@@ -1,0 +1,15 @@
+{
+    "urlName": "ld2-combat-helm",
+    "url": "http://aqwwiki.wikidot.com/ld2-combat-helm",
+    "name": "LD2 Combat Helm",
+    "type": "helmets_&_hoods",
+    "description": "You have one mission: Destroy.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/ZIbfdD8.png"
+    ],
+    "hash": "bfd7ed16746b72ae32c1c36b466c9540"
+}

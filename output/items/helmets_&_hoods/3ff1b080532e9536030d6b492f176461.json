@@ -1,0 +1,16 @@
+{
+    "urlName": "feral-s-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/feral-s-helm-ac",
+    "name": "Feral's Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Meld with the Unifying Intellect as an Elk Clan druid!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/feral-s-helm-ac/FH.png"
+    ],
+    "hash": "3ff1b080532e9536030d6b492f176461"
+}

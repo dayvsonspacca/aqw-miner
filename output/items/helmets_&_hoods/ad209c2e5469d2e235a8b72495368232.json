@@ -1,0 +1,15 @@
+{
+    "urlName": "mp-hat",
+    "url": "http://aqwwiki.wikidot.com/mp-hat",
+    "name": "MP Hat",
+    "type": "helmets_&_hoods",
+    "description": "Look official with this hat, made to work exclusively for the SkyGuard MP. Communicate with others to find perpetrators and organize task force to address any trouble that is reported.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/UI3NUmE.png"
+    ],
+    "hash": "ad209c2e5469d2e235a8b72495368232"
+}

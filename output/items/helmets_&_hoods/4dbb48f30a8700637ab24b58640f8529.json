@@ -1,0 +1,17 @@
+{
+    "urlName": "peppermint-flopper",
+    "url": "http://aqwwiki.wikidot.com/peppermint-flopper",
+    "name": "Peppermint Flopper",
+    "type": "helmets_&_hoods",
+    "description": "Wear this, you'll look dapper as a flopper.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lSBZMCI.png"
+    ],
+    "hash": "4dbb48f30a8700637ab24b58640f8529"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "water-ring-mask",
+    "url": "http://aqwwiki.wikidot.com/water-ring-mask",
+    "name": "Water Ring Mask",
+    "type": "helmets_&_hoods",
+    "description": "This Water Ring Mask allows you to SEA your enemies without them SEAing your face!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/water-ring-mask/WaterRingMask.png"
+    ],
+    "hash": "b10a51f001bfa85d28464618408b803d"
+}

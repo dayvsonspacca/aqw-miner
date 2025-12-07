@@ -1,0 +1,16 @@
+{
+    "urlName": "skeletal-paragon-tophat",
+    "url": "http://aqwwiki.wikidot.com/skeletal-paragon-tophat",
+    "name": "Skeletal Paragon Tophat",
+    "type": "helmets_&_hoods",
+    "description": "In the name of the Undead Legion, you plunder port towns by stealing their loot, livestock, and their souls. Dage will be so proud.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skeletal-paragon-tophat/SkeletalParagonTophat.png"
+    ],
+    "hash": "97893feca46a9bafffdd7c1e0bf22622"
+}

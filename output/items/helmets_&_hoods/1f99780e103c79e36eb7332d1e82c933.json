@@ -1,0 +1,16 @@
+{
+    "urlName": "gilded-skyguard-helm",
+    "url": "http://aqwwiki.wikidot.com/gilded-skyguard-helm",
+    "name": "Gilded Skyguard Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm is gilded entirely in gold and is wearable only by the highest ranking (and strongest) Skyguard captains.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/gilded-skyguard-helm/GildedSkyguardHelm.png"
+    ],
+    "hash": "1f99780e103c79e36eb7332d1e82c933"
+}

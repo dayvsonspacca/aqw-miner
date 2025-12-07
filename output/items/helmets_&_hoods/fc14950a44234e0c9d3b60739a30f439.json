@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-light",
+    "url": "http://aqwwiki.wikidot.com/helm-of-light",
+    "name": "Helm Of Light",
+    "type": "helmets_&_hoods",
+    "description": "The brightest light is a beacon in the dark. Bow down before Empress Gravelyn!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-light/HelmL.png"
+    ],
+    "hash": "fc14950a44234e0c9d3b60739a30f439"
+}

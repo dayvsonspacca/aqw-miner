@@ -1,0 +1,16 @@
+{
+    "urlName": "war-s-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/war-s-helm-legend",
+    "name": "War's Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "Solid steel, the color of blood and magma.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/ZGhEZfO.png"
+    ],
+    "hash": "abc9793b75f057904265e46fbfaa1dd2"
+}

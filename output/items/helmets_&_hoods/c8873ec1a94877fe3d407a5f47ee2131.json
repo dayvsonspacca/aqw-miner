@@ -1,0 +1,15 @@
+{
+    "urlName": "necromancer-hood",
+    "url": "http://aqwwiki.wikidot.com/necromancer-hood",
+    "name": "Necromancer Hood",
+    "type": "helmets_&_hoods",
+    "description": "A hood designed specially for Necromancers. Can't have guts and goo splashing on your face!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/6VLjc34.png"
+    ],
+    "hash": "c8873ec1a94877fe3d407a5f47ee2131"
+}

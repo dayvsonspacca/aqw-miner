@@ -1,0 +1,16 @@
+{
+    "urlName": "groundforce-faceguard",
+    "url": "http://aqwwiki.wikidot.com/groundforce-faceguard",
+    "name": "GroundForce Faceguard",
+    "type": "helmets_&_hoods",
+    "description": "The ultimate helm for a GroundForce Captain. When one of these is spotted on the battlefield, all but the bravest of Heroes turn tail and run. Go forth and attack Lore in Evil King Alteon's name!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/groundforce-faceguard/GroundForceFaceguard.png"
+    ],
+    "hash": "c59d53c4a23e1983ff5e41fdc88200b3"
+}

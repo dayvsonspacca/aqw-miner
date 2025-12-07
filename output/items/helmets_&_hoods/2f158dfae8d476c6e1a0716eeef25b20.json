@@ -1,0 +1,15 @@
+{
+    "urlName": "feathered-bard-hat",
+    "url": "http://aqwwiki.wikidot.com/feathered-bard-hat",
+    "name": "Feathered Bard Hat",
+    "type": "helmets_&_hoods",
+    "description": "The feather on the brim of this fetching hat was plucked from the rump of a competitor.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/JAGpXYU.png"
+    ],
+    "hash": "2f158dfae8d476c6e1a0716eeef25b20"
+}

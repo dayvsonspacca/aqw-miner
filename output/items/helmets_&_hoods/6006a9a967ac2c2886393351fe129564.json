@@ -1,0 +1,18 @@
+{
+    "urlName": "prismatic-hood",
+    "url": "http://aqwwiki.wikidot.com/prismatic-hood",
+    "name": "Prismatic Hood",
+    "type": "helmets_&_hoods",
+    "description": "Have you ever considered a job in the film industry? Hear you're great with re-animation.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-hood/PrismaticHoodN.png",
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-hood/PrismaticHood.png"
+    ],
+    "hash": "6006a9a967ac2c2886393351fe129564"
+}

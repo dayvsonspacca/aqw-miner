@@ -1,0 +1,15 @@
+{
+    "urlName": "crow-helm",
+    "url": "http://aqwwiki.wikidot.com/crow-helm",
+    "name": "Crow Helm",
+    "type": "helmets_&_hoods",
+    "description": "For fans of the Crow Team. Feast on the remains of the Miners!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/crow-helm/CrowHelm.png"
+    ],
+    "hash": "0f6f5483affd2b0a71543ff8ab3291ed"
+}

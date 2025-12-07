@@ -1,0 +1,16 @@
+{
+    "urlName": "akiban-shogun-helm",
+    "url": "http://aqwwiki.wikidot.com/akiban-shogun-helm",
+    "name": "Akiban Shogun Helm",
+    "type": "helmets_&_hoods",
+    "description": "Elaborate armor worn by only the highest level of Akiban defenders. Rank is denoted by the symbols on your helmet.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/cI3K1et.png"
+    ],
+    "hash": "fa7af7015dfcb06689ad2a7dcddcd882"
+}

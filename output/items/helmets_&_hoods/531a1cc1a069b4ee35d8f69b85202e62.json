@@ -1,0 +1,16 @@
+{
+    "urlName": "bonnet",
+    "url": "http://aqwwiki.wikidot.com/bonnet",
+    "name": "Bonnet",
+    "type": "helmets_&_hoods",
+    "description": "A hat, usually tied under the chin that frames the face, formerly worn by women but now worn mostly by children.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/GYPWQWd.png"
+    ],
+    "hash": "531a1cc1a069b4ee35d8f69b85202e62"
+}

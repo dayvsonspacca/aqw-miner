@@ -1,0 +1,16 @@
+{
+    "urlName": "jiangshi-visage",
+    "url": "http://aqwwiki.wikidot.com/jiangshi-visage",
+    "name": "Jiangshi Visage",
+    "type": "helmets_&_hoods",
+    "description": "How exactly Jiangshi are created is unknown. Sorcerors of Wuji say that if a corpse is left unburied, it will come to life if struck by lightning or visited by a cat that's about to have kittens.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/Jo3aALY.png"
+    ],
+    "hash": "f2b8b69ef3347f01bf0dd2cdd0ef2675"
+}

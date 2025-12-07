@@ -1,0 +1,17 @@
+{
+    "urlName": "deathrider-hair-ac",
+    "url": "http://aqwwiki.wikidot.com/deathrider-hair-ac",
+    "name": "DeathRider Hair (AC)",
+    "type": "helmets_&_hoods",
+    "description": "You're a Death Rider. You're a freak. You're on a wicked killing streak. Now go out there and show the world who's boss. (This item has a 30% chance to do the Shadowburst attack animation.)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deathrider-hair-ac/DeathRiderHair.png",
+        "http://aqwwiki.wdfiles.com/local--files/deathrider-hair-ac/DHA.png"
+    ],
+    "hash": "f9be39493aebb7470e89fdb172566d13"
+}

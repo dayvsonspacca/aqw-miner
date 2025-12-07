@@ -1,0 +1,15 @@
+{
+    "urlName": "afk-display",
+    "url": "http://aqwwiki.wikidot.com/afk-display",
+    "name": "AFK Display",
+    "type": "helmets_&_hoods",
+    "description": "A view of the most popular place to AFK in town.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/vojmvUL.png"
+    ],
+    "hash": "4455e1b75ac1b278eb8d7ca44b7e11df"
+}

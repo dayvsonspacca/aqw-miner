@@ -1,0 +1,16 @@
+{
+    "urlName": "pink-cowl",
+    "url": "http://aqwwiki.wikidot.com/pink-cowl",
+    "name": "Pink Cowl",
+    "type": "helmets_&_hoods",
+    "description": "A high visibility mega-pink cowl that makes you stand put in a crowd.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/oEePNyx.png"
+    ],
+    "hash": "df1fc7018f5690040e28fb5f526e1e89"
+}

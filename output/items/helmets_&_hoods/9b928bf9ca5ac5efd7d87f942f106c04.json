@@ -1,0 +1,16 @@
+{
+    "urlName": "fallen-shaman-helm",
+    "url": "http://aqwwiki.wikidot.com/fallen-shaman-helm",
+    "name": "Fallen Shaman Helm",
+    "type": "helmets_&_hoods",
+    "description": "Shunned from society, the Shaman choose to hide their faces.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fallen-shaman-helm/FallenShamanHelm.png"
+    ],
+    "hash": "9b928bf9ca5ac5efd7d87f942f106c04"
+}

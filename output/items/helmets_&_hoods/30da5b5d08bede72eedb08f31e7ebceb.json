@@ -1,0 +1,16 @@
+{
+    "urlName": "legion-blacksmith-visor",
+    "url": "http://aqwwiki.wikidot.com/legion-blacksmith-visor",
+    "name": "Legion Blacksmith Visor",
+    "type": "helmets_&_hoods",
+    "description": "Not sure why skeletons need helmets, it's not like there's a brain to protect.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/Ez1AmcS.png"
+    ],
+    "hash": "30da5b5d08bede72eedb08f31e7ebceb"
+}

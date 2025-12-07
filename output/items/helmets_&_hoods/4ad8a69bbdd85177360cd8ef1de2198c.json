@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-despair",
+    "url": "http://aqwwiki.wikidot.com/helm-of-despair",
+    "name": "Helm of Despair",
+    "type": "helmets_&_hoods",
+    "description": "Dude, see a dentist, or a mortician or something\u2026",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-despair/HelmofDespair.png"
+    ],
+    "hash": "4ad8a69bbdd85177360cd8ef1de2198c"
+}

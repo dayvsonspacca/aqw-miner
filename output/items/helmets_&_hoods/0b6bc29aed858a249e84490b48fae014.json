@@ -1,0 +1,16 @@
+{
+    "urlName": "ebil-ai-enforcer-locks",
+    "url": "http://aqwwiki.wikidot.com/ebil-ai-enforcer-locks",
+    "name": "Ebil AI Enforcer Locks",
+    "type": "helmets_&_hoods",
+    "description": "The Decision Making AI built into the Enforcer's system advises them to stay fresh.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/N4gZTJt.png"
+    ],
+    "hash": "0b6bc29aed858a249e84490b48fae014"
+}

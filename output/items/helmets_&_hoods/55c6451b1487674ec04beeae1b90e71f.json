@@ -1,0 +1,15 @@
+{
+    "urlName": "cabernet-patch",
+    "url": "http://aqwwiki.wikidot.com/cabernet-patch",
+    "name": "Cabernet Patch",
+    "type": "helmets_&_hoods",
+    "description": "A deep and complicated red.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/obdLMf7.png"
+    ],
+    "hash": "55c6451b1487674ec04beeae1b90e71f"
+}

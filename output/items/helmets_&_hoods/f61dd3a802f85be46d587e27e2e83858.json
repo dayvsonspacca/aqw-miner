@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-shadowelf-hood",
+    "url": "http://aqwwiki.wikidot.com/dark-shadowelf-hood",
+    "name": "Dark Shadowelf Hood",
+    "type": "helmets_&_hoods",
+    "description": "Given that the ice elves can quickly adapt to icy climates, they aren't too bothered about their ears getting exposed anyways.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-shadowelf-hood/DShHood.png"
+    ],
+    "hash": "f61dd3a802f85be46d587e27e2e83858"
+}

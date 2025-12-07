@@ -1,0 +1,16 @@
+{
+    "urlName": "pinkie-panda-hood",
+    "url": "http://aqwwiki.wikidot.com/pinkie-panda-hood",
+    "name": "Pinkie Panda Hood",
+    "type": "helmets_&_hoods",
+    "description": "You can wiggle the ears either manually, or by knitting your brow.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/34sHT9a.png"
+    ],
+    "hash": "7dcca512c48890257966e5d25c0e9ea3"
+}

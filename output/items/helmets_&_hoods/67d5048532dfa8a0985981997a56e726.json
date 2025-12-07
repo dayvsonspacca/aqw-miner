@@ -1,0 +1,16 @@
+{
+    "urlName": "lady-of-time-helm",
+    "url": "http://aqwwiki.wikidot.com/lady-of-time-helm",
+    "name": "Lady of Time Helm",
+    "type": "helmets_&_hoods",
+    "description": "A timely lady always has the proper elegant attire.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lady-of-time-helm/LoTHelm.png"
+    ],
+    "hash": "67d5048532dfa8a0985981997a56e726"
+}

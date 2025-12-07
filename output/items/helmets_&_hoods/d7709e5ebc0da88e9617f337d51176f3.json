@@ -1,0 +1,13 @@
+{
+    "urlName": "jvi-helm",
+    "url": "http://aqwwiki.wikidot.com/jvi-helm",
+    "name": "JVI Helm",
+    "type": "helmets_&_hoods",
+    "description": "Place thine helm upon thy head and become the brave bounty hunter monsters dread!",
+    "rarity": "Epic Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/EbEIvym.png"
+    ],
+    "hash": "d7709e5ebc0da88e9617f337d51176f3"
+}

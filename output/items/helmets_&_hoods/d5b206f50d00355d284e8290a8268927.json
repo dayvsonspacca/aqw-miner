@@ -1,0 +1,15 @@
+{
+    "urlName": "void-helmet",
+    "url": "http://aqwwiki.wikidot.com/void-helmet",
+    "name": "Void Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Steel twisted by claws and talons in the abyss of the void.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/Jfx51Jt.png"
+    ],
+    "hash": "d5b206f50d00355d284e8290a8268927"
+}

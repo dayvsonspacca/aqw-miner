@@ -1,0 +1,16 @@
+{
+    "urlName": "void-walker-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/void-walker-helm-legend",
+    "name": "Void Walker Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "To travel between the Void and the real world isn't easy. The Void is filled with treacherous beings awaiting prey.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/TxRJtC9.png"
+    ],
+    "hash": "4e85fdc21f51f7f65c295902d9ef1226"
+}

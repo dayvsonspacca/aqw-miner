@@ -1,0 +1,15 @@
+{
+    "urlName": "shrade-helm",
+    "url": "http://aqwwiki.wikidot.com/shrade-helm",
+    "name": "Shrade Helm",
+    "type": "helmets_&_hoods",
+    "description": "You can dress up just like Mort and Swaggy did.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/x3DBw6E.png"
+    ],
+    "hash": "045cfda821a192775e4ad210f5fd0e83"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "serpent-soldier-helm",
+    "url": "http://aqwwiki.wikidot.com/serpent-soldier-helm",
+    "name": "Serpent Soldier Helm",
+    "type": "helmets_&_hoods",
+    "description": "Wear your full Serpent Warrior garb to honor those who fight beside you and show respect for those you have defeated.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/serpent-soldier-helm/SerpentSoldierHelm.png"
+    ],
+    "hash": "115c3759b760289fea92d3a415cad950"
+}

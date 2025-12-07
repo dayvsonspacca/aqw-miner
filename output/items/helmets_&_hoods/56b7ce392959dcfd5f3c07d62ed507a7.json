@@ -1,0 +1,16 @@
+{
+    "urlName": "sheevra-mask",
+    "url": "http://aqwwiki.wikidot.com/sheevra-mask",
+    "name": "Sheevra Mask",
+    "type": "helmets_&_hoods",
+    "description": "What better way to blend in at the Sheevra Masquerade party than dressing as a Scriptkeeper?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/5WuSU8Z.png"
+    ],
+    "hash": "56b7ce392959dcfd5f3c07d62ed507a7"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "toxic-horns",
+    "url": "http://aqwwiki.wikidot.com/toxic-horns",
+    "name": "Toxic Horns",
+    "type": "helmets_&_hoods",
+    "description": "Let these warns serve as a warning to any who would doubt the efficacy of your poison.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/toxic-horns/ToxicHorns.png"
+    ],
+    "hash": "be96f6fc24046a3834583b5ff45c3652"
+}

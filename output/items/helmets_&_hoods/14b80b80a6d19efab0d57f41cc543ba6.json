@@ -1,0 +1,16 @@
+{
+    "urlName": "fiery-voidpirate-helm",
+    "url": "http://aqwwiki.wikidot.com/fiery-voidpirate-helm",
+    "name": "Fiery VoidPirate Helm",
+    "type": "helmets_&_hoods",
+    "description": "Void Pirates dun be usin' Parley\u2026ye be warned.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fiery-voidpirate-helm/FVH.png"
+    ],
+    "hash": "14b80b80a6d19efab0d57f41cc543ba6"
+}

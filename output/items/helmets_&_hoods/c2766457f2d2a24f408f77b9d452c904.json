@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-the-hungry-werewolf",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-hungry-werewolf",
+    "name": "Helm of the Hungry Werewolf",
+    "type": "helmets_&_hoods",
+    "description": "\"Come to think of it, wearing that suit made of raw meats and red hood wasn't the greatest of ideas.\"",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lrHLhLC.png"
+    ],
+    "hash": "c2766457f2d2a24f408f77b9d452c904"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "ebilcorp-drone-helm",
+    "url": "http://aqwwiki.wikidot.com/ebilcorp-drone-helm",
+    "name": "EbilCorp Drone Helm",
+    "type": "helmets_&_hoods",
+    "description": "You are on of the faceless at EbilCorp.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ebilcorp-drone-helm/EbilCorpDroneHelm.png"
+    ],
+    "hash": "b8006c0d0a60f3f8f733208ee0138c96"
+}

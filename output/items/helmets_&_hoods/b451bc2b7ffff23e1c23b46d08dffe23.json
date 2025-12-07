@@ -1,0 +1,16 @@
+{
+    "urlName": "sky-net-skele-helm",
+    "url": "http://aqwwiki.wikidot.com/sky-net-skele-helm",
+    "name": "Sky-Net Skele-Helm",
+    "type": "helmets_&_hoods",
+    "description": "With this grin, your opponents will know they're in for annihilation and will consider themselves terminated!",
+    "rarity": "Ultra Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sky-net-skele-helm/SNSH.png"
+    ],
+    "hash": "b451bc2b7ffff23e1c23b46d08dffe23"
+}

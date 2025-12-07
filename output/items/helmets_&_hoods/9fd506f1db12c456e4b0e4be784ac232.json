@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-ripper-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-ripper-helm",
+    "name": "Dark Ripper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Those who serve the will of the Archfiend will always be rewarded.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/tJeAwnc.png"
+    ],
+    "hash": "9fd506f1db12c456e4b0e4be784ac232"
+}

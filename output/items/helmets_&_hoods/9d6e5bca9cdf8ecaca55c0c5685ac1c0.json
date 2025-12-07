@@ -1,0 +1,16 @@
+{
+    "urlName": "the-tritop",
+    "url": "http://aqwwiki.wikidot.com/the-tritop",
+    "name": "The Tritop",
+    "type": "helmets_&_hoods",
+    "description": "Is it a tricorn? Is it a top hat? I just don't know!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/the-tritop/TheTritop.png"
+    ],
+    "hash": "9d6e5bca9cdf8ecaca55c0c5685ac1c0"
+}

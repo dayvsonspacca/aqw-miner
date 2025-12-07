@@ -1,0 +1,17 @@
+{
+    "urlName": "warlock-adept-s-hood",
+    "url": "http://aqwwiki.wikidot.com/warlock-adept-s-hood",
+    "name": "Warlock Adept's Hood",
+    "type": "helmets_&_hoods",
+    "description": "You have abandoned Light and chosen to walk in Darkness.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warlock-adept-s-hood/WarlockAdept'sHood.png"
+    ],
+    "hash": "141c9f589269ee0166e42b8f5630f0dc"
+}

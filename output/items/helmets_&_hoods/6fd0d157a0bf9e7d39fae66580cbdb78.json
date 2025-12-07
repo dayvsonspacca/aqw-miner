@@ -1,0 +1,16 @@
+{
+    "urlName": "auroral-strands-hair",
+    "url": "http://aqwwiki.wikidot.com/auroral-strands-hair",
+    "name": "Auroral Strands Hair",
+    "type": "helmets_&_hoods",
+    "description": "Crafted from chunks of frozen Aurora Borealis mined by Astromancers in the far Northlands, if you look deep into the blue-green material, you may become transfixed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/eTnkiqs.png"
+    ],
+    "hash": "6fd0d157a0bf9e7d39fae66580cbdb78"
+}

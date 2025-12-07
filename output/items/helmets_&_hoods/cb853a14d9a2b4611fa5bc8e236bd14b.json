@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowmage-skull",
+    "url": "http://aqwwiki.wikidot.com/shadowmage-skull",
+    "name": "ShadowMage Skull",
+    "type": "helmets_&_hoods",
+    "description": "Shadows conceal something sinister. (3% chance to do the smokebomb animation, and 5% XP boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/Gyn3LmO.png",
+        "http://i.imgur.com/enxLOT2.png"
+    ],
+    "hash": "cb853a14d9a2b4611fa5bc8e236bd14b"
+}

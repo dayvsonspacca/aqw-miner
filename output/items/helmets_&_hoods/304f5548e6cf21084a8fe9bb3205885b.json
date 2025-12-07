@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-sea-captain-s-hat",
+    "url": "http://aqwwiki.wikidot.com/dark-sea-captain-s-hat",
+    "name": "Dark Sea Captain's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Tempted by the lure of wealth, power, and more loot than in Swordhaven's treasure house, you agreed to conquer the Dark Seas in Malgor the ShadowFlame's name.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/r9NHp06.png"
+    ],
+    "hash": "304f5548e6cf21084a8fe9bb3205885b"
+}

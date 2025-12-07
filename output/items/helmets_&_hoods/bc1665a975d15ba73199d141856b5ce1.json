@@ -1,0 +1,16 @@
+{
+    "urlName": "derpacorn",
+    "url": "http://aqwwiki.wikidot.com/derpacorn",
+    "name": "Derpacorn!",
+    "type": "helmets_&_hoods",
+    "description": "This unicorn is BRUTALLY derpy.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/V1dipPv.png"
+    ],
+    "hash": "bc1665a975d15ba73199d141856b5ce1"
+}

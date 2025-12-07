@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-rammer-helm",
+    "url": "http://aqwwiki.wikidot.com/frost-rammer-helm",
+    "name": "Frost Rammer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Reinforced with an unwordly amount of strength and toughness, this helm will tell everyone who passes by that you will not go quietly, you will not lay down. No, you will stampede your way into battle and leave no stone unturned.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-rammer-helm/FRH.png"
+    ],
+    "hash": "f3f86ef2bba70c04548b61ede5081187"
+}

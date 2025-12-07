@@ -1,0 +1,16 @@
+{
+    "urlName": "radioactive-wanderer-mask",
+    "url": "http://aqwwiki.wikidot.com/radioactive-wanderer-mask",
+    "name": "Radioactive Wanderer Mask",
+    "type": "helmets_&_hoods",
+    "description": "See that glow? That's nuclear. Warning, not responsible if you turn into a giant radioactive mutant.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uGT0Vpy.png"
+    ],
+    "hash": "5247df45017810456407260c2ba30ef5"
+}

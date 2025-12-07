@@ -1,0 +1,16 @@
+{
+    "urlName": "iron-paladin-helm",
+    "url": "http://aqwwiki.wikidot.com/iron-paladin-helm",
+    "name": "Iron Paladin Helm",
+    "type": "helmets_&_hoods",
+    "description": "For purchasing the Ironman shirt from Heromart you've been upgraded to the IRON Paladin.",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "http://i.imgur.com/MzcRGL6.png"
+    ],
+    "hash": "dbbaa6f5e9513e97ce23d06f02ec9157"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-helm-of-pride",
+    "url": "http://aqwwiki.wikidot.com/golden-helm-of-pride",
+    "name": "Golden Helm Of Pride",
+    "type": "helmets_&_hoods",
+    "description": "The people of Swordhaven trust and depend on your skill in battle to keep them safe.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/4KPOLA4.png"
+    ],
+    "hash": "e7cc502b30ea4002e08ba16c164cec6f"
+}

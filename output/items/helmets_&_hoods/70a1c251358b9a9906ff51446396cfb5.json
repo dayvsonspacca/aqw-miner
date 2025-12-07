@@ -1,0 +1,15 @@
+{
+    "urlName": "dawn-vindicator-helm",
+    "url": "http://aqwwiki.wikidot.com/dawn-vindicator-helm",
+    "name": "Dawn Vindicator Helm",
+    "type": "helmets_&_hoods",
+    "description": "As a recruit gains more knowledge, they are able to move up a rank and wear the Dawn Vindicator gear.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://imgur.com/z2hX5xL.png"
+    ],
+    "hash": "70a1c251358b9a9906ff51446396cfb5"
+}

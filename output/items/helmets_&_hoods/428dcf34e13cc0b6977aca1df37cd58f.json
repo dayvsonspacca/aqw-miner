@@ -1,0 +1,17 @@
+{
+    "urlName": "electrified-spire-helmet",
+    "url": "http://aqwwiki.wikidot.com/electrified-spire-helmet",
+    "name": "Electrified Spire Helmet",
+    "type": "helmets_&_hoods",
+    "description": "Those who serve the ancient dragons serve for life. Click to raise the visor on this helmet.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/electrified-spire-helmet/ElectrifiedSpireHelmetN.png",
+        "http://aqwwiki.wdfiles.com/local--files/electrified-spire-helmet/ElectrifiedSpireHelmetC.png"
+    ],
+    "hash": "428dcf34e13cc0b6977aca1df37cd58f"
+}

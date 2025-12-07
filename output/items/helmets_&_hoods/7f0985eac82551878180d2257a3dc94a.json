@@ -1,0 +1,16 @@
+{
+    "urlName": "temporal-aurora-helm",
+    "url": "http://aqwwiki.wikidot.com/temporal-aurora-helm",
+    "name": "Temporal Aurora Helm",
+    "type": "helmets_&_hoods",
+    "description": "Crafted from chunks of frozen Aurora Borealis mined by Astromancers in the far Northlands, if you look deep into the blue-green material, you may become transfixed.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/wTL2pIx.png"
+    ],
+    "hash": "7f0985eac82551878180d2257a3dc94a"
+}

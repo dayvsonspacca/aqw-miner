@@ -1,0 +1,16 @@
+{
+    "urlName": "mark-of-the-warrior-hood",
+    "url": "http://aqwwiki.wikidot.com/mark-of-the-warrior-hood",
+    "name": "Mark of the Warrior Hood",
+    "type": "helmets_&_hoods",
+    "description": "Their face isn't important. Their skill with a bladed weapon, now that's what should concern you!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/mark-of-the-warrior-hood/MarkoftheWarriorHood.png"
+    ],
+    "hash": "a3b2281326cda608e5485a1fecc3c969"
+}

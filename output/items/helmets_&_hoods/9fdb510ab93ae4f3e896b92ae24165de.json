@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-whitebeard-stache",
+    "url": "http://aqwwiki.wikidot.com/prismatic-whitebeard-stache",
+    "name": "Prismatic WhiteBeard Stache",
+    "type": "helmets_&_hoods",
+    "description": "So that's what happened to all the mustache wax! This helm is color customizable.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-whitebeard-stache/PrismaticWhitebeardStache.png"
+    ],
+    "hash": "9fdb510ab93ae4f3e896b92ae24165de"
+}

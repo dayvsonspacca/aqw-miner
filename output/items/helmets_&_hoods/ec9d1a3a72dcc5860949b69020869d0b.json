@@ -1,0 +1,17 @@
+{
+    "urlName": "guardian-of-energy-helm",
+    "url": "http://aqwwiki.wikidot.com/guardian-of-energy-helm",
+    "name": "Guardian of Energy Helm",
+    "type": "helmets_&_hoods",
+    "description": "Mortals drawn to the Plane of Energy can tap into its power at will. The most skilled may become a Guardian of Energy, and serve only their Plane's Champion.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/W8jodiO.png",
+        "https://i.imgur.com/LjqPPOW.png"
+    ],
+    "hash": "ec9d1a3a72dcc5860949b69020869d0b"
+}

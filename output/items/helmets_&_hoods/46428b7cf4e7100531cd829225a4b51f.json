@@ -1,0 +1,16 @@
+{
+    "urlName": "helm-of-the-king",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-king",
+    "name": "Helm of the King",
+    "type": "helmets_&_hoods",
+    "description": "Are we mice? Or are we men? Well\u2026 I do know quite the capable mouse.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/helm-of-the-king/HelmoftheKing.png"
+    ],
+    "hash": "46428b7cf4e7100531cd829225a4b51f"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "light-battlemage-hood",
+    "url": "http://aqwwiki.wikidot.com/light-battlemage-hood",
+    "name": "Light BattleMage Hood",
+    "type": "helmets_&_hoods",
+    "description": "A certain sect of Mages have blood ties to Celestial Light trains in secrecy. All are fated to fall, and their successors are tasked with dispelling the shadows they became.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/gbaPOdY.png"
+    ],
+    "hash": "b03e5b8dec7a4c612878a0c1a2bb6579"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "vaden-knight-helm",
+    "url": "http://aqwwiki.wikidot.com/vaden-knight-helm",
+    "name": "Vaden Knight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Some serve their masters for all eternity, whether they're given the option or not.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vaden-knight-helm/VKHelm.png"
+    ],
+    "hash": "27f6d81efb3558a66abcaf3bf243ad8b"
+}

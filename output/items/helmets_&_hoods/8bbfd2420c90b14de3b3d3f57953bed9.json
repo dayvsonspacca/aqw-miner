@@ -1,0 +1,18 @@
+{
+    "urlName": "time-reaper-helm",
+    "url": "http://aqwwiki.wikidot.com/time-reaper-helm",
+    "name": "Time Reaper Helm",
+    "type": "helmets_&_hoods",
+    "description": "Time will cease to exists and so shall you!",
+    "rarity": "Collector's Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/bnPgxys.png",
+        "https://i.imgur.com/BWggIar.png"
+    ],
+    "hash": "8bbfd2420c90b14de3b3d3f57953bed9"
+}

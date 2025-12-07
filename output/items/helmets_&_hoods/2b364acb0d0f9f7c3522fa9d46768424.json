@@ -1,0 +1,16 @@
+{
+    "urlName": "azure-dragonguard",
+    "url": "http://aqwwiki.wikidot.com/azure-dragonguard",
+    "name": "Azure Dragonguard",
+    "type": "helmets_&_hoods",
+    "description": "Only the bravest of DragonGuard Warriors are allowed to wear the Azure garb. It signifies that they have attained the highest of honors!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/azure-dragonguard/AzureDragonguard.png"
+    ],
+    "hash": "2b364acb0d0f9f7c3522fa9d46768424"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "twig-s-voyager-battle-helm-legend",
+    "url": "http://aqwwiki.wikidot.com/twig-s-voyager-battle-helm-legend",
+    "name": "Twig's Voyager Battle Helm (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "In space, no one gives you fwish and ice cream!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Fo1VNh5.png"
+    ],
+    "hash": "945755f31b8bc02cfd78315aa68f3cce"
+}

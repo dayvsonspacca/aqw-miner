@@ -1,0 +1,16 @@
+{
+    "urlName": "tricorn-locks",
+    "url": "http://aqwwiki.wikidot.com/tricorn-locks",
+    "name": "Tricorn Locks",
+    "type": "helmets_&_hoods",
+    "description": "Lead your crew t' t' edge o' t' world aft!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/tricorn-locks/TricornLocks.png"
+    ],
+    "hash": "d6cc517254cc6857dbd3dd3116742c94"
+}

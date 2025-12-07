@@ -1,0 +1,16 @@
+{
+    "urlName": "enchanted-winter-hat",
+    "url": "http://aqwwiki.wikidot.com/enchanted-winter-hat",
+    "name": "Enchanted Winter Hat",
+    "type": "helmets_&_hoods",
+    "description": "This awesome (and colorful) hoodie helps keep you warm and cozy while fighting in the Northlands.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UVDtEMl.png"
+    ],
+    "hash": "7a2a1688956f6e9d550fb9514af71fb3"
+}

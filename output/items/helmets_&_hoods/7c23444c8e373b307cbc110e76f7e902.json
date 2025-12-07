@@ -1,0 +1,16 @@
+{
+    "urlName": "necronaut-helm",
+    "url": "http://aqwwiki.wikidot.com/necronaut-helm",
+    "name": "Necronaut Helm",
+    "type": "helmets_&_hoods",
+    "description": "The life-support system of a Necronaut. Use at your own peril.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/necronaut-helm/NecronautHelm.png"
+    ],
+    "hash": "7c23444c8e373b307cbc110e76f7e902"
+}

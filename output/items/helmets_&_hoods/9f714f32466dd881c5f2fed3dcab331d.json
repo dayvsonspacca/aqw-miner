@@ -1,0 +1,16 @@
+{
+    "urlName": "void-pyromancer-morph",
+    "url": "http://aqwwiki.wikidot.com/void-pyromancer-morph",
+    "name": "Void Pyromancer Morph",
+    "type": "helmets_&_hoods",
+    "description": "The Void, or any Void that lurks between the folds of space, is but a kiln. These Pyromancers spark flames in its depths, creating twisted art from destruction.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ymaeTtK.png"
+    ],
+    "hash": "9f714f32466dd881c5f2fed3dcab331d"
+}

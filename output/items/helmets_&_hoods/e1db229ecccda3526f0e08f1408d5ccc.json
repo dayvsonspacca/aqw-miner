@@ -1,0 +1,16 @@
+{
+    "urlName": "dragon-gold-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/dragon-gold-helm-ac",
+    "name": "Dragon Gold Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "A ceremonial helmet forged from precious gold picked from a dragon's hoard. Ever so carefully, it's the dragon that places the helm on their partner's head.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://imgur.com/Lv4qFw7.png"
+    ],
+    "hash": "e1db229ecccda3526f0e08f1408d5ccc"
+}

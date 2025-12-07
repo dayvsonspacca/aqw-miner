@@ -1,0 +1,15 @@
+{
+    "urlName": "tempest-soldier-helm",
+    "url": "http://aqwwiki.wikidot.com/tempest-soldier-helm",
+    "name": "Tempest Soldier Helm",
+    "type": "helmets_&_hoods",
+    "description": "Huge fans of cookies, the Tempest Soldier will follow any orders given just to get more of them.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/f2cd7NP.png"
+    ],
+    "hash": "1a95cb48732eb55d61d92b67b2b5caf0"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "zookeeper-croc-hat",
+    "url": "http://aqwwiki.wikidot.com/zookeeper-croc-hat",
+    "name": "ZooKeeper Croc Hat",
+    "type": "helmets_&_hoods",
+    "description": "Made with the skin of REAL crocodiles, this hat serves are bagging rights to your fellow heroes and a fair warning to any crocs who might cross your path.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/zookeeper-croc-hat/ZookeeperCrocHat.png"
+    ],
+    "hash": "814f743b2e224bea2087d9cf27d998ce"
+}

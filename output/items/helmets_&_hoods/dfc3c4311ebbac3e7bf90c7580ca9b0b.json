@@ -1,0 +1,16 @@
+{
+    "urlName": "shadow-pirate-hat",
+    "url": "http://aqwwiki.wikidot.com/shadow-pirate-hat",
+    "name": "Shadow Pirate Hat",
+    "type": "helmets_&_hoods",
+    "description": "Show t'lifelubbers that you aren't afraid o' dark with this cap on yer head.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadow-pirate-hat/ShadowPirateHat.png"
+    ],
+    "hash": "dfc3c4311ebbac3e7bf90c7580ca9b0b"
+}

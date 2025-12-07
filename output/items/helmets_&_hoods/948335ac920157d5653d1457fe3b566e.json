@@ -1,0 +1,15 @@
+{
+    "urlName": "frosty-guard-helm",
+    "url": "http://aqwwiki.wikidot.com/frosty-guard-helm",
+    "name": "Frosty Guard Helm",
+    "type": "helmets_&_hoods",
+    "description": "It's Frosty, the warrior\u2026 If you want to block out the cold, why not try using armor and ice? Its all the rage in Frostvale this year.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/PcxGkIC.png"
+    ],
+    "hash": "948335ac920157d5653d1457fe3b566e"
+}

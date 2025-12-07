@@ -1,0 +1,16 @@
+{
+    "urlName": "doommage-face",
+    "url": "http://aqwwiki.wikidot.com/doommage-face",
+    "name": "DoomMage Face",
+    "type": "helmets_&_hoods",
+    "description": "NOT AMUSED. (3% chance to do shadowburst animation and 15% rep boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/DvA9yhl.png",
+        "http://i.imgur.com/sTNiyWL.png"
+    ],
+    "hash": "6cbec3e3b70928d676c8821955e82d5a"
+}

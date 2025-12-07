@@ -1,0 +1,16 @@
+{
+    "urlName": "flintfang-morph-ac",
+    "url": "http://aqwwiki.wikidot.com/flintfang-morph-ac",
+    "name": "Flintfang Morph (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Arrr! Ye be the dreaded Flintfang!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/flintfang-morph-ac/FlintfangMorph.png"
+    ],
+    "hash": "3dbd7f86c3b7f14b0078ff1497112aaf"
+}

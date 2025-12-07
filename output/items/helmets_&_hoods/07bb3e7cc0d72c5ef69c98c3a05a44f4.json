@@ -1,0 +1,16 @@
+{
+    "urlName": "frozen-paladin-s-helm",
+    "url": "http://aqwwiki.wikidot.com/frozen-paladin-s-helm",
+    "name": "Frozen Paladin's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Battling undead through the frozen wastes, you draw strength from the otherworldly, shimmering light of the aurora borealis.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xDsqoU4.png"
+    ],
+    "hash": "07bb3e7cc0d72c5ef69c98c3a05a44f4"
+}

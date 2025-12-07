@@ -1,0 +1,15 @@
+{
+    "urlName": "manticore-trainer-mask",
+    "url": "http://aqwwiki.wikidot.com/manticore-trainer-mask",
+    "name": "Manticore Trainer Mask",
+    "type": "helmets_&_hoods",
+    "description": "A mask made of manticore hide to resist the poison of the manticore and help train them.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/gI7t8Hu.png"
+    ],
+    "hash": "f7eb3a8e9e723b1cbab80f19ee649f32"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-imperial-guard-helm",
+    "url": "http://aqwwiki.wikidot.com/prismatic-imperial-guard-helm",
+    "name": "Prismatic Imperial Guard Helm",
+    "type": "helmets_&_hoods",
+    "description": "A color-custom helm once worn by Yokai Imperial Guards. Protect your kingdom and your fashion sense with style.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-imperial-guard-helm/PIGH.png"
+    ],
+    "hash": "f28181553ec7d9265dcc7069ece00701"
+}

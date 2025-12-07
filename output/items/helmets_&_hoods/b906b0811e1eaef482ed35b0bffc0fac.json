@@ -1,0 +1,15 @@
+{
+    "urlName": "panther-morph",
+    "url": "http://aqwwiki.wikidot.com/panther-morph",
+    "name": "Panther Morph",
+    "type": "helmets_&_hoods",
+    "description": "Your head has been polymorphed into a panther's head. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/icACnVG.png"
+    ],
+    "hash": "b906b0811e1eaef482ed35b0bffc0fac"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-talking-hat",
+    "url": "http://aqwwiki.wikidot.com/prismatic-talking-hat",
+    "name": "Prismatic Talking Hat",
+    "type": "helmets_&_hoods",
+    "description": "If you listen it'll tell you what DragonRune house you're in.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/dluWqLy.png"
+    ],
+    "hash": "fecebfbc8c6c94dc6102782128047e6b"
+}

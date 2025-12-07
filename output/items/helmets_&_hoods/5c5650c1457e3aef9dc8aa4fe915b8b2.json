@@ -1,0 +1,16 @@
+{
+    "urlName": "glacial-frostelf-helm",
+    "url": "http://aqwwiki.wikidot.com/glacial-frostelf-helm",
+    "name": "Glacial FrostElf Helm",
+    "type": "helmets_&_hoods",
+    "description": "The High FrostElf Kings and Queens have ruled over the frosty, frigid Northlands for millennia. This ceremonial regalia is worn for the Winter Moon celebration.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/je5r2tr.png"
+    ],
+    "hash": "5c5650c1457e3aef9dc8aa4fe915b8b2"
+}

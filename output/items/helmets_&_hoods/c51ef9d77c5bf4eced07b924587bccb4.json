@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-sun-mask",
+    "url": "http://aqwwiki.wikidot.com/dark-sun-mask",
+    "name": "Dark Sun Mask",
+    "type": "helmets_&_hoods",
+    "description": "After years of worship, the Dark Suns started wearing this protective mask to cover themselves from the harsh rays of the sun.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-sun-mask/DarkSunMask.png"
+    ],
+    "hash": "c51ef9d77c5bf4eced07b924587bccb4"
+}

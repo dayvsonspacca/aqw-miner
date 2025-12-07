@@ -1,0 +1,16 @@
+{
+    "urlName": "shadowgaze-of-nulgath-helm",
+    "url": "http://aqwwiki.wikidot.com/shadowgaze-of-nulgath-helm",
+    "name": "ShadowGaze of Nulgath Helm",
+    "type": "helmets_&_hoods",
+    "description": "The shadowy gaze of Nulgath's minions.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/shadowgaze-of-nulgath-helm/SoNH.png"
+    ],
+    "hash": "5829cecbb9c2775d416c62ada004095c"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "moglitech-helm",
+    "url": "http://aqwwiki.wikidot.com/moglitech-helm",
+    "name": "MogliTech Helm",
+    "type": "helmets_&_hoods",
+    "description": "Battlenator 7: Rise of the MOGBOTS.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/d8zgpn3.jpg"
+    ],
+    "hash": "418e670447986d0c9cf866b1c196a6a2"
+}

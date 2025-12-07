@@ -1,0 +1,13 @@
+{
+    "urlName": "biobeast-master-helm",
+    "url": "http://aqwwiki.wikidot.com/biobeast-master-helm",
+    "name": "Biobeast Master Helm",
+    "type": "helmets_&_hoods",
+    "description": "You trained, you've made it out, now you can officially call yourself a BioBeast Master!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/r5tBisZ.png"
+    ],
+    "hash": "b15ded481b20e2b4cf69618036feeadb"
+}

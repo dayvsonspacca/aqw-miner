@@ -1,0 +1,16 @@
+{
+    "urlName": "void-warlock-hat",
+    "url": "http://aqwwiki.wikidot.com/void-warlock-hat",
+    "name": "Void Warlock Hat",
+    "type": "helmets_&_hoods",
+    "description": "Even in the Void witches find time to practice their craft.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/fpw5gyn.png"
+    ],
+    "hash": "1958115cd65e22bc19095c7987b8974c"
+}

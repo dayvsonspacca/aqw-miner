@@ -1,0 +1,15 @@
+{
+    "urlName": "molten-dragon-helm",
+    "url": "http://aqwwiki.wikidot.com/molten-dragon-helm",
+    "name": "Molten Dragon Helm",
+    "type": "helmets_&_hoods",
+    "description": "The helm of the Molten Dragon set was forged in the likeness of fearsome belrog but infused with the strength and powerful fire magic of the great fire dragon whose scale were used in its creation.",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://i.imgur.com/TVC1NzO.png"
+    ],
+    "hash": "09522c02e122562dc969d33610aa412c"
+}

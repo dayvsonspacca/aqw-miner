@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-disco-mech-helm",
+    "url": "http://aqwwiki.wikidot.com/skyguard-disco-mech-helm",
+    "name": "SkyGuard Disco Mech Helm",
+    "type": "helmets_&_hoods",
+    "description": "Don't forget to drop that beat cause this moglin is ready to go!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/pkJQ3dB.png",
+        "http://i.imgur.com/Pk8tnbc.png"
+    ],
+    "hash": "efe5a88c1b82d9e6d1883aef744f8602"
+}

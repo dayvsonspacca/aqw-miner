@@ -1,0 +1,16 @@
+{
+    "urlName": "void-tricorn-locks",
+    "url": "http://aqwwiki.wikidot.com/void-tricorn-locks",
+    "name": "Void Tricorn Locks",
+    "type": "helmets_&_hoods",
+    "description": "Run yer crew through th' void!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/void-tricorn-locks/VoidTricornLocks.png"
+    ],
+    "hash": "b2d9be0cf3d35d976d1e0508e09ca3a7"
+}

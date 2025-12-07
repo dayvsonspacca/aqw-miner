@@ -1,0 +1,16 @@
+{
+    "urlName": "cowl-and-locks",
+    "url": "http://aqwwiki.wikidot.com/cowl-and-locks",
+    "name": "Cowl and Locks",
+    "type": "helmets_&_hoods",
+    "description": "Hide your face from your foes to avoid revenge!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cowl-and-locks/CowlandLocks.png"
+    ],
+    "hash": "6f0e8b04ca898fbd3ccbabe27f3cd77b"
+}

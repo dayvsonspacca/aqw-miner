@@ -1,0 +1,16 @@
+{
+    "urlName": "matchmaker-masked-tophat",
+    "url": "http://aqwwiki.wikidot.com/matchmaker-masked-tophat",
+    "name": "MatchMaker Masked Tophat",
+    "type": "helmets_&_hoods",
+    "description": "No hero will be able to resist your matchmaking machinations when invite them to join you on your next adventure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/7L1fipE.png"
+    ],
+    "hash": "3f876d036ad03905a79b8d19d973700a"
+}

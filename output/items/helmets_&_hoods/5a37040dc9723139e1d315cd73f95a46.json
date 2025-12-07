@@ -1,0 +1,17 @@
+{
+    "urlName": "agent-s-sunglasses",
+    "url": "http://aqwwiki.wikidot.com/agent-s-sunglasses",
+    "name": "Agent's Sunglasses",
+    "type": "helmets_&_hoods",
+    "description": "The shades are to help keep focus.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ISUkkVC.png"
+    ],
+    "hash": "5a37040dc9723139e1d315cd73f95a46"
+}

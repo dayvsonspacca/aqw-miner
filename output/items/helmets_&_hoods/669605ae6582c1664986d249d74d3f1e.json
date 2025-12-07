@@ -1,0 +1,16 @@
+{
+    "urlName": "doommage-hair",
+    "url": "http://aqwwiki.wikidot.com/doommage-hair",
+    "name": "DoomMage Hair",
+    "type": "helmets_&_hoods",
+    "description": "Sometimes you just have to be creepy. (3% chance to do shadowburst animation and 15% rep boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/PrmIrjM.png",
+        "http://i.imgur.com/sTNiyWL.png"
+    ],
+    "hash": "669605ae6582c1664986d249d74d3f1e"
+}

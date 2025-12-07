@@ -1,0 +1,16 @@
+{
+    "urlName": "nomura-s-head",
+    "url": "http://aqwwiki.wikidot.com/nomura-s-head",
+    "name": "Nomura's Head",
+    "type": "helmets_&_hoods",
+    "description": "How better to prove you've beaten a monster than by wearing their head for a hat?",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/HWe1Pj8.png"
+    ],
+    "hash": "b218aefb4cd9c81c64d7cc1a5ef77bd1"
+}

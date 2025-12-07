@@ -1,0 +1,16 @@
+{
+    "urlName": "paragon-of-parity-helm",
+    "url": "http://aqwwiki.wikidot.com/paragon-of-parity-helm",
+    "name": "Paragon of Parity Helm",
+    "type": "helmets_&_hoods",
+    "description": "These minions are simply happy to serve Dage, they do not care about anything else.",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/ELpVKKz.png"
+    ],
+    "hash": "01be3b6371177817a924039bb01ef728"
+}

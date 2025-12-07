@@ -1,0 +1,15 @@
+{
+    "urlName": "archfish-helm",
+    "url": "http://aqwwiki.wikidot.com/archfish-helm",
+    "name": "ArchFish Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Archfiend is ready to reshape you to be better\u2026 stronger\u2026 more fishy!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/REsBjRv.png"
+    ],
+    "hash": "52604a4123c42bdf494ad4a967886313"
+}

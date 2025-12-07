@@ -1,0 +1,16 @@
+{
+    "urlName": "horned-ravenlord-helm",
+    "url": "http://aqwwiki.wikidot.com/horned-ravenlord-helm",
+    "name": "Horned Ravenlord Helm",
+    "type": "helmets_&_hoods",
+    "description": "The accoutrements of the Ravenlords cannot be wielded by mere mortals\u2026 all who try crumble to dust at the first touch.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/horned-ravenlord-helm/HRL.png"
+    ],
+    "hash": "ece6c152259b13cc25226ffcb42682e6"
+}

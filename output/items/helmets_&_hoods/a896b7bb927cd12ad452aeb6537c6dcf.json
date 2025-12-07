@@ -1,0 +1,16 @@
+{
+    "urlName": "hockey-star-helmet",
+    "url": "http://aqwwiki.wikidot.com/hockey-star-helmet",
+    "name": "Hockey Star Helmet",
+    "type": "helmets_&_hoods",
+    "description": "There are big wooden sticks and actual sharp metal blades out on the ice. You have to be careful out there! Celebrate your victory in the Icestorm Cup finals!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/c4ag6S0.png"
+    ],
+    "hash": "a896b7bb927cd12ad452aeb6537c6dcf"
+}

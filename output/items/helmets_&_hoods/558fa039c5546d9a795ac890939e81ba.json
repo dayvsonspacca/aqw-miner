@@ -1,0 +1,16 @@
+{
+    "urlName": "ultimate-adventurecoin-helm",
+    "url": "http://aqwwiki.wikidot.com/ultimate-adventurecoin-helm",
+    "name": "Ultimate AdventureCoin Helm",
+    "type": "helmets_&_hoods",
+    "description": "This item, featuring the AdventureCoin symbol, will show the world that you have supported AdventureQuest Worlds. With your help, we are able to make AQWorlds free for all heroes to play!",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/HKAlErh.png"
+    ],
+    "hash": "558fa039c5546d9a795ac890939e81ba"
+}

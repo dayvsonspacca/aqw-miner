@@ -1,0 +1,16 @@
+{
+    "urlName": "rebel-horns",
+    "url": "http://aqwwiki.wikidot.com/rebel-horns",
+    "name": "Rebel Horns",
+    "type": "helmets_&_hoods",
+    "description": "Now you can throw the metal horns without using your hands!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/rebel-horns/RebelHorns.png"
+    ],
+    "hash": "55d59b2300d6d0f387859511ea0875c6"
+}

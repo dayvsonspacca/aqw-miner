@@ -1,0 +1,15 @@
+{
+    "urlName": "crimson-helm",
+    "url": "http://aqwwiki.wikidot.com/crimson-helm",
+    "name": "Crimson Helm",
+    "type": "helmets_&_hoods",
+    "description": "We who are about to respawn, /salute you!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/aeCfuHP.png"
+    ],
+    "hash": "e1d6f7826133dee9a9974f3160642468"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "horned-beastmaster-ravager-helm",
+    "url": "http://aqwwiki.wikidot.com/horned-beastmaster-ravager-helm",
+    "name": "Horned Beastmaster Ravager Helm",
+    "type": "helmets_&_hoods",
+    "description": "Ravager's bring devastation and destruction to where ever they go. (3% chance to do Shadowburst animation, 5% Class Points Boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/ed4rYOo.png",
+        "http://i.imgur.com/1B8OKzD.png"
+    ],
+    "hash": "fd35bcd63894002c3cc237a394c59e31"
+}

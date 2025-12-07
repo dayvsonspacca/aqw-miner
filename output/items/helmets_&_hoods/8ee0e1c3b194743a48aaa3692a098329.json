@@ -1,0 +1,16 @@
+{
+    "urlName": "doomfiend-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/doomfiend-helm-ac",
+    "name": "DoomFiend Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Wrested from the Shadows, these creatures now serve the Archfiend Nulgath. Veins and muscle grew where the Shadows once gnawed, birthing new malicious power.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/8Vx7QvF.png"
+    ],
+    "hash": "8ee0e1c3b194743a48aaa3692a098329"
+}

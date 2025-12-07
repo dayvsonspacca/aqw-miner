@@ -1,0 +1,16 @@
+{
+    "urlName": "zardian-pilot-cap",
+    "url": "http://aqwwiki.wikidot.com/zardian-pilot-cap",
+    "name": "Zardian Pilot Cap",
+    "type": "helmets_&_hoods",
+    "description": "Gear made for pilots of Zard-kind; not the type you're used to on planet Lore. Humans and other races are welcome to join them and learn how to fly their specialized crafts. So long as you don't treat the Zardians like horses. Not even jokes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/iFzEovu.png"
+    ],
+    "hash": "8354b4334e984c63398eb6750cf135af"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "peasant-helm-of-awe",
+    "url": "http://aqwwiki.wikidot.com/peasant-helm-of-awe",
+    "name": "Peasant Helm of Awe",
+    "type": "helmets_&_hoods",
+    "description": "This slightly-used but still AWE-some helm is for adventurers who haven't quiiiite finished their quests to create all of the Items of Awe.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/HtW3Zom.png"
+    ],
+    "hash": "402980fca2e7942707cd0cdc167a3498"
+}

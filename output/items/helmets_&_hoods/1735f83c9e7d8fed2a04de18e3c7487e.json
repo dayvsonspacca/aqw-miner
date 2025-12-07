@@ -1,0 +1,16 @@
+{
+    "urlName": "blood-hanzo-void-helm",
+    "url": "http://aqwwiki.wikidot.com/blood-hanzo-void-helm",
+    "name": "Blood Hanzo Void Helm",
+    "type": "helmets_&_hoods",
+    "description": "All chances of weapons piercing this mask are Nul and void.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blood-hanzo-void-helm/BloodHanzoVoidHelm.png"
+    ],
+    "hash": "1735f83c9e7d8fed2a04de18e3c7487e"
+}

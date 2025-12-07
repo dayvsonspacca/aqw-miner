@@ -1,0 +1,16 @@
+{
+    "urlName": "sepulchure-top-hat",
+    "url": "http://aqwwiki.wikidot.com/sepulchure-top-hat",
+    "name": "Sepulchure Top Hat",
+    "type": "helmets_&_hoods",
+    "description": "Even a Doom Lord needs some style. This helms does 15% more damage to Undead",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sepulchure-top-hat/SeppyHat.png"
+    ],
+    "hash": "59b40c7ec1b89187fc60d289fc2a7f89"
+}

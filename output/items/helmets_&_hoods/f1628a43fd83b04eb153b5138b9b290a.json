@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-raven-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-raven-helm",
+    "name": "Dark Raven Helm",
+    "type": "helmets_&_hoods",
+    "description": "Quoth the Raven: Never more (will you look upon my face)!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-raven-helm/DarkRavenHelm.png"
+    ],
+    "hash": "f1628a43fd83b04eb153b5138b9b290a"
+}

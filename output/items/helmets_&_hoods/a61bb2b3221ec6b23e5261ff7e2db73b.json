@@ -1,0 +1,16 @@
+{
+    "urlName": "underworld-cleric-hood",
+    "url": "http://aqwwiki.wikidot.com/underworld-cleric-hood",
+    "name": "Underworld Cleric Hood",
+    "type": "helmets_&_hoods",
+    "description": "Denizens of the Underworld must always be ready for an attack by those who would take their power.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Usb59Gr.png"
+    ],
+    "hash": "a61bb2b3221ec6b23e5261ff7e2db73b"
+}

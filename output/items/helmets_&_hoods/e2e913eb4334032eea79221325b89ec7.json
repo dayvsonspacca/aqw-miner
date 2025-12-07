@@ -1,0 +1,16 @@
+{
+    "urlName": "viking-chop-helm",
+    "url": "http://aqwwiki.wikidot.com/viking-chop-helm",
+    "name": "Viking Chop Helm",
+    "type": "helmets_&_hoods",
+    "description": "Just because you are in a fight doesn't mean you can't don a stylish do.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/viking-chop-helm/VikingChopHelm.png"
+    ],
+    "hash": "e2e913eb4334032eea79221325b89ec7"
+}

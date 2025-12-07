@@ -1,0 +1,16 @@
+{
+    "urlName": "toil-hair",
+    "url": "http://aqwwiki.wikidot.com/toil-hair",
+    "name": "Toil Hair",
+    "type": "helmets_&_hoods",
+    "description": "Don't \"Toil\" over this hair.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/ZAB51N5.png"
+    ],
+    "hash": "c2cfc91541e3bd3a095c2f7bb3d2004d"
+}

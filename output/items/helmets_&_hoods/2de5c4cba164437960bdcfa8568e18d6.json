@@ -1,0 +1,17 @@
+{
+    "urlName": "ultra-fez",
+    "url": "http://aqwwiki.wikidot.com/ultra-fez",
+    "name": "ULTRA Fez",
+    "type": "helmets_&_hoods",
+    "description": "Fezzes are cool. Really, REALLY cool! AND they're taller on the inside.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/WF48Bv3.png",
+        "http://aqwwiki.wdfiles.com/local--files/ultra-fez/ULTRAFez.png"
+    ],
+    "hash": "2de5c4cba164437960bdcfa8568e18d6"
+}

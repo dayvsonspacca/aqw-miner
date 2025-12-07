@@ -1,0 +1,17 @@
+{
+    "urlName": "doombringer-skull",
+    "url": "http://aqwwiki.wikidot.com/doombringer-skull",
+    "name": "DoomBringer Skull",
+    "type": "helmets_&_hoods",
+    "description": "Look on my face, ye might, and despair!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/doombringer-skull/DoomBringerSkull.png",
+        "http://aqwwiki.wdfiles.com/local--files/doombringer-skull/DoomBringerSkullA.png"
+    ],
+    "hash": "fc666e9f10e0e8ceeeed83008474e702"
+}

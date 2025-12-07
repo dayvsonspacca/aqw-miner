@@ -1,0 +1,16 @@
+{
+    "urlName": "ruby-dragonhealer-s-mask",
+    "url": "http://aqwwiki.wikidot.com/ruby-dragonhealer-s-mask",
+    "name": "Ruby Dragonhealer's Mask",
+    "type": "helmets_&_hoods",
+    "description": "Don the mask to truly become a DragonHealer.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "https://imgur.com/QkiIp7J.png",
+        "http://aqwwiki.wdfiles.com/local--files/ruby-dragonhealer-s-mask/RDMO.png"
+    ],
+    "hash": "00e61c499a1a9f8b2aae061ed2b3b69f"
+}

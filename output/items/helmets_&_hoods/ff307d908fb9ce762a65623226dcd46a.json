@@ -1,0 +1,16 @@
+{
+    "urlName": "skelly-pirate-hat",
+    "url": "http://aqwwiki.wikidot.com/skelly-pirate-hat",
+    "name": "Skelly Pirate Hat",
+    "type": "helmets_&_hoods",
+    "description": "It's hard to keep the hat on without any friction from skin or hair.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/43moQUd.png"
+    ],
+    "hash": "ff307d908fb9ce762a65623226dcd46a"
+}

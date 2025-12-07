@@ -1,0 +1,15 @@
+{
+    "urlName": "odanata-helm",
+    "url": "http://aqwwiki.wikidot.com/odanata-helm",
+    "name": "Odanata Helm",
+    "type": "helmets_&_hoods",
+    "description": "This a helm crafted from the discarded carapace of the Odanata, an insect race found on a distant world.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/pJurrkV.png",
+        "http://i.imgur.com/IieBUMT.png",
+        "http://i.imgur.com/zEaEJ8u.png"
+    ],
+    "hash": "0d5a9c42a453126d4f41bc191ad2167d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "northern-nightelf-hood",
+    "url": "http://aqwwiki.wikidot.com/northern-nightelf-hood",
+    "name": "Northern Nightelf Hood",
+    "type": "helmets_&_hoods",
+    "description": "Given that the ice elves can quickly adapt to icy climates, they aren't too bothered about their ears getting exposed anyways.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/northern-nightelf-hood/NNH.png"
+    ],
+    "hash": "e2e3e4d8a2a5fbed00857fc05512fa1b"
+}

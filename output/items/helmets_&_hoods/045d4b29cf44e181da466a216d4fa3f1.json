@@ -1,0 +1,15 @@
+{
+    "urlName": "falcon-ranger-circlet",
+    "url": "http://aqwwiki.wikidot.com/falcon-ranger-circlet",
+    "name": "Falcon Ranger Circlet",
+    "type": "helmets_&_hoods",
+    "description": "The falcon that grips the sword dangling above the crown.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/qSWUOBJ.png"
+    ],
+    "hash": "045d4b29cf44e181da466a216d4fa3f1"
+}

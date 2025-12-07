@@ -1,0 +1,17 @@
+{
+    "urlName": "turkeychampion-helm",
+    "url": "http://aqwwiki.wikidot.com/turkeychampion-helm",
+    "name": "TurkeyChampion Helm",
+    "type": "helmets_&_hoods",
+    "description": "You have mastered the culinary arts. Your many victorious battles against the foul Turkey have earned you the right to wear this magnificent trophy upon your head.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/0nBfGpp.png",
+        "http://i.imgur.com/SRKz9.png"
+    ],
+    "hash": "c6a11212d59a71c1a6882efe6464de77"
+}

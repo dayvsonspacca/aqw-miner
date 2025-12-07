@@ -1,0 +1,19 @@
+{
+    "urlName": "naval-navigator-morph",
+    "url": "http://aqwwiki.wikidot.com/naval-navigator-morph",
+    "name": "Naval Navigator Morph",
+    "type": "helmets_&_hoods",
+    "description": "A simple navigator who lost their soul to an uneasing urge to spread and take. There's nothing left of them, save for the unknowable spirits who inherited their corpse. (Click to change)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/uEuSxiV.png",
+        "https://i.imgur.com/4IUVzpn.png",
+        "https://i.imgur.com/4j3GWm0.png",
+        "https://i.imgur.com/Rm6L1Nn.png"
+    ],
+    "hash": "f67b6f24c0903fffc6f8d3681d6f9b1b"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "golden-flame-helm",
+    "url": "http://aqwwiki.wikidot.com/golden-flame-helm",
+    "name": "Golden Flame Helm",
+    "type": "helmets_&_hoods",
+    "description": "With this helm on, you'll never be burned - by the sun OR flames!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/7rlvJZX.png"
+    ],
+    "hash": "586b0fada3f6fa4fc7862d314f8daa03"
+}

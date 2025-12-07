@@ -1,0 +1,16 @@
+{
+    "urlName": "permafrost-helm-0-ac-1",
+    "url": "http://aqwwiki.wikidot.com/permafrost-helm-0-ac-1",
+    "name": "Permafrost Helm (0 AC) (1)",
+    "type": "helmets_&_hoods",
+    "description": "Frost Shamans draw their power from energy contained in the permafrost. Frozen magic lays dormant under the ice in the Northlands, waiting for a powerful enough magician to tap it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "https://imgur.com/XNhZOvw.png"
+    ],
+    "hash": "731ce28413c68e725c1ec5b31cad761b"
+}

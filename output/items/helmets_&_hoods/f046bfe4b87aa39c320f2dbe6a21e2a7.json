@@ -1,0 +1,16 @@
+{
+    "urlName": "lunar-pirate-captain-s-hat",
+    "url": "http://aqwwiki.wikidot.com/lunar-pirate-captain-s-hat",
+    "name": "Lunar Pirate Captain's Hat",
+    "type": "helmets_&_hoods",
+    "description": "The less moonlight there is at night, the stronger the glow of this majestic hat, granting you a suitable nightlight when sailing when there is no moon or sun to be seen.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lunar-pirate-captain-s-hat/LunarPCHat.png"
+    ],
+    "hash": "f046bfe4b87aa39c320f2dbe6a21e2a7"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "toxian-gas-mask",
+    "url": "http://aqwwiki.wikidot.com/toxian-gas-mask",
+    "name": "Toxian Gas Mask",
+    "type": "helmets_&_hoods",
+    "description": "This mask protects the Toxian Striders from the radioactive material they handle. Over time, the stoic visage becomes their face.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/NSqNP3u.png"
+    ],
+    "hash": "37e858609470903169d0a4231ed609fc"
+}

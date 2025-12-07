@@ -1,0 +1,16 @@
+{
+    "urlName": "male-guardian-helm",
+    "url": "http://aqwwiki.wikidot.com/male-guardian-helm",
+    "name": "Male Guardian Helm",
+    "type": "helmets_&_hoods",
+    "description": "An otherworldy feeling overcomes you as you equip the Guardian Helm; centuries of Trollic Lore and history flood your mind. You are now a Guardian.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/male-guardian-helm/MaleGuardianHelm.png"
+    ],
+    "hash": "626af1fac7a207527b3f84c0674f3fd0"
+}

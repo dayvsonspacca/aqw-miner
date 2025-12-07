@@ -1,0 +1,16 @@
+{
+    "urlName": "plated-shadowmage-hood",
+    "url": "http://aqwwiki.wikidot.com/plated-shadowmage-hood",
+    "name": "Plated ShadowMage Hood",
+    "type": "helmets_&_hoods",
+    "description": "Shadows conceal something sinister. (3% chance to do the smokebomb animation, and 5% XP boost)",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/rv15L9z.png",
+        "http://i.imgur.com/enxLOT2.png"
+    ],
+    "hash": "03cf6691a010aa24634c520eb0af9134"
+}

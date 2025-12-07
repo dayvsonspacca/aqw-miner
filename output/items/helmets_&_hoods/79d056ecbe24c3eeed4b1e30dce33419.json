@@ -1,0 +1,16 @@
+{
+    "urlName": "glowball-helm",
+    "url": "http://aqwwiki.wikidot.com/glowball-helm",
+    "name": "Glowball Helm",
+    "type": "helmets_&_hoods",
+    "description": "So bright, so intense!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/glowball-helm/GlowballHelm.png"
+    ],
+    "hash": "79d056ecbe24c3eeed4b1e30dce33419"
+}

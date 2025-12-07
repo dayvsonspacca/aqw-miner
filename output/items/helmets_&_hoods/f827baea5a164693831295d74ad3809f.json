@@ -1,0 +1,16 @@
+{
+    "urlName": "warden-of-hours-morph",
+    "url": "http://aqwwiki.wikidot.com/warden-of-hours-morph",
+    "name": "Warden of Hours Morph",
+    "type": "helmets_&_hoods",
+    "description": "Going completely unnoticed is the Warden of Hours main goal. Fix inconsistencies, and quietly let time march on. It's a thankless job, but most prefer anonymity to absolute disaster.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ymosM8L.png"
+    ],
+    "hash": "f827baea5a164693831295d74ad3809f"
+}

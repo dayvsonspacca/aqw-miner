@@ -1,0 +1,16 @@
+{
+    "urlName": "void-dragonslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/void-dragonslayer-helm",
+    "name": "Void DragonSlayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm has been tainted by the magic of the void!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/iLnytvS.png",
+        "http://aqwwiki.wdfiles.com/local--files/void-dragonslayer-helm/VoidDragonslayerHelmO.png"
+    ],
+    "hash": "3059164c2ac3d0a07fd141c44e0ac4c2"
+}

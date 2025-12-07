@@ -1,0 +1,16 @@
+{
+    "urlName": "bearded-barbarian-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/bearded-barbarian-helm-ac",
+    "name": "Bearded Barbarian Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "During Frostval these nomadic wanderers from the north travel from town to town giving gifts and protecting those in need. You don't want to be on their naughty list though, else be on the receiving end of their most infamous gift - their pure rage.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Hc29Hhm.png"
+    ],
+    "hash": "0c98849ddaea31eaa7d6cf04b96ae9e3"
+}

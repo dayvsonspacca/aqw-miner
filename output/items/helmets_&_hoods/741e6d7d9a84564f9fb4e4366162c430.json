@@ -1,0 +1,16 @@
+{
+    "urlName": "pacv-helm",
+    "url": "http://aqwwiki.wikidot.com/pacv-helm",
+    "name": "PACV Helm",
+    "type": "helmets_&_hoods",
+    "description": "Mistakes are the mother of success. After a multitude of successful cyber attacks, this gear has been fine tuned to block all hacking attempts. The upgrades were paid out of pocket by the engineers.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/br5D7Z5.png"
+    ],
+    "hash": "741e6d7d9a84564f9fb4e4366162c430"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-knight-cowl",
+    "url": "http://aqwwiki.wikidot.com/frost-knight-cowl",
+    "name": "Frost Knight Cowl",
+    "type": "helmets_&_hoods",
+    "description": "An elegant ice-based hood that is suitable to wear in long, long hikes in the Northlands, but it might freeze your face on the inside so be careful.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-knight-cowl/FKCowl.png"
+    ],
+    "hash": "b3e0b626ae5bfdf8ac52f1b8e6ae4be7"
+}

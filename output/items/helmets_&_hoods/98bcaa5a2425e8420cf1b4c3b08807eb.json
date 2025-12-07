@@ -1,0 +1,15 @@
+{
+    "urlName": "draco-tenebris-helm",
+    "url": "http://aqwwiki.wikidot.com/draco-tenebris-helm",
+    "name": "Draco Tenebris Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm protects their faces from light.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/FCSxG5g.png"
+    ],
+    "hash": "98bcaa5a2425e8420cf1b4c3b08807eb"
+}

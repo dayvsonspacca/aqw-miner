@@ -1,0 +1,16 @@
+{
+    "urlName": "umbral-guard-helm",
+    "url": "http://aqwwiki.wikidot.com/umbral-guard-helm",
+    "name": "Umbral Guard Helm",
+    "type": "helmets_&_hoods",
+    "description": "The helm of a guard that joined their Pharaoh when Sek-Duat buried them alive. In the dark, where even the snakes couldn't burrow, they waited for Lord Apophis to return.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Ww0Fd9b.png"
+    ],
+    "hash": "e88bd1749577487fe914deafb1b7390a"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "newspaper-hat",
+    "url": "http://aqwwiki.wikidot.com/newspaper-hat",
+    "name": "Newspaper Hat",
+    "type": "helmets_&_hoods",
+    "description": "What's black, white, and read all over? The official newspaper helm of swashbucklers and scallywags!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/newspaper-hat/NewspaperHat.png"
+    ],
+    "hash": "cf6d55e326cfbe48c09763d1a2b4c68d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "frostguard-s-helm",
+    "url": "http://aqwwiki.wikidot.com/frostguard-s-helm",
+    "name": "Frostguard's Helm",
+    "type": "helmets_&_hoods",
+    "description": "The helm of the Frostguard helps them defend Frostvale and Lore from Dage the Evil!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frostguard-s-helm/FrostguardsHelm.png"
+    ],
+    "hash": "151d3291990cd77d715d9d2e45d08d58"
+}

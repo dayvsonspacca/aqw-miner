@@ -1,0 +1,16 @@
+{
+    "urlName": "nugget-man-helm",
+    "url": "http://aqwwiki.wikidot.com/nugget-man-helm",
+    "name": "Nugget Man Helm",
+    "type": "helmets_&_hoods",
+    "description": "You can't really be a Nugget Man without the matching helm!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nugget-man-helm/NuggetManHelm.png"
+    ],
+    "hash": "3f83366a1c1223725b439f9d0e9859cb"
+}

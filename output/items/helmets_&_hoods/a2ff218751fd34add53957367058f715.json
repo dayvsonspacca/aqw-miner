@@ -1,0 +1,16 @@
+{
+    "urlName": "unsuccessful-scientist-helm",
+    "url": "http://aqwwiki.wikidot.com/unsuccessful-scientist-helm",
+    "name": "Unsuccessful Scientist Helm",
+    "type": "helmets_&_hoods",
+    "description": "Sadly, your most important experiment was successful\u2026 but you weren't!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/unsuccessful-scientist-helm/UnsuccessfulScientistHelm.png"
+    ],
+    "hash": "a2ff218751fd34add53957367058f715"
+}

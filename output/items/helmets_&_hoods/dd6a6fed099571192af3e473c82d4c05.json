@@ -1,0 +1,17 @@
+{
+    "urlName": "temporal-agent-skull-mask",
+    "url": "http://aqwwiki.wikidot.com/temporal-agent-skull-mask",
+    "name": "Temporal Agent Skull Mask",
+    "type": "helmets_&_hoods",
+    "description": "Temporal Agents are the bane of those who would taint the fabric of our universe. They patrol the timestream, destroying any who would manipulate it for their own selfish ends.",
+    "rarity": "Legendary Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Special Offer"
+    ],
+    "images": [
+        "https://i.imgur.com/RUTdesh.png",
+        "https://i.imgur.com/GX2O2op.png"
+    ],
+    "hash": "dd6a6fed099571192af3e473c82d4c05"
+}

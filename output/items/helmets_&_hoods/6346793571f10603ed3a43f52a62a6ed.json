@@ -1,0 +1,15 @@
+{
+    "urlName": "azure-spitfire-helm",
+    "url": "http://aqwwiki.wikidot.com/azure-spitfire-helm",
+    "name": "Azure SpitFire Helm",
+    "type": "helmets_&_hoods",
+    "description": "Donned by members of the SpitFire, this helm represents their allegiances to the Azure clan.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/BH7Kzjx.png"
+    ],
+    "hash": "6346793571f10603ed3a43f52a62a6ed"
+}

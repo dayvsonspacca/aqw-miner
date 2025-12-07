@@ -1,0 +1,16 @@
+{
+    "urlName": "lorosian-hunter-helm",
+    "url": "http://aqwwiki.wikidot.com/lorosian-hunter-helm",
+    "name": "Lorosian Hunter Helm",
+    "type": "helmets_&_hoods",
+    "description": "Capable of hunting the most devious of bounties, the Lorosian Hunters were feared all through the Galaxy.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/H3rapsw.png"
+    ],
+    "hash": "bf985c2c7df28c7d739bf49436be090e"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "helm-of-the-werewolf",
+    "url": "http://aqwwiki.wikidot.com/helm-of-the-werewolf",
+    "name": "Helm of the Werewolf",
+    "type": "helmets_&_hoods",
+    "description": "Hide your Grandmas and put away your red clothing options, because they're out on the prowl tonight!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/wkOSa0K.png"
+    ],
+    "hash": "af3004d57909362393ad1f8aa3069371"
+}

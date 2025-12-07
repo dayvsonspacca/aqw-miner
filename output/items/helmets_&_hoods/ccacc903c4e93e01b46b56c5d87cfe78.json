@@ -1,0 +1,16 @@
+{
+    "urlName": "frozen-deathknight-helm",
+    "url": "http://aqwwiki.wikidot.com/frozen-deathknight-helm",
+    "name": "Frozen DeathKnight Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Frost and Frozen DeathKnights are two contingents of the icy army set to ward the Northlands and any other area where ice reigns supreme.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/HddkTBj.png"
+    ],
+    "hash": "ccacc903c4e93e01b46b56c5d87cfe78"
+}

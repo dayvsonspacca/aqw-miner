@@ -1,0 +1,16 @@
+{
+    "urlName": "deafknight-helm",
+    "url": "http://aqwwiki.wikidot.com/deafknight-helm",
+    "name": "DEAFknight Helm",
+    "type": "helmets_&_hoods",
+    "description": "In the darkness of this helm,nobody can hear you scream. Death has many faces. But none as intimidating as this one. Appearing for the most unlucky day of the year, the DEAFknight Helm is a rare find featuring a color custom cowl that reflects your ruthless temper.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/deafknight-helm/DEAFknightHelm.png"
+    ],
+    "hash": "61b8ba3245a3ed5e6983ed294499feec"
+}

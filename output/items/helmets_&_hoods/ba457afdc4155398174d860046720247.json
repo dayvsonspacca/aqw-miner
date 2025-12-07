@@ -1,0 +1,16 @@
+{
+    "urlName": "prometheus-armet",
+    "url": "http://aqwwiki.wikidot.com/prometheus-armet",
+    "name": "Prometheus Armet",
+    "type": "helmets_&_hoods",
+    "description": "A helmet attuned to it's wearer's spiritual energy. The plume on the back is large depending on how strong your spirit is.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prometheus-armet/PrometheusArmet.png"
+    ],
+    "hash": "ba457afdc4155398174d860046720247"
+}

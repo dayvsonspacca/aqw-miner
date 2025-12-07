@@ -1,0 +1,16 @@
+{
+    "urlName": "moglin-defender-helmet",
+    "url": "http://aqwwiki.wikidot.com/moglin-defender-helmet",
+    "name": "Moglin Defender Helmet",
+    "type": "helmets_&_hoods",
+    "description": "A gift offered to the most noble Moglin Defenders. This golden helm is perfectly forged to resemble the adorable Moglin.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/moglin-defender-helmet/MoglinDefenderHelmet.png"
+    ],
+    "hash": "0abe44d412dc2ee65a2ed0bef7c7c136"
+}

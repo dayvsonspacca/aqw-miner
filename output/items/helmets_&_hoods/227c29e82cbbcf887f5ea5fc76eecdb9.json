@@ -1,0 +1,15 @@
+{
+    "urlName": "magma-protector-helm",
+    "url": "http://aqwwiki.wikidot.com/magma-protector-helm",
+    "name": "Magma Protector Helm",
+    "type": "helmets_&_hoods",
+    "description": "Your armor is the volcano. You are the magma beneath the surface, forever straining to break free. This helm doesn't just keep swords out, it keeps you in.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/wxPLGbw.png"
+    ],
+    "hash": "227c29e82cbbcf887f5ea5fc76eecdb9"
+}

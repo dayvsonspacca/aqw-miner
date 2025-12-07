@@ -1,0 +1,15 @@
+{
+    "urlName": "blademaster-helm",
+    "url": "http://aqwwiki.wikidot.com/blademaster-helm",
+    "name": "BladeMaster Helm",
+    "type": "helmets_&_hoods",
+    "description": "Little is know how it lost its sight or how it's able to wield a blade. One thing still remains, is",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blademaster-helm/BladeMasterHelm.png"
+    ],
+    "hash": "bc56386c8b2e42c15d6b3879c8775b9f"
+}

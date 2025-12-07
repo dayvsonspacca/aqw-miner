@@ -1,0 +1,17 @@
+{
+    "urlName": "royal-raider-crown",
+    "url": "http://aqwwiki.wikidot.com/royal-raider-crown",
+    "name": "Royal Raider Crown",
+    "type": "helmets_&_hoods",
+    "description": "A monarch of a kingdom always has a crown placed on their head to make themselves known amongst their subjects, but when it comes to a theft, how could one tell a king or queen apart from a bandit?",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/royal-raider-crown/RRCrown.png"
+    ],
+    "hash": "3c1a637e8ad0d1249ea2b32f9fe2c300"
+}

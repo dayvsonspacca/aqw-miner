@@ -1,0 +1,17 @@
+{
+    "urlName": "wooden-crown",
+    "url": "http://aqwwiki.wikidot.com/wooden-crown",
+    "name": "Wooden Crown",
+    "type": "helmets_&_hoods",
+    "description": "Well wood you look at that: a crown fit for a treeant! Matches perfectly with the 'Arbor Armor' for the Earth Day Celebration.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/KVpjNWj.png"
+    ],
+    "hash": "995cb4d361623cd299f8cd037bb7610f"
+}

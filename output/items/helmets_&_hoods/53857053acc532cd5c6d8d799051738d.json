@@ -1,0 +1,16 @@
+{
+    "urlName": "frigid-locks",
+    "url": "http://aqwwiki.wikidot.com/frigid-locks",
+    "name": "Frigid Locks",
+    "type": "helmets_&_hoods",
+    "description": "An icy Sheen that no specialized shampoo can hope to match.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/B3n6zVY.png"
+    ],
+    "hash": "53857053acc532cd5c6d8d799051738d"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "zardian-pilot-helm-and-locks",
+    "url": "http://aqwwiki.wikidot.com/zardian-pilot-helm-and-locks",
+    "name": "Zardian Pilot Helm and Locks",
+    "type": "helmets_&_hoods",
+    "description": "Gear made for pilots of Zard-kind; not the type you're used to on planet Lore. Humans and other races are welcome to join them and learn how to fly their specialized crafts. So long as you don't treat the Zardians like horses. Not even jokes.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/es3VkHx.png"
+    ],
+    "hash": "3efd88fef40a6e70a04ac2c92c651472"
+}

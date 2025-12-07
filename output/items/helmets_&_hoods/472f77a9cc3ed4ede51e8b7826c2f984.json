@@ -1,0 +1,15 @@
+{
+    "urlName": "worn-sock-helm",
+    "url": "http://aqwwiki.wikidot.com/worn-sock-helm",
+    "name": "Worn Sock Helm",
+    "type": "helmets_&_hoods",
+    "description": "You rescued this lost sock and re-purposed it. /happysock!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/worn-sock-helm/WornSockHelm.png"
+    ],
+    "hash": "472f77a9cc3ed4ede51e8b7826c2f984"
+}

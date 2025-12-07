@@ -1,0 +1,17 @@
+{
+    "urlName": "festive-caroler-hat",
+    "url": "http://aqwwiki.wikidot.com/festive-caroler-hat",
+    "name": "Festive Caroler Hat",
+    "type": "helmets_&_hoods",
+    "description": "Where do our carols originate? Were they created by a court composer, or were they songs passed from elves to dwarves to humans? We may never know.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/sq6vZ3Z.png",
+        "https://i.imgur.com/klTleTL.png"
+    ],
+    "hash": "06559c0cffa82903790881f8783b0515"
+}

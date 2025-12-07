@@ -1,0 +1,15 @@
+{
+    "urlName": "welder-mask",
+    "url": "http://aqwwiki.wikidot.com/welder-mask",
+    "name": "Welder Mask",
+    "type": "helmets_&_hoods",
+    "description": "Whether it's exploring volcanoes or working in the boiler room of steam-powered ships, it is always a-must to protect your face. All it takes is a sheet of metal with a square hole.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/welder-mask/WelderMask.png"
+    ],
+    "hash": "b57f5222c53530219c36cbaacbcfc292"
+}

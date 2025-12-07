@@ -1,0 +1,15 @@
+{
+    "urlName": "bearded-bard",
+    "url": "http://aqwwiki.wikidot.com/bearded-bard",
+    "name": "Bearded Bard",
+    "type": "helmets_&_hoods",
+    "description": "Facial hair is key to becoming a successful bard.",
+    "rarity": "Common Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/D5jKrAw.png"
+    ],
+    "hash": "f325794dadf70ccbac47f468eec78093"
+}

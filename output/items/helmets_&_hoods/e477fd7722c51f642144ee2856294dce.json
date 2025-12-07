@@ -1,0 +1,15 @@
+{
+    "urlName": "knifed-top-hat",
+    "url": "http://aqwwiki.wikidot.com/knifed-top-hat",
+    "name": "Knifed Top Hat",
+    "type": "helmets_&_hoods",
+    "description": "A cut above other hats.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/r6UogN0.png"
+    ],
+    "hash": "e477fd7722c51f642144ee2856294dce"
+}

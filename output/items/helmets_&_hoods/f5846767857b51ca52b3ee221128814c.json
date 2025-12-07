@@ -1,0 +1,16 @@
+{
+    "urlName": "penitent-keeper-helm",
+    "url": "http://aqwwiki.wikidot.com/penitent-keeper-helm",
+    "name": "Penitent Keeper Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Keepers of the Underworld's forbidden knowledge have sworn oaths of silence. The secrets of those who have lost themselves in the Lethe will never be heard by another soul.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/QQGsIDp.png"
+    ],
+    "hash": "f5846767857b51ca52b3ee221128814c"
+}

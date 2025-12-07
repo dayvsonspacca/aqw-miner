@@ -1,0 +1,16 @@
+{
+    "urlName": "troll-sock-helm",
+    "url": "http://aqwwiki.wikidot.com/troll-sock-helm",
+    "name": "Troll Sock Helm",
+    "type": "helmets_&_hoods",
+    "description": "Yeah, that's right. We made the Troll Sock helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/troll-sock-helm/TrollSockHelm.png"
+    ],
+    "hash": "81c1af0f47b8eb88be05718e7cb1952b"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "tau-ceti-helm",
+    "url": "http://aqwwiki.wikidot.com/tau-ceti-helm",
+    "name": "Tau Ceti Helm",
+    "type": "helmets_&_hoods",
+    "description": "A color custom airlock helm built by Reddy, the Tau Ceti Helm allows the Tau Ceti Soldiers to travel from planet to planet while retaining their air supply.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/aRu5KCm.png",
+        "http://i.imgur.com/Ac8MYAL.png"
+    ],
+    "hash": "8b07937e0e8bee12dc0be722a48a7c90"
+}

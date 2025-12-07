@@ -1,0 +1,16 @@
+{
+    "urlName": "blush-vaxen-minion-hood",
+    "url": "http://aqwwiki.wikidot.com/blush-vaxen-minion-hood",
+    "name": "Blush Vaxen Minion Hood",
+    "type": "helmets_&_hoods",
+    "description": "Even minions can look stylish sometimes. As long as they're not in blue overalls. (Even in pink)",
+    "rarity": "Boss Drop Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blush-vaxen-minion-hood/BVMH.png"
+    ],
+    "hash": "8aad1c2188a96b22e35f8aa25a77c4d4"
+}

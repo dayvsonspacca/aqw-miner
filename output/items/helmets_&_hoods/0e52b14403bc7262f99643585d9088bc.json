@@ -1,0 +1,16 @@
+{
+    "urlName": "cryptkeeper-skull",
+    "url": "http://aqwwiki.wikidot.com/cryptkeeper-skull",
+    "name": "CryptKeeper Skull",
+    "type": "helmets_&_hoods",
+    "description": "Once a cryptkeeper trainee has reach the end of their training, their humanity shatters like broken class and become liches. There is no turning back after the corruption has wrapped itself around the souls.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cryptkeeper-skull/CryptkeeperSkull.png"
+    ],
+    "hash": "0e52b14403bc7262f99643585d9088bc"
+}

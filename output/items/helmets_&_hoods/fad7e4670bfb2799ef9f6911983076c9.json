@@ -1,0 +1,16 @@
+{
+    "urlName": "vile-helm",
+    "url": "http://aqwwiki.wikidot.com/vile-helm",
+    "name": "Vile Helm",
+    "type": "helmets_&_hoods",
+    "description": "Worn by the depraved and impure.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/vile-helm/VileHelm.png"
+    ],
+    "hash": "fad7e4670bfb2799ef9f6911983076c9"
+}

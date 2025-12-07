@@ -1,0 +1,15 @@
+{
+    "urlName": "oakheart-helm",
+    "url": "http://aqwwiki.wikidot.com/oakheart-helm",
+    "name": "OakHeart Helm",
+    "type": "helmets_&_hoods",
+    "description": "OakHeart are the Guardians of the Forest. And are quite hardheaded as well. But it looks darn good on you!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/oakheart-helm/OakHeartHelm.png"
+    ],
+    "hash": "dee72efd940fbc1d3c1c3e11a125ea1c"
+}

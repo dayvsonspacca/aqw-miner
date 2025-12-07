@@ -1,0 +1,15 @@
+{
+    "urlName": "disco-doo",
+    "url": "http://aqwwiki.wikidot.com/disco-doo",
+    "name": "Disco Doo",
+    "type": "helmets_&_hoods",
+    "description": "A groovy style that looks tubular on both genders!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/disco-doo/DiscoDoo.png"
+    ],
+    "hash": "9bc3f6ea45ce9a9e3eab18c3feddac7a"
+}

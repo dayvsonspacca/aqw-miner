@@ -1,0 +1,15 @@
+{
+    "urlName": "talking-hat-locks",
+    "url": "http://aqwwiki.wikidot.com/talking-hat-locks",
+    "name": "Talking Hat + Locks",
+    "type": "helmets_&_hoods",
+    "description": "If you listen it'll tell you what DragonRune house you're in.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8O0WqN4.png"
+    ],
+    "hash": "26d4d5a852de7f85b1fbb104add60374"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "skyguard-officer-helm",
+    "url": "http://aqwwiki.wikidot.com/skyguard-officer-helm",
+    "name": "Skyguard Officer Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helmet is only issues to Skyguard officers. Wear it proudly, for evil will know who it is they have to blame for their failure when they see it.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skyguard-officer-helm/SOH.png"
+    ],
+    "hash": "b89dd15eb2d6b449dd8f42efacf9e8a3"
+}

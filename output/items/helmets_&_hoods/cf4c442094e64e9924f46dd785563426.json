@@ -1,0 +1,16 @@
+{
+    "urlName": "frost-knight-helm",
+    "url": "http://aqwwiki.wikidot.com/frost-knight-helm",
+    "name": "Frost Knight Helm",
+    "type": "helmets_&_hoods",
+    "description": "Solid and shiny as the thickest glaciers in the Northlands, this endurant helm can protect your head from smaller speeding projectiles. It's not only a super cool winter accessory, but it also helps increases your safety.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/frost-knight-helm/FKHelm.png"
+    ],
+    "hash": "cf4c442094e64e9924f46dd785563426"
+}

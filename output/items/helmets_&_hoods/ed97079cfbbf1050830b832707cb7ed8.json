@@ -1,0 +1,16 @@
+{
+    "urlName": "giftbox-helm-2",
+    "url": "http://aqwwiki.wikidot.com/giftbox-helm-2",
+    "name": "Giftbox Helm",
+    "type": "helmets_&_hoods",
+    "description": "Sometimes you just want to run around dressed like a giant gift box!",
+    "rarity": "Seasonal Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/oPQTCF2.png"
+    ],
+    "hash": "ed97079cfbbf1050830b832707cb7ed8"
+}

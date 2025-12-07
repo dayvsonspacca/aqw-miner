@@ -1,0 +1,16 @@
+{
+    "urlName": "chaosweaverhelm",
+    "url": "http://aqwwiki.wikidot.com/chaosweaverhelm",
+    "name": "ChaosWeaverHelm",
+    "type": "helmets_&_hoods",
+    "description": "All your victories can be counted on this helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaosweaverhelm/CWH.png"
+    ],
+    "hash": "ef71b32bfe61546e1d4740238e5542ff"
+}

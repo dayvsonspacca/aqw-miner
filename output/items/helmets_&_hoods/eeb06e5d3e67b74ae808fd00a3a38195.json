@@ -1,0 +1,15 @@
+{
+    "urlName": "polycrystalline-silicon-helm",
+    "url": "http://aqwwiki.wikidot.com/polycrystalline-silicon-helm",
+    "name": "Polycrystalline Silicon Helm",
+    "type": "helmets_&_hoods",
+    "description": "The tireless efforts of Seabase Undine's researchers allowed them to develop armor that would protect their allies in the Sandsea. This helmet harnesses solar energy to bolster the wearer's mana, preventing burn-out.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/rJD5rXU.png"
+    ],
+    "hash": "eeb06e5d3e67b74ae808fd00a3a38195"
+}

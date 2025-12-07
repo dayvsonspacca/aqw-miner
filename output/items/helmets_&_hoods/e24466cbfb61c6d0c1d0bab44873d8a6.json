@@ -1,0 +1,13 @@
+{
+    "urlName": "fighter-helm",
+    "url": "http://aqwwiki.wikidot.com/fighter-helm",
+    "name": "Fighter Helm",
+    "type": "helmets_&_hoods",
+    "description": "Looks like a winged helm, without the wings.",
+    "rarity": "Weird Rarity",
+    "tags": [],
+    "images": [
+        "http://i.imgur.com/hYgmLnG.png"
+    ],
+    "hash": "e24466cbfb61c6d0c1d0bab44873d8a6"
+}

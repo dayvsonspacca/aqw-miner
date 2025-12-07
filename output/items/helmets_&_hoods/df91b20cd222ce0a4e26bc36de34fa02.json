@@ -1,0 +1,15 @@
+{
+    "urlName": "iron-head-helm",
+    "url": "http://aqwwiki.wikidot.com/iron-head-helm",
+    "name": "Iron Head Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helmet is made of extremely thick iron. (color custom)",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/VtRSAuO.png"
+    ],
+    "hash": "df91b20cd222ce0a4e26bc36de34fa02"
+}

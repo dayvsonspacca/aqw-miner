@@ -1,0 +1,16 @@
+{
+    "urlName": "galactic-imperator-helm",
+    "url": "http://aqwwiki.wikidot.com/galactic-imperator-helm",
+    "name": "Galactic Imperator Helm",
+    "type": "helmets_&_hoods",
+    "description": "It is imperative that you DO NOT look at your galactic overlord. This helm will help with that.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/EgG3dfm.png"
+    ],
+    "hash": "81020bfda8b5cae2ed712ac345ee536e"
+}

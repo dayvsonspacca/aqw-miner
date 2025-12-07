@@ -1,0 +1,16 @@
+{
+    "urlName": "permafrost-dragonslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/permafrost-dragonslayer-helm",
+    "name": "Permafrost Dragonslayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Ice Dragon who transformed these Dragonslayers was fond of hoarding living sculptures. They were a diluted blood descendant of an extinct Draconic hierarchy, able to transform flesh into enthralled ice.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/a0Wu9BM.png"
+    ],
+    "hash": "d57c76ba52c2ea987820e3cd74a9f415"
+}

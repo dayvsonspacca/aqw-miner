@@ -1,0 +1,17 @@
+{
+    "urlName": "snowy-caroler-hat",
+    "url": "http://aqwwiki.wikidot.com/snowy-caroler-hat",
+    "name": "Snowy Caroler Hat",
+    "type": "helmets_&_hoods",
+    "description": "Where do our carols originate? Were they created by a court composer, or were they songs passed from elves to dwarves to humans? We may never know.",
+    "rarity": "Unknown Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/UH3m4dS.png",
+        "https://i.imgur.com/9wIXUJF.png"
+    ],
+    "hash": "dc5a3fb78bda232f59b7b9ee65a51cfc"
+}

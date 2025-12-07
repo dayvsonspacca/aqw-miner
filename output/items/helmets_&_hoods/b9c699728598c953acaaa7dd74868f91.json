@@ -1,0 +1,14 @@
+{
+    "urlName": "elven-frost-locks",
+    "url": "http://aqwwiki.wikidot.com/elven-frost-locks",
+    "name": "Elven Frost Locks",
+    "type": "helmets_&_hoods",
+    "description": "Channel the power of blizzards and black ice to destroy your enemies!",
+    "rarity": "Awesome Rarity",
+    "tags": [],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/elven-frost-locks/ElvenFrostLocksNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/elven-frost-locks/ElvenFrostLocks.png"
+    ],
+    "hash": "b9c699728598c953acaaa7dd74868f91"
+}

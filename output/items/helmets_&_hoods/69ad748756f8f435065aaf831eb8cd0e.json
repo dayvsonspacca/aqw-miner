@@ -1,0 +1,16 @@
+{
+    "urlName": "lion-mask",
+    "url": "http://aqwwiki.wikidot.com/lion-mask",
+    "name": "Lion Mask",
+    "type": "helmets_&_hoods",
+    "description": "I tired to roar, but all that came out was a mew.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/lion-mask/LionMask.png"
+    ],
+    "hash": "69ad748756f8f435065aaf831eb8cd0e"
+}

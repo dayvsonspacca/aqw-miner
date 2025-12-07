@@ -1,0 +1,16 @@
+{
+    "urlName": "hockey-mask",
+    "url": "http://aqwwiki.wikidot.com/hockey-mask",
+    "name": "Hockey Mask",
+    "type": "helmets_&_hoods",
+    "description": "It's great for playing as a hockey goalie.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/vkam7jO.png"
+    ],
+    "hash": "91b78c9dcde17660e2859a91d45c8269"
+}

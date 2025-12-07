@@ -1,0 +1,16 @@
+{
+    "urlName": "j6-s-gunslinger-helm",
+    "url": "http://aqwwiki.wikidot.com/j6-s-gunslinger-helm",
+    "name": "J6's Gunslinger Helm",
+    "type": "helmets_&_hoods",
+    "description": "Overly paranoid about somebody finding out your true identity? This should help.",
+    "rarity": "Secret Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/owtQF0M.png"
+    ],
+    "hash": "378b10f3116ae5dcfd44ddd85ac3cac2"
+}

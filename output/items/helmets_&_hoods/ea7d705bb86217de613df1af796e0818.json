@@ -1,0 +1,16 @@
+{
+    "urlName": "tribal-mummy-helm",
+    "url": "http://aqwwiki.wikidot.com/tribal-mummy-helm",
+    "name": "Tribal Mummy Helm",
+    "type": "helmets_&_hoods",
+    "description": "A tribal box-like mask sculpted from a lone hollow bush that is said to heighten its wearer's connection to the Mystcroft plane, allowing them to see a twisted, spookier version of their environment. The illusions can drive non-enlightened in the paranormal world mad.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/vhTH0Nm.png"
+    ],
+    "hash": "ea7d705bb86217de613df1af796e0818"
+}

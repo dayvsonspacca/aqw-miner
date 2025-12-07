@@ -1,0 +1,15 @@
+{
+    "urlName": "server-gremlin-head",
+    "url": "http://aqwwiki.wikidot.com/server-gremlin-head",
+    "name": "Server Gremlin Head",
+    "type": "helmets_&_hoods",
+    "description": "Service with a smile! \u2026well, kind of.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://i.imgur.com/bN1hdf2.png"
+    ],
+    "hash": "ac9a1c82bc5df8a1acdf29d5f80ff5d8"
+}

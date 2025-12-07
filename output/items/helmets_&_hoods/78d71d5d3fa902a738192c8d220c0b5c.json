@@ -1,0 +1,16 @@
+{
+    "urlName": "cobalt-warrior-helm",
+    "url": "http://aqwwiki.wikidot.com/cobalt-warrior-helm",
+    "name": "Cobalt Warrior Helm",
+    "type": "helmets_&_hoods",
+    "description": "This stark helm will terrorize your opponents when they try to stare you down. NO ONE outmatches an Iron Warrior!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Xr9dU2f.png"
+    ],
+    "hash": "78d71d5d3fa902a738192c8d220c0b5c"
+}

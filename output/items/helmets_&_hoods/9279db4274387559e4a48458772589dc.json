@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-draconian-head",
+    "url": "http://aqwwiki.wikidot.com/prismatic-draconian-head",
+    "name": "Prismatic Draconian Head",
+    "type": "helmets_&_hoods",
+    "description": "This magical helm gives the illusion that your head has been transformed into that of a Draconian of whatever color you choose.",
+    "rarity": "Limited Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-draconian-head/PDH.png"
+    ],
+    "hash": "9279db4274387559e4a48458772589dc"
+}

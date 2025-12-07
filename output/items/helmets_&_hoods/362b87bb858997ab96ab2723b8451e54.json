@@ -1,0 +1,15 @@
+{
+    "urlName": "derpslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/derpslayer-helm",
+    "name": "Derpslayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Helm are worn by the elite order of DERPslayers. HUURRRPA DEERP!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/derpslayer-helm/DerpslayerHelm.png"
+    ],
+    "hash": "362b87bb858997ab96ab2723b8451e54"
+}

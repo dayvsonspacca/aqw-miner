@@ -1,0 +1,16 @@
+{
+    "urlName": "northern-wanderer-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/northern-wanderer-helm-ac",
+    "name": "Northern Wanderer Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Cold? Bah! Who's cold with all this armor on? You think you have the guts to wander the Northlands? Well bring on the cold!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8HP3Br1.png"
+    ],
+    "hash": "ad3642c2225f23bbfe7df45ed10929e8"
+}

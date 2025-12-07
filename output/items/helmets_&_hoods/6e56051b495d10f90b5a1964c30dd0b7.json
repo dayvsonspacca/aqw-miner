@@ -1,0 +1,16 @@
+{
+    "urlName": "knight-of-the-dinosaurs",
+    "url": "http://aqwwiki.wikidot.com/knight-of-the-dinosaurs",
+    "name": "Knight of the Dinosaurs",
+    "type": "helmets_&_hoods",
+    "description": "You don't need to look your opponents in the eyes when you're charging at them from the back of a raptor!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/knight-of-the-dinosaurs/KnightoftheDinosaurs.png"
+    ],
+    "hash": "6e56051b495d10f90b5a1964c30dd0b7"
+}

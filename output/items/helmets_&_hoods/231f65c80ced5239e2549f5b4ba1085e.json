@@ -1,0 +1,15 @@
+{
+    "urlName": "grandmaster-helm",
+    "url": "http://aqwwiki.wikidot.com/grandmaster-helm",
+    "name": "GrandMaster Helm",
+    "type": "helmets_&_hoods",
+    "description": "To become a GrandMaster it takes skill, a cunning eye, a sharp blade and a good fire retardant armor.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/uhsD5JP.png"
+    ],
+    "hash": "231f65c80ced5239e2549f5b4ba1085e"
+}

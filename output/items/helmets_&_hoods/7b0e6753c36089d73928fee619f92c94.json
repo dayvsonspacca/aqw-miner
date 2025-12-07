@@ -1,0 +1,16 @@
+{
+    "urlName": "pufferface-helm",
+    "url": "http://aqwwiki.wikidot.com/pufferface-helm",
+    "name": "PufferFace Helm",
+    "type": "helmets_&_hoods",
+    "description": "Pufferfish make fugu out of you!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ymEt5ra.png"
+    ],
+    "hash": "7b0e6753c36089d73928fee619f92c94"
+}

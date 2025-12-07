@@ -1,0 +1,16 @@
+{
+    "urlName": "blinding-darkness",
+    "url": "http://aqwwiki.wikidot.com/blinding-darkness",
+    "name": "Blinding Darkness",
+    "type": "helmets_&_hoods",
+    "description": "Your enemies fear to look upon your face, but your friends know a loyal soldier lies behind the mask.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blinding-darkness/BlindingDarkness.png"
+    ],
+    "hash": "e9ce4c9f2168fa5ec22a6d058bb736fb"
+}

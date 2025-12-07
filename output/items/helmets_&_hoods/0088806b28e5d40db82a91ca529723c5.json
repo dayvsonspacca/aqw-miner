@@ -1,0 +1,16 @@
+{
+    "urlName": "cleric-of-time-locks",
+    "url": "http://aqwwiki.wikidot.com/cleric-of-time-locks",
+    "name": "Cleric Of Time Locks",
+    "type": "helmets_&_hoods",
+    "description": "A gilded helm to go with an ornate armor.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/cleric-of-time-locks/ClericOfTimeLocks.png"
+    ],
+    "hash": "0088806b28e5d40db82a91ca529723c5"
+}

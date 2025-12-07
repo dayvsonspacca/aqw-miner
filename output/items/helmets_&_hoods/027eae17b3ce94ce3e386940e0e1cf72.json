@@ -1,0 +1,16 @@
+{
+    "urlName": "seraphic-technocaster-helm",
+    "url": "http://aqwwiki.wikidot.com/seraphic-technocaster-helm",
+    "name": "Seraphic Technocaster Helm",
+    "type": "helmets_&_hoods",
+    "description": "Technocasters are a group of elite Seraphic warriors from the future. The golden armor that they wear helps guard them against radiation, and any number of space-borne illnesses.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/IsiJb6W.png"
+    ],
+    "hash": "027eae17b3ce94ce3e386940e0e1cf72"
+}

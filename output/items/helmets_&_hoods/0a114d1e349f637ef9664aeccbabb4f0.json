@@ -1,0 +1,16 @@
+{
+    "urlName": "sock-n-beard-helm",
+    "url": "http://aqwwiki.wikidot.com/sock-n-beard-helm",
+    "name": "Sock-n-Beard Helm",
+    "type": "helmets_&_hoods",
+    "description": "A lost sock won't help you shave, but it'll keep your head warm in the winter!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/sock-n-beard-helm/SocknBeard.png"
+    ],
+    "hash": "0a114d1e349f637ef9664aeccbabb4f0"
+}

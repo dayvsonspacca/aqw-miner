@@ -1,0 +1,17 @@
+{
+    "urlName": "tactical-agent-alpha-gasmask",
+    "url": "http://aqwwiki.wikidot.com/tactical-agent-alpha-gasmask",
+    "name": "Tactical Agent Alpha Gasmask",
+    "type": "helmets_&_hoods",
+    "description": "You have to admit, the mask is kind of hunky.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ddgKS6v.png"
+    ],
+    "hash": "eb184fab0df2cf4636c29b12b262f60f"
+}

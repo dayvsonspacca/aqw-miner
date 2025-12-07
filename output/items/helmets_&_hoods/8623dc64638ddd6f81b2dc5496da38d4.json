@@ -1,0 +1,15 @@
+{
+    "urlName": "afkheadset",
+    "url": "http://aqwwiki.wikidot.com/afkheadset",
+    "name": "AFKHeadset",
+    "type": "helmets_&_hoods",
+    "description": "Not only does it cancel out sound from the outside, the headset kills that noise. Oh, there's a fire? Then it'll have to wait after one more round.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/G6AwmK7.png"
+    ],
+    "hash": "8623dc64638ddd6f81b2dc5496da38d4"
+}

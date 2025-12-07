@@ -1,0 +1,16 @@
+{
+    "urlName": "bone-crusher-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/bone-crusher-helm-ac",
+    "name": "Bone Crusher Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "Did Nulgath decide to leave the skull intact this time? What a pleasant surprise.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/bone-crusher-helm-ac/BoneCrusherHelm.png"
+    ],
+    "hash": "aacde7c84226b93cfecd39b857253683"
+}

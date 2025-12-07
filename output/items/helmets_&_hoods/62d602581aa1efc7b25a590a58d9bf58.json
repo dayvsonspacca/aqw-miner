@@ -1,0 +1,16 @@
+{
+    "urlName": "moonwalker-helm",
+    "url": "http://aqwwiki.wikidot.com/moonwalker-helm",
+    "name": "Moonwalker Helm",
+    "type": "helmets_&_hoods",
+    "description": "Keeps out the vacuum of space as well as being very stylish.",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/moonwalker-helm/MoonwalkerHelm.png"
+    ],
+    "hash": "62d602581aa1efc7b25a590a58d9bf58"
+}

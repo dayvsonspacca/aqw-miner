@@ -1,0 +1,15 @@
+{
+    "urlName": "reshaper-helm",
+    "url": "http://aqwwiki.wikidot.com/reshaper-helm",
+    "name": "Reshaper Helm",
+    "type": "helmets_&_hoods",
+    "description": "The twisted mind must be covered.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/uphx0hK.png"
+    ],
+    "hash": "58fd1d67971ee31700ad3f62d02c1ab0"
+}

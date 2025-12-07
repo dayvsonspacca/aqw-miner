@@ -1,0 +1,16 @@
+{
+    "urlName": "warpforce-heavy-gunner-helm",
+    "url": "http://aqwwiki.wikidot.com/warpforce-heavy-gunner-helm",
+    "name": "WarpForce Heavy Gunner Helm",
+    "type": "helmets_&_hoods",
+    "description": "This is the style of helm worn by the Heavy Gunner class in AdventureQuest WarpForce!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/warpforce-heavy-gunner-helm/WarpForceHeavyGunnerHelm.png"
+    ],
+    "hash": "3264571312d6a4d0c5f942106a6f4677"
+}

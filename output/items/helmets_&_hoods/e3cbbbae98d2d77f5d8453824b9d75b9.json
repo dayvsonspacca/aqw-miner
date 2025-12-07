@@ -1,0 +1,16 @@
+{
+    "urlName": "fenrir-brute-helm",
+    "url": "http://aqwwiki.wikidot.com/fenrir-brute-helm",
+    "name": "Fenrir Brute Helm",
+    "type": "helmets_&_hoods",
+    "description": "The taste for the Nation's flesh lingers on the tips of their fangs!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fenrir-brute-helm/FBH.png"
+    ],
+    "hash": "e3cbbbae98d2d77f5d8453824b9d75b9"
+}

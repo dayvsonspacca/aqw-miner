@@ -1,0 +1,16 @@
+{
+    "urlName": "secretive-stalker-helm",
+    "url": "http://aqwwiki.wikidot.com/secretive-stalker-helm",
+    "name": "Secretive Stalker Helm",
+    "type": "helmets_&_hoods",
+    "description": "Hide your eyes to avoid being bewitched!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/secretive-stalker-helm/SecretiveStalkerHelm.png"
+    ],
+    "hash": "eeff16f5f2bc50a77730b8726426b087"
+}

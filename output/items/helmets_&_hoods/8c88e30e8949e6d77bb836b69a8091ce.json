@@ -1,0 +1,16 @@
+{
+    "urlName": "witch-s-hat",
+    "url": "http://aqwwiki.wikidot.com/witch-s-hat",
+    "name": "Witch's Hat",
+    "type": "helmets_&_hoods",
+    "description": "The witches fly tonight! Warning: hat will melt if it becomes wet.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/zUU11JS.png"
+    ],
+    "hash": "8c88e30e8949e6d77bb836b69a8091ce"
+}

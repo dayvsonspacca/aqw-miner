@@ -1,0 +1,17 @@
+{
+    "urlName": "derp-taco-helm",
+    "url": "http://aqwwiki.wikidot.com/derp-taco-helm",
+    "name": "Derp Taco (Helm)",
+    "type": "helmets_&_hoods",
+    "description": "DERP! Heroes love a good derp taco. YUM!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/uxrqyl8.png",
+        "https://i.imgur.com/8vCwn0b.png"
+    ],
+    "hash": "d24de8d9abad1c037f545b1b975df155"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "quantum-centurion-galea",
+    "url": "http://aqwwiki.wikidot.com/quantum-centurion-galea",
+    "name": "Quantum Centurion Galea",
+    "type": "helmets_&_hoods",
+    "description": "A helmet forged once per century embedded with the birthstones of the hero it was meant for. The Chronoforge Master stopped creating them after the Centurions lost themselves to ambition.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/xf4Jwcn.png"
+    ],
+    "hash": "39599aebf138461bbc7aba89cb0f7218"
+}

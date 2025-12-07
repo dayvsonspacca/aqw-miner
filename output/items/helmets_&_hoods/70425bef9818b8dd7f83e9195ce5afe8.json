@@ -1,0 +1,16 @@
+{
+    "urlName": "emerald-druid-locks",
+    "url": "http://aqwwiki.wikidot.com/emerald-druid-locks",
+    "name": "Emerald Druid Locks",
+    "type": "helmets_&_hoods",
+    "description": "The beautiful greens of Nature re-appear when Pollution is defeated!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/tklhTOY.png"
+    ],
+    "hash": "70425bef9818b8dd7f83e9195ce5afe8"
+}

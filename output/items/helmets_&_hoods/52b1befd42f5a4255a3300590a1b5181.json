@@ -1,0 +1,16 @@
+{
+    "urlName": "nolly-sock",
+    "url": "http://aqwwiki.wikidot.com/nolly-sock",
+    "name": "Nolly Sock",
+    "type": "helmets_&_hoods",
+    "description": "Why pull the wool over your eyes when you can pull a sock puppet over your whole head?",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/nolly-sock/NollySock.png"
+    ],
+    "hash": "52b1befd42f5a4255a3300590a1b5181"
+}

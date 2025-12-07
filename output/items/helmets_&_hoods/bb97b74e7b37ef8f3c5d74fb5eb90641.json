@@ -1,0 +1,15 @@
+{
+    "urlName": "crystamorph-helm",
+    "url": "http://aqwwiki.wikidot.com/crystamorph-helm",
+    "name": "Crystamorph Helm",
+    "type": "helmets_&_hoods",
+    "description": "Strange creatures lurk in the depths of Battleon, the deeper you go the more odd they get.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/fU2G1zA.png"
+    ],
+    "hash": "bb97b74e7b37ef8f3c5d74fb5eb90641"
+}

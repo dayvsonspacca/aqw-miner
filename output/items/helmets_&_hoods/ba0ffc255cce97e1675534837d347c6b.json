@@ -1,0 +1,17 @@
+{
+    "urlName": "high-defender-s-helm",
+    "url": "http://aqwwiki.wikidot.com/high-defender-s-helm",
+    "name": "High Defender's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Though the helmet causes moderate blindness, it comes with equipped sonar and the stars of the galaxy can be heard.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Pseudo Rare",
+        "Special Offer"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/high-defender-s-helm/HighDefender'sHelm.png"
+    ],
+    "hash": "ba0ffc255cce97e1675534837d347c6b"
+}

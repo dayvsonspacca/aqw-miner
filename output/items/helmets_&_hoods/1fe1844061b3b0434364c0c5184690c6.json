@@ -1,0 +1,18 @@
+{
+    "urlName": "ultra-ringmaster-locks",
+    "url": "http://aqwwiki.wikidot.com/ultra-ringmaster-locks",
+    "name": "Ultra Ringmaster Locks",
+    "type": "helmets_&_hoods",
+    "description": "It just keeps going and going and going and going and going and going and going and going and going and going and going and going. (Gives more XP and CP when equipped)",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/ultra-ringmaster-locks/UltraRingmasterLocksN.png",
+        "http://aqwwiki.wdfiles.com/local--files/ultra-ringmaster-locks/UltraRingmasterLocksO.png",
+        "http://aqwwiki.wdfiles.com/local--files/ultra-ringmaster-locks/UltraRingmasterLocksF.png"
+    ],
+    "hash": "1fe1844061b3b0434364c0c5184690c6"
+}

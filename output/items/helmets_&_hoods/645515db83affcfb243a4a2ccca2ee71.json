@@ -1,0 +1,16 @@
+{
+    "urlName": "oathbreaker-helm",
+    "url": "http://aqwwiki.wikidot.com/oathbreaker-helm",
+    "name": "Oathbreaker Helm",
+    "type": "helmets_&_hoods",
+    "description": "Some of the fiercest and deadliest pirates to sail the straights of Lore. You do not want to fall onto their bad side, those who have took a long walk off a shod plank.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/Hzqzit9.png"
+    ],
+    "hash": "645515db83affcfb243a4a2ccca2ee71"
+}

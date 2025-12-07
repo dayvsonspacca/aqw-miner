@@ -1,0 +1,16 @@
+{
+    "urlName": "lightning-mage-hat-scarf",
+    "url": "http://aqwwiki.wikidot.com/lightning-mage-hat-scarf",
+    "name": "Lightning Mage Hat + Scarf",
+    "type": "helmets_&_hoods",
+    "description": "Seize the power of lightning from the sky! Using electrical magic hamess the bolts and from them into weapons.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/J7GvoZ0.png"
+    ],
+    "hash": "b83b5499e4910ce4413bcdbd9e0a1c83"
+}

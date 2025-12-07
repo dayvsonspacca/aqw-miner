@@ -1,0 +1,16 @@
+{
+    "urlName": "burning-sun-helmet-merge",
+    "url": "http://aqwwiki.wikidot.com/burning-sun-helmet-merge",
+    "name": "Burning Sun Helmet (Merge)",
+    "type": "helmets_&_hoods",
+    "description": "The sun shines brightly over the island of Yokai, thanks in large part to the patronage of the Sunlord and Sunlady. Show respect to those who renew the light at the beginning of each day!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/burning-sun-helmet-merge/BurningSunHelmet.png"
+    ],
+    "hash": "dd3dd9f5da9259202da129d2f33bdf5d"
+}

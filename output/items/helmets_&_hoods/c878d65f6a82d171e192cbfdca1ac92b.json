@@ -1,0 +1,16 @@
+{
+    "urlName": "tactical-agent-alpha-locks",
+    "url": "http://aqwwiki.wikidot.com/tactical-agent-alpha-locks",
+    "name": "Tactical Agent Alpha Locks",
+    "type": "helmets_&_hoods",
+    "description": "Dangerous hot spots like haunted houses and evil lairs are filled with traps. Make you don't get crushed into an agent-sandwich.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/MQJDo6p.png"
+    ],
+    "hash": "c878d65f6a82d171e192cbfdca1ac92b"
+}

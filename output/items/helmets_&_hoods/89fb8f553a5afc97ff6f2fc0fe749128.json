@@ -1,0 +1,15 @@
+{
+    "urlName": "chaos-hydraslayer-helm",
+    "url": "http://aqwwiki.wikidot.com/chaos-hydraslayer-helm",
+    "name": "Chaos HydraSlayer Helm",
+    "type": "helmets_&_hoods",
+    "description": "Crafted from the scales of the Hydra, everyone will know which gallant warrior slayed the ferocious beast!",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/rSCunQx.png"
+    ],
+    "hash": "89fb8f553a5afc97ff6f2fc0fe749128"
+}

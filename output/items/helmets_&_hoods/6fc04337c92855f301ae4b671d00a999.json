@@ -1,0 +1,15 @@
+{
+    "urlName": "chaos-cannoneer-helm",
+    "url": "http://aqwwiki.wikidot.com/chaos-cannoneer-helm",
+    "name": "Chaos Cannoneer Helm",
+    "type": "helmets_&_hoods",
+    "description": "You've got eyes made of lasers\u2026 train them on your opponents!",
+    "rarity": "Artifact Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/G8M7rdk.png"
+    ],
+    "hash": "6fc04337c92855f301ae4b671d00a999"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "twisted-jester-helm",
+    "url": "http://aqwwiki.wikidot.com/twisted-jester-helm",
+    "name": "Twisted Jester Helm",
+    "type": "helmets_&_hoods",
+    "description": "You mock my pain! Life is pain, anyone who says otherwise is obviously selling something!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/Cziwckj.png"
+    ],
+    "hash": "2b50fd7484f1780d08a5bbba78c7d826"
+}

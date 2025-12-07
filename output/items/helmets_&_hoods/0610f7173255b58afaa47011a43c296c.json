@@ -1,0 +1,15 @@
+{
+    "urlName": "skyguard-captain-hat",
+    "url": "http://aqwwiki.wikidot.com/skyguard-captain-hat",
+    "name": "Skyguard Captain Hat",
+    "type": "helmets_&_hoods",
+    "description": "Only the highest ranking Skyguards are allowed to wear such a renowned hat.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/skyguard-captain-hat/SkyguardCaptainHat.png"
+    ],
+    "hash": "0610f7173255b58afaa47011a43c296c"
+}

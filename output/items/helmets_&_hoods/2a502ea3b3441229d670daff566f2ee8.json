@@ -1,0 +1,16 @@
+{
+    "urlName": "deathwalker-helm-ac",
+    "url": "http://aqwwiki.wikidot.com/deathwalker-helm-ac",
+    "name": "Deathwalker Helm (AC)",
+    "type": "helmets_&_hoods",
+    "description": "There is no force greater than death. Use it to dominate your enemies.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://imgur.com/fZXG0M7.png"
+    ],
+    "hash": "2a502ea3b3441229d670daff566f2ee8"
+}

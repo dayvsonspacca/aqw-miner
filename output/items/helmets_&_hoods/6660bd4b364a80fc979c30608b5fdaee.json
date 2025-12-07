@@ -1,0 +1,16 @@
+{
+    "urlName": "dark-cyber-reaver-helm",
+    "url": "http://aqwwiki.wikidot.com/dark-cyber-reaver-helm",
+    "name": "Dark Cyber Reaver Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Cyber Void Fiend's face. Razor teeth made of the matrix itself.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/dark-cyber-reaver-helm/DarkCyberReaverHelm.png"
+    ],
+    "hash": "6660bd4b364a80fc979c30608b5fdaee"
+}

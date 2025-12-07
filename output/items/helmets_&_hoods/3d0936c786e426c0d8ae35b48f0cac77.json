@@ -1,0 +1,16 @@
+{
+    "urlName": "celestial-commander-s-hat",
+    "url": "http://aqwwiki.wikidot.com/celestial-commander-s-hat",
+    "name": "Celestial Commander's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Whether you sail the seas or the skies, victory is always within your reach.(Item does 30% more damage to all tagged monsters when equipped.)",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/ECc480y.png"
+    ],
+    "hash": "3d0936c786e426c0d8ae35b48f0cac77"
+}

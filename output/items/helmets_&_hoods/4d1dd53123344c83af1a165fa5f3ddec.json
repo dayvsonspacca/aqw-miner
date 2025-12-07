@@ -1,0 +1,16 @@
+{
+    "urlName": "turkey-head",
+    "url": "http://aqwwiki.wikidot.com/turkey-head",
+    "name": "Turkey Head",
+    "type": "helmets_&_hoods",
+    "description": "A fowl beast approaches! It doesn't take a genius to figure out it works well with the turkey suit.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/pykmlqd.png"
+    ],
+    "hash": "4d1dd53123344c83af1a165fa5f3ddec"
+}

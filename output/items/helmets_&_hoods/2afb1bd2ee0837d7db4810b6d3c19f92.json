@@ -1,0 +1,16 @@
+{
+    "urlName": "prismatic-dragonrune-locks",
+    "url": "http://aqwwiki.wikidot.com/prismatic-dragonrune-locks",
+    "name": "Prismatic Dragonrune Locks",
+    "type": "helmets_&_hoods",
+    "description": "The Sorting Helm allows you to decide what Dragonrune house you will preside in.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/prismatic-dragonrune-locks/PrismaticDragonruneLocks.png"
+    ],
+    "hash": "2afb1bd2ee0837d7db4810b6d3c19f92"
+}

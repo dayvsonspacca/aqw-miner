@@ -1,0 +1,15 @@
+{
+    "urlName": "jouster-helm",
+    "url": "http://aqwwiki.wikidot.com/jouster-helm",
+    "name": "Jouster Helm",
+    "type": "helmets_&_hoods",
+    "description": "Wear your crest proudly!",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/ukpC42f.png"
+    ],
+    "hash": "10a7b1c9bf17975ea2d8a2357b1f1e2e"
+}

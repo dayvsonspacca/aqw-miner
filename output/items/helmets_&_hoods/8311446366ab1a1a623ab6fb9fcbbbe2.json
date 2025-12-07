@@ -1,0 +1,16 @@
+{
+    "urlName": "seraph-s-helm",
+    "url": "http://aqwwiki.wikidot.com/seraph-s-helm",
+    "name": "Seraph's Helm",
+    "type": "helmets_&_hoods",
+    "description": "Warriors who swear to fight for Laken are bestowed this helm.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/lViYOGk.png"
+    ],
+    "hash": "8311446366ab1a1a623ab6fb9fcbbbe2"
+}

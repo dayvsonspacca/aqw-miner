@@ -1,0 +1,16 @@
+{
+    "urlName": "chaos-battlecrown",
+    "url": "http://aqwwiki.wikidot.com/chaos-battlecrown",
+    "name": "Chaos Battlecrown",
+    "type": "helmets_&_hoods",
+    "description": "A Magus Battlecrown, stained with the sins of the wearer.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/chaos-battlecrown/ChaosBattlecrown.png"
+    ],
+    "hash": "f1157150431f9fb935b216814f72452b"
+}

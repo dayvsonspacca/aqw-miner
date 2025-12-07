@@ -1,0 +1,15 @@
+{
+    "urlName": "elven-heritage-helm",
+    "url": "http://aqwwiki.wikidot.com/elven-heritage-helm",
+    "name": "Elven Heritage Helm",
+    "type": "helmets_&_hoods",
+    "description": "The elves hiding in greenguard's forests fitted this helm with an enchanted gem. It was meant to protect their kin from the horrors that made the elves of the coast disappear.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/oc86Clb.png"
+    ],
+    "hash": "ad43bf531078090b445cbfea715f2098"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "zardrider-hat",
+    "url": "http://aqwwiki.wikidot.com/zardrider-hat",
+    "name": "ZardRider Hat",
+    "type": "helmets_&_hoods",
+    "description": "A proper hat for a proper Zard tamer. You cannot ride a Zard without taming it. And you cannot tame without such a hat. Don the hat, get the Zard, ride into battle and save the day!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/zardrider-hat/ZardRiderHat.png"
+    ],
+    "hash": "09788d95da87e4ec56686974df53288f"
+}

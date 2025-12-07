@@ -1,0 +1,16 @@
+{
+    "urlName": "lucky-hat",
+    "url": "http://aqwwiki.wikidot.com/lucky-hat",
+    "name": "Lucky Hat",
+    "type": "helmets_&_hoods",
+    "description": "Whenever you own this hat, you are guaranteed to have good luck! Double your Golden Ticket earnings instantly in the Shamrock Fair!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://i.imgur.com/Jb1EomI.png"
+    ],
+    "hash": "5d0719fb6d045c1d3a0d8134a4aa902a"
+}

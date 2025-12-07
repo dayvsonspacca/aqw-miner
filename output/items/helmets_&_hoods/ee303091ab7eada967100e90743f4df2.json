@@ -1,0 +1,16 @@
+{
+    "urlName": "hailstone-helm",
+    "url": "http://aqwwiki.wikidot.com/hailstone-helm",
+    "name": "Hailstone Helm",
+    "type": "helmets_&_hoods",
+    "description": "When wavy hair is frozen to the last strand, there's no way it can be whipped when the head is moving. However, the hair is still radiant and pure white like the snow.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal"
+    ],
+    "images": [
+        "http://imgur.com/EMu3fEb.png"
+    ],
+    "hash": "ee303091ab7eada967100e90743f4df2"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "terran-dragonlord-helm",
+    "url": "http://aqwwiki.wikidot.com/terran-dragonlord-helm",
+    "name": "Terran Dragonlord Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Dragonlord's sturdy wooden armor is made from the unique scales of their dragon. Surprisingly fire-resistant thanks its ability to retain water.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/vhyKF90.png"
+    ],
+    "hash": "d9c748ed82fa652a11d814a9ba5a9fb0"
+}

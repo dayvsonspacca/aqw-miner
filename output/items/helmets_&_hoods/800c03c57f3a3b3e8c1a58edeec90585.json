@@ -1,0 +1,15 @@
+{
+    "urlName": "crimson-spitfire-helm",
+    "url": "http://aqwwiki.wikidot.com/crimson-spitfire-helm",
+    "name": "Crimson SpitFire Helm",
+    "type": "helmets_&_hoods",
+    "description": "Donned by members of the SpitFire, this helm represents their allegiances to the Crimson clan.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/96FG2TA.png"
+    ],
+    "hash": "800c03c57f3a3b3e8c1a58edeec90585"
+}

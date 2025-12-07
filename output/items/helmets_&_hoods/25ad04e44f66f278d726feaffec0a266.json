@@ -1,0 +1,17 @@
+{
+    "urlName": "turkeyslayer-hat",
+    "url": "http://aqwwiki.wikidot.com/turkeyslayer-hat",
+    "name": "TurkeySlayer Hat",
+    "type": "helmets_&_hoods",
+    "description": "This buckled hat symbollizes the TurkeySlayers who first settled and colonized Battleon.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Legend",
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/E6u11Bz.png"
+    ],
+    "hash": "25ad04e44f66f278d726feaffec0a266"
+}

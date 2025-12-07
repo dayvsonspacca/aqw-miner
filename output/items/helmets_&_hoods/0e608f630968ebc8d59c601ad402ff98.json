@@ -1,0 +1,16 @@
+{
+    "urlName": "togrulek-helm",
+    "url": "http://aqwwiki.wikidot.com/togrulek-helm",
+    "name": "Togrulek Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Mog is strong with this one.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/togrulek-helm/TogrulekHelm.png"
+    ],
+    "hash": "0e608f630968ebc8d59c601ad402ff98"
+}

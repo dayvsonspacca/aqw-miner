@@ -1,0 +1,16 @@
+{
+    "urlName": "fiendish-face",
+    "url": "http://aqwwiki.wikidot.com/fiendish-face",
+    "name": "Fiendish Face",
+    "type": "helmets_&_hoods",
+    "description": "You've got a face that not even your mother could love. How wicked!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/fiendish-face/FF.png"
+    ],
+    "hash": "3a27aa22b0acd8ce4066688e05e99c3b"
+}

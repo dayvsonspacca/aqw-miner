@@ -1,0 +1,16 @@
+{
+    "urlName": "frigid-krampus-morph",
+    "url": "http://aqwwiki.wikidot.com/frigid-krampus-morph",
+    "name": "Frigid Krampus Morph",
+    "type": "helmets_&_hoods",
+    "description": "If you leave the lights on for too long, Krampus and his minions will steal you out of your bed. Then, they'll boil you in evil potions to create a new member of their herd.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/CtF4x45.png"
+    ],
+    "hash": "cdd69b88045146a32835d032807a0a48"
+}

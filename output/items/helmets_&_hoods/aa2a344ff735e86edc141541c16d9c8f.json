@@ -1,0 +1,17 @@
+{
+    "urlName": "eagle-eye-archer-helm-5",
+    "url": "http://aqwwiki.wikidot.com/eagle-eye-archer-helm-5",
+    "name": "Eagle-Eye Archer Helm +5",
+    "type": "helmets_&_hoods",
+    "description": "Nothing escapes your gaze. You can spot a dead man from a thousand paces. And if he's not dead, well, you can fix that.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/eagle-eye-archer-helm-5/EagleEyeArcherHelmN.png",
+        "http://aqwwiki.wdfiles.com/local--files/eagle-eye-archer-helm-5/EagleEyeArcherHelmOlder.png"
+    ],
+    "hash": "aa2a344ff735e86edc141541c16d9c8f"
+}

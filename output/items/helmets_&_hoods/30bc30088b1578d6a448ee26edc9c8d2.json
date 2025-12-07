@@ -1,0 +1,16 @@
+{
+    "urlName": "field-guardian-hat",
+    "url": "http://aqwwiki.wikidot.com/field-guardian-hat",
+    "name": "Field Guardian Hat",
+    "type": "helmets_&_hoods",
+    "description": "The perfect hat for every hard-working Field Guardian. Comes standard with a brain.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Seasonal",
+        "Rare"
+    ],
+    "images": [
+        "http://i.imgur.com/thrbYKD.png"
+    ],
+    "hash": "30bc30088b1578d6a448ee26edc9c8d2"
+}

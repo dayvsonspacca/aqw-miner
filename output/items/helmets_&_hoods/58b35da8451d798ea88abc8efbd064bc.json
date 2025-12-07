@@ -1,0 +1,16 @@
+{
+    "urlName": "marauder-s-hat",
+    "url": "http://aqwwiki.wikidot.com/marauder-s-hat",
+    "name": "Marauder's Hat",
+    "type": "helmets_&_hoods",
+    "description": "Under a black flag we sail and the sea shall be our empire! No ship be safe from our guns, an' glory an' gold be the treasure we seek.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/hrCX8y5.png"
+    ],
+    "hash": "58b35da8451d798ea88abc8efbd064bc"
+}

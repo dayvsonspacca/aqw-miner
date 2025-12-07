@@ -1,0 +1,16 @@
+{
+    "urlName": "gold-jamboree-top-hat",
+    "url": "http://aqwwiki.wikidot.com/gold-jamboree-top-hat",
+    "name": "Gold Jamboree Top Hat",
+    "type": "helmets_&_hoods",
+    "description": "A pure gold gentleman's hat, softer than velvet.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/8VASLpF.png"
+    ],
+    "hash": "acb99fb76d28202b1db7562a6863c145"
+}

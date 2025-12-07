@@ -1,0 +1,16 @@
+{
+    "urlName": "yellow-coward-hood",
+    "url": "http://aqwwiki.wikidot.com/yellow-coward-hood",
+    "name": "Yellow Coward Hood",
+    "type": "helmets_&_hoods",
+    "description": "Yellow is the color of buttercups, sunshine, and cowards. If you are as delicate as a flower soaking up the sun, then this is the coward's helm for you!",
+    "rarity": "Event Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/yellow-coward-hood/YellowCowardHood.png"
+    ],
+    "hash": "0b35ee8ad3b60864831b29b931ddc5a0"
+}

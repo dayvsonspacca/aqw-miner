@@ -1,0 +1,16 @@
+{
+    "urlName": "os-founder-helm",
+    "url": "http://aqwwiki.wikidot.com/os-founder-helm",
+    "name": "OS Founder Helm",
+    "type": "helmets_&_hoods",
+    "description": "Founder Knights never enter combat without the head rainment of their ancient order. The people of Oversoul recognize this helm as a sign of their group keeping order through the lands.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/os-founder-helm/OSFounderHelm.png"
+    ],
+    "hash": "2e4693410822b8e7880a61b874e3d860"
+}

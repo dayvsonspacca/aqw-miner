@@ -1,0 +1,15 @@
+{
+    "urlName": "war-room-helm",
+    "url": "http://aqwwiki.wikidot.com/war-room-helm",
+    "name": "War Room Helm",
+    "type": "helmets_&_hoods",
+    "description": "THIS IS LORE! Tonight we shall dine in the SECRET UNDERGROUND LAB!",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/NhFEXYs.png"
+    ],
+    "hash": "ce6c6a352cf868b146432d2376019227"
+}

@@ -1,0 +1,16 @@
+{
+    "urlName": "elementary-student-hat",
+    "url": "http://aqwwiki.wikidot.com/elementary-student-hat",
+    "name": "Elementary Student Hat",
+    "type": "helmets_&_hoods",
+    "description": "This hat is worn by elementary school age students in Swordhaven's Hero Academy when they aren't in combat training.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/5f95YPA.png"
+    ],
+    "hash": "499a62b9ac1538bf527bea568760267e"
+}

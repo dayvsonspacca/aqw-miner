@@ -1,0 +1,16 @@
+{
+    "urlName": "galactic-tricorn",
+    "url": "http://aqwwiki.wikidot.com/galactic-tricorn",
+    "name": "Galactic Tricorn",
+    "type": "helmets_&_hoods",
+    "description": "For ye Galactic Naval Commanders who be out of this world, wear ye Tricorn 'n bandana in pride.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/galactic-tricorn/GalacticTricorn.png"
+    ],
+    "hash": "db2ed9ff7333c08acc5dc5495e1341c0"
+}

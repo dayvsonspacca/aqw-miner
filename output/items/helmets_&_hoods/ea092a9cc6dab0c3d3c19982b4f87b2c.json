@@ -1,0 +1,16 @@
+{
+    "urlName": "paper-tiger-helm",
+    "url": "http://aqwwiki.wikidot.com/paper-tiger-helm",
+    "name": "Paper Tiger Helm",
+    "type": "helmets_&_hoods",
+    "description": "Intelligent and fast learners, Tiger seek challenges and thrive by working alone, never giving up until the task at hand/paw is completed. Happy New Year!",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/paper-tiger-helm/PaperTigerHelm.png"
+    ],
+    "hash": "ea092a9cc6dab0c3d3c19982b4f87b2c"
+}

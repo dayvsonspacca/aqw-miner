@@ -1,0 +1,16 @@
+{
+    "urlName": "calavera-head-legend",
+    "url": "http://aqwwiki.wikidot.com/calavera-head-legend",
+    "name": "Calavera Head (Legend)",
+    "type": "helmets_&_hoods",
+    "description": "Who's the man behind the machine? It's Calavera, and when you click on the helm, the pilot will make his grand appearance! Click again to stow him safely for battle.",
+    "rarity": "Awesome Rarity",
+    "tags": [
+        "Legend"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/calavera-head-legend/CalaveraHeadNormal.png",
+        "http://aqwwiki.wdfiles.com/local--files/calavera-head-legend/CalaveraHeadWCO.png"
+    ],
+    "hash": "ca3594ad6bad73870efe8d5f662e063c"
+}

@@ -1,0 +1,15 @@
+{
+    "urlName": "arch-doomknight-open-helm",
+    "url": "http://aqwwiki.wikidot.com/arch-doomknight-open-helm",
+    "name": "Arch DoomKnight Open Helm",
+    "type": "helmets_&_hoods",
+    "description": "The Arch Doomknights were once a duo of corrupt dragonslayers who traded their lives to become death knights in their quest for power and fame.",
+    "rarity": "Epic Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "https://i.imgur.com/6l3KcFf.png"
+    ],
+    "hash": "da32ff16404768513406f68f5604a9de"
+}

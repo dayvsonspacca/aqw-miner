@@ -1,0 +1,16 @@
+{
+    "urlName": "blessed-knight-ponytail",
+    "url": "http://aqwwiki.wikidot.com/blessed-knight-ponytail",
+    "name": "Blessed Knight Ponytail",
+    "type": "helmets_&_hoods",
+    "description": "These rare Knights are affiliated with the Order of Paladins, but channel a special type of light magic which melds with their armor, hair, and weapons over time.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/blessed-knight-ponytail/BlessedKnightPonytail.png"
+    ],
+    "hash": "9e15d24a5ebd156a25938dd9f86071a9"
+}

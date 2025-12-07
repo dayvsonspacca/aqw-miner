@@ -1,0 +1,16 @@
+{
+    "urlName": "waddles-helm",
+    "url": "http://aqwwiki.wikidot.com/waddles-helm",
+    "name": "Waddles Helm",
+    "type": "helmets_&_hoods",
+    "description": "Just a little guy. A shy wittle baby.",
+    "rarity": "Seasonal Item Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Seasonal"
+    ],
+    "images": [
+        "https://i.imgur.com/aezmjL0.png"
+    ],
+    "hash": "aa0f98f68a983542ec1b3717e296daed"
+}

@@ -1,0 +1,17 @@
+{
+    "urlName": "brightoak-avenger-s-hair",
+    "url": "http://aqwwiki.wikidot.com/brightoak-avenger-s-hair",
+    "name": "Brightoak Avenger's Hair",
+    "type": "helmets_&_hoods",
+    "description": "The bright sky will reflect the helm gracefully unless it's a rainy day. Then it will be the only object that shines.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Legend",
+        "Rare"
+    ],
+    "images": [
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-avenger-s-hair/BAHairNew.png",
+        "http://aqwwiki.wdfiles.com/local--files/brightoak-avenger-s-hair/BrightoakAvenger'sHair.png"
+    ],
+    "hash": "90aad71ac65cd02c592b16ad86398f6c"
+}

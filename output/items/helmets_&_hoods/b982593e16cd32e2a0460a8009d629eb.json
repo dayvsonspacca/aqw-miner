@@ -1,0 +1,15 @@
+{
+    "urlName": "mad-goggles",
+    "url": "http://aqwwiki.wikidot.com/mad-goggles",
+    "name": "Mad Goggles",
+    "type": "helmets_&_hoods",
+    "description": "Because these are used by mad scientists!",
+    "rarity": "Weird Rarity",
+    "tags": [
+        "Adventure Coins"
+    ],
+    "images": [
+        "http://i.imgur.com/ss5O2BO.png"
+    ],
+    "hash": "b982593e16cd32e2a0460a8009d629eb"
+}

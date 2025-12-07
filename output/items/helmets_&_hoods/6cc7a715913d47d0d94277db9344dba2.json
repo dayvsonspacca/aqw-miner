@@ -1,0 +1,16 @@
+{
+    "urlName": "fintech-razrblade-helm",
+    "url": "http://aqwwiki.wikidot.com/fintech-razrblade-helm",
+    "name": "FinTech Razrblade Helm",
+    "type": "helmets_&_hoods",
+    "description": "This helm is designed for high-intensity aquatic combat, and provides precise navigational data to perform quick turns and attacks. Warning - systems will fail if you get flipped upside down.",
+    "rarity": "Rare Rarity",
+    "tags": [
+        "Adventure Coins",
+        "Rare"
+    ],
+    "images": [
+        "https://i.imgur.com/jBiTUmf.png"
+    ],
+    "hash": "6cc7a715913d47d0d94277db9344dba2"
+}
